@@ -1,0 +1,152 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AI Regulatory Query System</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 20px;
+            line-height: 1.6;
+        }
+        h1 {
+            color: #2c3e50;
+        }
+        .chat-container {
+            margin-top: 20px;
+            border: 1px solid #ddd;
+            border-radius: 5px;
+            padding: 20px;
+            max-height: 400px;
+            overflow-y: auto;
+        }
+        .message {
+            margin-bottom: 15px;
+            padding: 10px;
+            border-radius: 5px;
+        }
+        .user {
+            background-color: #f1f0f0;
+            text-align: right;
+        }
+        .assistant {
+            background-color: #e3f2fd;
+        }
+        .sources {
+            margin-top: 10px;
+            font-size: 0.9em;
+            border-top: 1px solid #ddd;
+            padding-top: 5px;
+        }
+        .source-item {
+            margin: 5px 0;
+        }
+        input[type="text"] {
+            width: 70%;
+            padding: 10px;
+            margin-right: 10px;
+        }
+        button {
+            padding: 10px 15px;
+            background-color: #4285f4;
+            color: white;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+        }
+    </style>
+</head>
+<body>
+    <h1>AI Regulatory Query System</h1>
+    <p>Ask questions about ESG regulations, CSRD, ESRS, or other sustainability reporting requirements.</p>
+    
+    <div class="chat-container" id="chat-container"></div>
+    
+    <div style="margin-top: 20px;">
+        <input type="text" id="query-input" placeholder="Ask about regulations...">
+        <button onclick="sendQuery()">Send</button>
+    </div>
+
+    <script>
+        const messages = [];
+        
+        function addMessage(content, role, sources = []) {
+            const message = { role, content };
+            messages.push(message);
+            
+            const chatContainer = document.getElementById('chat-container');
+            const messageElement = document.createElement('div');
+            messageElement.className = `message ${role}`;
+            messageElement.textContent = content;
+            
+            // Add sources if available
+            if (sources.length > 0) {
+                const sourcesElement = document.createElement('div');
+                sourcesElement.className = 'sources';
+                sourcesElement.innerHTML = '<strong>Sources:</strong>';
+                
+                const sourcesList = document.createElement('ul');
+                sources.forEach(source => {
+                    const sourceItem = document.createElement('li');
+                    sourceItem.className = 'source-item';
+                    sourceItem.textContent = source.title;
+                    sourcesList.appendChild(sourceItem);
+                });
+                
+                sourcesElement.appendChild(sourcesList);
+                messageElement.appendChild(sourcesElement);
+            }
+            
+            chatContainer.appendChild(messageElement);
+            chatContainer.scrollTop = chatContainer.scrollHeight;
+        }
+        
+        async function sendQuery() {
+            const input = document.getElementById('query-input');
+            const query = input.value.trim();
+            
+            if (!query) return;
+            
+            // Add user message to chat
+            addMessage(query, 'user');
+            input.value = '';
+            
+            try {
+                // Send query to API
+                const response = await fetch('/api/chat', {
+                    method: 'POST',
+                    headers: {
+                        'Content-Type': 'application/json'
+                    },
+                    body: JSON.stringify({
+                        messages: messages
+                    })
+                });
+                
+                if (!response.ok) {
+                    throw new Error(`API returned status: ${response.status}`);
+                }
+                
+                const data = await response.json();
+                
+                // Add assistant response to chat
+                addMessage(data.response, 'assistant', data.sources || []);
+                
+            } catch (error) {
+                console.error('Error:', error);
+                addMessage(`Error: ${error.message}. Please check if the backend server is running.`, 'assistant');
+            }
+        }
+        
+        // Allow sending messages with Enter key
+        document.getElementById('query-input').addEventListener('keypress', function(e) {
+            if (e.key === 'Enter') {
+                sendQuery();
+            }
+        });
+    </script>
+</body>
+</html> 

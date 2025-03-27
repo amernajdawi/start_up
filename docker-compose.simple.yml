@@ -1,0 +1,31 @@
+version: '3.8'
+
+services:
+  backend:
+    build:
+      context: ./backend
+      dockerfile: Dockerfile.simple
+    container_name: regulatory-backend
+    ports:
+      - "8000:8000"
+    environment:
+      - PORT=8000
+    networks:
+      - regulatory-network
+
+  frontend:
+    image: nginx:alpine
+    container_name: regulatory-frontend
+    volumes:
+      - ./frontend/src:/usr/share/nginx/html
+      - ./nginx.conf:/etc/nginx/conf.d/default.conf
+    ports:
+      - "80:80"
+    depends_on:
+      - backend
+    networks:
+      - regulatory-network
+
+networks:
+  regulatory-network:
+    driver: bridge 

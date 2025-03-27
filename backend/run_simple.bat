@@ -1,0 +1,3 @@
+@echo off
+echo Starting simplified AI Regulatory Query System...
+python simple_app.py 

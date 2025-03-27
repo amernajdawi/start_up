@@ -1,8 +1,9 @@
 #!/bin/bash
-echo "Starting backend Flask API..."
 
-# Ensure dependencies are installed
-poetry install
+# Activate virtual environment if it exists
+if [ -d "venv" ]; then
+    source venv/bin/activate
+fi
 
-# Run the Flask app 
-poetry run python backend/app.py 
+# Run the FastAPI application
+uvicorn fastapi_app:app --host 0.0.0.0 --port 8000 --reload 

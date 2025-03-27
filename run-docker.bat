@@ -1,0 +1,3 @@
+@echo off
+echo Starting AI Regulatory Query System with Docker Compose...
+docker-compose -f docker-compose.simple.yml up 

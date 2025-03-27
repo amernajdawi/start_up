@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from 'react';
-import styled, { ThemeProvider } from 'styled-components';
+import styled from 'styled-components';
 import { FiSun, FiMoon, FiSettings } from 'react-icons/fi';
 import ChatWindow from './components/ChatWindow';
 import ChatInput from './components/ChatInput';
@@ -96,7 +96,7 @@ function App() {
     const [showSettings, setShowSettings] = useState(false);
     const [settings, setSettings] = useState({
         temperature: 0.7,
-        apiEndpoint: process.env.REACT_APP_API_URL || 'http://localhost:5000/chat',
+        apiEndpoint: process.env.REACT_APP_API_URL || '/api/chat',
         modelName: 'gpt-4o-mini'
     });
     const [loading, setLoading] = useState(false);

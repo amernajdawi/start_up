@@ -1,0 +1,3 @@
+@echo off
+echo Starting AI Regulatory Query System with Vector Search...
+python app.py 
