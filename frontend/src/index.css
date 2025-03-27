@@ -1,0 +1,79 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+:root {
+    --primary-color: #7e57c2;
+    --primary-light: #b085f5;
+    --primary-dark: #4d2c91;
+    --secondary-color: #03dac6;
+    --background-color: #f5f5f7;
+    --surface-color: #ffffff;
+    --error-color: #b00020;
+    --text-primary: #121212;
+    --text-secondary: #565656;
+    --text-on-primary: #ffffff;
+    --border-color: #e0e0e0;
+    --chat-user-bg: #e9e4f5;
+    --chat-assistant-bg: #f0f8ff;
+    --shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+}
+
+[data-theme="dark"] {
+    --primary-color: #bb86fc;
+    --primary-light: #e2b7ff;
+    --primary-dark: #8858c8;
+    --secondary-color: #03dac6;
+    --background-color: #121212;
+    --surface-color: #1e1e1e;
+    --error-color: #cf6679;
+    --text-primary: #ffffff;
+    --text-secondary: #b0b0b0;
+    --text-on-primary: #000000;
+    --border-color: #2c2c2c;
+    --chat-user-bg: #3a2d52;
+    --chat-assistant-bg: #2a3641;
+    --shadow: 0 2px 8px rgba(0, 0, 0, 0.4);
+}
+
+body {
+    font-family: 'Poppins', sans-serif;
+    background-color: var(--background-color);
+    color: var(--text-primary);
+    transition: all 0.3s ease;
+    min-height: 100vh;
+}
+
+button,
+input,
+textarea {
+    font-family: 'Poppins', sans-serif;
+}
+
+a {
+    color: var(--primary-color);
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+::-webkit-scrollbar {
+    width: 8px;
+}
+
+::-webkit-scrollbar-track {
+    background: var(--background-color);
+}
+
+::-webkit-scrollbar-thumb {
+    background: var(--primary-light);
+    border-radius: 4px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+    background: var(--primary-color);
+}

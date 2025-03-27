@@ -1,0 +1,75 @@
+from pydantic import BaseModel, Field
+from typing import Dict, List, Optional, Any
+
+class DocumentMetadata(BaseModel):
+    """
+    Model for regulatory document metadata.
+    """
+    filename: str
+    hierarchy_level: Optional[str] = None
+    publication_date: Optional[str] = None
+    document_type: Optional[str] = None
+    designation: Optional[str] = None
+    abbreviation: Optional[str] = None
+    publisher: Optional[str] = None
+
+class Document(BaseModel):
+    """
+    Model for a regulatory document with content and metadata.
+    """
+    metadata: DocumentMetadata
+    content: str
+    path: str
+
+class TextChunk(BaseModel):
+    """
+    Model for a chunk of text with metadata.
+    """
+    content: str
+    metadata: Dict[str, Any]
+    chunk_id: Optional[int] = None
+
+class ChunkWithEmbedding(TextChunk):
+    """
+    Model for a text chunk with its embedding vector.
+    """
+    embedding: List[float]
+
+class SearchResult(BaseModel):
+    """
+    Model for a search result.
+    """
+    content: str
+    metadata: Dict[str, Any]
+    id: str
+    distance: Optional[float] = None
+
+class Source(BaseModel):
+    """
+    Model for a source reference.
+    """
+    filename: str
+    document_type: str = "Unknown"
+    publication_date: str = "Unknown"
+    publisher: str = "Unknown"
+    section: str = "General"
+    relevance_score: float
+
+class QueryResponse(BaseModel):
+    """
+    Model for a query response.
+    """
+    answer: str
+    sources: List[Source]
+    query: str
+    context_used: Optional[int] = None
+    error: Optional[str] = None
+
+class PipelineStatistics(BaseModel):
+    """
+    Model for pipeline processing statistics.
+    """
+    documents_processed: int
+    chunks_created: int
+    embeddings_generated: int
+    vector_store_stats: Dict[str, Any] 
