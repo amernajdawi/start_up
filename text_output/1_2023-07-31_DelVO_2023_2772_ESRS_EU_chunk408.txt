@@ -1,0 +1,37 @@
+File Name: 1_2023-07-31_DelVO_2023_2772_ESRS_EU.pdf
+Converted on: 2025-03-28 03:18:14
+Original Size: 5.82 MB
+Chunk Size: 500 tokens with 50 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 408 of 686
+--------------------------------------------------------------------------------
+
+ELI: http://data.europa.eu/eli/reg_del/2023/2772/oj 174/284(b) an explanation of the methodologies and assumptions used to compile the data, including whether the number
+of non-employees is reported:
+i.in headcount or full-time equivalent (FTE) (including a definition of how FTE is defined); and
+ii.at the end of the reporting period, as an average across the reporting period, or using another methodology.
+(c) where applicable, a provision of contextual information necessary to understand the data (for example,
+significant fluctuations in the number of non-employees in the undertaking’s own workforce during the
+reporting period and between the current and the previous reporting period).
+56. For the information specified in point (a) of paragraph 55, the undertaking may disclose the most common types of
+non-employees (for example, self-employed people, people provided by undertakings primarily engaged in
+employment activities, and other types relevant to the undertaking), their relationship with the undertaking, and the
+type of work that they perform.
+57. Where data is not available, the undertaking shall estimate the number and state that it has done so. When the
+undertaking performs estimates, it shall describe the basis of preparation of this estimation.
+Disclosure Requirement S1-8 – Collective bargaining coverage and social dialogue
+58. The undertaking shall disclose information on the extent to which the working conditions and terms of
+employment of its employees are determined or influenced by collective bargaining agreements and on the
+extent to which its employees are represented in social dialogue in the European Economic Area (EEA) at
+the establishment and European level.
+59. The objective of this Disclosure Requirement is to enable an understanding of the coverage of collective bargaining
+agreements and social dialogue for the undertaking’s own employees.
+60. The undertaking shall disclose:
+(a) the percentage of its total employees covered by collective bargaining agreements;
+(b) in the EEA, whether it has one or more collective bargaining agreements and, if so, the overall percentage of its
+employees covered by such agreement(s) for each country in which it has significant employment, defined as at
+least 50 employees by head count representing at least 10% of its total number of employees; and
+(c) outside the EEA, the percentage of its own employees covered by collective bargaining agreements by region.
+61. For employees not covered by collective bargaining agreements, the undertaking may disclose whether it determines

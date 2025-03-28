@@ -1,0 +1,50 @@
+File Name: 2_ESRS2_SBM1_2006-12-20_VO_NACER2_EU.pdf
+Converted on: 2025-03-28 03:20:56
+Original Size: 0.17 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 15 of 45
+--------------------------------------------------------------------------------
+
+n.e.c. : not elsewhere classified * part of
+Division Group ClassISIC
+Rev. 4
+10.39 Other processing and preserving of fruit and vegetables 1030*
+10.4 Manufacture of vegetable and animal oils and fats
+10.41 Manufacture of oils and fats 1040*10.42 Manufacture of margarine and similar edible fats 1040*
+10.5 Manufacture of dairy products
+10.51 Operation of dairies and cheese making 1050*10.52 Manufacture of ice cream 1050*
+10.6 Manufacture of grain mill products, starches and starch products
+10.61 Manufacture of grain mill products 1061
+10.62 Manufacture of starches and starch products 1062
+10.7 Manufacture of bakery and farinaceous products
+10.71 Manufacture of bread; manufacture of fresh pastry goods and cakes 1071*10.72 Manufacture of rusks and biscuits; manufacture of preserved pastry
+goods and cakes1071*
+10.73 Manufacture of macaroni, noodles, couscous and similar farinaceous
+products1074
+10.8 Manufacture of other food products
+10.81 Manufacture of sugar 107210.82 Manufacture of cocoa, chocolate and sugar confectionery 107310.83 Processing of tea and coffee 1079*10.84 Manufacture of condiments and seasonings 1079*10.85 Manufacture of prepared meals and dishes 107510.86 Manufacture of homogenised food preparations and dietetic food 1079*10.89 Manufacture of other food products n.e.c. 1079*
+10.9 Manufacture of prepared animal feeds
+10.91 Manufacture of prepared feeds for farm animals 1080*10.92 Manufacture of prepared pet foods 1080*
+11 Manufacture of beverages
+11.0 Manufacture of beverages
+11.01 Distilling, rectifying and blending of spirits 110111.02 Manufacture of wine from grape 1102*11.03 Manufacture of cider and other fruit wines 1102*11.04 Manufacture of other non-distilled fermented beverages 1102*11.05 Manufacture of beer 1103*11.06 Manufacture of malt 1103*11.07 Manufacture of soft drinks; production of mineral waters and other
+bottled waters1104
+12 Manufacture of tobacco products
+12.0 Manufacture of tobacco products
+12.00 Manufacture of tobacco products 1200
+13 Manufacture of textiles
+13.1 Preparation and spinning of textile fibres
+13.10 Preparation and spinning of textile fibres 1311
+13.2 Weaving of textiles
+13.20 Weaving of textiles 1312
+13.3 Finishing of textiles
+13.30 Finishing of textiles 1313
+13.9 Manufacture of other textiles
+13.91 Manufacture of knitted and crocheted fabrics 139113.92 Manufacture of made-up textile articles, except apparel 1392
+13.93 Manufacture of carpets and rugs 1393
+13.94 Manufacture of cordage, rope, twine and netting 139430.12.2006 EN Official Journal of the European Union L 393/9
+
+--- Page 10 of 39 ---

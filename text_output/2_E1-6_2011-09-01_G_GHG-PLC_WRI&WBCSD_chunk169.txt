@@ -1,0 +1,63 @@
+File Name: 2_E1-6_2011-09-01_G_GHG-PLC_WRI&WBCSD.pdf
+Converted on: 2025-03-28 03:18:25
+Original Size: 3.27 MB
+Chunk Size: 500 tokens with 50 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 169 of 226
+--------------------------------------------------------------------------------
+
+[112]   Product Life Cycle Accounting and Reporting Standard
+guidanceStep 5:  Recalculate the base inventory 
+Overtime, changes and improvements may occur
+to activity data, emission factors1, data quality, and
+methodologies. When such parameter or methodological
+changes influence the results of the base inventory,
+the base inventory should be recalculated to ensure
+comparability of emissions information over time. These
+changes may include redefining attributable processes,
+collecting higher quality data, or changing allocation or
+recycling methodologies. As required above, any changes
+made that warrant recalculation of the base inventory are
+reported in the updated inventory report.  
+Before recalculating a base year inventory, companies
+should develop a recalculation policy to clearly articulate
+the basis and context for any recalculation. Companies are
+required as part of reporting (see chapter 13) to disclose
+the threshold for insignificance above which a change
+warrants recalculation. For example, if a new emission
+factor is published that when used has a one percent
+impact on the inventory results, a company may decide
+that is below the threshold and opt not to recalculate
+the base inventory. If a threshold for insignificance was
+already established for justified exclusions (see chapter 7)
+then the same threshold should be used here.
+If a change is made that causes the unit of analysis to be
+redefined, the base inventory cannot be recalculated. In
+this case, companies need to create a new base inventory
+and set a new reduction target. Step 6:  Update the inventory report
+Once reductions have occurred, new data has been
+collected, and the base inventory has been recalculated
+(if needed), the inventory report should be updated to
+include results from both the new and base inventories.
+The updated inventory report must meet the requirements
+of the reporting chapter and include the same reporting
+elements as the base inventory. The introduction should
+be updated to reflect the purpose of the update including
+the reduction target, and any information that has changed
+since the base inventory should be clearly noted. The
+number of updated inventory reports for the studied
+product should be reported, with a link to previous reports
+as available. If the base inventory is recalculated, all changes
+are listed.  If the base inventory was not recalculated, 
+companies are required to report the threshold under
+which no recalculation was warranted. In either case, both
+the base inventory results and the updated results are
+included in the updated inventory.
+In addition to the base inventory reporting requirements,
+companies should report a reduction percentage by
+taking the difference between the base inventory and the
+new inventory divided by the base inventory.
+In the case that GHG emissions have actually increased
+since the last inventory, companies should report these

@@ -1,0 +1,25 @@
+File Name: 1_2023-06-27_DelVO_2023_2486_TAXURA_EU.pdf
+Converted on: 2025-03-28 03:18:09
+Original Size: 8.44 MB
+Chunk Size: 500 tokens with 50 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 280 of 380
+--------------------------------------------------------------------------------
+
+4.For the treatment of aqueous liquid waste, the biological treatability of the waste water resulting from the treatment of
+the water-based liquid waste in a biological waste water treatment plant is judged based on the following criterion:
+Dissolved Organic Carbon DOC elimination of > 70 % in 7 days (> 80 % when adapted inoculum is used) in accordance
+with EN ISO 9888 (52)(Zahn Wellens), or other commonly accepted, equivalent industry standards and methodologies
+used to assess bio-elimination and related performances.
+5.For the treatment of waste containing Persistent Organic Pollutants (POP), all waste containing POP substances listed in
+Annex IV to Regulation (EU) 2019/1021 are controlled and traced as hazardous waste in accordance with Article 17 of
+Directive 2008/98/EC. Specific requirements of Articles 7(4), 17, 18 and 19 of Directive 2008/98/EC apply. In case of
+transboundary movement, requirements of Chapter I of the Regulation (EC) No 1013/2006 of the European Parliament
+and of the Council (53)apply.
+(50)EN 14899:2005 Characterization of waste – Sampling of waste materials – Framework for the preparation and application of a
+Sampling Plan.
+(51)EN 12457-2:2002 Characterisation of waste – Leaching – Compliance test for leaching of granular waste materials and sludges – Part 2: One stage batch test at a liquid to solid ratio of 10 l/kg for materials with particle size below 4 mm (without or with size reduction).
+(52)EN ISO 9888:1999 Water quality – Evaluation of ultimate aerobic biodegradability of organic compounds in aqueous medium – Static test (Zahn-Wellens method) (version of 27.6.2023, available at: https://www.iso.org/standard/28121.html).
+(53)Regulation (EC) No 1013/2006 of the European Parliament and of the Council of 14 June 2006 on shipments of waste (OJ L 190, 12.7.2006, p. 1).OJ L, 21.11.2023 EN

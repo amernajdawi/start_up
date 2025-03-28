@@ -1,0 +1,69 @@
+File Name: 2_E1-6_2011-09-01_G_GHG-PLC_WRI&WBCSD.pdf
+Converted on: 2025-03-28 03:20:53
+Original Size: 3.27 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 6 of 116
+--------------------------------------------------------------------------------
+
+[07]
+CHAPTER 01 Introduction
+guidanceFigure [1.1]  The relationship between the Corporate, Scope 3, and Product Standards for a company 
+manufacturing product A
+product Aupstream
+scope 3 emissionsdownstream  
+scope 3 emissionsscope 1 and 2  
+emissions
+scope 1 and 2 emissions required by the Corporate Standard
+scope 3 emissions required by the  Scope 3 Standard
+product life cycle emissions required by the  Product Standard      use end-of-life 
+1.7 Limitations  of product GHG inventories
+The Product Standard  accounts for the GHG emissions 
+and removals that occur during a product’s life cycle. A
+product assessment limited to only GHGs has the benefit
+of simplifying the analysis and producing results that can
+be clearly communicated to stakeholders. The limitation
+of a GHG-only inventory is that potential trade-offs or co-
+benefits between environmental impacts can be missed.
+Therefore, the results of a GHG-only inventory should
+not be used to communicate the overall environmental
+performance of a product. Non-GHG environmental
+impacts that occur during the life cycle of a product should
+also be considered when making decisions to reduce GHG
+emissions based on the inventory results. Examples of
+potentially significant non-GHG impacts for some products
+include ecosystem degradation, resource depletion, ozone
+depletion, and negative human health impacts. Endnotes
+1 IPCC, Summary for Policymakers (Table SPM.5: Characteristics
+of post-TAR stabilization scenarios), in Climate Change 2007:
+Mitigation. Contribution of Working Group III to the Fourth
+Assessment Report of the Intergovernmental Panel on Climate
+Change,  ed. B. Metz, O.R. Davidson, P.R. Bosch, R. Dave, L.A. 
+Meyer (Cambridge, United Kingdom and New York, NY, USA:
+Cambridge University Press, 2007).
+2   In this standard, both emissions to the atmosphere and removals 
+from the atmosphere are accounted for in order to calculate
+the total GHG inventory of a product. Removals of CO2 generally
+occur during photosynthesis.
+3   The term company is used throughout the standard to represent 
+a company or organization that may use the standard.
+4   A scope 3 category is one of 15 types of scope 3 emissions 
+organized by activities that occur upstream and downstream
+from a company’s ownership or control.
+Moreover, while this standard focuses solely on GHG
+emissions and removals, the accounting requirements
+and guidance provided can be used to collect data for
+other environmental impacts. Companies wishing to
+include non-GHG impacts along with their GHG inventory
+can do so using the same steps and methodologies
+provided in this standard. material acquisition  
+& pre-processing         production distribution   
+& storage
+
+--- Page 10 of 148 ---
+
+Defining Business Goals 02
+
+--- Page 11 of 148 ---

@@ -1,0 +1,87 @@
+File Name: 2_E1-6_2006-01-01_GHG-LuLu_WRI&WBCSD.pdf
+Converted on: 2025-03-28 03:18:22
+Original Size: 6.41 MB
+Chunk Size: 500 tokens with 50 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 63 of 88
+--------------------------------------------------------------------------------
+
+EXAMPLE :NipawinAfforestationProject 76 Y E A R
+1
+2345678910 11 12 13 14 15 16 17 18 19 20 21 TA B L E E . 1 5 GHGRemovalsforthe50th,75th,and90thPercentiles,Years1to21
+1 5 , 7 7 9 , 8 0 3 T O
+1 5 , 7 8 2 , 8 0 3
+tC O 2/h a
+3.12
+8.29
+15.11
+21.41
+26.36
+29.81
+31.79
+32.38
+32.16
+31.13
+29.63
+27.79
+25.81
+23.69
+21.67
+19.65
+17.86
+16.06
+14.48
+12.98
+05 0 T H
+P E R C E N T I L E
+tC O 2/h a
+0
+000000000000000000007 5 T H
+P E R C E N T I L E
+tC O 2/h a
+0
+000000000000000000009 0 T H
+P E R C E N T I L E
+tC O 2/h a
+0
+000000000000000000001 T O
+1 4 , 0 2 6 , 4 9 1
+tC O 2/h a
+0
+000000000000000000001 4 , 0 2 6 , 4 9 2 T O
+1 5 , 7 7 9 , 8 0 2
+tC O 2/h a
+0
+00000000000000000000
+ProjectActivity’sTotalCarbonStocks
+Finally,theproject’scarbonstocksarecalculatedbysumming
+theabove-andbelowgroundcarbonstockandthesoilcarbon
+stockchange(seetableE.18).Aftertwentyyears,thecarbon
+stockreachesasteadystateof62.66tC/ha.
+Commercialcroplandisthecurrentlanduseontheproject
+site,soalladditionalcarbonstoredfromtheprojectactivity
+hasbeenaddedtothesoilcarboncurrentlyontheland.The
+commercialcroplandwasassumedtohavehadzerotillage
+managementinthepastwhendeterminingtheequilibrium
+carbonstockattimezero.
+Theamountofcarbonalreadypresentinthesoilisthesame
+asfortheprecedingcalculationfortheproject-specific
+commercialcroplandcarbonstock.SOC=50tC/ha •0.82 •1.10 •1.0 14
+=45.10tC/ha
+Thecarbonstocksontheprojectsitearethesumoftheliving
+biomassandsoilcarbonpools,plusthecarbonstockattime
+zero.Theaveragecarbonstocksandtheassociatedchangein
+carbonstocksfortheprojectsitearegivenintableE.18.
+TableE.19showstheincreasingcarbonstocksperhectareand
+thetotalcarbonstocksfortheprojectactivity.
+TheGHGReduction
+Project-SpecificProced ure
+ThetotalcarbonstocksandGHGremovalsperhectareattrib -
+utedtotheNipawinAfforestationProjectarecalculatedin
+tablesE.18andE.19.TheGHGreductioniscalculatedasthe
+differencebetweentheprojectactivity’sGHGremovals(i.e.,
+NipawinAfforestationProject)andthebaselineGHG R A N K , m, F O R E A C H h a
+
+--- Page 79 of 100 ---

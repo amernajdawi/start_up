@@ -1,0 +1,47 @@
+File Name: 2_E1-6_2014-01-01_G_GHG-Agri_WRI&WBCSD.pdf
+Converted on: 2025-03-28 03:20:54
+Original Size: 1.75 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 19 of 65
+--------------------------------------------------------------------------------
+
+GHG accounting and reporting shall be base d on the following principles:  
+  Relevance:  The GHG inventory shall appropriate ly reflect the GHG fluxes of the 
+company and serve the decision-making needs of users – both internal and external to the
+company.   Completeness:  Companies shall account for and re port on all GHG emission sources and 
+activities within the inventory boundary, to the extent pr acticable and relevant to the
+purpose of the inventory. Any specific exclus ions shall be disclosed and justified.  
+ Consistency:  Companies shall use consistent me thodologies to allow for meaningful 
+performance tracking and comparison of GHG flux data over time, business units,
+geographies or suppliers.   Transparency:  Companies shall address all relevant issues in a factual and coherent 
+manner, based on a clear audit trail. Comp anies shall also disclose any relevant
+assumptions and make appropriate refe rences to the accounting and calculation
+methodologies and data sources used.  Accuracy:  Companies shall ensure that estimates  of GHG fluxes are as accurate as 
+possible and that they are not sy stematically over or under actu al fluxes, as far as can be
+judged. A level of accuracy is needed that will allow users to make decisions with
+reasonable confidence as to the inte grity of the reported information.  
+The accuracy of GHG flux data is a part icular concern for many agricultural GHG
+sources, including C stocks, soils, and enteri c fermentation (see Chapter 7). Reporting on
+measures taken to ensure accuracy and improve  accuracy over time can help promote the 
+credibility and enhance the tr ansparency of inventories.
+In practice, companies may encounter trade-o ffs between principles when completing an
+inventory. In particular, a co mpany may find that achieving th e most complete inventory
+requires the use of less accurate data, compromising overall accuracy. Conversely,
+
+--- Page 23 of 103 ---
+
+GHG Protocol Agricultural Guidance
+
+23
+achieving the most accurate inventory may requi re the exclusion of activities with low
+accuracy, compromising overall completeness.   Companies should balance tradeoffs between  principles depending on their individual 
+business goals. For instance, relatively less accurate data may be appropriate for the
+initial evaluation of GHG reduction opportunitie s, whereas more accurate data may be
+required to track progress toward  a specific GHG reduction target.  
+
+--- Page 24 of 103 ---
+
+GHG Protocol Agricultural Guidance

@@ -1,0 +1,23 @@
+File Name: 1_2021-06-04_DelVO_2021_2139_TAXKRA_EU.pdf
+Converted on: 2025-03-28 03:20:30
+Original Size: 2.76 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 37 of 447
+--------------------------------------------------------------------------------
+
+5. Water supply, sewerage, waste management and remediation . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  . . 90  
+5.1. Construction, extension and operation of water collection, treatment and supply systems . . . . . . . . . . . . . . . 90  
+5.2. Renewal of water collection, treatment and supply systems . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 91  
+5.3. Construction, extension and operation of waste water collection and treatment . . . . . . . . . . . . . . . . . . . . . . . 92  
+5.4. Renewal of waste water collection and treatment . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 93  
+5.5. Collection and transport of non-hazardous waste in source segregated fractions . . . . . . . . . . . . . . . . . . . . . .  95  
+5.6. Anaerobic digestion of sewage sludge . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  . . . . . . . . . . . 95  
+5.7. Anaerobic digestion of bio-waste . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  . . . . . . . . . . . . 96  
+5.8. Composting of bio-waste . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 97  
+5.9. Material recovery from non-hazardous waste . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  . . . . . . . . 98  
+5.10. Landfill gas capture and utilisation . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 99  
+5.11. Transport of CO  2 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  . . . . 100  
+5.12. Underground permanent geological storage of CO  2 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 100

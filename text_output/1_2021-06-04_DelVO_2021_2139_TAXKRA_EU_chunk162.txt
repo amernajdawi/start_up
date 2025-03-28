@@ -1,0 +1,54 @@
+File Name: 1_2021-06-04_DelVO_2021_2139_TAXKRA_EU.pdf
+Converted on: 2025-03-28 03:20:30
+Original Size: 2.76 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 162 of 447
+--------------------------------------------------------------------------------
+
+The economic activities in this category could be associated with several NACE codes, in particular F42.11,
+F42.12, F43.21, F71.1 and F71.20 in accordance with the statistical classification of economic activities established
+by Regulation (EC) No 1893/2006.  
+An economic activity in this category is an enabling activity as referred to in Article 10(1), point (i), of Regulation
+(EU) 2020/852 where it complies with the technical screening criteria set out in this Section.  
+Technical screening criteria  
+Substantial contribution to climate change mitigation  
+The infrastructure that is constructed and operated is dedicated to personal mobility or cycle logistics: pavements,
+bike lanes and pedestrian zones, electrical charging and hydrogen refuelling installations for personal mobility
+devices.  
+Do no significant harm (‘DNSH’)  
+(2) Climate change adaptation  The activity complies with the criteria set out in Appendix A to this 
+Annex.  
+(3) Sustainable use and protection of
+water and marine resources  The activity complies with the criteria set out in Appendix B to this 
+Annex.  
+(4) Transition to a circular economy  At least 70 % (by weight) of the non-hazardous construction and 
+demolition waste (excluding naturally occurring material referred to in
+category 17 05 04 in the European List of Waste established by
+Commission Decision 2000/532/EC (  271  )) generated on the construction 
+site is prepared for reuse, recycling and other material recovery, including
+backfilling operations using waste to substitute other materials, in
+accordance with the waste hierarchy and the EU Construction and
+Demolition Waste Management Protocol (  272  ). Operators limit waste 
+generation in processes related to construction and demolition, in
+accordance with the EU Construction and Demolition Waste Management
+Protocol, taking into account best available techniques and using selective
+demolition to enable removal and safe handling of hazardous substances
+and facilitate reuse and high-quality recycling by selective removal of
+materials, using available sorting systems for construction and demolition
+waste.  
+(5) Pollution prevention and control  Measures are taken to reduce noise, dust and pollutant emissions during 
+construction or maintenance works.  
+(6) Protection and restoration of
+biodiversity and ecosystems  The activity complies with the criteria set out in Appendix D to this 
+Annex.  
+___________  
+( 271  ) Commission Decision 2000/532/EC of 3 May 2000 replacing Decision 94/3/EC establishing a list of wastes pursuant to Article 1( a) 
+of Council Directive 75/442/EEC on waste and Council Decision 94/904/EC establishing a list of hazardous waste pursuant to
+Article 1(4) of Council Directive 91/689/EEC on hazardous waste (OJ L 226, 6.9.2000, p. 3).  
+( 272  ) EU Construction and Demolition Waste Protocol (version of 4.6.2021: https://ec.europa.eu/growth/content/eu-construction-and- 
+demolition-waste-protocol-0_en ).EN  L 442/118 Official Journal of the European Union 9.12.2021
+
+--- Page 119 of 349 ---

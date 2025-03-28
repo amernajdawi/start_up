@@ -1,0 +1,41 @@
+File Name: 2_E1-6_2011-09-01_G_GHG-PLC_WRI&WBCSD.pdf
+Converted on: 2025-03-28 03:18:25
+Original Size: 3.27 MB
+Chunk Size: 500 tokens with 50 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 160 of 226
+--------------------------------------------------------------------------------
+
+[105]
+CHAPTER 13 Reporting
+guidanceIt is important to recognize that public disclosure does
+not mean there is one homogenous audience with a
+uniform set of requirements. Table 13.1  lists distinct 
+audiences for a product GHG inventory report, and
+identifies how the reporting requirements can help
+address their needs. This is not an inclusive list as other
+audiences not identified here may still find value in
+reports produced following the reporting requirements
+in the Product Standard .
+13.3.3 Disclaimer
+Providing a disclaimer ensures that readers understand the
+scope and intended purpose of the inventory results and
+are aware of any limitations. (See box 13.1 for an example.)
+13.3.4 Use of results
+The audience of the public report may be most
+interested in what the company is doing, or plans to
+do, to reduce the GHG emissions associated with the
+product as a result of the inventory. Additionally, the The results presented in this report are unique to the
+assumptions and practices of company X. The results
+are not meant as a platform for comparability to other
+companies and/or products. Even for similar products,
+differences in unit of analysis, use and end-of-life stage
+profiles, and data quality may produce incomparable
+results. The reader may refer to the GHG Protocol
+Product Life Cycle Accounting and Reporting Standard
+(www.ghgprotocol.org ) for a glossary and additional
+insight into the GHG inventory process. Box [13.1] Example disclaimer
+
+--- Page 108 of 148 ---

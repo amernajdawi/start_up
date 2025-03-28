@@ -1,0 +1,70 @@
+File Name: 2_E1-6_2004-03_G_GHG-Prot_WRI&WBCSD.pdf
+Converted on: 2025-03-28 03:20:43
+Original Size: 3.51 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 58 of 104
+--------------------------------------------------------------------------------
+
+Reported information shall be “relevant, complete,
+consistent, transparent and accurate.” The GHG Protocol
+Corporate Standard requires reporting a minimum of
+scope 1 and scope 2 emissions.
+Required information
+A public GHG emissions report that is in accordancewith the
+GHG Protocol Corporate Standard shall include
+the following information:
+DESCRIPTION OF THE COMPANY AND INVENTORY BOUNDARY
+An outline of the organizational boundaries chosen,
+including the chosen consolidation approach.
+An outline of the operational boundaries chosen, and if
+scope 3 is included, a list specifying which types ofactivities are covered.
+The reporting period covered.
+INFORMATION ON EMISSIONS
+Total scope 1 and 2 emissions independent of any
+GHG trades such as sales, purchases, transfers, orbanking of allowances.
+Emissions data separately for each scope.
+Emissions data for all six GHGs separately (CO
+2, CH4,
+N2O, HFCs, PFCs, SF6) in metric tonnes and in tonnes
+of CO2equivalent.
+Year chosen as base year, and an emissions profile over
+time that is consistent with and clarifies the chosenpolicy for making base year emissions recalculations.
+Appropriate context for any significant emissions
+changes that trigger base year emissions recalculation(acquisitions/divestitures, outsourcing/insourcing,changes in reporting boundaries or calculationmethodologies, etc.).
+Emissions data for direct CO
+2emissions from biologi-
+cally sequestered carbon (e.g., CO2from burning
+biomass/biofuels), reported separately from the scopes.
+Methodologies used to calculate or measure emissions,
+providing a reference or link to any calculation tools used.
+Any specific exclusions of sources, facilities,
+and / or operations.Optional information
+A public GHG emissions report should include, whenapplicable, the following additional information:
+INFORMATION ON EMISSIONS AND PERFORMANCE
+Emissions data from relevant scope 3 emissions activi-
+ties for which reliable data can be obtained.
+Emissions data further subdivided, where this aids
+transparency, by business units/facilities, country,source types (stationary combustion, process, fugitive,etc.), and activity types (production of electricity,transportation, generation of purchased electricitythat is sold to end users, etc.).
+Emissions attributable to own generation of elec-
+tricity, heat, or steam that is sold or transferred toanother organization (see chapter 4).
+Emissions attributable to the generation of electricity,
+heat or steam that is purchased for re-sale to non-endusers (see chapter 4).
+A description of performance measured against
+internal and external benchmarks.
+Emissions from GHGs not covered by the Kyoto
+Protocol (e.g., CFCs, NO
+x,), reported separately
+from scopes.
+Relevant ratio performance indicators (e.g. emissions
+per kilowatt-hour generated, tonne of materialproduction, or sales).
+An outline of any GHG management/reduction
+programs or strategies.
+Information on any contractual provisions addressing
+GHG-related risks and obligations.
+An outline of any external assurance provided and a
+copy of any verification statement, if applicable, of thereported emissions data.CHAPTER 9 Reporting GHG Emissions 63STANDARD
+
+--- Page 66 of 116 ---

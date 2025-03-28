@@ -1,0 +1,108 @@
+File Name: 2_E1-6_2006-01-01_GHG-LuLu_WRI&WBCSD.pdf
+Converted on: 2025-03-28 03:20:49
+Original Size: 6.41 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 30 of 50
+--------------------------------------------------------------------------------
+
+afforestingcropland.Becausedeadbiomassisnotexpected
+toaccumulatetoanylargedegreeinpoplarforestsoron
+commercialcropland,itwasexcluded.
+LivingBiomass
+Carbonstocksregisternoabovegroundorbelowground
+changeovertimeoncommercialcropland,asvegetative
+matterisharvestedandremovedeachyear(IPCC2003).
+Therefore,thechangeinlivingbiomasscarbon
+=0tC/ha/yr.
+Soils
+Theaccumulationofcarbonfromzero-tillagepracticeson
+commercialcroplandintheBlackandDarkGraysoilzones
+is0.37tC/ha/yr(Boehmetal.2004),withsoilorganic
+carbonlevelsreachingasteadystateafterapproximately
+twentyyears.
+Therefore,assumingthesoilsareinequilibrium,thechange
+insoilcarbonovertimeis0tC/ha/yr.
+Thechangeincarbonstocksoncommercialcropland
+=changeinlivingbiomass+changeinsoilcarbon
+=0tC/ha/yr+0tC/ha/yr
+=0tC/ha/yr
+ThebaselineGHGremovals/ha/yr
+=0tC/ha/yr•44—12 tCO 2/tcarbon
+=0tCO 2/ha/yr
+TotalBaselineCarbonStocks
+Toestimatethetotalcarbonstocksstoredforcommercial
+cropland,thechangeincarbonstockeachyearisaddedtothe
+equilibriumcarbonstocksfortheprojectlifetime.Because
+totalbaselinecarbonstockinformationisnotusedincalculat -
+ingtheGHGreduction,thisinformationneednotbetranslated
+totCO 2unlessspecificallyrequiredbyaGHGprogram.Equilibriumcarbonstocksrefertothecarbonstoredattime
+zerooftheproject’simplementationandisassumedto
+remainconstantovertimeaslongasthereisnochangein
+landuseormanagement.Becauselivingbiomassdoesnot
+accumulateoncommercialcropland,onlysoilcarbonis
+includedintheequilibriumcarbonstocks.
+Theequilibriumsoilcarbonstockswereestimatedusingthe
+IPCC’smethodsforcalculatingsoilorganiccarbon(SOC)at
+thebeginningoftheinventoryperiod(IPCC2003).
+SOC=SOC REF •FLU •FMG •FI
+where
+SOC=soilorganiccarbonintheinventoryyear,tC/ha
+SOC REF =thereferencesoilcarbonstock,tC/ha
+FLU =carbonstockchangefactorforlanduseorland-
+usechangetype,dimensionless 7
+FMG =carbonstockchangefactorformanagement
+regime,dimensionless
+FI=carbonstockchangefactorforinputoforganic
+matter,dimensionless
+ForaChernozemintheBlacksoilzoneoraLuvisolinthe
+DarkGraysoilzoneinacold,drytemperateclimate,
+SOC REF is50tC/ha.Basedononehectareoflandunder
+zero-tillagelong-termannualcroppingwithmediumcarbon
+inputlevels,thesoilorganiccarbonatthebeginningofthe
+inventoryperiodis
+SOC=50tC/ha •0.82 •1.10 •1.0 8
+=45.10tC/ha
+Therefore,theequilibriumcarbonstock=45.10tC/ha.
+Eachyearthechangeincarbonstockforthatyearisthe
+newcarbonstoredinthebiologicalsystem.Foreachtime
+periodthecarbonstockperhectareistheequilibrium
+carbonstockplusallthecarbonstoredfrompreviousyears.
+Theannualchangeincarbonstocksisaddedtotheequilib -
+EXAMPLE :NipawinAfforestationProject 68
+B A S E L I N E S C E N A R I O
+BaselineCandidate 1:Commercialcropland
+(continuationofcurrentactivities)
+BaselineCandidate 2:Tamepastureland
+BaselineCandidate 3:Hybridpoplarforest
+(projectactivity)
+BaselineCandidate 4:Development B A R R I E R 1 :
+F I N A N C I A L /
+B U D G E TA RY ( H )
+Notpresent
+Low
+High
+High B A R R I E R 3 :
+I N F R A -
+S T R U C T U R E ( M )
+Notpresent
+Notpresent
+Notpresent
+Low B A R R I E R 2 :
+T E C H N O L O G Y
+O & M ( M )
+Notpresent
+Notpresent
+Medium
+Medium B A R R I E R 4 :
+M A R K E T
+S T R U C T U R E ( L )
+Notpresent
+Notpresent
+Medium
+Low TA B L E E . 6 CumulativeImportance ofBarriers forEach Baseline Scenario
+Note:Therelativeimportanceofthebarrierscomparedwithoneanother:H=significantbarrier,M=moderatelysignificantbarrier,L=lesssignificantbarrier.
+
+--- Page 71 of 100 ---

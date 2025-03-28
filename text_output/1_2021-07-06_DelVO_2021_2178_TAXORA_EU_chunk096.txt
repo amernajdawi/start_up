@@ -1,0 +1,32 @@
+File Name: 1_2021-07-06_DelVO_2021_2178_TAXORA_EU.pdf
+Converted on: 2025-03-28 01:55:32
+Original Size: 10.30 MB
+Chunk Size: 400 tokens with 50 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 96 of 101
+--------------------------------------------------------------------------------
+
+undertakings not subject to Articles 19a and 29a of Directive 2013/34/EU:
+For non-financial undertakings: [monetary amount]
+For financial undertakings: [monetary amount]
+The proportion of exposures to financial and non-financial
+undertakings from non-EU countries not subject to Articles
+19a and 29a of Directive 2013/34/EU over total assets covered
+by the KPI:For non-financial undertakings:
+For financial undertakings:Value of exposures to financial and non-financial
+undertakings from non-EU countries not subject to
+Articles 19a and 29a of Directive 2013/34/EU:
+For non-financial undertakings: [monetary amount]
+For financial undertakings: [monetary amount]
+The proportion of exposures to financial and non-financial
+undertakings subject to Articles 19a and 29a of Directive  2013/34/EU over total assets covered by the KPI:
+For non-financial undertakings: X %For financial undertakings: X %Value of exposures to financial and non-financial
+undertakings subject to Articles 19a and 29a of Directive 2013/34/EU:
+For non-financial undertakings: [monetary amount]
+For financial undertakings: [monetary amount]
+The proportion of exposures to other counterparties over total
+assets covered by the KPI:
+X %Value of exposures to other counterparties:
+[monetary amount]EN Official Journal of the European Union L 443/64 10.12.2021

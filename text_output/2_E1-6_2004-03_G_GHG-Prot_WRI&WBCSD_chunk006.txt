@@ -1,0 +1,43 @@
+File Name: 2_E1-6_2004-03_G_GHG-Prot_WRI&WBCSD.pdf
+Converted on: 2025-03-28 03:20:43
+Original Size: 3.51 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 6 of 104
+--------------------------------------------------------------------------------
+
+GUIDANCE
+CHAPTER 1 8GHG Accounting and Reporting Principles
+hese principles are intended to underpin all aspects
+of GHG accounting and reporting. Their applicationwill ensure that the GHG inventory constitutes a true
+and fair representation of the company’s GHG emissions.Their primary function is to guide the implementation ofthe
+GHG Protocol Corporate Standard , particularly when
+the application of the standards to specific issues or situa-tions is ambiguous.
+Relevance
+For an organization’s GHG report to be relevant meansthat it contains the information that users—bothinternal and external to the company—need for theirdecision making. An important aspect of relevance is theselection of an appropriate inventory boundary that
+reflects the substance and economic reality of thecompany’s business relationships, not merely its legalform. The choice of the inventory boundary is dependenton the characteristics of the company, the intendedpurpose of information, and the needs of the users. Whenchoosing the inventory boundary, a number of factorsshould be considered, such as:
+Organizational structures: control (operational
+and financial), ownership, legal agreements, jointventures, etc.
+Operational boundaries: on-site and off-site activities,
+processes, services, and impacts
+Business context: nature of activities, geographic loca-
+tions, industry sector(s), purposes of information, andusers of information
+More information on defining an appropriate inventory
+boundary is provided in chapters 2, 3, and 4.
+Completeness
+All relevant emissions sources within the chosen inventory boundary need to be accounted for so that acomprehensive and meaningful inventory is compiled. In practice, a lack of data or the cost of gatheringdata may be a limiting factor. Sometimes it istempting to define a minimum emissions accountingthreshold (often referred to as a materiality threshold)stating that a source not exceeding a certain size can be omitted from the inventory. Technically, such athreshold is simply a predefined and accepted negativebias in estim ates (i.e., an underestimate). Although it
+appears useful in theory, the practical implementation ofsuch a threshold is not compatible with the completenessprinciple of the
+GHG Protocol Corporate Standard . In order
+to utilize a materiality specification, the emissions from a particular source or activity would have to bequantified to ensure they were under the threshold.However, once emissions are quantified, most of thebenefit of having a threshold is lost.
+A threshold is often used to determine whether an error
+or omission is a material discrepancy or not. This is not the same as a de minimis for defining a complete inventory. Instead companies need to make a good faitheffort to provide a complete, accurate, and consistentaccounting of their GHG emissions. For cases whereemissions have not been estimated, or estimated at aninsufficient level of quality, it is important that this istransparently documented and justified. Verifiers candetermine the potential impact and relevance of the exclu-sion, or lack of quality, on the overall inventory report.
+More information on completeness is provided in chap-
+ters 7 and 10.
+Consistency
+Users of GHG information will want to track andcompare GHG emissions information over time in orderto identify trends and to assess the performance of the reporting company. The consistent application ofaccounting approaches, inventory boundary, and calcula-tion methodologies is essential to producing comparableGHG emissions data over time. The GHG information for all operations within an organization’s inventoryboundary needs to be compiled in a manner that ensuresthat the aggregate information is internally consistentand comparable over time. If there are changes in theinventory boundary, methods, data or any other factorsaffecting emission estimates, they need to be transpar-ently documented and justified.
+More information on consistency is provided in
+chapters 5 and 9. T
+
+--- Page 11 of 116 ---

@@ -1,0 +1,40 @@
+File Name: 1_2023-07-31_DelVO_2023_2772_ESRS_EU.pdf
+Converted on: 2025-03-28 01:55:56
+Original Size: 5.82 MB
+Chunk Size: 400 tokens with 50 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 700 of 768
+--------------------------------------------------------------------------------
+
+ELI: http://data.europa.eu/eli/reg_del/2023/2772/oj 262/284Business model The undertaking’s system of transforming inputs through its activities into
+outputs and outcomes that aims to fulfil the undertaking’s strategic
+purposes and create value over the short-, medium- and long-term. ESRS
+use the term “business model” in the singular, although it is recognised
+that undertakings may have more than one business model.
+Business relationships The relationships the undertaking has with business partners, entities in its
+value chain, and any other non-State or State entity directly linked to its
+business operations, products or services. Business relationships are not
+limited to direct contractual relationships. They include indirect business
+relationships in the undertaking’s value chain beyond the first tier, and
+shareholding positions in joint ventures or investments.
+By-product A substance or object resulting from a production process the primary aim
+of which is not the production of that substance or object is considered not
+to be waste, but to be a by-product if the following conditions are met:
+i. further use of the substance or object is certain;
+ii. the substance or object can be used directly without any further
+processing other than normal industrial practice;
+iii. the substance or object is produced as an integral part of a production
+process; and
+iv. further use is lawful, i.e., the substance or object fulfils all relevant
+product, environmental and health protection requirements for the
+specific use and will not lead to overall adverse environmental or
+human health impacts.
+Carbon credit A transferable or tradable instrument that represents one metric tonne of
+CO2eq emission reduction or removal and is issued and verified according
+to recognised quality standards.
+Carbon dioxide (CO2) equivalent (eq) The universal unit of measurement to indicate the global warming potential
+(GWP) of each greenhouse gas, expressed in terms of the GWP of one unit of
+carbon dioxide. It is used to evaluate releasing (or avoiding releasing)
+different greenhouse gases on a common basis.

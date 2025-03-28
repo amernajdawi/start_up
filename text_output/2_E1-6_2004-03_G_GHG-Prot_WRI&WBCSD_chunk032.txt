@@ -1,0 +1,48 @@
+File Name: 2_E1-6_2004-03_G_GHG-Prot_WRI&WBCSD.pdf
+Converted on: 2025-03-28 03:20:43
+Original Size: 3.51 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 32 of 104
+--------------------------------------------------------------------------------
+
+election and recalculation of a base year should
+relate to the business goals and the particularcontext of the company:
+For the purpose of reporting progress towards volun-
+tary public GHG targets, companies may follow thestandards and guidance in this chapter
+A company subject to an external GHG program may
+face external rules governing the choice and recalcu-lation of base year emissions
+For internal management goals, the company may
+follow the rules and guidelines recommended in thisdocument, or it may develop its own approach, whichshould be followed consistently.Choosing a base year
+Companies should choose as a base year the earliest rele-vant point in time for which they have reliable data.Some organizations have adopted 1990 as a base year inorder to be consistent with the Kyoto Protocol. However,obtaining reliable and verifiable data for historical baseyears such as 1990 can be very challenging.
+If a company continues to grow through acquisitions, it
+may adopt a policy that shifts or “rolls” the base yearforward by a number of years at regular intervals.Chapter 11 contains a description of such a “rollingbase year,” including a comparison with the fixed baseyear approach described in this chapter. A fixed baseyear has the advantage of allowing emissions data to becompared on a like-with-like basis over a longer timeperiod than a rolling base year approach. Most emis-sions trading and registry programs require a fixed baseyear policy to be implemented.GUIDANCETracking Emissions Over Time
+36FIGURE 6. Base year emissions recalculation for an acquisition
+Base Year Increase in
+ProductionGamma
+Acquires C123
+Company Gamma consists of two business units (A and B). In its base year (year one), each business unit emits 25 tonnes CO2. In year two,
+the company undergoes “organic growth,” leading to an increase in emissions to 30 tonnes CO2per business unit, i.e., 60 tonnes CO2in
+total. The base year emissions are not recalculated in this case. At the beginning of year three, the company acquires producti on facility C
+from another company. The annual emissions of facility C in year one were 15 tonnes CO2, and 20 tonnes CO2in years two and three. The
+total emission of company Gamma in year three, including facility C, are therefore 80 tonnes CO2. To maintain consistency over time, the
+company recalculates its base year emissions to take into account the acquisition of facility C. The base year emissions increa se by
+15 tonnes CO2—the quantity of emissions produced by facility C in Gamma’s base year. The recalculated base year emissions are
+65 tonnes CO2. Gamma also (optionally) reports 80 tonnes CO2as the recalculated emissions for year two.
+➡
+25
+2530
+30302020 2015
+30251520 20
+2530
+3030
+30Figures reported in respective yearsGAMMA EMISSIONSRecalculated Figures Facility C
+Unit BUnit A
+123
+CHAPTER 5S
+Facility C
+emissions
+
+--- Page 39 of 116 ---

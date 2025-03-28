@@ -1,0 +1,136 @@
+File Name: 2_E1-6_2011-09-01_G_GHG-PLC_WRI&WBCSD.pdf
+Converted on: 2025-03-28 03:20:53
+Original Size: 3.27 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 25 of 116
+--------------------------------------------------------------------------------
+
+[35]CHAPTER 07 Boundary Setting
+Companies shall report attributable
+processes in the form of a process map.
+Companies shall include a process map in their inventory
+report. A process map illustrates the services, materials,
+and energy needed to move a product through its
+lifecycle. If specific details are considered confidential, a
+company may create a simplified version for the report.  
+At a minimum, the reported process map should identify
+the following items:
+•The defined life cycle stages
+•The generalized attributional processes in each stage
+•The flow of the studied product through its life cycle
+•Any attributable processes excluded from the
+inventory
+A company should create a detailed process map for
+internal use and assurance, as it serves as the basis for
+data collection.
+An example of a minimal process map to be reported for
+the cradle-to-grave inventory of a car is given in figure 7.2.
+Companies shall report any non-attributable
+processes included in the boundary.
+Some service, material, and energy flows are not directly
+connected to the studied product during its lifecycle
+because they do not become the product, make the
+product, or directly carry the product through its life
+cycle. These are defined as non-attributable processes. RSA, one of the
+world’s leading
+multinational
+insurance groups,
+delivers services in
+over 130 countries.
+RSA performed a
+GHG inventory on their MORE TH>N® home insurance
+policy. The MORE TH>N® home insurance policy covers
+building and contents against damage, loss, or theft.
+They defined the unit of analysis as the provision of an
+insurance policy for a period of one year. Recognizing
+the need to build on the general stages for a service
+such as insurance, RSA adopted the following life cycle
+stages for their inventory:
+•Customer requesting a quote
+•RSA providing a quote
+•RSA setting up the policy and any subsequent
+amendments
+•RSA sending correspondence throughout the period
+of coverage
+•RSA servicing claims throughout the period of coverage
+RSA then grouped their attributable processes by life
+cycle stage, and used the results to identify where
+significant GHG emissions arose in the insurance
+process. This, in turn, underpins ongoing GHG-
+reduction work with suppliers. used the results to
+identify where
+significant GHG
+emissions arose in  
+the insurance processRSAFigure [7.1]  The five stages of a product life cycle (simplified for illustrative purposes)
+guidancerequirements
+
+--- Page 38 of 148 ---
+
+[36]   Product Life Cycle Accounting and Reporting Standard [36]   Product Life Cycle Accounting and Reporting Standardrequirements
+Examples include service, material, and energy flows  
+due to:
+•Capital goods (e.g., machinery, trucks, infrastructure)
+•Overhead operations (e.g., facility lighting, air
+conditioning)
+•Corporate activities and services (e.g., research and
+development, administrative functions, company sales
+and marketing)
+•Transport of the product user to the retail location
+•Transport of employees to and from works
+Companies are not required to include non-attributable
+processes. However, if non-attributable processes are
+included in the boundary, companies shall disclose this in
+the inventory report. The boundary for final products shall include
+the complete life cycle, from cradle-to-grave.
+The boundary for final products shall include the cradle-
+to-grave removals and emissions from material acquisition
+through to end-of-life.
+For intermediate products, if the function of the
+corresponding final product is known, companies should
+complete a cradle-to-grave inventory.
+The boundary of a cradle-to-gate partial
+life	cycle	inventory	shall	not	include	final 	
+product use or end-of-life processes in the
+inventory results. Companies shall disclose
+and justify when a cradle-to-gate boundary
+is	defined	in	the	inventory	report. 	* Recycling of parts is not included in this simplified examplematerial acquisition  
+& pre-processing         production       distribution  
+      & storageuse end-of-life 
+
+pre-processing  
+of	flat	 
+rolled steele
+
+car  
+part
+manufacturinge
+
+car  
+retaile
+
+car  
+assemblye  
+car  
+shipmente
+car  
+usee
+pre-processing  
+of plastics
+(20 types)em
+m
+m
+m
+m
+pre-processing  
+of
+painte  
+car  
+dismantlinge
+
+pre-processing  
+of  
+lubricantse  
+shreddinge

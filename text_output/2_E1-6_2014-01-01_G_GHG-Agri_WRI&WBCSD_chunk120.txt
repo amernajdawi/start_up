@@ -1,0 +1,30 @@
+File Name: 2_E1-6_2014-01-01_G_GHG-Agri_WRI&WBCSD.pdf
+Converted on: 2025-03-28 01:56:31
+Original Size: 1.75 MB
+Chunk Size: 400 tokens with 50 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 120 of 150
+--------------------------------------------------------------------------------
+
+Contextual information should be provided
+Importantly, the inherent divers ity of agricultural practices, as well as the influence of
+environmental factors on GHG fluxes, will aff ect the comparability of metrics, both
+within and across businesses. For example:
+ Intensity ratios will often be higher for self-replacing livestock herds than non-
+replacement herds. This is because self -replacing herds contain younger stock that
+emit enteric CH 4 and produce N 2O from urine depositions for a longer period of time
+before contributing to farm products.  
+ Adverse weather conditions can lower re alized crop yields, causing inter-annual
+variation in intensity ratios , independent of any changes in farming practices. (Note:
+in such cases, companies may find it usef ul to normalize and report emissions by
+expected yield, in addition to actual yield).  
+Without adequate context on the farming system, environmental effects, and the
+emissions sources that have been studie d, performance metrics are not useful for
+assessing performance. Such context should be provided in reports to aid the reliable
+interpretation of performance metrics.    
+
+--- Page 79 of 103 ---
+
+GHG Protocol Agricultural Guidance

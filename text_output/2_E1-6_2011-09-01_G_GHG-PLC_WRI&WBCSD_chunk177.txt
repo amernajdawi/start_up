@@ -1,0 +1,45 @@
+File Name: 2_E1-6_2011-09-01_G_GHG-PLC_WRI&WBCSD.pdf
+Converted on: 2025-03-28 03:18:25
+Original Size: 3.27 MB
+Chunk Size: 500 tokens with 50 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 177 of 226
+--------------------------------------------------------------------------------
+
+company. These types of data are collected directly from
+the production site, with actual areas and the mass or
+volume of inputs used.  
+Even with primary data from the production site, it is
+unlikely that primary data is available for the measurement
+of carbon stock changes and emissions from soils. In some
+cases secondary data is available in peer-reviewed journals;
+otherwise, common sources include:
+ •Sector-specific activity data/emission factors:  These 
+data are usually provided by associations, cooperatives,
+and institutes representing a particular sector. It can
+include aggregate activity data/emissions from site-
+specific sources.
+ •Country-specific activity data/emission factors:  
+Information that reflects country-specific biomes,
+agricultural practices, climate conditions, soil types,
+vegetation groups, etc. This can be further broken
+down into regional data. This type of information can
+be found in national greenhouse gas inventories and
+other official government publications, as well as from
+country experts.  
+ •Generic activity data/emission factors:  These are 
+default values provided by the IPCC8, FAOSTAT9, etc.
+These data refer to broad categories, such as high
+activity clay soils and tropical rainforest, and usually
+include carbon stock change impacts as well as land-
+use change practice emissions within the default
+emission factor.
+Figure B.1 is a simplified illustration to show how carbon
+stock information can be used to calculate land-use
+change impacts. In this example, forest land is converted
+into cropland, creating a 150-ton release of carbon due
+to the change in carbon stock. If several carbon stock
+changes occur within the assessment period, then the
+overall impact of all changes must be considered.  If

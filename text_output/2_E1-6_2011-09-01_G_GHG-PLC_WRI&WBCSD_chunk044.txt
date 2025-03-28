@@ -1,0 +1,67 @@
+File Name: 2_E1-6_2011-09-01_G_GHG-PLC_WRI&WBCSD.pdf
+Converted on: 2025-03-28 03:20:53
+Original Size: 3.27 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 44 of 116
+--------------------------------------------------------------------------------
+
+[54]   Product Life Cycle Accounting and Reporting Standard
+guidance8.3.7 Assessing data quality
+During data collection, there may be cases where several
+data types (direct emissions data, activity data, emission
+factors) and data classifications (primary and secondary)
+are available for the same process. Figure 8.1 illustrates
+this with an example of 4 different options for collecting
+the GHG data for process A: direct emissions data (option
+1); primary process activity data (option 2A); secondary
+process activity data (option 2B); and financial activity
+data (option 3). Companies may also have several choices
+for emission factors.  Assessing data quality during data 
+collection helps companies determine which data most
+closely represents the actual emissions released by the
+process during the studied product’s life cycle.
+Data quality should not be based on intuition or
+assumption (e.g., primary data is always better than
+secondary). Companies are required to assess data
+quality using data quality indicators. Data quality
+indicators can be used to qualitatively or quantitatively
+address how well the data characterizes the specific
+Figure [8.1] Options available to calculate the GHG data for process A
+Process A that uses diesel fuel
+Option 1 Option 2 Option 3
+Direct emissions data  
+e.g., 10 kg CO 2 emitted  
+from process A  
+(direct measurement  
+of emissions)Financial activity data
+e.g., 15 dollars of  
+diesel fuel purchasedProcess activity data
+Primary
+e.g., process A uses  
+5 liters of diesel fuelSecondary
+e.g., an average process A  
+uses 8 liters of diesel fuel
+LCA database emission factorEEIO emission  
+factor
+GHG data for process AOption 2A Option 2Bprocess(es) in the product’s life cycle. Generally, data
+quality can indicate how representative the data are (in
+time, technology, and geography) and the quality of the
+data measurement (completeness of data collection and
+the reliability of the data).
+Assessing data quality is valuable for a number of  
+reasons, including:
+1.     Improving the inventory’s data quality. The results 
+of a data quality assessment can identify which data
+sources are of low quality, allowing companies to
+improve the overall inventory quality by collecting
+different data of higher quality
+2.     Assisting the assurance process. An assurer may 
+request information on the quality of the data used in
+the product inventory
+3.     Demonstrating to stakeholders the quality of the data 
+used in the product inventory
+
+--- Page 57 of 148 ---

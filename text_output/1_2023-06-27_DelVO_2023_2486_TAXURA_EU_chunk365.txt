@@ -1,0 +1,26 @@
+File Name: 1_2023-06-27_DelVO_2023_2486_TAXURA_EU.pdf
+Converted on: 2025-03-28 03:18:09
+Original Size: 8.44 MB
+Chunk Size: 500 tokens with 50 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 365 of 380
+--------------------------------------------------------------------------------
+
+‘For the purposes of point 2(c)(1), credit institutions shall consider the following:
+(2)(c)(1)(a) the total gross carrying amount of exposures to environmentally sustainable bonds issued in
+accordance with Union legislation. Current bond issuances qualified as green bonds by issuers whose use of
+proceeds have to be invested in Taxonomy-eligible economic activities shall be assessed depending on the level
+of Taxonomy-alignment of economic activities in accordance with Regulation (EU) 2020/852 or of projects financed, based on specific information provided by the issuer for an issuance. Credit institutions shall provide
+transparency on the kind of economic activity that is being financed. Double counting is not allowed. Where
+the same green bond can be relevant for two environmental objectives, credit institutions shall allocate it to the most relevant objective.
+(2)(c)(1)(b) the gross carrying amount of debt securities invested in exposures where the use of proceeds is
+known, including specialised lending exposures, to the extent that the activities financed are Taxonomy-
+aligned economic activities. The assessment shall be based on specific information provided by the issuer for that issuance. Double counting is not allowed. Where the same specialised lending exposure can be relevant
+for two environmental objectives, credit institutions shall allocate it to the most relevant objective. Credit
+institutions shall provide transparency on the type of economic activity that is financed.’;
+(i) in Section 1.2.1.2, the second, third and fourth paragraphs are replaced by the following:
+‘This GAR shall contain disclosures for all the environmental objectives, with a breakdown for enabling
+activities. For the climate change mitigation, the GAR shall also contain disclosures of transitional activities.
+Credit institutions shall also provide disclosures of stock and flow.OJ L, 21.11.2023 EN

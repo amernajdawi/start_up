@@ -1,0 +1,48 @@
+File Name: 1_2022-12-14_RL_2022_2464_CSRD_EU.pdf
+Converted on: 2025-03-28 03:20:33
+Original Size: 1.12 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 53 of 140
+--------------------------------------------------------------------------------
+
+(54) To meet the information needs of users in a timely manner , and in particular given the urgency to meet the
+information needs of financial mark et participants subject to the requirements laid down in the delegat ed acts
+adopt ed pursuant to Article 4(6) and (7) of Regulation (EU) 2019/2088, the Commission should adopt a first set of
+sustainability repor ting standards by means of delegat ed acts by 30 June 2023 . That set of sustainability repor ting
+standards should specify the information that under takings should disclose with regar d to all repor ting areas and
+sustainability matte rs, and that financial mark et participants need to compl y with the disclosure obligations laid
+down in Regulation (EU) 2019/2088. The Commission should adopt a second set of sustainability repor ting
+standards by means of delega ted acts by 30 June 2024 , specifying compl ementar y information that under takings
+should disclose about sustainability matte rs and repor ting areas, where necessar y, and information that is specif ic to
+the sector in whic h an under taking operates. The Commission should review those sustainability repor ting
+standards, including the sustainability repor ting standards for small and medium-sized under takings, ever y three
+years to take account of relevant developments, including the development of intern ational standards.
+(55) Directive 2013/34/EU does not require that under takings provid e their management repor ts in a digital format,
+which hinders the findability and usability of the repor ted information. Users of sustainability information
+increasing ly expect such information to be findable, compar able and mach ine-readable in digital formats. Member
+State s should be able to require that under takings subject to the sustainability repor ting requirements of Directive
+2013/34/EU make their manag ement repor ts available on their website s, free of charg e to the public. Digitalisation
+creat es oppor tunities to exploit information more efficiently and holds the poten tial for signif icant cost savings for
+both users and under takings. Digitalisation also enables the centralisation at Union and Member State level of data
+in an open and accessible format that facilitates reading and allows for the comparison of data. Under takings should
+theref ore be required to prepare their manag ement repor t in the electronic repor ting format specifi ed in Article 3 of
+Commission Delegat ed Regulation (EU) 2019/815 (33), and to mark up their sustainability repor ting, including the
+disclosures required by Article 8 of Regulation (EU) 2020/852, in accordance with the electronic repor ting format
+specifi ed in Delegat ed Regulation (EU) 2019/815 once that is determined.
+A digital taxonomy for the Union sustainability repor ting standards will be necessar y to allow the repor ted
+information to be tagg ed in accordance with those sustainability repor ting standards. These requirements should
+feed into the work on digitalisation announced by the Commission in its Communication of 19 Febr uary 2020
+entitled ‘A European strategy for data’ and in its Communication of 24 Sept ember 2020 entitled ‘Digital Finance
+Strateg y for the EU’. These requirements would also compl ement the creation of a European sing le access point
+(ESAP) for public corporate information as envisaged in the Commission’s Communication of 24 Sept ember 2020
+entitled ‘A Capital Mark ets Union for people and businesses - new action plan’ in which the need to provide
+comparab le information in a digital format is also considered.
+(56) To allow for the inclusion of the repor ted sustainability information in the ESA P, Member States should ensure that
+under takings whose secur ities are not admitt ed to trading on a regulated market in the Union publish their
+manage ment repor t, including sustainability repor ting, in the electronic repor ting format specifi ed in Article 3 of
+Delegat ed Regulation (EU) 2019/815.
+(57) Article 19a(4) of Directive 2013/34/EU enables Member States to exem pt under takings from including in the
+manage ment repor t the non-f inancial state ment required under Article 19a(1) of that Directive. Member States are

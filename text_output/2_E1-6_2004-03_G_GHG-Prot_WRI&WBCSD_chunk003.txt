@@ -1,0 +1,45 @@
+File Name: 2_E1-6_2004-03_G_GHG-Prot_WRI&WBCSD.pdf
+Converted on: 2025-03-28 03:20:43
+Original Size: 3.51 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 3 of 104
+--------------------------------------------------------------------------------
+
+Relationship to other GHG programs
+It is important to distinguish between the GHG Protocol Initiative
+and other GHG programs. The GHG Protocol Corporate Standard
+focuses only on the accounting and reporting of emissions. It doesnot require emissions information to be reported to WRI or WBCSD.In addition, while this standard is designed to develop a verifiableinventory, it does not provide a standard for how the verificationprocess should be conducted.
+TheGHG Protocol Corporate Standard has been designed to be
+program or policy neutral. However, many existing GHG programsuse it for their own accounting and reporting requirements and itis compatible with most of them, including:
+•Voluntary GHG reduction programs, e.g., the World Wildlife Fund
+(WWF) Climate Savers, the U.S. Environmental ProtectionAgency (EPA) Climate Leaders, the Climate Neutral Network,and the Business Leaders Initiative on Climate Change (BLICC)
+•GHG registries, e.g., California Climate Action Registry (CCAR),
+World Economic Forum Global GHG Registry
+•National and regional industry initiatives, e.g., New Zealand
+Business Council for Sustainable Development, Taiwan Business Council for Sustainable Development, Association des entreprises pour la réduction des gaz à effet de serre (AERES)
+•GHG trading programs,
+4e.g., UK Emissions Trading Scheme (UK
+ETS), Chicago Climate Exchange (CCX), and the European UnionGreenhouse Gas Emissions Allowance Trading Scheme (EU ETS)
+•Sector-specific protocols developed by a number of industry asso-
+ciations, e.g., Inter national Aluminum Institute, International
+Council of For est and Paper Associations, International Iron and
+Steel Institute, the WBCSD Cement Sustainability Initiative, andthe International Petroleum Industry Environmental Conservation
+Association (IPIECA).
+Since GHG programs often have specific accounting and reporting
+requirements, companies should always check with any relevantprograms for any additional requirements before developing their inventory. GHG calculation tools
+To complement the standard and guidance provided here, a number of cross-sector and sector-specific calculation tools are available on the GHG Protocol Initiative website (www.ghgprotocol.org), including a guide for small office-basedorganizations (see chapter 6 for full list). These tools provide step-by-step guidance and electronic worksheets to help userscalculate GHG emissions from specific sources or industries. Thetools are consistent with those proposed by the IntergovernmentalPanel on Climate Change (IPCC) for compilation of emissions at the national level (IPCC, 1996). They have been refined to be user-friendly for non-technical company staff and to increase theaccuracy of emissions data at a company level. Thanks to helpfrom many companies, organizations, and individual expertsthrough an intensive review of the tools, they are believed torepresent current “best practice.”
+Reporting in accordance with the
+GHG Protocol Corporate Standard
+The GHG Protocol Initiative encourages the use of the GHG Protocol
+Corporate Standard by all companies regardless of their experience
+in preparing a GHG inventory. The term “shall” is used in the chapters containing standards to clarify what is required to prepareand report a GHG inventory in accordance with the GHG Protocol
+Corporate Standard. This is intended to improve the consistency
+with which the standard is applied and the resulting informationthat is publicly reported, without departing from the initial intent ofthe first edition. It also has the advantage of providing a verifiablestandard for companies interested in taking this additional step.
+Overview of main changes to the first edition
+This revised edition contains additional guidance, case studies,and annexes. A new guidance chapter on setting GHG targetshas been added in response to many requests from companiesthat, having developed an inventory, wanted to take the next step of setting a target. Appendices have been added onaccounting for indirect emissions from electricity and onaccounting for sequestered atmospheric carbon. Introduction
+INTRODUCTION 4
+
+--- Page 7 of 116 ---

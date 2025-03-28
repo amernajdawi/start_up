@@ -1,0 +1,81 @@
+File Name: 2_E1-6_2011-09-01_G_GHG-PLC_WRI&WBCSD.pdf
+Converted on: 2025-03-28 03:20:53
+Original Size: 3.27 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 49 of 116
+--------------------------------------------------------------------------------
+
+energy input
+wasteinputs outputs
+9.2 Requirements
+Companies shall allocate emissions
+and	removals	to	accurately	reflect	the 	
+contributions of the studied product and
+co-product(s) to the total emissions and
+removals of the common process.
+A studied product, as defined in chapter 6, is the product
+on which the GHG inventory is performed. A co-product
+is produced during the studied product’s life cycle and
+has value as an input into another product’s life cycle.
+To abide by the principle of completeness and accuracy,
+companies shall allocate emissions and removals to
+accurately reflect the contribution of the studied product
+and co-product(s) to the total emissions and removals of
+the common process. A co-product without economic
+value is considered a waste and, hence, no emissions or
+removals are allocated.
+Companies shall avoid allocation wherever
+possible by using process subdivision,
+redefining	the	functional	unit,	or	using 	
+system expansion.  
+
+--- Page 65 of 148 ---
+
+[63]CHAPTER 09 Allocation
+requirements
+Method Definition
+Process subdivision Dividing the common process into sub-processes.
+Redefining the unit  
+of analysis Inclusion of the co-products (additional functions) in the functional unit.
+System expansion Using the emissions from an alternative product that comprises the same functional
+unit as a co-product to estimate the emissions of the co-product. Only applicable when
+companies have direct knowledge of the function and eventual use of the co-product.  Table [9.1]  Methods to avoid allocationTable 9.1 describes the methods companies shall  
+use to avoid or minimize the use of allocation in a
+product inventory.
+If allocation is unavoidable, companies
+shall allocate emissions and removals based
+on the underlying physical relationships
+between the studied product and co-
+product(s). When physical relationships
+alone cannot be established or used as
+the basis for allocation, companies shall
+select either economic allocation or another
+allocation	method	that	reflects	other 	
+relationships between the studied product
+and co-product(s).Table 9.2 describes the methods companies shall use to
+perform allocation, starting with physical allocation.
+Companies shall apply the same allocation
+methods to similar inputs and outputs
+within the product’s life cycle.
+To abide by the principle of consistency, companies shall
+apply the same allocation methods to similar inputs and
+outputs, for example, when an allocated co-product output
+is also an input to another process within the life cycle.  
+
+For allocation due to recycling, companies
+shall use either the closed loop
+approximation method or the recycled
+content	method	as	defined	by	this	standard. 	
+Method Definition
+Physical allocation Allocating the inputs and emissions of the system based on an underlying physical
+relationship between the quantity of product and co-product and the quantity of
+emissions generated.
+Economic allocation Allocating the inputs and emissions to the product and co-product(s) based on the
+market value of each when they exit the common process.
+Other relationships Allocating the inputs and emissions to the product and co-product(s) based on
+established and justifiable relationships other than physical or economic. Table [9.2] Method to perform allocation
+
+--- Page 66 of 148 ---

@@ -1,0 +1,14 @@
+File Name: 1_2023-06-27_DelVO_2023_2486_TAXURA_EU.pdf
+Converted on: 2025-03-28 03:18:09
+Original Size: 8.44 MB
+Chunk Size: 500 tokens with 50 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 274 of 380
+--------------------------------------------------------------------------------
+
+(42)CLC/EN 50625-1: 2014 Collection, logistics & Treatment requirements for WEEE – Part 1: General treatment requirements.
+(43)Collection, logistics & treatment requirements for WEEE – Part 4: Specification for the collection and logistics associated with WEEE.
+(44)Implementing Decision (EU) 2018/1147.
+(45)‘Recyclable waste’ is waste that can be recycled in accordance with Article 3(17) of Directive 2008/98/EC.OJ L, 21.11.2023 EN

@@ -1,0 +1,72 @@
+File Name: 2_ESRS2_SBM1_2006-12-20_VO_NACER2_EU.pdf
+Converted on: 2025-03-28 03:20:56
+Original Size: 0.17 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 5 of 45
+--------------------------------------------------------------------------------
+
+economic reality and enhances the comparability of national,
+Community and international classifications and, hence, ofnational, Community and international statistics.
+2. This Regulation shall apply only to the use of the
+classification for statistical purposes.
+Article 2
+NACE Rev. 2
+1. NACE Rev. 2 shall include:
+(a) a first level consisting of headings identified by an
+alphabetical code (sections);
+(b) a second level consisting of headings identified by a two-
+digit numerical code (divisions);
+(c) a third level consisting of headings identified by a three-
+digit numerical code (groups); and
+(d) a fourth level consisting of headings identified by a four-
+digit numerical code (classes).
+2. NACE Rev. 2 is set out in Annex I.
+Article 3
+Use of NACE Rev. 2
+The Commission shall use NACE Rev. 2 for all statistics classified
+according to economic activities.
+Article 4
+National classifications of economic activities
+1. Member States' statistics presented according to economic
+activities shall be produced using NACE Rev. 2 or a nationalclassification derived therefrom.
+2. The national classification may introduce additional head-
+ings and levels and a different coding may be used. Each of thelevels, except for the highest, shall consist of either the sameheadings as the corresponding NACE Rev. 2 level or headingsconstituting an exact breakdown thereof.
+3. Member States shall forward to the Commission, for its
+approval prior to their publication, the drafts defining ormodifying their national classifications. The Commission shallcheck the conformity of these drafts with paragraph 2 withintwo months. The Commission shall transmit the approvednational classification to the other Member States for informa-tion. The Member States' national classifications shall include atable of correspondence between the national classifications andNACE Rev. 2.
+4. In the event of incompatibility between certain NACE Rev. 2
+headings and the national economic structure, the Commissionmay authorise a Member State to use an aggregation of NACERev. 2 headings in a specific sector.
+To obtain such an authorisation, the Member State concerned
+must provide the Commission with all the necessary informationto consider its request. The Commission shall decide within
+three months.
+However, notwithstanding the provisions of paragraph 2, such
+an authorisation shall not entitle the Member State concerned tosubdivide the aggregated headings in a way different from NACERev. 2.
+5. The Commission shall, together with the Member State
+concerned, periodically review the authorisations granted underparagraph 4 to verify whether they remain justified.
+Article 5
+Commission activities
+The Commission, in cooperation with the Member States, shall
+ensure the dissemination, maintenance and promotion of NACERev. 2, in particular by:
+(a) drafting, updating and publishing explanatory notes for
+NACE Rev. 2;
+(b) drawing up and publishing guidelines for classifying
+statistical units in accordance with NACE Rev. 2;
+(c) publishing correspondence tables between NACE Rev. 1.1
+and NACE Rev. 2 and between NACE Rev. 2 and NACERev. 1.1; and
+(d) working to improve consistency with other social and
+economic classifications.
+Article 6
+Implementing measures
+1. The following measures for implementing NACE Rev. 2 shall
+be adopted in accordance with the regulatory procedure referredto in Article 7(2):
+(a) decisions required in case of problems arising from
+implementation of NACE Rev. 2, including the assignmentof economic activities to specific classes; and
+(b) technical measures ensuring a fully coordinated transition
+from NACE Rev. 1.1 to NACE Rev. 2, especially with respectto issues related to breaks in time series, including doublereporting and back-casting of time series.
+2. Measures relating to NACE Rev. 2 with a view to amending
+or supplementing non-essential elements of this Regulation,which are designed for the following purposes, shall be adoptedin accordance with the regulatory procedure with scrutinyreferred to in Article 7(3):
+(a) to take account of technological or economic develop-
+ments; or
+(b) to align it with other economic and social classifications.3. Consideration shall be given to the principle that the

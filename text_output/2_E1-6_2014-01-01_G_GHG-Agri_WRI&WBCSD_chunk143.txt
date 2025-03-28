@@ -1,0 +1,44 @@
+File Name: 2_E1-6_2014-01-01_G_GHG-Agri_WRI&WBCSD.pdf
+Converted on: 2025-03-28 01:56:31
+Original Size: 1.75 MB
+Chunk Size: 400 tokens with 50 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 143 of 150
+--------------------------------------------------------------------------------
+
+100
+Indirect N 2O emissions
+from soils Emissions of N 2O from soils as a result of leaching and volatilization
+processes that lead to the emissi ons being physically displaced.   
+Indirect land use
+change (iLUC) A pattern of land use wherein an existing crop is diverted for another
+purpose and replacement crops are then grown on formerly non-
+agricultural lands.
+Kyoto GHGs The GHGs that are mandatorily reported in national GHG inventories
+to the United Nations Framewor k Convention on Climate Change
+(CO 2, CH 4, N 2O, HFCs, PFCs, and SF 6).
+Land-use change The conversion of one categor y of land-use (e.g., forest) into another
+(e.g., cropland) through fire, draining, clear felling or soil preparation.
+Non-mechanical
+sources (on farms) Either bacterial processes shaped by climatic and soil conditions (e.g.,
+decomposition) or the burning of crop residues. See also Mechanical
+sources.   
+Manure Effluent and bedding material collected from housed animals.
+Mechanical sources (on
+farms) Equipment or machinery operated on farms, such as mobile machinery
+(e.g., harvesters), stationary equipm ent (e.g., boilers), and refrigeration
+and air-conditioning equipment. See also Non-mechanical sources .
+Natural disturbance An environmental and dest ructive event that dist urbs landscape health,
+structure, and/or changes resources at any given spatial or temporal scale. Disturbance agents include pathogens, insects, fires, drought, flooding, and acid rainfall.
+Nitrification During nitrification, bacteria and other microorganisms oxidize the
+nitrogen within ammonia (NH 3) to create nitrites, which are further
+oxidized into nitrates.  
+Nitrogen mineralization The process by which organi c nitrogen is converted to inorganic forms
+that are available to plants.
+Offset credits Tradable commodities that typically represent one metric tonne of
+CO 2-equivalent  emissions reductions or sequestration . In most cases, 
+offset credits are generated at specific projects (offset projects).
+Organizational
+boundaries The boundaries that determine the ope rations owned or controlled by

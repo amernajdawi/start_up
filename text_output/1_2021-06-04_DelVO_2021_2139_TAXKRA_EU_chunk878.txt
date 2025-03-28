@@ -1,0 +1,23 @@
+File Name: 1_2021-06-04_DelVO_2021_2139_TAXKRA_EU.pdf
+Converted on: 2025-03-28 03:18:03
+Original Size: 2.76 MB
+Chunk Size: 500 tokens with 50 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 878 of 966
+--------------------------------------------------------------------------------
+
+(a) addition of insulation to existing envelope components, such as external walls (including green walls), roofs
+(including green roofs), lofts, basements and ground floors (including measures to ensure air-tightness,
+measures to reduce the effects of thermal bridges and scaffolding) and products for the application of the
+insulation to the building envelope (including mechanical fixings and adhesive);  
+___________  
+( 588  ) EU Construction and Demolition Waste Protocol (version of 4.6.2021: https://ec.europa.eu/growth/content/eu-construction-and- 
+demolition-waste-protocol-0_en).  
+( 589  ) ISO 20887:2020, Sustainability in buildings and civil engineering works - Design for disassembly and adaptability - Principle s, 
+requirements and guidance (version of 4.6.2021: https://www.iso.org/standard/69370.html).  
+( 590  ) Applying to paints and varnishes, ceiling tiles, floor coverings (including associated adhesives and sealants), internal insu lation and 
+interior surface treatments (such as to treat damp and mould).  
+( 591  ) ISO 16000-3:2011, Indoor air — Part 3: Determination of formaldehyde and other carbonyl compounds in indoor air and test 
+chamber air — Active sampling method (version of 4.6.2021: https://www.iso.org/standard/51812.html).EN  L 442/316 Official Journal of the European Union 9.12.2021

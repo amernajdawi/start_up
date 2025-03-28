@@ -1,0 +1,89 @@
+File Name: 1_2023-06-27_DelVO_2023_2486_TAXURA_EU.pdf
+Converted on: 2025-03-28 03:20:36
+Original Size: 8.44 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 197 of 199
+--------------------------------------------------------------------------------
+
+ELI: http://data.europa.eu/eli/reg_del/2023/2486/oj 148/164‘ANNEX X
+TEMPLATES FOR KPIs OF INSURANCE AND REINSURANCE UNDERTAKINGS
+Template: The underwriting KPI for non-life insurance and reinsurance undertakings
+Substantial contribution to climate change
+adaptationDNSH (Do No Significant Harm)
+Economic activities (1)Absolute
+premiums,
+year t (2)Proportion
+of
+premiums,
+year t (3)Proportion
+of
+premiums,
+year t-1 (4)Climate
+change
+mitigation
+(5)Water and
+marine
+resources
+(6)Circular
+economy (7)Pollution (8)Biodiversity
+and
+ecosystems
+(9)Minimum
+safeguards
+(10)
+Currency % % Y/N Y/N Y/N Y/N Y/N Y/N
+A.1. Non-life insurance and reinsurance un ­
+derwriting Taxonomy-aligned activities (en ­
+vironmentally sustainable)
+A.1.1. Of which reinsured
+A.1.2. Of which stemming from reinsurance ac ­
+tivity
+A.1.2.1. Of which reinsured (retrocession)
+A.2. Non-life insurance and reinsurance un ­
+derwriting Taxonomy-eligible but not envir ­
+onmentally sustainable activities (not Taxon ­
+omy-aligned activities)
+B.Non-life insurance and reinsurance under ­
+writing Taxonomy-non-eligible activities
+Total (A.1 + A.2 +B) 100 % 100 %
+“Premiums” in columns (2) and (3) shall be reported as gross premiums written or, as applicable, turnover relating to non-life insurance or reinsurance activity.
+The information in column (4) shall be reported in disclosures in the year 2024 and thereafter.
+Non-life insurance and reinsurance can only be aligned with Regulation (EU) 2020/852 as activity that enables climate change adaptation.’;OJ L, 21.11.2023 EN  
+
+--- Page 149 of 164 ---
+
+ELI: http://data.europa.eu/eli/reg_del/2023/2486/oj 149/164(11) in Annex X, in the second template, in the Section ‘Breakdown of the numerator of the KPI per environmental
+objective’ the words ‘Transitional activities: A % (Turnover; CapEx)’ are deleted from lines (2) to (6);
+(12) in Annex X, in the second template, the eighth row is replaced by the following:
+‘The proportion of exposures to other counterparties
+and assets over total assets covered by the KPI:
+X %Value of exposures to other counterparties and
+assets:
+[monetary amount]’
+(13) in Annex X in the second template, the fifteenth row is replaced by the following:
+‘The proportion of Taxonomy-aligned exposures to
+other counterparties and assets over total assets
+covered by the KPI:Turnover-based: %Capital expenditures-based: %Value of Taxonomy-aligned exposures to other
+counterparties and assets over total assets covered by
+the KPI:Turnover-based: [monetary amount]Capital expenditures-based: [monetary amount]’OJ L, 21.11.2023 EN  
+
+--- Page 150 of 164 ---
+
+ELI: http://data.europa.eu/eli/reg_del/2023/2486/oj 150/164ANNEX VI
+‘ANNEX VI
+Template for the KPIs of credit institutions
+Template
+numberName
+0 Summary of KPIs
+1 Assets for the calculation of GAR
+2 GAR sector information
+3 GAR KPI stock
+4 GAR KPI flow
+5 KPI off-balance-sheet exposures
+6 KPI on fees and commissions income from services other than lending and asset management
+7 KPI Trading book portfolioOJ L, 21.11.2023 EN  
+
+--- Page 151 of 164 ---

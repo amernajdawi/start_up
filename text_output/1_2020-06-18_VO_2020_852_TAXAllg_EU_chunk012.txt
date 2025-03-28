@@ -1,0 +1,38 @@
+File Name: 1_2020-06-18_VO_2020_852_TAXAllg_EU.pdf
+Converted on: 2025-03-28 03:20:25
+Original Size: 0.73 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 12 of 54
+--------------------------------------------------------------------------------
+
+(26) The environmental objective of the sustainable use and protect ion of wate r and mar ine resources should be
+interpreted in accordance with relevant Union law, including Regulation (EU) No 1380/2013 of the European
+Parliament and of the Council (9) and Directives 2000/60/EC (10), 2006/7/EC (11), 2006/118/EC (12), 2008/56/EC (13)
+and 2008/105/EC (14) of the European Parliament and of the Council, Council Directives 91/271/EEC (15),
+91/676/EEC (16) and 98/83/EC (17) and Commission Decision (EU) 2017/848 (18), and with the communications of
+the Commission of 18 July 2007 on ‘Addressing the challeng e of water scarcity and droughts in the European
+Union’, of 14 November 2012 on ‘A Bluepr int to Safeg uard Europe’s Water Resources ’ and of 11 March 2019 on
+‘European Union Strategic Approach to Phar maceuticals in the Environm ent’.
+(27) The environmental objective of the transition to a circular econom y should be interpreted in accordance with
+relevant Union law in the areas of the circular econom y, wast e and chemicals, including Regulations (EC)
+No 1013/2006 (19), (EC) No 1907/2006 (20) and (EU) 2019/1021 (21) of the European Parliament and of the Council
+and Directives 94/62/EC (22), 2000/53/EC (23), 2006/66/EC (24), 2008/98/EC (25), 2010/75/EU (26), 2011/65/EU (27),
+2012/19/EU (28), (EU) 2019/883 (29) and (EU) 2019/904 (30) of the European Parliament and of the Council, Council
+(9)Regulation (EU) No 1380/2013 of the European Parliament and of the Council of 11 December 2013 on the Common Fisher ies Policy ,
+amending Council Regulations (EC) No 1954/2003 and (EC) No 1224/2009 and repealing Council Regulations (EC) No 2371/2002
+and (EC) No 639/2004 and Council Decision 2004/585/EC (OJ L 354, 28.12.2013, p. 22).
+(10)Directive 2000/60/EC of the European Parliament and of the Council of 23 October 2000 establishing a framework for Community
+action in the field of water policy (OJ L 327, 22.12.2000, p. 1).
+(11)Directive 2006/7/EC of the European Parliament and of the Council of 15 Febr uary 2006 concer ning the management of bathing
+water quality and repealing Directive 76/160/EEC (OJ L 64, 4.3.2006, p. 37).
+(12)Directive 2006/118/EC of the European Parliament and of the Council of 12 December 2006 on the prot ection of groundwater
+against pollution and deterioration (OJ L 372, 27.12.2006, p. 19).
+(13)Directive 2008/56/EC of the European Parliament and of the Council of 17 June 2008 establishing a framewo rk for community
+action in the field of mar ine environmental policy (Mar ine Strategy Framewo rk Directive) (OJ L 164, 25.6.2008, p. 19).
+(14)Directive 2008/105/EC of the European Parliament and of the Council of 16 December 2008 on environmental quality standards in
+the field of water policy , amending and subsequently repealing Council Directives 82/176/EEC, 83/513/EEC, 84/156/EEC,
+84/491/EEC, 86/280/EEC and amending Directive 2000/60/EC of the European Parliament and of the Council (OJ L 348,
+24.12.2008, p. 84).

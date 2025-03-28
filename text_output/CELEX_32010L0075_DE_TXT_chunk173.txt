@@ -1,0 +1,165 @@
+File Name: CELEX_32010L0075_DE_TXT.pdf
+Converted on: 2025-03-28 01:56:46
+Original Size: 4.18 MB
+Chunk Size: 400 tokens with 50 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 173 of 208
+--------------------------------------------------------------------------------
+
+berechnet:
+C
+ =  I 1  –  O 8
+Parallel hierzu sin d
+die Feststoffe, die für Beschichtun gen
+verwendet
+wurden,
+zu bestimmen,
+um die jährliche
+Bezugsemission
+und
+Zielemission  
+ableiten
+zu können;
+ii)
+um die Einhaltung
+eines
+Gesamtemission sgrenzwerts,
+ausgedrückt
+als Lösun gsmittelemissionen
+je Produkt­
+einheit
+oder anderweitig
+in
+den
+Teilen
+2 und
+3 angegeben,
+zu beurteilen,
+wird die Lösun gsmittelbilanz
+jähr­
+lich aufgestellt,
+um die Emissionen
+(E)
+zu bestimmen.
+Die Emissionen
+werden
+anhand der folg end
+en
+Gleichung
+berechnet:
+E
+ =  F  +  O 1
+Dabei
+ist F die diffuse E mission
+gemäß
+Buchstabe
+b
+Ziffer i. Die ermittelte E mission
+wird dann
+durch die jewei­
+ligen
+Produktparameter
+dividiert;
+iii) zur Beurteilun g
+der Einhaltung
+der Anforderungen
+gemäß
+Artikel
+59 Absatz 6 Buchstab e
+b
+Ziffer ii wird die
+Lösungsbilanz
+jährlich aufg estellt,
+um die Gesamtemission en
+aus allen
+relevanten
+Tätigkeiten
+zu bestimmen.
+Das
+Ergebnis
+wird anschließend
+mit den
+Gesamtemission en
+vergl
+ichen, die en tstanden
+wären,
+wenn
+die Anfor­
+derungen
+gemäß
+den
+Teilen
+2, 3 und
+5 für jede ein zelne
+Tätigkeit
+erfüllt worden  
+wären.
+b) Bestimmun g
+der diffusen  
+Emissionen
+im Hinblick
+auf einen
+Vergleich
+mit den
+Grenzwerten
+für diffuse E missionen
+gemäß
+Teil 2:
+i) Die diffuse E mission
+wird anhand
+einer
+der folgenden
+Gleichungen
+berec
+hnet;
+F
+ =  I 1  –  O 1  –  O 5  –  O 6  –  O 7  –  O 8
+oder
+F  =  O 2  +  O 3  +  O 4  +  O 9F wird en
+tweder
+durch direk te
+Messung
+der Mengen
+oder durch ein e
+gleichwer
+tige
+Methode oder Berechn ung,
+z.
+B. anhand
+des Wirkungsgrads
+der Abgaserfassung
+des Verfahren s,
+bestimmt.
+Der
+Grenzwert
+für diffuse E missionen
+wird als An teil
+am Input
+ausgedrückt
+, der anhand
+der folgenden
+Glei­
+chung
+berechnet
+wird:
+I  =  I 1  +  I 2
+ii) Die diffusen  
+Emissionen
+werden
+durch zeitlich b egrenzte,
+aber
+umfassende
+Messungen
+bestimmt,
+die so lange
+nicht
+wiederholt werden  
+müssen,
+bis
+die Geräteausrüstun g
+verändert
+wird.
+
+--- Page 72 of 103 ---

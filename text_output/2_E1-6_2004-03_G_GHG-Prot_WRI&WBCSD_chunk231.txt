@@ -1,0 +1,27 @@
+File Name: 2_E1-6_2004-03_G_GHG-Prot_WRI&WBCSD.pdf
+Converted on: 2025-03-28 01:56:03
+Original Size: 3.51 MB
+Chunk Size: 400 tokens with 50 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 231 of 251
+--------------------------------------------------------------------------------
+
+controlled by the reporting company. This assessment allows a company to establish which operationsand sources cause direct and indirect emissions, and to decide which indirect emissions to includethat are a consequence of its operations. (Chapter 4)
+Organic growth/decline Increases or decreases in GHG emissions as a result of changes in production output, product mix,
+plant closures and the opening of new plants. (Chapter 5)
+Organizational boundaries The boundaries that determine the operations owned or controlled by the reporting company,
+depending on the consolidation approach taken (equity or control approach). (Chapter 3)
+Outsourcing The contracting out of activities to other businesses. (Chapter 3, 4, 5)
+Parameter uncertainty GHG quantification uncertainty associated with quantifying the parameters used as inputs to estima-
+tion models. (Chapter 7)
+Primary effects The specific GHG reducing elements or activities (reducing GHG emissions, carbon storage, or
+enhancing GHG removals) that the project is intended to achieve. (Chapter 8)
+Process emissions Emissions generated from manufacturing processes, such as the CO
+2that is arises from the break-
+down of calcium carbonate (CaCO3) during cement manufacture. (Chapter 4, Appendix D)
+Productivity/efficiency ratios Ratios that express the value or achievement of a business divided by its GHG impact. Increasing effi-
+ciency ratios reflect a positive performance improvement. e.g. resource productivity(sales per tonneGHG). Productivity/efficiency ratios are the inverse of intensity ratios. (Chapter 9)
+Ratio indicator Indicators providing information on relative performance such as intensity ratios or productivity/effi-
+ciency ratios. (Chapter 9)

@@ -1,0 +1,53 @@
+File Name: 1_2022-12-14_RL_2022_2464_CSRD_EU.pdf
+Converted on: 2025-03-28 03:20:33
+Original Size: 1.12 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 102 of 140
+--------------------------------------------------------------------------------
+
+--- Page 41 of 66 ---
+
+(10) in Article 30, paragraph 1 is replaced by the followi ng:
+‘1. Member States shall ensure that under takings publish within a reasonable period of time, which shall not
+exceed 12 months after the balance sheet date, the duly approved annual financia l state ments and the manag ement
+repor t, in the electronic repor ting format referred to in Article 29d of this Directive where applicable, together with
+the opinion and statement submitte d by the statutor y auditor or audit firm refer red to in Article 34 of this Directive,
+as laid down by the laws of each Member State in accordance with Chapt er III of Title 1 of Directive (EU) 2017/1132
+of the European Parliament and of the Council (*).
+Member States may require under takings subject to Articles 19a and 29a to mak e the manag ement repor t available to
+the public on their website, free of charge. Where an under taking does not have a website, Member State s may require
+it to mak e a written copy of its management repor t available upon request.
+Where an independent assurance services provider expresses the opinion referred to in point (aa) of the second
+subparagraph of Article 34(1), that opinion shall be published together with the documents referred to in the first
+subparagraph of this paragraph.
+Member States may, however , exem pt under takings from the oblig ation to publish the manag ement repor t where a
+copy of all or part of any such repor t can be easily obtained upon request at a price not exceeding its administrative
+cost.
+The exem ption laid down in the fourth subparagraph of this paragraph shall not apply to under takings subject to the
+requirements on sustainability repor ting laid down in Articles 19a and 29a.
+_____________
+(*) Directive (EU) 2017/1132 of the European Parliament and of the Council of 14 June 2017 relating to certain
+aspects of compan y law (OJ L 169, 30.6.2017, p. 46).’;
+(11) in Article 33, paragraph 1 is replaced by the followi ng:
+‘1. Member States shall ensure that the members of the administrative, manage ment and super visor y bodies of an
+under taking, acting within the compet ences assigned to them by national law, have collective responsibility for
+ensur ing that the following documents are drawn up and published in accordance with the requirements of this
+Directive and, where applicable, with the international accounting standards adopt ed pursuant to Regulation (EC)
+No 1606/2002, with Deleg ated Regulation (EU) 2019/815, with the sustainability repor ting standards refer red to in
+Article 29b or Article 29c of this Directive, and with the requirements of Article 29d of this Directive:
+(a) the annual financial statements, the manage ment repor t and the corporate governance statement when provided
+separately; and
+(b) the consolidat ed financial statements, the consolidated manag ement repor ts and the consolidate d corporate
+govern ance statement when provid ed separately .’;
+(12) the title of Chapt er 8 is replaced by the followi ng:
+‘Auditing and assurance of sustainability repor ting’;
+(13) Article 34 is amended as follows :
+(a) in paragraph 1, the second subparagraph is amended as follows:
+(i) point (a)(ii) is replaced by the follo wing:
+‘(ii) whether the manage ment repor t has been prepared in accordance with the applicable legal requirements,
+excluding the requirements on sustainability repor ting laid down in Article 19a of this Directive;’;EN Offi cial Jour nal of the European Union 16.12.2022 L 322/55  
+
+--- Page 42 of 66 ---

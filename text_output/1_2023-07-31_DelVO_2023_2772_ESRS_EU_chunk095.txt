@@ -1,0 +1,46 @@
+File Name: 1_2023-07-31_DelVO_2023_2772_ESRS_EU.pdf
+Converted on: 2025-03-28 03:20:41
+Original Size: 5.82 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 95 of 284
+--------------------------------------------------------------------------------
+
+ELI: http://data.europa.eu/eli/reg_del/2023/2772/oj 97/284Connectivity of energy intensity based on net revenue with financial reporting information
+AR 38. The reconciliation of net revenue from activities in high climate impact sectors to the relevant financial statements
+line item or disclosure (as required by paragraph 43) may be presented either:
+(a) by a cross-reference to the related line item or disclosure in the financial statements; or
+(b) If the net revenue cannot be directly cross-referenced to a line item or disclosure in the financial statements, by
+a quantitative reconciliation using the below tabular format.
+Net revenue from activities in high climate impact sectors
+used to calculate energy intensity
+Net revenue (other)
+Total net revenue (Financial statements)
+Disclosure Requirements E1-6 – Gross Scopes 1, 2, 3 and Total GHG emissions
+Calculation guidance
+AR 39. When preparing the information for reporting GHG emissions as required by paragraph 44, the undertaking shall:
+(a) consider the principles, requirements and guidance provided by the GHG Protocol Corporate Standard
+(version 2004). The undertaking may consider Commission Recommendation (EU) 2021/2279 (51)or the
+requirements stipulated by EN ISO 14064-1:2018. If the undertaking already applies the GHG accounting
+methodology of ISO 14064- 1: 2018, it shall nevertheless comply with the requirements of this standard
+(e.g., regarding reporting boundaries and the disclosure of market-based Scope 2 GHG emissions);
+(b) disclose the methodologies, significant assumptions and emissions factors used to calculate or measure GHG
+emissions accompanied by the reasons why they were chosen, and provide a reference or link to any
+calculation tools used;
+(c) include emissions of CO2, CH4, N2O, HFCs, PFCs, SF6, and NF3. Additional GHG may be considered when
+significant; and
+(d) use the most recent Global Warming Potential (GWP) values published by the IPCC based on a 100-year time
+horizon to calculate CO2eq emissions of non-CO2 gases.
+AR 40. When preparing the information for reporting GHG emissions from its associates, joint ventures, unconsolidated
+subsidiaries (investment entities) and contractual arrangements as required by paragraph 50, the undertaking shall
+consolidate 100% of the GHG emissions of the entities it operationally controls. In practice, this happens when the
+undertakings holds the license - or permit - to operate the assets from these associates, joint ventures,
+unconsolidated subsidiaries (investment entities) and contractual arrangements. When the undertaking has a
+contractually defined part-time operational control, it shall consolidate 100% the GHG emitted during the time of
+its operational control.
+(51)Commission Recommendation (EU) 2021/2279 of 15 December 2021 on the use of the Environmental Footprint methods to
+measure and communicate the life cycle environmental performance of products and organisations (OJ L 471, 30.12.2021, p. 1).OJ L, 22.12.2023 EN  
+
+--- Page 98 of 284 ---

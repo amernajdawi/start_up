@@ -1,0 +1,25 @@
+File Name: 2_E1-6_2011-09-01_G_GHG-PLC_WRI&WBCSD.pdf
+Converted on: 2025-03-28 03:18:25
+Original Size: 3.27 MB
+Chunk Size: 500 tokens with 50 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 204 of 226
+--------------------------------------------------------------------------------
+
+or developing relevant database systems for record
+keeping. Systems may take time to develop, and it is
+important to ensure that all relevant information is
+collected prior to the establishment of the system and
+then transferred to the system once it is operational.
+The data management plan is likely to be an evolving
+document that is updated as data sources change,
+data handling procedures are refined, calculation
+methodologies improve, product inventory
+responsibilities change within a company, or the business
+objectives of the product inventory change.
+Table C.1 outlines which components should be included
+in a data management plan and can be used as a guide for
+creating a plan or for pulling together existing documents
+to constitute the plan.Appendix C. Data Management Plan

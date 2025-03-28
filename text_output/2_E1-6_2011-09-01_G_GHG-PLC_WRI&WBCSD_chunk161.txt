@@ -1,0 +1,43 @@
+File Name: 2_E1-6_2011-09-01_G_GHG-PLC_WRI&WBCSD.pdf
+Converted on: 2025-03-28 03:18:25
+Original Size: 3.27 MB
+Chunk Size: 500 tokens with 50 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 161 of 226
+--------------------------------------------------------------------------------
+
+[106]   Product Life Cycle Accounting and Reporting Standard
+guidanceaudience may be interested in what they can do, as a
+user or consumer of the product, to reduce their impact
+on the inventory. Therefore, a company should inform
+its stakeholders of the steps it plans to implement as
+well as measures its customers or users can implement,
+in order to reduce emissions based on the inventory
+results. If this is a subsequent report, a company should
+also provide an overview of any reductions achieved.
+This should be brief and highlight key initiatives or
+results. Examples include:
+•A plan to focus reductions around a few key emission
+sources;
+•Information on how users/consumers can reduce key
+emission sources ( e.g., reuse, following manufacturer
+use instructions, purchasing green power, etc.); and/or • A summary of reductions or increases based on a
+previous inventory, highlighting the most effective
+initiatives or the reasons why emissions have increased.
+Increases in emissions over the reduction-reporting period
+should be reported with a clear indication that the figure
+represents an increase rather than a reduction. A minus
+sign should not be used as this may confuse the audience.
+A key step in completing the report is to review the
+purposes and context of the study and summarize the
+overall conclusions that can be drawn from the inventory.
+This step involves evaluating key accounting choices
+exercised in developing the inventory and providing a
+perspective on the significance and limitations in the
+product life cycle study. Companies should also clarify
+the purposes that the study sought to fulfill and the
+decisions that were outside its purview.  
+
+--- Page 109 of 148 ---

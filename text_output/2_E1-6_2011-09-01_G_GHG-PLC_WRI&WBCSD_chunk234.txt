@@ -1,0 +1,32 @@
+File Name: 2_E1-6_2011-09-01_G_GHG-PLC_WRI&WBCSD.pdf
+Converted on: 2025-03-28 01:56:27
+Original Size: 3.27 MB
+Chunk Size: 400 tokens with 50 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 234 of 270
+--------------------------------------------------------------------------------
+
+7 It is important to note that nearly all fires in tropical forests are man-made.
+8  IPCC, 2006 IPCC Guidelines for National GHG Inventories, vol. 4: 
+Agriculture, Forestry, and Other Land Use.
+9 FAO, FAOSTAT. Available from http://faostat.fao.org, 2011.
+10  Distribution is used in reference to land-use change impacts to 
+refer to the apportionment of impacts over the amortization
+period. Allocation is defined in chapter 9 as portioning inputs and
+outputs of a common process to its product and co-products.
+Both can occur when calculating land-use change impacts.
+11 Remote sensing is when current multispectral sensors provide
+spectral data for identifying and mapping the crop types allowing
+for precise monitoring of land-use changes. Current drawbacks of
+this method are the relatively recent systematic data collection
+(no regular multispectral coverage for 20 years ago timeframe),
+and the costs of images and processing.
+12 Some examples of market-based models for the agriculture
+and forestry sector include the Food and Agricultural Policy
+Research Institute (FAPRI) and the Forest and Agricultural Sector
+Optimization Model (FASOM).
+13 World Resources Institute, EarthTrends: Environmental
+Information. Available from http://earthtrends.wri.org.
+Washington DC: World Resources Institute.2007.

@@ -1,0 +1,12 @@
+File Name: 1_2023-07-31_DelVO_2023_2772_ESRS_EU.pdf
+Converted on: 2025-03-28 03:20:41
+Original Size: 5.82 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 72 of 284
+--------------------------------------------------------------------------------
+
+(c) D.35.1 - Electric power generation, transmission and distribution, (d) D.35.3 - Steam and air conditioning supply (limited to coal-fired and oil-fired power and/or heat generation), (e) G.46.71 - Wholesale of solid, liquid and gaseous fuels and related products (limited to solid and liquid fuels).
+For gas-related activities, the NACE code definition addresses activities with direct GHG emissions that are higher than 270 gCO2/KWh.OJ L, 22.12.2023 EN

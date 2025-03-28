@@ -1,0 +1,45 @@
+File Name: 1_2023-07-31_DelVO_2023_2772_ESRS_EU.pdf
+Converted on: 2025-03-28 03:20:41
+Original Size: 5.82 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 228 of 284
+--------------------------------------------------------------------------------
+
+ELI: http://data.europa.eu/eli/reg_del/2023/2772/oj 228/284AR 21. In relation to the protection of individuals that use the mechanisms against retaliation, the undertaking may
+describe whether it treats grievances confidentially and with respect to the rights of privacy and data protection;
+and whether to the mechanisms can be used anonymously (for example, through representation by a third party).
+AR 22. When disclosing processes related to providing and enabling remedy for indigenous peoples, relevant information
+includes whether and how the undertaking has considered their customs, traditions, rules and legal systems.
+AR 23. In disclosing whether and how the undertaking knows that affected communities are aware of and trust any of
+these channels, the undertaking may provide relevant and reliable data about the effectiveness of these channels from the perspective of affected communities themselves. Examples of sources of information are surveys of
+community members that have used such channels and their levels of satisfaction with the process and outcomes.
+AR 24. In describing the effectiveness of channels for affected communities to raise concerns, the undertaking may be
+guided by the following questions, based on the “effectiveness criteria for non- judicial grievance mechanisms”, as
+laid out in the UN Guiding Principles on Business and Human Rights, in particular Principle 31. The below considerations may be applied on an individual channel basis or for the collective system of channels:
+(a) do the channels hold legitimacy by providing appropriate accountability for their fair conduct and building stakeholder trust?
+(b) are the channels known and accessible to stakeholders?
+(c) do the channels have clear and known procedures, set timeframes and clarity on the processes?
+(d) do the channels ensure reasonable access to sources of information, advice and expertise?
+(e) do the channels offer transparency by providing sufficient information both to complainants and, where
+applicable, to meet any public interest at stake?
+(f) do the outcomes achieved through the channels accord with internationally recognised human rights?
+(g) does the undertaking identify insights from the channels that support continuous learning in both improving
+the channels and preventing future impacts?
+(h) does the undertaking focus on dialogue with complainants as the means to reach agreed solutions, rather than seeking to unilaterally determine the outcome?
+Disclosure Requirement S3-4 – Taking action on material impacts on affected communities, and approaches to managing material risks and pursuing material opportunities related to affected communities, and effectiveness of
+those actions
+AR 25. It may take time to understand negative impacts and how the undertaking may be involved with them through its
+value chain, as well as to identify appropriate responses and put them into practice. Therefore, the undertaking
+shall consider:
+(a) its general and specific approaches to addressing material negative impacts;
+(b) its social investment or other development programmes aimed at contributing to additional material positive
+impacts;
+(c) how far it has progressed in its efforts during the reporting period; and
+(d) its aims for continued improvement.
+AR 26. Appropriate action can vary according to whether the undertaking causes or contributes to a material impact, or whether the material impact is directly linked to its own operations, products or services through a business
+relationship.OJ L, 22.12.2023 EN  
+
+--- Page 229 of 284 ---

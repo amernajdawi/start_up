@@ -1,0 +1,24 @@
+File Name: 1_2021-07-06_DelVO_2021_2178_TAXORA_EU.pdf
+Converted on: 2025-03-28 03:18:05
+Original Size: 10.30 MB
+Chunk Size: 500 tokens with 50 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 52 of 90
+--------------------------------------------------------------------------------
+
+information provided by the counterparty on the project or activities to which the proceeds will be applied. Credit
+institutions shall provide information on the type of economic activity that is funded. Double counting shall not be
+allowed. Where the same specialised lending exposure is relevant for two environmental objectives, credit institutions shall
+allocate it to the most relevant objective.
+For the purposes of point (1)(c)(2), credit institutions shall rely on the CapEx and turnover KPI that the counterparty shall
+disclose for each environmental objective in accordance with this Regulation. The amount of loans and advances to non-
+financial undertakings shall be the sum of the gross carrying amount of the total loans and advances with unknown use of
+proceeds to non-financial undertakings weighted by the proportion of taxonomy-aligned economic activities with a
+breakdown for transition and enabling activities for each counterparty.
+Credit institutions shall calculate the KPIs for those type of exposures as follows:
+First step = (1)(b)/(1)(a).
+(1)Commission Implementing Regulation (EU) No 680/2014 of 16 April 2014 laying down implementing technical standards with
+regard to supervisory reporting of institutions according to Regulation (EU) No 575/2013 of the European Parliament and of the
+Council (OJ L 191, 28.6.2014, p. 1).EN Official Journal of the European Union 10.12.2021 L 443/39

@@ -1,0 +1,45 @@
+File Name: 1_2023-06-27_DelVO_2023_2486_TAXURA_EU.pdf
+Converted on: 2025-03-28 03:20:36
+Original Size: 8.44 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 70 of 199
+--------------------------------------------------------------------------------
+
+ELI: http://data.europa.eu/eli/reg_del/2023/2486/oj 50/164The economic activity does not include sorting and recovery of combustible fractions from mixed residual waste for the
+production of refuse-derived fuel, such as in mechanical and biological treatment plants.
+The economic activities in this category could be associated with several NACE codes, in particular E38.32 and F42.9 in
+accordance with the statistical classification of economic activities established by Regulation (EC) No 1893/2006.
+Technical screening criteria
+Substantial contribution to the transition to a circular economy
+1.Origin of the feedstock material
+The non-hazardous waste feedstock originates from one or multiple of the following sources:
+(a) separately collected and transported waste, including in commingled fractions (71);
+(b) non-hazardous waste fractions originating from dismantling and depollution activities from end-of-life products;
+(c) construction and demolition waste from selective demolition or otherwise segregated at source;
+(d) non-hazardous waste fractions originating from sorting of mixed waste intended for recycling where the facility meets
+a defined quality criteria of performance and the waste is coming from areas complying with separate collection
+obligations laid out in Directive 2008/98/EC.
+2.Material recovery
+The activity attains or exceeds existing plant-specific material recovery rates by competent authorities set in applicable
+waste management plans, permits or contracts or by Extended Producer Responsibility (EPR) schemes. The facility
+implements internally defined Key Performance Indicators (KPIs) to track performance or attainment of applicable
+recovery rates.
+For materials for which separate collection is mandatory, the activity converts at least 50 %, in terms of weight, of the
+processed separately collected non-hazardous waste into secondary raw materials that are suitable for the substitution of
+primary raw materials in production processes.
+3.Proper management of waste
+The facility recovering non-hazardous waste has implemented Best Available Techniques (BAT) based on BAT 2 on
+improving overall environmental performance of the plant set out in the best available techniques (BAT) conclusions for
+waste treatment (72)including:
+(a) a waste characterisation procedure and a strict waste acceptance procedure regarding the quality of incoming waste;
+(b) a tracking system and inventory aiming to track the location and quantity of waste in the plant;
+(c) an output quality management system to ensure that the output of the waste treatment is in line with applicable quality requirements or standards, using for example existing EN or ISO standards;
+(d) the relevant waste segregation measures or procedures to ensure that waste, after separation, is kept separated depending on its properties in order to enable easier and environmentally safer storage and treatment;
+(71)In accordance with Article 10(3) of Directive 2008/98/EC of the European Parliament and of the Council of 19 November 2008 on
+waste and repealing certain Directives (OJ L 312, 22.11.2008, p. 3) and with the national legislation and waste management plans.
+(72)Implementing Decision (EU) 2018/1147.OJ L, 21.11.2023 EN  
+
+--- Page 51 of 164 ---

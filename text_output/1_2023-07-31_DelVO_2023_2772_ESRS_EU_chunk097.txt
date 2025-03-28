@@ -1,0 +1,50 @@
+File Name: 1_2023-07-31_DelVO_2023_2772_ESRS_EU.pdf
+Converted on: 2025-03-28 03:20:41
+Original Size: 5.82 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 97 of 284
+--------------------------------------------------------------------------------
+
+ELI: http://data.europa.eu/eli/reg_del/2023/2772/oj 99/284(b) include purchased or acquired electricity, steam, heat, and cooling consumed by the undertaking;
+(c) avoid double counting of GHG emissions reported under Scope 1 or 3;
+(d) apply the location-based and market-based methods to calculate Scope 2 GHG emissions and provide
+information on the share and types of contractual instruments. Location-based method quantifies Scope 2
+GHG emissions based on average energy generation emission factors for defined locations, including local,
+subnational, or national boundaries (GHG Protocol, “Scope 2 Guidance”, Glossary, 2015). Market-based method quantifies Scope 2 GHG emissions based on GHG emissions emitted by the generators from which
+the reporting entity contractually purchases electricity bundled with instruments, or unbundled instruments
+on their own (GHG Protocol, “Scope 2 Guidance”, Glossary, 2015); in this case, the undertaking may disclose
+the share of market-based scope 2 GHG emissions linked to purchased electricity bundled with instruments
+such as Guarantee of Origins or Renewable Energy Certificates. The undertaking shall provide information
+about the share and types of contractual instruments used for the sale and purchase of energy bundled with attributes about the energy generation or for unbundled energy attribute claims.
+(e) disclose biogenic emissions of CO2 carbon from the combustion or biodegradation of biomass separately
+from the Scope 2 GHG emissions but include emissions of other types of GHG (in particular CH4 and N2O).
+In case the emission factors applied do not separate the percentage of biomass or biogenic CO2, the
+undertaking shall disclose this. In case GHG emissions other than CO2 (particularly CH4 and N2O) are not
+available for, or excluded from, location-based grid average emissions factors or with the market-based
+method information, the undertaking shall disclose this.
+(f) not include any removals, or any purchased, sold or transferred carbon credits or GHG allowances in the
+calculation of Scope 2 GHG emissions.
+AR 46. When preparing the information on gross Scope 3 GHG emissions required under paragraph 51, the undertaking
+shall:
+(a) consider the principles and provisions of the GHG Protocol Corporate Value Chain (Scope 3) Accounting and
+Reporting Standard (Version 2011); and it may consider Commission Recommendation (EU) 2021/2279 or
+the relevant requirements for the quantification of indirect GHG emissions from EN ISO 14064-1:2018;
+(b) if it is a financial institution, consider the GHG Accounting and Reporting Standard for the Financial Industry
+from the Partnership for Carbon Accounting Financial (PCAF), specifically part A “Financed Emissions”
+(version December 2022);
+(c) screen its total Scope 3 GHG emissions based on the 15 Scope 3 categories identified by the GHG Protocol
+Corporate Standard and GHG Protocol Corporate Value Chain (Scope 3) Accounting and Reporting Standard (Version 2011) using appropriate estimates. Alternatively, it may screen its indirect GHG emissions based on
+the categories provided by EN ISO 14064-1:2018 clause 5.2.4 (excluding indirect GHG emissions from imported energy);
+(d) identify and disclose its significant Scope 3 categories based on the magnitude of their estimated GHG
+emissions and other criteria provided by GHG Protocol Corporate Value Chain (Scope 3) Accounting and
+Reporting Standard (Version 2011, p. 61 and 65-68) or EN ISO 14064-1:2018 Annex H.3.2, such as
+financial spend, influence, related transition risks and opportunities or stakeholder views;
+(e) calculate or estimate GHG emissions in significant Scope 3 categories using suitable emissions factors;
+(f) update Scope 3 GHG emissions in each significant category every year on the basis of current activity data;
+update the full Scope 3 GHG inventory at least every 3 years or on the occurrence of a significant event or a
+significant change in circumstances (a significant event or significant change in circumstances can, for
+example, relate to changes in the undertaking’s activities or structure, changes in the activities or structure of
+its upstream and downstream value chain(s), a change in calculation methodology or in the discovery of

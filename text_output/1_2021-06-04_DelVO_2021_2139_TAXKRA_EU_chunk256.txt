@@ -1,0 +1,61 @@
+File Name: 1_2021-06-04_DelVO_2021_2139_TAXKRA_EU.pdf
+Converted on: 2025-03-28 03:20:30
+Original Size: 2.76 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 256 of 447
+--------------------------------------------------------------------------------
+
+--- Page 191 of 349 ---
+
+(d) are monitored and measured against pre-defined indicators and remedial action is considered where those
+indicators are not met;
+(e) where the solution implemented is physical and consists in an activity for which technical screening criteria
+have been specified in this Annex, the solution complies with the do no significant harm technical screening
+criteria for that activity.  
+Do no significant harm (‘DNSH’)  
+(1) Climate change mitigation  Greenhouse gas emissions (  127  ) from the cement production processes are: 
+(a) for grey cement clinker, lower than 0,816 (  128  ) tCO  2 e per tonne of 
+grey cement clinker;
+(b) for cement from grey clinker or alternative hydraulic binder, lower
+than 0,530 (  129  ) tCO  2 e per tonne of cement or alternative binder 
+manufactured.  
+(3) Sustainable use and protection of
+water and marine resources  The activity complies with the criteria set out in Appendix B to this 
+Annex.  
+(4) Transition to a circular economy  N/A  
+(5) Pollution prevention and control  The activity complies with the criteria set out in Appendix C to this 
+Annex.
+Emissions are within or lower than the emission levels associated with the
+best available techniques (BAT-AEL) ranges set out in the latest relevant
+best available techniques (BAT) conclusions, including the best available
+techniques (BAT) conclusions for the production of cement, lime and
+magnesium oxide (  130  ). No significant cross-media effects occur (  131  ). 
+For manufacture of cement employing hazardous wastes as alternative
+fuels, measures are in place to ensure the safe handling of waste.  
+(6) Protection and restoration of
+biodiversity and ecosystems  The activity complies with the criteria set out in Appendix D to this 
+Annex.  
+3.8.  Manufacture of aluminium  
+Description of the activity  
+Manufacture of aluminium through primary alumina (bauxite) process or secondary aluminium recycling.  
+The economic activities in this category could be associated with NACE code C24.42, C24.53 in accordance with
+the statistical classification of economic activities established by Regulation (EC) No 1893/2006.  
+___________  
+( 127  ) Calculated in accordance with Regulation (EU) 2019/331.  
+( 128  ) Reflecting the median value of the installations in 2016 and 2017 (t CO  2 equivalents/t) of the data collected in the context of 
+establishing the Commission Implementing Regulation (EU) 2021/447, determined on the basis of verified information on the
+greenhouse gas efficiency of installations reported pursuant to Article 11 of Directive 2003/87/EC.  
+( 129  ) Reflecting the median value of the installations in 2016 and 2017 (t CO  2 equivalents/t) of the data collected for grey cement clinker 
+in the context of establishing the Commission Implementing Regulation (EU) 2021/447, multiplied by the clinker to cement ratio
+(0.65), determined on the basis of verified information on the greenhouse gas efficiency of installations reported pursuant to
+Article 11 of Directive 2003/87/EC.  
+( 130  ) Commission Implementing Decision 2013/163/EU of 26 March 2013 establishing the best available techniques (BAT) conclusions 
+under Directive 2010/75/EU of the European Parliament and of the Council on industrial emissions for the production of cement,
+lime and magnesium oxide (OJ L 100, 9.4.2013, p. 1).  
+( 131  ) See Best Available Techniques Reference Document (BREF) on Economics and Cross-Media Effects (version of 4.6.2021: 
+https://eippcb.jrc.ec.europa.eu/sites/default/files/2019-11/ecm_bref_0706.pdf).EN  9.12.2021 Official Journal of the European Union L 442/191
+
+--- Page 192 of 349 ---

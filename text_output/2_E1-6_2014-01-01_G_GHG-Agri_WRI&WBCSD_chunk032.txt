@@ -1,0 +1,100 @@
+File Name: 2_E1-6_2014-01-01_G_GHG-Agri_WRI&WBCSD.pdf
+Converted on: 2025-03-28 03:20:54
+Original Size: 1.75 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 32 of 65
+--------------------------------------------------------------------------------
+
+To ensure consistent tracking of GHG fluxes over time, the base period inventory shall be
+recalculated when changes occur to the i nventory boundaries or i nventory development
+process that would significantly impact the ba se inventory. These changes include:   
+ Structural changes that transfer the owne rship or control of operations from one
+company to another as long as those operati ons existed in the base period of the
+reporting company. Examples: mergers, acq uisitions, and divestments (see Figure
+6-2).  
+ Changes in calculation methodologies. Ex ample: the use of improved emission
+factors.
+ The discovery of errors that are signifi cant on their own or collectively. Example:
+the discovery of errors in activity data.
+In determining whether changes are signi ficant, companies should set significance
+thresholds (i.e., changes are cumulatively sign ificant if they cause a change that exceeds
+x% of the base period inve ntory). The GHG Protocol does not define significance
+thresholds, although many GHG reporting programs do provide recommended thresholds.  Once defined, a significance thre shold should be applied consistently over 
+time. 012345
+123456
+012345
+123456
+Before rolling of base period
+After rolling of base period
+Amount of GHG flux
+Base period Current reporting period
+
+--- Page 45 of 103 ---
+
+GHG Protocol Agricultural Guidance
+
+45
+
+Figure 6-2.  Recalculating base period inventorie s for structural changes. Here, the 
+reporting company acquires a business at the beginning of year 3. The emissions from
+that business during year 3 are reflected in  the reporting company’s inventory for that 
+year, but the inventories for th e base period and year 2 are recalculated to include the
+acquired business’s emissions during those two years.  
+
+Changes that do not trigger recalculations
+ Organic growth or decline. Organic growth  and decline is defined as increases or 
+decreases in production output, changes in pr oduct mix, or closures and openings of
+operating units that are owned or controll ed by the reporting company. For instance,
+an egg producer would experience organic growth if it increased production, perhaps
+by building a new facility, but it would not  experience organic growth if it bought 
+out a pre-existing facility. Changes in th e amount of land leased by a company are
+also considered organic change and do not tr igger recalculations, even if that action
+substantially increase s production levels.  
+ The acquisition (or insourcing) of an operation that did not exist in the base period of
+the reporting company.
+ Operational changes, such as switching from a feedlot to a rotational grazing
+operation, assuming both operations are owned or controlled by the reporting
+company.  
+
+--- Page 46 of 103 ---
+
+GHG Protocol Agricultural Guidance
+
+46
+Chapter 7: Calculating GHG Fluxes
+Calculating GHG fluxes can be the most challe nging part of devel oping GHG inventories
+in the agricultural sector. Companies should first identify the management practices and
+emissions sources that would need to be refl ected in their inventories (see Chapter 4 and
+Chapter 5), before selecting a calculation appr oach. This selection is a key step, because
+the likely accuracy of GHG flux data and the ty pes of activity data needed vary widely
+amongst approaches. Figure 7-1 shows the general process for calculating GHG fluxes.
+
+Figure 7-1.  General process for ca lculating GHG flux data. 
+                   This chapter: 
+ Describes the types of activ ity data typically needed to calculate GHG fluxes.  
+ Provides guidance on prioritizing emissi ons sources for data collection.
+ Describes the general approaches fo r calculating the GHG fluxes to/from
+agricultural, especially non-mechanical, sources.
+ Describes criteria that are useful in selecting specific calculation tools.
+ Describes common sources of uncertainty  in calculating GHG data that offer 
+opportunities for improving inventory quality.
+
+Calculation
+approach
+GHG flux data Activity data:
+Data on farm production
+(e.g., number of
+livestock grown )
+Data on environmental
+factors (e.g., soil type,
+climate, and weather)
+Data on farm inputs
+(e.g., amount of
+fertilizer used )
+
+--- Page 47 of 103 ---
+
+GHG Protocol Agricultural Guidance

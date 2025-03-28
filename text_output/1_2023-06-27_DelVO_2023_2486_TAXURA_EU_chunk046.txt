@@ -1,0 +1,44 @@
+File Name: 1_2023-06-27_DelVO_2023_2486_TAXURA_EU.pdf
+Converted on: 2025-03-28 03:20:36
+Original Size: 8.44 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 46 of 199
+--------------------------------------------------------------------------------
+
+ELI: http://data.europa.eu/eli/reg_del/2023/2486/oj 29/164(iii) ensures open and equal access and conditions for all economic operators wishing to become part of it, including
+proporitionate distribution of costs and benefits for all system participants (3);
+(c) use of bio-waste feedstock: at least 65 % of the packaging product by weight consists of sustainable bio-waste
+feedstock (4). Agricultural based bio-waste used for the manufacture of plastic packaging complies with the criteria laid
+down in Article 29, paragraphs 2 to 5, of Directive (EU) 2018/2001. Forest based bio-waste used for the manufacture of plastic packaging complies with the criteria laid down in Article 29, paragraphs 6 and 7, of that Directive.
+2.The packaging product is recyclable in practice and at scale. The packaging product demonstrates recyclability in
+practice and at scale by complying with all of the criteria specified below (
+5).
+2.1. The unit of packaging (6)is designed to be recyclable, so that it can be sorted and recycled at the end of life and that the
+resulting recycled material is of such quality that it can be used again in packaging applications. Colours, additives or design elements of the packaging that contaminate the recycling stream once packaging becomes waste and substantially reduce
+the quality of the resulting recyclates are not used. At best, the unit of packaging is made from the same material (mono-
+material solution) or, as a minimum, the materials present in the packaging are compatible with the existing recycling
+streams and sorting processes. Where all packaging components are not compatible with the existing recycling streams
+and processes, the packaging must allow for separation of its non-recyclable components, either manually by consumers
+or within the existing sorting and recycling processes.
+2.2. In addition, the packaging is evaluated as recyclable at scale where it complies with one of the following criteria:
+(a) collection, sorting, and recycling is proven to work in practice and at scale: the plastic packaging material of the unit of
+packaging achieves the minimum recycling rate (
+7)target for plastic packaging waste set by the Directive 94/62/EC,
+either in the national jurisdiction where the packaging is put on the market, regardless of the jurisdiction’s size, or in Member States that collectively represent at least 100 million inhabitants;
+(b) collection, sorting and recycling is proven to be on track to work in practice and at scale: sorting and recycling
+processes are available at the Technology Readiness of Level 9 as defined by ISO 16290:2013 (
+8).
+3.When the packaging material is produced, the following substances presenting hazardous properties specified below are
+not added to the feedstock:
+(a) substances meeting the criteria laid down in Article 57 and identified in accordance with Article 59(1) of Regulation
+(EC) No 1907/2006;
+(b) substances meeting the criteria for classification as carcinogenic category 1 or 2 in accordance with Regulation (EC) No 1272/2008 of the European Parliament and the Council (
+9);
+(c) substances meeting the criteria for classification as mutagenic category 1 or 2 in accordance with Regulation (EC) No 1272/2008;
+(3)The Commission will review these conditions once the revision of Directive 94/62/EC of the European Parliament and of the Council
+of 20 December 1994 on packaging and packaging waste (OJ L 365, 31.12.1994, p. 10) will be adopted.
+(4)Sustainable bio-waste feedstock refers to industrial bio-waste and municipal bio-waste, it excludes primary biomass in the absence of legally agreed sustainability criteria.
+(5)The Commission will review these conditions once the revision of Directive 94/62/EC of the European Parliament and of the Council of 20 December 1994 on packaging and packaging waste (OJ L 365, 31.12.1994, p. 10) will be adopted.

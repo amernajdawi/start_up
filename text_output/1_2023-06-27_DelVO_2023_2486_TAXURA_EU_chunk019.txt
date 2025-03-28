@@ -1,0 +1,23 @@
+File Name: 1_2023-06-27_DelVO_2023_2486_TAXURA_EU.pdf
+Converted on: 2025-03-28 03:20:36
+Original Size: 8.44 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 19 of 199
+--------------------------------------------------------------------------------
+
+ELI: http://data.europa.eu/eli/reg_del/2023/2486/oj 10/164(4) Annex VI is replaced by the text set out in Annex VI to this Regulation;
+(5) Annex VIII is replaced by the text set out in Annex VII to this Regulation.
+Article 6
+This Regulation shall enter into force on the twentieth day following that of its publication in the Official Journal of the
+European Union.
+It shall apply from 1 January 2024.
+This Regulation shall be binding in its entirety and directly applicable in all Member States.
+Done at Brussels, 27 June 2023.
+For the Commission
+The President
+Ursula VON DER LEYENOJ L, 21.11.2023 EN  
+
+--- Page 11 of 164 ---

@@ -1,0 +1,40 @@
+File Name: 2_E1-6_2004-03_G_GHG-Prot_WRI&WBCSD.pdf
+Converted on: 2025-03-28 03:18:16
+Original Size: 3.51 MB
+Chunk Size: 500 tokens with 50 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 105 of 225
+--------------------------------------------------------------------------------
+
+--- Page 53 of 116 ---
+
+2. Develop a quality management plan. This plan
+describes the steps a company is taking to implementits quality management system, which should beincorporated into the design of its inventory programfrom the beginning, although further rigor andcoverage of certain procedures may be phased inover multiple years. The plan should include proce-dures for all organizational levels and inventorydevelopment processes—from initial data collectionto final reporting of accounts. For efficiency andcomprehensiveness, companies should integrate (andextend as appropriate) existing quality systems tocover GHG management and reporting, such as anyISO procedures. To ensure accuracy, the bulk of the
+plan should focus on practical measures for imple-menting the quality management system, asdescribed in steps three and four.
+3. Perform generic quality checks. These apply to data
+and processes across the entire inventory, focusing onappropriately rigorous quality checks on data handling,documentation, and emission calculation activities(e.g., ensuring that correct unit conversions are used).Guidance on quality checking procedures is providedin the section on implementation below (see table 4).CHAPTER 7 Managing Inventory Quality 51GUIDANCETABLE 4.  Generic quality management measures
+DATA GATHERING, INPUT, AND HANDLING ACTIVITIES
+Check a sample of input data for transcription errors
+Identify spreadsheet modifications that could provide additional controls or checks on quality
+Ensure that adequate version control procedures for electronic files have been implemented
+Others
+DATA DOCUMENTATIONConfirm that bibliographical data references are included in spreadsheets for all primary data
+Check that copies of cited references have been archived
+Check that assumptions and criteria for selection of boundaries, base years, methods, activity data, emission factors, and othe r
+parameters are documented
+Check that changes in data or methodology are documented
+Others
+CALCULATING EMISSIONS AND CHECKING CALCULATIONSCheck whether emission units, parameters, and conversion factors are appropriately labeled
+Check if units are properly labeled and correctly carried through from beginning to end of calculations
+Check that conversion factors are correct
+Check the data processing steps (e.g., equations) in the spreadsheets
+Check that spreadsheet input data and calculated data are clearly differentiated
+Check a representative sample of calculations, by hand or electronically
+Check some calculations with abbreviated calculations (i.e., back of the envelope calculations)
+Check the aggregation of data across source categories, business units, etc.
+Check consistency of time series inputs and calculations
+Others
+
+--- Page 54 of 116 ---

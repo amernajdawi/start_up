@@ -1,0 +1,51 @@
+File Name: 1_2023-07-31_DelVO_2023_2772_ESRS_EU.pdf
+Converted on: 2025-03-28 03:20:41
+Original Size: 5.82 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 59 of 284
+--------------------------------------------------------------------------------
+
+ELI: http://data.europa.eu/eli/reg_del/2023/2772/oj 59/284Disclosure Requirement GOV-5 – Risk management and internal controls over sustainability reporting
+AR 11. This Disclosure Requirement focuses solely on the internal control processes over the sustainability reporting
+process. The undertaking may consider risks such as the completeness and integrity of the data, the accuracy of
+estimation results, the availability of upstream and/or downstream value chain data, and the timing of the
+availability of the information.
+3. Strategy
+Disclosure Requirement SBM–1 Strategy, business model and value chain
+AR 12. To provide the information on sectors required by paragraph 40, the undertaking shall map its significant activities
+in accordance with ESRS sectors. If a code for a sub-sector does not exist, the caption “others” shall be used.
+AR 13. For the purposes of the disclosures required in paragraph 40, a group of products and/or services offered, a group
+of markets and/or customer groups served, or an ESRS sector, is significant for the undertaking if it meets one or
+both of the following criteria:
+(a) it accounts for more than 10 per cent of the undertaking’s revenue;
+(b) it is connected with material actual impacts or material potential negative impacts of the undertaking.
+AR 14. In preparing disclosures relating to its business model and value chain, the undertaking shall consider:
+(a) its key activities, resources, distribution channels and customer segments;
+(b) its key business relationships and their key characteristics, including relationships with customers and
+suppliers;
+(c) the cost structure and revenue of its business segments, in line with IFRS 8 disclosure requirements in the
+financial statement, where applicable;
+(d) the potential impacts, risks and opportunities in its significant sector(s) and their possible relationship to its
+own business model or value chain.
+AR 15. Contextual information may be particularly relevant for users of the undertaking’s sustainability statement, to
+understand to what extent the disclosures include upstream and/or downstream value chain information. The
+description of the main features of the upstream and/or downstream value chain and where applicable the identification of key value chains should support an understanding of how the undertaking applies the
+requirements of ESRS 1 chapter 5 and the materiality assessment performed by the undertaking in line with ESRS
+1 chapter 3. The description may provide a high-level overview of the key features of upstream and/or downstream
+value chain entities indicating their relative contribution to the undertaking’s performance and position and
+explaining how they contribute to the value creation of the undertaking.
+Disclosure Requirement SBM-2 – Interests and views of stakeholders
+AR 16. The views and interests of stakeholders that are expressed as part of the undertaking’s engagement with
+stakeholders through its due diligence process may be relevant to one or more aspects of its strategy or business
+model. As such, they may affect the undertaking’s decisions regarding the future direction of the strategy or
+business model.
+Disclosure Requirement SBM-3 – Material impacts, risks and opportunities and their interaction with strategy and
+business model
+AR 17. When describing where in its upstream and/or downstream value chain material impacts, risks and opportunities
+are concentrated, the undertaking shall consider: geographical areas, facilities or types of assets, inputs, outputs
+and distribution channels.OJ L, 22.12.2023 EN  
+
+--- Page 60 of 284 ---

@@ -1,0 +1,38 @@
+File Name: 2_E1-6_2011-09-01_G_GHG-PLC_WRI&WBCSD.pdf
+Converted on: 2025-03-28 03:18:25
+Original Size: 3.27 MB
+Chunk Size: 500 tokens with 50 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 119 of 226
+--------------------------------------------------------------------------------
+
+--- Page 78 of 148 ---
+
+[76]   Product Life Cycle Accounting and Reporting Standard
+guidanceBox [9.4]  Comparing closed loop approximation and the recycled content method
+The closed loop approximation and recycled content method allocate emissions and removals differently, and
+choosing one method over the other can produce different inventory results. The following simplified example
+highlights this difference: in this case both methods are equally appropriate for a product that has virgin and
+recycling material input, recycled material output, and waste.
+Example parameters
+Example ResultsData  Value  Units
+Material input   5  tons
+Material o utput   5  tons
+Recycled material input  40%  Percent of total input
+Virgin material input  60%  Percent of total input
+Recycled material output  25%  Percent of total output
+Waste output  75%  Percent of total output
+Virgin material acquisition and preprocessing  10  kg CO2e/ton
+Recycled material acquisition (MRF) and preprocessing  3  kg CO2e/ton
+Waste treatment  5  kg CO2e/ton
+Inventory results (CO2e) Recycled content  Closed loop  
+method approximation
+Material acquisition and preprocessing 36  50
+End-of-life 19  23
+Virgin material displacement factor  0  [13]
+Total 55  60*
+*Total = material acquisition & pre-processing + end-of-life - virgin material displacement factor
+
+--- Page 79 of 148 ---

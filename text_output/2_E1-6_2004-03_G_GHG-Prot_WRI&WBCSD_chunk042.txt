@@ -1,0 +1,50 @@
+File Name: 2_E1-6_2004-03_G_GHG-Prot_WRI&WBCSD.pdf
+Converted on: 2025-03-28 03:20:43
+Original Size: 3.51 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 42 of 104
+--------------------------------------------------------------------------------
+
+CHAPTER 6 Identifying and Calculating GHG Emissions 47GUIDANCEdata should be available and transparent to staff at all
+corporate levels. Corporate staff should also verify thatfacility-reported data are based on well defined, consis-tent, and approved inventory boundaries, reportingperiods, calculation methodologies, etc.
+Common guidance on reporting to corporate level
+Reports from facility level to corporate or divisionoffices should include all relevant information as speci-fied in chapter 9. Some reporting categories arecommon to both the centralized and decentralizedapproaches and should be reported by facilities to theircorporate offices. These include:
+A brief description of the emission sources
+A list and justification of specific exclusion or inclu-
+sion of sources
+Comparative information from previous years
+The reporting period covered
+Any trends evident in the data
+Progress towards any business targets
+A discussion of uncertainties in activity/fuel use or
+emissions data reported, their likely cause, and recom-mendations for how data can be improved
+A description of events and changes that have an impact
+on reported data (acquisitions, divestitures, closures,technology upgrades, changes of reporting boundariesor calculation methodologies applied, etc.).
+REPORTING FOR THE CENTRALIZED APPROACH
+In addition to the activity/fuel use data and aforemen-tioned common categories of reporting data, facilitiesfollowing the centralized approach by reportingactivity/fuel use data to the corporate level should alsoreport the following:
+Activity data for freight and passenger transport
+activities (e.g., freight transport in tonne-kilometers)
+Activity data for process emissions (e.g., tonnes of
+fertilizer produced, tonnes of waste in landfills)
+Clear records of any calculations undertaken to derive
+activity/fuel use data
+Local emission factors necessary to translate fuel use
+and/or electricity consumption into CO
+2emissions.REPORTING FOR THE DECENTRALIZED APPROACH
+In addition to the GHG emissions data and aforemen-tioned common categories of reporting data, individualfacilities following the decentralized approach byreporting calculated GHG emissions to the corporatelevel should also report the following:
+A description of GHG calculation methodologies and
+any changes made to those methodologies relative toprevious reporting periods
+Ratio indicators (see chapter 9)
+Details on any data references used for the calculations,
+in particular information on emission factors used.
+Clear records of calculations undertaken to derive
+emissions data should be kept for any future internal orexternal verification.
+
+--- Page 50 of 116 ---
+
+ompanies have different reasons for managing the quality of their GHG emissions inventory, ranging from identifying opportunities for improvement to stakeholder demand to preparation for regulation. The GHG Protocol Corporate Standard recognizes that these reasons are a function of a company’s goals and its expectations for the future. A company’s goals for andvision of the evolution of the GHG emissions issue should guide the design ofits corporate inventory, the implementation of a quality management system,and the treatment of uncertainty within its inventory. GUIDANCE 48C7Managing Inventory Quality GUIDANCE
+
+--- Page 51 of 116 ---

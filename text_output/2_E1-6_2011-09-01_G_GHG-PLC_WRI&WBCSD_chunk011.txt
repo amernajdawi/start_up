@@ -1,0 +1,67 @@
+File Name: 2_E1-6_2011-09-01_G_GHG-PLC_WRI&WBCSD.pdf
+Converted on: 2025-03-28 03:20:53
+Original Size: 3.27 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 11 of 116
+--------------------------------------------------------------------------------
+
+[14]   Product Life Cycle Accounting and Reporting Standard
+requirements
+3.2  Overview of steps in product 
+accounting and reporting
+Figure 3.1 provides an overview of the steps taken to
+perform a product GHG inventory that is in conformance
+with this standard. Each of these steps is described in
+detail in the following chapters. 3.3  Summary of Product Standard 
+requirements
+Table 3.1 provides a summary of all the requirements
+in the Product Standard . Definitions and guidance are
+provided in the following chapters.
+Table [3.1] Summary of requirements
+Chapter Requirements
+4.  Accounting and  
+Reporting Principles• GHG accounting and reporting of a product inventory shall follow the principles  
+of relevance, accuracy, completeness, consistency, and transparency
+5.  Fundamentals of  
+Product Life  
+Cycle Accounting• A GHG product inventory shall follow the life cycle and attributional approaches
+6.  Establishing  
+the Scope of a  
+Product Inventory• Companies shall account for carbon dioxide (CO2), methane (CH4), nitrous oxide
+(N2O), sulfur hexafluoride (SF6), perfluorocarbons (PFCs), and hydrofluorocarbons
+(HFCs) emissions to, and removals from, the atmosphere
+• Additional GHGs included in the inventory shall be listed in the inventory report
+• Companies shall define the product, unit of analysis, and reference flow
+• For all final products, companies shall define the unit of analysis as a  
+functional unit
+• For intermediate products where the eventual function is unknown, companies
+shall define the unit of analysis as the reference flow
+7. Boundary Setting • The boundary of the product GHG inventory shall include all attributable processes
+• Companies shall report the life cycle stage definitions and descriptions
+• Companies shall disclose and justify any exclusions of attributable processes in
+the inventory report
+• Companies shall report attributable processes in the form of a process map
+• Companies shall report any non-attributable processes included in the boundary
+• The boundary for final products shall include the complete life cycle,  
+from cradle-to-grave
+• The boundary of a cradle-to-gate partial life cycle inventory shall not include
+product use or end-of-life processes in the inventory results
+• Companies shall disclose and justify when a cradle-to-gate boundary is defined in
+the inventory report
+• Companies shall report the time period of the inventory
+• Companies shall report the method used to calculate land-use change impacts,
+when applicable
+8.  Collecting Data  
+and Assessing  
+Data Quality• Companies shall collect data for all processes included in the inventory boundary
+• Companies shall collect primary data for all processes under their ownership or control
+• During the data collection process, companies shall assess the data quality of
+activity data, emission factors, and/or direct emissions data by using the data
+quality indicators
+• For significant processes, companies shall report a descriptive statement on  
+the data sources, the data quality, and any efforts taken to improve data quality
+
+--- Page 17 of 148 ---

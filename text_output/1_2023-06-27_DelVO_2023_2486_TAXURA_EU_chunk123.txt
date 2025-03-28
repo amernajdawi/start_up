@@ -1,0 +1,22 @@
+File Name: 1_2023-06-27_DelVO_2023_2486_TAXURA_EU.pdf
+Converted on: 2025-03-28 03:20:36
+Original Size: 8.44 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 123 of 199
+--------------------------------------------------------------------------------
+
+(a) the API is a naturally occurring substance, such as vitamins, electrolytes, amino acids, peptides, proteins, nucleotides,
+carbohydrates and lipids, and, in line with the European Medicines Agency Guideline on the environmental risk
+assessment of medicinal products for human use (EMA ERA guideline) (
+1), is generally considered to be degradable in
+the environment (2);
+(1)European Medicines Agency Guidelines on the environmental risk assessment of medicinal products for human use, version of
+27.6.2023 available at: https://www.ema.europa.eu/en/environmental-risk-assessment-medicinal-products-human-use-scientific-
+guideline.
+(2)Key metabolites are human metabolites likely to be excreted into the environment. Those metabolites are identified in (non-)clinical studies on the metabolism of medicinal products available in the marketing authorisation applications. Such metabolites are to be
+identified according to EMA/CPMP/ICH/286/1995, page 8. Key transformation products (TP) of these key human metabolites of the
+parent compound (API) are those that exceed 10 % of Dissolved Organic Carbon (DOC) or Total Organic Carbon (TOC) of the parent
+compound.OJ L, 21.11.2023 EN

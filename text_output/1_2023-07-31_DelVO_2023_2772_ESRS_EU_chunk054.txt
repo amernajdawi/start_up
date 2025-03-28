@@ -1,0 +1,49 @@
+File Name: 1_2023-07-31_DelVO_2023_2772_ESRS_EU.pdf
+Converted on: 2025-03-28 03:20:41
+Original Size: 5.82 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 54 of 284
+--------------------------------------------------------------------------------
+
+ELI: http://data.europa.eu/eli/reg_del/2023/2772/oj 54/284Minimum Disclosure Requirement – Actions MDR-A – Actions and resources in relation to material sustainability
+matters
+66. The undertaking shall apply the requirements for the content of disclosures in this provision when it describes the
+actions through which it manages each material sustainability matter including action plans and resources
+allocated and/or planned.
+67. The objective of this Minimum Disclosure Requirement is to provide an understanding of the key actions
+taken and/or planned to prevent, mitigate and remediate actual and potential impacts, and to address risks and
+opportunities, and where applicable achieve the objectives and targets of related policies.
+68. Where the implementation of a policy requires actions, or a comprehensive action plan, to achieve its objectives, as
+well as when actions are implemented without a specific policy, the undertaking shall disclose the following
+information:
+(a) the list of key actions taken in the reporting year and planned for the future, their expected outcomes and, where
+relevant, how their implementation contributes to the achievement of policy objectives and targets;
+(b) the scope of the key actions (i.e., coverage in terms of activities, upstream and/or downstream value chain,
+geographies and, where applicable, affected stakeholder groups);
+(c) the time horizons under which the undertaking intends to complete each key action;
+(d) if applicable, key actions taken (along with results) to provide for and cooperate in or support the provision of
+remedy for those harmed by actual material impacts;
+(e) if applicable, quantitative and qualitative information regarding the progress of actions or action plans disclosed
+in prior periods.
+69. Where the implementation of an action plan requires significant operational expenditures (Opex) and/or capital expenditures (Capex) the undertaking shall:
+(a) describe the type of current and future financial and other resources allocated to the action plan, including if
+applicable, the relevant terms of sustainable finance instruments, such as green bonds, social bonds and green loans, the environmental or social objectives, and whether the ability to implement the actions or action plan
+depends on specific preconditions, e.g., granting of financial support or public policy and market developments;
+(b) provide the amount of current financial resources and explain how they relate to the most relevant amounts
+presented in the financial statements; and
+(c) provide the amount of future financial resources.
+5. Metrics and targets
+70. This chapter sets out Minimum Disclosure Requirements that shall be included when the undertaking discloses
+information on its metrics and targets related to each material sustainability matter. They shall be applied together
+with the Disclosure Requirements, including Application Requirements, provided in the relevant topical ESRS. They
+shall also be applied when the undertaking prepares entity-specific disclosures.
+71. The corresponding disclosures shall be located alongside disclosures prescribed by the topical ESRS.
+72. If the undertaking cannot disclose the information on targets required under the relevant topical ESRS, because it has
+not set targets with reference to the specific sustainability matter concerned, it shall disclose this to be the case, and
+provide reasons for not having adopted targets. The undertaking may disclose a timeframe in which it aims to adopt
+them.OJ L, 22.12.2023 EN  
+
+--- Page 55 of 284 ---

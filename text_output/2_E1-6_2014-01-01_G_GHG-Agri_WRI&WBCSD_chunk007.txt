@@ -1,0 +1,21 @@
+File Name: 2_E1-6_2014-01-01_G_GHG-Agri_WRI&WBCSD.pdf
+Converted on: 2025-03-28 03:20:54
+Original Size: 1.75 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 7 of 65
+--------------------------------------------------------------------------------
+
+3
+ 7.4 Uncertainty  in activity and GHG flux data .....................................................................  58 
+Chapter 8: Accounting  for Carbon Stocks ...............................................................................  60 
+8.1       Including flux and stock data in inventories  ..................................................................  60 
+8.2       Reporting  recommendations  for different C stocks ......................................................  61 
+8.3 Amortizing  changes in carbon stocks over time ............................................................  64 
+Chapter 9: Reporting  GHG Data .............................................................................................  70 
+9.1 Required information  ....................................................................................................  70 
+9.2       Minimum,  best practice, recommendations  for reporting  agricultural  GHG fluxes ...... 71 
+9.3       Additional  information  that may be reported ...............................................................  73 
+9.4       Agricultural  offset and renewable  energy projects .......................................................  74

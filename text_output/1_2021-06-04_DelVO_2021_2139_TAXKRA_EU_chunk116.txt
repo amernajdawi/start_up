@@ -1,0 +1,55 @@
+File Name: 1_2021-06-04_DelVO_2021_2139_TAXKRA_EU.pdf
+Converted on: 2025-03-28 03:20:30
+Original Size: 2.76 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 116 of 447
+--------------------------------------------------------------------------------
+
+An economic activity in this category is an enabling activity in accordance with Article 10(1), point (i) of
+Regulation (EU) 2020/852 where it complies with the technical screening criteria set out in this Section.  
+Technical screening criteria  
+Substantial contribution to climate change mitigation  
+The activity complies with one of the following criteria:
+1. The transmission and distribution infrastructure or equipment is in an electricity system that complies with
+at least one of the following criteria:
+(a) the system is the interconnected European system, i.e. the interconnected control areas of Member States,
+Norway, Switzerland and the United Kingdom, and its subordinated systems;
+(b) more than 67 % of newly enabled generation capacity in the system is below the generation threshold value
+of 100 g CO  2 e/kWh measured on a life cycle basis in accordance with electricity generation criteria, over a 
+rolling five-year period;
+(c) the average system grid emissions factor, calculated as the total annual emissions from power generation
+connected to the system, divided by the total annual net electricity production in that system, is below the
+threshold value of 100 g CO  2 e/kWh measured on a life cycle basis in accordance with electricity generation 
+criteria, over a rolling five-year period;
+Infrastructure dedicated to creating a direct connection or expanding an existing direct connection between a
+substation or network and a power production plant that is more greenhouse gas intensive than
+100 g CO  2 e/kWh measured on a life cycle basis is not compliant. 
+Installation of metering infrastructure that does not meet the requirements of smart metering systems of
+Article 20 of Directive (EU) 2019/944 is not compliant.
+2. The activity is one of the following:
+(a) construction and operation of direct connection, or expansion of existing direct connection, of low carbon
+electricity generation below the threshold of 100 g CO  2 e/kWh measured on a life cycle basis to a substation 
+or network;
+(b) construction and operation of electric vehicle (EV) charging stations and supporting electric infrastructure for
+the electrification of transport, subject to compliance with the technical screening criteria under the transport
+Section of this Annex;
+(c) installation of transmission and distribution transformers that comply with the Tier 2 (1 July 2021)
+requirements set out in Annex I to the Commission Regulation (EU) No 548/2014 (  178  ) and, for medium 
+power transformers with highest voltage for equipment not exceeding 36 kV, with AAA0 level requirements
+on no-load losses set out in standard EN 50588-1 (  179  ). 
+(d) construction/installation and operation of equipment and infrastructure where the main objective is an
+increase of the generation or use of renewable electricity generation;
+(e) installation of equipment to increase the controllability and observability of the electricity system and to
+enable the development and integration of renewable energy sources, including:
+(i) sensors and measurement tools (including meteorological sensors for forecasting renewable production);
+(ii) communication and control (including advanced software and control rooms, automation of substations
+or feeders, and voltage control capabilities to adapt to more decentralised renewable infeed).  
+_____________
+( 178  ) Commission Regulation (EU) No 548/2014 of 21 May 2014 on implementing Directive 2009/125/EC of the European 
+Parliament and of the Council with regard to small, medium and large power transformers (OJ L 152, 22.5.2014, p. 1).
+( 179  ) CEI EN 50588-1 Medium power transformers 50 Hz, with highest voltage for equipment not exceeding 36 kV.EN  9.12.2021 Official Journal of the European Union L 442/73
+
+--- Page 74 of 349 ---

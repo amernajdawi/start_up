@@ -1,0 +1,50 @@
+File Name: 2_E1-6_2004-03_G_GHG-Prot_WRI&WBCSD.pdf
+Converted on: 2025-03-28 03:20:43
+Original Size: 3.51 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 36 of 104
+--------------------------------------------------------------------------------
+
+To create an accurate account of their emissions,
+companies have found it useful to divide overall emis-sions into specific categories. This allows a companyto use specifically developed methodologies to accu-rately calculate the emissions from each sector andsource category.
+Identify GHG emissions sources
+The first of the five steps in identifying and calculating a company’s emissions as outlined in Figure 9 is to categorize the GHG sources within that company’sboundaries. GHG emissions typically occur from thefollowing source categories:
+
+Stationary combustion: combustion of fuels in
+stationary equipment such as boilers, furnaces,burners, turbines, heaters, incinerators, engines,flares, etc.
+
+Mobile combustion: combustion of fuels in trans-
+portation devices such as automobiles, trucks, buses,trains, airplanes, boats, ships, barges, vessels, etc.
+
+Process emissions: emissions from physical or chem-
+ical processes such as CO2from the calcination step
+in cement manufacturing, CO2from catalytic cracking
+in petrochemical processing, PFC emissions fromaluminum smelting, etc.
+
+Fugitive emissions: intentional and unintentional
+releases such as equipment leaks from joints, seals,packing, gaskets, as well as fugitive emissions fromcoal piles, wastewater treatment, pits, cooling towers,gas processing facilities, etc.
+Every business has processes, products, or services that
+generate direct and/or indirect emissions from one ormore of the above broad source categories. The
+GHG
+Protocol calculation tools are organized based on these
+categories. Appendix D provides an overview of directand indirect GHG emission sources organized by scopesand industry sectors that may be used as an initial guideto identify major GHG emission sources.
+IDENTIFY SCOPE 1 EMISSIONS
+As a first step, a company should undertake an exer-cise to identify its direct emission sources in each ofthe four source categories listed above. Process emis-sions are usually only relevant to certain industrysectors like oil and gas, aluminum, cement, etc.Manufacturing companies that generate process emis-sions and own or control a power production facility will
+likely have direct emissions from all the main sourcecategories. Office-based organizations may not have anydirect GHG emissions except in cases where they own oroperate a vehicle, combustion device, or refrigerationand air-conditioning equipment. Often companies aresurprised to realize that significant emissions comefrom sources that are not initially obvious (see UnitedTechnologies case study).
+IDENTIFY SCOPE 2 EMISSIONS
+The next step is to identify indirect emission sources fromthe consumption of purchased electricity, heat, or steam.Almost all businesses generate indirect emissions due to thepurchase of electricity for use in their processes or services.
+IDENTIFY SCOPE 3 EMISSIONS
+This optional step involves identification of other indirectemissions from a company’s upstream and downstreamactivities as well as emissions associated withoutsourced/contract manufacturing, leases, or franchisesnot included in scope 1 or scope 2.
+The inclusion of scope 3 emissions allows businesses to
+expand their inventory boundary along their value chainand to identify all relevant GHG emissions. This providesa broad overview of various business linkages andpossible opportunities for significant GHG emissionreductions that may exist upstream or downstream of acompany’s immediate operations (see chapter 4 for anoverview of activities that can generate GHG emissionsalong a company’s value chain).CHAPTER 6 Identifying and Calculating GHG Emissions 41GUIDANCEFIGURE 9.
+Steps in identifying and calculating GHG emissions
+Identify Sources
+Select Calculation Approach
+Collect Data and Choose Emission Factors
+Apply Calculation Tools
+Roll-up Data to Corporate Level
+
+--- Page 44 of 116 ---

@@ -1,0 +1,15 @@
+File Name: 1_2023-06-27_DelVO_2023_2486_TAXURA_EU.pdf
+Converted on: 2025-03-28 03:18:09
+Original Size: 8.44 MB
+Chunk Size: 500 tokens with 50 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 250 of 380
+--------------------------------------------------------------------------------
+
+91/271/EEC, 2008/105/EC, 2006/118/EC, 2010/75/EU, 2000/60/EC,
+(EU) 2020/2184, 76/160/EEC, 2008/56/EC and 2011/92/EU.
+(16)ISO standard 14067:2018, Greenhouse gases – Carbon footprint of products – Requirements and guidelines for quantification,
+version of 27.6.2023 available at: https://www.iso.org/standard/71206.html.
+(17)ISO standard 14064-1:2018, Greenhouse gases – Part 1: Specification with guidance at the organization level for quantification and reporting of greenhouse gas emissions and removals, version of 27.6.2023 available at: https://www.iso.org/standard/66453.html.OJ L, 21.11.2023 EN

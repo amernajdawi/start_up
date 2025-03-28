@@ -1,0 +1,48 @@
+File Name: 1_2023-06-27_DelVO_2023_2486_TAXURA_EU.pdf
+Converted on: 2025-03-28 03:20:36
+Original Size: 8.44 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 130 of 199
+--------------------------------------------------------------------------------
+
+--- Page 92 of 164 ---
+
+ELI: http://data.europa.eu/eli/reg_del/2023/2486/oj 92/164The LDAR campaigns have the features described in BAT19 of the best available techniques (BAT) conclusions for common
+waste gas management and treatment systems in the chemical sector, which include detecting, repairing and maintaining
+leaks within 30 days of detection and a leak threshold that is lower than or equal to 5 000 ppmv for substances or
+mixtures other than those classified as CMR 1A or 1B, which are reviewed and updated for the continuous improvement of the installation. Solvent losses and recovery efficiency of VOC are monitored based on a solvent management plan
+using a mass balance for verification of compliance, in accordance with Chapter V of Directive 2010/75/EU.
+2.4. Sewage, refuse, and other waste (including solids, liquids, or gaseous by-products from manufacturing) are disposed of
+in a safe, timely and sanitary manner. Containers or pipes for waste material are clearly identified. Analytical data
+demonstrating the conversion of these substances and their residues to non-hazardous waste materials are available at the
+facility and kept up to date.
+Do no significant harm (‘DNSH’)(1) Climate change mitigation Where the activity involves on-site generation of heat/cool or co-generation including
+power, the direct GHG emissions of the activity are lower than 270 gCO
+2e/kWh.
+For the refrigerant threshold, the Global Warming Potential does not exceed 150 in cooling of the substance.
+Where active pharmaceutical ingredients (API) or active substances are made from
+substances listed in Sections 3.10 to 3.16 of Annex II to Delegated Regulation
+(EU) 2021/2139, the GHG emissions do not exceed the limits set out in their
+respective criteria for DNSH to climate change mitigation.
+The substitution does not lead to an increment of lifecycle GHG emissions. Lifecycle
+GHG emissions are calculated using Recommendation 2013/179/EU or, alternatively,
+using ISO 14067:2018 (
+16)or ISO 14064-1:2018 (17). Quantified life-cycle GHG
+emissions are verified by an independent third party.
+(2) Climate change adaptation The activity complies with the criteria set out in Appendix A to this Annex.
+(3) Sustainable use and protec ­
+tion of water and marine resources1. Waste water treatment
+The performance of waste water treatment processes conducted by or on behalf of the
+manufacturing plant does not lead to any deterioration of water bodies and marine
+resources.
+When activities fall within their scope, they meet the requirements of Directives
+91/271/EEC, 2008/105/EC, 2006/118/EC, 2010/75/EU, 2000/60/EC,
+(EU) 2020/2184, 76/160/EEC, 2008/56/EC and 2011/92/EU.
+(16)ISO standard 14067:2018, Greenhouse gases – Carbon footprint of products – Requirements and guidelines for quantification,
+version of 27.6.2023 available at: https://www.iso.org/standard/71206.html.
+(17)ISO standard 14064-1:2018, Greenhouse gases – Part 1: Specification with guidance at the organization level for quantification and reporting of greenhouse gas emissions and removals, version of 27.6.2023 available at: https://www.iso.org/standard/66453.html.OJ L, 21.11.2023 EN  
+
+--- Page 93 of 164 ---

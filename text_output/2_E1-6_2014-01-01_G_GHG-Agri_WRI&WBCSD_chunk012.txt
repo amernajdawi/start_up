@@ -1,0 +1,67 @@
+File Name: 2_E1-6_2014-01-01_G_GHG-Agri_WRI&WBCSD.pdf
+Converted on: 2025-03-28 03:20:54
+Original Size: 1.75 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 12 of 65
+--------------------------------------------------------------------------------
+
+trade - offs between GHG emissions reductions and other environmental imp acts of a given farming practice . 1 . 4 Who should use this Guidance ? This Guidance is primarily intended for produc ers and companies that seek to develop scope 1 and 2 inventories of their agricultur al operations ( Box 1 - 1 ) . Examples include fruit and crop growers , ranchers , and biof uel producers . While producers with small agricultural operations may find it difficult to devote the resources to use this Guidance , it is applicable to operations of all sizes .
+
+Box 1-1.  The concept of scopes 
+ Under the Corporate Standard emi ssions sources are categorized as direct  or indirect  and 
+then further divided into ‘scopes’:   
+ Direct sources: Owned or controlled by the reporting company. All direct sources are
+classified as scope 1 .  
+ Indirect sources: Owned or controlled by another company, but a portion of whose
+emissions are a consequence of the activi ties of the reporting company. Indirect
+sources are either scope 2  or scope 3 : scope 2 emissions stem from the generation of 
+electricity, heat, or steam that is purch ased by the reporting company, while scope 3
+emissions are all other indirect emissions.   
+The focus of this Guidance is on including sc ope 1 and scope 2 sources in inventories,
+although certain scope 3 sources ar e also discussed because they are highly emitting.     
+
+--- Page 10 of 103 ---
+
+GHG Protocol Agricultural Guidance
+
+10
+
+Other users
+This Guidance will be helpful to downstream or upstream companies that seek to
+understand their value chain GHG impacts fr om agriculture. Down stream companies
+include processors (e.g., slaughterhouses and biofuel makers), brand manufacturers that
+make packaged food products, and retailers th at make private label food products, while
+upstream companies include manufacturers of fa rm inputs, such as seeds, fertilizers,
+herbicides, and pesticides. Agricultural emissions will often form a substantial part of the scope 3 inventories of these companies and will  fall into the Scope 3 Standard’s Category 
+1 (Purchased Goods and Services) and Category 11 (Use of Sold Products) for
+downstream and upstream companies, respec tively. Companies completing a value chain
+assessment should consult the Scope 3 Standa rd for additional requirements and guidance
+on including agriculture in  their inventories.  
+  GHG reporting programs and policy makers may also  be interested in incorporating this 
+Guidance into their policy or program design.   Many companies in other sectors also have  land-based GHG fluxes. Examples include 
+the construction, mining, and utility sectors.  While this Guidance is likely broadly 
+applicable to these sectors, it has not been evaluated for use outside of the agricultural
+sector.   
+1.5 Relationship between this Guidance and the Corporate
+Standard  
+The Corporate Standard outlines requirements and/or guidance on a range of topics,
+ranging from inventory desi gn to tracking emissions over time. This Guidance
+summarizes and customizes most of this c ontent to the agricultural sector, adding
+additional recommendations in many areas. However, this Guidance does not include
+guidance on inventory verificati on and target setting, and on othe r topics that are included
+in the Corporate Standard, but not relevant to  the sector. For such guidance, users should 
+consult the Corporate Standard. Table 1-2 maps  the content of this Guidance onto that of 
+the Corporate Standard, while Table 1-3 summarizes the main recommendations made in
+this Guidance.   Note that, under the Corporate Standard, companies must report emissions of at least the seven Kyoto  GHGs , which are: carbon dioxide (CO
+2), methane (CH 4), nitrous oxide
+(N2O), perfluorocarbons (PFCs), hydrofluorocar bons (HFCs), sulphur hexaflouride (SF 6),
+and nitrogen triflouride (NF 3). This same principle applies to companies using this
+Guidance. However, agricultural activities ty pically generate only a subset of these
+GHGs (see Chapter 4).    
+
+--- Page 11 of 103 ---
+
+GHG Protocol Agricultural Guidance

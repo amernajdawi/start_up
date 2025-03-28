@@ -1,0 +1,109 @@
+File Name: CELEX_32010L0075_DE_TXT.pdf
+Converted on: 2025-03-28 03:18:33
+Original Size: 4.18 MB
+Chunk Size: 500 tokens with 50 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 105 of 163
+--------------------------------------------------------------------------------
+
+--- Page 52 of 103 ---
+
+L 334/68 DE Amtsblattder Europäischen Union 17.12.2010
+TEIL 3
+Für
+Abfallverbrennungsanlagen geltende Grenzwerte für Emissionen in die Luft
+1. Alle Emissionsgrenzwerte
+werden
+bei
+einer
+Temperatur von  
+273,15 K,
+einem Druck  
+von
+101,3 kPa
+und
+nach
+Abzug
+des
+Wasserdampfg ehalts
+des Abgases
+berechnet.
+Sie
+beziehen
+sich auf ein en
+Sauerstoffg ehalt
+im Abgas
+von
+11 %, ausg enomme
+n
+im Falle der Verb rennung
+von
+Altöl
+im Sinne
+von
+Artikel
+3 Absatz
+3 der Richtlin ie
+2008/98/E G,
+in
+dem sie sich auf ein en
+Sauerstoffg ehalt
+von
+3 % bezie­
+hen,
+und
+in
+den
+in
+Teil 6 Nummer 2.7 g enannten
+Fällen.
+1.1. Emissionsgrenzwerte
+im Tagesmittel
+für folgende
+Schadstoffe (in  
+mg/Nm3)
+Gesamtstaub 10
+Gas- oder dampfförmig e
+organische
+Stoffe, gemessen
+als organisch
+gebund
+ener
+Gesamtkohlenstoff
+(TOC)10
+Chlorwasserstoff
+(HCl) 10
+Fluorwasserstoff (HF) 1
+Schwefeldioxid (SO2) 50
+Stickstoffmonoxid
+(NO) un d
+Stickstoffdioxid
+ (NO2), gemessen als NO2 für bestehende  Abfall ­
+verbrennungsanlagen
+mit einer
+Nennkapazität
+von
+mehr als 6 t/h oder n eue
+Abfallverbrennungs­
+anlagen200
+Stickstoffmonoxid
+(NO) un d
+Stickstoffdioxid
+ (NO2), gemessen als NO2 für bestehende  Abfall ­
+verbrennungsanlagen
+mit einer
+Nennkapazität
+von  ≤  6  t / h400
+1.2. Emissionsgrenzwerte
+im Halbstundenmittel
+für folgende
+Schadstoffe (in  
+mg/Nm3)
+(100 %) A (97 %) B
+Gesamtstaub 30 10
+Gas- oder dampfförmig e
+organische
+Stoffe, gemessen
+als organisch

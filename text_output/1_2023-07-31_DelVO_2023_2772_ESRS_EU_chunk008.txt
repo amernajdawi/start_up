@@ -1,0 +1,47 @@
+File Name: 1_2023-07-31_DelVO_2023_2772_ESRS_EU.pdf
+Converted on: 2025-03-28 03:20:41
+Original Size: 5.82 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 8 of 284
+--------------------------------------------------------------------------------
+
+ELI: http://data.europa.eu/eli/reg_del/2023/2772/oj 7/284(b) The term “risks and opportunities” refers to the undertaking’s sustainability-related financial risks and
+opportunities, including those deriving from dependencies on natural, human and social resources, as identified
+through a financial materiality assessment (see section 3.5).
+Collectively, these are referred to as “impacts, risks and opportunities” (IROs). They reflect the double materiality
+perspective of ESRS described in section 3.
+15. Throughout ESRS, the terms that are defined in the glossary of definitions (Annex II) are put in bold italic, except
+when a defined term is used more than once in the same paragraph.
+16. ESRS structure the information to be disclosed under Disclosure Requirements. Each Disclosure Requirement
+consists of one or more distinct datapoints. The term “datapoint” can also refer to a narrative sub-element of a
+Disclosure Requirement.
+17. In addition to Disclosure Requirements most ESRS also contain Application Requirements. Application
+Requirements support the application of Disclosure Requirements and have the same authority as other parts of an
+ESRS.
+18. ESRS use the following terms to distinguish between different degrees of obligation on the undertaking to disclose
+information:
+(a) “shall disclose” – indicates that the provision is prescribed by a Disclosure Requirement or datapoint;
+(b) “may disclose” – indicates voluntary disclosure to encourage good practice.
+In addition, ESRS use the term “shall consider” when referring to issues, resources or methodologies that the
+undertaking is expected to take into account or to use in the preparation of a given disclosure if applicable.
+2. Qualitative characteristics of information
+19. When preparing its sustainability statement, the undertaking shall apply:
+(a) the fundamental qualitative characteristics of information, i.e. relevance and faithful representation; and
+(b) the enhancing qualitative characteristics of information, i.e. comparability, verifiability and understandability.
+20. These qualitative characteristics of information are defined and described in Appendix B of this Standard.
+3. Double materiality as the basis for sustainability disclosures
+21. The undertaking shall report on sustainability matters based on the double materiality principle as defined and
+explained in this chapter.
+3.1 Stakeholders and their relevance to the materiality assessment process
+22. Stakeholders are those who can affect or be affected by the undertaking. There are two main groups of stakeholders:
+(a) affected stakeholders: individuals or groups whose interests are affected or could be affected – positively or
+negatively – by the undertaking’s activities and its direct and indirect business relationships across its value
+chain; and
+(b) users of sustainability statements: primary users of general-purpose financial reporting (existing and potential
+investors, lenders and other creditors, including asset managers, credit institutions, insurance undertakings), and other users of sustainability statements, including the undertaking’s business partners, trade unions and social
+partners, civil society and non-governmental organisations, governments, analysts and academics.OJ L, 22.12.2023 EN  
+
+--- Page 8 of 284 ---

@@ -1,0 +1,51 @@
+File Name: 1_2021-06-04_DelVO_2021_2139_TAXKRA_EU.pdf
+Converted on: 2025-03-28 03:18:03
+Original Size: 2.76 MB
+Chunk Size: 500 tokens with 50 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 739 of 966
+--------------------------------------------------------------------------------
+
+(e) where the solution implemented is physical and consists in an activity for which technical screening criteria
+have been specified in this Annex, the solution complies with the do no significant harm technical screening
+criteria for that activity.  
+Do no significant harm (‘DNSH’)  
+(1) Climate change mitigation  A monitoring and contingency plan is in place in order to minimise 
+methane leakage at the facility.  
+(3) Sustainable use and protection of
+water and marine resources  The activity complies with the criteria set out in Appendix B to this 
+Annex.  
+(4) Transition to a circular economy  N/A  
+(5) Pollution prevention and control  For anaerobic digestion plants treating over 100 tonnes per day, emissions 
+to air and water are within or lower than the emission levels associated
+with the best available technique (BAT-AEL) ranges set for anaerobic
+treatment of waste in the latest relevant best available techniques (BAT)
+conclusions, including the best available techniques (BAT) conclusions for
+waste treatment (  419  ). No significant cross-media effects occur. 
+The produced digestate meets the requirements for fertilising materials set
+out in Component Material Categories (CMC) 4 and 5 for digestate or
+CMC 3 for compost, as applicable, in Annex II to Regulation (EU)
+2019/1009, or national rules on fertilisers or soil improvers for
+agricultural use.
+The Nitrogen content (with tolerance level ± 25 %) of the digestate used as
+fertiliser or soil improver is communicated to the buyer or the entity in
+charge of taking off the digestate.  
+(6) Protection and restoration of
+biodiversity and ecosystems  The activity complies with the criteria set out in Appendix D to this 
+Annex.  
+5.8.  Composting of bio-waste  
+Description of the activity  
+Construction or operation of dedicated facilities for the treatment of separately collected bio-waste through
+composting (aerobic digestion) with the resulting production and utilisation of compost (  420  ). 
+The economic activities in this category could be associated with several NACE codes, in particular E38.21 and
+F42.99 in accordance with the statistical classification of economic activities established by Regulation (EC)
+No 1893/2006.  
+Technical screening criteria  
+Substantial contribution to climate change adaptation  
+1. The economic activity has implemented physical and non-physical solutions (‘adaptation solutions’) that
+substantially reduce the most important physical climate risks that are material to that activity.
+2. The physical climate risks that are material to the activity have been identified from those listed in
+Appendix A to this Annex by performing a robust climate risk and vulnerability assessment with the
+following steps:

@@ -1,0 +1,61 @@
+File Name: 1_2021-06-04_DelVO_2021_2139_TAXKRA_EU.pdf
+Converted on: 2025-03-28 03:20:30
+Original Size: 2.76 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 418 of 447
+--------------------------------------------------------------------------------
+
+4. The adaptation solutions implemented:
+(a) do not adversely affect the adaptation efforts or the level of resilience to physical climate risks of other people,
+of nature, of cultural heritage, of assets and of other economic activities;
+(b) favour nature-based solutions (  622  ) or rely on blue or green infrastructure (  623  ) to the extent possible; 
+(c) are consistent with local, sectoral, regional or national adaptation plans and strategies;
+(d) are monitored and measured against pre-defined indicators and remedial action is considered where those
+indicators are not met;
+(e) where the solution implemented is physical and consists in an activity for which technical screening criteria
+have been specified in this Annex, the solution complies with the do no significant harm technical screening
+criteria for that activity.  
+Do no significant harm (‘DNSH’)  
+(1) Climate change mitigation  The activity has demonstrated best efforts to implement the relevant 
+practices listed as ‘expected practices’ in the most recent version of the
+European Code of Conduct on Data Centre Energy Efficiency (  624  ), or in 
+CEN-CENELEC document CLC TR50600-99-1 ‘Data centre facilities and
+infrastructures - Part 99-1: Recommended practices for energy manage ­
+ment’ (  625  ) and has implemented all expected practices that have been 
+assigned the maximum value of 5 according to the most recent version
+of the European Code of Conduct on Data Centre Energy Efficiency.  
+(3) Sustainable use and protection of
+water and marine resources  The activity complies with the criteria set out in Appendix B to this 
+Annex.  
+(4) Transition to a circular economy  The equipment used meets the requirements laid down in Directive 
+2009/125/EC for servers and data storage products.
+The equipment used does not contain the restricted substances listed in
+Annex II to Directive 2011/65/EU, except where the concentration values
+by weight in homogeneous materials do not exceed the maximum values
+listed in that Annex.
+A waste management plan is in place and ensures maximal recycling at
+end of life of electrical and electronic equipment, including through
+contractual agreements with recycling partners, reflection in financial
+projections or official project documentation.
+At its end of life, the equipment undergoes preparation for re-use, recovery
+or recycling operations, or proper treatment, including the removal of all
+fluids and a selective treatment in accordance with Annex VII to Directive
+2012/19/EU.  
+(5) Pollution prevention and control  N/A  
+(6) Protection and restoration of
+biodiversity and ecosystems  N/A  
+___________  
+( 622  ) Nature-based solutions are defined as ‘solutions that are inspired and supported by nature, which are cost-effective, simulta neously 
+provide environmental, social and economic benefits and help build resilience. Such solutions bring more, and more diverse, nat ure
+and natural features and processes into cities, landscapes and seascapes, through locally adapted, resource-efficient and syste mic
+interventions’. Therefore, nature-based solutions benefit biodiversity and support the delivery of a range of ecosystem service s
+(version of 4.6.2021: https://ec.europa.eu/info/research-and-innovation/research-area/environment/nature-based-solutions_en/).  
+( 623  ) See Communication from the Commission to the European Parliament, the Council, the European Economic and Social Committee 
+and the Committee of the Regions: Green Infrastructure (GI) — Enhancing Europe’s Natural Capital (COM/2013/0249 final).  
+( 624  ) The most recent version of the European Code of Conduct on Data Centre Energy Efficiency is the latest version published at t he 
+Joint Research Centre European Energy Efficiency Platform (E3P) website, https://e3p.jrc.ec.europa.eu/communities/data-centres-  
+code-conduct, with a transition period of six months starting from the day of its publication (the 2021 version is available at  
+https://e3p.jrc.ec.europa.eu/publications/2021-best-practice-guidelines-eu-code-conduct-data-centre-energy-efficiency).

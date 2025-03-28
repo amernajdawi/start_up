@@ -1,0 +1,54 @@
+File Name: 2_E1-6_2014-01-01_G_GHG-Agri_WRI&WBCSD.pdf
+Converted on: 2025-03-28 03:20:54
+Original Size: 1.75 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 56 of 65
+--------------------------------------------------------------------------------
+
+x Total flux The market value of co - product ( s ) should be th e value of the co - products as they leave the common process ( i . e . prior to any further proces sing ) . Also , if prices for the outputs vary over the reporting period , it may be necessary to develop averages for the market values of the outputs over this period . Under either physical or economic allocati on , co - products without economic value are considered wastes and should have no GHG fluxes allocated to them .
+
+Selecting an allocation approach   
+A single approach should be used to consistently allocate the GHG data for all of the products of
+a farm. Otherwise, the use of multiple alloca tion methods might result in the over- or under-
+counting of total farm-wide fluxes.   Different allocation methods can yield significantly different resu lts. For example, in cheese 
+manufacturing, cheese is consid ered the main product, while whey powder, whey butter and
+grated cheese are considered co-products. U nder an economic allocation approach, the higher
+value of cheese compared with the co-produc ts results in most of the GHG fluxes being
+attributed to the cheese. In contrast, under a phys ical allocation approach, the greater mass of the
+co-products would result in most of the GHG fl uxes being attributed to the co-products.  
+Companies should select the allocation approach that:
+ Best reflects the causal relationship between  the production of the outputs and the resulting 
+GHG fluxes;
+ Results in the most accurate and credible flux estimates;
+
+--- Page 82 of 103 ---
+
+GHG Protocol Agricultural Guidance
+
+82
+ Best supports effective decision-ma king and GHG reduction activities; and
+ Otherwise adheres to the principles of rele vance, accuracy, completeness, consistency and
+transparency.
+Broadly, physical allocation is preferred when:
+ A physical relationship amongst th e products can be established and this relationship drives
+their relative GHG impacts.
+ Prices change significantly or frequently ove r time. Example: fluctuation in commodity crop
+prices (note: averaging prices over three to  five years can help avoid this problem).  
+ Prices are not well-correlate d with underlying physical pr operties and GHG fluxes.  
+ Companies pay different prices for the same pr oduct (due to different negotiated prices).  
+
+Economic allocation is preferred when:
+ A physical relationship amongst th e products cannot be establis hed or does not adequately
+reflect their GHG impacts.  
+ The co-products were a waste output that acquire s value in the market place as a replacement
+for another material input (e.g., manur e as a replacement for fertilizer).
+
+--- Page 83 of 103 ---
+
+GHG Protocol Agricultural Guidance
+
+83
+Appendix II: Amortizing CO 2 Fluxes to / from Carbon Stocks

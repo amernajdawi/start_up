@@ -1,0 +1,47 @@
+File Name: 1_2023-07-31_DelVO_2023_2772_ESRS_EU.pdf
+Converted on: 2025-03-28 03:20:41
+Original Size: 5.82 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 53 of 284
+--------------------------------------------------------------------------------
+
+ELI: http://data.europa.eu/eli/reg_del/2023/2772/oj 53/28459. The undertaking shall provide an explanation of how it has determined the material information to be disclosed in
+relation to the impacts, risks and opportunities that it has assessed to be material, including the use of
+thresholds and/or how it has implemented the criteria in ESRS 1 section 3.2 Material matters and materiality of
+information.
+4.2 Minimum disclosure requirements on policies and actions
+60. This section sets out minimum disclosure requirements to be included when the undertaking discloses information
+on its policies and actions to prevent, mitigate and remediate actual and potential material impacts, to address
+material risks and/or to pursue material opportunities (collectively, to “manage material sustainability matters”).
+They shall be applied together with the Disclosure Requirements, including Application Requirements, provided in
+the relevant topical and sector-specific ESRS. They shall also be applied when the undertaking prepares entity-
+specific disclosures.
+61. The corresponding disclosures shall be located alongside disclosures prescribed by the relevant ESRS. When a single
+policy or same actions address several interconnected sustainability matters, the undertaking may disclose the
+required information in its reporting under one topical ESRS and cross reference to it in its reporting under other topical ESRS.
+62. If the undertaking cannot disclose the information on policies and actions required under relevant ESRS, because it
+has not adopted policies and/or actions with reference to the specific sustainability matter concerned, it shall
+disclose this to be the case, and provide reasons for not having adopted policies and/or actions. The undertaking
+may disclose a timeframe in which it aims to adopt them.
+Minimum Disclosure Requirement – Policies MDR-P – Policies adopted to manage material sustainability matters
+63. The undertaking shall apply the minimum disclosure requirements defined in this provision when it discloses the
+policies it has in place with regard to each sustainability matter identified as material.
+64. The objective of this Minimum Disclosure Requirement is to provide an understanding of the policies that the
+undertaking has in place to prevent, mitigate and remediate actual and potential impacts, to address risks and to
+pursue opportunities.
+65. The undertaking shall disclose information about policies adopted to manage material sustainability matters. The
+disclosure shall include the following information:
+(a) a description of the key contents of the policy , including its general objectives and which material impacts, risks
+or opportunities the policy relates to and the process for monitoring;
+(b) a description of the scope of the policy, or of its exclusions, in terms of activities, upstream and/or downstream
+value chain, geographies and if relevant, affected stakeholder groups;
+(c) the most senior level in the undertaking’s organisation that is accountable for the implementation of the policy;
+(d) a reference, if relevant, to the third-party standards or initiatives the undertaking commits to respect through the
+implementation of the policy;
+(e) if relevant, a description of the consideration given to the interests of key stakeholders in setting the policy; and
+(f) if relevant, whether and how the undertaking makes the policy available to potentially affected stakeholders, and stakeholders who need to help implement it.OJ L, 22.12.2023 EN  
+
+--- Page 54 of 284 ---

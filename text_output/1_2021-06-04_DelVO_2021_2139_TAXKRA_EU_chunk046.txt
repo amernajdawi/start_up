@@ -1,0 +1,58 @@
+File Name: 1_2021-06-04_DelVO_2021_2139_TAXKRA_EU.pdf
+Converted on: 2025-03-28 03:20:30
+Original Size: 2.76 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 46 of 447
+--------------------------------------------------------------------------------
+
+(i) assessment of forest related risks, including forest fires, and pests and diseases outbreaks, with the aim of
+preventing, reducing and controlling the risks and measures deployed to ensure protection and adaptation
+against residual risks;
+(j) assessment of impact on food security;
+(k) all DNSH criteria relevant to afforestation.
+1.3. When the area becomes a forest, the afforestation plan is followed by a subsequent forest management
+plan or an equivalent instrument, as set out in national law or, where national law does not define a forest
+management plan or equivalent instrument, as referred to in the FAO definition of ‘forest area with long-term
+forest management plan’ (  4 ). The forest management plan or the equivalent instrument covers a period of 
+10 years or more and is continuously updated.
+1.4. Information is provided on the following points that are not already documented in the forest
+management plan or equivalent system:
+(a) management goals, including major constraints (  5 ); 
+(b) general strategies and activities planned to reach the management goals, including expected operations over
+the whole forest cycle;
+(c) definition of the forest habitat context, including main existing and intended forest tree species, and their
+extent and distribution;
+(d) definition of the area according to its gazetting in the land registry;
+(e) compartments, roads, rights of way and other public access, physical features including waterways, areas
+under legal and other restrictions;
+(f) measures deployed to maintain the good condition of forest ecosystems;
+(g) consideration of societal issues (including preservation of landscape, consultation of stakeholders in
+accordance with the terms and conditions laid down in national law);
+(h) assessment of forest related risks, including forest fires, and pests and diseases outbreaks, with the aim of
+preventing, reducing and controlling the risks and measures deployed to ensure protection and adaptation
+against residual risks;
+(i) all DNSH criteria relevant to forest management.
+1.5. The activity follows the best afforestation practices laid down in national law, or, where no such best
+afforestation practices have been laid down in national law, the activity complies with one of the following
+criteria:
+(a) the activity complies with Commission Delegated Regulation (EU) No 807/2014 (  6 ); 
+(b) the activity follows the “Pan-European Guidelines for Afforestation and Reforestation with a special focus on
+the provisions of the UNFCCC” (  7 ). 
+1.6. The activity does not involve the degradation of land with high carbon stock (  8 ). 
+_____________
+( 4 ) Forest area that has a long-term (ten years or more) documented management plan, aiming at defined management goals, and
+which is periodically revised,
+FAO Global Resources Assessment 2020. Terms and definitions (version of 4.6.2021: http://www.fao.org/3/I8661EN/i8661en.pdf).
+( 5 ) Including an analysis of (i) long term sustainability of the wood resource (ii) impacts/pressures on habitat conservation, di versity of
+associated habitats and condition of harvesting minimising soil impacts.
+( 6 ) Commission Delegated Regulation (EU) No 807/2014 of 11 March 2014 supplementing Regulation (EU) No 1305/2013 of the
+European Parliament and of the Council on support for rural development by the European Agricultural Fund for Rural Devel ­
+opment (EAFRD) and introducing transitional provisions (OJ L 227, 31.7.2014, p. 1).
+( 7 ) Forest Europe Pan-European Guidelines for Afforestation and Reforestation with a special focus on the provisions of the UNFCC C
+adopted by the MCPFE Expert Level Meeting on 12-13 November, 2008 and by the PEBLDS Bureau on behalf of the PEBLDS
+Council on 4 November, 2008 (version of 4.6.2021: https://www.foresteurope.org/docs/other_meetings/2008/Geneva/Guidelines_
+Aff_Ref_ADOPTED.pdf).
+( 8 ) Land with high-carbon stock means wetlands, including peatland, and continuously forested areas within the meaning of

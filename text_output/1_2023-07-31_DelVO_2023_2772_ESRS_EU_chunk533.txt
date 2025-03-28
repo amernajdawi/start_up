@@ -1,0 +1,38 @@
+File Name: 1_2023-07-31_DelVO_2023_2772_ESRS_EU.pdf
+Converted on: 2025-03-28 03:18:14
+Original Size: 5.82 MB
+Chunk Size: 500 tokens with 50 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 533 of 686
+--------------------------------------------------------------------------------
+
+ELI: http://data.europa.eu/eli/reg_del/2023/2772/oj 223/284Secondly, it is to enable an understanding of the ways in which the undertaking is addressing the material risks and
+pursuing the material opportunities related to affected communities.
+The undertaking shall provide a summarised description of the action plans and resources to manage its material
+impacts, risks, and opportunities related to affected communities as per ESRS 2 MDR-A Actions and resources in
+relation to material sustainability matters.
+32. In relation to material impacts, the undertaking shall describe:
+(a) actions taken, planned or underway to prevent or mitigate material negative impacts on affected communities;
+(b) whether and how it has taken action to provide or enable remedy in relation to an actual material impact;
+(c) any additional actions or initiatives it has in place with the primary purpose of delivering positive impacts for
+affected communities; and
+(d) how it tracks and assesses the effectiveness of these actions and intiatives in delivering intended outcomes for
+affected communities.
+33. In relation to paragraph 29, the undertaking shall describe:
+(a) the processes through which it identifies what action is needed and appropriate in response to a particular actual
+or potential negative impact on affected communities;
+(b) its approach to taking action in relation to specific material negative impacts on communities, including any action in relation to its own practices regarding land acquisition, planning and construction, operation or closure practices, as well as whether wider industry or collaborative action with other relevant parties will be
+required; and
+(c) how it ensures that processes to provide or enable remedy in the event of material negative impacts are available
+and effective in their implementation and outcomes.
+34. In relation to material risks and opportunities, the undertaking shall describe:
+(a) what action is planned or underway to mitigate material risks for the undertaking arising from its impacts and
+dependencies on affected communities and how it tracks effectiveness in practice; and
+(b) what action is planned or underway to pursue material opportunities for the undertaking in relation to affected
+communities.
+35. The undertaking shall disclose whether and how it takes action to avoid causing or contributing to material negative
+impacts on affected communities through its own practices, including, where relevant, in relation to planning, land
+acquisition and exploitation, finance, extraction or production of raw materials, use of natural resources, and management of environmental impacts. This may include disclosing what approach is taken when tensions arise
+between the prevention or mitigation of material negative impacts and other business pressures.

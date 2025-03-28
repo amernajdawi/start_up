@@ -1,0 +1,50 @@
+File Name: 1_2023-06-27_DelVO_2023_2486_TAXURA_EU.pdf
+Converted on: 2025-03-28 03:20:36
+Original Size: 8.44 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 110 of 199
+--------------------------------------------------------------------------------
+
+ELI: http://data.europa.eu/eli/reg_del/2023/2486/oj 78/164(b) the packaging has been designed to be reusable within a reuse system (176). The system for reuse is established in a way
+that ensures the possibility of reuse in a closed-loop or open-loop system.
+Do no significant harm (‘DNSH’)
+(1) Climate change mitigation Where the activity involves on-site generation of heat/cool or co-generation including
+power, the direct GHG emissions of the activity are lower than 270 gCO 2e/kWh.
+The activity develops a strategy to account for and reduce the GHG emissions arising from transport along the value chain, including shipping and returns, to the extent
+these are traceable.
+Where the sold product is initially produced by the activities classified under NACE
+codes C29, and is a vehicle, mobility component, system, separate technical unit, part
+or a spare part as defined in Regulation (EU) 2018/858, when sold in the secondary
+market after 2025 and before 2030 the following criteria apply:
+(a) vehicles of category M
+1 and N 1 classified as light-duty vehicles comply with specific
+emissions limits of CO 2, as defined in Article 3(1), point (h), of Regulation
+(EU) 2019/631 of the European Parliament and of the Council (177), lower than
+50 gCO 2/km (low- and zero-emission light-duty vehicles);
+(b) vehicles of category L (178)with tailpipe CO 2 emissions equal to 0 g CO 2e/km
+calculated in accordance with the emission test laid down in Regulation
+(EU) 168/2013 of the European Parliament and of the Council (179);
+(c) vehicles of categories N 2 and N 3, and N 1 classified as heavy-duty vehicles, not
+dedicated to transporting fossil fuels with a technically permissible maximum laden mass not exceeding 7,5 tonnes that are ‘zero-emission heavy-duty vehicles’
+as defined in Article 3, point (11), of Regulation (EU) 2019/1242;
+(d) vehicles of categories N
+2 and N 3 not dedicated to transporting fossil fuels with a
+technically permissible maximum laden mass exceeding 7,5 tonnes that are ‘zero-
+emission heavy-duty vehicles’, as defined in Article 3, point (11), of Regulation
+(EU) 2019/1242 or ‘low-emission heavy-duty vehicles’ as defined in Article 3,
+point (12) of that Regulation.
+Where the product, initially produced by the activities classified under NACE codes C29, and being a vehicle, mobility component, system, separate technical unit, part or a spare
+part as defined in Regulation (EU) 2018/858, is sold in the secondary market after 2030
+specific emissions of CO
+2, as defined in Article 3(1), point (h), of Regulation
+(EU) 2019/631 are zero.
+(176)‘Reusable’ and ‘reuse system’ are defined and implemented in accordance with the requirements on packaging reuse systems in the
+Union legislation on packaging and packaging waste, including any standards related to the number of rotations in a system for reuse.
+(177)Regulation (EU) 2019/631 of the European Parliament and of the Council of 17 April 2019 setting CO 2 emission performance
+standards for new passenger cars and for new light commercial vehicles, and repealing Regulations (EC) No 443/2009 and (EU)
+No 510/2011 (OJ L 111, 25.4.2019, p. 13).
+(178)As defined in Article 4 of Regulation (EU) No 168/2013 of the European Parliament and of the Council of 15 January 2013 on the
+approval and market surveillance of two- or three-wheel vehicles and quadricycles (OJ L 60, 2.3.2013, p. 52).

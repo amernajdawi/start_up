@@ -1,0 +1,44 @@
+File Name: 1_2023-06-27_DelVO_2023_2486_TAXURA_EU.pdf
+Converted on: 2025-03-28 03:20:36
+Original Size: 8.44 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 85 of 199
+--------------------------------------------------------------------------------
+
+ELI: http://data.europa.eu/eli/reg_del/2023/2486/oj 59/164(6) Protection and restoration
+of biodiversity and ecosys ­
+temsN/A
+3.3. Demolition and wrecking of buildings and other structures
+Description of the activity
+The demolition and wrecking of buildings, roads and runways, railways, bridges, tunnels, waste water treatment works,
+water treatment works, pipelines, wells and boreholes, power-generating plants, chemical plants, dams and reservoirs, mines and quarries, offshore structures, near shore works, ports, waterway works or land formation and reclamation (
+114).
+For projects associated with the activities ‘Construction of New Buildings’ or ‘Renovation of existing buildings’ (see Sections 3.1 and 3.2 of this Annex), where the demolition works and the construction or renovation works are procured under the
+same contract, the technical screening criteria for the construction or renovation activities apply.
+The economic activity does not include the demolition and wrecking of buildings and other structures carried out as part of
+the activity ‘Remediation of contaminated sites and areas’ (see Section 2.4 of Annex III).
+The economic activities in this category could be associated with NACE code F43.1 in accordance with the statistical
+classification of economic activities established by Regulation (EC) No 1893/2006.
+Technical screening criteria
+Substantial contribution to the transition to a circular economy
+1.Prior to the start of the demolition or wrecking activity, at least the following aspects from the Level 1 design concept
+checklist of the Level(s) indicator 2.2 (
+115)checklist are discussed and agreed upon with the client:
+(a) definition of key performance indicators and target ambition level;
+(b) identification of project-specific constraints that may compromise the target ambition level (such as time, labour and
+space) and how to minimise these constraints;
+(c) details of the pre-demolition auditing procedure;
+(d) an outline waste management plan that prioritises selective deconstruction, decontamination and source separation of waste streams. Where these actions are not prioritised, an explanation is provided to justify why selective
+deconstruction, decontamination or source separation of waste streams are not technologically feasible in the project.
+Cost or financial considerations are not an acceptable reason to avoid complying with this requirement.
+(114)See activities listed by the International Cost Management Standard in the ‘ICMS: Global Consistency in Presenting Construction Life
+Cycle Costs and Carbon Emissions 3rd edition, Table 1: ICMS Projects with their corresponding codes’, https://icmscblog.files.
+wordpress.com/2021/11/icms_3rd_edition_final.pdf.
+(115)See Level(s) indicator 2.2: Construction and Demolition waste and materials, user manual: introductory briefing, instructions and
+guidance (Publication version 1.1), https://susproc.jrc.ec.europa.eu/product-bureau//sites/default/files/2021-01/
+UM3_Indicator_2.2_v1.1_40pp.pdf.OJ L, 21.11.2023 EN  
+
+--- Page 60 of 164 ---

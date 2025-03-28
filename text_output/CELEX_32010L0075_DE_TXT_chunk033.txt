@@ -1,0 +1,342 @@
+File Name: CELEX_32010L0075_DE_TXT.pdf
+Converted on: 2025-03-28 03:21:03
+Original Size: 4.18 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 33 of 93
+--------------------------------------------------------------------------------
+
+geeignete
+Maßnahmen
+für den
+Fall einer
+Betriebsstörung
+oder des
+Ausfalls der Ab gasreinigungsanlage
+vorgesehen
+werden.
+(2)
+Im
+Fall eines
+Ausfalls muss die zuständig e
+Behörde den
+Betreiber
+veranlassen,
+den
+Betrieb
+der Anlage
+einzuschränken
+oder
+gänzlich
+einzustellen,
+wenn
+eine
+Rückkehr
+zum Normal­
+betrieb
+nicht
+innerhalb
+von
+24 Stunden
+erreicht wird, oder ab er
+die
+Anlage
+mit einem
+schadstoffarmen Bren nstoff
+weiter zu
+betreiben.
+Der
+Betreiber
+benachrichtigt
+die zustän dige
+Behörde innerhalb
+von 48 Stun den
+nach
+der Betrieb sstörung
+oder dem Ausfall der
+Abgasreinigungsanlage. Die
+Gesamtbetriebsdauer
+ohne
+Abgasreinigung
+darf 120 Stun den
+innerhalb
+eines
+12-Monats-Zeitraums
+nicht
+übersteigen.
+Die
+zuständige
+Behörde k ann
+Abweichungen
+von
+den
+Fristen
+gemäß
+den
+Unterabsätzen
+1 und
+3 in
+einem
+der folgenden
+Fälle
+gewähren:
+a) es
+ist ein
+vorrangiges
+Bedürfnis
+für die Aufrechterhaltun g
+der
+Energieversorgung
+gegeben,
+b) die
+Feuerungsanlage,
+in
+der der Ausfall der Ab gasreinigungs­
+anlage
+aufgetreten
+ist, würde für ein en
+begrenzten
+Zeitraum
+durch ein e
+andere
+Anlage
+ersetzt, die ein en
+Gesamtanstieg
+der Emissionen
+verursachen  
+würde.
+Artikel 38
+Überwachu ng
+der Emissionen in die Lu ft
+(1)
+Die Mitgliedstaaten
+gewährleisten,
+dass die Üb erw
+achung
+der Luftschadstoffe g emäß
+Anhang
+V Teil 3 durchg eführt
+wird.
+(2) Einbau
+und
+Funktionieren
+der automatisierten  
+Messsys­
+teme müssen k ontrolliert
+werden un d
+jedes Jahr müssen die
+Überwachungstests gemäß Anhang  V Teil 3 durchg eführt werden.
+(3)
+Die zustän dige
+Behörde leg t
+die Probenahme-
+oder Mess­
+stellen
+für die Üb erwachung
+von
+Emissionen
+fest.
+(4) Alle Überwachungsergebnisse
+müssen
+auf solch ein e
+Weise
+aufgezeichnet,
+verarbeitet
+und
+dargestellt
+werden,
+die es der
+zuständigen
+Behörde ermög licht,
+die Einhaltung
+der Betrieb s­
+bedingungen
+und
+der in der Gen ehmigung
+angegebenen
+
+Emissionsgrenzwerte
+zu überprüfen.
+Artikel
+39
+Einhaltung
+der Emissionsgrenzwerte
+Die Emissionsgrenzwerte
+für Luft gelten
+als eingehal
+ten,
+wenn
+die
+Bedingungen
+gemäß
+Anhang
+V Teil 4 erfüllt sin d.
+Artikel
+40
+Mehrstofffeu erungsanlagen
+(1) Im
+Fall von
+Mehrstofffeuerun gsanlagen,
+die gleichzeitig
+mit
+zwei oder mehr Bren nstoffen
+beschickt
+werden,
+setzt die zustän ­
+dige
+Behörde die E missionsgrenzwerte
+nach
+folgenden
+Schritten
+fest:
+a)
+Bestimmun g
+des Emissionsgrenzwerts
+für jeden ein zelnen
+
+Brennstoff
+und
+jeden
+einzelnen
+Schadstoff en tsprechend
+der
+Feuerungswärmeleistung
+der gesamten
+Anlage
+gemäß
+
+Anhang
+V Teile 1 un d
+2;
+b) Ermittlung
+der gewichteten
+Emissionsgrenzwerte
+für die ein ­
+zelnen
+Brennstoffe;
+diese Werte erhält man ,
+indem
+man
+die
+einzelnen
+Grenzwerte
+gemäß
+Buchstabe
+a mit der Wärme­
+leistung
+der einzelnen
+Brennstoffe
+multipliziert un d
+das Pro­
+dukt
+durch die Summe der von allen Bren nstoffen
+
+zugeführten
+Wärmeleistun g
+dividiert;
+c) Addieren der g ewichteten
+Emissionsgrenzwerte
+für die ein­
+zelnen
+Brennstoffe.
+
+--- Page 23 of 103 ---
+
+(1)17.12.2010 DE Amtsblattder Europäischen Union L 334/39
+(2) Im Fall von  Mehrstofffeuerun gsanlagen, die unter Arti­
+kel
+30 Absatz
+2 fallen un d
+die Destillation s
+- und
+Konversions
+­
+rückstände
+aus der Rohölraffin ierung
+allein
+oder zusammen  
+mit
+anderen
+Brennstoffen
+für den
+Eigenverbrauch
+verfeuern,
+können
+anstatt
+der gemäß
+Absatz
+1 festgelegten
+Emissionsgrenzwerte
+fol­
+gende
+Emissionsgrenzwerte
+angewendet
+werden:
+a)
+wenn
+während
+des Betrieb s
+der Feuerun gsanlage
+der vom
+maßgeblichen
+Brennstoff
+erbrachte
+Anteil
+an
+der Summe der
+von allen Bren nstoffen
+zugeführten
+Wärmeleistun g
+50 %
+oder mehr b eträgt:
+der gemäß
+Anhang
+V Teil 1 für den  
+maß­
+geblichen
+Brennstoff
+festgelegte
+Emissionsgrenzwert;
+b) wenn
+der vom maßg eblichen
+Brennstoff
+erbrachte
+Anteil
+an
+der
+Summe der von  
+allen
+Brennstoffen
+zugeführten
+Wärme­
+leistung
+weniger
+als 50 % b eträgt:
+der nach
+folgenden
+Schrit­
+ten
+bestimmte
+Emissionsgrenzwert:
+i) Bestimmun g
+der Emissionsgrenzwerte
+für jeden
+der ver­
+wendeten
+Brennstoffe
+entsprechend
+der Feuerun gs
+­
+wärmeleistun g
+der Anlage
+gemäß
+Anhang
+V Teil 1;
+ii) Berechnung
+des Emissionsgrenzwerts
+des maßgeblichen
+Brennstoffs
+entsprechend
+der Feuerun gswärmeleistung

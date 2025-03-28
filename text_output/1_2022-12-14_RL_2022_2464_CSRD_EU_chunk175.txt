@@ -1,0 +1,37 @@
+File Name: 1_2022-12-14_RL_2022_2464_CSRD_EU.pdf
+Converted on: 2025-03-28 03:18:06
+Original Size: 1.12 MB
+Chunk Size: 500 tokens with 50 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 175 of 204
+--------------------------------------------------------------------------------
+
+(16) the follo wing Article is inser ted:
+‘Article 27a
+Assurance of consolidated sust ainability repor ting
+1. Member States shall ensure that in the case of assurance engag ements concer ning the consolidate d sustainability
+repor ting of a group of under takings:
+(a) in relation to the consolidated sustainability repor ting, the group auditor bears the full responsibility for the
+assurance repor t on sustainability repor ting refer red to in Article 28a;
+(b) the group auditor evaluates the assurance work performe d by any independent assurance services provider(s),
+third-countr y auditor (s), statutor y auditor(s), third-countr y audit entity(ies) or audit firm(s) for the purpose of the
+assurance of consolidate d sustainability repor ting and documents the nature, timing and exte nt of the work
+performe d by those auditors, including, where applicable, the group auditor ’s review of relevant parts of those
+auditors’ assurance documentation; and
+(c) the group auditor reviews the assurance work perf ormed by independent assurance services provider(s), third-
+countr y auditor(s), statut ory auditor (s), third-countr y audit entity(ies) or audit firm(s) for the purpose of the
+assurance of consolidated sustainability repor ting and documents it.
+The documentation retained by the group auditor shall be such as to enable the relevant compet ent author ity to
+review the work of the group auditor .
+For the purposes of point (c) of the first subparagraph of this paragraph, the group auditor shall request the
+agreement of the independent assurance services provid er(s), third-countr y auditor (s), statutor y auditor(s), third-
+countr y audit entity(ies) or audit firm(s) concer ned to the transfer of relevant documentation during the conduct of
+the assurance of consolidated sustainability repor ting, as a condition of the reliance by the group auditor on the
+work of those independent assurance services provid er(s), third-countr y auditor(s), statutor y auditor(s), third-countr y
+audit entity(ies) or audit firm(s).
+2. Where the group auditor is unable to comply with point (c) of the first subparagraph of paragraph 1, he, she or
+it shall take appropr iate measures and inform the relevant compet ent author ity.
+Such measures shall, where appropr iate, include carrying out additional assurance work, either directly or by
+outsourcing such tasks, in the relevant subsidiar y.

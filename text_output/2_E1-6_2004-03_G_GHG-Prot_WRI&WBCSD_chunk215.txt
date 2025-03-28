@@ -1,0 +1,24 @@
+File Name: 2_E1-6_2004-03_G_GHG-Prot_WRI&WBCSD.pdf
+Converted on: 2025-03-28 03:18:16
+Original Size: 3.51 MB
+Chunk Size: 500 tokens with 50 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 215 of 225
+--------------------------------------------------------------------------------
+
+UNFCCC (2000), Synthesis Report on National Greenhouse Gas
+Information Reported by Annex I Parties for the Land-Use Changeand Forestry Sector and Agricultural Soils Category,FCCC/TP/1997/5, United Nations Framework Convention onClimate Change
+Verfaillie, H. , and R. Bidwell (2000), Measuring Eco-efficiency: A
+Guide to Reporting Company Performance, World Business
+Council for Sustainable Development, Geneva
+WBCSD (2001), The Cement CO
+2Protocol: CO2Emissions
+Monitoring and Reporting Protocol for the Cement Industry, World
+Business Council for Sustainable Development: Working GroupCement, Geneva
+WRI (2002), Working 9 to 5 on Climate Change: An Office Guide,
+World Resources Institute, Washington, DC
+WRI (2003), Renewable Energy Certificates: An Attractive Means
+for Corporate Customers to Purchase Renewable Energy, World
+Resources Institute, Washington, DC

@@ -1,0 +1,49 @@
+File Name: 1_2022-12-14_RL_2022_2464_CSRD_EU.pdf
+Converted on: 2025-03-28 03:20:33
+Original Size: 1.12 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 104 of 140
+--------------------------------------------------------------------------------
+
+If a Member State, pursuant to the first subparagraph, decides to allow an independent assurance services provider
+to express the opinion referred to in point (aa) of the second subparagraph of paragraph 1, it shall also allow a
+statutor y auditor other than the one(s) carrying out the statutor y audit of financial statements to do so, as
+provided for in paragraph 3.
+5. From 6 Januar y 2027 , a Member State that has made use of the option provided for in paragraph 4 (the
+“host Member State ”) shall allow independent assurance services provid er established in a Member State other
+than the host Member State (the “home Member State ”) to carry out the assurance of sustainability repor ting.
+The home Member State shall be responsible for the super vision of the independent assurance services providers
+established in its territory , unless the host Member State decides to super vise the assurance of sustainability
+repor ting carried out by independent assurance services provid ers in its territory .
+If the host Member State decides to super vise the assurance of sustainability repor ting carried out in its territory
+by independent assurance services providers register ed in another Member State , the host Member State shall:
+(a) not impose more stringent requirements or liability on such independent assurance services provi ders than
+those required for assurance of sustainability repor ting by the national laws for the independent assurance
+services provid ers or auditor s established in that host Member State; and
+(b) inform other Member States about its decision to super vise the assurance of sustainability repor ting carried
+out by independent assurance services providers established in other Member States.
+6. Member State s shall ensure that where an under taking is required by Union law to have elements of its
+sustainability repor ting verified by an accredited independent third party, the repor t of the accredit ed
+independent third party is made available either as an annex to the manage ment repor t or by other publicly
+accessible means.
+_____________
+(*) Directive 2006/43/EC of the European Parliament and of the Council of 17 May 2006 on statut ory audits of
+annual accounts and consolidate d accounts, amending Council Directives 78/660/EEC and 83/349/EEC and
+repealing Council Directive 84/253/EEC (OJ L 157, 9.6.2006, p. 87).’;
+(14) the follo wing chap ter is inser ted:
+‘CHAPTER 9a
+REPORTING CONC ERNING THIRD-COUNTR Y UNDERT AKINGS
+Article 40a
+Sust ainability repor ts concer ning third-countr y under takings
+1. A Member State shall require that a subsidiar y under taking established in its territory whose ultimate parent
+under taking is govern ed by the law of a third countr y publish and make accessible a sustainability repor t covering
+the information specifi ed in points (a)(iii) to (a)(v), points (b) to (f) and, where appropr iate, point (h) of Article 29a(2)
+at the group level of that ultimate third-countr y parent under taking.
+The first subparagraph shall only apply to large subsidiar y under takings and to small and medium-sized subsidiar y
+under takings, excep t micro under takings, which are public-int erest entities as defined in point (a) of point (1) of
+Article 2.EN Offi cial Jour nal of the European Union 16.12.2022 L 322/57  
+
+--- Page 44 of 66 ---

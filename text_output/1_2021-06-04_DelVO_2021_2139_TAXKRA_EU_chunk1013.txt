@@ -1,0 +1,29 @@
+File Name: 1_2021-06-04_DelVO_2021_2139_TAXKRA_EU.pdf
+Converted on: 2025-03-28 01:55:25
+Original Size: 2.76 MB
+Chunk Size: 400 tokens with 50 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 1013 of 1091
+--------------------------------------------------------------------------------
+
+(a) for activities with an expected lifespan of less than 10 years, the assessment is performed, at least by using
+climate projections at the smallest appropriate scale;
+(b) for all other activities, the assessment is performed using the highest available resolution, state-of-the-art
+climate projections across the existing range of future scenarios (  607  ) consistent with the expected lifetime 
+of the activity, including, at least, 10 to 30 year climate projections scenarios for major investments.
+3. The climate projections and assessment of impacts are based on best practice and available guidance and
+take into account the state-of-the-art science for vulnerability and risk analysis and related methodologies in line
+with the most recent Intergovernmental Panel on Climate Change reports (  608  ), scientific peer-reviewed 
+publications and open source (  609  ) or paying models. 
+4. The adaptation solutions implemented:
+(a) do not adversely affect the adaptation efforts or the level of resilience to physical climate risks of other people,
+of nature, of cultural heritage, of assets and of other economic activities;  
+_____________
+( 607  ) Future scenarios include Intergovernmental Panel on Climate Change representative concentration pathways RCP2.6, RCP4.5, 
+RCP6.0 and RCP8.5.
+( 608  ) Assessments Reports on Climate Change: Impacts, Adaptation and Vulnerability, published periodically by the Intergovernmental  
+Panel on Climate Change (IPCC), the United Nations body for assessing the science related to climate change produces,
+https://www.ipcc.ch/reports/.
+( 609  ) Such as Copernicus services managed by the European Commission.EN  L 442/322 Official Journal of the European Union 9.12.2021

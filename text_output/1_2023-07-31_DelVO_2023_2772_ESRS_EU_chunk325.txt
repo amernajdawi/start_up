@@ -1,0 +1,23 @@
+File Name: 1_2023-07-31_DelVO_2023_2772_ESRS_EU.pdf
+Converted on: 2025-03-28 03:18:14
+Original Size: 5.82 MB
+Chunk Size: 500 tokens with 50 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 325 of 686
+--------------------------------------------------------------------------------
+
+necessarily considering the quality of the area being assessed, such as habitat cover. For example, forest cover is
+a measure of the extent of a particular ecosystem type, without factoring in the condition of the ecosystem (e.g.,
+provides the area without describing the species diversity within the forest).
+(b) with regard to ecosystems condition:
+i. metrics that measure the quality of ecosystems relative to a pre-determined reference state;
+ii. metrics that measure multiple species within an ecosystem rather than the number of individuals within a
+single species within an ecosystem (for example: scientifically established species richness and abundance indicators that measure the development of (native) species composition within an ecosystem against the
+reference state at the beginning of the first reporting period as well as the targeted state outlined in the
+Kunming-Montreal Global Biodiversity Framework, or an aggregation of species’ conservation status if
+relevant); or
+iii. metrics that reflect structural components of condition such as habitat connectivity (i.e., how linked habitats
+are to each other).
+(80)As indicated in the IUCN Red List of Threatened Species and the European Red List published by the European Commission.OJ L, 22.12.2023 EN

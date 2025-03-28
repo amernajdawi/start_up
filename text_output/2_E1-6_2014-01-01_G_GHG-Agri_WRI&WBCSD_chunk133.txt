@@ -1,0 +1,55 @@
+File Name: 2_E1-6_2014-01-01_G_GHG-Agri_WRI&WBCSD.pdf
+Converted on: 2025-03-28 01:56:31
+Original Size: 1.75 MB
+Chunk Size: 400 tokens with 50 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 133 of 150
+--------------------------------------------------------------------------------
+
+93
+ Tool GHG Operation  CO 2 
+N2O
+CH 4
+Cropland
+Horticulture
+Grazing land
+Grassland
+Agroforestry
+Wineyards /
+Orchards
+Livestock
+Forest
+Land use
+change
+Rice
+production
+Wetlands
+Energy use
+DeNitrification-
+DeComposition
+(DNDC)    
+
+FarmGHG    
+
+IFSM (Intrated Farm
+System Model)    
+
+NASA-CASA
+(Carnegie-Ames-
+Stanford Approach)
+model    
+
+RothC                        
+SIMs Dairy                          
+SOCRATES: Soil
+Organic Carbon
+Reserves And
+Transformations in
+Eco-systems                        
+1, Based on Colomb et al. (2013), Dene f et al. (2012) and additional research.
+
+--- Page 94 of 103 ---
+
+GHG Protocol Agricultural Guidance

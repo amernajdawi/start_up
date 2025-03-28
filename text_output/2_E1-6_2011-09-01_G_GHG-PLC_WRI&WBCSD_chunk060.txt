@@ -1,0 +1,86 @@
+File Name: 2_E1-6_2011-09-01_G_GHG-PLC_WRI&WBCSD.pdf
+Converted on: 2025-03-28 03:20:53
+Original Size: 3.27 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 60 of 116
+--------------------------------------------------------------------------------
+
+[74]   Product Life Cycle Accounting and Reporting Standard
+guidanceAs defined in chapter 7, the boundary of a cradle-to-
+gate inventory does not include the use or end-of-
+life stages. If an intermediate product has recycled
+inputs, companies can use the recycled content
+method and account for the material recovery
+facility (MRF) and recycling process emissions and
+removals for that input. If an intermediate product
+is known to be recycled at its end-of-life regardless
+of its function during use, companies may report
+this separately in the inventory report along with
+any other end-of-life information that may be
+useful to a stakeholder. Companies may include
+end-of-life recycling in the inventory results for an
+intermediate product only if the company knows
+the function of the final product and performs a
+cradle-to-grave inventory.  Box [9.3] Recycling in a cradle-to-gate inventory9.3.7  Choosing between closed loop 
+approximation and the recycled  
+content method
+In cases where both the closed loop approximation and
+recycled content methods are equally applicable to the
+studied product, the following guidance provides insight
+on which method is most appropriate in certain situations.
+The recycled content method should be used in the
+following situations:
+•When the product contains recycled input, but no
+recycling occurs downstream
+•When the market for the recycled material is saturated
+(e.g., not all material that is recovered is used as a
+recycled input, supply exceeds demand) and therefore
+the creation of recycled material may not displace the
+extraction of virgin material
+•When the content of recycled material in the product
+is directly affected by the company’s activities alone,
+and therefore the company has control over how
+much recycled material input to procure (which could
+potentially be used as a reduction mechanism)
+•The time period of the product’s use stage is long and/
+or highly uncertain and therefore the amount of material
+recycled at the end-of-life is also highly uncertain
+The closed loop approximation method should be used in
+the following situations:
+•When the recycled content of the product is unknown
+because recycled material is indistinguishable from
+virgin material in the market
+•When the market for the recycled material is not
+saturated (e.g., all material that is recovered is used
+as a recycled input, demand exceeds supply) and
+therefore creating more recycled material is likely to
+increase the amount of recycled material used
+•When the time period of the product’s use stage is
+short and/or well knownThere may be situations where a company feels neither
+method is appropriate for a given recycled material
+input or output. In these cases the method used should
+abide by the specifications given in the requirements
+section and be referenced from available sector guidance,
+product rules, technical reports, journal articles, or
+other standards. For example, companies with paper
+products may want to use the “number of subsequent
+uses” method recommended by the American Forest
+and Paper Association for recycling cellulosic fiber in
+paper products.12 Another company may feel economic
+allocation is more appropriate for its product’s inventory
+and therefore reference ISO 14049:2000.13 If a company
+is using a method that is not published, the company is
+strongly encouraged to include details on the method,
+either in the inventory report or as a supplementary
+document, and to have the method externally verified to
+ensure its conformance with this standard.
+When it is not obvious which method is most appropriate,
+companies should perform a scenario uncertainty
+assessment (e.g., sensitivity analysis) on the potential
+methods and include the results in the inventory report
+(see chapter 10 for more information on uncertainty).
+
+--- Page 77 of 148 ---

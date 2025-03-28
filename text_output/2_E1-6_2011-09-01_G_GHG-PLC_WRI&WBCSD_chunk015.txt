@@ -1,0 +1,95 @@
+File Name: 2_E1-6_2011-09-01_G_GHG-PLC_WRI&WBCSD.pdf
+Converted on: 2025-03-28 03:20:53
+Original Size: 3.27 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 15 of 116
+--------------------------------------------------------------------------------
+
+[19]
+guidancerequirements
+4.1 Introduction
+The five accounting principles are intended to underpin all aspects of GHG accounting
+and reporting for products. Their faithful application should help to ensure that the
+product inventory constitutes a true and fair representation of its GHG emissions and
+removals. Their primary function is to guide users in the implementation of this standard, in
+particular when making accounting choices not specified by the standard.
+4.2  Requirements
+GHG accounting and reporting of a product
+inventory shall follow the principles
+of relevance, accuracy, completeness,
+consistency, and transparency.
+Relevance
+Ensure that the product GHG inventory accounting
+methodologies and report serves the decision-making
+needs of the intended user. Present information in the
+report in a way that is readily understandable by the
+intended users.
+Completeness
+Ensure that the inventory report covers all product life
+cycle GHG emissions and removals within the specified
+boundaries; disclose and justify any significant GHG
+emissions and removals that have been excluded. Consistency
+Choose methodologies, data, and assumptions that allow
+for meaningful comparisons of a GHG inventory over time.
+Transparency
+Address and document all relevant issues in a
+factual and coherent manner, based on a clear audit
+trail. Disclose any relevant assumptions and make
+appropriate references to the methodologies and data
+sources used in the inventory report. Clearly explain any
+estimates and avoid bias so that the report faithfully
+represents what it purports to represent.
+Accuracy
+Ensure that reported GHG emissions and removals are not
+systematically greater than or less than actual emissions
+and removals and that uncertainties are reduced as far
+as practicable. Achieve sufficient accuracy to enable
+intended users to make decisions with reasonable
+assurance as to the reliability of the reported information.
+
+--- Page 22 of 148 ---
+
+05Fundamentals of Product Life Cycle GHG Accounting 
+
+--- Page 23 of 148 ---
+
+[21]
+guidancerequirements
+The Product Standard   builds on the framework and 
+requirements established in the ISO LCA standards
+(14040:2006, Life Cycle Assessment: Principles and
+Framework and 14044:2006, Life Cycle Assessment:
+Requirements and Guidelines) and PAS 2050,  with the 
+intent of providing additional specifications and guidance
+to facilitate the consistent quantification and public
+reporting of product life cycle GHG inventories. Other
+standards and publications such as the ILCD Handbook3
+were also used as reference during the development
+of this standard. The following sections clarify the
+relationship between the ISO LCA framework and the
+Product Standard  while identifying two fundamentals on 
+which the Product Standard  is based: the life cycle and 
+attributional approaches to GHG accounting. 5.2 Requirements
+A GHG product inventory shall follow the
+life cycle and attributional approaches.
+Product GHG inventories,4 also commonly known as
+product carbon footprints, are a subset of LCA because
+they focus only on the climate change impact category
+(the limitations of which are discussed in chapter 1).
+However, the accounting methodologies and requirements
+presented in this standard follow the life cycle approach as
+established by ISO LCA standards 14040 and 14044.  5.1 Introduction 
+Product life cycle GHG accounting is a subset of life cycle assessment (LCA), which seeks
+to quantify and address the environmental aspects and potential environmental
+impacts throughout a product’s life cycle from raw material extraction through to
+end-of-life waste treatment.1 LCA became internationally standardized by the International
+Organization for Standardization (ISO) with the publication of the 14040 series of life cycle
+assessment standards. In 2008, the British Standards Institution (BSI), in partnership with
+the UK Department of Environment Food and Rural Affairs ( DEFRA ) and the Carbon Trust,
+published a Publicly Available Specification (PAS) for the assessment of life cycle greenhouse
+gas emissions of goods and services, known as PAS 2050.2  
+
+--- Page 24 of 148 ---

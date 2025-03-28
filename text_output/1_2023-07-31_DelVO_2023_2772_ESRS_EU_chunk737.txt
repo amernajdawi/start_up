@@ -1,0 +1,37 @@
+File Name: 1_2023-07-31_DelVO_2023_2772_ESRS_EU.pdf
+Converted on: 2025-03-28 01:55:56
+Original Size: 5.82 MB
+Chunk Size: 400 tokens with 50 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 737 of 768
+--------------------------------------------------------------------------------
+
+ELI: http://data.europa.eu/eli/reg_del/2023/2772/oj 274/284Own workforce/own workers Employees who are in an employment relationship with the undertaking
+(‘employees’) and non-employees who are either individual contractors
+supplying labour to the undertaking (‘self-employed people’) or people
+provided by undertakings primarily engaged in ‘employment activities’
+(NACE Code N78).
+Ozone-depleting substances Substances listed in the Montreal Protocol on Substances that Deplete the
+Ozone Layer.
+Packaging Products made of any materials of any nature to be used for the
+containment, protection, handling, delivery, storage, transport and
+presentation of goods, from raw materials to processed goods, from the
+producer to the user or consumer (21).
+Pay The ordinary basic or minimum wage or salary and any other remuneration,
+whether in cash or in kind which the worker receives directly or indirectly
+(‘complementary or variable components’), in respect of his/her
+employment from his/her employer. ‘Pay level’ means gross annual pay
+and the corresponding gross hourly pay. ‘Median pay level’ means the pay
+of the employee that would have half of the employees earn more and half
+less than they do.
+Persons with disabilities Persons who have long-term physical, mental, intellectual or sensory impairments which in interaction with various barriers may hinder their
+full and effective participation in society on an equal basis with others.
+Physical risks All global economic enterprise depends on the functioning of earth systems,
+such as a stable climate and on ecosystem services, such as the provision of
+biomass (raw materials). Nature-related physical risks are a direct result of
+an organisation’s dependence on nature. Physical risks arise when natural
+systems are compromised, due to the impact of climatic events (e.g., extremes of weather such as a drought), geologic events (e.g., seismic
+events such as an earthquake) events or changes in ecosystem equilibria,
+such as soil quality or marine ecology, which affect the ecosystem services

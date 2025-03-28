@@ -1,0 +1,51 @@
+File Name: 1_2023-07-31_DelVO_2023_2772_ESRS_EU.pdf
+Converted on: 2025-03-28 03:18:14
+Original Size: 5.82 MB
+Chunk Size: 500 tokens with 50 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 605 of 686
+--------------------------------------------------------------------------------
+
+ELI: http://data.europa.eu/eli/reg_del/2023/2772/oj 253/284AR 6. The undertaking’s policies on corruption and bribery may be relevant to specific groups of people, either because
+they are expected to implement them (for example, the undertaking’s employees , contractors and suppliers), or
+because they have a direct interest in their implementation (for example, value chain workers, investors). The
+undertaking may disclose the communication tools and channels (e.g., flyers, newsletters, dedicated websites,
+social media, face to face interactions, unions and/or workers representatives) to communicate policies to such
+groups. This may also include the identification and/or removal of potential barriers to dissemination, such as
+through translation into relevant languages or the use of graphic depictions.
+AR 7. The undertaking may disclose an analysis of its training activities by, for example, region of training or category of
+own workforce where its programmes differ significantly based on such factors and such information would be
+useful to users.
+AR 8. The undertaking may present the required information about training using the following table:
+Anti-corruption and bribery training illustrative example
+During the 20XY financial year ABC provided training to its at-risk own workers in terms of its policy (see note x). For those at-risk
+functions the training is mandatory, but ABC also made available voluntary training for other own workers. Details of its training
+during the year is as follows:
+At-risk
+functionsManagers AMSB (125)Other own
+workers
+Training coverage
+Total 20 000 200 16 70 000
+Total receiving training 19 500 150 8 5 000
+Delivery method and
+duration
+Classroom training 5hours
+Computer-based training 1hour 2hours 1hour
+Voluntary computer-based
+training1hour
+Frequency
+How often training is required Annually Annually Bi-annually -
+Topics coveredDefinition of corruption X X X X
+Policy X X X X
+Procedures on suspicion/detection X X
+Etc. X
+Metrics and targets
+Disclosure Requirement G1-5 – Political influence and lobbying activities
+AR 9. For purposes of this Standard ‘political contribution’ means financial or in-kind support provided directly to
+political parties, their elected representatives or persons seeking political office. Financial contributions can
+include donations, loans, sponsorships, advance payments for services, or the purchase of tickets for fundraising
+events and other similar practices. In-kind contributions can include advertising, use of facilities, design and
+printing, donation of equipment, provision of board membership, employment or consultancy work for elected
+politicians or candidates for office.

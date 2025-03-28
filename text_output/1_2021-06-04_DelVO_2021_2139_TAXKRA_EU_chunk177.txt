@@ -1,0 +1,46 @@
+File Name: 1_2021-06-04_DelVO_2021_2139_TAXKRA_EU.pdf
+Converted on: 2025-03-28 03:20:30
+Original Size: 2.76 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 177 of 447
+--------------------------------------------------------------------------------
+
+(5) Pollution prevention and control  N/A  
+(6) Protection and restoration of
+biodiversity and ecosystems  N/A  
+7.6.  Installation, maintenance and repair of renewable energy technologies  
+Description of the activity  
+Installation, maintenance and repair of renewable energy technologies, on-site.  
+The economic activities in this category could be associated with several NACE codes, in particular F42, F43, M71,
+C16, C17, C22, C23, C25, C27 or C28, in accordance with the statistical classification of economic activities
+established by Regulation (EC) No 1893/2006.  
+An economic activity in this category is an enabling activity as referred to in Article 10(1), point (i), of Regulation
+(EU) 2020/852 where it complies with the technical screening criteria set out in this Section.  
+Technical screening criteria  
+Substantial contribution to climate change mitigation  
+The activity consists in one of the following individual measures, if installed on-site as technical building systems:
+(a) installation, maintenance and repair of solar photovoltaic systems and the ancillary technical equipment;
+(b) installation, maintenance and repair of solar hot water panels and the ancillary technical equipment;
+(c) installation, maintenance, repair and upgrade of heat pumps contributing to the targets for renewable energy
+in heat and cool in accordance with Directive (EU) 2018/2001 and the ancillary technical equipment;
+(d) installation, maintenance and repair of wind turbines and the ancillary technical equipment;
+(e) installation, maintenance and repair of solar transpired collectors and the ancillary technical equipment;
+(f) installation, maintenance and repair of thermal or electric energy storage units and the ancillary technical
+equipment;
+(g) installation, maintenance and repair of high efficiency micro CHP (combined heat and power) plant;
+(h) installation, maintenance and repair of heat exchanger/recovery systems.  
+Do no significant harm (‘DNSH’)  
+(2) Climate change adaptation  The activity complies with the criteria set out in Appendix A to this 
+Annex.  
+(3) Sustainable use and protection of
+water and marine resources  N/A  
+(4) Transition to a circular economy  N/A  
+(5) Pollution prevention and control  N/A  
+_____________
+( 301  ) ISO 20887:2020, Sustainability in buildings and civil engineering works - Design for disassembly and adaptability - Principle s, 
+requirements and guidance (version of 4.6.2021: https://www.iso.org/standard/69370.html).EN  9.12.2021 Official Journal of the European Union L 442/131
+
+--- Page 132 of 349 ---

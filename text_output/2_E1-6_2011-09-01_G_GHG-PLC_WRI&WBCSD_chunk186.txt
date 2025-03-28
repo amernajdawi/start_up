@@ -1,0 +1,42 @@
+File Name: 2_E1-6_2011-09-01_G_GHG-PLC_WRI&WBCSD.pdf
+Converted on: 2025-03-28 03:18:25
+Original Size: 3.27 MB
+Chunk Size: 500 tokens with 50 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 186 of 226
+--------------------------------------------------------------------------------
+
+land-use change impacts.  For example, companies may 
+use the agricultural or forestry statistic for the assumed
+location to determine the change in land occupation
+for the studied product versus the total land change
+in that location. The following example shows the
+steps companies can follow to use agricultural data
+to determine whether land-use change has occurred.
+The same technique may be used for managed wood
+products using forestry data.  If the crop or biomass that 
+is being studied is shown to occupy less land over the
+20-year assessment period, the company can assume that
+no land-use change has taken place.  If the amount of 
+land occupied by the crop or biomass being studied has
+increased, then land-use change impacts are attributable.
+In this case the company needs to assume what the
+original land category was. This should be based on the
+type of land present in the assumed location and when
+more than one land type is possible the conservative
+choice should be made.  
+It is important to note that any assumptions made
+about land-use change impacts are only estimations
+and subject to much uncertainty. Because these
+estimation techniques cannot identify when the land-
+use change occurs, companies should always assume
+1/20th of the land-use change impact, as shown in
+the following examples.  Companies may also choose 
+not to make any assumptions about land-use change
+and only use the worst case scenario (e.g., all land is
+converted from the most carbon rich land category).
+Information on the methods used to determine
+land-use change impacts should be included in the
+inventory report for transparency. Appendix	B.	 Land-Use Change Impacts

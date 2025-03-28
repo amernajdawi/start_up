@@ -1,0 +1,76 @@
+File Name: 2_E1-6_2006-01-01_GHG-LuLu_WRI&WBCSD.pdf
+Converted on: 2025-03-28 03:18:22
+Original Size: 6.41 MB
+Chunk Size: 500 tokens with 50 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 71 of 88
+--------------------------------------------------------------------------------
+
+EXAMPLE:NipawinAfforestationProject
+81
+managedagriculturalland,soa5percentbufferwould
+bereasonable.Accordingly,95percentoftheGHG
+reductionsfromtheNipawinAfforestationProjectwill
+betradedonthemarket,and5percentwillbewithheld.
+Toestimatethemagnitudeoftheprimaryeffect,above-and
+belowgroundlivingbiomassandsoilcarbonwillbe
+monitoredastheyincreaseasaresultoftheprojectactivity.
+Deadbiomassdoesnotaccumulateinsignificantamounts
+andsowillnotbemonitored.Themonitoringfollowsthe
+IPCC’sGoodPracticeGuidanceforLULUCF(2003)and
+theOffsetSystemQuantificationProtocolforAfforestation
+Projects(Graham2006).
+Inaddition,theNationalForestInformationSystem(Natural
+ResourcesCanada2006)willbemonitoredforthenew
+afforestationdevelopmentsinthegeographicarea.Ifthe
+afforestationbecomessubstantial,thebaselineGHGremovals
+willneedtobere-estimatedoraland-usetrendfactorwill
+havetobeadded.N O T E S
+1Thesesoilzoneswereidentifiedasrelevantwhenidentifyingthe
+geographicarea,seesection5.3.
+2BecausetheCensusAgriculturalRegionsarequitelarge,theregions
+determinedtobeDarkGrayand/orBlackareabestestimate.
+3Thefinalareausedtodefinetheperformancestandardmightstill
+beasubsectionofthisbroadarea,asthefinallistofbaseline
+candidatesmayrepresentasubsectionofthistotalarea,e.g.,
+naturalpasturelandsneedtobeexcludedfromthisarea.
+4Asusedinthisdocument,agriculturallandreferstolandclassified
+as“TotalAreaofFarms”intheCensusAgriculturalRegionsin
+Alberta,Saskatchewan,andManitoba(StatisticsCanada1996,
+2001).
+5InternalWRIsource,notpublishedmaterial.
+6Lemprièreetal.2002.
+7TheF LU ,F MG ,andF IdefaultvaluescanbefoundintheIPCC(2003).
+8ThedefaultvaluescanbefoundintheIPCC(2003).
+9PersonalcommunicationwithAl-Pacpersonnel.
+10Tier1IPCCassumption.
+11TheF LU ,F MG ,andF IdefaultvaluescanbefoundintheIPCC(2003).
+12ThedefaultvaluescanbefoundintheIPCC(2003).
+13ThedefaultvaluescanbefoundintheIPCC(2003).
+14ThedefaultvaluescanbefoundintheIPCC(2003).Y E A R T O TA L G H G R E D U C T I O N tC O 2TABLE E.22GHGReductions UsingthePerformance
+StandardProcedure
+1 5,482.23
+2 17,552.75
+3 38,413.86
+4 71,377.89
+5 110,949.67
+6 154,930.01
+7 202,218.72
+8 250,615.38
+9 297,916.63
+10 345,222.48
+11 388,131.06
+12 429,941.51
+13 468,452.80
+14 504,764.93
+15 535,576.43
+16 565,287.93
+17 592,798.17
+18 615,908.42
+19 637,917.41
+20 656,625.98
+21 0
+
+--- Page 84 of 100 ---

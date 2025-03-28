@@ -1,0 +1,185 @@
+File Name: 2_E1-6_2004-03_G_GHG-Prot_WRI&WBCSD.pdf
+Converted on: 2025-03-28 03:20:43
+Original Size: 3.51 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 19 of 104
+--------------------------------------------------------------------------------
+
+GUIDANCESetting Organizational Boundaries
+CHAPTER 3 22FIGURE 1. Defining the organizational boundary of Holland Industries
+HOLLAND
+INDUSTRIESHOLLAND
+SWITZERLAND
+HOLLAND
+AMERICA
+KAHUNA
+CHEMICALSBGB
+(50% OWNED)
+IRW
+(75% OWNED)
+QUICKFIX
+NALLO
+SYNTAL100%
+100%
+100%
+83%
+100%
+100%
+33.3%
+100%
+33.3%
+43%
+100%
+100%
+56%
+0%
+0%
+0%
+0%
+0%Equity share
+Operational controlFinancial control41.5%
+0%
+50%
+62.25%
+100%
+100%
+AN ILLUSTRATION:  
+THE EQUITY SHARE AND CONTROL APPROACHES
+Holland Industries is a chemicals group comprising
+a number of companies/joint ventures active in theproduction and marketing of chemicals. Table 2 outlinesthe organizational structure of Holland Industries andshows how GHG emissions from the various whollyowned and joint operations are accounted for underboth the equity share and control approaches.
+In setting its organizational boundary, Holland
+Industries first decides whether to use the equity orcontrol approach for consolidating GHG data at thecorporate level. It then determines which operations at
+the corporate level meet its selected consolidationapproach. Based on the selected consolidation approach,the consolidation process is repeated for each loweroperational level. In this process, GHG emissions arefirst apportioned at the lower operational level(subsidiaries, associate, joint ventures, etc.) before theyare consolidated at the corporate level. Figure 1 pres-ents the organizational boundary of Holland Industriesbased on the equity share and control approaches.
+
+--- Page 25 of 116 ---
+
+CHAPTER 3 Setting Organizational Boundaries 23GUIDANCE
+In this example, Holland America (not Holland Industries) holds
+a 50 percent interest in BGB and a 75 percent interest in IRW. Ifthe activities of Holland Industries itself produce GHG emissions(e.g., emissions associated with electricity use at the head office),then these emissions should also be included in the consolidationat 100 percent.NOTES
+1The term “operations” is used here as a generic term to denote any
+kind of business activity, irrespective of its organizational, gover-nance, or legal structures.
+2Financial accounting standards use the generic term “control” for whatis denoted as “financial control” in this chapter.TABLE 2. Holland Industries - organizational structure and GHG emissions accounting
+WHOLLY
+OWNED ANDJOINTOPERATIONSOF HOLLAND
+Holland
+Switzerland
+Holland
+America
+BGB
+IRW
+Kahuna
+Chemicals
+QuickFix
+Nallo
+SyntalLEGAL
+STRUCTURE
+AND PARTNERS
+Incorporated
+company
+Incorporated
+company
+Joint venture,
+partners havejoint financialcontrol otherpartner Rearden
+Subsidiary of
+Holland America
+Non-incorporated
+joint venture;partners havejoint financialcontrol; two otherpartners: ICT and BCSF
+Incorporated joint
+venture, otherpartner Majox
+Incorporated joint
+venture, otherpartner Nagua Co.
+Incorporated
+company,subsidiary ofErewhon Co.ECONOMIC
+INTEREST
+HELD BY
+HOLLAND
+INDUSTRIES
+100%
+83%50% by
+HollandAmerica
+75% by
+HollandAmerica
+33.3%
+43%
+56%
+1%CONTROL
+OF
+OPERATING
+POLICIES
+Holland
+Industries
+Holland
+Industries
+Rearden
+Holland
+America
+Holland
+Industries
+Holland
+Industries
+NalloErewhon
+Co.TREATMENT IN
+HOLLAND INDUSTRIES’
+FINANCIAL ACCOUNTS
+(SEE TABLE 1)
+Wholly owned subsidiary
+Subsidiaryvia Holland America
+via Holland America
+Proportionally
+consolidated joint venture
+Subsidiary
+(Holland Industries has
+financial control since it treats Quick Fix as asubsidiary in its financialaccounts)
+Associated company
+(Holland Industries doesnot have financial controlsince it treats Nallo as anAssociated company in itsfinancial accounts)
+Fixed asset investmentEMISSIONS ACCOUNTED FOR AND REPORTED
+BY HOLLAND INDUSTRIES
+EQUITY SHARE
+APPROACH
+100%
+83%41.5%
+(83% x 50%)
+62.25%
+(83% x 75%)33.3%
+43%
+56%
+0%CONTROL APPROACH
+100% for
+operational control
+100% for
+financial control
+100% for
+operational control
+100% for
+financial control
+0% for
+operational control
+50% for financial
+control (50% x 100%)
+100% for
+operational control
+100% for
+financial control
+100% for
+operational control
+33.3% for
+financial control
+100% for
+operational control
+100% for
+financial control
+0% for
+operational control
+0% for
+financial control
+0% for
+operational control
+0% for
+financial control
+
+--- Page 26 of 116 ---
+
+STANDARD 24fter a company has determined its organizational boundaries in terms of the operations that it owns or controls, it then sets its operational boundaries. This involves identifying emissions associated with its operations,categorizing them as direct and indirect emissions, and choosing the scope ofaccounting and reporting for indirect emissions. A4Setting Operational Boundaries GUIDANCESTANDARD

@@ -1,0 +1,54 @@
+File Name: 1_2020-06-18_VO_2020_852_TAXAllg_EU.pdf
+Converted on: 2025-03-28 03:20:25
+Original Size: 0.73 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 32 of 54
+--------------------------------------------------------------------------------
+
+(55) This Regulation supplements the disclosure requirements laid down in Regulation (EU) 2019/2088. To ensure the
+orderly and effective monit oring of compl iance by financial mark et participants with this Regulation, Member
+State s should rely on the compe tent author ities designat ed in accordance with Regulation (EU) 2019/2088. To
+enforce compl iance, Member States should in addition lay down rules on measures and penalties, which should be
+effective, propor tionate and dissuasive. National compet ent author ities and the ESAs should exercise the product
+inter vention powers laid down in Regulations (EU) No 600/2014 (65), (EU) No 1286/2014 (66) and (EU)
+2019/1238 (67) of the European Parliament and of the Council also with respect to mis-selling practices or
+misleading disclosures of sustainability-related information, including the information required under this
+Regulation.
+(56) In order to ensure the efficient and sustainable organisati on of the work and meeting practices of both the Platf orm
+and the Member State Exper t Group on Sustainable Finance, and in order to enable broad participation and efficient
+inter action within the groups, their subgroups, the Commission and stakeholders, the increased use of digital,
+including virtual, technologies should be considered, where appropr iate.
+(57) To give sufficient time to the relevant actors to familiar ise themselves with the criteria for qualif ication as
+environmentally sustainable economic activities set out in this Regulation and to prepare for their application, the
+oblig ations set out in this Regulation should become applicable, for each environmental objective, 12 months after
+the relevant technical screening criteria have been established.
+(58) The provision in this Regulation refer ring to certificate-based tax incentive schemes that exist prior to the entr y into
+force of this Regulation is without prejudice to the respective compet ences of the Union and the Member States with
+respect to tax provi sions, as set out by the Treaties.
+(59) The application of this Regulation should be reviewed regularly in order to assess, inter alia: the progress with regar d
+to the development of technical screening criteria for environmentally sustainable economic activities; the possible
+need to revise and compl ement those criteria for deter mining whether an economic activity qualifi es as
+environmentally sustainable; the effectiveness of the classificat ion system for environmentally sustainable economic
+activities in channelling private investment into such activities and in particular as regar ds the flow of capital into
+private enterprises and other legal entities; and the further development of that classificat ion system, including by
+expanding its scope beyond environmentally sustainable economic activities, in order to cover activities that
+signif icantly harm the environment, as well as other sustainability objectives, including social objectives.
+(60) Since the objectives of this Regulation cannot be suffi ciently achi eved by the Member States, but can rather , by
+reason of the need to introduce at Union level unif orm criteria for environmentally sustainable economic activities,
+be better achi eved at Union level, the Union may adopt measures, in accordance with the principle of subsidiar ity as
+set out in Article 5 of the Treaty on European Union. In accordance with the principle of propor tionality as set out in
+that Article, this Regulation does not go beyond what is necessar y in order to achieve those objectives,
+HAVE ADOPTED THIS REGUL ATION:
+CHA PTER I
+SUBJECT MA TTER, SCOPE AND DEFINITIONS
+Article 1
+Subject matter and scope
+1. This Regulation establishes the criteria for deter mining whether an economic activity qualif ies as environmentally
+sustainable for the purposes of establishing the degree to which an inve stment is environmentally sustainable.
+(65)Regulation (EU) No 600/2014 of the European Parliament and of the Council of 15 May 2014 on markets in financial instr uments
+and amending Regulation (EU) No 648/2012 (OJ L 173, 12.6.2014, p. 84).
+(66)Regulation (EU) No 1286/2014 of the European Parliament and of the Council of 26 November 2014 on key information documents
+for packag ed retail and insurance-based investment products (PRIIPs) (OJ L 352, 9.12.2014, p. 1).

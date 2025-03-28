@@ -1,0 +1,119 @@
+File Name: 1_2023-07-31_DelVO_2023_2772_ESRS_EU.pdf
+Converted on: 2025-03-28 03:20:41
+Original Size: 5.82 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 30 of 284
+--------------------------------------------------------------------------------
+
+ELI: http://data.europa.eu/eli/reg_del/2023/2772/oj 27/284Topical
+ESRSSustainability matters covered in topical ESRS
+Topic Sub-topic Sub-sub-topics
+ESRS E1 Climate change — Climate change adaptation
+— Climate change mitigation
+— Energy
+ESRS E2 Pollution — Pollution of air
+— Pollution of water
+— Pollution of soil
+— Pollution of living organisms and
+food resources
+— Substances of concern
+— Substances of very high concern
+— Microplastics
+ESRS E3 Water and marine
+resources— Water— Marine resources— Water consumption— Water withdrawals
+— Water discharges
+— Water discharges in the oceans
+— Extraction and use of marine resources
+ESRS E4 Biodiversity and
+ecosystems
+— Direct impact drivers of biodiver ­
+sity loss— Climate Change— Land-use change, fresh water-use change
+and sea-use change
+— Direct exploitation
+— Invasive alien species
+— Pollution
+— Others
+— Impacts on the state of species Examples:
+— Species population size
+— Species global extinction risk
+— Impacts on the extent and condi ­
+tion of ecosystemsExamples:
+— Land degradation
+— Desertification
+— Soil sealing
+— Impacts and dependencies on eco ­
+system services
+ESRS E5 Circular economy — Resources inflows, including
+resource use
+— Resource outflows related to pro ­
+ducts and services
+— Waste
+ESRS S1 Own workforce — Working conditions — Secure employment— Working time
+— Adequate wages
+— Social dialogue
+— Freedom of association, the existence of
+works councils and the information, con ­
+sultation and participation rights of
+workers
+— Collective bargaining, including rate of
+workers covered by collective agree ­
+ments
+— Work-life balance
+— Health and safetyOJ L, 22.12.2023 EN  
+
+--- Page 28 of 284 ---
+
+ELI: http://data.europa.eu/eli/reg_del/2023/2772/oj 28/284Topical
+ESRSSustainability matters covered in topical ESRS
+Topic Sub-topic Sub-sub-topics
+— Equal treatment and opportunities
+for all— Gender equality and equal pay for work
+of equal value
+— Training and skills development
+— Employment and inclusion of persons
+with disabilities
+— Measures against violence and harass ­
+ment in the workplace
+— Diversity
+— Other work-related rights — Child labour— Forced labour
+— Adequate housing
+— Privacy
+ESRS S2 Workers in the value
+chain— Working conditions — Secure employment— Working time
+— Adequate wages
+— Social dialogue
+— Freedom of association, including the
+existence of work councils
+— Collective bargaining
+— Work-life balance
+— Health and safety
+— Equal treatment and opportunities
+for all— Gender equality and equal pay for work
+of equal value
+— Training and skills development
+— The employment and inclusion of per ­
+sons with disabilities
+— Measures against violence and harass ­
+ment in the workplace
+— Diversity
+— Other work-related rights — Child labour— Forced labour
+— Adequate housing
+— Water and sanitation
+— Privacy
+ESRS S3 Affected
+communities— Communities’ economic, social
+and cultural rights— Adequate housing— Adequate food
+— Water and sanitation
+— Land-related impacts
+— Security-related impacts
+— Communities’ civil and political
+rights— Freedom of expression
+— Freedom of assembly
+— Impacts on human rights defenders
+— Rights of indigenous peoples — Free, prior and informed consent— Self-determination
+— Cultural rightsOJ L, 22.12.2023 EN  
+
+--- Page 29 of 284 ---

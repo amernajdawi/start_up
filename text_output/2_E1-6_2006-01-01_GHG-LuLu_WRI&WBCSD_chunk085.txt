@@ -1,0 +1,47 @@
+File Name: 2_E1-6_2006-01-01_GHG-LuLu_WRI&WBCSD.pdf
+Converted on: 2025-03-28 03:18:22
+Original Size: 6.41 MB
+Chunk Size: 500 tokens with 50 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 85 of 88
+--------------------------------------------------------------------------------
+
+SiteSuitabilityforHigh-YieldHybridPoplar.Mapproduct.
+Edmonton:NorthernForestService,NaturalResources
+Canada.
+Lemprière,T.C.,M.Johnston,A.Willcocks,B.Bogdanski,
+D.Bisson,M.Apps,andO.Bussler.2002.Saskatchewan
+ForestCarbonSequestrationProject.ForestryChronicle
+78:843–49.
+Li,Z.,W.A.Kurz,M.J.Apps,andS.J.Beukema.2003.
+BelowgroundBiomassDynamicsintheCarbonBudget
+ModeloftheCanadianForestSector:RecentImprovements
+andImplicationsfortheEstimationofNPPandNEP.
+CanadianJournalofForestResearch33:126–36.
+NaturalResourcesCanada.2006.NationalForest
+Inventory:NationalForestInformationSystem.Last
+updated5/29/06.Availableathttps://nai.nfis.org/nai-
+home/public/splash.do.
+Niu,X.,andS.W.Duiker.2006.CarbonSequestration
+PotentialbyAfforestationofMarginalAgriculturalLandin
+theMidwesternU.S.ForestEcologyandManagement
+223:415–27.
+Peterson,E.B.,G.M.Bonnor,G.C.Robinson,andN.M.
+Peterson.1999.CarbonSequestrationAspectsofan
+AfforestationPrograminCanada’sPrairieProvinces.
+ReportsubmittedtoJointForestSectorTable/SinksTable,
+NationalClimateChangeProcess,NawitkaRenewable
+ResourceConsultants,Victoria,B.C.
+PrairieFarmRehabilitationAdministration.2001.Prairie
+LandandWaterResources:TheLast100Years.Soil
+Resources.Regina,Saskatchewan.Accessed6/26/06.
+Availableathttp://collections.ic.gc.ca/soilandwater/lr4.htm.
+(S&T) 2ConsultantsInc.2005.DocumentationforNatural
+ResourcesCanada’sGHGeniusModel3.0.Delta,B.C.
+SoilLandscapesofCanadaWorkingGroup.2006.Soil
+LandscapesofCanadav3.1.AgricultureandAgri-Food
+Canada.(digitalmapanddatabaseat1:1millionscale).
+Availableat
+http://sis.agr.gc.ca/cansis/nsdb/slc/v3.1/intro.html.

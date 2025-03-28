@@ -1,0 +1,39 @@
+File Name: 1_2023-07-31_DelVO_2023_2772_ESRS_EU.pdf
+Converted on: 2025-03-28 03:20:41
+Original Size: 5.82 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 109 of 284
+--------------------------------------------------------------------------------
+
+ELI: http://data.europa.eu/eli/reg_del/2023/2772/oj 110/284Connectivity with financial reporting information
+AR 77. The reconciliation of the significant amount of assets, liabilities, and net revenue (vulnerable to either material
+physical risks or transition risks) to the relevant line item or disclosure (e.g., in segment reporting) in the
+financial statements (as required by paragraph 68) may be presented by the undertaking as follows:
+(a) as a cross-reference to the related line item or disclosure in the financial statements if these amounts are identifiable in the financial statements; or
+(b) If these cannot be directly cross-referenced, as a quantitative reconciliation of each to the relevant line item or disclosure in the financial statement using the below tabular format:
+Carrying amount of assets or liabilities or net revenue vulnerable to either material physical or transition risks
+Adjusting itemsAssets or liabilities or net revenue in the financial statements
+AR 78. The undertaking shall ensure the consistency of data and assumptions to assess and report the anticipated
+financial effects from material physical risks and transition risks in the sustainability statement with the
+corresponding data and assumptions used for the financial statements (e.g., carbon prices used for assessing
+impairment of assets, the useful life of assets, estimates and provisions). The undertaking shall explain the reasons
+for any inconsistencies (e.g., if the full financial implications of climate-related risks are still under assessment or
+are not deemed material in the financial statements).
+AR 79. For potential future effects on liabilities (as required by paragraph 67 (d)), if applicable, the undertaking shall cross-
+reference the description of the emission trading schemes in the financial statements.
+Climate-related opportunities
+AR 80. When disclosing the information under paragraph 69 (a), the undertaking shall explain the nature of the cost
+savings (e.g., from reduced energy consumption), the time horizons and the methodology used, including the
+scope of the assessment, critical assumptions, and limitations, and whether and how scenario analysis was
+applied.
+AR 81. When disclosing the information required under paragraph 69 (b), the undertaking shall explain how it has assessed the market size or any expected changes to net revenue from low-carbon products and services or
+adaptation solutions including the scope of the assessment, the time horizon, critical assumptions, and limitations
+and to what extent this market is accessible to the undertaking. The information on the market size may be put in
+perspective to the current taxonomy-aligned revenue disclosed under the provisions of Regulation (EU) 2020/852.
+The entity may also explain how it will pursue its climate-related opportunities and, where possible, this should be
+linked to the disclosures on policies, targets and actions under Disclosure Requirements E1-2, E1-3 and E1-4.OJ L, 22.12.2023 EN  
+
+--- Page 111 of 284 ---

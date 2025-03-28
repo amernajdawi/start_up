@@ -1,0 +1,36 @@
+File Name: 2_E1-6_2004-03_G_GHG-Prot_WRI&WBCSD.pdf
+Converted on: 2025-03-28 03:20:43
+Original Size: 3.51 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 28 of 104
+--------------------------------------------------------------------------------
+
+GUIDANCESetting Operational Boundaries
+CHAPTER 4 32USING OPERATIONAL CONTROL: The lessee only
+accounts for emissions from leased assets that it oper-ates (i.e., if the operational control criterion applies).
+Guidance on which leased assets are operating and
+which are finance leases should be obtained from thecompany accountant. In general, in a finance lease, anorganization assumes all rewards and risks from theleased asset, and the asset is treated as wholly ownedand is recorded as such on the balance sheet. Allleased assets that do not meet those criteria are oper-ating leases. Figure 5 illustrates the application ofconsolidation criteria to account for emissions fromleased assets.Double counting
+Concern is often expressed that accounting for indirectemissions will lead to double counting when twodifferent companies include the same emissions in theirrespective inventories. Whether or not double countingoccurs depends on how consistently companies withshared ownership or trading program administratorschoose the same approach (equity or control) to set theorganizational boundaries. Whether or not doublecounting matters, depends on how the reported informa-tion is used.
+Double counting needs to be avoided when compiling
+national (country) inventories under the Kyoto Protocol,but these are usually compiled via a top-down exerciseusing national economic data, rather than aggregationof bottom-up company data. Compliance regimes aremore likely to focus on the “point of release” of emis-sions (i.e., direct emissions) and/or indirect emissionsfrom use of electricity. For GHG risk management andvoluntary reporting, double counting is less important.
+The World Resources Institute has a long-standing commitment toreduce its annual GHG emissions to net zero through a combinationof internal reduction efforts and external offset purchases. WRI’semissions inventory includes scope 2 indirect emissions associ-ated with the consumption of purchased electricity and scope 3indirect emissions associated with business air travel, employeecommuting, and paper use. WRI has no scope 1 direct emissions.
+Collecting employee commuting activity data from WRI’s 140 staff
+can be challenging. The method used is to survey employees onceeach year about their average commuting habits. In the first twoyears of the initiative, WRI used an Excel spreadsheet accessible to all employees on a shared internal network, but only achieved a 48 percent participation rate. A simplified, web-based survey that downloaded into a spreadsheet improved participation to
+65 percent in the third year. Using feedback on the survey design,WRI further simplified and refined survey questions, improved userfriendliness, and reduced the time needed to complete the survey toless than a minute. Employee participation rate rose to 88 percent.
+Designing a survey that was easily navigable and had clearly artic-
+ulated questions significantly improved the completeness andaccuracy of the employee commuting activity data. An addedbenefit was that employees felt a certain amount of pride at having
+contributed to the inventory development process. The experiencealso provided a positive internal communications opportunity.
+WRI has developed a guide consistent with GHG Protocol Corporate
+Standard to help office-based organizations understand how to
+track and manage their emissions. Working 9 to 5 on Climate Change:
+An Office Guide is accompanied by a suite of calculation tools,
+including one for using a survey method to estimate employeecommuting emissions. The Guide and tools can be downloaded fromthe GHG Protocol Initiative website (www.ghgprotocol.org).
+Transportation-related emissions are the fastest growing GHG
+emissions category in the United States. This includes commercial,business, and personal travel as well as commuting. By accountingfor commuting emissions, companies may find that several practical opportunities exist for reducing them. For example, whenWRI moved to new office space, it selected a building located closeto public transportation, reducing the need for employees to drive to work. In its lease, WRI also negotiated access to a locked bikeroom for those employees who cycle to work. Finally, teleworkprograms significantly reduce commuting emissions by avoiding ordecreasing the need to travel.
+World Resources Institute:
+Innovations in estimating employee commuting emissions
+
+--- Page 35 of 116 ---

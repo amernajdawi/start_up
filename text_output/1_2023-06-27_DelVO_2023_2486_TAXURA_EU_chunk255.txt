@@ -1,0 +1,40 @@
+File Name: 1_2023-06-27_DelVO_2023_2486_TAXURA_EU.pdf
+Converted on: 2025-03-28 03:18:09
+Original Size: 8.44 MB
+Chunk Size: 500 tokens with 50 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 255 of 380
+--------------------------------------------------------------------------------
+
+ELI: http://data.europa.eu/eli/reg_del/2023/2486/oj 94/164(c) waste management that prioritises recycling over disposal, in the manufacturing
+process;
+(d) information on product ingredients along the supply chain.
+(6) Protection and restoration
+of biodiversity and ecosys ­
+temsThe activity complies with the criteria set out in Appendix D to this Annex.
+1.2. Manufacture of medicinal products
+Description of the activity
+Manufacture of medicinal products.
+The economic activities in this category could be associated with NACE code C21.2 in accordance with the statistical
+classification of economic activities established by Regulation (EC) No 1893/2006.
+Technical screening criteria
+Substantial contribution to pollution prevention and control
+1.The activity complies with one of the following sets of requirements set out in point 1.1 or 1.2 relating to product
+substitution. In any case, the activity complies with the requirements set out in point 1.3.
+1.1. The medicinal product complies with the following requirements set out in points 1.1.1 and 1.1.2:
+1.1.1. The medicinal product complies with one of the following requirements:
+(a) the ingredients that constitute the formulation of the medicinal product are naturally occurring substances such as
+vitamins, electrolytes, amino acids, peptides, proteins, nucleotides, carbohydrates and lipids, and, in line with
+European Medicines Agency Guideline on the environmental risk assessment of medicinal products for human use
+(EMA ERA guideline) (20), are generally considered to be degradable in the environment (21);
+(b) where the ingredients that constitute the formulation of the medicinal product do not comply with the requirements specified in point (a), those ingredients, their key human metabolites and their key transformation products in the
+environment comply with one of the following:
+(i) are classified as readily biodegradable based on at least one of the test methods from the OECD Guidelines for the
+Testing of Chemicals, Test 301 (A-F), Ready Biodegradability (
+22), in accordance with the pass value for ready
+biodegradability as defined in that guideline;
+(20)European Medicines Agency Guidelines on the environmental risk assessment of medicinal products for human use, version of
+27.6.2023 available at: https://www.ema.europa.eu/en/environmental-risk-assessment-medicinal-products-human-use-scientific-
+guideline.

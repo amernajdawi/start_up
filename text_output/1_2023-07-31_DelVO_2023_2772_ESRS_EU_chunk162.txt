@@ -1,0 +1,53 @@
+File Name: 1_2023-07-31_DelVO_2023_2772_ESRS_EU.pdf
+Converted on: 2025-03-28 03:20:41
+Original Size: 5.82 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 162 of 284
+--------------------------------------------------------------------------------
+
+ELI: http://data.europa.eu/eli/reg_del/2023/2772/oj 166/2842. In order to meet the objective, this Standard also requires an explanation of the general approach the undertaking
+takes to identify and manage any material actual and potential impacts on its own workforce in relation to the
+following social, including human rights, factors or matters:
+(a) working conditions, including:
+i. secure employment;
+ii. working time;
+iii. adequate wages;
+iv. social dialogue;
+v. freedom of association, the existence of works councils and the information, consultation and participation
+rights of workers;
+vi. collective bargaining, including the rate of the undertaking’s workforce covered by collective agreements;
+vii. work-life balance; and
+viii. health and safety.
+(b) equal treatment and opportunities for all, including:
+i. gender equality and equal pay for work of equal value;
+ii. training and skills development;
+iii. employment and inclusion of persons with disabilities;
+iv. measures against violence and harassment in the workplace; and
+v. diversity.
+(c) other work-related rights, including those that relate to:
+i. child labour;
+ii. forced labour;
+iii. adequate housing; and
+iv. privacy.
+3. This Standard also requires an explanation of how such impacts, as well as the undertaking’s dependencies on its own
+workforce, can create material risks or opportunities for the undertaking. For example, on the matter of equal
+opportunities, discrimination in hiring and promotion against women can reduce the undertaking’s access to
+qualified labour and harm its reputation. Conversely, policies to increase the representation of women in the
+workforce and in upper levels of management can have positive effects, such as increasing the pool of qualified
+labour and improving the undertaking’s reputation.
+4. This Standard covers an undertaking’s own workforce, which is understood to include both people who are in an
+employment relationship with the undertaking (“employees”) and non-employees who are either people with
+contracts with the undertaking to supply labour (“self-employed people”) or people provided by undertakings
+primarily engaged in “employment activities” (NACE Code N78). See Application Requirement 3 for examples of
+who falls under own workforce. The information required to be disclosed with regard to non-employees shall not
+affect their status pursuant to applicable labour law.
+5. This Standard does not cover workers in the undertaking’s upstream or downstream value chain; these categories of
+workers are covered in ESRS S2 Workers in the value chain.
+6. The Standard requires undertakings to describe their own workforce, including key characteristics of the employees
+and non-employees that are part of it. This description provides users with an understanding of the structure of the
+undertaking’s own workforce and helps to contextualise information provided through other disclosures.OJ L, 22.12.2023 EN  
+
+--- Page 167 of 284 ---

@@ -1,0 +1,165 @@
+File Name: CELEX_32010L0075_DE_TXT.pdf
+Converted on: 2025-03-28 03:18:33
+Original Size: 4.18 MB
+Chunk Size: 500 tokens with 50 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 97 of 163
+--------------------------------------------------------------------------------
+
+--- Page 46 of 103 ---
+
+L 334/62 DE Amtsblattder Europäischen Union 17.12.2010
+8. Staub-Emissionsgrenzwerte (in mg/Nm3) für mit g asförmigen Brennstoffen betriebene Feuerungsanlagen mit Ausnahme
+von
+Gasturbinen
+und
+Gasmotoren  
+Im
+Allgemeinen 5
+Hochofen gas 10
+Anderweitig
+verwertbare
+Gase der Stahlin dustrie 30
+TEIL
+2
+Emissionsgrenzwerte für Feuerungsanlagen gemäß Artikel 30 Absatz 3
+1. Alle Emissionsgrenzwerte
+werden
+bei
+einer
+Temperatur von  
+273,15 K,
+einem Druck  
+von
+101,3 kPa
+und
+nach
+Abzug
+des
+Wasserdampfg ehalts
+des Abgases
+und
+bei
+einem
+Bezugs-O2-Gehalt von  6 % für feste Bren nstoffe, 3 % für Feuerun gs­
+anlagen
+mit flüssig en
+und
+gasförmigen
+Brennstoffen
+mit Ausnahme
+von
+Gasturbinen
+und
+Gasmotoren und 15 % für Gas­
+turbinen
+und
+Gasmotoren  
+berechnet.
+Im
+Falle von k ombinierten
+Gas- und
+Dampfturb inen-Anlagen
+(GuD) mit Zusatzfeuerun g
+kann der Bezugssauerstoff­
+gehalt
+von
+der zustän digen
+Behörde un ter
+Berücksichtigung
+der besondere
+n
+Merkmale
+der betreffenden
+Anlage
+festge­
+legt
+werden.
+2. SO2-Emissionsgrenzwerte (in mg/Nm3) für mit festen  oder flüssig en Brennstoffen betriebene Feuerungsanlagen mit Aus­
+nahme
+von
+Gasturbinen
+und
+Gasmotoren  
+Feuerungswärme­
+leistung
+ (MW)Steinkohle  und  Braunkohle  sowie 
+andere
+feste Bren nstoffeBiomasse TorfFlüssige
+Brennstoffe
+50-100 400 200 300 350
+100-300 200 200 300
+250 bei
+Wirbelschichtfeuerung200
+>
+300 150
+200 bei
+Wirbelschichtfeuerung
+mit
+zirkulierender
+oder druck auf­
+geladener
+Wirbelschicht150 150
+200
+bei
+Wirbelschichtfeuerung150
+3. SO2-Emissionsgrenzwerte (in mg/Nm3) für mit g asförmigen Brennstoffen betriebene Feuerungsanlagen mit Ausnahme
+von
+Gasturbinen
+und
+Gasmotoren  
+Im
+Allgemeinen 35
+Flüssiggas 5
+Koksofengase
+mit niedrigem
+Heizwert 400
+Hochofen gase
+mit niedrigem
+Heizwert 200
+4. NOx-Emissionsgrenzwerte (in mg/Nm3) für mit festen  oder flüssig en Brennstoffen betriebene Feuerungsanlagen mit Aus­
+nahme
+von
+Gasturbinen
+und
+Gasmotoren  
+Feuerungswärmeleistung
+(MW)Steinkohle und Braunkohle sowie andere feste
+BrennstoffeBiomasse und Torf Flüssige Brennstoffe
+50-100 300
+400 bei
+Braunkohlestaubfeuerungen250 300
+100-300 200 200 150
+>
+300 150
+200 bei
+Braunkohlestaubfeuerungen150 100
+
+--- Page 47 of 103 ---
+
+17.12.2010 DE Amtsblattder Europäischen Union L 334/63
+5. Für Gasturb inen (einschließlich GuD), die Leicht- un d Mitteldestillate als flüssig en Brennstoff verwenden, gilt ein NOx-
+Emissionsgrenzwert
+von
+50 mg/Nm3 und ein CO-Emissionsgrenzwert von 100 mg/Nm3.
+Gasturbinen
+für den
+Notbetrieb,
+die weniger
+als 500 Betrieb sstunden
+jährlich in  
+Betrieb
+sind,
+fallen
+nicht
+unter
+die in
+dieser
+Nummer festg elegten
+Emissionsgrenzwerte.
+Die Betreib er
+solcher An lagen
+registrieren
+die geleisteten

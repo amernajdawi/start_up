@@ -1,0 +1,35 @@
+File Name: 2_E1-6_2004-03_G_GHG-Prot_WRI&WBCSD.pdf
+Converted on: 2025-03-28 03:20:43
+Original Size: 3.51 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 77 of 104
+--------------------------------------------------------------------------------
+
+GUIDANCESetting a GHG Target
+CHAPTER 11 84Holcim: Using a GHG balance sheet
+to track performance towards the target
+Holcim, a global cement producer, tracks its performance in
+relation to its voluntary corporate target using a GHG balancesheet. This balance sheet shows, for each commitment periodand for each country business, on one side the actual GHGemissions and on the other side the GHG “assets” and“instruments.” These assets and instruments consist of thevoluntary GHG target itself (the “voluntary cap”; in otherwords, the allowances that Holcim provides for itself), a regu-latory target (“cap”) if applicable, plus the CDM creditspurchased (added) or sold (subtracted), and any regulatoryemissions trading allowances purchased (added) or sold(subtracted). Thus if any country business sells CDM credits(generated at sources inside the voluntary target boundary), itis ensured that only the buying organization counts the credit(see first example of double counting in step 8).
+At the end of the commitment period, every country business
+must demonstrate a neutral or positive balance towards Holcim’starget. Those companies whose voluntary cap overlaps with a
+regulatory cap (e.g., in Europe) must also demonstrate aneutral or positive balance towards the regulatory cap. GHGreductions in Europe are thus reported towards both targets(see second example of double counting in step 8).
+Both sides of the country business balance sheets are consoli-
+dated to group level. Credits and allowances traded within thegroup simply cancel out in the asset column of the consoli-dated corporate level GHG balance sheet. Any credits orallowances traded externally are reconciled with both thevoluntary and regulatory caps at the bottom line of the assetcolumn of the balance sheet. This ensures that any soldallowance is only counted by the buying organization (whenHolcim’s target and that of the buying organization do notoverlap). A purchased allowance or credit is counted towardsboth the voluntary and regulatory targets of the European busi-ness (these two targets overlap).
+GHG ASSETS & INSTRUMENTS
+Voluntary cap (direct emissions)
+Regulatory cap (direct emissions)Reg. allowances purchased (+) or sold (-) CDM credits purchased (+) or sold (-)Sum of voluntary cap, reg. allowances & creditsSum of regulatory cap, reg. allowances & credits
+Voluntary cap
+CDM credits purchased (+) or sold (-)Sum of voluntary cap & credits
+Sum of voluntary cap, reg. allowances & creditsGHG EMISSIONS
+Emissions, direct, indirect + biomass
+Sum of direct emissions
+Sum of direct emissions, according to EU ETS
+Emissions, direct, indirect + biomass
+Sum of direct emissions
+Sum of direct emissionsHolcim GroupHolcim (country A in Europe)
+Holcim (country X in Latin America)GHG balance sheet (All values in tonnes CO2-e/year)
+
+--- Page 87 of 116 ---

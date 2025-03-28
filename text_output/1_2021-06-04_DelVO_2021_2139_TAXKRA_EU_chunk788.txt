@@ -1,0 +1,23 @@
+File Name: 1_2021-06-04_DelVO_2021_2139_TAXKRA_EU.pdf
+Converted on: 2025-03-28 03:18:03
+Original Size: 2.76 MB
+Chunk Size: 500 tokens with 50 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 788 of 966
+--------------------------------------------------------------------------------
+
+set out in Table 2 of the Annex to Directive 2009/33/EC.
+For road vehicles of categories M and N, tyres comply with external rolling
+noise requirements in the highest populated class and with Rolling
+Resistance Coefficient (influencing the vehicle energy efficiency) in the
+two highest populated classes as set out in Regulation (EU) 2020/740
+and as can be verified from the European Product Registry for Energy
+Labelling (EPREL).
+Vehicles comply with Regulation (EU) No 540/2014.  
+_____________
+( 477  ) Vehicles are required to comply with the criteria for DNSH to pollution prevention and control specified in this section, inc luding 
+as regards CO  2 emission levels. 
+( 478  ) As set out in Annex I of Directive 2005/64/EC. 
+( 479  ) Commission Regulation (EU) 2018/1832.EN  L 442/286 Official Journal of the European Union 9.12.2021

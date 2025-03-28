@@ -1,0 +1,86 @@
+File Name: 2_E1-6_2014-01-01_G_GHG-Agri_WRI&WBCSD.pdf
+Converted on: 2025-03-28 03:20:54
+Original Size: 1.75 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 44 of 65
+--------------------------------------------------------------------------------
+
+Recommended CO 2 fluxes
+The following CO 2 fluxes should be include d in inventories:   
+1. CO 2 emissions from, and atmospheric removals by, organic C stocks in mineral and
+organic soils  
+2. CO 2 emissions from, and atmospheric removals by, below-ground and above-ground
+woody biomass (e.g., woody vegetation in or chards, vineyards and agroforestry
+systems)
+3. CO 2 emissions from the combustion of herbaceous biomass (e.g., open burning of
+crop residues)
+4. CO 2 emissions from DOM
+These fluxes should be reported within a spec ial ‘Biogenic Carbon’ category that is
+outside of the scopes. The one exception concerns the CO
+2 emissions from soils and
+woody biomass that result from LUC. These LUC CO 2 emissions should be reported
+within the scopes because they effectively constitute permanent losses of C to the
+atmosphere (see Chapter 9.1).  The CH
+4 and N 2O emissions from all C stocks (e.g., from biomass or DOM combustion)
+shall always be reporte d in the scopes.    
+
+Additional CO 2 fluxes that may be reported  
+
+1. Fluxes to/from inorga nic soil carbon stocks
+
+10 This Guidance does not recommend a minimum soil depth for measuring soil C stocks.  
+
+--- Page 62 of 103 ---
+
+GHG Protocol Agricultural Guidance
+
+62
+In contrast to soil organic C stocks, inor ganic C stocks are slow to respond to
+management changes and often will not exhibit significant changes. Moreover,
+quantifying such changes requires a deta iled understanding of site hydrology and
+mineralogy. For instance, it may require follo wing the fate of discharged dissolved
+inorganic C and base cations (e.g., Ca and Mg ) from the managed land, at least until they
+are fully captured in the oceanic inorganic C cycle. Such analyses are highly complicated.
+For these reasons, companies can exclude the ne t fluxes to/from inorganic soil C stocks.   
+However, certain management practices can be expected to significant ly affect inorganic
+C stocks by changing soil chemistry and i nducing the breakdown of  carbonates, leading 
+to CO
+2 emissions. For instance, use of ammonium sulfate fertilizer to lower soil pH will
+tend to promote CO 2 emissions from inorganic C. In such cases, companies should
+consider quantifying the CO 2 emissions.  
+
+2. Sequestration in organic soils.  
+In wetland environments with organic soils, the rates of C sequestration are relatively
+slow and can be assumed to be negligib le. They therefore can be excluded.   
+
+CO 2 fluxes that should  not be reported 
+
+1. Sequestration in harvested woody products (HWPs) and herbaceous vegetation
+The C contained in HWPs should not be include d in any reported values for the amount
+of sequestration in above-ground woody biomas s stocks. Depending on how these values
+have been calculated, this may mean that the amount of C in HWPs will have to be
+subtracted from estimates of the total amount  of sequestration. This subtraction is 
+necessary to ensure that i nventories do not over-estimate the net GHG benefits of woody
+crop production.  
+The biomass associated with annual and pere nnial herbaceous vegetation is relatively
+ephemeral - reductions in these biomass stoc ks from harvesting, the burning of the crop
+residues, or the integration of crop residues into soils, ar e balanced by stock increases
+from plant re-growth over a period of only one  to a few years. Consequently, companies 
+should also not report any sequestrati on in herbaceous biomass stocks.  
+
+2. CO
+2 fluxes to/from livestock
+The carbon incorporated into animal tissues or  lost through animal respiration should not 
+be reported in an inventory.  
+Special note: Accounting for natural disturbances, conservation
+areas, and payments for environmental services  
+Natural  disturbances  are varied and include fires, windstorms, landslides, droughts, and 
+pest outbreaks. Conservation areas  are lands where agricultural production has been 
+limited or halted so as to provide environm ental benefits, such as maintaining or
+
+--- Page 63 of 103 ---
+
+GHG Protocol Agricultural Guidance

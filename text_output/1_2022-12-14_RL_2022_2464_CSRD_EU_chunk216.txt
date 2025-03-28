@@ -1,0 +1,33 @@
+File Name: 1_2022-12-14_RL_2022_2464_CSRD_EU.pdf
+Converted on: 2025-03-28 01:55:36
+Original Size: 1.12 MB
+Chunk Size: 400 tokens with 50 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 216 of 237
+--------------------------------------------------------------------------------
+
+(26) Article 38 is amended as follows :
+(a) paragraph 1 is replaced by the followi ng:
+‘1. Member States shall ensure that statut ory auditors or audit firms may be dismissed only where there are
+proper grounds. Diverg ence of opinions on accounting treatments, audit procedures or, where applicable, on
+sustainability repor ting or assurance procedures shall not be proper grounds for dismissal.’;
+(b) in paragraph 2, the followi ng subparagraph is added:
+‘The obligation to inform provid ed for in the first subparagraph shall also apply to the assurance of sustainability
+repor ting.’;
+(c) in paragraph 3, the followi ng subparagraph is added:
+‘The first subparagraph shall also apply to the assurance of sustainability repor ting.’;
+(27) Article 39 is amended as follows :
+(a) the followi ng paragraph is inser ted:
+‘4a. Member States may allow the functions assigned to the audit committe e relating to sustainability
+repor ting and relating to the assurance of sustainability repor ting to be performed by the administrative or
+super visor y body as a whole or by a dedicat ed body established by the administrative or super visor y body .’;
+(b) in paragraph 6, points (a) to (e) are replaced by the followi ng:
+‘(a) inform the administrative or super visor y body of the audited entity of the outcome of the statutor y audit and,
+where applicable, of the outcome of the assurance of sustainability repor ting and explain how the statut ory
+audit and the assurance of sustainability repor ting contr ibuted to the integrit y of financial repor ting and
+sustainability repor ting respectively , and what the role of the audit committee was in that process;
+(b) monitor the financial and, where applicable, sustainability repor ting process, including the electronic
+repor ting process as referred to in Article 29d of Directive 2013/34/EU and the process carried out by the
+under taking to identify the information repor ted in accordance with the sustainability repor ting standards

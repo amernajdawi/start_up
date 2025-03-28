@@ -1,0 +1,48 @@
+File Name: 1_2023-07-31_DelVO_2023_2772_ESRS_EU.pdf
+Converted on: 2025-03-28 03:18:14
+Original Size: 5.82 MB
+Chunk Size: 500 tokens with 50 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 456 of 686
+--------------------------------------------------------------------------------
+
+ELI: http://data.europa.eu/eli/reg_del/2023/2772/oj 192/284Social Dialogue
+AR 69. For calculating the information required by paragraph 63(a), the undertaking shall identify in which European
+Economic Area (EEA) countries it has significant employment (i.e., at least 50 employees representing at least
+10% of its total employees). For these countries it shall report the percentage of employees in that country which
+are employed in establishments in which employees are represented by workers’ representatives. Establishment is
+defined as any place of operations where the undertaking carries out a non-transitory economic activity with
+human means and goods. Examples include: a factory, a branch of a retail chain, or an undertaking’s
+headquarters. For countries in which there is only one establishment the percentage reported shall be either
+100% or 0%.
+AR 70. The information required by this Disclosure Requirement shall be reported as follows
+Table 1
+Reporting template for collective bargaining coverage and social dialogue
+Collective Bargaining Coverage Social dialogue
+Coverage RateEmployees – EEA
+(for countries with >50 empl.
+representing >10% total empl.)Employees – Non-EEA
+(estimate for regions with >50
+empl. representing >10% total
+empl)Workplace representation (EEA
+only)
+(for countries with >50 empl.
+representing >10% total empl)
+0-19% Region A
+20-39% Country A Region B
+40-59% Country B Country A
+60-79% Country B
+80-100%
+Disclosure Requirement S1-9 – Diversity metrics
+AR 71. In preparing the disclosure on gender at top management, the undertaking shall use the definition of top
+management as one and two levels below the administrative and supervisory bodies unless this concept has
+already been defined with the undertaking’s operations and differs from the previous description. If this is the
+case, the undertaking can use its own definition for top management and disclose that fact and its own definition.
+Disclosure Requirement S1-10 – Adequate Wages
+AR 72. The lowest wage shall be calculated for the lowest pay category, excluding interns and apprentices. This is to be
+based on the basic wage plus any fixed additional payments that are guaranteed to all employees. The lowest
+wage shall be considered separately for each country in which the undertaking has operations, except outside the
+EEA when the relevant adequate or minimum wage is defined at a sub national level.
+AR 73. The adequate wage benchmark used for comparison with the lowest wage shall not be lower than:

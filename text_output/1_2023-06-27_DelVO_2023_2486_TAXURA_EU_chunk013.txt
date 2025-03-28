@@ -1,0 +1,52 @@
+File Name: 1_2023-06-27_DelVO_2023_2486_TAXURA_EU.pdf
+Converted on: 2025-03-28 03:20:36
+Original Size: 8.44 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 13 of 199
+--------------------------------------------------------------------------------
+
+--- Page 6 of 164 ---
+
+ELI: http://data.europa.eu/eli/reg_del/2023/2486/oj 6/164(21) Pollution caused by certain pharmaceutical ingredients may pose risks to the environment and to human health as
+outlined in the Communication from the Commission of 11 March 2019 ‘European Union Strategic Approach to
+Pharmaceuticals in the Environment’ (19). Technical screening criteria for the manufacturing of active
+pharmaceutical ingredients or active substances and for the manufacturing of medicinal products should therefore aim at promoting the production and use of ingredients that are naturally occurring substances or are classified as
+readily biodegradable.
+(22) Preventing and reducing emission of pollutants in the end-of-life phase of products, and the cleaning-up of existing
+pollution, have a significant potential to protect the environment from pollution and to improve the state of the
+environment. Technical screening criteria should therefore be established for the collection, transport and treatment
+of hazardous waste which poses a greater risk to the environment and human health than non-hazardous waste, as
+well as for remediation of non-conforming landfills and abandoned or illegal waste dumps and of contaminated
+sites and areas.
+(23) The technical screening criteria for determining under which conditions an economic activity qualifies as
+contributing substantially to the protection and restoration of biodiversity and ecosystems should reflect the need
+to protect, conserve or restore biodiversity to achieve the good condition of ecosystems or to protect ecosystems
+that are already in good condition. Loss of biodiversity and collapse of ecosystems are one of the biggest threats facing humanity in the next decade (
+20).
+(24) Conservation of biodiversity has direct economic benefits for many sectors of the economy. The technical screening criteria should therefore aim at maintaining or improving the status and trends of terrestrial, freshwater and marine
+habitats, ecosystems and populations of related fauna and flora species.
+(25) The value of biodiversity and of the associated services provided by healthy ecosystems is important for tourism as it
+contributes significantly to the attractiveness and quality of tourism destinations, and therefore to their
+competitiveness. Technical screening criteria should therefore be established for tourism accommodation activities
+and should aim at ensuring that those activities follow appropriate principles and minimum requirements to protect and sustain the biodiversity and ecosystems, and to contribute to their conservation.
+(26) The technical screening criteria for determining whether the economic activities that contribute substantially to one of the environmental objectives cause no significant harm to any of the other environmental objectives should aim at ensuring that contribution to one of the environmental objectives is not made at the expense of other
+environmental objectives. The ‘do no significant harm’ criteria play therefore an essential role in ensuring the
+environmental integrity of the classification of environmentally sustainable activities. The ‘do no significant harm’ criteria for a given environmental objective should be specified for those activities that present a risk of causing
+significant harm to that objective. Those criteria should take into account and build upon the relevant requirements
+of existing Union law.
+(27) The technical screening criteria for ensuring that activities that contribute substantially to one of the environmental
+objectives do not cause significant harm to climate change mitigation should ensure that economic activities that
+have the potential to contribute substantially to environmental objectives other than climate change mitigation do
+not lead to significant greenhouse gas emissions.
+(28) Climate change is likely to affect all sectors of the economy. The technical screening criteria for ensuring that
+economic activities that contribute substantially to one of the environmental objectives do not cause significant
+harm to climate change adaptation should therefore apply to all of those economic activities. Those criteria should
+ensure that existing and future risks that are material to the economic activity are identified and that adaptation solutions are implemented to minimise or avoid possible losses or impacts on business continuity.
+(19)Communication from the Commission to the European Parliament, the Council and the European Economic and Social Committee,
+European Union Strategic Approach to Pharmaceuticals in the Environment (COM(2019) 128 final).
+(20)World Economic Forum (2020), The Global Risks Report 2020.OJ L, 21.11.2023 EN  
+
+--- Page 7 of 164 ---

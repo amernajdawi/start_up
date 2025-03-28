@@ -1,0 +1,58 @@
+File Name: 1_2021-06-04_DelVO_2021_2139_TAXKRA_EU.pdf
+Converted on: 2025-03-28 03:20:30
+Original Size: 2.76 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 89 of 447
+--------------------------------------------------------------------------------
+
+1 : 2017 ( windows and doors ) , EN ISO 12631 : 2017 ( curtain walls ) and EN ISO 6946 : 2017 ( other building components and elements ) . ( 95 ) Regulation ( EU ) 2017 / 1369 of the European Parliament and of the Council of 4 July 2017 setting a framework for energy labelling and repealing Directive 2010 / 30 / EU ( OJ L 198 , 28 . 7 . 2017 , p . 1 ) . EN 9 . 12 . 2021 Official Journal of the European Union L 442 / 47
+
+--- Page 48 of 349 ---
+
+(3) Sustainable use and protection of
+water and marine resources  The activity complies with the criteria set out in Appendix B to this 
+Annex.  
+(4) Transition to a circular economy  The activity assesses the availability of and, where feasible, adopts tech ­
+niques that support:
+(a) reuse and use of secondary raw materials and reused components in
+products manufactured;
+(b) design for high durability, recyclability, easy disassembly and adapt ­
+ability of products manufactured;
+(c) waste management that prioritises recycling over disposal, in the
+manufacturing process;
+(d) information on and traceability of substances of concern throughout
+the life cycle of the manufactured products.  
+(5) Pollution prevention and control  The activity complies with the criteria set out in Appendix C to this 
+Annex.  
+(6) Protection and restoration of
+biodiversity and ecosystems  The activity complies with the criteria set out in Appendix D to this 
+Annex.  
+3.6.  Manufacture of other low carbon technologies  
+Description of the activity  
+Manufacture of technologies aimed at substantial GHG emission reductions in other sectors of the economy,
+where those technologies are not covered in Sections 3.1 to 3.5 of this Annex.  
+The economic activities in this category could be associated with several NACE codes, in particular from C22,
+C25, C26, C27 and C28 in accordance with the statistical classification of economic activities established by
+Regulation (EC) No 1893/2006.  
+An economic activity in this category is an enabling activity in accordance with Article 10(1), point (i), of
+Regulation (EU) 2020/852 where it complies with the technical screening criteria set out in this Section.  
+Technical screening criteria  
+Substantial contribution to climate change mitigation  
+The economic activity manufactures technologies that are aimed at and demonstrate substantial life-cycle GHG
+emission savings compared to the best performing alternative technology/product/solution available on the
+market.
+Life-cycle GHG emission savings are calculated using Commission Recommendation 2013/179/EU (  96 ) or, alter ­
+natively, ISO 14067:2018 (  97 ) or ISO 14064-1:2018 (  98 ). 
+Quantified life-cycle GHG emission savings are verified by an independent third party.  
+_____________
+( 96 ) Commission Recommendation 2013/179/EU of 9 April 2013 on the use of common methods to measure and communicate the
+life cycle environmental performance of products and organisations (OJ L 124, 4.5.2013, p. 1).
+( 97 ) ISO standard 14067:2018, Greenhouse gases — Carbon footprint of products — Requirements and guidelines for quantification
+(version of 4.6.2021: https://www.iso.org/standard/71206.html).
+( 98 ) ISO standard 14064-1:2018, Greenhouse gases — Part 1: Specification with guidance at the organization level for quantificatio n
+and reporting of greenhouse gas emissions and removals (version of 4.6.2021: https://www.iso.org/standard/66453.html).EN  L 442/48 Official Journal of the European Union 9.12.2021
+
+--- Page 49 of 349 ---

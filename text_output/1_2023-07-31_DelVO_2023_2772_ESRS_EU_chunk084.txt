@@ -1,0 +1,44 @@
+File Name: 1_2023-07-31_DelVO_2023_2772_ESRS_EU.pdf
+Converted on: 2025-03-28 03:20:41
+Original Size: 5.82 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 84 of 284
+--------------------------------------------------------------------------------
+
+ELI: http://data.europa.eu/eli/reg_del/2023/2772/oj 87/284AR 5. When disclosing the information required under paragraph 16 (f), the undertaking shall state whether or not it is
+excluded from the EU Paris-aligned Benchmarks in accordance with the exclusion criteria stated in Articles 12.1
+(d) to (g) (46)and 12.2 of Commission Delegated Regulation (EU) 2020/1818 (Climate Benchmark Standards
+Regulation) (47).
+Disclosure Requirement related to ESRS 2 SBM-3 - Material impacts, risks and opportunities and their interaction with
+strategy and business model
+AR 6. When disclosing the information on the scope of the resilience analysis as required under paragraph 19 (a), the
+undertaking shall explain which part of its own operations and upstream and downstream value chain as well as
+which material physical risks and transition risks may have been excluded from the analysis.
+AR 7. When disclosing the information on how the resilience analysis has been conducted as required under paragraph 19 (b), the undertaking shall explain:
+(a) the critical assumptions about how the transition to a lower-carbon and resilient economy will affect its
+surrounding macroeconomic trends, energy consumption and mix, and technology deployment assumptions;
+(b) the time horizons applied and their alignment with the climate and business scenarios considered for
+determining material physical and transition risks (paragraphs AR 11to AR 12) and setting GHG emissions
+reduction targets (reported under Disclosure Requirement E1-4); and
+(c) how the estimated anticipated financial effects from material physical and transition risks (as required by
+Disclosure Requirement E1-9) as well as the mitigation actions and resources (disclosed under Disclosure
+Requirement E1-3) were considered.
+AR 8. When disclosing the information on the results of the resilience analysis as required under paragraph 19 (c), the undertaking shall explain:
+(a) the areas of uncertainties of the resilience analysis and to what extent the assets and business activities at risk
+are considered within the definition of the undertaking’s strategy, investment decisions, and current and
+planned mitigation actions;
+(b) the ability of the undertaking to adjust or adapt its strategy and business model to climate change over the
+short-, medium- and long-term, including securing ongoing access to finance at an affordable cost of capital, the ability to redeploy, upgrade or decommission existing assets, shifting its products and services portfolio, or reskilling its workforce.
+(46)Article 12.1 of the Climate Benchmark Standards Regulation states that “ Administrators of EU Paris-aligned Benchmarks shall exclude the
+following companies:
+a) companies that derive 1% or more of their revenues from exploration, mining, extraction, distribution or refining of hard coal and lignite; or
+b) companies that derive 10% or more of their revenues from exploration, extraction, distribution or refining of oil fuels; or c) companies that derive 50% or more of their revenues from exploration, extraction, manufacturing or distribution of gaseous fuels; or d) companies that derive 50% or more of their revenues from electricity generation with a GHG intensity of more than 100 g CO2 e/KWh.”
+Article 12.2 states that “ Administrators of EU Paris-aligned Benchmarks shall exclude from those benchmarks any companies that are found or
+estimated by them or by external data providers to significantly harm one or more of the environmental objectives referred to in Article 9 of Regulation (EU) 2020/852 of the European Parliament and of the Council, in accordance with the rules on estimations laid down in Article 13(2) of this Regulation.”.
+(47)This disclosure requirement is consistent with the requirements in Commission Implementing Regulation (EU) 2022/2453 - template
+1 climate change transition risk.OJ L, 22.12.2023 EN  
+
+--- Page 88 of 284 ---

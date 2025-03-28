@@ -1,0 +1,37 @@
+File Name: 1_2023-07-31_DelVO_2023_2772_ESRS_EU.pdf
+Converted on: 2025-03-28 03:18:14
+Original Size: 5.82 MB
+Chunk Size: 500 tokens with 50 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 438 of 686
+--------------------------------------------------------------------------------
+
+ELI: http://data.europa.eu/eli/reg_del/2023/2772/oj 185/284AR 29. Third party mechanisms could include those operated by the government, NGOs, industry associations and other
+collaborative initiatives. The undertaking may disclose whether these are accessible to all of its own workforce (or
+workers’ representatives or, in their absence, individuals or organisations acting on their behalf or who are
+otherwise in a position to be aware of negative impacts).
+AR 30. The undertaking shall consider whether and how people in its own workforce that may be affected and their
+workers' representatives are able to access channels at the level of the undertaking they are employed by, or
+contracted to work for, in relation to each material impact. Relevant channels may include hotlines, trade unions
+(where people in the workforce are unionised) or works councils, or other grievance mechanisms operated by the
+relevant undertaking or by a third party.
+AR 31. In explaining whether and how the undertaking knows that people in its own workforce are aware of and trust
+any of these channels, the undertaking may provide relevant and reliable data about the effectiveness of these
+channels from the perspective of the people concerned. Examples of sources of information are surveys of
+people in the undertaking’s workforce that have used such channels and their levels of satisfaction with the
+process and outcomes.
+AR 32. In describing the effectiveness of channels for its own workforce and workers’ representatives to raise concerns,
+the undertaking may be guided by the following questions, based on the “effectiveness criteria for non-judicial
+grievance mechanisms”, as laid out in the UN Guiding Principles on Business and Human Rights, in particular
+principle 31. The considerations below may be applied to individual channels or to a collective system of
+channels:
+(a) do the channels have legitimacy by providing appropriate accountability for their fair conduct and building stakeholder trust?
+(b) are the channels known and accessible to stakeholders?
+(c) do the channels have clear and known procedures, with indicative timeframes?
+(d) do the channels ensure reasonable access for stakeholders to sources of information, advice and expertise?
+(e) do the channels offer transparency by providing sufficient information both to complainants and, where
+applicable, to meet any public interest?
+(f) do outcomes achieved through the channels accord with internationally recognised human rights?
+(g) does the undertaking identify insights from the channels that support continuous learning in both improving the channels and preventing future impacts?

@@ -1,0 +1,20 @@
+File Name: 2_E1-6_2011-09-01_G_GHG-PLC_WRI&WBCSD.pdf
+Converted on: 2025-03-28 03:18:25
+Original Size: 3.27 MB
+Chunk Size: 500 tokens with 50 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 189 of 226
+--------------------------------------------------------------------------------
+
+can be assumed that land-use change did not occur in
+Crop Area harvested 2008 [ha] Percent total area harvested
+Cassava 41000 1%
+Coconuts 174000 3%
+Coffee, green 50000 1%
+Natural rubber 1247000 19%
+Oil palm fruit 3900000 60%
+Oilseeds 150000 2%
+Rice, paddy 667656 10%
+Total 6478175 100%

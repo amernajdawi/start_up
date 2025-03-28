@@ -1,0 +1,70 @@
+File Name: 2_E1-6_2011-09-01_G_GHG-PLC_WRI&WBCSD.pdf
+Converted on: 2025-03-28 03:20:53
+Original Size: 3.27 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 36 of 116
+--------------------------------------------------------------------------------
+
+--- Page 47 of 148 ---
+
+[45]
+CHAPTER 07 Boundary Setting
+guidanceinventory, particularly when a downstream customer
+of an intermediate product wants to use the cradle-to-
+gate data to calculate the cradle-to-grave inventory of
+their final product. As stated previously, companies are
+required to clearly disclose and justify in the inventory
+report when a cradle-to-gate boundary is used. For
+example, an appropriate justification could be lack of
+knowledge of the final product’s use profile. The fact that
+a cradle-to-gate, and not cradle-to-grave, inventory was
+performed should also be made clear in the process map
+and the description of life cycle stages.
+A cradle-to-gate inventory performed in conformance
+with this standard does not include the use and end-of-
+life stages of the final product. This is to preserve the
+continuous nature of the life cycle approach and avoid
+cherry picking (e.g., omitting a GHG-intensive use stage
+but including the end-of-life stage). In some cases, the
+company producing the intermediate product may have
+information on end-of-life processes that would improve
+the downstream customer’s inventory, such as recycling
+rates or time period. Companies may include additional
+information about the end-of-life stage in the report of a
+cradle-to-gate inventory, as long as it is clearly separated
+from the inventory results (e.g., the total CO2 equivalents
+[CO2e] per unit of analysis) and process map. Endnotes
+1  This refers only to biomass burning, liming, and other practices 
+used to prepare converted land. Biomass burning and fertilizer
+application due to agricultural and forestry practices are also
+included in the inventory as attributable processes, separate from
+land-use change impacts.
+2   Indirect land use does not refer to the direct land used to 
+produce an attributable input into the studied product (e.g., the
+land used to produce animal feed which is an attributable input
+for the studied product beef).
+3  Material inputs such as part replacement due to operation and 
+maintenance may fall within the use or material acquisition stage.
+Although the process occurs in the use stage, it may be easiest
+during data collection to include all emissions associated with
+that material input over the product’s life cycle during material
+acquisition. For example, if the product requires two timing
+belts during its service life, companies can either assume one
+during material acquisition and one during use, or both during
+material acquisition. Either is appropriate as long as this is made
+transparent in the inventory report.
+4 Companies may determine significance based on the process, life
+cycle stage, or inventory level as long as this is done consistently
+throughout the inventory.
+5 Treating waste under anaerobic conditions means that the waste
+degrades with limited oxygen. This typically occurs in landfills
+where oxygen is unable to penetrate buried waste.
+
+--- Page 48 of 148 ---
+
+Collecting Data and Assessing Data Quality08
+
+--- Page 49 of 148 ---

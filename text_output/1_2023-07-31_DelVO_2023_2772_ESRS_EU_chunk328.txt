@@ -1,0 +1,20 @@
+File Name: 1_2023-07-31_DelVO_2023_2772_ESRS_EU.pdf
+Converted on: 2025-03-28 03:18:14
+Original Size: 5.82 MB
+Chunk Size: 500 tokens with 50 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 328 of 686
+--------------------------------------------------------------------------------
+
+(h) explain how the process of implementing and updating the transition plan is managed;
+(i) explain how it measures progress, namely indicate the metrics and methodologies it uses for that purpose;
+(j) indicate whether the administrative, management and supervisory bodies have approved the transition plan;
+and
+(k) indicate current challenges and limitations to draft a plan in relation to areas of significant impact and how the company is addressing those challenges.
+AR 2. If disclosing a transition plan, the undertaking may, for example, refer to the following targets from the EU
+Biodiversity Strategy for 2030:
+(a) The decline of pollinators is reversed.
+(b) The risk and use of chemical pesticides is reduced by 50%, and the use of more hazardous pesticides is reduced
+by 50%.OJ L, 22.12.2023 EN

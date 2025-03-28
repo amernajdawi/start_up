@@ -1,0 +1,52 @@
+File Name: 2_E1-6_2004-03_G_GHG-Prot_WRI&WBCSD.pdf
+Converted on: 2025-03-28 03:20:43
+Original Size: 3.51 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 26 of 104
+--------------------------------------------------------------------------------
+
+1. Describe the value chain. Because the assessment of
+scope 3 emissions does not require a full life cycleassessment, it is important, for the sake of transparency,to provide a general description of the value chain andthe associated GHG sources. For this step, the scope 3categories listed can be used as a checklist. Companiesusually face choices on how many levels up- and down-stream to include in scope 3. Consideration of thecompany’s inventory or business goals and relevance ofthe various scope 3 categories will guide these choices.
+2. Determine which scope 3 categories are relevant. Only
+some types of upstream or downstream emissions cate-gories might be relevant to the company. They may berelevant for several reasons: They are large (or believed to be large) relative to the
+company’s scope 1 and scope 2 emissions
+They contribute to the company’s GHG risk exposure
+They are deemed critical by key stakeholders (e.g.,
+feedback from customers, suppliers, investors, or civil society)
+There are potential emissions reductions that could be
+undertaken or influenced by the company.
+The following examples may help decide which scope 3
+categories are relevant to the company.
+If fossil fuel or electricity is required to use the
+company’s products, product use phase emissions maybe a relevant category to report. This may be espe-cially important if the company can influence productdesign attributes (e.g., energy efficiency) or customerbehavior in ways that reduce GHG emissions duringthe use of the products. GUIDANCESetting Operational Boundaries
+CHAPTER 4 30FIGURE 5. Accounting of emissions from leased assets
+Parent Company
+Company A
+Scope 1 Scope 1 Scope 2 Scope 3Leased car fleet
+(selected consolidation
+criterion applies)Leased building
+(selected consolidation
+criterion applies)Leased car fleet
+(selected consolidation criterion
+does not apply)Company B
+ORGANIZATIONAL
+BOUNDARIESOPERATIONAL
+BOUNDARIES}
+}As a major transportation and logistics company in northern Europe,
+DHL Express Nordic serves large loads and special transport needsas well as world wide express package and document deliveries andoffers courier, express, parcel, systemized and specialty businessservices. Through participation in the Business Leaders Initiative onClimate Change, the company found that 98 percent of its emissionsin Sweden originate from the transport of goods via outsourcedpartner transportation firms. Each partner is required, as an elementof the subcontract payment scheme, to enter data on vehicles used,distance traveled, fuel efficiency, and background data. This data isused to calculate total emissions via a tailored calculation tool foroutsourced transportation which gives a detailed picture of its scope3 emissions. Linking data to specific carriers allows the company toscreen individual carriers for environmental performance and affectdecisions based on each carrier’s emissions performance, which isseen through scope 3 as DHL’s own performance.
+By including scope 3 and promoting GHG reductions throughout the
+value chain, DHL Express Nordic increased the relevance of itsemissions footprint, expanded opportunities for reducing itsimpacts and improved its ability to recognize cost saving opportu-nities. Without scope 3, DHL Express Nordic would have lackedmuch of the information needed to be able to understand and effec-tively manage its emissions.
+SCOPE
+Scope 1
+Scope 2Scope 3
+TotalEMISSIONS (tCO2)DHL Nordic Express: The business case for
+accounting for outsourced transportation services
+7,265
+52
+327,634
+334,951
+
+--- Page 33 of 116 ---

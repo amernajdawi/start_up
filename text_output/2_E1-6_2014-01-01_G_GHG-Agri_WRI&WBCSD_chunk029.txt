@@ -1,0 +1,86 @@
+File Name: 2_E1-6_2014-01-01_G_GHG-Agri_WRI&WBCSD.pdf
+Converted on: 2025-03-28 03:20:54
+Original Size: 1.75 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 29 of 65
+--------------------------------------------------------------------------------
+
+40
+ Table 5-3. Emissions from leased assets: Lessee’s perspective  
+Type of leasing arrangement
+Approach used for
+organizational
+boundaries Financial/capital lease Operating lease
+Equity share or financial
+control Lessee does have ownership and
+financial control; therefore, the emissions from the leased asset (land or machinery) are scope 1
+and those from purchased
+electricity are scope 2  Lessee does not have ownership 
+or financial control; therefore, the emissions from the leased asset (land, machinery, or purchased
+electricity) are scope 3 (Scope 3
+Category 8: “Upstream leased assets”)
+Operational control Lessee does have operational control; therefore, the emissions from
+the leased asset (land or machinery) are scope 1 and those from purchased electricity are scope 2
+
+Table 5-4. Emissions from leased assets: Lessor’s perspective  
+Type of leasing arrangement
+Approach used for
+organizational
+boundaries Financial/capital lease Operating lease
+Equity share or financial
+control Lessor does not have ownership
+or financial control; therefore, the emissions from the leased asset (land, machinery, or purchased electricity) are scope
+3 (Scope 3 Category 8:
+“Upstream leased assets”) Lessor does have ownership and
+financial control; therefore, the emissions from the leased asset (land or machinery) are scope 1 and those from purchased
+electricity are scope 2
+Operational control Lessor does not have operational control; therefore, the emissions
+from the leased asset (land, machin ery, or purchased electricity) are
+scope 3 (Scope 3 Category 8: “Upstream leased assets”)  
+
+4. Membership of co-operatives  
+A co-operative is a business that is owned and controlled by the member organizations
+that use its services and w hose benefits are shared by the members on the basis of use
+(Table 5-1). Agricultural co-operatives take  many forms, but can broadly be grouped into 
+marketing, purchasing, and service co-operatives (Table 5-5).  
+Accounting under the equity share approach. Ma ny producers will have a relatively small
+percentage patronage of their co-operative and need not account for its emissions under
+the equity share approach. However, some producers may have a si gnificant percentage
+patronage and should account for a correspondin g percentage of the co-operative’s scope
+1, scope 2, and (optionally) sc ope 3 emissions under the equity  share approach. Note that 
+the nature of the emissions source will vary wi dely depending on the type of co-operative
+
+--- Page 41 of 103 ---
+
+GHG Protocol Agricultural Guidance
+
+41
+(see Table 5-5). For instance, the members of a purchasing co-operative would have
+scope 1 emissions relating to the ma nufacture of feed and fertilizer.  
+
+Accounting under either contro l approach. A Co-operative does not fall within the
+organizational boundaries of its members and only the co-operative itself should account
+for its emissions under scope 1 and 2. I ndividual members may account for certain
+emissions under scope 3 should those arise fr om activities conducted by the co-operative
+specifically on their own behalf  (and not on that of other members). For instance, the 
+member of a service co-operative might  account for the emissions from the co-
+operative’s processing of anim al feed, should that feed be used by that member (the
+relevant scope 3 category is Category 1: “Purchased goods and services”).  
+ Table 5-5. Co-operatives and operational boundaries   
+Type of co-operative  Co-operative activity
+Marketing  Negotiate prices and terms of sale of their members’ products with 
+buyers  
+Process members’ products into other products
+Distribute members’ products to retailers under own brand name  
+Purchasing  Provide access to production supplies such as feed, fuel, fertilizer, and 
+seed
+Produce fertilizers and feed
+Service  Provide farm-specific services, such as applying fertilizer, lime, or 
+pesticides; processing animal feed; and harvesting crops  
+
+--- Page 42 of 103 ---
+
+GHG Protocol Agricultural Guidance

@@ -1,0 +1,26 @@
+File Name: 1_2021-06-04_DelVO_2021_2139_TAXKRA_EU.pdf
+Converted on: 2025-03-28 03:18:03
+Original Size: 2.76 MB
+Chunk Size: 500 tokens with 50 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 486 of 966
+--------------------------------------------------------------------------------
+
+reference CO  2 emissions value defined for heavy duty vehicles (vehicle subgroup 5-LH) in accordance with 
+Article 11 of Regulation (EU) 2019/1242;  
+(iv) until 31 December 2025, the vessels have an attained Energy Efficiency Design Index (EEDI) value 10 %
+below the EEDI requirements applicable on 1 April 2022 (  96 ) if the vessels are able to run on zero direct 
+(tailpipe) CO  2 emission fuels or on fuels from renewable sources (  97 ); 
+(m) sea and coastal passenger water transport vessels, not dedicated to transporting fossil fuels, that:  
+(i) have zero direct (tailpipe) CO  2 emissions;  
+(ii) until 31 December 2025, hybrid and dual fuel vessels derive at least 25 % of their energy from zero direct
+(tailpipe) CO  2 emission fuels or plug-in power for their normal operation at sea and in ports;EN  9.12.2021 Official Journal of the European Union L 442/181  
+( 94 ) The Energy Efficiency Operational Indicator is defined as the ratio of mas of CO  2 emitted per unit of transport work. It is a 
+representative value of the energy efficiency of the ship operation over a consistent period which represents the overall tradi ng
+pattern of the vessel. Guidance on how to calculate this indicator is provided in the document MEPC.1/Circ. 684 from IMO.  
+( 95 ) Energy Efficiency Design Index (version of 4.6.2021: http://www.imo.org/fr/MediaCentre/HotTopics/GHG/Pages/EEDI.aspx).  
+( 96 ) As agreed by the Marine Environment Protection Committee of the International Maritime Organization on its seventy-fourth
+session.  
+( 97 ) Fuels that meet the technical screening criteria specified in Sections 3.10 and 4.13 of this Annex.

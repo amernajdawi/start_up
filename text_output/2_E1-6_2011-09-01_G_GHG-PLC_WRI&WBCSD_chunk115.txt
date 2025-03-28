@@ -1,0 +1,130 @@
+File Name: 2_E1-6_2011-09-01_G_GHG-PLC_WRI&WBCSD.pdf
+Converted on: 2025-03-28 03:20:53
+Original Size: 3.27 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 115 of 116
+--------------------------------------------------------------------------------
+
+[143]
+Recognitions
+Ines Sousa, ENXSUITE
+Camile Burel, European Bioindustry Association
+Jonathan Newton, Ford Motor Company
+William Flanagan, GE Global Research
+Angela Fisher, GE Global Research
+Paul Helgeson, GNP Company
+Juergen Ritzek, GreenBusinessConsulting
+Thaddeus Owen, Herman Miller, Inc.
+Yoshiaki Ichikawa, Hitachi, Ltd.
+Hemant Bundele, ibLaunch Energy, Inc.
+Tim Higgs, Intel
+Ted Reichelt, Intel
+Silvana Paniagua Tufinio, Intelligence for Business
+Chris Bayliss, International Aluminium Institute
+Rose Nangah Mankaa, Italcementi Group
+Manuela Ojan, Italcementi Group
+Sunil Kumar, ITC
+Yoshikazu Kato, The Japan Gas Association
+Wenlin Wang , Kunshan Tai Ying Paint
+John Andrews, Landcare Research NZ
+Craig McCutcheon, Landcare Research NZ
+Barruch Ben-Zekry, Levi Strauss & Co.
+Colleen Kohlsaat, Levi Strauss & Co.
+Xun Gong, Lenovo
+William Guthrie, Lenovo
+Mads Stensen, Maersk Line
+Kara E.Reeve, Massachusetts Institute of Technology
+Kenji Shima, Mitsubishi Chemical Holdings Corporation
+Leah Fry, National Grid
+David B. Goldstein, Natural Resources Defense Council
+Jenn Orgolini, New Belgium Brewing
+Claus Frier, Novozymes A/S
+Stefan Seum, Öko-Institut, Germany
+Jeff Stein, Open Data Registry
+Robert TerKuille, PepsiCo
+Eros Artuso, PricewaterhouseCoopers, LLP
+Christopher Ho, PricewaterhouseCoopers  
+Hong Kong/China
+Annie Weisbrod, Procter & Gamble
+Diederik Schowanek, Procter & Gamble Environmental
+Stewardship Organization
+Aimee Ding, Quanta Shanghai Manufacturing City, Tech-
+Front (Shanghai) Computer Co. Ltd.
+Larry Li, Quanta Shanghai Manufacturing City, Tech-Front
+(Shanghai) Computer Co. Ltd.Josephine Przewodnik, RECARBON Deutschland GmbH.
+Brian Au, RESET Carbon
+Hicham Elhalaby, Rogers Communications
+Paul Pritchard, RSA Insurance Group plc
+Alyssa Farrell, SAS
+Barbara Nebel, Scion
+Robin Li, SGS-CSTC Standards Technical Services Co., Ltd.
+Danny Wong, SGS Hong Kong Limited
+Fei Han, Shanghai Zidan Printing Co., Ltd.
+Yadi Shen, Shanghai Zidan Printing Co., Ltd.
+Marieke Groenendaal, Shell
+Stephen Kinder, Shell
+Xavier Riera-Palou, Shell
+Zoltán Hajdu, Soltub, Ltd.
+Mariana Carlini, Suzano Pulp & Paper
+Samuel Kwong, Swire Beverages  
+(Coca Cola Bottling Partner)
+Thomas Yip, TAL Apparel
+Yutaka Yoshida, TOKYO GAS CO., LTD.
+Javier Fajardo, USDA/FAS/OSTA
+Laurence Hamon, Veolia Environnement  
+Research & Innovation
+Guillaume Arama, Veolia Water
+David Houdusse, Veolia Water
+Craig Liskai, Verso Paper Corp.
+Lisbeth Dahllöf, Volvo Technology
+Edie Sonne Hall, Weyerhaeuser
+George Coates, WorldAutoSteel
+Antonia Gawel, World Business Council for Sustainable
+Development
+Bernhard Gruenauer, World Business Council for
+Sustainable Development
+Varun Vats, World Business Council for Sustainable
+Development
+Wee Kean Fong, World Resources Institute
+Taryn Fransen, World Resources Institute
+Lauren Gritzke, World Resources Institute
+Stacy Kotorac, World Resources Institute
+Eliot Metzger, World Resources Institute
+Michelle Perez, World Resources Institute
+Laura Pocknell, World Resources Institute
+Neelam Singh, World Resources Institute
+Clare Broadbent, World Steel AssociationContributors (continued)
+
+--- Page 146 of 148 ---
+
+[144]   Product Life Cycle Accounting and Reporting StandardIn-kind Road Testing Support
+The Carbon Trust
+China National Institute of Standardization
+DNV
+KPMG
+PE Consulting PRé Consultants
+PricewaterhouseCoopers, LLP
+SGS-CSTC Standards Technical Services Co., Ltd.
+SGS Hong Kong Limited
+Consultants
+China National Institute of Standardization
+PricewaterhouseCoopers, LLP
+Quantis
+RESET Carbon
+Copyright © World Resources Institute and World
+Business Council for Sustainable Development,
+September 2011
+ISBN  978-1-56973-773-6
+Printed in USAPrinted on 70# Chorus Art Silk text and 80# cover  
+(30% post consumer recycled) with soy-based inks.WRI and WBCSD would like to thank the following organizations for their generous financial support: Alcoa Foundation, BP
+Foundation, Dell Inc., EMC Corporation, Intel Corporation, Kimberly Clark Corporation, PepsiCo, PricewaterhouseCoopers,
+LLP, Robertson Foundation, SC Johnson & Son, Inc., Siemens, United States Agency for International Development
+(USAID), United States Environmental Protection Agency (US EPA), United Technologies Corporation, UPS Foundation,
+and Walmart Foundation. WBCSD, funded by its member companies, also provided direct financial support.
+Design: Alston Taggart, Studio Red Design
+Cover: Futerra Sustainability Communications
+
+--- Page 147 of 148 ---

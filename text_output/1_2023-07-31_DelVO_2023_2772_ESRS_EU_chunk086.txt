@@ -1,0 +1,57 @@
+File Name: 1_2023-07-31_DelVO_2023_2772_ESRS_EU.pdf
+Converted on: 2025-03-28 03:20:41
+Original Size: 5.82 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 86 of 284
+--------------------------------------------------------------------------------
+
+ELI: http://data.europa.eu/eli/reg_del/2023/2772/oj 89/284Sea level rise
+Water stress
+Acute Heat wave Cyclones, hurricanes,
+typhoonsDrought Avalanche
+Cold wave/frost Storms (including
+blizzards, dust, and
+sandstorms)Heavy precipitation (rain,
+hail, snow/ice)Landslide
+Wildfire Tornado Flood (coastal, fluvial,
+pluvial, ground water)Subsidence
+Glacial lake outburst
+AR 12. When disclosing the information on the processes to identify transition risks and opportunities as required under
+paragraph 20 (c), the undertaking shall explain whether and how it has:
+(a) identified transition events (see the table with examples below) over the short-, medium- and long-term and
+screened whether its assets and business activities may be exposed to these events. In case of transition risks and opportunities, what is considered long-term may cover more than 10 years and may be aligned with
+climate-related public policy goals;
+(b) assessed the extent to which its assets and business activities may be exposed and are sensitive to the identified
+transition events, taking into consideration the likelihood, magnitude and duration of the transition events;
+(c) informed the identification of transition events and the assessment of exposure by climate-related scenario
+analysis, considering at least a scenario consistent with the Paris Agreement and limiting climate change to
+1.5°C, for example, based on scenarios of the International Energy Agency (Net zero Emissions by 2050, Sustainable Development Scenario, etc), or NGFS (Network for Greening the Financial System) climate
+scenarios. For the general requirements related to climate-related scenario analysis see paragraphs 18, 19, AR
+13 to AR 15; and
+(d) identified assets and business activities that are incompatible with or need significant efforts to be compatible
+with a transition to a climate-neutral economy (for example, due to significant locked-in GHG emissions or
+incompatibility with the requirements for Taxonomy-alignment under Commission Delegated Regulation
+(EU) 2021/2139).
+Examples of climate-related transition events (examples based on TCFD classification)
+Policy and legal Technology Market Reputation
+Increased pricing of GHG
+emissionsSubstitution of existing
+products and services with
+lower emissions optionsChanging customer
+behaviourShifts in consumer
+preferences
+Enhanced emissions-
+reporting obligationsUnsuccessful investment in
+new technologiesUncertainty in market
+signalsStigmatization of sector
+Mandates on and regulation
+of existing products and
+servicesCosts of transition to lower
+emissions technologyIncreased cost of raw
+materialsIncreased stakeholder
+concernOJ L, 22.12.2023 EN  
+
+--- Page 90 of 284 ---

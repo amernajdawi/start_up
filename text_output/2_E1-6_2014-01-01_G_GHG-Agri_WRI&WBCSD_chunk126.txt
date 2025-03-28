@@ -1,0 +1,24 @@
+File Name: 2_E1-6_2014-01-01_G_GHG-Agri_WRI&WBCSD.pdf
+Converted on: 2025-03-28 01:56:31
+Original Size: 1.75 MB
+Chunk Size: 400 tokens with 50 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 126 of 150
+--------------------------------------------------------------------------------
+
+: averaging prices over three to five years can help avoid this problem ) .  Prices are not well - correlate d with underlying physical pr operties and GHG fluxes .  Companies pay different prices for the same pr oduct ( due to different negotiated prices ) .
+
+Economic allocation is preferred when:
+ A physical relationship amongst th e products cannot be establis hed or does not adequately
+reflect their GHG impacts.  
+ The co-products were a waste output that acquire s value in the market place as a replacement
+for another material input (e.g., manur e as a replacement for fertilizer).
+
+--- Page 83 of 103 ---
+
+GHG Protocol Agricultural Guidance
+
+83
+Appendix II: Amortizing CO 2 Fluxes to / from Carbon Stocks

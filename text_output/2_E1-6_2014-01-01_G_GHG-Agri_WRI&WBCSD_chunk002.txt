@@ -1,0 +1,20 @@
+File Name: 2_E1-6_2014-01-01_G_GHG-Agri_WRI&WBCSD.pdf
+Converted on: 2025-03-28 03:20:54
+Original Size: 1.75 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 2 of 65
+--------------------------------------------------------------------------------
+
+Contents  
+Chapter 1: Introduction  ...........................................................................................................  5 
+1.1 Agriculture  and climate change .......................................................................................  5 
+1.2 What is the Greenhouse  Gas Protocol?  ..........................................................................  6 
+1.3 Why an Agricultural  Guidance?  .......................................................................................  7 
+1.4 Who should use this Guidance?  ......................................................................................  9 
+1.5 Relationship  between this Guidance  and the Corporate  Standard ..............................  10 
+1.6         How does this Guidance  relate to the GHG Protocol Product Standard?  ....................  15 
+1.7         How does this guidance relate to the GHG Project Protocol?  ......................................  16 
+1.8         How was this Guidance  developed?  .............................................................................  16

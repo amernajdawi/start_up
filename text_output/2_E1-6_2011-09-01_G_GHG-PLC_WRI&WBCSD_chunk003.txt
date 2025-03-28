@@ -1,0 +1,60 @@
+File Name: 2_E1-6_2011-09-01_G_GHG-PLC_WRI&WBCSD.pdf
+Converted on: 2025-03-28 03:20:53
+Original Size: 3.27 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 3 of 116
+--------------------------------------------------------------------------------
+
+[04]   Product Life Cycle Accounting and Reporting Standardguidance
+with industry groups and governments to promote its
+widespread use – along with the entire suite of GHG
+Protocol standards and tools – to enable more effective
+GHG management worldwide.
+1.1 The Greenhouse Gas Protocol
+The Greenhouse Gas (GHG) Protocol is a multistakeholder
+partnership of businesses, non-governmental
+organizations (NGOs), governments, and others convened
+by the World Resources Institute (WRI) and the World
+Business Council for Sustainable Development (WBCSD).
+Launched in 1998, the mission of the GHG Protocol is
+to develop internationally accepted greenhouse gas
+(GHG) accounting and reporting standards and tools,
+and to promote their adoption in order to achieve a low
+emissions economy worldwide.
+The GHG Protocol follows a broad, inclusive, consensus-
+based multi-stakeholder process to develop these
+standards with balanced participation from businesses,
+government agencies, non-governmental organizations,
+and academic institutions from around the world. The
+standards include detailed guidance to assist users with
+implementation and are freely available on the GHG
+Protocol website (www.ghgprotocol.org). The GHG Protocol has produced the following separate,
+but complementary standards, protocols, and guidelines:  
+ •GHG Protocol  Corporate Accounting and Reporting 
+Standard  (2004):  A standardized methodology for 
+companies to quantify and report their corporate GHG
+emissions. Also referred to as the Corporate Standard .
+•GHG Protocol Corporate Value Chain (Scope 3)
+Accounting and Reporting Standard  (2011):   
+A standardized methodology for companies to quantify
+and report their corporate value chain (scope 3) GHG
+emissions, to be used in conjunction with the Corporate
+Standard . Also referred to as the Scope 3 Standard .
+ •GHG Protocol for  Project Accounting  (2005):   
+A guide for quantifying reductions from GHG-mitigation
+projects. Also referred to as the Project Protocol.  
+ •GHG Protocol for the U.S. Public Sector  (2010):  
+A step-by-step approach to measuring and reporting
+emissions from public sector organizations,
+complementary to the Corporate Standard.
+•GHG Protocol Guidelines for Quantifying GHG
+Reductions from Grid-Connected Electricity Projects  
+(2007): A guide for quantifying reductions in emissions
+that either generate or reduce the consumption of
+electricity transmitted over power grids, to be used in
+conjunction with the  Project Protocol. 
+
+--- Page 7 of 148 ---

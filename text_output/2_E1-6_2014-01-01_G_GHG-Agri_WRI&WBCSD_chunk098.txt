@@ -1,0 +1,28 @@
+File Name: 2_E1-6_2014-01-01_G_GHG-Agri_WRI&WBCSD.pdf
+Converted on: 2025-03-28 03:18:26
+Original Size: 1.75 MB
+Chunk Size: 500 tokens with 50 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 98 of 108
+--------------------------------------------------------------------------------
+
+: / / www . ipcc - nggip . iges . or . jp / software / in dex . html . This s oftware is not recommended for use by farm managers . - - - Page 97 of 103 - - - GHG Protocol Agricultural Guidance 97 Abbreviations
+
+C  Carbon CH
+4  Methane 
+CO 2  Carbon dioxide 
+DOM  Dead organic matter GHG  Greenhouse gas HFCs  Hydrofluorocarbons 
+HWPs  Harvested woody products 
+LUC  Land use change N  Nitrogen N
+2O  Nitrous oxide  
+SF6  Sulfur hexaflouride  
+PFCs  Perfluorocarbons  
+
+--- Page 98 of 103 ---
+
+GHG Protocol Agricultural Guidance
+
+98
+Glossary

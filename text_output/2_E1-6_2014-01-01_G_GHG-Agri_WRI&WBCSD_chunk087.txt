@@ -1,0 +1,61 @@
+File Name: 2_E1-6_2014-01-01_G_GHG-Agri_WRI&WBCSD.pdf
+Converted on: 2025-03-28 03:18:26
+Original Size: 1.75 MB
+Chunk Size: 500 tokens with 50 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 87 of 108
+--------------------------------------------------------------------------------
+
+Contextual information should be provided
+Importantly, the inherent divers ity of agricultural practices, as well as the influence of
+environmental factors on GHG fluxes, will aff ect the comparability of metrics, both
+within and across businesses. For example:
+ Intensity ratios will often be higher for self-replacing livestock herds than non-
+replacement herds. This is because self -replacing herds contain younger stock that
+emit enteric CH 4 and produce N 2O from urine depositions for a longer period of time
+before contributing to farm products.  
+ Adverse weather conditions can lower re alized crop yields, causing inter-annual
+variation in intensity ratios , independent of any changes in farming practices. (Note:
+in such cases, companies may find it usef ul to normalize and report emissions by
+expected yield, in addition to actual yield).  
+Without adequate context on the farming system, environmental effects, and the
+emissions sources that have been studie d, performance metrics are not useful for
+assessing performance. Such context should be provided in reports to aid the reliable
+interpretation of performance metrics.    
+
+--- Page 79 of 103 ---
+
+GHG Protocol Agricultural Guidance
+
+79
+ Table I-1.  Advantages and disadvantages of common performance metrics  
+Metric Advantages Disadvantages
+GHG flux per
+unit land area (e.g., flux / ha)  Useful to companies that define
+policies or that manage large amounts of land (e.g., government agencies)
+ Reflective of the overall level of
+GHG fluxes on farms  Fails to consider efficiency of farm
+production   
+GHG flux per
+unit product
+(e.g., flux / tonne beef)  Better allows for comparisons within
+the same industry  
+ Better able to represent the effects of
+mitigation measures that have a relatively small GHG impact, but that nonetheless improve productivity  
+ Performance data are frequently
+sought by buyers on a per-product basis   Calculation may be complicated by the 
+variety of products that come from
+farms and the different allocation
+methods used to assign GHG fluxes (see below)
+ Does not consider product value  
+ Does not reflect the overall climate
+impact of farms (which would vary depending on the volume of products
+produced)
+GHG flux per unit of farm
+input (e.g., flux / MJ metabolisable energy intake)  Provides an understanding of the
+effects of feed type and amount on
+animal systems, or of the efficiency
+of nutrient use in cropping systems   Calculation may be complicated by the 
+need to allocate GHG fluxes

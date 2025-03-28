@@ -1,0 +1,66 @@
+File Name: 2_E1-6_2006-01-01_GHG-LuLu_WRI&WBCSD.pdf
+Converted on: 2025-03-28 03:18:22
+Original Size: 6.41 MB
+Chunk Size: 500 tokens with 50 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 59 of 88
+--------------------------------------------------------------------------------
+
+12.98
+0C U M U L AT I V E
+I N C R E A S E I N
+A B O V E G R O U N D
+C A R B O N S T O C K S
+tC / h a
+0.31
+2.00
+5.52
+10.76
+17.34
+24.87
+32.93
+41.18
+49.37
+57.28
+64.79
+71.81
+78.29
+84.21
+89.57
+94.40
+98.73
+102.58
+106.01
+109.03
+109.03 C U M U L AT I V E
+I N C R E A S E I N
+B E L O W G R O U N D
+C A R B O N S T O C K S
+tC / h a
+0.04
+0.11
+0.21
+0.31
+0.42
+0.52
+0.63
+0.71
+0.79
+0.87
+0.94
+1.00
+1.06
+1.10
+1.15
+1.18
+1.22
+1.25
+1.27
+1.29
+1.29
+j=1n
+(CO 2removals jt •area j)
+j=1n
+(area j)

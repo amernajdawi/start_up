@@ -1,0 +1,47 @@
+File Name: 1_2023-07-31_DelVO_2023_2772_ESRS_EU.pdf
+Converted on: 2025-03-28 03:20:41
+Original Size: 5.82 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 58 of 284
+--------------------------------------------------------------------------------
+
+ELI: http://data.europa.eu/eli/reg_del/2023/2772/oj 58/284AR 5. The description of the level of expertise or access to expertise of the administrative, management and supervisory
+bodies may be substantiated by illustrating the composition of the bodies, including members on whom these
+bodies rely for expertise to oversee sustainability matters, and how they leverage that expertise as a body. In the
+description, the undertaking shall consider how the expertise and skills are relevant to the undertaking’s material
+impacts, risks and opportunities and whether the bodies and/or its members have access to other sources of
+expertise, such as specific experts and training and other educational initiatives to update and develop
+sustainability-related expertise within these bodies.
+Disclosure Requirement GOV-2 – Information provided to and sustainability matters addressed by the undertaking’s
+administrative, management and supervisory bodies
+AR 6. Depending on the undertaking’s structure, the administrative, management and supervisory bodies may focus on
+overarching targets, while management focuses on the more detailed targets. In this case, the undertaking may
+disclose how the governance bodies ensure that an appropriate mechanism for performance monitoring is in
+place.
+Disclosure Requirement GOV-3 – Integration of sustainability-related performance in incentive schemes
+AR 7. For listed undertakings, this Disclosure Requirement should be consistent with the remuneration report prescribed
+in articles 9a and 9b of Directive 2007/36/EC on the exercise of certain rights of shareholders in listed companies.
+Subject to the provisions of ESRS 1, paragraphs 119, 120 and 122, a listed undertaking may make a reference to its
+remuneration report.
+Disclosure Requirement GOV-4 – Statement on due diligence
+AR 8. The mapping required by paragraph 30 may be presented in the form of a table, cross-referencing the core
+elements of due diligence, for impacts on people and the environment, to the relevant disclosures in the
+undertaking’s sustainability statement, as set out below.
+AR 9. The undertaking may include additional columns to the table below to clearly identify those disclosures that relate
+to impacts on people and/or the environment given that, in some cases, more than one disclosure may provide information about the same due diligence step.
+AR 10. The main references in the international instruments of the UN Guiding Principles on Business and Human Rights
+and the OECD Guidelines for Multinational Enterprises to the core elements of the due diligence process are listed
+in ESRS 1 chapter 4.
+CORE ELEMENTS OF DUE DILIGENCE PARAGRAPHS IN THE
+SUSTAINABILITY STATEMENT
+a)Embedding due diligence in governance, strategy and business model
+b)Engaging with affected stakeholders in all key steps of the due
+diligence
+c)Identifying and assessing adverse impacts
+d)Taking actions to address those adverse impacts
+e)Tracking the effectiveness of these efforts and communicatingOJ L, 22.12.2023 EN  
+
+--- Page 59 of 284 ---

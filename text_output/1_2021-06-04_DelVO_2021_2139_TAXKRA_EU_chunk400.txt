@@ -1,0 +1,62 @@
+File Name: 1_2021-06-04_DelVO_2021_2139_TAXKRA_EU.pdf
+Converted on: 2025-03-28 03:20:30
+Original Size: 2.76 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 400 of 447
+--------------------------------------------------------------------------------
+
+(b) for all other activities, the assessment is performed using the highest available resolution, state-of-the-art
+climate projections across the existing range of future scenarios (  566  ) consistent with the expected lifetime 
+of the activity, including, at least, 10 to 30 year climate projections scenarios for major investments.
+3. The climate projections and assessment of impacts are based on best practice and available guidance and
+take into account the state-of-the-art science for vulnerability and risk analysis and related methodologies in line
+with the most recent Intergovernmental Panel on Climate Change reports (  567  ), scientific peer-reviewed 
+publications and open source (  568  ) or paying models. 
+4. The adaptation solutions implemented:
+(a) do not adversely affect the adaptation efforts or the level of resilience to physical climate risks of other people,
+of nature, of cultural heritage, of assets and of other economic activities;
+(b) favour nature-based solutions (  569  ) or rely on blue or green infrastructure (  570  ) to the extent possible; 
+(c) are consistent with local, sectoral, regional or national adaptation plans and strategies;
+(d) are monitored and measured against pre-defined indicators and remedial action is considered where those
+indicators are not met;
+(e) where the solution implemented is physical and consists in an activity for which technical screening criteria
+have been specified in this Annex, the solution complies with the do no significant harm technical screening
+criteria for that activity.  
+Do no significant harm (‘DNSH’)  
+(1) Climate change mitigation  The building is not dedicated to extraction, storage, transport or manu ­
+facture of fossil fuels.
+The Primary Energy Demand (PED) (  571  ) setting out the energy 
+performance of the building resulting from the construction does not
+exceed the threshold set for the nearly zero-energy building (NZEB)
+requirements in national regulation implementing Directive 2010/31/EU.
+The energy performance is certified using an as built Energy Performance
+Certificate (EPC).  
+(3) Sustainable use and protection of
+water and marine resources  Where installed, except for installations in residential building units, the 
+specified water use for the following water appliances are attested by
+product datasheets, a building certification or an existing product label
+in the Union, in accordance with the technical specifications laid down
+in Appendix E to Annex I to this Regulation:
+(a) wash hand basin taps and kitchen taps have a maximum water flow of
+6 litres/min;
+(b) showers have a maximum water flow of 8 litres/min;  
+_____________
+( 566  ) Future scenarios include Intergovernmental Panel on Climate Change representative concentration pathways RCP2.6, RCP4.5, 
+RCP6.0 and RCP8.5.
+( 567  ) Assessments Reports on Climate Change: Impacts, Adaptation and Vulnerability, published periodically by the Intergovernmental  
+Panel on Climate Change (IPCC), the United Nations body for assessing the science related to climate change produces,
+https://www.ipcc.ch/reports/.
+( 568  ) Such as Copernicus services managed by the European Commission. 
+( 569  ) Nature-based solutions are defined as ‘solutions that are inspired and supported by nature, which are cost-effective, simulta n­
+eously provide environmental, social and economic benefits and help build resilience. Such solutions bring more, and more
+diverse, nature and natural features and processes into cities, landscapes and seascapes, through locally adapted, resource-eff icient
+and systemic interventions’. Therefore, nature-based solutions benefit biodiversity and support the delivery of a range of
+ecosystem services (version of 4.6.2021: https://ec.europa.eu/info/research-and-innovation/research-area/environment/nature-
+based-solutions_en/).
+( 570  ) See Communication from the Commission to the European Parliament, the Council, the European Economic and Social 
+Committee and the Committee of the Regions: Green Infrastructure (GI) — Enhancing Europe’s Natural Capital (COM/2013/0249
+final).
+( 571  ) The calculated amount of energy needed to meet the energy demand associated with the typical uses of a building expressed by a

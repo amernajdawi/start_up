@@ -1,0 +1,37 @@
+File Name: 1_2023-06-27_DelVO_2023_2486_TAXURA_EU.pdf
+Converted on: 2025-03-28 03:18:09
+Original Size: 8.44 MB
+Chunk Size: 500 tokens with 50 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 329 of 380
+--------------------------------------------------------------------------------
+
+ELI: http://data.europa.eu/eli/reg_del/2023/2486/oj 122/164(b) 0,7 % of the annual turnover of an individual tourist accommodation establishment, where the contractual agreement
+or equivalent is collective and includes a group of two to ten establishments;
+(c) 0,5 % of the annual turnover of an individual tourist accommodation establishment, where the contractual agreement
+or equivalent is collective and includes a group of over ten establishments.
+Mandatory financial contributions applied to the activity in the context of the national or local regulatory framework,
+including eco-taxes or tariffs, are not considered as a contribution to the conservation or restoration activity.
+2.Action plan for contributing to nature conservation
+2.1. The activity has developed and implemented an action plan specific to the tourism service or offer provided, which
+defines how the activity can be carried out in a way which is compatible with and contributes to the implementation of the
+management plan or equivalent instrument of the conservation area to which the activity intends to contribute. The plan
+includes all of the following measures relevant for the conservation or restoration objectives of the area:
+(a) a clear set of objectives and activities aimed at avoiding or minimising direct negative impacts on biodiversity, including
+an analysis of the carrying capacity or limit of acceptable change (18)of the area developed by the organisation in charge
+of the conservation or restoration of the area or by the operator of the activity in cooperation with that organisation (
+19), including the following elements (20):
+(i) for visits to natural sites: avoiding direct damage on ecosystems or habitats through management of tourist flows
+and movements;
+(ii) for wildlife interaction:
+— avoiding direct harm and disturbance through detrimental actions such as animal feeding, destruction or
+damaging eggs and nests, destruction or removal of plants or corals,
+— avoiding indirect harm and disturbance on species from tourists’ local movements, such as littering, noise,
+plastic, chemical or light pollution,
+— prevention and avoidance of introduction of invasive alien species (21);
+(iii) for wildlife harvesting and trade (22): protected wildlife species are not harvested, consumed, sold;
+(18)The ‘carrying capacity’ is defined as the maximum number of people that may visit a tourist destination at the same time, without
+causing destruction of the physical, economic, socio-cultural environment and an unacceptable decrease in the quality of visitors’
+satisfaction (UNEP/MAP/PAP, 1997).

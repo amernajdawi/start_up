@@ -1,0 +1,15 @@
+File Name: 1_2023-07-31_DelVO_2023_2772_ESRS_EU.pdf
+Converted on: 2025-03-28 03:20:41
+Original Size: 5.82 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 26 of 284
+--------------------------------------------------------------------------------
+
+, actions and targets in accordance with ESRS2 and other ESRS , the undertaking may limit upstream and downstream value chain information to information available in - house , such as data already available to the undertaking and publicly available information ; and ( b ) when disclosing metrics , the undertaking is not required to include upstream and downstream value chain information , except for datapoints derived from other EU legislation , as listed in ESRS 2 Appendix B . OJ L , 22 . 12 . 2023 EN - - - Page 23 of 284 - - -
+
+ELI: http://data.europa.eu/eli/reg_del/2023/2772/oj 23/284134. Paragraphs 132 and 133 apply irrespective of whether or not the relevant actor in the value chain is an SME. 135. Starting from the fourth year of its reporting under the ESRS, the undertaking shall include upstream and/or downstream value chain information according to paragraph 63. In this context, the information required by ESRS to be obtained from SME undertakings in the undertaking’s upstream and/or downstream value chain will not exceed the content of the future ESRS for listed SMEs. 10.3 Transitional provision related to section 7.1 Presenting comparative information 136. To ease the first-time application of this Standard, the undertaking is not required to disclose the comparative information required by section 7.1 Presenting comparative information in the first year of preparation of the sustainability statement under the ESRS. For disclosure requirements listed in Appendix C List of phased-in Disclosure Requirements, this transitional provision applies with reference to the first year of mandatory application of the phased-in disclosure requirement. 10.4 Transitional provision: List of Disclosure Requirements that are phased-in 137. Appendix C List of phased-in Disclosure Requirements in this Standard sets phase-in provisions for the Disclosure Requirements or datapoints of Disclosure Requirements in ESRS that may be omitted or that are not applicable in the first year(s) of preparation of the sustainability statement under the ESRS.OJ L, 22.12.2023 EN 
+
+--- Page 24 of 284 ---

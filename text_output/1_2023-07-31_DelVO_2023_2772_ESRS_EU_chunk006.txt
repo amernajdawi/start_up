@@ -1,0 +1,50 @@
+File Name: 1_2023-07-31_DelVO_2023_2772_ESRS_EU.pdf
+Converted on: 2025-03-28 03:20:41
+Original Size: 5.82 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 6 of 284
+--------------------------------------------------------------------------------
+
+ELI: http://data.europa.eu/eli/reg_del/2023/2772/oj 5/284Objective
+1. The objective of European Sustainability Reporting Standards (ESRS) is to specify the sustainability information that
+an undertaking shall disclose in accordance with Directive 2013/34/EU of the European Parliament and of the
+Council (1), as amended by Directive (EU) 2022/2464 of the European Parliament and of the Council. (2)Reporting
+in accordance with ESRS does not exempt undertakings from other obligations laid down in Union law.
+2. Specifically, ESRS specify the information that an undertaking shall disclose about its material impacts, risks and
+opportunities in relation to environmental, social, and governance sustainability matters. ESRS do not require
+undertakings to disclose any information on environmental, social and governance topics covered by ESRS when the
+undertaking has assessed the topic in question as non-material (See Appendix E of this Standard “Flowchart for
+determining disclosures to be included”).The information disclosed in accordance with ESRS enables users of the
+sustainability statement to understand the undertaking’s material impacts on people and environment and the
+material effects of sustainability matters on the undertaking’s development, performance and position.
+3. The objective of this Standard (ESRS 1) is to provide an understanding of the architecture of ESRS, the drafting
+conventions and fundamental concepts used, and the general requirements for preparing and presenting
+sustainability information in accordance with Directive 2013/34/EU, as amended by Directive (EU) 2022/2464.
+1. Categories of ESRS Standards, reporting areas and drafting conventions
+1.1 Categories of ESRS standards
+4. There are three categories of ESRS:
+(a) cross-cutting standards;
+(b) topical standards (Environmental, Social and Governance standards); and
+(c) sector-specific standards.
+Cross-cutting standards and topical standards are sector-agnostic, meaning that they apply to all undertakings
+regardless of which sector or sectors the undertaking operates in.
+5. The cross-cutting standards ESRS 1 General requirements and ESRS 2 General disclosures apply to the sustainability
+matters covered by topical standards and sector-specific standards.
+6. This standard (ESRS 1) describes the architecture of ESRS standards, explains drafting conventions and fundamental
+concepts, and sets out general requirements for preparing and presenting sustainability-related information.
+7. ESRS 2 establishes Disclosure Requirements on the information that the undertaking shall provide at a general level
+across all material sustainability matters on the reporting areas governance, strategy , impact, risk and opportunity
+management, and metrics and targets.
+8. Topical ESRS cover a sustainability topic and are structured into topics and sub-topics, and where necessary sub-sub- topics. The table in Application Requirement 16 (AR 16) to this standard provides an overview of the sustainability
+topics, sub-topics and sub-sub-topics (collectively ‘sustainability matters ’) covered by topical ESRS.
+(1)Directive 2013/34/EU of the European Parliament and of the Council of 26 June 2013 on the annual financial statements,
+consolidated financial statements and related reports of certain types of undertakings, amending Directive 2006/43/EC of the
+European Parliament and of the Council and repealing Council Directives 78/660/EEC and 83/349/EEC (OJ L 182, 29.6.2013, p. 19).
+(2)Directive (EU) 2022/2464 of the European Parliament and of the Council of 14 December 2022 amending Regulation (EU)
+No 537/2014, Directive 2004/109/EC, Directive 2006/43/EC and Directive 2013/34/EU, as regards corporate sustainability reporting
+(OJ L 322, 16.12.2022, p. 15).OJ L, 22.12.2023 EN  
+
+--- Page 6 of 284 ---

@@ -1,0 +1,26 @@
+File Name: 1_2022-12-14_RL_2022_2464_CSRD_EU.pdf
+Converted on: 2025-03-28 01:55:36
+Original Size: 1.12 MB
+Chunk Size: 400 tokens with 50 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 214 of 237
+--------------------------------------------------------------------------------
+
+‘The first subparagraph shall apply to the appointment of the statutor y auditor or audit firm for the purpose of
+the assurance of sustainability repor ting.’;
+(c) paragraph 3 is replaced by the followi ng:
+‘3. Any contractual clause restr icting the choice by the general meeting of shareholders or members of the
+audited entity pursuant to paragraph 1 to certain cate gories or lists of statut ory auditors or audit firms as regar ds
+the appointment of a particular statutor y auditor or audit firm to carry out the statut ory audit and, where
+applicable, the assurance of sustainability repor ting of that entity shall be prohibited. Any such existing clauses
+shall be null and void.
+Member States shall ensure that shareholders or members of large under takings subject to Articles 19a and 29a
+of Directive 2013/34/EU, excep t under takings referred to in point (a) of point (1) of Article 2 of that Directive,
+and whic h represent more than 5 % of the voting rights or 5 % of the capital of the under taking, acting
+individually or collectively , have the right to table a draf t resolution to be adopt ed in the general meeting of
+shareholders or members, requir ing that an accredited third party that does not belong to the same audit firm or
+netw ork as the statut ory auditor or audit firm carrying out the statut ory audit prepare a repor t on certain
+elements of the sustainability repor ting and that such repor t be made available to the general meeting of
+shareholders or members.’;EN Offi cial Jour nal of the European Union 16.12.2022 L 322/73

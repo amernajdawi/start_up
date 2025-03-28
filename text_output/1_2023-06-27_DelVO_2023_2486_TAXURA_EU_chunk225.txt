@@ -1,0 +1,42 @@
+File Name: 1_2023-06-27_DelVO_2023_2486_TAXURA_EU.pdf
+Converted on: 2025-03-28 03:18:09
+Original Size: 8.44 MB
+Chunk Size: 500 tokens with 50 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 225 of 380
+--------------------------------------------------------------------------------
+
+ELI: http://data.europa.eu/eli/reg_del/2023/2486/oj 81/164Do no significant harm (‘DNSH’)
+(1) Climate change mitigation Where the activity involves on-site generation of heat/cool or co-generation including
+power, the direct GHG emissions of the activity are lower than 270 gCO 2e/kWh.
+The activity develops a strategy to account for and reduce the GHG emissions arising from the services upstream and downstream of the value chain, including:
+(a) intermediate products and raw materials;
+(b) transport along the value chain, including shipping and returns;
+(c) maintenance and operations, including laundry and cleaning;
+(d) end of life, including waste management.
+(2) Climate change adaptation The activity complies with the criteria set out in Appendix A to this Annex.
+(3)
+Sustainable use and protec ­
+tion of water and marine
+resourcesThe activity complies with the criteria set out in Appendix B to this Annex.
+(5) Pollution prevention and
+controlThe activity complies with the criteria set out in Appendix C to this Annex.
+(6) Protection and restoration
+of biodiversity and ecosys ­
+temsN/A
+5.6. Marketplace for the trade of second-hand goods for reuse
+Description of the activity
+Development and operation of marketplaces (182)and classifieds (183)for the trade (sale or exchange) of second-hand
+products, materials or components for reuse, where the marketplaces and classifieds act as an intermediary to match
+buyers seeking a service or product with sellers or providers of those products or services.
+The economic activity covers marketplaces and classifieds supporting B2B, B2C and Customer to Customer (C2C) sales.
+The activity covers services such as buyer-seller linking, payment or delivery service.
+The economic activity does not include the wholesale or retail trade of second-hand goods.
+The economic activity relates to products that are manufactured by economic activities classified under the NACE codes
+C10 Manufacture of food products, C11 Manufacture of beverages, C13 Manufacture of textiles, C14 Manufacture of
+wearing apparel, C15 Manufacture of leather and related products, C16 Manufacture of wood and of products of wood
+and cork, except furniture; manufacture of articles of straw and plaiting materials, C17 Manufacture of paper and paper
+products, C18 Printing and reproduction of recorded media, C22 Manufacture of rubber and plastic products, C23.3
+Manufacture of clay building materials, C23.4 Manufacture of other porcelain and ceramic products, C24 Manufacture of

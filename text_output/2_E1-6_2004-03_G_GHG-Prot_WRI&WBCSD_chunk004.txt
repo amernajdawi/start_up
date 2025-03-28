@@ -1,0 +1,79 @@
+File Name: 2_E1-6_2004-03_G_GHG-Prot_WRI&WBCSD.pdf
+Converted on: 2025-03-28 03:20:43
+Original Size: 3.51 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 4 of 104
+--------------------------------------------------------------------------------
+
+Changes to specific chapters include:
+•CHAPTER 1: Minor rewording of principles.
+•CHAPTER 2: Goal-related information on operational bound-
+aries has been updated and consolidated.
+•CHAPTER 3: Although still encouraged to account for
+emissions using both the equity and controlapproaches, companies may now report usingone approach. This change reflects the factthat not all companies need both types of infor-mation to achieve their business goals. Newguidance has been provided on establishingcontrol. The minimum equity threshold forreporting purposes has been removed to enableemissions to be reported when significant.
+•
+CHAPTER 4: The definition of scope 2 has been revised to
+exclude emissions from electricity purchasedfor resale—these are now included in scope 3.This prevents two or more companies fromdouble counting the same emissions in thesame scope. New guidance has been added onaccounting for GHG emissions associated withelectricity transmission and distribution losses.Additional guidance provided on Scope 3 categories and leasing.
+•
+CHAPTER 5: The recommendation of pro-rata adjustments
+was deleted to avoid the need for two adjust-ments. More guidance has been added onadjusting base year emissions for changes incalculation methodologies.
+•
+CHAPTER 6: The guidance on choosing emission factors
+has been improved.
+•CHAPTER 7: The guidance on establishing an inventory
+quality management system and on the applica-tions and limitations of uncertainty assessmenthas been expanded.
+•
+CHAPTER 8: Guidance has been added on accounting for
+and reporting project reductions and offsets inorder to clarify the relationship between theGHG Protocol Corporate andProject Standards .
+•
+CHAPTER 9: The required and optional reporting categories
+have been clarified.
+•CHAPTER 10: Guidance on the concepts of materiality and
+material discrepancy has been expanded.
+•CHAPTER 11: New chapter added on steps in setting a target
+and tracking and reporting progress.Frequently asked questions…  
+Below is a list of frequently asked questions, with directions to therelevant chapters.
+•What should I consider when setting out to
+account for and report emissions?
+CHAPTER 2
+•How do I deal with complex company structures
+and shared ownership? CHAPTER 3
+•What is the difference between direct and indirect
+emissions and what is their relevance? CHAPTER 4
+•Which indirect emissions should I report? CHAPTER 4
+•How do I account for and report outsourced and
+leased operations? CHAPTER 4
+•What is a base year and why do I need one? CHAPTER 5
+•My emissions change with acquisitions and
+divestitures. How do I account for these? CHAPTER 5
+•How do I identify my company’s emission sources? CHAPTER 6
+•What kinds of tools are there to help me
+calculate  emissions? CHAPTER 6
+•What data collection activities and data management
+issues do my facilities have to deal with? CHAPTER 6
+•What determines the quality and credibility of my
+emissions information? CHAPTER 7
+•How should I account for and report GHG offsets
+that I sell or purchase? CHAPTER 8
+•What information should be included in a GHG
+public emissions report? CHAPTER 9
+•What data must be available to obtain external
+verification of the inventory data? CHAPTER 1 0
+•What is involved in setting an emissions target and
+how do I report performance in relation to my target? CHAPTER 1 1INTRODUCTION 5
+NOTES
+1GHG program is a generic term used to refer to any voluntary or mandatory
+international, national, sub-national government or non-governmentalauthority that registers, certifies, or regulates GHG emissions or removals.
+2Throughout the rest of this document, the term “company” or “busi-ness” is used as shorthand for companies, businesses and other typesof organizations.
+3For example, WRI uses the GHG Protocol Corporate Standard to publicly
+report its own emissions on an annual basis and to participate in theChicago Climate Exchange.
+4Trading programs that operate at the level of facilities primarily use theGHG Protocol Initiative calculation tools.
+
+--- Page 8 of 116 ---
+
+STANDARD 6 s with financial accounting and reporting, generally accepted GHG accounting principles are intended to underpin and guide GHG accounting and reporting to ensure that the reported information represents afaithful, true, and fair account of a company’s GHG emissions. A1GHG Accounting and Reporting Principles GUIDANCESTANDARD
+
+--- Page 9 of 116 ---

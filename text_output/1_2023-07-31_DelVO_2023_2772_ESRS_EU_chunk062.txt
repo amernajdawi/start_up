@@ -1,0 +1,135 @@
+File Name: 1_2023-07-31_DelVO_2023_2772_ESRS_EU.pdf
+Converted on: 2025-03-28 03:20:41
+Original Size: 5.82 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 62 of 284
+--------------------------------------------------------------------------------
+
+ELI: http://data.europa.eu/eli/reg_del/2023/2772/oj 63/284Disclosure Requirement and
+related datapointSFDR (1)reference Pillar 3 (2)referenceBenchmark
+Regulation (3)referenceEU
+Climate Law (4)
+reference
+ESRS 2 SBM-1
+Involvement in activities
+related to cultivation and
+production of tobacco
+paragraph 40 (d) ivDelegated Regulation
+(EU) 2020/1818,
+Article 12(1)
+Delegated Regulation
+(EU) 2020/1816,
+Annex II
+ESRS E1-1
+Transition plan to reach
+climate neutrality by 2050
+paragraph 14Regulation (EU) 2021/1119,
+Article 2(1)
+ESRS E1-1Undertakings excluded from
+Paris-aligned Benchmarks
+paragraph 16 (g)Article 449aRegulation (EU)
+No 575/2013;
+Commission
+Implementing
+Regulation
+(EU) 2022/2453
+Template 1: Banking
+book-Climate Change
+transition risk: Credit
+quality of exposures
+by sector, emissions
+and residual maturityDelegated Regulation (EU) 2020/1818,
+Article12.1 (d) to (g),
+and Article 12.2
+ESRS E1-4
+GHG emission reduction
+targets paragraph 34Indicator number 4
+Table #2 of Annex 1Article 449aRegulation (EU)
+No 575/2013;
+Commission
+Implementing
+Regulation
+(EU) 2022/2453
+Template 3: Banking
+book – Climate
+change transition risk:
+alignment metricsDelegated Regulation
+(EU) 2020/1818,
+Article 6
+ESRS E1-5
+Energy consumption from
+fossil sources disaggregated
+by sources (only high climate
+impact sectors) paragraph 38Indicator number 5
+Table #1 and
+Indicator n. 5 Table
+#2 of Annex 1OJ L, 22.12.2023 EN  
+
+--- Page 64 of 284 ---
+
+ELI: http://data.europa.eu/eli/reg_del/2023/2772/oj 64/284Disclosure Requirement and
+related datapointSFDR (1)reference Pillar 3 (2)referenceBenchmark
+Regulation (3)referenceEU
+Climate Law (4)
+reference
+ESRS E1-5 Energy
+consumption and mix
+paragraph 37Indicator number 5
+Table #1 of Annex 1
+ESRS E1-5
+Energy intensity associated
+with activities in high climate
+impact sectors paragraphs 40
+to 43Indicator number 6
+Table #1 of Annex 1
+ESRS E1-6Gross Scope 1, 2, 3 and Total
+GHG emissions paragraph
+44Indicators number 1 and 2 Table #1 of
+Annex 1Article 449a;
+Regulation (EU)
+No 575/2013;
+Commission
+Implementing
+Regulation
+(EU) 2022/2453
+Template 1: Banking
+book – Climate
+change transition risk:
+Credit quality of
+exposures by sector,
+emissions and
+residual maturityDelegated Regulation (EU) 2020/1818,
+Article 5(1), 6
+and 8(1)
+ESRS E1-6
+Gross GHG emissions
+intensity paragraphs 53 to 55Indicators number 3
+Table #1 of Annex 1Article 449a Regulation (EU)
+No 575/2013;
+Commission
+Implementing
+Regulation
+(EU) 2022/2453
+Template 3: Banking
+book – Climate
+change transition risk:
+alignment metricsDelegated Regulation
+(EU) 2020/1818,
+Article 8(1)
+ESRS E1-7
+GHG removals and carbon
+credits paragraph 56Regulation
+(EU) 2021/1119,
+Article 2(1)
+ESRS E1-9Exposure of the benchmark
+portfolio to climate-related
+physical risks paragraph 66Delegated Regulation (EU) 2020/1818,
+Annex II Delegated
+Regulation
+(EU) 2020/1816,
+Annex IIOJ L, 22.12.2023 EN  
+
+--- Page 65 of 284 ---

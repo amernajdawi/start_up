@@ -1,0 +1,38 @@
+File Name: 1_2023-07-31_DelVO_2023_2772_ESRS_EU.pdf
+Converted on: 2025-03-28 03:20:41
+Original Size: 5.82 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 231 of 284
+--------------------------------------------------------------------------------
+
+ELI: http://data.europa.eu/eli/reg_del/2023/2772/oj 231/284AR 40. When disclosing whether dependencies turn into risks, the undertaking shall consider external developments.
+AR 41. When disclosing policies, action and resources and targets related to the management of material risks and
+opportunities, in cases where risks and opportunities arise from a material impact, the undertaking may cross-
+reference its disclosures on policies, actions and resources and targets in relation to that impact.
+AR 42. The undertaking shall consider whether and how its processes to manage material risks related to affected
+communities are integrated into its existing risk management processes.
+AR 43. When disclosing the resources allocated to the management of material impacts, the undertaking may disclose
+which internal functions are involved in managing the impacts and what types of action they take to address
+negative and advance positive impacts.
+Metrics and targets
+Disclosure Requirement S3-5 – Targets related to managing material negative impacts, advancing positive impacts, and
+managing material risks and opportunities
+AR 44. When disclosing information about targets in accordance with paragraph 38, the undertaking may disclose:
+(a) the intended outcomes to be achieved in the lives of affected communities, being as specific as possible;
+(b) the stability of the targets over time in terms of definitions and methodologies to enable comparability over time;
+(c) the standards or commitments which the targets are based on (for instance codes of conduct, sourcing policies, global
+frameworks or industry codes).
+AR 45. Targets related to material risks and opportunities may be the same as or distinct from targets related to material
+impacts. For example, a target to fully restore livelihoods of affected communities following resettlement could
+both reduce impacts on those communities and reduce associated risks such as community protests.
+AR 46. The undertaking may also distinguish between short-, medium- and long-term targets covering the same policy
+commitment. For example, the undertaking may have as a main objective to employ community members at a local mining site, with the long-term goal of staffing 100% locally by 2025, and with the short-term objective of
+adding x percent of local employees every year up and until 2025.
+AR 47. When modifying or replacing a target in the reporting period, the undertaking may explain the change by linking it to significant changes in the business model or to broader changes in the accepted standard or legislation from
+which the target is derived to provide contextual information as per ESRS 2 BP-2 Disclosures in relation to specific
+circumstances.OJ L, 22.12.2023 EN  
+
+--- Page 232 of 284 ---

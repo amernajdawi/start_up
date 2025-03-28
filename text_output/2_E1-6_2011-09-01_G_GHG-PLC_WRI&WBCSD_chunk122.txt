@@ -1,0 +1,50 @@
+File Name: 2_E1-6_2011-09-01_G_GHG-PLC_WRI&WBCSD.pdf
+Converted on: 2025-03-28 03:18:25
+Original Size: 3.27 MB
+Chunk Size: 500 tokens with 50 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 122 of 226
+--------------------------------------------------------------------------------
+
+--- Page 80 of 148 ---
+
+Assessing Uncertainty 10
+
+--- Page 81 of 148 ---
+
+[79]
+guidancerequirements
+10.1 Introduction
+The term uncertainty assessment refers to a systematic procedure to quantify or qualify
+the uncertainty in a product inventory. Understanding uncertainty can be crucial
+for properly interpreting inventory results. Identifying and documenting sources of
+uncertainty can assist companies in understanding the steps needed to improve inventory
+quality and increase the level of confidence users have in the inventory results. Because the
+audience for a product inventory report is diverse, companies should make a thorough yet
+practical effort to communicate the level of confidence and key sources of uncertainty in the
+inventory results.
+This chapter provides requirements and guidance to
+help companies identify, assess, and report qualitative
+information on inventory uncertainty. Detailed
+descriptions of quantitative approaches to assess
+uncertainty, and an uncertainty calculation tool are
+available at ( www.ghgprotocol.org ). While remaining
+current with leading science and practice, the chapter
+is intended to favor practicality and feasibility for
+companies with a range of uncertainty expertise. 10.2 Requirements
+Companies shall report a qualitative
+statement on sources of inventory
+uncertainty and methodological choices.
+Methodological choices include:
+•Use and end-of-life profile
+• Allocation methods, including allocation
+due to recycling
+• Source of global warming potential
+(GWP) values used
+ •Calculation models  
+
+See table 10.2 for guidance on reporting on these choices.
+
+--- Page 82 of 148 ---

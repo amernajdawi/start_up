@@ -1,0 +1,49 @@
+File Name: 1_2021-07-06_DelVO_2021_2178_TAXORA_EU.pdf
+Converted on: 2025-03-28 03:20:32
+Original Size: 10.30 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 25 of 47
+--------------------------------------------------------------------------------
+
+ANNEX V
+KPIs OF CREDIT INSTITUTIONS
+1. Content of KPIs to be disclosed by credit institutions
+1.1. Scope of the KPIs
+1.1.1. Consolidation
+Credit institutions shall disclose relevant KPIs on the basis of the scope of their prudential consolidation determined in
+accordance with Regulation (EU) No 575/2013, Title II, Chapter 2, Section 2.
+1.1.2. Total covered Assets
+The calculation of the green asset ratio (GAR) for on-balance sheet exposures shall cover the following accounting
+categories of financial assets, including loans and advances, debt securities, equity holdings and repossessed collaterals:
+(a) financial assets at amortised cost;
+(b) financial assets at fair value through other comprehensive income;
+(c) investments in subsidiaries;
+(d) joint ventures and associates;
+(e) financial assets designated at fair value through profit or loss and non-trading financial assets mandatorily at fair value
+through profit or loss;
+(f) real estate collaterals obtained by credit institutions by taking possession in exchange for the cancellation of debts.
+The exposures referred to in Article 7(1) of this Regulation shall be excluded from the coverage of the GAR.
+The following assets shall be excluded from the numerator of the GAR:
+(a) financial assets held for trading;
+(b) on-demand interbank loans;
+(c) exposures to undertakings that are not obliged to publish non-financial information pursuant to Article 19a or 29a of
+Directive 2013/34/EU.
+The calculation of KPIs for off-balance sheet exposures shall consider financial guarantees granted by the credit institution
+and assets under management for guarantee and investee non-financial undertakings. Other off-balance sheet exposures
+such as commitments shall be excluded from that calculation.
+1.2. Content of the KPIs and methodology
+1.2.1. Green asset ratio (GAR)
+The GAR shall show the proportion of the of credit institution’s assets financing and invested in taxonomy-aligned
+economic activities as a proportion of total covered assets in accordance with point 1.1.2 of this Annex.
+The GAR shall be based on the exposures and balance sheet according to the scope of prudential consolidation in
+accordance with Regulation (EU) No 575/2013, Title II, Chapter 2, Section 2 for the types of assets and accounting
+portfolios specified in point 1.1.2 of this Annex, including information on stock and flows, on transitional and enabling
+activities, and on specialised and general purpose lending.
+Credit institutions shall disclose all of the following:
+(a) the aggregate GAR for covered on-balance sheet assets;
+(b) the breakdown by environmental objective and by type of counterparty.EN Official Journal of the European Union 10.12.2021 L 443/37  
+
+--- Page 30 of 59 ---

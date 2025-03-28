@@ -1,0 +1,18 @@
+File Name: 1_2023-06-27_DelVO_2023_2486_TAXURA_EU.pdf
+Converted on: 2025-03-28 03:20:36
+Original Size: 8.44 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 47 of 199
+--------------------------------------------------------------------------------
+
+(6)‘Unit of packaging’ means a unit as a whole, including any integrated or separate components, which together serve a packaging function such as the containment, protection, handling, delivery, storage, transport and presentation of products, and including
+independent units of grouped or transport packaging where they are discarded prior to the point of sale.
+(7)‘Recycling rate’ is the proportion of waste generated that is recycled.
+(8)ISO 16290:2013, Space systems – Definition of the Technology Readiness Levels (TRLs) and their criteria of assessment (version of
+27.6.2023: https://www.iso.org/obp/ui/#iso:std:iso:16290:ed-1:v1:en).
+(9)Regulation (EC) No 1272/2008 of the European Parliament and the Council of 16 December 2008 on classification, labelling and
+packaging of substances and mixtures, amending and repealing Directives 67/548/EEC and 1999/45/EC, and amending Regulation
+(EC) No 1907/2006 (OJ L 353, 31.12.2008, p. 1).OJ L, 21.11.2023 EN

@@ -1,0 +1,28 @@
+File Name: 2_E1-6_2004-03_G_GHG-Prot_WRI&WBCSD.pdf
+Converted on: 2025-03-28 03:18:16
+Original Size: 3.51 MB
+Chunk Size: 500 tokens with 50 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 118 of 225
+--------------------------------------------------------------------------------
+
+The GHG Protocol Corporate Standard focuses on
+accounting and reporting for GHG emissions at thecompany or organizational level. Reductions in corpo-rate emissions are calculated by comparing changes in the company’s actual emissions inventory over timerelative to a base year. Focusing on overall corporateor organizational level emissions has the advantage ofhelping companies manage their aggregate GHG risksand opportunities more effectively. It also helps focusresources on activities that result in the most cost-effective GHG reductions.
+In contrast to corporate accounting, the forthcoming
+GHG Protocol Project Quantification Standard focuses on
+the quantification of GHG reductions from GHG miti-gation projects that will be used as offsets. Offsets arediscrete GHG reductions used to compensate for (i.e.,offset) GHG emissions elsewhere, for example to meeta voluntary or mandatory GHG target or cap. Offsetsare calculated relative to a baseline that represents a hypothetical scenario for what emissions would havebeen in the absence of the project.
+Corporate GHG reductions
+at facility or country level
+From the perspective of the earth's atmosphere, it does not
+matter where GHG emissions or reductions occur. Fromthe perspective of national and international policymakersaddressing global warming, the location where GHGreductions are achieved is relevant, since policies usuallyfocus on achieving reductions within specific countriesor regions, as spelled out, for example, in the KyotoProtocol. Thus companies with global operations willhave to respond to an array of state, national, or regionalregulations and requirements that address GHGs fromoperations or facilities within a specific geographic area.
+The
+GHG Protocol Corporate Standard calculates GHG
+emissions using a bottom-up approach. This involvescalculating emissions at the level of an individual sourceor facility and then rolling this up to the corporate level.Thus a company’s overall emissions may decrease, evenif increases occur at specific sources, facilities, or opera-tions and vice-versa. This bottom-up approach enablescompanies to report GHG emissions information atdifferent scales, e.g., by individual sources or facilities,or by a collection of facilities within a given country.Companies can meet an array of government require-ments or voluntary commitments by comparing actualemissions over time for the relevant scale. On a corpo-rate-wide scale, this information can also be used when
+setting and reporting progress towards a corporate-wideGHG target (see chapter 11).
+In order to track and explain changes in GHG emissions
+over time, companies may find it useful to provide information on the nature of these changes. Forexample, BP asks each of its reporting units to providesuch information in an accounting movement formatusing the following categories (BP 2000):
+Acquisitions and divestments
+Closure
+Real reductions (e.g., efficiency improvements,

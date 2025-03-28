@@ -1,0 +1,76 @@
+File Name: 2_E1-6_2014-01-01_G_GHG-Agri_WRI&WBCSD.pdf
+Converted on: 2025-03-28 03:20:54
+Original Size: 1.75 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 53 of 65
+--------------------------------------------------------------------------------
+
+Many types of performance metrics exist
+Some examples of performance metrics are:  
+Productivity and efficiency rati os: These express the value or achievement of a company
+divided by its GHG impact. Increasing effici ency ratios therefore reflect a positive
+performance improvement. Examples of producti vity/efficiency ratios include resource
+productivity ratios (e.g., sales per GHG) and process eco-efficiency ratios (e.g.,
+production volume per amount of GHG).  Intensity ratios: Intensity (or ‘normalized ’) ratios express GHG impact per unit of 
+physical activity or unit of economic output. A physical intensity ratio is suitable when
+aggregating or comparing across businesses that have similar products. In turn, an
+economic intensity ratio is suitable when a ggregating or comparing across businesses that
+produce different products. A declining intens ity ratio reflects a positive performance
+improvement. Examples of intensity ratio s include product inte nsity (e.g., tonnes of
+emissions per unit of sold livestock or crops generated) and sales intensity (e.g.,
+emissions per sales).  When calculating intensity ratios companies may have to allocate  
+GHG fluxes amongst different product streams (see below).   Percentages: A percentage indicator is a ra tio between two similar variables (with the 
+same physical unit in the numerator and the de nominator). Examples of percentages that
+can be meaningful in performance reports include current GHG fluxes expressed as a
+percentage of base  year GHG fluxes. 
+In selecting a performance metric, companies should consider which metrics best capture
+the benefits and impacts of their business (e .g., its operations, its produ cts, and its effects
+on the marketplace), as well as  its intended application. 
+
+--- Page 78 of 103 ---
+
+GHG Protocol Agricultural Guidance
+
+78
+
+The use of multiple performa nce metrics is recommended  
+Companies might find it useful to track perfor mance using more than one metric. This is
+because individual metrics might exclude certai n sources, such as those associated with
+by-products or co-products (see below) or those not directly  connected to the production 
+system. For the same reason, performance me trics should always be reported alongside
+data on the absolute GHG fluxes to/from a farm. The following scenarios show the
+importance of using additional ratio indica tors (in addition to reporting absolute GHG
+flux data) to track performan ce at the whole farm level:
+ Production intensification (e.g., an increased  use of fertilizers and/or feed) might 
+boost yields and result in a ne t reduction in GHG intensity per 	unit of agricultural 
+output (provided the inputs are not excessive ), but could also increase emissions on a
+per hectare basis.   
+ Increasing the feed conversion efficiency of  cattle can reduce emissions per product, 
+but can lead to greater overall emissions (a nd emissions per ha) if any spare feed is
+diverted to new livestock. 	
+Table I-1 describes various trade-offs asso ciated with different  types of metrics 
+commonly used in the agricultural sector. 	
+
+Contextual information should be provided
+Importantly, the inherent divers ity of agricultural practices, as well as the influence of
+environmental factors on GHG fluxes, will aff ect the comparability of metrics, both
+within and across businesses. For example:
+ Intensity ratios will often be higher for self-replacing livestock herds than non-
+replacement herds. This is because self -replacing herds contain younger stock that
+emit enteric CH 4 and produce N 2O from urine depositions for a longer period of time
+before contributing to farm products.  
+ Adverse weather conditions can lower re alized crop yields, causing inter-annual
+variation in intensity ratios , independent of any changes in farming practices. (Note:
+in such cases, companies may find it usef ul to normalize and report emissions by
+expected yield, in addition to actual yield).  
+Without adequate context on the farming system, environmental effects, and the
+emissions sources that have been studie d, performance metrics are not useful for
+assessing performance. Such context should be provided in reports to aid the reliable
+interpretation of performance metrics.    
+
+--- Page 79 of 103 ---
+
+GHG Protocol Agricultural Guidance

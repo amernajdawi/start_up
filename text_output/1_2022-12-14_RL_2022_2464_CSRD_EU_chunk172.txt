@@ -1,0 +1,39 @@
+File Name: 1_2022-12-14_RL_2022_2464_CSRD_EU.pdf
+Converted on: 2025-03-28 03:18:06
+Original Size: 1.12 MB
+Chunk Size: 500 tokens with 50 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 172 of 204
+--------------------------------------------------------------------------------
+
+3. When a member of a netw ork to which the statut ory auditor or the audit firm carrying out the assurance of
+sustainability repor ting of a public-interest entity belongs provid es the prohibit ed non-audit services referred to in
+paragraph 1 of this Article to an under taking incor porated in a third countr y whic h is controlled by the public-
+inter est entity that is the subject of assurance of sustainability repor ting, the statut ory auditor or the audit firm
+concer ned shall assess whether his, her or its independence would be comprom ised by such provision of services by
+the member of the netw ork.
+If his, her or its independence is affect ed, the statutor y auditor or the audit firm shall apply safeguards in order to
+mitig ate the threats caused by the provi sion of prohibit ed non-audit services referred to in paragraph 1 of this Article
+in a third countr y. The statut ory auditor or the audit firm may continue to carry out the assurance of sustainability
+repor ting of the public-interest entity only if he, she or it can justify , in accordance with Article 22b, that the
+provis ion of such services does not affect his, her or its professiona l judge ment and the assurance repor t on
+sustainability repor ting.
+Article 25d
+Irregular ities
+Article 7 of Regulation (EU) No 537/2014 shall apply mutatis mutandis to a statut ory auditor or an audit firm carrying
+out the assurance of sustainability repor ting of a public-interest entity .’;
+(15) the follo wing Article is inser ted:
+‘Article 26a
+Assurance standards for sust ainability repor ting
+1. Member States shall require statut ory auditors and audit firms to carry out the assurance of sustainability
+repor ting in compl iance with the assurance standards adopt ed by the Commission in accordance with paragraph 3.
+2. Member States may apply national assurance standards, procedures or requirements as long as the Commission
+has not adopt ed an assurance standard cover ing the same subject matte r.
+Member States shall communicate the national assurance standards, procedures or requirements to the Commission
+at least three months before their entr y into force.
+3. The Commission shall, no later than 1 October 2026 , adop t delegat ed acts in accordance with Article 48a in
+order to supplement this Directive in order to provide for limite d assurance standards setting out the procedures that
+the auditor(s) and the audit firm(s) shall perform in order to draw his, her or its conclusions on the assurance of
+sustainability repor ting, including engagement planning, risk consideration and response to risks and type of

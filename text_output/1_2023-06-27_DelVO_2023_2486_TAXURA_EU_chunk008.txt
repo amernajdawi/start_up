@@ -1,0 +1,41 @@
+File Name: 1_2023-06-27_DelVO_2023_2486_TAXURA_EU.pdf
+Converted on: 2025-03-28 03:20:36
+Original Size: 8.44 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 8 of 199
+--------------------------------------------------------------------------------
+
+ELI: http://data.europa.eu/eli/reg_del/2023/2486/oj 4/164(12) When considering the circularity of a product, the design and production phases are key for ensuring durability and
+potential re-use of the product and for its recyclability. Those phases are also imperative for reducing the content of
+hazardous substances and substituting substances of very high concern in materials and products throughout their life cycle. The technical screening criteria for manufacturing activities that substantially contribute to the transition to circular economy should therefore set design requirements for products’ longevity, reparability and reuse, as well
+as requirements on the use of materials, substances and processes that allow for quality recycling of the product.
+The use of hazardous substances should be minimised. Where possible, the criteria should also require the use of recycled materials for the manufacturing of the product itself.
+(13) In the follow-up to Communications from the Commission of 11 December 2019 ‘The European Green Deal’ (
+8), of
+11 March 2020 on a new Circular Economy Action Plan (9), of 16 January 2018 on a European Strategy for
+Plastics (10)and of 30 November 2022 on an EU policy framework on biobased, biodegradable and compostable
+plastics (11), the technical screening criteria for plastic packaging manufacturing should be complemented, reviewed
+and where necessary revised and taking into account relevant Union law, including Directive 94/62/EC of the European Parliament and of the Council (
+12)and its future revisions.
+(14) In the absence of legally agreed sustainability criteria on the role of biomass in plastic packaging, the technical screening criteria for manufacturing of plastic packaging making substantial contribution to the transition to a
+circular economy focus on use of bio-waste feedstock. Taking into account future technology and policy
+developments, including the review of Directive (EU) 2018/2001 of the European Parliament and of the Council (
+13), as well as possible contribution to other environmental objectives, those criteria may need to be
+reviewed.
+(15) Good waste management is a building block of the circular economy and helps prevent waste from having a negative impact on the environment and human health. The Union legislation on waste (
+14)improves waste management by
+setting out a ‘waste hierarchy’ under which waste prevention, preparing for re-use and recycling are the preferred options, followed by other recovery, including energy recovery and only as a last resort, disposal such as incineration without energy recovery or landfilling. The technical screening criteria for determining the conditions under which a specific economic activity qualifies as contributing substantially to the transition to a circular
+economy should therefore aim at preventing or reducing waste generation, increasing the preparation for re-use
+and recycling of waste, avoiding down cycling and disposal of waste. Taking into account that materials suitable for being reintroduced into the circular economy, such as metals and inorganic salts, can be recycled from combustion products, in particular from bottom ashes from non-hazardous waste incineration, the establishment of technical
+screening criteria for that recycling activity is to be considered.
+(8)Communication from the Commission to the European Parliament, the European Council, the Council, the European Economic and
+Social Committee and the Committee of the Regions, The European Green Deal (COM(2019) 640 final).
+(9)Communication from the Commission to the European Parliament, the Council, the European Economic and Social Committee and the Committee of the Regions, A new Circular Economy Action Plan – For a cleaner and more competitive Europe (COM(2020) 98
+final).
+(10)Communication from the Commission to the European Parliament, the Council, the European Economic and Social Committee and
+the Committee of the Regions, A European Strategy for Plastics in a Circular Economy (COM(2018) 28 final).
+(11)Communication from the Commission to the European Parliament, the Council, the European Economic and Social Committee and
+the Committee of the Regions, EU policy framework on biobased, biodegradable and compostable plastics (COM(2022) 682 final).

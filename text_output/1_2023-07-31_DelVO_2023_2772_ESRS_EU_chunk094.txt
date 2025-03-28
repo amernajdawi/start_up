@@ -1,0 +1,42 @@
+File Name: 1_2023-07-31_DelVO_2023_2772_ESRS_EU.pdf
+Converted on: 2025-03-28 03:20:41
+Original Size: 5.82 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 94 of 284
+--------------------------------------------------------------------------------
+
+ELI: http://data.europa.eu/eli/reg_del/2023/2772/oj 96/284(8) Fuel consumption for renewable sources, including biomass (also
+comprising industrial and municipal waste of biologic origin, biogas,
+renewable hydrogen, etc.) (MWh)
+(9) Consumption of purchased or acquired electricity, heat, steam, and cooling from renewable sources (MWh)
+(10) The consumption of self-generated non-fuel renewable energy (MWh)
+(11) Total renewable energy consumption (MWh) (calculated as the
+sum of lines 8 to 10)
+Share of renewable sources in total  
+energy consumption (%)
+Total energy consumption (MWh) (calculated as the sum of lines 6,
+and 11)
+AR 35. The total energy consumption with a distinction between fossil, nuclear and renewable energy consumption may be presented graphically in the sustainability statement showing developments over time (e.g., through a pie or
+bar chart).
+Energy intensity based on net revenue
+Calculation guidance
+AR 36. When preparing the information on energy intensity required under paragraph 40, the undertaking shall:
+(a) calculate the energy intensity ratio using the following formula:
+(b) express the total energy consumption in MWh and the net revenue in monetary units (e.g., Euros);
+(c) the numerator and denominator shall only consist of the proportion of the total final energy consumption (in
+the numerator) and net revenue (in the denominator) that are attributable to activities in high climate impact
+sectors
+. In effect, there should be consistency in the scope of both the numerator and denominator;
+(d) calculate the total energy consumption in line with the requirement in paragraph 37;
+(e) calculate the net revenue in line with the accounting standards requirements applicable for the financial
+statements, i.e., IFRS 15 Revenue from Contracts with Customers or local GAAP requirements.
+AR 37. The quantitative information may be presented in the following table.
+Energy intensity per net revenue Comparative N % N / N-1
+Total energy consumption from activities in high
+climate impact sectors per net revenue from activities
+in high climate impact sectors (MWh/Monetary unit)OJ L, 22.12.2023 EN  
+
+--- Page 97 of 284 ---

@@ -1,0 +1,27 @@
+File Name: CELEX_32010L0075_DE_TXT.pdf
+Converted on: 2025-03-28 03:18:33
+Original Size: 4.18 MB
+Chunk Size: 500 tokens with 50 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 110 of 163
+--------------------------------------------------------------------------------
+
+3.1. CVerfahren ausgedrückt als Tagesmittelwerte (in mg/Nm3) (gültig bis zu dem in  Artikel 82 Absatz 5 genannten Datum) 
+Für
+die Ermittlung
+der thermischen Nen nleistung
+der Feuerun gsanlagen
+sind
+die Aggregationsregeln
+gemäß
+Arti­
+kel
+29 anzuwenden.
+Halbstundenmittelwerte
+sind
+nur
+zur Berechn ung
+der Tagesmittelwerte
+erforderlich.

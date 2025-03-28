@@ -1,0 +1,52 @@
+File Name: 1_2023-07-31_DelVO_2023_2772_ESRS_EU.pdf
+Converted on: 2025-03-28 03:20:41
+Original Size: 5.82 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 156 of 284
+--------------------------------------------------------------------------------
+
+ELI: http://data.europa.eu/eli/reg_del/2023/2772/oj 159/284Appendix A
+Application Requirements
+This appendix is an integral part of the ESRS E5. It supports the application of the disclosure requirements set out in this
+standard and has the same authority as the other parts of the standard.
+ESRS 2 GENERAL DISCLOSURES
+Impact, risk and opportunity management
+Disclosure requirement related to ESRS 2 IRO-1 – Description of the processes to identify and assess material resource
+use and circular economy-related impacts, risks and opportunities
+AR 1. When conducting a materiality assessment on environmental subtopics, the undertaking shall assess the
+materiality of resource use and circular economy in its own operations and its upstream and downstream value
+chain, and may consider the four phases below, also known as the LEAP approach:
+(a) Phase 1: locate where in the undertaking’s own operations and along its upstream and downstream value
+chain the interface with nature takes place;
+(b) Phase 2: evaluate the dependencies and impacts;
+(c) Phase 3: assess the material risks and opportunities;
+(d) Phase 4: prepare and report the results of the materiality assessment.
+AR 2. With regard to ESRS E5, phases 1 and 2 rely mainly on the materiality assessments conducted under ESRS E1
+(including energy consumption), ESRS E2 (pollution), ESRS E3 (marine resources, water consumption) and ESRS
+E4 (biodiversity, ecosystems, raw materials). Indeed, circular economy eventually aims at reducing the
+environmental impact of the use of products, materials and other resources, minimizing waste and the release of
+hazardous substances and hence at reducing impacts on nature. This application requirement focuses mainly on
+the third phase of this LEAP approach, while the fourth phase addresses the outcome of the process.
+AR 3. The process to assess the materiality of impacts, dependencies, risks and opportunities shall consider the
+provisions in ESRS 2 IRO-1 Description of the processes to identify and assess material impacts, risks and opportunities
+and IRO-2 Disclosure Requirements in ESRS covered by the undertaking’s sustainability statement.
+AR 4. The sub-topics related to resource use and circular economy covered by the materiality assessment include:
+(a) resource inflows including the circularity of material resource inflows, considering resource use optimisation,
+intensity of materials and products and renewable and non-renewable resources;
+(b) resource outflows related to products and services; and
+(c) waste, including hazardous waste and non-hazardous waste management.
+AR 5. In Phase 3, to assess its material risks and opportunities based on the results of Phases 1 and 2, the undertaking
+may:
+(a) identify transition risks and opportunities in its own operations and its upstream and downstream value
+chain, including the risk of staying in a business-as-usual scenario:
+i. policy and legal, e.g., bans on the extraction and use of non-renewable resources, regulations on waste
+treatment;
+ii. technology, e.g., introduction on the market of new technologies to replace existing use of products and
+materials;
+iii. market, e.g., shifting supply, demand and financing;
+iv. reputation, e.g. changing societal, customer or community perceptions.OJ L, 22.12.2023 EN  
+
+--- Page 160 of 284 ---

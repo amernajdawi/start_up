@@ -1,0 +1,53 @@
+File Name: 1_2023-07-31_DelVO_2023_2772_ESRS_EU.pdf
+Converted on: 2025-03-28 03:20:41
+Original Size: 5.82 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 267 of 284
+--------------------------------------------------------------------------------
+
+ELI: http://data.europa.eu/eli/reg_del/2023/2772/oj 268/284combined with bioenergy production (Bioenergy with Carbon Capture &
+Storage - BECCS). Removals can be subject to reversals, which are any
+movement of stored GHG out of the intended storage that re-enters the
+atmosphere. For example, if a forest that was grown to remove a specific amount of CO2 is subject to a wildfire, the emissions captured in the trees
+are reversed.
+Global warming potential (GWP) A factor describing the radiative forcing impact (degree of harm to the
+atmosphere) of one unit of a given GHG relative to one unit of CO2.
+Greenhouse Gases (GHG) The gases listed in Part 2 of Annex V of Regulation (EU) 2018/1999 of the
+European Parliament and of the Council (
+13). These include Carbon dioxide
+(CO2), Methane (CH4), Nitrous Oxide (N2O), Sulphur hexafluoride (SF6),
+Nitrogen trifluoride (NF3), Hydrofluorocarbons (HFCs), Perfluorocarbons
+(PFCs).
+Grievance mechanism Any routinized, state-based or non-state-based, judicial or non-judicial processes through which stakeholders can raise grievances and seek
+remedy . Examples of state-based judicial and non-judicial grievance
+mechanisms include courts, labour tribunals, national human rights
+institutions, National Contact Points under the OECD Guidelines for Multinational Enterprises, ombudsperson offices, consumer protection
+agencies, regulatory oversight bodies, and government-run complaints
+offices. Non-state-based grievance mechanisms include those administered
+by the undertaking, either alone or together with stakeholders, such as
+operational-level grievance mechanisms and collective bargaining,
+including the mechanisms established by collective bargaining. They also
+include mechanisms administered by industry associations, international
+organisations, civil society organisations, or multi-stakeholder groups.
+Operational-level grievance mechanisms are administered by the
+organisation either alone or in collaboration with other parties and are directly accessible by the organisation’s stakeholders. They allow for
+grievances to be identified and addressed early and directly, thereby preventing both harm and grievances from escalating. They also provide
+important feedback on the effectiveness of the organisation’s due diligence
+from those who are directly affected.
+According to UN Guiding Principle 31, effective grievance mechanisms are
+legitimate, accessible, predictable, equitable, transparent, rights-compatible, and a source of continuous learning. In addition to these criteria, effective
+operational-level grievance mechanisms are also based on engagement and
+dialogue. It can be more difficult for the organisation to assess the effectiveness of grievance mechanisms that it participates in compared to
+those it has established itself.
+Groundwater All water which is below the surface of the ground in the saturation zone and in direct contact with the ground or subsoil (
+14).
+(13)Regulation (EU) 2018/1999 of the European Parliament and of the Council of 11 December 2018 on the Governance of the Energy
+Union and Climate Action, amending Regulations (EC) No 663/2009 and (EC) No 715/2009 of the European Parliament and of the
+Council, Directives 94/22/EC, 98/70/EC, 2009/31/EC, 2009/73/EC, 2010/31/EU, 2012/27/EU and 2013/30/EU of the European Parliament and of the Council, Council Directives 2009/119/EC and (EU) 2015/652 and repealing Regulation (EU) No 525/2013 of the European Parliament and of the Council (OJ L 328, 21.12.2018, p. 1).
+(14)Article 2(20) of Regulation (EU) 2020/852 of the European Parliament and of the Council of 18 June 2020 on the establishment of a
+framework to facilitate sustainable investment, and amending Regulation (EU) 2019/2088 (OJ L 198, 22.6.2020, p. 13).OJ L, 22.12.2023 EN  
+
+--- Page 269 of 284 ---

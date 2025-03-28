@@ -1,0 +1,173 @@
+File Name: CELEX_32010L0075_DE_TXT.pdf
+Converted on: 2025-03-28 03:21:03
+Original Size: 4.18 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 68 of 93
+--------------------------------------------------------------------------------
+
+17.12.2010 DE Amtsblattder Europäischen Union L 334/73
+4.1. C — Gesamtemission sgrenzwert (in ng/Nm3) für Dioxin e und Furane, ausgedrückt als Mittelwerte b ei einer Proben­
+ahmedauer
+von
+mindestens
+6 Stunden
+und
+höchstens
+8 Stunden:
+Schadstoff C
+Dioxine und Furane 0,1
+4.2. C
+— Gesamtemission sgrenzwerte
+(in
+mg/Nm3) für Schwermetalle ausg edrückt als Mittelwerte b ei einer Probenahme­
+dauer
+von
+mindestens
+30 Minuten
+und
+höchstens
+8 Stunden:
+Schadstoff C
+Cd + Tl 0,05
+Hg 0,05
+TEIL
+5
+Emissionsgrenzwerte für Ableitungen von Abwasser aus der Abgasreinigung
+SchadstoffEmissionsgrenzwerte für ungefilterte Proben
+(in mg/l, ausgenommen für Dioxin e und Furane)
+1. Suspendierte Feststoffe g emäß Anhang I der Richtlin ie
+91/271/EWG(95  %) (100 %)
+30 45
+2. Quecksilber
+und
+Quecksilberverbindungen,
+gemessen
+als Queck sil­
+ber
+(Hg)0,03
+3. Cadmium
+und
+Cadmiumverb indungen,
+gemessen
+als Cadmium (Cd) 0,05
+4. Thallium un d
+Thalliumverb indungen,
+gemessen
+als Thallium (Tl) 0,05
+5. Arsen
+und
+Arsenverbindungen,
+gemessen
+als Arsen
+(As) 0,15
+6. Blei und
+Bleiverbindungen,
+gemessen
+als Blei (Pb ) 0,2
+7. Chrom
+und
+Chromverb indungen,
+gemessen
+als Chrom (Cr) 0,5
+8. Kupfer
+und
+Kupferverbindungen,
+gemessen
+als Kupfer
+(Cu) 0,5
+9. Nickel
+und
+Nickelverbindungen,
+gemessen
+als Nickel
+(Ni) 0,5
+10. Zink
+und
+Zinkverbindungen,
+gemessen
+als Zink
+(Zn) 1,5
+11. Dioxine
+und
+Furane 0,3
+ng/l
+TEIL
+6
+Emissionsüberwachung
+1. Messtechn iken
+1.1. Die
+Messungen
+zur Bestimmun g
+der Konzentrationen
+der luft- un d
+wassergefährdenden
+Stoffe müssen  
+repräsentativ
+sein.
+1.2. Die
+Probenahme
+und
+Analyse
+aller Schadstoffe, ein schließlich
+Dioxine
+und
+Furane,
+sowie die Qualitätssicherun g
+von
+automatisierten
+Messsystemen un d
+die Referen zmessverfahren
+zur Kalibr
+ierung
+dieser Systeme werden n ach
+CEN-
+Normen
+durchgeführt.
+Sind
+keine
+CEN-Normen
+verfügbar,
+so werden  
+ISO-,
+na
+tionale
+Normen
+oder andere
+internati­
+onale
+Normen
+angewandt,
+die sicherstellen ,
+dass Daten  
+von
+gleichwertige
+r wissenschaftlicher
+Qualität ermittelt werden .
+Die
+automatisierten Messsysteme sin d
+mindestens
+einmal
+jährlich durch Parallelmessun gen
+unter
+Verwendung
+der
+Referenzmethoden
+einer
+Kontrolle
+zu unterziehen.  
+
+--- Page 58 of 103 ---
+
+L 334/74 DE Amtsblattder Europäischen Union 17.12.2010
+1.3. Die Emissionsgrenzwerte (Tagesmittelwerte) sind eingehalten, wenn die Einzelmesswerte der 95 %-Vertrauen sbereiche,
+die
+für die E missionsgrenzwerte
+bestimmt
+werden,
+die folgenden
+Prozents
+ätze der E missionsgrenzwerte
+nicht

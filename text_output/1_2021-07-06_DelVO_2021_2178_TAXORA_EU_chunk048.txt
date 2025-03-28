@@ -1,0 +1,87 @@
+File Name: 1_2021-07-06_DelVO_2021_2178_TAXORA_EU.pdf
+Converted on: 2025-03-28 03:18:05
+Original Size: 10.30 MB
+Chunk Size: 500 tokens with 50 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 48 of 90
+--------------------------------------------------------------------------------
+
+The definition of the KPIs shall be based on the following components:
+(a) the numerator, which shall cover the loans and advances, debt securities, equities and repossessed collaterals, financing
+Taxonomy-aligned economic activities based on turnover KPI and CapEx KPI of underlying assets;
+(b) the denominator, which shall cover the total loans and advances, total debt securities, total equities and total
+repossessed collaterals and all other covered on-balance sheet assets.
+In addition to GAR, credit institutions shall disclose the percentage of their total assets that are excluded from the numerator of the GAR in accordance with Article 7(2) of this Regulation and point1.1.2 of this Annex.
+1.2.1.1. GAR applying to exposures to non-financial undertakings
+Credit institutions shall disclose the GAR for the stock of loans, debt securities and equity holdings and the flow for new
+lending. Credit institutions shall follow the following steps to calculate the GAR for each environmental objective.
+Environmental objectives First step Second step Green asset ratio (GAR)
+Climate change
+mitigationProportion of loans and  advances/debt securities/ 
+equity instruments financing
+taxonomy-eligible economic
+activities for the objective of
+climate change mitigation as
+compared to total loans  
+to/debt securities/equity
+instruments of non-financial
+undertakings and all other
+covered on-balance sheet
+assetsProportion of loans and  advances/debt securities/ 
+equity instruments financing
+taxonomy-aligned economic
+activities for the objective of
+climate change mitigation,
+compared to loans and  
+advances/debt securities/
+equity instruments financing
+economic activities in sectors
+covered by the taxonomy for
+the objective of climate
+change mitigation.Proportion of loans and  
+advances/debt securities/
+equity instruments
+financing taxonomy-aligned
+economic activities for the
+objective of climate change
+mitigation, compared to
+total loans and  
+advances/debt securities/
+equity instruments of non-
+financial undertakings and
+all other on-balance sheet
+assets
+Of which: enabling activities Of which: enabling activities
+Of which transitional activities Of which transitional
+activities
+Stock and flow
+Climate change
+adaptationProportion of loans and  advances/debt securities/ 
+equity instruments financing
+Taxonomy-eligible economic
+activities for the objective of
+climate change adaptation
+compared to total loans  
+to/debt securities/equity
+instruments of non-financial
+undertakings and all other
+covered on-balance sheet
+assetsProportion of loans and  advances/debt securities/ 
+equity instruments financing
+taxonomy-aligned economic
+activities for the objective of
+climate change adaptation
+compared to loans and  
+advances/debt securities/
+equity instruments financing
+economic activities in sectors
+covered by the taxonomy for
+the objective of climate
+change adaptationProportion of loans and  
+advances/debt securities/
+equity instruments
+financing taxonomy-aligned
+economic activities for the
+objective of climate change

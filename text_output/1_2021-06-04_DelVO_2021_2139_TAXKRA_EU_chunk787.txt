@@ -1,0 +1,45 @@
+File Name: 1_2021-06-04_DelVO_2021_2139_TAXKRA_EU.pdf
+Converted on: 2025-03-28 03:18:03
+Original Size: 2.76 MB
+Chunk Size: 500 tokens with 50 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 787 of 966
+--------------------------------------------------------------------------------
+
+Do no significant harm (‘DNSH’)  
+(1) Climate change mitigation  For vehicles of categories M1 and N1, specific emissions of CO  2 defined in 
+Article 3(1), point (h), of Regulation (EU) 2019/631 are not higher than
+the fleet-wide CO  2 emissions targets (  477  ). 
+The fleet-wide CO  2 emissions target values to be considered are: 
+(a) until 31 December 2024:
+(i) for NEDC values, the target values as specified in Article 1,
+paragraphs 2-3 of Regulation (EU) 2019/631: 95 g CO  2 /km for 
+vehicles of category M1 and 147 g CO  2 /km for vehicles of 
+category N1;
+(ii) for WLTP values, the EU fleet-wide target 2021, as specified in
+Annex I to Regulation (EU) 2019/631, in Part A, point 6.0 for
+vehicles of category M1 and in Part B, point 6.0 for vehicles of
+category N1. Until the respective EU fleet-wide target 2021 is
+published, those vehicles of category M1 and N1 whose CO  2 
+emissions are only expressed according to WLTP test procedure
+will be applied a conversion factor of 1.21 and 1.24 respectively in
+order to account for the transition from NEDC to WLTP, resulting
+in the corresponding WLTP values of 115 g CO  2 /km for vehicles 
+of category M1 and 182 g CO  2 /km for vehicles of category N1; 
+(b) from 1 January 2025, the target values as specified in Article 1,
+paragraph 4 of Regulation (EU) 2019/631.  
+(3) Sustainable use and protection of
+water and marine resources  N/A  
+(4) Transition to a circular economy  Vehicles of categories M1 and N1 are both of the following: 
+(a) reusable or recyclable to a minimum of 85 % by weight;
+(b) reusable or recoverable to a minimum of 95 % by weight (  478  ). 
+Measures are in place to manage waste both in the use phase (main ­
+tenance) and the end-of-life of the fleet, including through reuse and
+recycling of batteries and electronics (in particular critical raw materials
+therein), in accordance with the waste hierarchy.  
+(5) Pollution prevention and control  Vehicles comply with requirements of the most recent applicable stage of 
+the Euro 6 light-duty emission type-approval (  479  ) set out in in accordance 
+with Regulation (EC) No. 715/2007.
+Vehicles comply with the emission thresholds for clean light-duty vehicles

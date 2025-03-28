@@ -1,0 +1,92 @@
+File Name: 2_E1-6_2006-01-01_GHG-LuLu_WRI&WBCSD.pdf
+Converted on: 2025-03-28 03:18:22
+Original Size: 6.41 MB
+Chunk Size: 500 tokens with 50 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 77 of 88
+--------------------------------------------------------------------------------
+
+PARTIV:AnnexD
+89 GreenhouseGases Greenhousegasesaregasesthatabsorbandemitradiationatspecificwavelengthswithinthe
+(GHGs) spectrumofinfraredradiationemittedbytheearth’ssurface,theatmosphere,andclouds.Thesixmain
+GHGswhoseemissionsarecausedbyhumansarecarbondioxide(CO 2),methane(CH 4),nitrousoxide
+(N 2O),hydrofluorocarbons(HFCs),perfluorocarbons(PFCs),andsulfurhexafluoride(SF 6).
+LandUse Allthearrangements,activities,andinputsundertakeninacertainlandcovertype(asetofhuman
+actions)orthesocialandeconomicpurposesforwhichlandismanaged(e.g.,grazing,timber
+extraction,conservation).
+LegalRequirements AnymandatorylawsorregulationsthatdirectlyorindirectlyaffecttheGHGemissionsorremovals
+associatedwithaprojectactivityoritsbaselinecandidatesandthatrequiretechnical,performance,
+ormanagementactions.Legalrequirementsmayinvolveusingaspecifictechnology(e.g.,gas
+turbinesinsteadofdieselgenerators),meetingacertainstandardofperformance(e.g.,fuel
+efficiencystandardsforvehicles),ormanagingoperationsaccordingtocertaincriteriaorpractices
+(e.g.,forestmanagementpractices).
+Management PracticeAnactionorsetofactionsthataffecttheland,thecarbonstocksinpoolsassociatedwithit,orthe
+exchangeofgreenhousegaseswiththeatmosphere.
+MarketResponse Theresponseofalternativeprovidersorusersofaninputorproducttoachangeinthemarket
+supplyordemandcausedbytheprojectactivity.
+One-TimeEffects Secondaryeffectsrelatedtoaprojectactivity’sconstruction,installation,andestablishmentorits
+decommissionandtermination.
+PerformanceMetric AratethatrelatestheGHGremovalstothesizeofdifferentbaselinecandidatesforaspecifictime
+period,t.Performancemetricsareusedindevelopingperformancestandards.ForLULUCFprojects,
+theperformancemetricis
+GHGRemovals t
+Unitoflandarea
+PerformanceStandard AGHGremovalrateusedtodeterminebaselineGHGremovalsforaparticulartypeofprojectactiv -
+ity.AperformancestandardmaybeusedtoestimatebaselineGHGremovalsforanynumberof
+similarprojectactivitiesinthesamegeographicarea.
+PerformanceStandardAbaselineprocedurethatestimatesbaselineGHGremovalsusingaGHGremovalratederivedfrom
+Procedure anumericalanalysisoftheGHGremovalratesofallbaselinecandidates.Aperformancestandardis
+sometimesreferredtoasamulti-projectbaselineorbenchmarkbecauseitcanbeusedtoestimate
+baselineGHGremovalsformultipleprojectactivitiesofthesametype.
+Permanence Thelongevityofacarbonpoolandthestabilityofitsstockswithinitsmanagementanddisturbance
+environment.
+PrimaryEffect TheintendedchangecausedbyaprojectactivityinGHGemissions,removals,orstorageassociated
+withaGHGsourceorsink.ForLULUCFprojectactivities,thisincludesallbiologicalcarbonstock
+changescausedbytheprojectactivityontheprojectsite.Eachprojectactivitygenerallyhasonly
+oneprimaryeffect.TheprimaryeffectmustbedefinedrelativetobaselineGHGremovals.
+Project SeeGHGProject.
+ProjectActivity AspecificactionorinterventiontargetedatchangingGHGemissions,removals,orstorage.Itmay
+includemodificationsoforalterationstoexistingproduction,process,consumption,service,or
+managementsystems,aswellastheintroductionofnewsystems.
+ProjectDeveloper Aperson,company,ororganizationdevelopingaGHGproject.
+Project-Specific AbaselineprocedurethatestimatesbaselineGHGremovalsbyidentifyingabaselinescenario
+Procedure specifictotheproposedprojectactivity.
+Reforestation Thereestablishmentofforestcoveronclearedlandthatpreviouslywasforest.Foradditional
+informationonthedistinctionbetweenafforestationandreforestationanditsuseinthisguidance,
+seeannexB.
+
+--- Page 92 of 100 ---
+
+SecondaryEffect AnunintendedchangecausedbyaprojectactivityinGHGemissions,removals,orstorageassoci-
+atedwithaGHGsourceorsink.ForLULUCFprojectactivities,allsecondaryeffectsare
+nonbiologicalGHGchangescausedbytheprojectactivityandanybiologicalcarbonstockchanges
+thatoccurofftheprojectsite,forexample,owingtoamarketresponse.Secondaryeffectsare
+typicallysmallrelativetoaprojectactivity’sprimaryeffect,althoughsometimestheymayunder -
+mineornegatetheprimaryeffect.Secondaryeffectsareclassifiedas
+•One-timeeffects,changesinGHGemissionsassociatedwiththeconstruction/installation/
+establishmentordecommission/terminationoftheprojectactivity
+•Upstreamanddownstreameffects,changesinGHGemissionsassociatedwithinputstotheproject
+activity(upstream)orproductsfromtheprojectactivity(downstream),relativetothebaseline
+emissions.Upstreamanddownstreameffectsmayprovokemarketresponsestothechangesin
+supplyand/ordemandforprojectactivityinputsorproducts.
+Sequestration TheuptakeandstorageofCO 2,whichcanbesequesteredbyplantsorinundergroundordeep-sea
+reservoirs.
+StringencyLevel AGHGremovalratethatismorerestrictivethantheaverageGHGremovalrateofallbaseline
+candidates.StringencylevelsmaybespecifiedasaGHGremovalratecorrespondingtoacertain
+percentile(betterthanthe50thpercentile)ortothebaselinecandidatewiththehighestremoval
+rate.Stringencylevelsaredefinedinthecourseofdevelopingaperformancestandard.
+TemporalRange Acontiguoustimeperiodthathelpsdefinethefinallistofbaselinecandidates.Thetemporalrange
+canbedefinedbyanumberoffactors,suchasthedominanceofasinglepracticeforanextended
+periodoftime,thediversityofoptionsinasectororregion,and/oradiscretechangeinanarea’sor
+aregion’spolicy,technology,practice,orresource.
+Time-Based AperformancestandarddefinedastherateofGHGremovalsforabaselinecandidate’sunitoftime
+Performance Standard andlandarea.
+Upstream/Downstream Secondaryeffectsassociatedwiththeinputsused(upstream)ortheproductsproduced(downstream)
+Effects byaprojectactivity.
+WoodProducts Productsproducedfromharvestedfiber,includingfuelwood,logs,andtheprocessedproductssuch
+assawntimber,plywood,woodpulp,andpaper.
+PARTIV:AnnexD90
+
+--- Page 93 of 100 ---

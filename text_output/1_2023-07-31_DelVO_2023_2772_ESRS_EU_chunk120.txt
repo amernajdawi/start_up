@@ -1,0 +1,40 @@
+File Name: 1_2023-07-31_DelVO_2023_2772_ESRS_EU.pdf
+Converted on: 2025-03-28 03:20:41
+Original Size: 5.82 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 120 of 284
+--------------------------------------------------------------------------------
+
+AR 29 . The volume of pollutants shall be presented in mass units , for example tonnes or kilogrammes or other mass units appropriate for the volumes and type of pollutants being released . ( 60 ) Directive 2010 / 75 / EU of the European Parliament and of the Council of 24 November 2010 on industrial emissions ( integrated pollution prevention and control ) ( OJ L 334 , 17 . 12 . 2010 , p . 17 ) . OJ L , 22 . 12 . 2023 EN - - - Page 121 of 284 - - -
+
+ELI: http://data.europa.eu/eli/reg_del/2023/2772/oj 121/284Contextual information AR 30. The information provided under this Disclosure Requirement may refer to information the undertaking is already required to report under other existing legislation (i.e., Directive 2010/75/EU, Regulation (EC) No 166/2006 “E-PRTR”, etc.). Disclosure Requirement E2-6 – Anticipated financial effects from material pollution-related risks and opportunities AR 31. The operating and capital expenditures related to incidents and deposits may include for instance: (a) cost for eliminating and remediating the respective pollution of air, water and soil including environmental protection; (b) damage compensation costs including payment of fines and penalties imposed by regulators or government authorities. AR 32. Incidents may include for instance interruptions of production, whether arising from the supply chain and/or from own operations, which resulted in pollution. AR 33. The undertaking may include an assessment of its related products and services at risk over the short-, medium- and long-term, explaining how these are defined, how financial amounts are estimated, and which critical assumptions are made. AR 34. The quantification of the anticipated financial effects in monetary terms under paragraph 38(a) may be a single amount or a range.OJ L, 22.12.2023 EN 
+
+--- Page 122 of 284 ---
+
+ELI: http://data.europa.eu/eli/reg_del/2023/2772/oj 122/284ESRS E3
+WATER AND MARINE RESOURCES
+TABLE OF CONTENTS
+Objective
+Interaction with other ESRS
+Disclosure requirements
+– ESRS 2 General disclosures
+Impact, risk and opportunity management
+— Disclosure Requirement related to ESRS 2 IRO-1 – Description of the processes to identify and assess
+material water and marine resources-related impacts, risks and opportunities
+— Disclosure Requirement E3-1 – Policies related to water and marine resources
+— Disclosure Requirement E3-2 – Actions and resources related to water and marine resources
+Metrics and targets
+— Disclosure Requirement E3-3 – Targets related to water and marine resources
+— Disclosure Requirement E3-4 – Water consumption
+— Disclosure Requirement E3-5 – Anticipated financial effects from water and marine resources-related
+impacts, risks and opportunities
+Appendix A: Application Requirements
+– ESRS 2 General disclosures
+Impact, risk and opportunity management
+— Disclosure Requirement related to ESRS 2 IRO-1 – Description of the processes to identify and assess material water and marine resources-related impacts, risks and opportunities
+— Disclosure Requirement E3-1 – Policies related to water and marine resourcesOJ L, 22.12.2023 EN  
+
+--- Page 123 of 284 ---

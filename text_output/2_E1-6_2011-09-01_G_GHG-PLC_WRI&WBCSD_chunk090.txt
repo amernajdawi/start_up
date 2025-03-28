@@ -1,0 +1,40 @@
+File Name: 2_E1-6_2011-09-01_G_GHG-PLC_WRI&WBCSD.pdf
+Converted on: 2025-03-28 03:20:53
+Original Size: 3.27 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 90 of 116
+--------------------------------------------------------------------------------
+
+Appendix	B.  Land-Use Change Impacts   
+Box [B.1] Key concepts in land-use impacts
+Carbon stock refers to the total amount of carbon
+stored on a plot of land at any given time in one or
+more of the following carbon pools: biomass (above
+and below ground), dead organic matter (dead wood
+and litter), and soil organic matter.4  A change in carbon 
+stock can refer to additional carbon storage within
+a pool, the removal of CO2 from the atmosphere
+to the carbon stock, or the emission of CO2 to the
+atmosphere from the carbon stock.
+Land-use change  occurs when the demand for a 
+specific land use results in a change in carbon stocks
+on that land. A change in carbon stock can occur from
+one land-use category to another (e.g., converting
+forest to cropland) or within a land-use category (e.g.,
+converting a natural forest to a managed forest or
+converting agricultural land from till to no-till). Land-
+use change does not include changes in crop cover or
+crop rotations that occur within the cropland category
+or forest harvesting and regeneration into the same
+general forest type, for which the regenerated forest
+is expected to have comparable carbon stocks to the
+harvested forest.  Land-use categories include forest 
+land, cropland, grassland, wetlands, settlements, and
+other lands such as bare soil, rock, ice, etc.5
+Land-use change impacts are the emissions and
+removals due to land-use change.
+
+--- Page 120 of 148 ---

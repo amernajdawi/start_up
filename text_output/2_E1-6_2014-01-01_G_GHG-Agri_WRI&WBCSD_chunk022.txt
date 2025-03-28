@@ -1,0 +1,72 @@
+File Name: 2_E1-6_2014-01-01_G_GHG-Agri_WRI&WBCSD.pdf
+Converted on: 2025-03-28 03:20:54
+Original Size: 1.75 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 22 of 65
+--------------------------------------------------------------------------------
+
+The main ruminant livestock are cattle , buffalo , goats , sheep , and deer . Non - ruminant livestock ( horses , mules , donkeys ) and monogastric li vestock ( swine ) have relatively lower CH 4 emissions .  Quantity and composition of feed . Generally , the higher the feed intake , the higher the CH 4 emissions .  Age and size of livestock . Feed intake incr eases with animal size , growth rate , and production ( e . g . , milk production , w ool growth , or pregnancy ) .
+
+Soil amendments and soil management (N 2O)
+Direct and indirect emissions of N 2O also occur from soils following increases in
+available N (see Box 4-1) from:  
+ Synthetic N fertilizers and organic fertiliz ers (e.g., animal manure, compost, sewage
+sludge, and rendering waste).
+ Urine and dung that is deposited onto pastures, ranges and paddocks by grazing
+animals.
+ Incorporation of crop residue s into soils and N-fixati on by legumes. (Note: crop
+residue management and legume growing can  reduce field fertilizer requirements 
+and ultimately reduce overall soil N 2O emissions.)
+ N mineralisation  associated with the loss of soil organic matter and caused by 
+changes in land use or soil management, su ch as the drainage or management of
+organic soils (i .e. histosols).
+
+Manure management (CH
+4 and N 2O)
+Manure  management releases both CH 4 and N 2O, although the emissions of these GHGs 
+are influenced by different factors.
+
+--- Page 28 of 103 ---
+
+GHG Protocol Agricultural Guidance
+
+28
+
+CH 4 is emitted during the storage and treatmen t of manure under anaerobic conditions. It
+is most readily emitted when:
+ Large numbers of animals are managed in a confined area (e.g., dairy farms, beef
+feedlots, and swine and poultry farms).
+ When manure is stored or treated as a liquid (e.g., in lagoons, ponds, tanks, or pits).
+In contrast, when manure is handled as a soli d (e.g., in stacks or piles) or when it is
+deposited onto pastures and rangelands, it tends to decompose under more aerobic conditions, producing less CH
+4.
+N
+2O is emitted either directly or indirectly from stored or treated manures (see Box 4-1).
+N2O emissions are influenced by:
+ The N and C content of the manure, and the duration of storage and type of
+treatment.  
+ Temperature and time - comparatively simple forms of organic N, such as urea
+(mammals) and uric acid (poultry)  tend to lead to indirect N 2O emissions more 
+quickly.  
+ The leaching and run-off of N from treatment units.  
+
+--- Page 29 of 103 ---
+
+GHG Protocol Agricultural Guidance
+
+29
+ Box 4-1.  Indirect and direct N 2O emissions from soils 
+N2O emissions on farms are controlled by the suppl y of available N. Increases in available N,
+through the addition of fertilizers or animal wast es to soils, or from the storage and treatment of
+manure, stimulate denitrification and nitrification processes, which lead to N 2O emissions. The
+actual N 2O emissions may occur directly from the site of manure storage or fertilizer application,
+or they may occur indirectly, via leaching and volatilization . Volatilized N is ultimately deposited
+onto soils or onto the surface of lakes and other water bodies, where N 2O emissions then occur.
+Leached N leads to N 2O emissions in the groundwater below the farm and in ditches, rivers,
+estuaries, etc., that eventually recei ve the leachate. While indirect N 2O emissions may occur off
+the farm, they are accounted for in the same way as direct N 2O emissions in this Guidance.  
+
+   = Enhancement of denitrification and nitrif ication processes from increase in available N

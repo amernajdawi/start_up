@@ -1,0 +1,54 @@
+File Name: 1_2021-06-04_DelVO_2021_2139_TAXKRA_EU.pdf
+Converted on: 2025-03-28 03:20:30
+Original Size: 2.76 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 14 of 447
+--------------------------------------------------------------------------------
+
+(28)  The legal boundaries for transitional activities set out in Article 10(2) of Regulation (EU) 2020/852 provide 
+constraints in respect to greenhouse gas intensive activities with large potential for emission reduction. Such
+transitional activities should make a substantial contribution to climate change mitigation where no technologically
+and economically feasible low carbon alternative exists, provided they are compatible with a pathway to limit the
+temperature increase to 1,5 °C above pre-industrial levels, reflect best-in-class performance, do not hamper the
+development and deployment of low-carbon alternatives and do not lead to lock-in of carbon-intensive assets. In
+addition, Article 19 of the same Regulation requires, in particular, that the technical screening criteria should be
+based on conclusive scientific evidence. Where natural gas activities fulfil those requirements, they will be included
+in a future delegated act. For these activities, the technical screening criteria for assessing substantial contribution to
+climate change mitigation and ‘do no significant harm’ to other environmental objectives will be specified in that
+future delegated act. Activities that do not meet these requirements cannot be recognised under the Regulation
+(EU) 2020/852. In order to acknowledge the role of natural gas as an important technology in reducing
+greenhouse gas emissions, the Commission will consider a specific legislation to ensure that activities contributing
+to emissions reductions would not be deprived of appropriate financing.  
+(29)  The technical screening criteria for electricity or heat generation activities as well as for transmission and 
+distribution networks should ensure coherence with the Communication from the Commission of 14 October
+2020 on an EU strategy to reduce methane emissions (  10 ). It may therefore be necessary to review, complement, 
+and, where necessary, revise those technical screening criteria to reflect any future metrics and requirements
+established as follow-up to that strategy.  
+(30)  The technical screening criteria for the production of heating, cooling and power from bioenergy and the 
+production of biofuels and biogas for transport should be consistent with the comprehensive sustainability
+framework for those sectors laid down under Directive (EU) 2018/2001 of the European Parliament and of the
+Council (  11 ), setting requirements for sustainable harvesting, carbon accounting and greenhouse gas emission 
+savings.  
+(31)  In the follow-up of to the European Green Deal, the European Climate Law (  12 ) proposal, the EU Biodiversity 
+Strategy for 2030, and in accordance with the biodiversity and climate neutrality ambitions of the Union, technical
+screening criteria for bioenergy activities should be complemented, reviewed and where necessary revised to take
+into account the latest evidence base and policy developments at the time of adoption of the delegated act referred
+to in Article 15(2) of Regulation (EU) 2020/852 and taking into account relevant Union law, including Directive
+(EU) 2018/2001 and its future revisions.  
+(32)  Greenhouse gas emissions in the Union stemming from the water, sewerage, waste and remediation sector are 
+relatively small. That sector nevertheless has a great potential to contribute to reduce greenhouse gas emissions in
+other sectors, particularly through the provision of secondary raw materials to replace virgin raw materials,
+through replacing fossil-based products, fertiliser and energy, and through the transport and permanent storage
+of captured carbon dioxide. Furthermore, activities involving anaerobic digestion as well as composting of
+separately collected bio-waste, which avoid landfilling of bio-waste are particularly important for reducing
+methane emissions. The technical screening criteria for waste activities should therefore recognise those activities
+as substantially contributing to climate change mitigation, provided that those activities apply certain best practices
+for that sector. Those technical screening criteria should also ensure that waste treatment options are in line with
+higher levels of the waste hierarchy. The technical screening criteria should recognise as substantially contributing
+to climate change mitigation those activities that process a uniformly set minimum share of sorted separately
+collected non-hazardous waste into secondary raw materials. However, it is not possible at this stage for technical
+screening criteria based on a uniformly set target for reprocessing waste to address fully the climate mitigation
+potential of individual material streams. It may therefore be necessary to further assess and review those technical

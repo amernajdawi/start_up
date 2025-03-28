@@ -1,0 +1,40 @@
+File Name: 1_2023-06-27_DelVO_2023_2486_TAXURA_EU.pdf
+Converted on: 2025-03-28 03:20:36
+Original Size: 8.44 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 91 of 199
+--------------------------------------------------------------------------------
+
+--- Page 63 of 164 ---
+
+ELI: http://data.europa.eu/eli/reg_del/2023/2486/oj 63/164(3) Sustainable use and protec ­
+tion of water and marine
+resourcesThe activity complies with the criteria set out in Appendix B to this Annex.
+(5) Pollution prevention and
+controlMeasures are taken to reduce noise, vibrations, dust and pollutant emissions during construction or maintenance works. When choosing road surface types, low noise
+road surfaces are preferred, in accordance with the comprehensive criterion B7
+‘minimum requirements for low-noise pavement design’ of the EU Green Public
+Procurement Criteria for Road Design, Construction and Maintenance (
+131), and
+considering low-noise road surfaces a priority for all roads under the scope of Directive 2002/49/EC.
+(6)
+Protection and restoration
+of biodiversity and ecosys ­
+temsThe activity complies with the criteria set out in Appendix D to this Annex.
+3.5. Use of concrete in civil engineering
+Description of the activity
+Use of concrete for new construction, reconstruction, or maintenance (132)of civil engineering objects, except concrete road
+surfaces on the following elements: streets, motorways, highways, other vehicular and pedestrian ways, bridges, tunnels and
+aerodrome runways, taxiways and aprons that are covered under the economic activity ‘Maintenance of roads and
+motorways’ (See Section 3.4 of this Annex).
+An economic activity in this category could be associated with several NACE codes, in particular F42.12, F42.13, F42.2,
+F42.9, in accordance with the statistical classification for economic activities established by Regulation (EC) No 1893/2006.
+(131)Commission Staff Working Document. EU Green Public Procurement Criteria for Road Design, Construction and Maintenance (SWD
+(2016) 203), 2016, p. 15, column ‘comprehensive criteria’, (version of 27.6.2023: https://ec.europa.eu/environment/gpp/pdf/toolkit/
+roads/EN.pdf).
+(132)‘Maintenance of civil engineering objects’ is defined as all actions undertaken to maintain and restore the serviceability and level of service of roads.OJ L, 21.11.2023 EN  
+
+--- Page 64 of 164 ---

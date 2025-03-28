@@ -1,0 +1,161 @@
+File Name: 2_E1-6_2006-01-01_GHG-LuLu_WRI&WBCSD.pdf
+Converted on: 2025-03-28 03:20:49
+Original Size: 6.41 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 41 of 50
+--------------------------------------------------------------------------------
+
+Project)andtheperformancestandard.Theperformance
+standardstringencylevelselectedwastheweightedaverage.
+TableE.21givestheperformancestandardGHGremovals,
+theNipawinAfforestationprojectGHGremovals,andthe
+GHGreduction.Nosecondaryeffectsareincluded.
+FigureE.2showsthatthedifferenceintheGHGremovals
+betweentheperformancestandardandtheprojectactivity
+issmallinitially,butincreaseseachyear.Byyear20,the
+differenceintheGHGremovalsbetweentheperformance
+standardandtheprojectactivityisalmost22tCO 2/ha.
+Usingthebaselinescenario(project-specificprocedure)the
+baselineGHGremovalswouldbeverysimilar.Thetotal
+GHGreductionsforthe30,000hectaresintonnescarbon
+fromtheGHGprojectareshownintableE.22.Chapter11:CarbonReversibility
+ManagementPlan
+Thetworiskstohybridpoplarforestsarefireandinsects.
+Thecarbonreversibilitymanagementplanthereforeuses
+directsuppression,replacement,insurance,andbuffering
+strategiestomitigatecarbonreversal.
+1 . Directsuppression:Theriskoffireisrelativelylowfor
+hybridpoplarplantations,andtheNipawinAfforestation
+Projectislocatedinintensivelymanagedagricultural
+areas,thusreducingevenfurthertheriskoffire.Poplar
+isalsorelativelyinflammablecomparedwiththespruce
+locatedintheborealforestfarthernorth.Becausehybrid
+poplarisaspeciesnewtothisgeographicarea,little
+informationisavailableabouttheprobabilityofinsect
+infestation,butitwillbecarefullymonitoredthroughout
+theproject’slife.
+2 . Replacement:Anycarbonthatislostbecauseoffireor
+insectdamagewillbereplacedwithadditionalGHG
+reductionsboughtfromthemarket.
+3 . Insurance:Insur ancecompaniesofferplantationsinsur -
+anceforlossesfrominsectorfiredamage.Theinsurance
+paymentsfromanycarbonlossfromfireorinsectswillbe
+usedtobuyreplacementGHGreductionsfromthemarket.
+4 . Buffering:Asanadditionalprecaution,aproportion
+oftheGHGreductionsfromtheNipawinAfforestation
+Projectwillbewithheldtohelpcoveranycarbonrever -
+salscausedbyunpredictablenaturaldisturbancessuch
+asinsectsandfire.Theriskofafuturelossofcarbon
+sequesteredasaresultofinsectsandfireis15percent
+inoldnaturalforestinSaskatchewan(Lemprièreetal.
+2002).Forafforestation,theriskoflossissmaller
+becausetheplantationsarelocatedinintensively
+EXAMPLE :NipawinAfforestationProject 80 TABLEE.21 GHGRemovalsforthePerforman ce
+Standardandthe NipawinAfforest ation
+Project,andtheGHGReducti on
+tC O 2/h a tC O 2/h a tC O 2/h a
+10.00059 0.18 0.1827
+20.00158 0.59 0.5851
+30.00287 1.28 1.2805
+40.00407 2.38 2.3793
+50.00501 3.70 3.6983
+60.00567 5.17 5.1643
+70.00604 6.75 6.7406
+80.00615 8.36 8.3538
+90.00611 9.94 9.9306
+10 0.00592 11.51 11.5074
+11 0.00563 12.94 12.9377
+12 0.00528 14.34 14.3314
+13 0.00491 15.62 15.6151
+14 0.00450 16.83 16.8255
+15 0.00412 17.86 17.8525
+16 0.00374 18.85 18.8429
+17 0.00339 19.76 19.7599
+18 0.00305 20.53 20.5303
+19 0.00275 21.27 21.2639
+20 0.00247 21.89 21.8875
+21 00 0YEAR GHGREMOVAL S: GHG REMOV ALS: GHG
+PERFORMANCE NIPAWIN REDUCTION
+STANDARD AFFORESTATION
+PROJECT
+F I G U R E E . 2 TheDifferencebetween
+thePerformanceStandardand
+ProjectActivity’sGHGRemovals
+Y E A R 25
+20 15
+10
+50
+15 10 15 20 21
+BaselineGHGRemovals ProjectGHGRemovals tCO 2REMOVED
+
+--- Page 83 of 100 ---
+
+EXAMPLE:NipawinAfforestationProject
+81
+managedagriculturalland,soa5percentbufferwould
+bereasonable.Accordingly,95percentoftheGHG
+reductionsfromtheNipawinAfforestationProjectwill
+betradedonthemarket,and5percentwillbewithheld.
+Toestimatethemagnitudeoftheprimaryeffect,above-and
+belowgroundlivingbiomassandsoilcarbonwillbe
+monitoredastheyincreaseasaresultoftheprojectactivity.
+Deadbiomassdoesnotaccumulateinsignificantamounts
+andsowillnotbemonitored.Themonitoringfollowsthe
+IPCC’sGoodPracticeGuidanceforLULUCF(2003)and
+theOffsetSystemQuantificationProtocolforAfforestation
+Projects(Graham2006).
+Inaddition,theNationalForestInformationSystem(Natural
+ResourcesCanada2006)willbemonitoredforthenew
+afforestationdevelopmentsinthegeographicarea.Ifthe
+afforestationbecomessubstantial,thebaselineGHGremovals
+willneedtobere-estimatedoraland-usetrendfactorwill
+havetobeadded.N O T E S
+1Thesesoilzoneswereidentifiedasrelevantwhenidentifyingthe
+geographicarea,seesection5.3.
+2BecausetheCensusAgriculturalRegionsarequitelarge,theregions
+determinedtobeDarkGrayand/orBlackareabestestimate.
+3Thefinalareausedtodefinetheperformancestandardmightstill
+beasubsectionofthisbroadarea,asthefinallistofbaseline
+candidatesmayrepresentasubsectionofthistotalarea,e.g.,
+naturalpasturelandsneedtobeexcludedfromthisarea.
+4Asusedinthisdocument,agriculturallandreferstolandclassified
+as“TotalAreaofFarms”intheCensusAgriculturalRegionsin
+Alberta,Saskatchewan,andManitoba(StatisticsCanada1996,
+2001).
+5InternalWRIsource,notpublishedmaterial.
+6Lemprièreetal.2002.
+7TheF LU ,F MG ,andF IdefaultvaluescanbefoundintheIPCC(2003).
+8ThedefaultvaluescanbefoundintheIPCC(2003).
+9PersonalcommunicationwithAl-Pacpersonnel.
+10Tier1IPCCassumption.
+11TheF LU ,F MG ,andF IdefaultvaluescanbefoundintheIPCC(2003).
+12ThedefaultvaluescanbefoundintheIPCC(2003).
+13ThedefaultvaluescanbefoundintheIPCC(2003).
+14ThedefaultvaluescanbefoundintheIPCC(2003).Y E A R T O TA L G H G R E D U C T I O N tC O 2TABLE E.22GHGReductions UsingthePerformance
+StandardProcedure
+1 5,482.23
+2 17,552.75
+3 38,413.86
+4 71,377.89
+5 110,949.67
+6 154,930.01
+7 202,218.72
+8 250,615.38
+9 297,916.63
+10 345,222.48
+11 388,131.06
+12 429,941.51
+13 468,452.80
+14 504,764.93
+15 535,576.43
+16 565,287.93
+17 592,798.17
+18 615,908.42
+19 637,917.41
+20 656,625.98
+21 0
+
+--- Page 84 of 100 ---

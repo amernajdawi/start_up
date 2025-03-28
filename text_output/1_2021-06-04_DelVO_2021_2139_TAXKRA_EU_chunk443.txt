@@ -1,0 +1,53 @@
+File Name: 1_2021-06-04_DelVO_2021_2139_TAXKRA_EU.pdf
+Converted on: 2025-03-28 03:20:30
+Original Size: 2.76 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 443 of 447
+--------------------------------------------------------------------------------
+
+--- Page 343 of 349 ---
+
+(e) where the solution implemented is physical and consists in an activity for which technical screening criteria
+have been specified in this Annex, the solution complies with the do no significant harm technical screening
+criteria for that activity.
+5. In order for an activity to be considered as an enabling activity as referred to in Article 11(1), point (b), of
+Regulation (EU) 2020/852, the economic operator demonstrates, through an assessment of current and future
+climate risks, including uncertainty and based on robust data, that the activity provides a technology, product,
+service, information, or practice, or promotes their uses with one of the following primary objectives:
+(a) increasing the level of resilience to physical climate risks of other people, of nature, of cultural heritage, of
+assets and of other economic activities;
+(b) contributing to adaptation efforts of other people, of nature, of cultural heritage, of assets and of other
+economic activities.  
+Do no significant harm (‘DNSH’)  
+(1) Climate change mitigation  N/A  
+(3) Sustainable use and protection of
+water and marine resources  N/A  
+(4) Transition to a circular economy  N/A  
+(5) Pollution prevention and control  N/A  
+(6) Protection and restoration of
+biodiversity and ecosystems  N/A  
+13.3.  Motion picture, video and television programme production, sound recording and music publishing 
+activities  
+Description of the activity  
+Motion picture, video and television programme production, sound recording and music publishing activities
+include the production of theatrical and non-theatrical motion pictures whether on film, video tape or disc for
+direct projection in theatres or for broadcasting on television, supporting activities such as film editing, cutting or
+dubbing, distribution of motion pictures and other film productions to other industries as well as motion picture
+or other film productions projection. Buying and selling of motion picture or other film productions distribution
+rights is also included. These activities also include the sound recording activities, including the production of
+original sound master recordings, releasing, promoting and distributing them, publishing of music as well as sound
+recording service activities in a studio or elsewhere.  
+The economic activities in this category could be associated with NACE code J59 in accordance with the statistical
+classification of economic activities established by Regulation (EC) No 1893/2006.  
+Where an economic activity in this category complies with the substantial contribution criterion specified in
+point 5, the activity is an enabling activity as referred to in Article 11(1), point (b), of Regulation (EU)
+2020/852, provided that it meets the technical screening criteria set out in this Section.  
+Technical screening criteria  
+Substantial contribution to climate change adaptation  
+1. The economic activity has implemented physical and non-physical solutions (‘adaptation solutions’) that
+substantially reduce the most important physical climate risks that are material to that activity.EN  9.12.2021 Official Journal of the European Union L 442/343
+
+--- Page 344 of 349 ---

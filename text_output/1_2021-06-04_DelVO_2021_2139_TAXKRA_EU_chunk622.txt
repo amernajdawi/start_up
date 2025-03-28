@@ -1,0 +1,49 @@
+File Name: 1_2021-06-04_DelVO_2021_2139_TAXKRA_EU.pdf
+Converted on: 2025-03-28 03:18:03
+Original Size: 2.76 MB
+Chunk Size: 500 tokens with 50 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 622 of 966
+--------------------------------------------------------------------------------
+
+Do no significant harm (‘DNSH’)  
+(1) Climate change mitigation  The infrastructure is not dedicated to creating a direct connection, or 
+expanding an existing direct connection to a power production plant
+where the direct greenhouse gas emissions exceed 270 g CO  2 e/kWh.  
+(3) Sustainable use and protection of
+water and marine resources  N/A  
+(4) Transition to a circular economy  A waste management plan is in place and ensures maximal reuse or 
+recycling at end of life in accordance with the waste hierarchy,
+including through contractual agreements with waste management
+partners, reflection in financial projections or official project documen ­
+tation.  
+(5) Pollution prevention and control  Overground high voltage lines: 
+(a) for construction site activities, activities follow the principles of the
+International Finance Corporation (IFC) General Environmental, Health,
+and Safety Guidelines (  284  ). 
+(b) activities respect applicable norms and regulations to limit impact of
+electromagnetic radiation on human health, including for activities
+carried out in the Union, the Council recommendation on the limi ­
+tation of exposure of the general public to electromagnetic fields (0 Hz
+to 300 GHz) (  285  ) and for activities carried out in third countries the 
+1998 Guidelines of International Commission on Non-Ionizing
+Radiation Protection (ICNIRP) (  286  ). 
+Activities do not use PCBs polyclorinated biphenyls.  
+(6) Protection and restoration of
+biodiversity and ecosystems  The activity complies with the criteria set out in Appendix D to this 
+Annex (  287  ). 
+4.10.  Storage of electricity  
+Description of the activity  
+Construction and operation of facilities that store electricity and return it at a later time in the form of electricity.
+The activity includes pumped hydropower storage.  
+Where an economic activity is an integral element of the ‘Installation, maintenance and repair of renewable energy
+technologies’ as referred to in Section 7.6 of this Annex, the technical screening criteria specified in Section 7.6
+apply.  
+The economic activities in this category have no dedicated NACE code as referred to in the statistical classification
+of economic activities established by Regulation (EC) No 1893/2006.  
+___________  
+( 284  ) Environmental, Health, and Safety (EHS) Guidelines of 30 April 2007 (version of 4.6.2021: https://www.ifc.org/wps/wcm/connect / 
+29f5137d-6e17-4660-b1f9-02bf561935e5/Final%2B-%2BGeneral%2BEHS%2BGuidelines.pdf?MOD=AJPERES&CVID=jOWim3p).  
+( 285  ) Council Recommendation of 12 July 1999 on the limitation of exposure of the general public to electromagnetic fields (0 Hz to

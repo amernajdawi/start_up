@@ -1,0 +1,50 @@
+File Name: 2_E1-6_2014-01-01_G_GHG-Agri_WRI&WBCSD.pdf
+Converted on: 2025-03-28 03:18:26
+Original Size: 1.75 MB
+Chunk Size: 500 tokens with 50 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 81 of 108
+--------------------------------------------------------------------------------
+
+Land use
+category Definition
+Forest land An area of high concentra tion of woody biomass. Typically defined
+on the basis of a minimum tree height and canopy cover. Forests lands include plantations, primary fo rests, and naturally regenerated
+forests with evidence of human intervention   
+Cropland Includes rice fields and agro-forestry systems.
+Grassland Managed grasslands , rangelands, pasture land.
+Wetland Areas of peat extraction and land that is covered or saturated by water
+for all or part of the year (e.g., pe atlands) and that does not fall into
+other categories.
+Settlements All developed land (e.g., roads, buildings, etc.).
+
+9.3 Additional information that may be reported
+Besides the required and best practice reporting elements, companies may wish to report
+other information to enhance the transparency  and relevance of thei r inventories. This 
+information includes:
+ Data on the size of C stocks (in metric tonnes C per unit land area)
+ Biogenic CO
+2 flux data further subdivided by th e type of C stock (e.g., DOM versus
+biomass stocks)
+ Other GHG flux data further subdivided by the type of non-mechanical source (e.g.,
+enteric fermentation versus manure management)
+
+13 This Guidance follows the ‘land-based’ approach for recognizing LUC, as opposed to an ‘activities-
+based’ approach. Land-based approaches assess the net emissions of select land-use categories while
+activity-based approaches as sess the net emissions of select land-use activities. Both approaches can be
+used for developing national GHG inventories for the UNFCCC.  
+
+--- Page 74 of 103 ---
+
+GHG Protocol Agricultural Guidance
+
+74
+ Emissions of other GHGs (e.g., those of CFCs)
+ Performance metrics and a description of any allocation approach used in deriving
+these (see Appendix I)
+ A description of performance measured ag ainst internal or external benchmarks
+ An outline of current management practi ces and any GHG management strategies
+ GHG flux data for relevant scope 3 sources for which reliable da ta can be obtained
+ Information on the uncertainty of GHG flux data

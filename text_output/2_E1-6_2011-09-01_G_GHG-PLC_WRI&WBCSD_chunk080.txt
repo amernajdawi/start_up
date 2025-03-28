@@ -1,0 +1,110 @@
+File Name: 2_E1-6_2011-09-01_G_GHG-PLC_WRI&WBCSD.pdf
+Converted on: 2025-03-28 03:20:53
+Original Size: 3.27 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 80 of 116
+--------------------------------------------------------------------------------
+
+[101]
+guidancerequirements
+13.1 Introduction
+Reporting is crucial to ensure accountability and effective engagement with
+stakeholders. This chapter summarizes the various reporting requirements
+specified in other chapters and identifies additional reporting considerations
+that together  provide a credible reporting framework and enable users of reported data 
+to make informed decisions. It is essential that the reported information is based on the key
+accounting principles (relevance, accuracy, completeness, consistency, and transparency).
+13.2 Requirements
+Companies shall publicly report the
+following information to be in conformance
+with the GHG Protocol Product Standard:
+General information and scope
+• Contact information;
+• Studied product name and description;
+• The unit of analysis and reference flow;
+ •Type of inventory, cradle-to-grave or  
+    cradle-to-gate;   • Additional GHGs included in the 
+inventory;
+ •	Any	product	rules	or	sector-specific 	
+guidance used;
+•Inventory date and version;
+• For subsequent inventories, a link
+to previous inventory reports and
+description of any methodological
+changes; and
+ • A disclaimer stating the limitations  
+of various potential uses of the report
+including product comparison.
+
+--- Page 104 of 148 ---
+
+[102]   Product Life Cycle Accounting and Reporting Standardrequirements
+Boundary setting
+ •	Life	cycle	stage	definitions	and 	
+descriptions;
+• A process map including attributable
+processes in the inventory;
+ • Non-attributable processes included  
+in the inventory;
+ • Excluded attributable processes  
+and	justification	for	their	exclusion; 	
+ •	Justification	of	a	cradle-to-gate 	
+boundary, when applicable;
+•The time period; and
+• The method use to calculate land-use
+change impacts, when applicable.
+Allocation
+ •	Disclosure	and	justification	of	the 	
+methods used to avoid or perform
+allocation due to co-products or
+recycling; and
+• When using the closed loop
+approximation method, any displaced
+emissions and removals separately  
+from the end-of-life stage.
+Data collection and quality
+ •	For	significant	processes,	a	descriptive 	
+statement on the data sources, data
+quality,	and	any	efforts	taken	to	improve 	
+data quality.
+Uncertainty
+• A qualitative statement on inventory
+uncertainty and methodological choices.
+Methodological choices include:
+•Use and end-of-life profile;
+• Allocation methods, including allocation
+due to recycling;
+• Source of global warming potential
+(GWP) factors used;
+•Calculation models.
+Inventory results
+ • The source and date of the GWP  
+factors used;
+• Total inventory results in units of CO2e
+per unit of analysis, which includes all
+emissions and removals included in  
+the boundary from biogenic sources,  
+non-biogenic sources, and land-use
+change impacts;
+• Percentage of total inventory results by
+life cycle stage;
+ •	Biogenic	and	non-biogenic	emissions	and 	
+removals separately when applicable;
+• Land use impacts separately when
+applicable;
+• Cradle-to-gate and gate-to-gate
+inventory results separately (or a clear
+statement	that	confidentiality	is	a 	
+limitation to providing this information);
+• The amount of carbon contained in the
+product or its components that is not
+released to the atmosphere during waste
+treatment, when applicable; and
+• For cradle-to-gate inventories, the
+amount of carbon contained in the
+intermediate product.
+
+--- Page 105 of 148 ---

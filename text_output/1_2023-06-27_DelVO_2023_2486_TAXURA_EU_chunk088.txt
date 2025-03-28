@@ -1,0 +1,52 @@
+File Name: 1_2023-06-27_DelVO_2023_2486_TAXURA_EU.pdf
+Converted on: 2025-03-28 03:20:36
+Original Size: 8.44 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 88 of 199
+--------------------------------------------------------------------------------
+
+--- Page 61 of 164 ---
+
+ELI: http://data.europa.eu/eli/reg_del/2023/2486/oj 61/164(1) Climate change mitigationThe building owner or contractor ensures that during renovation, refurbishing or
+demolition activities implying the removal of foam panels, or laminated boards installed in cavities or built up structures, that contain foams with Fluorinated
+greenhouse gases, saturated and unsaturated Hydrofluorocarbons, and Ozone
+Depleting Substances, as defined in Regulation (EU) No 517/2014 and in Regulation
+(EU) No 1005/2009, the emissions are avoided to the extent possible by handling the
+foams or the gases contained therein in a way that ensures the reuse or destruction of
+the foam panels or the gases contained in the foams. The recovery of the gases
+contained in the foams is carried out by appropriately trained personnel.
+Where recovery of these foams is not technically feasible, the operator draws up
+documentation providing evidence for the infeasibility of the recovery in the specific
+case. Such documentation is retained for five years and is made available, on demand.
+(2) Climate change adaptation The activity complies with the criteria set out in Appendix A to this Annex.
+(3)
+Sustainable use and protec ­
+tion of water and marine resourcesThe activity complies with the criteria set out in Appendix B to this Annex.
+(5) Pollution prevention and controlMeasures are taken to reduce noise, dust and pollutant emissions during demolition and wrecking works.
+(6)
+Protection and restoration
+of biodiversity and ecosys ­
+temsThe activity complies with the criteria set out in Appendix D to this Annex.
+3.4. Maintenance of roads and motorways
+Description of the activity
+Maintenance of streets, roads and motorways, other vehicular and pedestrian ways, surface work on streets, roads,
+highways, bridges, tunnels, aerodrome runways, taxiways and aprons, defined as all actions undertaken to maintain and
+restore the serviceability (123)and level of service of roads (124). For bridges and tunnels, the economic activity only includes
+the maintenance of the road that runs on the bridge or through the tunnel. It does not include the maintenance of the
+bridge or tunnel itself.
+The economic activity includes routine maintenance, which can be scheduled on a periodical basis. The economic activity
+also includes preventive maintenance and rehabilitation which are defined as works undertaken to preserve or restore
+serviceability and to extend the service life (125)of an existing road. The maintenance operation is mainly dedicated to
+pavement management and concerns only the following main elements of the road: binder course, surface course and
+concrete slabs. The roads in the scope of this economic activity are made of asphalt, concrete or a combination of the two.
+The economic activities in this category could be associated with NACE code F42.11 in accordance with the statistical
+classification of economic activities established by Regulation (EC) No 1893/2006.
+(123)‘Serviceability’ refers to the conditions under which a built asset is still considered safe to use.
+(124)‘Level of service’ refers to a qualitative or quantitative measure to assess the infrastructure’s ability to cater to the traffic demands
+placed on it.
+(125)‘Service life’ refers to the period of use in service, i.e. from the date of construction until the date of reconstruction or demolition.OJ L, 21.11.2023 EN  
+
+--- Page 62 of 164 ---

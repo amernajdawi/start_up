@@ -1,0 +1,55 @@
+File Name: 1_2023-06-27_DelVO_2023_2486_TAXURA_EU.pdf
+Converted on: 2025-03-28 03:20:36
+Original Size: 8.44 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 69 of 199
+--------------------------------------------------------------------------------
+
+ELI: http://data.europa.eu/eli/reg_del/2023/2486/oj 49/164(5) Pollution prevention and
+control1.The facility is equipped to manage and store safely and in an environmentally sound
+manner hazardous substances, mixtures and components removed during the
+depollution operations.
+2.For end-of-life vehicles (ELVs), the facility complies with the requirements for sites for
+storage and treatment, depollution and treatment operations set in Annex I to Directive
+2000/53/EC.
+3.For waste from electrical and electronic equipment (WEEE), the facility complies with
+the requirements for proper treatment set out in Article 8 of Directive 2012/19/EU, in
+particular with the requirements for selective treatment for materials and components of
+WEEE set out in Annex VII to Directive 2012/19/EU and for storage and treatment
+operations set out in Annex VIII to Directive 2012/19/EU.
+The facility complies with normative requirements relevant to its activities for
+de-pollution set out in the standards EN 50625-1:2014 (65), EN 50625-2-1:2014 (66),
+EN 50625-2-2:2015 (67), EN 50625-2-3:2017 (68)and EN 50625-2-4:2017 (69).
+Implementation of such measures can also be demonstrated through compliance with
+regulatory requirements that are equivalent to those set out in the EN standards
+mentioned above.
+For the treatment of WEEE containing volatile fluorocarbons (VFCs) and volatile
+hydrocarbons (VHCs) and WEEE containing mercury, emissions are within or lower
+than the emission levels associated with the best available techniques (BAT-AEL) ranges
+as set out in the best available techniques (BAT) conclusions for waste treatment (70).
+4.For ship recycling, the facility complies with the requirements set out in Article 13 of
+Regulation (EU) No 1257/2013 and is included in the European List of ship recycling facilities established under that Regulation. The facility complies with the requirements
+set out in Article 7 of that Regulation with regards to the preparation of a ship-specific
+recycling plan prior to any recycling of a ship.
+(6)
+Protection and restoration
+of biodiversity and ecosys ­
+temsThe activity complies with the criteria set out in Appendix D to this Annex.
+2.7. Sorting and material recovery of non-hazardous waste
+Description of the activity
+Construction, upgrade, and operation of facilities for the sorting or recovery of non-hazardous waste streams into high
+quality secondary raw materials using a mechanical transformation process.
+(65)EN 50625-1:2014 Collection, logistics & Treatment requirements for WEEE – Part 1: General treatment requirements.
+(66)EN 50625-2-1:2014 Collection, logistics and treatment requirements for WEEE – Part 2-1: Treatment requirements for lamps.
+(67)EN 50625-2-2:2015 Collection, logistics & Treatment requirements for WEEE – Part 2-2: Treatment requirements for WEEE
+containing CRTs and flat panel displays.
+(68)EN 50625-2-3:2017 Collection, logistics & treatment requirements for WEEE – Part 2-3: Treatment requirements for temperature
+exchange equipment and other WEEE containing VFC and/or VHC.
+(69)EN 50625-2-4:2017 Collection, logistics & treatment requirements for WEEE – Part 2-4: Treatment requirements for photovoltaic
+panels.
+(70)Implementing Decision (EU) 2018/1147.OJ L, 21.11.2023 EN  
+
+--- Page 50 of 164 ---

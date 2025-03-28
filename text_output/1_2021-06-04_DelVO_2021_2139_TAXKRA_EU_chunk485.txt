@@ -1,0 +1,36 @@
+File Name: 1_2021-06-04_DelVO_2021_2139_TAXKRA_EU.pdf
+Converted on: 2025-03-28 03:18:03
+Original Size: 2.76 MB
+Chunk Size: 500 tokens with 50 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 485 of 966
+--------------------------------------------------------------------------------
+
+(h) vehicles of category N2 and N3, and N1classified as heavy-duty vehicles, not dedicated to transporting fossil
+fuels with a technically permissible maximum laden mass not exceeding 7,5 tonnes that are ‘zero-emission
+heavy-duty vehicles’ as defined in Regulation (EU) 2019/1242;  
+(i) vehicles of category N2 and N3 not dedicated to transporting fossil fuels with a technically permissible
+maximum laden mass exceeding 7,5 tonnes that are zero-emission heavy-duty vehicles’, as defined in
+Article 3, point (11), of Regulation (EU) 2019/1242 or ‘low-emission heavy-duty vehicles’ as defined in
+Article 3, point (12) of that Regulation;  
+(j) inland passenger water transport vessels that:  
+(i) have zero direct (tailpipe) CO  2 emissions;  
+(ii) until 31 December 2025, are hybrid or dual fuel vessels using at least 50 % of their energy from zero
+direct (tailpipe) CO  2 emission fuels or plug-in power for their normal operation;  
+(k) inland freight water transport vessels, not dedicated to transporting fossil fuels, that:  
+(i) have zero direct (tailpipe) CO  2 emission;  
+(ii) until 31 December 2025, have direct (tailpipe) emissions of CO  2 per tonne kilometre (g CO  2 /tkm), 
+calculated (or estimated in case of new vessels) using the Energy Efficiency Operational Indicator (  94 ), 
+50 % lower than the average reference value for emissions of CO  2 defined for heavy duty vehicles 
+(vehicle subgroup 5- LH) in accordance with Article 11 of Regulation (EU) 2019/1242;  
+(l) sea and coastal freight water transport vessels, vessels for port operations and auxiliary activities, that are not
+dedicated to transporting fossil fuels, that:  
+(i) have zero direct (tailpipe) CO  2 emissions;  
+(ii) until 31 December 2025, are hybrid and dual fuel vessels that derive at least 25 % of their energy from
+zero direct (tailpipe) CO  2 emission fuels or plug-in power for their normal operation at sea and in ports;  
+(iii) until 31 December 2025, and only where it can be proven that the vessels are used exclusively for
+operating coastal and short sea services designed to enable modal shift of freight currently transported
+by land to sea, the vessels that have direct (tailpipe) CO  2 emissions, calculated using the International 
+Maritime Organization (IMO) Energy Efficiency Design Index (EEDI) (  95 ), 50 % lower than the average

@@ -1,0 +1,33 @@
+File Name: 2_ESRS2_SBM1_2006-12-20_VO_NACER2_EU.pdf
+Converted on: 2025-03-28 01:56:34
+Original Size: 0.17 MB
+Chunk Size: 400 tokens with 50 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 109 of 109
+--------------------------------------------------------------------------------
+
+--- Page 38 of 39 ---
+
+Item No NACE Rev. 2 code Description
+Division 37 Sewerage
+Division 39 Remediation activities and other waste management services
+16 Division 38 Waste collection, treatment and disposal activities; materials recovery17 Section F Construction
+18 Service activities:
+Section G, except
+46.77Wholesale and retail trade; repair of motor vehicles and motorcycles
+Section H Transportation and storage
+Section I Accommodation and food service activitiesSection J Information and communicationSection K Financial and insurance activities
+Section L Real estate activities
+Section M Professional, scientific and technical activitiesSection N Administrative and support service activitiesSection O Public administration and defence; compulsory social security
+Section P Education
+Section Q Human health and social work activitiesSection R Arts, entertainment and recreationSection S Other service activities
+Section T Activities of households as employers; undifferentiated goods- and services-
+producing activities of households for own use
+Section U Activities of extraterritorial organisations and bodies
+19 Class 46.77 Wholesale of waste and scrap’L 393/38 EN Official Journal of the European Union 30.12.2006
+
+--- Page 39 of 39 ---
+
+ANNEX V Annex I, point (b) of Regulation (EC) No 808/2004 shall be replaced by the following: ‘(b) Coverage This module covers business activities within Sections C to N and R and Division 95 of the statistical classification of economic activities in the European Community (NACE Rev. 2). Section K will be included subject to successful priorpilot studies. The statistics will be compiled for enterprise units.’.30.12.2006 EN Official Journal of the European Union L 393/39

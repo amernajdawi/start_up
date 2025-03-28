@@ -1,0 +1,40 @@
+File Name: 1_2021-07-06_DelVO_2021_2178_TAXORA_EU.pdf
+Converted on: 2025-03-28 03:18:05
+Original Size: 10.30 MB
+Chunk Size: 500 tokens with 50 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 72 of 90
+--------------------------------------------------------------------------------
+
+(i) fee and commission income for distribution of products issued by entities outside the prudential group to its current
+customers;
+(j) loan servicing activities;
+(k) foreign exchange services and international transactions.
+The numerator of the KPI shall include the fees and commissions income as specified in Implementing Regulation (EU) No 680/2014, Annex V, paragraph 284 from services other than lending and asset management provided to undertakings,
+associated with Taxonomy-aligned economic activities. This shall be estimated by weighting the fees and commission
+income from each counterparty with the proportion of turnover and CapEx associated with Taxonomy-aligned economic
+activities of the undertaking contributing to the relevant environmental objective as disclosed by the undertaking in
+accordance with Article 8 of Regulation (EU) 2020/852. For financial undertakings, the ratio for the counterparty to be
+applied shall be the same as for the KPIs for these undertakings.
+The denominator shall be the total amount of fees and commission income from undertakings from products or services
+other than lending and asset management.
+1.2.4. Other disclosures in the GAR: GAR for the trading portfolio
+The trading portfolio shall be excluded from the denominator and coverage of the total GAR.
+Credit institutions shall provide explanations on the investment policy regarding their trading portfolio, overall
+composition, and on any trend in terms of predominant sectors and their association with Taxonomy-aligned economic
+activities. They shall also explain potential limits in terms of climate and environmental risks in terms of the level of
+association with Taxonomy-aligned economic activities and how they manage the environmental risks that may impact the
+value of the portfolio.
+Where a trading portfolio plays an important role in the business model of the credit institution, in particular where credit
+institutions do not meet the conditions set out in Article 94(1) of Regulation (EU) No 575/2013 or the conditions set out in
+Article 325a(1) of that Regulation, credit institutions shall disclose quantitative information and KPIs that show to what
+extent the institution is trading with environmentally sustainable assets and to what extent it is contributing to promoting
+the trading of this type of assets.
+Credit institutions shall disclose the following information:
+(a) total trading during the disclosure period in Taxonomy-aligned instruments, including absolute purchases plus absolute
+sales of environmentally sustainable securities;
+(b) total trading during the disclosure period of securities, including total absolute purchases plus total absolute sales of
+securities.
+Absolute purchases plus absolute sales of environmentally sustainable securities shall be included in the numerator of the specific GAR for the trading Portfolio of the credit institution. Total absolute purchases plus total absolute sales of

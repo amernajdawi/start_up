@@ -1,0 +1,94 @@
+File Name: 2_ESRS2_SBM1_2006-12-20_VO_NACER2_EU.pdf
+Converted on: 2025-03-28 03:20:56
+Original Size: 0.17 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 13 of 45
+--------------------------------------------------------------------------------
+
+--- Page 6 of 39 ---
+
+Article 19
+Amendment to Regulation (EC) No 1552/2005
+Regulation (EC) No 1552/2005 is hereby amended as follows:
+(1) ‘NACE Rev. 1.1’ shall be replaced by ‘NACE Rev. 2’
+throughout the text.
+(2) Article 2(2) shall be deleted.(3) Article 4 shall be replaced by the following:
+‘Article 4
+Scope of statisticsThe statistics on the vocational training in enterprises shall
+cover at least all economic activities defined in sections B toN and R to S of NACE Rev. 2.’ .
+SECTION III
+FINAL PROVISIONS
+Article 20
+Transitional provisions
+When complying with the requirements of Regulation (EC,
+Euratom) No 58/97, Member States shall transmit tothe Commission (Eurostat) structural business statistics referring
+to the calendar year 2008 according to both NACE Rev. 1.1 andNACE Rev. 2.
+For each of the Annexes to Regulation (EC, Euratom) No 58/97,
+the list of characteristics and the required breakdowns to betransmitted according to NACE Rev.1.1 shall be decidedin accordance with the procedure laid down in Article 13 ofthat Regulation.
+Article 21
+Entry into force
+This Regulation shall enter into force on the twentieth day
+following that of its publication in the Official Journal of theEuropean Union.
+It shall apply from 1 January 2008.
+This Regulation shall be binding in its entirety and directly applicable in all Member States.
+Done at Brussels, 20 December 2006.
+For the European Parliament
+The President
+J. BORRELL FONTELLESFor the Council
+The President
+J. KORKEAOJAL 393/6 EN Official Journal of the European Union 30.12.2006
+
+--- Page 7 of 39 ---
+
+ANNEX I
+NACE REV. 2
+n.e.c. : not elsewhere classified * part of
+Division Group ClassISIC
+Rev. 4
+SECTION A —AGRICULTURE, FORESTRY AND FISHING
+01 Crop and animal production, hunting and related service activities
+01.1 Growing of non-perennial crops
+01.11 Growing of cereals (except rice), leguminous crops and oil seeds 0111
+01.12 Growing of rice 0112
+01.13 Growing of vegetables and melons, roots and tubers 0113
+01.14 Growing of sugar cane 011401.15 Growing of tobacco 0115
+01.16 Growing of fibre crops 0116
+01.19 Growing of other non-perennial crops 0119
+01.2 Growing of perennial crops
+01.21 Growing of grapes 012101.22 Growing of tropical and subtropical fruits 0122
+01.23 Growing of citrus fruits 0123
+01.24 Growing of pome fruits and stone fruits 0124
+01.25 Growing of other tree and bush fruits and nuts 0125
+01.26 Growing of oleaginous fruits 012601.27 Growing of beverage crops 0127
+01.28 Growing of spices, aromatic, drug and pharmaceutical crops 0128
+01.29 Growing of other perennial crops 0129
+01.3 Plant propagation
+01.30 Plant propagation 0130
+01.4 Animal production
+01.41 Raising of dairy cattle 0141*01.42 Raising of other cattle and buffaloes 0141*
+01.43 Raising of horses and other equines 0142
+01.44 Raising of camels and camelids 0143
+01.45 Raising of sheep and goats 0144
+01.46 Raising of swine/pigs 014501.47 Raising of poultry 0146
+01.49 Raising of other animals 0149
+01.5 Mixed farming
+01.50 Mixed farming 0150
+01.6 Support activities to agriculture and post-harvest crop activities
+01.61 Support activities for crop production 0161
+01.62 Support activities for animal production 0162
+01.63 Post-harvest crop activities 0163
+01.64 Seed processing for propagation 0164
+01.7 Hunting, trapping and related service activities
+01.70 Hunting, trapping and related service activities 0170
+02 Forestry and logging
+02.1 Silviculture and other forestry activities
+02.10 Silviculture and other forestry activities 0210
+02.2 Logging
+02.20 Logging 0220
+02.3 Gathering of wild growing non-wood products
+02.30 Gathering of wild growing non-wood products 023030.12.2006 EN Official Journal of the European Union L 393/7
+
+--- Page 8 of 39 ---

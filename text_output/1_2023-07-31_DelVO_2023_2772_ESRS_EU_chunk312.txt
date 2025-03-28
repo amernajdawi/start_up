@@ -1,0 +1,41 @@
+File Name: 1_2023-07-31_DelVO_2023_2772_ESRS_EU.pdf
+Converted on: 2025-03-28 03:18:14
+Original Size: 5.82 MB
+Chunk Size: 500 tokens with 50 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 312 of 686
+--------------------------------------------------------------------------------
+
+ELI: http://data.europa.eu/eli/reg_del/2023/2772/oj 136/28415. The undertaking may disclose its transition plan to improve and, ultimately, achieve alignment of its business model
+and strategy with the vision of the Kunming-Montreal Global Biodiversity Framework and its relevant goals and
+targets, the EU Biodiversity Strategy for 2030, and with respecting planetary boundaries related to biosphere
+integrity and land-system change
+.
+Disclosure Requirement SBM 3 – Material impacts, risks and opportunities and their interaction with strategy and
+business model
+16. The undertaking shall disclose:
+(a) a list of material sites in its own operations, including sites under its operational control, based on the results of
+paragraph 17(a). The undertaking shall disclose these locations by:
+i. specifying the activities negatively affecting biodiversity sensitive areas (73);
+ii. providing a breakdown of sites according to the impacts and dependencies identified, and to the ecological
+status of the areas (with reference to the specific ecosystem baseline level) where they are located; and
+iii. specifying the biodiversity-sensitive areas impacted, for users to be able to determine the location and the
+responsible competent authority with regards to the activities specified in paragraph 16(a) i.
+(b) whether it has identified material negative impacts with regards to land degradation, desertification or soil
+sealing (74); and
+(c) whether it has operations that affect threatened species (75).
+Impact, risk and opportunity managementDisclosure Requirement related to ESRS 2 IRO-1 Description of processes to identify and assess material biodiversity
+and ecosystem-related impacts, risks, dependencies and opportunities
+17. The undertaking shall describe its process to identify material impacts, risks, dependencies and opportunities. The
+description of the process shall include whether and how the undertaking:
+(a) identified and assessed actual and potential impacts on biodiversity and ecosystems at own site locations and in
+the upstream and downstream value chain, including assessment criteria applied;
+(b) identified and assessed dependencies on biodiversity and ecosystems and their services at own site locations and
+in the upstream and downstream value chain, including assessment criteria applied, and, if this assessment
+includes ecosystem services that are disrupted or likely to be;
+(c) identified and assessed transition and physical risks and opportunities related to biodiversity and ecosystems,
+including assessment criteria applied based on its impacts and dependencies;
+(d) considered systemic risks;
+(73)This information supports the information needs of financial markets participants subject to Regulation (EU) 2019/2088 because it is

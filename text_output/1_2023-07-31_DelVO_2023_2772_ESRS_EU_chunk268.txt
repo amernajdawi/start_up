@@ -1,0 +1,55 @@
+File Name: 1_2023-07-31_DelVO_2023_2772_ESRS_EU.pdf
+Converted on: 2025-03-28 03:20:41
+Original Size: 5.82 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 268 of 284
+--------------------------------------------------------------------------------
+
+ELI: http://data.europa.eu/eli/reg_del/2023/2772/oj 269/284Habitat The place or type of site where an organism or population naturally occurs.
+Also used to mean the environmental attributes required by a particular
+species or its ecological niche.
+Habitat fragmentation A general term describing the set of processes by which habitat loss results
+in the division of continuous habitats into a greater number of smaller
+patches of lesser total size and isolated from each other by a matrix of
+dissimilar habitats. Habitat fragmentation may occur through natural
+processes (e.g., forest and grassland fires, flooding) and through human activities (forestry, agriculture, urbanisation).
+Harassment A situation where an unwanted conduct related to a protected ground of discrimination (for example, gender under Directive 2006/54/EC of the
+European Parliament and of the Council (
+15), or religion or belief, disability,
+age or sexual orientation under Council Directive 2000/78/EC (16)) occurs
+with the purpose or effect of violating the dignity of a person, and of
+creating an intimidating, hostile, degrading, humiliating or offensive
+environment.
+Hazardous waste Waste which displays one or more of the hazardous properties listed in
+Annex III of Directive 2008/98/EC of the European Parliament and of the
+Council (17)on waste.
+High climate impact sectors Sectors that are listed in Sections A to H and Section L of Annex I to
+Regulation (EC) No 1893/2006 of the European Parliament and of the
+Council (18)(as defined in Commission Delegated Regulation
+(EU) 2022/1288 (19)).
+Impacts The effect the undertaking has or could have on the environment and
+people, including effects on their human rights, connected with its own
+operations and upstream and downstream value chain, including through
+its products and services, as well as through its business relationships. The
+impacts can be actual or potential, negative or positive, intended or
+unintended, and reversible or irreversible. They can arise over the short-, medium-, or long-term. Impacts indicate the undertaking’s contribution,
+negative or positive, to sustainable development.
+Impact drivers All the factors that cause changes in nature, anthropogenic assets, nature’s
+contributions to people and a good quality of life. Direct drivers of change
+can be both natural and anthropogenic. They have direct physical
+(mechanical, chemical, noise, light etc.) and behaviour-affecting impacts on
+nature. They include, inter alia, climate change, pollution, different types of
+land use change, invasive alien species and zoonoses, and exploitation.
+(15)Directive 2006/54/EC of the European Parliament and of the Council of 5 July 2006 on the implementation of the principle of equal
+opportunities and equal treatment of men and women in matters of employment and occupation (OJ L 204, 26.7.2006, p. 23).
+(16)Council Directive 2000/78/EC of 27 November 2000 establishing a general framework for equal treatment in employment and occupation (OJ L 303, 2.12.2000, p. 16).
+(17)Directive 2008/98/EC of the European Parliament and of the Council of 19 November 2008 on waste and repealing certain Directives
+(OJ L 312, 22.11.2008, p. 3).
+(18)Regulation (EC) No 1893/2006 of the European Parliament and of the Council of 20 December 2006 establishing the statistical
+classification of economic activities NACE Revision 2 and amending Council Regulation (EEC) No 3037/90 as well as certain EC
+Regulations on specific statistical domains (OJ L 393, 30.12.2006, p. 1).
+(19)Commission Delegated Regulation (EU) 2022/1288 of 6 April 2022 supplementing Regulation (EU) 2019/2088 of the European
+Parliament and of the Council with regard to regulatory technical standards specifying the details of the content and presentation of

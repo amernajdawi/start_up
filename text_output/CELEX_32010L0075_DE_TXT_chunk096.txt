@@ -1,0 +1,124 @@
+File Name: CELEX_32010L0075_DE_TXT.pdf
+Converted on: 2025-03-28 03:18:33
+Original Size: 4.18 MB
+Chunk Size: 500 tokens with 50 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 96 of 163
+--------------------------------------------------------------------------------
+
+mg/Nm3 im Falle von  Anlagen, die mit Erdgas betrieben werden, und von 200 mg/Nm3 im Falle von  Anlagen, die 
+mit anderen
+Gasen
+oder flüssig en
+Brennstoffen
+betrieben
+werden.
+Für
+einen
+Teil einer
+Feuerungsanlage,
+dessen
+Abgase
+über
+einen
+oder mehrere g esonderte
+Kanäle
+in
+einem
+gemeinsamen
+Schornstein
+abgeleitet
+werden
+und
+der im gleitenden
+Durchschn itt
+über
+einen
+Zeitraum von fünf Jahren höchsten s 1
+500
+Betriebsstunden
+jährlich in Betrieb ist, k önnen
+die im vorangegan g
+enen Absatz
+in Abhängigkeit
+von der Feuerun gs
+­
+wärmeleistun g
+der gesamten
+Anlage
+festgelegten
+Emissionsgrenzwerte
+vorgeschrieben
+werden.
+In
+diesem Fall werden die
+durch jeden  
+der betreffenden
+Kanäle
+geleiteten
+Emissionen
+gesondert
+übe
+rwacht.
+Gasturbinen
+und
+Gasmotoren für den Notb etrieb,
+die weniger
+als 500 Betrieb sstunden
+jährlich in Betrieb sin d,
+fallen
+nicht
+unter
+die unter
+dieser Nummer aufg eführten
+Emissionsgrenzwerte.
+Die Betreib er
+solcher An lagen
+registrieren
+die
+geleisteten
+Betriebsstunden.
+7.
+Staub-Emissionsgrenzwerte
+ (in mg/Nm3) für mit festen oder flüssig en Brennstoffen betriebene Feuerungsanlagen  m i t  
+Ausnahme
+von
+Gasturbinen
+und
+Gasmotoren  
+Feuerungswärmeleistung (MW)Steinkohle und Braunkohle
+sowie andere feste Bren nstoffeBiomasse und Torf Flüssige Brennstoffe  (1)
+50-100 30 30 30
+100-300 25 20 25
+> 300 20 20 20
+Anmerkung:(
+1)Der Emissionsgrenzwert beträgt 50 mg/Nm3 für die Verfeuerun g von Destillation s- und Konversionsrückständen aus der Rohölraf­
+finierung
+für den
+Eigenverbrauch
+in
+Feuerungsanlagen,
+bei
+denen
+die Gene
+hmigung
+vor dem 27. Novemb er
+2002 erteilt oder für die
+vor diesem Zeitpun kt
+von
+deren
+Betreibern
+ein
+vollständiger
+Genehmigung
+santrag
+gestellt
+wurde, sofern  
+die Anlage
+spätestens
+zum
+27. Novemb er
+2003 in Betrieb g enommen
+wurde.

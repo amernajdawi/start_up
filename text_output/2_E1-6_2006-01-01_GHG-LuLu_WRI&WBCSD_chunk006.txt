@@ -1,0 +1,160 @@
+File Name: 2_E1-6_2006-01-01_GHG-LuLu_WRI&WBCSD.pdf
+Converted on: 2025-03-28 03:20:49
+Original Size: 6.41 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 6 of 50
+--------------------------------------------------------------------------------
+
+andassumptions appropriatetotheintendeduseofthereportedinformation . Completeness : Considerallrelevantinformationthatmay affecttheaccountingandquantificationofGHGreductions , andcompleteallrequirements . Consistency : Usedata , methods , criteria , andassumptions thatallowmeaningfulandvalidcomparisons . Transparency : Provideclearandsufficientinformationfor reviewerstoassessthecredibilityandreliabilityofGHG reductionclaims . Accuracy : Reduceuncertaintiesasmuchasispractical . Conservativeness : Useconservativeassumptions , values , andprocedureswhenuncertaintyishigh , anddonotoveres - timateGHGreductions . N O T E S 1Thisdiscussionisnotmeanttoreplacechapter2 , KeyGHGProject AccountingConcepts , oftheProjectProtocol , whichcontainsa completedescriptionoftheconceptsusedinthisdocument . 2Carbonstockreferstoallcarbonstoredinthemeasuredcarbonpools . - - - Page 16 of 100 - - - 14 PARTII : GHGReductionAccountingandReporting heGHGassessmentboundaryencompasses allGHGsourcesorsinksassociatedwithallprimary effectsandanysignificantsecondaryeffectsarisingfromeachprojectactivityintheGHGproject . DefiningtheGHGassessmentboundaryallowstheprojectdevelopertodecidewhichcarbonpools andotherpotentialsourcesorsinkstoincludeinthequantificationoftheGHGreductions . WhendefiningaGHGassessment boundary , • IdentifytheGHGprojectactivity ( oractivities ) . • Identifytheprimaryandsecondaryeffectsassociatedwitheachprojectactivity . • Analyzethosesecondaryeffectstodeterminewhicharerelevanttoestimatingandquantifying theGHGreductions . Definingthe GHGAssessmentBoundary T3
+
+--- Page 17 of 100 ---
+
+Thischaptercloselyfollowschapter5oftheProject
+Protocol,elaboratingoneachsectionasitappliesto
+LULUCFprojectactivitiesingeneralandtoreforestation
+andforestmanagementprojectactivitiesinparticular.
+3.1Identifying theProjectActivities
+TheProjectSite
+Theprojectsiteisthephysicalareawheretheprojectactiv -
+itywilltakeplace.ThefirststepinidentifyingtheGHG
+assessmentboundaryforaLULUCFprojectisensuringthat
+thelocationandsizeoftheprojectsiteareaccuratelyand
+completelydefined.Thelocationoftheprojectsiteisimpor -
+tantbecauseitisthebasisforaprojectactivity’scarbon
+stocksandcarbonstockchanges.Unlikeotherprojecttypes,
+thecarbonstocksforthesametypeofprojectactivityare
+differentatdifferentlocationsbecauseofvariationsina
+location’scharacteristics.Thepotentialstorageofcarbon
+alsodiffersdependingonthesizeoftheprojectsite.
+TheProjectActivity
+Oncethelocationandsizeoftheprojectsitehavebeen
+clearlydescribed,thesecondstepisidentifyingtheproject
+activityoractivitiesassociatedwiththeGHGproject.The
+projectactivityisthespecificactionorinterventiontargeted
+atchangingGHGemissionsorremovals.
+Whendefiningtheprojectactivity(ies), theprojectdeveloper
+shouldconsiderhowtheGHGprojectwilldifferfromcurrent
+land-usetrendsforsimilartypesofland.Forexample,a
+projectdevelopermaybetryingtoincreasethecarbon
+storageonaforestedsitethroughbetterforestmanagement
+practices.Butifthecurrentland-usetrendintheareais
+sellingforestedlandsfordevelopmentoragriculturaluse,the
+projectactivitymayinsteadbeforestconservation(i.e.,to
+avoiddeforestation)ratherthanforestmanagement.
+Reforestation ProjectActivities
+Theprojectactivityforreforestationprojectsischanging
+thelanduseandlandcoverfromanonforestusetoaforest
+useinordertoenhancecarbonstorage.Reforestation
+projectactivitiesinvolveplantingorrestoringtreeson
+landsthatarenotconsideredforest,1suchasagricultural
+orabandonedland.
+ForestManagement ProjectActivities
+Forestmanagement projectactivitiesmayincreaseoverall
+GHGremovalsandreduceGHGemissionsbymeansof
+variousmanagementactivitiesthatdependonthecharacter -
+isticsoftheprojectsiteandmanagementgoals.For
+example,theprojectdevelopermayimplementpracticesthat
+reduceGHGemissionsfromdisturbancesthroughinsectand
+firepreventionorcontrol,orenhancecarbonstorageby
+plantingimprovedordifferentspeciesofplantingstock.3.2IdentifyingPrimaryEffects
+PrimaryeffectsaretheintendedchangesinGHGemissions
+orremovalsassociatedwithaGHGsourceorsinkcausedby
+theprojectactivity.Theprincipalprimaryeffectcategory
+forLULUCFprojectactivitiesisanincreaseinbothCO 2
+removalsandcarbonstorageontheprojectsitebymeansof
+biologicalprocesses,particularlyinsoilandvegetation.
+Toestimatethemagnitudeoftheprimaryeffect,thecarbon
+sequesteredandstoredinoremittedfromallcarbonpools
+ontheprojectsiteshouldbeconsidered.Potentialcarbon
+poolsincludelivingbiomass,deadorganicmatter,andsoils.
+Allcarbonpoolsshouldbeincludedunlesstheprojectdevel-
+opercandemonstratethatapoolwillnotbecomeasource
+asaresultoftheprojectactivity.Anyaspectsoftheproject
+implementationthataffectthesecarbonpoolsshouldbe
+consideredwhencalculatingthemagnitudeoftheprimary
+effect.Chapter9offersamoredetaileddiscussionandalist
+ofreferencesforcarbonpoolsandhowtomeasureor
+estimatethem.CHAPTER3:DefiningtheGHGAssessmentBoundary
+
+--- Page 18 of 100 ---
+
+CHAPTER3:DefiningtheGHGAssessmentBoundar y 16 TA B L E 3 . 1 PotentialSecondaryEffectsoftheProjectActivity inReforestation
+andForestManagementProjectActivities
+ReforestationandForestManagementProjectActivitiesPOSSIBLE PROJECT IMPL EMENTAT ION
+ACTIONS CAUSING SECONDARY EFFECT(S)
+Fertilization,e.g.,on-sitefertilizerapplicationstoestablish
+treesand/orpromotetreegrowth.
+Herbicideapplication,e.g.,on-siteapplicationofherbicides
+toremoveunwantedvegetationduringsitepreparationorto
+controlweedsduringgrowingperiod.B
+Silviculture,e.g.,on-sitethinningorpruningoftrees.B
+Harvest,e.g.,on-siteremovaloftreesatendof
+harvestrotation.B
+Transportation,e.g.,on-oroff-sitetransportationof
+products,employees,andinputssuchasfertilizer.
+Insectorfirecontrol,e.g.,improvedon-site(andperhaps
+off-site)practicestoreduceinsectinfestationandfirerisk.
+Replanting,e.g.,on-sitereplantingoftreesafterharvest.
+Sitepreparation,e.g.,on-sitemechanicalclearingof
+vegetationandplantingpreparation.B
+Nurseryproductionofseedlings.
+Improvedharvestpractices,e.g.,selectiveharvesting
+practices.
+Reduced/selectivelogging,e.g.,on-siteincreaseinlength
+ofharvestrotationorselectivelyloggingbiggertreeswhile
+tryingtoreducedestructionofadjacenttrees.B
+Cessationoflogging,e.g.,on-sitedecisiontostoplogging
+activities.BTYPE OF
+SECONDARY EFFECT
+One-timeeffectorrecurrent
+upstreameffect.
+One-timeeffectorrecurrent
+upstreameffect.
+One-timeeffectorrecurrent
+upstreameffect.
+One-timeeffectorrecurrent
+downstreameffect.
+Upstreameffect.
+One-timeeffectorrecurrent
+downstreameffect.
+One-timeeffectorrecurrent
+upstreameffect.
+One-timeeffectorrecurrent
+upstreameffect.
+Upstreameffect.
+One-timeeffector
+recurrentupstreamand
+downstreameffect.
+Downstreameffect.
+Downstreameffect.POTENTI ALGHG EMISSIONS
+•N2Ofromfertilizer.
+•CO 2fromfossilfueluseduringapplication.
+•CO 2fromfertilizermanufacture.
+•CO 2fromfossilfueluseduringapplication.
+•CO 2fromherbicidemanufacture.
+•CO 2fromfossilfueluseduringthinning
+orpruning.
+•CO 2fromfossilfueluseduringharvest.
+•CO 2fromfossilfueluse.
+•CO 2fromfossilfueluseduringpesticide
+applicationorimplementationoffire
+retardationtechniques.
+•CO 2frompesticidemanufacture.
+•CO 2fromfossilfueluseduringreplanting.
+(Note:fertilizerapplications,etc.,are
+includedelsewhere.)
+•CO 2fromfossilfueluse.
+•CO 2fromfossilfueluse.
+•N2Ofromfertilizer.
+•CO 2fromfossilfueluse.
+•CO 2fromfossilfueluseduringlogging.
+•CO 2fromfossilfueluse.ReforestationProjectActivitiesOnly
+Fores tManagem entProjectActivitiesOnly
+AThemarketresponseslistedareresponsestothesecondaryeffects,nottheprimaryeffect.Therefore,theyaremorelikelytobesmallandmaybeinsignificant.
+BProjectdevelopersshouldmakesurethatanycarbonemittedorstoredthroughbiologicalprocessasaresultofthismanagementactivity—forexample,CO 2andCH 4from
+decayingvegetationorsoildisturbance—i scapturedintheprimaryeffect.
+
+--- Page 19 of 100 ---

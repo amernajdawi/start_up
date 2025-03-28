@@ -1,0 +1,18 @@
+File Name: 1_2021-06-04_DelVO_2021_2139_TAXKRA_EU.pdf
+Converted on: 2025-03-28 03:18:03
+Original Size: 2.76 MB
+Chunk Size: 500 tokens with 50 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 522 of 966
+--------------------------------------------------------------------------------
+
+efficiency of aluminium manufacturing (15,5 MWh/t Al).
+( 138  ) Reflecting the median value of the installations in 2016 and 2017 (t CO  2 equivalents/t) of the data collected in the context of 
+establishing the Commission Implementing Regulation (EU) 2021/447, determined on the basis of verified information on the
+greenhouse gas efficiency of installations reported pursuant to Article 11 of Directive 2003/87/EC.
+( 139  ) The aluminium manufactured is the unwrought non alloy liquid aluminium produced from electrolysis. 
+( 140  ) Commission Implementing Decision (EU) 2016/1032 of 13 June 2016 establishing best available techniques (BAT) conclusions, 
+under Directive 2010/75/EU of the European Parliament and of the Council, for the non-ferrous metals industries (OJ L 174,
+30.6.2016, p. 32).EN  9.12.2021 Official Journal of the European Union L 442/193

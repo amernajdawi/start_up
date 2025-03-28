@@ -1,0 +1,37 @@
+File Name: 1_2022-12-14_RL_2022_2464_CSRD_EU.pdf
+Converted on: 2025-03-28 03:18:06
+Original Size: 1.12 MB
+Chunk Size: 500 tokens with 50 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 181 of 204
+--------------------------------------------------------------------------------
+
+In any event, the name(s) of the person(s) involved shall be known to the relevant compet ent author ities.
+5. Member State s may require that, where the same statutor y auditor carries out the statut ory audit of annual
+financia l statements and the assurance of sustainability repor ting, the assurance repor t on sustainability repor ting
+may be included as a separate section of the audit repor t.
+6. The repor t of the statut ory auditor or the audit firm on the consolidated sustainability repor ting shall compl y
+with the requirements set out in paragraphs 1 to 5.’;
+(19) Article 29 is amended as follows :
+(a) in paragraph 1, point (d) is replaced by the following:
+‘(d) the persons who carry out quality assurance reviews shall have appropr iate professional education and
+relevant exper ience in statutor y audit and financial repor ting and, where applicable, in sustainability
+repor ting and in the assurance of sustainability repor ting or in other sustainability-related services,
+combined with specifi c training on quality assurance reviews;’;
+(b) in paragraph 1, point (f) is replaced by the followi ng:
+‘(f) the scope of the quality assurance review , suppor ted by adequate testing of selected audit files and, where
+applicable, assurance files, shall include an assessment of compl iance with applicable auditing standards and
+independence requirements and, where applicable, with assurance standards, and an assessment of the
+quantity and quality of resources spent, of the audit fees and fees charg ed for the assurance of sustainability
+repor ting, and of the intern al quality control system of the audit firm;’;
+(c) in paragraph 1, point (h) is replaced by the follo wing:
+‘(h) quality assurance reviews shall take place on the basis of an analysis of the risk and, in the case of statut ory
+auditors and audit firms carrying out statut ory audits as defined in point (a) of point 1 of Article 2 and,
+where applicable, carrying out assurance of sustainability repor ting, at least ever y six years;’;
+(d) in paragraph 2, point (a) is replaced by the follo wing:
+‘(a) reviewers shall have appropr iate professional education and relevant exper ience in statut ory audit and
+financial repor ting and, where applicable, in sustainability repor ting and in the assurance of sustainability
+repor ting or in other sustainability-related services, combined with specific training on quality assurance
+reviews;’;

@@ -1,0 +1,37 @@
+File Name: 1_2021-07-06_DelVO_2021_2178_TAXORA_EU.pdf
+Converted on: 2025-03-28 03:18:05
+Original Size: 10.30 MB
+Chunk Size: 500 tokens with 50 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 66 of 90
+--------------------------------------------------------------------------------
+
+1.2.1.4. GAR for loans and advances financing public housing and other specialised lending to public authorities
+Where credit institutions have a business model based to a great extent on financing public housing, they shall disclose a
+KPI concerning the proportion of compliance with the technical screening criteria in accordance with Section 7.7 of
+Annex I to Climate Delegated Act of buildings whose purchase the credit institution is financing. This GAR shall be
+estimated and disclosed by the credit institution as a proportion of loans to municipalities financing public housing
+compliant with the technical screening criteria in accordance with Section 7.7 of Annex I to Climate Delegated Act
+compared to total loans to municipalities financing public housing. The credit institution shall include disclosures of stock and flow.
+The methodology for the computation of the numerator and denominator shall be the same as the methodology for
+residential real estate lending.
+For the financing of other activities and assets than public housing, credit institutions shall consider the gross carrying
+amount of the project finance exposures to the public authority to the extent and proportion that the project funded
+finances a Taxonomy-aligned economic activity. The assessment of whether that requirement has been complied with shall
+be based on information provided by the public authority on the project or activities to which the proceeds will be applied.
+Credit institutions shall provide information on the type of economic activity that is funded. Double counting shall not be
+allowed. Where the same specialised lending exposure is relevant for two environmental objectives, credit institutions shall
+allocate it to the most relevant objective.
+1.2.1.5. Other on-balance sheet exposures – Repossessed real estate collaterals
+Credit institutions shall disclose the KPI for the proportion of compliance with the technical screening criteria in Section
+7.7 of Annex I to Climate Delegated Act of their commercial and residential repossessed real estate collateral held-for-sale
+portfolio for the environmental objective of climate change mitigation as a proportion of commercial and residential
+repossessed real estate collateral complying with the technical screening criteria in Section 7.7 of Annex I to Climate Delegated Act, compared to total commercial and residential repossessed real estate collateral.
+Credit institutions shall disclose information for the stock of loans as of the disclosure reference date, and information on
+the flows of new assets during the disclosure period.
+The numerator of the ratio shall include the gross carrying amount of commercial and residential repossessed real estate
+collaterals compliant with the technical screening criteria for buildings in Section 7.7 of Annex I to Climate Delegated Act.
+The denominator shall include the total gross carrying amount of held-for-sale commercial and residential real estate
+collaterals repossessed by the credit institution.

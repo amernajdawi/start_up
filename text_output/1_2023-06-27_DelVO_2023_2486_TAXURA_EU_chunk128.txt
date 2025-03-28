@@ -1,0 +1,48 @@
+File Name: 1_2023-06-27_DelVO_2023_2486_TAXURA_EU.pdf
+Converted on: 2025-03-28 03:20:36
+Original Size: 8.44 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 128 of 199
+--------------------------------------------------------------------------------
+
+ELI: http://data.europa.eu/eli/reg_del/2023/2486/oj 91/164(c) the best available techniques (BAT) conclusions for common waste water and waste gas treatment/management systems
+in the chemical sector (10);
+(d) the Best Available Techniques Reference Document (BREF) for the Large Volume Inorganic Chemicals – Solids and
+Others industry (11);
+(e) the Best Available Techniques Reference Document (BREF) for the manufacture of Large Volume Inorganic Chemicals – Ammonia, Acids and Fertilisers (
+12);
+(f) the Best Available Techniques Reference Document (BREF) for the production of speciality inorganic chemicals (SIC) (
+13); for the manufacturing activity under conditions not covered by the BATC mentioned above.
+Plants within the BAT-AEL range(s) moving to the mid-point ambition do not trigger any significant cross-media impact. Installations that have been granted a derogation in accordance with the procedure set out in Article 15(4) of Directive
+2010/75/EU are not considered as fulfilling the technical screening criteria for the period of the derogation.
+2.2. Where a continuous measurement methodology for a certain pollutant is available, the operator applies Continuous
+Emission Monitoring Systems (CEMS), Continuous Effluent Quality Monitoring Systems (CEQMS) and other measures
+ensuring the regular verification of non-deterioration of environment.
+2.3. The operator applies solvent waste segregation for solvent recovery from concentrated waste streams, where
+technically applicable.
+Solvents included in Table 1 of the European Medicines Agency ICH guideline Q3C (R8) on impurities: guideline for
+residual solvents (
+14)are avoided.
+The maximum solvents loss from total inputs does not exceed a 3 % loss. Total volatile organic compound (VOC) recovery
+efficiency is at least 99 %.
+The operator verifies that no fugitive VOC emission occurs beyond the criteria specified below as to the parts per million
+volumetric (ppmv) thresholds by carrying out Leak detection and repair (LDAR) campaigns, at least every 3 years.
+Investments for the use of high integrity equipment are recommended, provided that these are installed in existing plants
+for cases mentioned under BAT 23 point (b) of the best available techniques (BAT) conclusions for common waste gas
+management and treatment systems in the chemical sector (WGC), whereas the pressure threshold is brought to 200 bar.
+The minimal verification schedule may be reduced in cases where quantification of total VOC emissions from the plant is
+periodically qualified with tracer correlation (TC) or with optical absorption-based techniques, such as differential
+absorption light detection and ranging (DIAL) or solar occultation flux (SOX) or other measures of equivalent performance.
+Diffuse emissions of substances or mixtures classified as CMR1A or 1B from leaky equipment do not exceed a
+concentration of 100 ppmv (15).
+(10)Commission Implementing Decision (EU) 2016/902 of 30 May 2016 establishing best available techniques (BAT) conclusions, under
+Directive 2010/75/EU of the European Parliament and of the Council, for common waste water and waste gas treatment/management
+systems in the chemical sector (OJ L 152, 9.6.2016, p. 23).
+(11)Best Available Techniques (BAT) Reference Document for the Large Volumes Inorganic Chemicals- Solids and Others industry (version
+of 27.6.2023: https://eippcb.jrc.ec.europa.eu/sites/default/files/2019-11/lvic-s_bref_0907.pdf).
+(12)Best Available Techniques (BAT) Reference Document for the manufacture of Large Volume Inorganic Chemicals – Ammonia, Acids
+and Fertilisers (version of 27.6.2023: https://eippcb.jrc.ec.europa.eu/sites/default/files/2019-11/lvic_aaf.pdf).
+(13)The Best Available Techniques Reference Document (BREF) for the production of speciality inorganic chemicals (SIC) (version of 27.6.2023: https://eippcb.jrc.ec.europa.eu/reference/production-speciality-inorganic-chemicals).

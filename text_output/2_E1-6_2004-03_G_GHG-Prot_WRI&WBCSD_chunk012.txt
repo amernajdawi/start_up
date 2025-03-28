@@ -1,0 +1,19 @@
+File Name: 2_E1-6_2004-03_G_GHG-Prot_WRI&WBCSD.pdf
+Converted on: 2025-03-28 03:20:43
+Original Size: 3.51 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 12 of 104
+--------------------------------------------------------------------------------
+
+GHGintensity ( tonne of CO 2equivalent / tonne of crude steel ) . These indicators are key sustainability metrics in the steel sector world - wide , and help ensure market acceptability and competitiveness . Since the company adopted the GHG Protocol Corporate Standard , tracking performance has become more structured and stream - lined . This system allows Tata Steel quick and easy access to itsGHG inventory and helps the company maximize process andmaterial flow efficiencies . Tata Steel : Development of institutional capacity in GHG accounting and reporting - - - Page 17 of 116 - - -
+
+CHAPTER 2 Business Goals and Inventory Design 15GUIDANCEWhen Ford Motor Company, a global automaker, embarked on an effort to understand and reduce its GHG impacts, it wanted totrack emissions with enough accuracy and detail to managethem effectively. An internal cross-functional GHG inventory teamwas formed to accomplish this goal. Although the company wasalready reporting basic energy and carbon dioxide data at thecorporate level, a more detailed understanding of these emis-sions was essential to set and measure progress againstperformance targets and evaluate potential participation inexternal trading schemes. For several weeks, the team worked on creating a more compre- hensive inventory for stationary combustion sources, and quicklyfound a pattern emerging. All too often team members left meet-ings with as many questions as answers, and the same questionskept coming up from one week to the next. How should theydraw boundaries? How do they account for acquisitions anddivestitures? What emission factors should be used? And perhaps most importantly, how could their methodology be deemed credible with stakeholders? Although the team had noshortage of opinions, there also seemed to be no clearly right orwrong answers. TheGHG Protocol Corporate Standard helped answer many of these questions and the Ford Motor Company now has a morerobust GHG inventory that can be continually improved to fulfillits rapidly emerging GHG management needs. Since adopting theGHG Protocol Corporate Standard , Ford has expanded the coverage of its public reporting to all of its brands globally; it nowincludes direct emissions from sources it owns or controls andindirect emissions resulting from the generation of purchasedelectricity, heat, or steam. In addition, Ford is a founding memberof the Chicago Climate Exchange, which uses some of the GHG Protocol calculation tools for emissions reporting purposes.Ford Motor Company: Experiences using the GHG Protocol Corporate Standard
+
+--- Page 18 of 116 ---
+
+STANDARD 16usiness operations vary in their legal and organizational structures; they include wholly owned operations, incorporated and non-incorporated joint ventures, subsidiaries, and others. For the purposes of financial accounting,they are treated according to established rules that depend on the structure of theorganization and the relationships among the parties involved. In setting organi-zational boundaries, a company selects an approach for consolidating GHGemissions and then consistently applies the selected approach to define thosebusinesses and operations that constitute the company for the purpose ofaccounting and reporting GHG emissions. B3Setting Organizational Boundaries GUIDANCESTANDARD
+
+--- Page 19 of 116 ---

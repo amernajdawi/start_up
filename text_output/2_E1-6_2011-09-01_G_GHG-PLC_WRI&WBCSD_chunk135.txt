@@ -1,0 +1,42 @@
+File Name: 2_E1-6_2011-09-01_G_GHG-PLC_WRI&WBCSD.pdf
+Converted on: 2025-03-28 03:18:25
+Original Size: 3.27 MB
+Chunk Size: 500 tokens with 50 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 135 of 226
+--------------------------------------------------------------------------------
+
+[86]   Product Life Cycle Accounting and Reporting Standard
+requirements
+In addition to the total inventory results,
+companies shall quantify and report:
+ • Percentage of total inventory results  
+by life cycle stage
+ •	Biogenic	and	non-biogenic	emissions	and 	
+removals separately when applicable
+• Land-use change impacts separately
+when applicable
+• Cradle-to-gate and gate-to-gate
+inventory results separately or a clear
+statement	that	confidentiality	is	a 	
+limitation to providing this information
+Separately calculating and reporting these components of
+the inventory results adds transparency to the product’s
+life cycle and provides companies and their stakeholders with a better understanding of what type of emissions
+and removals dominate the inventory and where they
+occur along the life cycle.
+Companies shall not include the following
+when quantifying inventory results:
+•Weighting factors for delayed emissions
+•Offsets
+•Avoided emissions
+In a life cycle, particularly for products that have long
+use and end-of-life time periods, emissions may occur
+at different points in time and have different impacts
+on the atmosphere. Some methodologies try to capture
+this in the life cycle results by applying a weighting
+factor to account for emissions delayed over time (also
+
+--- Page 89 of 148 ---

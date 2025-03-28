@@ -1,0 +1,21 @@
+File Name: 1_2023-07-31_DelVO_2023_2772_ESRS_EU.pdf
+Converted on: 2025-03-28 03:18:14
+Original Size: 5.82 MB
+Chunk Size: 500 tokens with 50 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 566 of 686
+--------------------------------------------------------------------------------
+
+Disclosure Requirement S4-3 – Processes to remediate negative impacts and channels for consumers and end-users to
+raise concerns
+23. The undertaking shall describe the processes it has in place to provide for or cooperate in the remediation
+of negative impacts on consumers and end-users that the undertaking is connected with, as well as
+channels available to consumers and end-users to raise concerns and have them addressed.
+(118)This information supports the information needs of: financial market participants subject to Regulation (EU) 2019/2088 because it is
+derived from a mandatory indicator related to principal adverse impacts as set out by indicator #10 in Table I of Annex I of
+Commission Delegated Regulation (EU) 2022/1288 with regard to disclosure rules on sustainable investments (“Violations of UN
+Global Compact principles and Organisation for Economic Cooperation and Development (OECD) Guidelines for Multinational Enterprises”); and benchmark administrators to disclose ESG factors subject to Regulation (EU) 2020/1816 as set out by indicator “Number of benchmark constituents subject to social violations (absolute number and relative divided by all benchmark
+constituents), as referred to in international treaties and conventions, United Nations principles and, where applicable, national law”
+in section 1 and 2 of Annex II.OJ L, 22.12.2023 EN

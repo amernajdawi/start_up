@@ -1,0 +1,52 @@
+File Name: 1_2022-12-14_RL_2022_2464_CSRD_EU.pdf
+Converted on: 2025-03-28 03:20:33
+Original Size: 1.12 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 80 of 140
+--------------------------------------------------------------------------------
+
+(2) Article 2 is amended as follo ws:
+(a) point (5) is replaced by the followi ng:
+‘(5) “net turnover” means the amounts derived from the sale of products and the provision of services after
+deducting sales rebate s and value added tax and other taxe s directly linke d to turnover; however , for
+insurance under takings referred to in point (a) of the first subparagraph of Article 1(3) of this Directive, “net
+turnover” shall be defined in accordance with Article 35 and point 2 of Article 66 of Council Directive
+91/674/EEC (*); for credit institutions refer red to in point (b) of the first subparagraph of Article 1(3) of this
+Directive, “net turnover” shall be defined in accordance with point (c) of Article 43(2) of Council Directive
+86/635/EEC (**); and for under takings falling under the scope of Article 40a(1) of this Directive, “net
+turnover” means the revenue as defined by or within the meaning of the financial repor ting framew ork on
+the basis of whic h the financia l statements of the under taking are prepared;
+_____________
+(*) Council Directive 91/674/EEC of 19 December 1991 on the annual accounts and consolidat ed accounts of
+insurance under takings (OJ L 374, 31.12.1991, p. 7).
+(**) Council Directive 86/635/EEC of 8 December 1986 on the annual accounts and consolidate d accounts of
+banks and other financial institutions (OJ L 372, 31.12.1986, p. 1).’;
+(b) the followi ng points are added:
+‘(17) “sustainability matters” means environmental, social and human rights, and governance factors, including
+sustainability factors defined in point (24) of Article 2 of Regulation (EU) 2019/2088;
+(18) “sustainability repor ting” means repor ting information relat ed to sustainability matters in accordance with
+Articles 19a, 29a and 29d;
+(19) “key intangible resources” means resources without physical substance on which the business model of the
+under taking fundamentally depends and which are a source of value creation for the under taking;
+(20) “independent assurance services provider” means a conf ormity assessment body accredited in accordance
+with Regulation (EC) No 765/2008 of the European Parliament and of the Council (*) for the specific
+conf ormity assessment activity refer red to in point (aa) of the second subparagraph of Article 34(1) of this
+Directive.
+_____________
+(*) Regulation (EC) No 765/2008 of the European Parliament and of the Council of 9 July 2008 setting out the
+requirements for accreditation and repealing Regulation (EEC) No 339/93 (OJ L 218, 13.8.2008, p. 30).’;
+(3) in Article 19(1), the followi ng subparagraph is added:
+‘Large under takings, and small and medium-sized under takings, excep t micro under takings, which are public-int erest
+entities as defined in point (a) of point (1) of Article 2 shall repor t information on the key intangible resources and
+explain how the business model of the under taking fundamentally depends on such resources and how such
+resources are a source of value creation for the under taking.’;
+(4) Article 19a is replaced by the following:
+‘Article 19a
+Sust ainability repor ting
+1. Larg e under takings, and small and medium-sized under takings, excep t micro under takings, which are public-
+inter est entities as defined in point (a) of point (1) of Article 2 shall include in the management repor t information
+necessar y to understand the under taking’s impact s on sustainability matters, and information necessar y to
+understand how sustainability matters affect the under taking’s development, performa nce and position.EN Offi cial Jour nal of the European Union L 322/42 16.12.2022

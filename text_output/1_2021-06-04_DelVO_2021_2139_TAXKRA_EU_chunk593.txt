@@ -1,0 +1,48 @@
+File Name: 1_2021-06-04_DelVO_2021_2139_TAXKRA_EU.pdf
+Converted on: 2025-03-28 03:18:03
+Original Size: 2.76 MB
+Chunk Size: 500 tokens with 50 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 593 of 966
+--------------------------------------------------------------------------------
+
+(4) Transition to a circular economy  The activity assesses availability of and, where feasible, uses equipment and 
+components of high durability and recyclability and that are easy to
+dismantle and refurbish.  
+(5) Pollution prevention and control  Measures are in place to minimise toxicity of anti-fouling paint and 
+biocides as laid down in Regulation (EU) No 528/2012, which implements
+in Union law the International Convention on the Control of Harmful
+Anti-fouling Systems on Ships adopted on 5 October 2001.  
+(6) Protection and restoration of
+biodiversity and ecosystems  The activity complies with the criteria set out in Appendix D to this 
+Annex.
+The activity does not hamper the achievement of good environmental
+status, as set out in Directive 2008/56/EC, requiring that the appropriate
+measures are taken to prevent or mitigate impacts in relation to that
+Directive’s Descriptor 1 (biodiversity), laid down in Annex I to that
+Directive, and as set out in Decision (EU) 2017/848 in relation to the
+relevant criteria and methodological standards for that descriptor.  
+4.5.  Electricity generation from hydropower  
+Description of the activity  
+Construction or operation of electricity generation facilities that produce electricity from hydropower.  
+The economic activities in this category could be associated with several NACE codes, in particular D35.11 and
+F42.22 in accordance with the statistical classification of economic activities established by Regulation (EC)
+No 1893/2006.  
+Technical screening criteria  
+Substantial contribution to climate change adaptation  
+1. The economic activity has implemented physical and non-physical solutions (‘adaptation solutions’) that
+substantially reduce the most important physical climate risks that are material to that activity.
+2. The physical climate risks that are material to the activity have been identified from those listed in
+Appendix A to this Annex by performing a robust climate risk and vulnerability assessment with the
+following steps:
+(a) screening of the activity to identify which physical climate risks from the list in Appendix A to this Annex
+may affect the performance of the economic activity during its expected lifetime;
+(b) where the activity is assessed to be at risk from one or more of the physical climate risks listed in Appendix A
+to this Annex, a climate risk and vulnerability assessment to assess the materiality of the physical climate risks
+on the economic activity;
+(c) an assessment of adaptation solutions that can reduce the identified physical climate risk.
+The climate risk and vulnerability assessment is proportionate to the scale of the activity and its expected lifespan,
+such that:
+(a) for activities with an expected lifespan of less than 10 years, the assessment is performed, at least by using

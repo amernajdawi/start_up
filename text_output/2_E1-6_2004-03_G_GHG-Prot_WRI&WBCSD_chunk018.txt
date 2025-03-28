@@ -1,0 +1,33 @@
+File Name: 2_E1-6_2004-03_G_GHG-Prot_WRI&WBCSD.pdf
+Converted on: 2025-03-28 03:20:43
+Original Size: 3.51 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 18 of 104
+--------------------------------------------------------------------------------
+
+Government reporting and emissions trading programs.
+Government regulatory programs will always need to
+monitor and enforce compliance. Since complianceresponsibility generally falls to the operator (notequity holders or the group company that has financialcontrol), governments will usually require reportingon the basis of operational control, either through afacility level-based system or involving the consolida-tion of data within certain geographical boundaries(e.g. the EU ETS will allocate emission permits to theoperators of certain installations).
+
+Liability and risk management. While reporting and
+compliance with regulations will most likely continueto be based directly on operational control, the ulti-mate financial liability will often rest with the groupcompany that holds an equity share in the operation orhas financial control over it. Hence, for assessing risk,GHG reporting on the basis of the equity share andfinancial control approaches provides a more completepicture. The equity share approach is likely to result inthe most comprehensive coverage of liability and risks.In the future, companies might incur liabilities forGHG emissions produced by joint operations in whichthey have an interest, but over which they do not havefinancial control. For example, a company that is anequity shareholder in an operation but has no financialcontrol over it might face demands by the companieswith a controlling share to cover its requisite share ofGHG compliance costs.
+
+Alignment with financial accounting. Future financial
+accounting standards may treat GHG emissions asliabilities and emissions allowances / credits as assets.To assess the assets and liabilities a company createsby its joint operations, the same consolidation rules
+that are used in financial accounting should be appliedin GHG accounting. The equity share and financialcontrol approaches result in closer align ment between
+GHG accounting and financial accounting.
+
+Management information and performance tracking.
+For the purpose of performance tracking, the control
+approaches seem to be more appropriate sincemanagers can only be held accountable for activitiesunder their control.
+Cost of administration and data access. The equity
+share approach can result in higher administrativecosts than the control approach, since it can be diffi-cult and time consuming to collect GHG emissionsdata from joint operations not under the control of thereporting company. Companies are likely to havebetter access to operational data and therefore greaterability to ensure that it meets minimum quality standards when reporting on the basis of control.
+
+Completeness of reporting. Companies might find it
+difficult to demonstrate completeness of reportingwhen the operational control criterion is adopted,since there are unlikely to be any matching records orlists of financial assets to verify the operations thatare included in the organizational boundary.CHAPTER 3 Setting Organizational Boundaries 21GUIDANCE In the oil and gas industry, ownership and control structures areoften complex. A group may own less than 50 percent of aventure’s equity capital but have operational control over theventure. On the other hand, in some situations, a group may holda majority interest in a venture without being able to exert opera-tional control, for example, when a minority partner has a vetovote at the board level. Because of these complex ownership andcontrol structures, Royal Dutch/Shell, a global group of energyand petrochemical companies, has chosen to report its GHG emis-sions on the basis of operational control. By reporting 100 percentof GHG emissions from all ventures under its operational control,irrespective of its share in the ventures’ equity capital, RoyalDutch/Shell can ensure that GHG emissions reporting is in linewith its operational policy including its Health, Safety andEnvironmental Performance Monitoring and Reporting Guidelines.Using the operational control approach, the group generates datathat is consistent, reliable, and meets its quality standards. Royal Dutch/Shell:
+Reporting on the basis of operational control
+
+--- Page 24 of 116 ---

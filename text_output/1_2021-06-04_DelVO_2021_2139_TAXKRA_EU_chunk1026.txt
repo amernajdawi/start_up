@@ -1,0 +1,31 @@
+File Name: 1_2021-06-04_DelVO_2021_2139_TAXKRA_EU.pdf
+Converted on: 2025-03-28 01:55:25
+Original Size: 2.76 MB
+Chunk Size: 400 tokens with 50 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 1026 of 1091
+--------------------------------------------------------------------------------
+
+contractual agreements with recycling partners, reflection in financial
+projections or official project documentation.
+At its end of life, the equipment undergoes preparation for re-use, recovery
+or recycling operations, or proper treatment, including the removal of all
+fluids and a selective treatment in accordance with Annex VII to Directive
+2012/19/EU.  
+(5) Pollution prevention and control  N/A  
+(6) Protection and restoration of
+biodiversity and ecosystems  N/A  
+___________  
+( 622  ) Nature-based solutions are defined as ‘solutions that are inspired and supported by nature, which are cost-effective, simulta neously 
+provide environmental, social and economic benefits and help build resilience. Such solutions bring more, and more diverse, nat ure
+and natural features and processes into cities, landscapes and seascapes, through locally adapted, resource-efficient and syste mic
+interventions’. Therefore, nature-based solutions benefit biodiversity and support the delivery of a range of ecosystem service s
+(version of 4.6.2021: https://ec.europa.eu/info/research-and-innovation/research-area/environment/nature-based-solutions_en/).  
+( 623  ) See Communication from the Commission to the European Parliament, the Council, the European Economic and Social Committee 
+and the Committee of the Regions: Green Infrastructure (GI) — Enhancing Europe’s Natural Capital (COM/2013/0249 final).  
+( 624  ) The most recent version of the European Code of Conduct on Data Centre Energy Efficiency is the latest version published at t he 
+Joint Research Centre European Energy Efficiency Platform (E3P) website, https://e3p.jrc.ec.europa.eu/communities/data-centres-  
+code-conduct, with a transition period of six months starting from the day of its publication (the 2021 version is available at  
+https://e3p.jrc.ec.europa.eu/publications/2021-best-practice-guidelines-eu-code-conduct-data-centre-energy-efficiency).

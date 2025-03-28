@@ -1,0 +1,99 @@
+File Name: 2_E1-6_2014-01-01_G_GHG-Agri_WRI&WBCSD.pdf
+Converted on: 2025-03-28 03:20:54
+Original Size: 1.75 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 14 of 65
+--------------------------------------------------------------------------------
+
+ The reporting period covered.  
+ Data for all seven GHGs
+(CO 2, CH 4, N2O, SF 6, PFCs,
+HFCs and NF 3),
+disaggregated by GHG and
+reported in units of both
+metric tonnes and tonnes
+CO 2-equivalent (CO 2e).  
+ Total scope 1 and 2
+emissions.  
+ Data disaggregated by scope.  Scope 1 data disaggregated by
+mechanical versus non-
+mechanical sources.
+ Data reported in the scopes
+without subtractions for trades in offsets.   
+ Methodologies used to
+calculate or measure
+emissions, providing a
+reference or link to any
+calculation tools used.  
+ Whether the calculation
+methodologies used for ‘non-
+mechanical’ sources are IPCC
+Tier 1, 2, or 3.
+ Methodology used (where
+relevant) to amortize the CO 2
+fluxes to/from C stocks.
+ Assumptions regarding any use
+of proxy data in calculating the
+impacts of historical changes in
+management on C stocks.  
+
+--- Page 14 of 103 ---
+
+GHG Protocol Agricultural Guidance
+
+14
+ Year chosen as base year, and
+an emissions profile over time that is consistent with and clarifies the chosen policy for making base year emissions recalculations.
+
+ Appropriate context for any
+significant emissions changes
+that trigger base year
+emissions recalculation.  
+ Any specific exclusions of
+sources, facilities, and / or operations.
+ Any exclusions of the impacts
+of historical management
+practices on C stocks.
+ CO 2 emissions from
+biologically sequestered
+carbon, separately from the
+scopes.
+ Biologically sequestered
+carbon reported outside of the
+scopes (but is optional to
+report).  Net CO 2 flux data for the C
+stocks in above-ground and
+below-ground biomass, DOM
+and soils (in tonnes CO 2).
+ Where LUC results in a
+reduction in the size of C
+stocks, report the CO 2
+emissions in Scope 1.
+ Otherwise, report all CO 2
+fluxes outside of the scopes in
+a separate category (‘Biogenic
+Carbon’) divided into three
+components: (1) CO 2 fluxes
+(emissions or removals) during
+land use management; (2)
+Sequestration during LUC;
+and (3) CO 2 emissions from
+biofuel combustion.  
+ Account for historical changes
+in land use or management
+occurring on or after the base
+period.
+ Use a ‘fixed-rate’ approach to
+amortize change in C stocks
+over time.
+
+--- Page 15 of 103 ---
+
+GHG Protocol Agricultural Guidance
+
+15
+1.6 How does this Guidance relate to the GHG Protocol Product
+Standard?

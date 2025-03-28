@@ -1,0 +1,201 @@
+File Name: 2_E1-6_2014-01-01_G_GHG-Agri_WRI&WBCSD.pdf
+Converted on: 2025-03-28 03:18:26
+Original Size: 1.75 MB
+Chunk Size: 500 tokens with 50 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 95 of 108
+--------------------------------------------------------------------------------
+
+90
+ Tool GHG Operation  CO 2 
+N2O
+CH 4
+Cropland
+Horticulture
+Grazing land
+Grassland
+Agroforestry
+Wineyards /
+Orchards
+Livestock
+Forest
+Land use
+change
+Rice
+production
+Wetlands
+Energy use
+COMET-VR: CarbOn
+Management
+Evaluation Tool for
+Voluntary Reporting of
+greenhouse gases V2.0    
+
+Cool Farm Tool    
+
+C-PLAN                
+CQuest Lite                            
+Dairy Greenhouse Gas
+Model (DairyGHG)                          
+Dia’terre                 
+DNDC NUGGET                    
+FarmGas                
+Farming enterprise
+Greenhouse Gas
+Emissions Calculator                    
+Field to Market
+Fieldprint Calculator                        
+Full Carbon
+Accounting Model
+(FullCAM)                
+
+--- Page 91 of 103 ---
+
+GHG Protocol Agricultural Guidance
+
+91
+ Tool GHG Operation  CO 2 
+N2O
+CH 4
+Cropland
+Horticulture
+Grazing land
+Grassland
+Agroforestry
+Wineyards /
+Orchards
+Livestock
+Forest
+Land use
+change
+Rice
+production
+Wetlands
+Energy use
+Greenhouse in
+Agriculture tools for
+Dairy, Sheep, Beef or
+Grain Farms    
+
+Holos    
+
+Illinois Farm
+Sustainability
+Calculator    
+
+International Wine
+Carbon Calculator                          
+Live Swine Carbon
+Footprint Calculator                                
+Livestock Analysis
+Model                            
+Manure and Nutrient
+Reduction Estimator
+(MANURE) TOOL                          
+OVERSEER                    
+US Cropland
+Greenhouse Gas
+Calculator For Farm
+Systems                        
+General catalogues of calculation methodologies
+
+--- Page 92 of 103 ---
+
+GHG Protocol Agricultural Guidance
+
+92
+ Tool GHG Operation  CO 2 
+N2O
+CH 4
+Cropland
+Horticulture
+Grazing land
+Grassland
+Agroforestry
+Wineyards /
+Orchards
+Livestock
+Forest
+Land use
+change
+Rice
+production
+Wetlands
+Energy use
+1605(b). Technical
+Guidelines for the
+Voluntary Reporting of
+Greenhouse Gases
+Program    
+
+IPCC. 2006
+Intergovernmental
+Panel on Climate
+Change Guidelines on
+National Inventories     
+Resources suitable for academic use
+Agricultural
+Policy/Environmental
+eXtender (APEX)                          
+CENTURY                        
+CNCPS                            
+CQESTR                            
+DairyGEM    
+
+DairyGHG    
+
+DairyWise    
+
+DayCent                    
+
+--- Page 93 of 103 ---
+
+GHG Protocol Agricultural Guidance
+
+93
+ Tool GHG Operation  CO 2 
+N2O
+CH 4
+Cropland
+Horticulture
+Grazing land
+Grassland
+Agroforestry
+Wineyards /
+Orchards
+Livestock
+Forest
+Land use
+change
+Rice
+production
+Wetlands
+Energy use
+DeNitrification-
+DeComposition
+(DNDC)    
+
+FarmGHG    
+
+IFSM (Intrated Farm
+System Model)    
+
+NASA-CASA
+(Carnegie-Ames-
+Stanford Approach)
+model    
+
+RothC                        
+SIMs Dairy                          
+SOCRATES: Soil
+Organic Carbon
+Reserves And
+Transformations in
+Eco-systems                        
+1, Based on Colomb et al. (2013), Dene f et al. (2012) and additional research.
+
+--- Page 94 of 103 ---
+
+GHG Protocol Agricultural Guidance

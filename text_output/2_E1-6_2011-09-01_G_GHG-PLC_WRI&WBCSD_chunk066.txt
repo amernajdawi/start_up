@@ -1,0 +1,97 @@
+File Name: 2_E1-6_2011-09-01_G_GHG-PLC_WRI&WBCSD.pdf
+Converted on: 2025-03-28 03:20:53
+Original Size: 3.27 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 66 of 116
+--------------------------------------------------------------------------------
+
+[82]   Product Life Cycle Accounting and Reporting Standard
+guidancestandard scenario uncertainty is created. Methodological
+choices include but are not limited to:
+•Allocation methods
+•Product use assumptions
+•End-of-life assumptions
+To identify the influence of these selections on results,
+parameters (or combinations of parameters) are varied in
+an exercise known as scenario analysis. Scenario analysis is
+also commonly called sensitivity analysis. Scenario analysis
+can reveal differences in the inventory results due to
+methodological choices.3
+EXAMPLES
+EXAMPLE 1
+A company may choose to allocate facility electricity
+consumption between the toner production and other
+production lines using the physical allocation factor of the
+number of units produced. Using this factor, 30 percent of the
+electricity consumption is allocated to the toner production
+process. However, allocating the electricity by the mass of
+products results in 40 percent of the electricity consumption
+allocated to the toner production process.
+EXAMPLE 2
+Company data indicates that 40 percent of the toner
+cartridges are recycled. Therefore, it can be assumed that
+40 percent of the plastic in the cartridge’s casing is recycled.
+For both the reporting company and stakeholders, it may be
+interesting to consider how a change in the overall recycling
+rate would change the inventory results. From an individual
+consumer’s perspective, there might be interest in how the
+inventory results would change when an individual recycles
+(100 percent rather than 40 percent recycling) or does not
+recycle (0 percent recycling) the cartridge.
+Model uncertainty
+Model uncertainty arises from limitations in the ability of
+the modeling approaches used to reflect the real world.
+Simplifying the real world into a numeric model always
+introduces some inaccuracies.
+In many cases, model uncertainties can be represented–
+at least in part–through the parameter or scenario
+approaches described above. However, some aspects
+of model uncertainty might not be captured by those
+classifications and are otherwise very difficult to quantify. EXAMPLE
+A model of soy production is involved in predicting emissions
+from the production of the cartridge’s soy-based ink. Emissions
+of N2O due to application of nitrogen fertilizers are based on a
+linear modeling of interactions of the fertilizer with the soil and
+plant systems. As these interactions are more complicated than
+the model assumes, there is uncertainty regarding the emissions
+resulting from this model.
+10.3.3 Reporting qualitative uncertainty
+Companies are required to report a qualitative description
+of uncertainty sources and methodological choices
+made in the inventory. These include the use and end-
+of-life profiles for cradle-to-grave inventories, allocation
+methods (including recycling allocation methods), the
+source of GWP used, and any calculation models used to
+quantify emissions and removals.
+Quantitative uncertainty assessment is not required,
+but such an assessment is desirable since it can provide
+a more robust result that can identify specific areas of
+high uncertainty to track over time. Companies may wish
+to present both qualitative and quantitative uncertainty
+information in the inventory report. Companies may
+also describe their efforts to reduce uncertainty in
+future revisions of the inventory. Table 10.2 includes the
+required qualitative uncertainty sources to report.
+10.3.4 Uncertainty in comparisons
+Comparative uncertainty differs from the various types
+of uncertainty previously mentioned in that more than
+one product or system is considered. This standard is
+not intended to support product comparison beyond
+performance tracking (as described in chapter 1).
+However, even within a product inventory, comparative
+uncertainty may arise, such as when comparing the
+impact of one process or stage to another process or
+stage in the product’s life cycle.
+Whenever considering uncertainty in comparisons, the
+uncertainty ranges of each process, life cycle stage, or
+product should not be directly compared; instead, the
+uncertainty in the comparison itself should be assessed.
+That is, rather than comparing the distribution of A
+and the distribution of B, companies may assess the
+distribution of A divided by B.  This can be done for both 
+parameter uncertainty and scenario uncertainty.
+
+--- Page 85 of 148 ---

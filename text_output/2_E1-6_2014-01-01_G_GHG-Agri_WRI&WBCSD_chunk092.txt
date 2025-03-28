@@ -1,0 +1,44 @@
+File Name: 2_E1-6_2014-01-01_G_GHG-Agri_WRI&WBCSD.pdf
+Converted on: 2025-03-28 03:18:26
+Original Size: 1.75 MB
+Chunk Size: 500 tokens with 50 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 92 of 108
+--------------------------------------------------------------------------------
+
+consid ered , along with the corresponding C stocks , are shown in Table II - 1 . Table II - 1 . Soil C stocks of different manage ment practices and land use types . - - - Page 84 of 103 - - - GHG Protocol Agricultural Guidance
+
+84
+Case A: All soil stock changes are amorti zed before any further changes
+occur in the ownership or management of stocks  
+Cerrado is converted into a no-till crop system over the course of 75 years. While multiple shifts
+in land use and farming practices occu r over this period, the resulting CO 2 fluxes are fully
+amortized before any further shifts occur. Table II-2 describes the ti me series of shifts in land use
+and management practices, as well as how the corresponding CO 2 fluxes are amortized. GHG
+emissions inventories are prepared annually. Figu re II-1 shows how the C stocks change over
+time with amortization.  Table II-2.  The amortization schedule for case A 
+
+Figure II-1:  Changes in C stocks are fully amortized before any further shifts in management 
+practices or management occur (Case A)
+
+--- Page 85 of 103 ---
+
+GHG Protocol Agricultural Guidance
+
+85
+
+Case B: Not all soil stock changes are amortized be fore a further change
+occurs in stock management
+Same as Case A, except that the pasture is converted into a full-till crop system only 10 years
+after the cerrado was first converted into pastur e (i.e., when only half of the change in carbon
+stocks has been amortized). Table II-3 describe s the time series of shifts in land use and
+management practices, as well as how the en suing changes in carbon stocks are amortized.
+
+--- Page 86 of 103 ---
+
+GHG Protocol Agricultural Guidance
+
+86
+ Table II-3.  The amortization schedule for case B.

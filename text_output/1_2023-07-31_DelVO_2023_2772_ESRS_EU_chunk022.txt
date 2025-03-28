@@ -1,0 +1,50 @@
+File Name: 1_2023-07-31_DelVO_2023_2772_ESRS_EU.pdf
+Converted on: 2025-03-28 03:20:41
+Original Size: 5.82 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 22 of 284
+--------------------------------------------------------------------------------
+
+ELI: http://data.europa.eu/eli/reg_del/2023/2772/oj 20/284116. The disclosures required by sector-specific ESRS shall be grouped by reporting area and, where applicable, by
+sustainability topic. They shall be presented alongside the disclosures required by ESRS 2 and the corresponding
+topical ESRS.
+117. Where the undertaking develops material entity-specific disclosures in accordance with paragraph 11 it shall report those disclosures alongside the most relevant sector-agnostic and sector-specific disclosures.
+9. Linkages with other parts of corporate reporting and connected information
+118. The undertaking shall provide information that enables users of its sustainability statement to understand the
+connections between different pieces of information in the statement, and the connections between the information
+in the sustainability statement and other information that the undertaking discloses in other parts of its corporate
+reporting.
+9.1 Incorporation by reference
+119. Provided that the conditions in paragraph 120 are met, information prescribed by a Disclosure Requirement of an
+ESRS, including a specific datapoint prescribed by a Disclosure Requirement, may be incorporated in the
+sustainability statement by reference to:
+(a) another section of the management report;
+(b) the financial statements;
+(c) the corporate governance statement (if not part of the management report);
+(d) the remuneration report required by Directive 2007/36/EC of the European Parliament and of the Council (
+9);
+(e) the universal registration document, as referred to in Article 9 of Regulation (EU) 2017/1129 (10); and
+(f) public disclosures under Regulation (EU) No 575/2013 of the European Parliament and of the Council (Pillar 3
+disclosures) (11). If the undertaking incorporates by reference information from Pillar 3 disclosures, it shall
+ensure that the information matches the scope of consolidation used for the sustainability statement by
+complementing the incorporated information with additional elements as necessary.
+120. The undertaking may incorporate information by reference to the documents, or part of the documents, listed in
+paragraph 119, provided that the disclosures incorporated by reference:
+(a) constitute a separate element of information and are clearly identified in the document concerned as addressing
+the relevant Disclosure Requirement, or the relevant specific datapoint prescribed by a Disclosure Requirement;
+(b) are published before or at the same time as the management report;
+(c) are in the same language as the sustainability statement;
+(d) are subject to at least the same level of assurance as the sustainability statement; and
+(e) meet the same technical digitalisation requirements as the sustainability statement.
+(9)Directive 2007/36/EC of the European Parliament and of the Council of 11 July 2007 on the exercise of certain rights of shareholders
+in listed companies (OJ L 184, 14.7.2007, p. 17).
+(10)Regulation (EU) 2017/1129 of the European Parliament and of the Council of 14 June 2017 on the prospectus to be published when
+securities are offered to the public or admitted to trading on a regulated market, and repealing Directive 2003/71/EC (OJ L 168,
+30.6.2017, p. 12).
+(11)Regulation (EU) No 575/2013 of the European Parliament and of the Council of 26 June 2013 on prudential requirements for credit
+institutions and investment firms and amending Regulation (EU) No 648/2012 (OJ L 176, 27.6.2013, p. 1).OJ L, 22.12.2023 EN  
+
+--- Page 21 of 284 ---

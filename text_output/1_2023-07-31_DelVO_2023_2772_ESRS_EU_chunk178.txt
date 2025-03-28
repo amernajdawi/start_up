@@ -1,0 +1,46 @@
+File Name: 1_2023-07-31_DelVO_2023_2772_ESRS_EU.pdf
+Converted on: 2025-03-28 03:20:41
+Original Size: 5.82 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 178 of 284
+--------------------------------------------------------------------------------
+
+ELI: http://data.europa.eu/eli/reg_del/2023/2772/oj 180/284Appendix A
+Application Requirements
+This appendix is an integral part of the ESRS S1 Own workforce. It supports the application of the disclosure requirements set
+out in this standard and has the same authority as the other parts of this Standard.
+Objective
+AR 1. In addition to the issues listed in paragraph 2, the undertaking may also consider disclosing information about
+other issues relevant to a material impact for a shorter period of time, for instance initiatives regarding the
+health and safety of its own workforce during a pandemic.
+AR 2. The overview of social matters provided in paragraph 2 is not meant to imply that all of these issues should be reported on in each Disclosure Requirement in this Standard. Rather, they provide a list of matters derived from
+the sustainability reporting requirements set out in Directive 2013/34/EU that the undertaking shall consider for
+the ESRS 2 materiality assessment related to its own workforce and, as appropriate, report as material impacts,
+risks and opportunities within the scope of this Standard.
+AR 3. Examples of people that fall within the scope of “Own workforce” are:
+(a) Examples of contractors (self-employed persons) in the undertaking’s own workforce include:
+i. Contractors hired by the undertaking to perform work that would otherwise be carried out by an
+employee
+ii. Contractors hired by the undertaking to perform work in a public area (e.g., on a road, on the street).
+iii. Contractors hired by the undertaking to deliver the work/service directly at the workplace of a client of
+the undertaking.
+(b) Examples of people employed by a third party engaged in ‘employment activities’ include people who
+perform the same work that employees carry out, such as:
+i. people who fill in for employees who are temporarily absent (due to illness, holiday, parental leave, etc.);
+ii. people performing work additional to regular employees;
+iii. people who are dispatched temporarily from another EU member state to work for the undertaking
+(‘posted workers’).
+ESRS 2 General Disclosures
+Strategy
+Disclosure Requirement related to ESRS 2 SBM-2 – Interests and views of stakeholders
+AR 4. ESRS 2 SBM-2 requires the undertaking to provide an understanding of whether and how it considers the role
+that its strategy and business model may play in creating, exacerbating or mitigating significant material impacts
+on its own workforce, and whether and how the business model and strategy are adapted to address such material
+impacts.
+AR 5. While the undertaking’s own workforce may not be engaging with the undertaking at the level of its strategy or
+business model, their views can inform the undertaking’s assessment of its strategy and business model. The undertaking shall consider the views of workers’ representatives when applicable to fulfil this disclosure.OJ L, 22.12.2023 EN  
+
+--- Page 181 of 284 ---

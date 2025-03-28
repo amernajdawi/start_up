@@ -1,0 +1,49 @@
+File Name: 1_2021-07-06_DelVO_2021_2178_TAXORA_EU.pdf
+Converted on: 2025-03-28 03:20:32
+Original Size: 10.30 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 17 of 47
+--------------------------------------------------------------------------------
+
+--- Page 11 of 59 ---
+
+(b) part of the CapExplan to expand Taxonomy-aligned economic activities or allow Taxonomy-eligible economic activities
+to become Taxonomy-aligned within a predefined timeframe as set out in the second paragraph of this point 1.1.3.2;
+(c) related to the purchase of output from Taxonomy-aligned economic activities and to individual measures enabling the
+target activities to become low-carbon or to lead to greenhouse gas reductions as well as individual building
+renovation measures as identified in the delegated acts adopted pursuant to Article 10(3), Article 11(3), Article 12(2),
+Article 13(2), Article 14(2) or Article 15(2) of Regulation (EU) 2020/852 and provided that such measures are
+implemented and operational within 18 months.
+The CapEx planreferred to in the first paragraph of this point 1.1.3.2 shall meet the conditions specified in point 1.1.2.2 of this Annex.
+Research and development costs already accounted for in the CapEx KPI shall not be counted as OpEx.The numerator shall also include the part of OpEx for the adaptation of economic activities to climate change in accordance
+with Annex II to Climate Delegated Act. The numerator shall provide for a breakdown for the part of the OpEx allocated to
+substantial contribution to climate change adaptation.
+Where the operational expenditure is not material for the business model of non-financial undertakings, those
+undertakings shall:
+(a) be exempted from the calculation of the numerator of the OpEX KPI in accordance with point 1.1.3.2 and disclose that
+numerator as being equal to zero;
+(b) disclose the total value of the OpEx denominator calculated in accordance with point 1.1.3.1;
+(c) explain the absence of materiality of operational expenditure in their business model.
+1.2. Specification of disclosures accompanying the KPIs of non-financial undertakings
+Non-financial undertakings shall disclose the following information accompanying the relevant KPIs.
+1.2.1. Accounting policy
+Non-financial undertakings shall explain:
+(a) how turnover, capital expenditure and operating expenditurewere determined and allocated to the numerator;
+(b) the basis on which the turnover, capital expenditure and operating expenditure were calculated, including any
+assessment in the allocation of revenues or expenditures to different economic activities.
+For turnover and capital expenditure, non-financial undertakings shall include references to the related line items in the non-financial statements;
+Where the application of any calculations has changed since the previous reporting period, non-financial undertakings shall
+explain why those changes result in more reliable and relevant information and provide for restated comparative figures.
+Non-financial undertakings shall disclose any material changes that have occurred during the reporting period in relation to
+the implementation of the CapEx plans as disclosed in accordance with point and 1.1.2 of this Annex. Non-financial
+undertakings shall disclose all of the following:
+(a) the material changes that have occurred in the CapEx plan and the reasons underlying those changes;
+(b) the impact of such changes on the potential for the economic activities of the undertaking to become Taxonomy-
+aligned and on the period of time in which this change is expected to take place;
+(c) the restatement of the CapEx and OpEx KPI for each past reporting year covered by the plan whenever changes to the
+plan had an impact on those KPIs.EN Official Journal of the European Union 10.12.2021 L 443/19  
+
+--- Page 12 of 59 ---

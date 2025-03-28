@@ -1,0 +1,42 @@
+File Name: 1_2020-06-18_VO_2020_852_TAXAllg_EU.pdf
+Converted on: 2025-03-28 03:17:58
+Original Size: 0.73 MB
+Chunk Size: 500 tokens with 50 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 56 of 97
+--------------------------------------------------------------------------------
+
+Article 8
+Transparency of under takings in non-f inancial statements
+1. Any under taking which is subject to an oblig ation to publish non-fi nancial information pursuant to Article 19a or
+Article 29a of Directive 2013/34/EU shall include in its non-fi nancial statement or consolidated non-fi nancial statement
+information on how and to what extent the under taking’s activities are associated with economic activities that qualify as
+environmentally sustainable under Articles 3 and 9 of this Regulation.
+2. In particular , non-financial under takings shall disclose the followi ng:
+(a) the propor tion of their turnover derived from products or services associated with economic activities that qualify as
+environmentally sustainable under Articles 3 and 9; and
+(b) the propor tion of their capital expenditure and the propor tion of their operating expenditure related to assets or
+processes associated with economic activities that qualify as envi ronmentally sustainable under Articles 3 and 9.
+3. If an under taking publishes non-fi nancial information pursuant to Article 19a or Article 29a of Directive
+2013/34/EU in a separate repor t in accordance with Article 19a(4) or Article 29a(4) of that Directive, the information
+refer red to in paragraphs 1 and 2 of this Article shall be published in that separate repor t.
+4. The Commission shall adopt a delegat ed act in accordance with Article 23 to supplement paragraphs 1 and 2 of this
+Article to specify the cont ent and presentation of the information to be disclosed pursuant to those paragraphs, including
+the methodology to be used in order to compl y with them, taking into account the specifi cities of both financial and non-
+financial under takings and the technical screening criteria established pursuant to this Regulation. The Commission shall
+adopt that delegat ed act by 1 June 2021.
+Article 9
+Environmental objectiv es
+For the purposes of this Regulation, the followi ng shall be environmental objectives:
+(a) climate change mitig ation;
+(b) climate change adap tation;
+(c) the sustainable use and prot ection of wate r and mar ine resources;
+(d) the transition to a circular econom y;
+(e) pollution prevention and control;
+(f) the protection and restoration of biodiversity and ecosystems.
+Article 10
+Subst antial contr ibution to climate change mitigation
+1. An economic activity shall qualify as contr ibuting substantially to climat e change mitig ation where that activity
+contr ibut es substantially to the stabilisation of greenhouse gas concentrations in the atmosphere at a level whic h prevents

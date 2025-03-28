@@ -1,0 +1,55 @@
+File Name: 1_2021-06-04_DelVO_2021_2139_TAXKRA_EU.pdf
+Converted on: 2025-03-28 03:20:30
+Original Size: 2.76 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 180 of 447
+--------------------------------------------------------------------------------
+
+At its end of life, the equipment undergoes preparation for reuse, recovery
+or recycling operations, or proper treatment, including the removal of all
+fluids and a selective treatment in accordance with Annex VII to Directive
+2012/19/EU of the European Parliament and of the Council (  310  ). 
+(5) Pollution prevention and control  N/A  
+(6) Protection and restoration of
+biodiversity and ecosystems  N/A  
+8.2.  Data-driven solutions for GHG emissions reductions  
+Description of the activity  
+Development or use of ICT solutions that are aimed at collecting, transmitting, storing data and at its modelling
+and use where those activities are predominantly aimed at the provision of data and analytics enabling GHG
+emission reductions. Such ICT solutions may include,  inter alia , the use of decentralized technologies 
+(i.e. distributed ledger technologies), Internet of Things (IoT), 5G and Artificial Intelligence. The economic activities
+in this category could be associated with several NACE codes, in particular J61, J62 and J63.11 in accordance with
+the statistical classification of economic activities established by Regulation (EC) No 1893/2006.  
+An economic activity in this category is an enabling activity as referred to in Article 10(1), point (i), of Regulation
+(EU) 2020/852 where it complies with the technical screening criteria set out in this Section.  
+Technical screening criteria  
+Substantial contribution to climate change mitigation  
+1. The ICT solutions are predominantly used for the provision of data and analytics enabling GHG emission
+reductions.
+2. Where an alternative solution/technology is already available on the market, the ICT solution demonstrates
+substantial life-cycle GHG emission savings compared to the best performing alternative solution/technology.
+Life-cycle GHG emissions and net emissions are calculated using Recommendation 2013/179/EU or, alter ­
+natively, using ETSI ES 203 199 (  311  ), ISO 14067:2018 (  312  ) or ISO 14064-2:2019 (  313  ). 
+Quantified life-cycle GHG emission reductions are verified by an independent third party which transparently
+assesses how the standard criteria, including those for critical review, have been followed when the value was
+derived.  
+Do no significant harm (‘DNSH’)  
+(2) Climate change adaptation  The activity complies with the criteria set out in Appendix A to this 
+Annex.  
+_____________
+( 310  ) Directive 2012/19/EU of the European Parliament and of the Council of 4 July 2012 on waste electrical and electronic equipmen t 
+(OJ L 197, 24.7.2012, p. 38).
+( 311  ) ETSI ES 203 199, Environmental Engineering (EE); Methodology for environmental Life Cycle Assessment (LCA) of Information 
+and Communication Technology (ICT) goods, networks and services (version of 4.6.2021: https://www.etsi.org/deliver/etsi_es/
+203100_203199/203199/01.03.00_50/es_203199v010300m.pdf). The ETSI standard ETSI ES 203 199 correspond to the ITU
+standard ITU–T L.1410.
+( 312  ) ISO standard 14067:2018, Greenhouse gases — Carbon footprint of products — Requirements and guidelines for quantification 
+(version of 4.6.2021: https://www.iso.org/standard/71206.html).
+( 313  ) ISO standard14064-2:2019, Greenhouse gases — Part 2: Specification with guidance at the project level for quantification, 
+monitoring and reporting of greenhouse gas emission reductions or removal enhancements (version of 4.6.2021:
+https://www.iso.org/standard/66454.html).EN  L 442/134 Official Journal of the European Union 9.12.2021
+
+--- Page 135 of 349 ---

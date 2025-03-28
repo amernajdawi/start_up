@@ -1,0 +1,53 @@
+File Name: 1_2022-12-14_RL_2022_2464_CSRD_EU.pdf
+Converted on: 2025-03-28 03:20:33
+Original Size: 1.12 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 41 of 140
+--------------------------------------------------------------------------------
+
+(42) Sustainability repor ting standards should take account of the Guidelines on non-f inancial repor ting and the
+Guidelines on repor ting climat e-relat ed information. They should also take account of other repor ting requirements
+in Directive 2013/34/EU that are not directly related to sustainability , with the aim of provi ding the users of the
+repor ted information with a better understanding of the development, performa nce, position and impact of the
+under taking, by maximising the link s between the sustainability information and other information repor ted in
+accordance with Directive 2013/34/EU.
+(43) Sustainability repor ting standards should be propor tionate and should not impose an unnecessar y administrative
+burden on companies that are required to use them. In order to minimise disrupti on for under takings that already
+repor t sustainability information, sustainability repor ting standards should take account of existing standards and
+framewor ks for sustainability repor ting and accounting where appropr iate. Such existing standards and frameworks
+include the Global Repor ting Initiative, the Sustainability Accounting Standards Board, the Internatio nal Integrated
+Repor ting Council, the Intern ational Accounting Standards Board, the Task Force on Climate-r elated Financial
+Disclosures, the Carbon Disclosure Standards Board, and CDP , formerly known as the Carbon Disclosure Project.
+Union standards should take account of any sustainability repor ting standards developed under the auspices of
+Internatio nal Financial Repor ting Standards Foundation. To avoid unnecessar y regulator y fragmentation that could
+have nega tive consequences for under takings operating globally , Union sustainability repor ting standards should
+contr ibut e to the process of converg ence of sustainability repor ting standards at global level, by suppor ting the
+work of the Internati onal Sustainability Standards Board (ISSB). Union sustainability repor ting standards should
+reduce the risk of inconsist ent repor ting requirements for under takings that operat e globally by integrat ing the
+conte nt of global baseline standards to be developed by the ISSB, to the extent that the content of those baseline
+standards is consistent with the Union’s legal framework and the objectives of the Green Deal.
+(44) In the Green Deal the Commission committed itself to suppor t businesses and other stak eholders in developing
+standardised natural capital accounting practices within the Union and internatio nally , with the aim of ensur ing
+appropr iate management of environmental risks and mitig ation oppor tunities, and reduce related transaction costs.
+The Transparent Project sponsored under the Programme for the Environment and Climate Action (LIFE
+programme) established by Regulation (EU) 2021/783 of the European Parliament and of the Council (30)is
+developing the first natural capital accounting methodology , which will make existing methods easier to compare
+and more transparent while lower ing the threshold for companies to adopt and use the syste ms in suppor t of
+future-proofing their business. The Natural Capital Protocol is also an impor tant referen ce in the field of natural
+capital accounting. While natural capital accounting methods serve principally to strengthen internal management
+decisions, they should be duly considered when establishing sustainability repor ting standards. Some natural capital
+accounting methodologies seek to assign a monetar y value to the environmental impacts of companies’ activities,
+which may help users of sustainability information to bette r understand such impacts. It is theref ore appropr iate
+that sustainability repor ting standards should be able to include monetised indicators of sustainability impacts if
+that is deemed necessar y.
+(45) Sustainability repor ting standards should also take account of internati onally recognised principles and frameworks
+on responsible business conduct, corporate social responsibility , and sustainable development, including the SDGs,
+the UN Guiding Principles on Business and Human Rights, the OECD Guidelines for Multinational Enter prises, the
+OECD Due Dilig ence Guidance for Responsible Business Conduct and relat ed sectoral guidelines, the Global
+Com pact, the Intern ational Labour Org anization’s (ILO) Tripar tite Declaration of Principles concer ning
+Multinational Enterpr ises and Social Policy , the ISO 26000 standard on social responsibility , and the UN Principles
+for Responsible Investment.
+(30)Regulation (EU) 2021/783 of the European Parliament and of the Council of 29 Apr il 2021 establishing a Programme for the

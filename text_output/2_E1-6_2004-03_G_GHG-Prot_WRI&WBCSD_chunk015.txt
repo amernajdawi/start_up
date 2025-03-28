@@ -1,0 +1,36 @@
+File Name: 2_E1-6_2004-03_G_GHG-Prot_WRI&WBCSD.pdf
+Converted on: 2025-03-28 03:20:43
+Original Size: 3.51 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 15 of 104
+--------------------------------------------------------------------------------
+
+consolidation, i.e., if the operation is fully consolidated
+in financial accounts. If this criterion is chosen todetermine control, emissions from joint ventures wherepartners have joint financial control are accounted forbased on the equity share approach (see Table 1 fordefinitions of financial accounting categories).
+
+Operational Control. A company has operational
+control over an operation if the former or one of itssubsidiaries (see Table 1 for definitions of financialaccounting categories) has the full authority to introduce and implement its operating policies at theoperation. This criterion is consistent with the currentaccounting and reporting practice of many compa-nies that report on emissions from facilities, whichthey operate (i.e., for which they hold the operatinglicense). It is expected that except in very rarecircumstances, if the company or one of itssubsidiaries is the operator of a facility, it will havethe full authority to introduce and implement itsoperating policies and thus has operational control.
+Under the operational control approach, a company
+accounts for 100% of emissions from operations overwhich it or one of its subsidiaries has operational control.
+It should be emphasized that having operational
+control does not mean that a company necessarilyhas authority to make all decisions concerning anoperation. For example, big capital investments willlikely require the approval of all the partners thathave joint financial control. Operational control doesmean that a company has the authority to introduceand implement its operating policies.
+More information on the relevance and application
+of the operational control criterion is provided inpetroleum industry guidelines for reporting GHGemissions (IPIECA, 2003).
+Sometimes a company can have joint financial control
+over an operation, but not operational control. In suchcases, the company would need to look at the contractualarrangements to determine whether any one of the part-ners has the authority to introduce and implement itsoperating policies at the operation and thus has theresponsibility to report emissions under operationalcontrol. If the operation itself will introduce and imple-ment its own operating policies, the partners with jointfinancial control over the operation will not report anyemissions under operational control.Table 2 in the guidance section of this chapter illustrates
+the selection of a consolidation approach at the corpo-rate level and the identification of which joint operationswill be in the organizational boundary depending on thechoice of the consolidation approach.
+Consolidation at multiple levels
+The consolidation of GHG emissions data will only resultin consistent data if all levels of the organization followthe same consolidation policy. In the first step, themanagement of the parent company has to decide on aconsolidation approach (i.e., either the equity share orthe financial or operational control approach). Once acorporate consolidation policy has been selected, it shallbe applied to all levels of the organization.
+State-ownership
+The rules provided in this chapter shall also be appliedto account for GHG emissions from industry jointoperations that involve state ownership or a mix ofprivate/  state ownership. STANDARD
+CHAPTER 3 18Setting Organizational Boundaries
+BP reports GHG emissions on an equity share basis, includingthose operations where BP has an interest, but where BP is not theoperator. In determining the extent of the equity share reportingboundary BP seeks to achieve close alignment with financialaccounting procedures. BP’s equity share boundary includes alloperations undertaken by BP and its subsidiaries, joint venturesand associated undertakings as determined by their treatment inthe financial accounts. Fixed asset investments, i.e., where BPhas limited influence, are not included.
+GHG emissions from facilities in which BP has an equity share
+are estimated according to the requirements of the BP GroupReporting Guidelines for Environmental Performance (BP 2000).In those facilities where BP has an equity share but is not theoperator, GHG emissions data may be obtained directly from theoperating company using a methodology consistent with the BPGuidelines, or is calculated by BP using activity data provided bythe operator.
+BP reports its equity share GHG emissions every year. Since
+2000, independent external auditors have expressed the opinionthat the reported total has been found to be free from materialmisstatement when audited against the BP Guidelines.BP: Reporting on the basis of equity share
+
+--- Page 21 of 116 ---

@@ -1,0 +1,48 @@
+File Name: 1_2023-06-27_DelVO_2023_2486_TAXURA_EU.pdf
+Converted on: 2025-03-28 03:20:36
+Original Size: 8.44 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 59 of 199
+--------------------------------------------------------------------------------
+
+ELI: http://data.europa.eu/eli/reg_del/2023/2486/oj 40/164(6) Protection and restoration
+of biodiversity and ecosys ­
+temsThe activity complies with the criteria set out in Appendix D to this Annex.
+2.2. Production of alternative water resources for purposes other than human consumption
+Description of the activity
+Construction, extension, operation and renewal of facilities for producing reclaimed water (41), facilities for harvesting rain
+and storm water and facilities for collection and treatment of grey water (42).
+These alternative water resources are used to replace water from abstraction or from the drinking water supply systems and
+can be used for aquifer recharge, irrigation, industrial reuse, recreation and any other municipal use.
+The economic activity only includes the facilities and processes that make it possible for the water to be reused, such as
+facilities for recharging aquifers or surface water storages, and does not include the previous steps, such as primary and
+secondary steps in the waste water treatment plant or the subsequent steps, necessary for the final reuse of these
+alternative water resources, such as irrigation systems.
+The economic activity does not include desalination (see Section 5.13 of Annex II to Delegated Regulation
+(EU) 2021/2139).
+This economic activity does not include supply of water for the purpose of human consumption (see Section 2.1 of
+Annex I).
+The economic activities in this category could be associated with several NACE codes, in particular E37.00 and F42.9 in
+accordance with the statistical classification of economic activities established by Regulation (EC) No 1893/2006.
+Technical screening criteria
+Substantial contribution to the transition to a circular economy
+1. For production of reclaimed water, the activity complies with the following criteria:
+(a) the reclaimed water is suitable for reuse. For use in agriculture, the reclaimed water complies with EU requirements,
+such as those set out in Regulation (EU) 2020/741 of the European Parliament and of the Council (43)and national
+legislation. For uses other than agricultural irrigation, the final quality of reclaimed water is fit for purpose and
+compliant with existing national legislation and standards;
+(b) the water reuse project has been authorised by the competent authority, in the framework of integrated water
+management, having as a priority taken into account viable water demand management and efficiency measures, in
+consultation with the water management authorities. This may be proven by its inclusion in a water management plan
+or drought management plan. For reuse in agriculture, the assessments of the environmental risks, including those
+related to the quantitative status of water bodies, are fully taken into account in the risk management plans, required
+by Regulation (EU) 2020/741.
+(41)‘Reclaimed water’ means urban waste water that has been treated in compliance with the requirements set out in
+Directive 91/271/EEC and which results from further treatment in a reclamation plant.
+(42)‘Grey water’ means untreated waste water that has not been contaminated by any toilet discharge. Grey water includes waste water from bathtubs, showers, bathroom sinks, clothes washing machines and laundry sinks.
+(43)Regulation (EU) 2020/741 of the European Parliament and of the Council of 25 May 2020 on minimum requirements for water reuse (OJ L 177, 5.6.2020, p. 32).OJ L, 21.11.2023 EN  
+
+--- Page 41 of 164 ---

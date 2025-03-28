@@ -1,0 +1,15 @@
+File Name: 1_2021-06-04_DelVO_2021_2139_TAXKRA_EU.pdf
+Converted on: 2025-03-28 03:18:03
+Original Size: 2.76 MB
+Chunk Size: 500 tokens with 50 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 623 of 966
+--------------------------------------------------------------------------------
+
+300 GHz) (1999/519/EC) (OJ L 199, 30.7.1999, p. 59).  
+( 286  ) ICNIRP 1998 Guidelines for limiting exposure to time-varying electric, magnetic and electromagnetic fields (up to 300 ghz) (v ersion 
+of 4.6.2021: https://www.icnirp.org/cms/upload/publications/ICNIRPemfgdl.pdf).  
+( 287  ) Practical guidance for the implementation of this criterion is contained in the European Commission notice C(2018)2620 ‘Energ y 
+transmission infrastructure and EU nature legislation’ (OJ C 213, 18.6.2018, p. 62).EN  9.12.2021 Official Journal of the European Union L 442/231

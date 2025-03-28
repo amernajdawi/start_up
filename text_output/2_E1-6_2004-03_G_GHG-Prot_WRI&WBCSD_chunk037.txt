@@ -1,0 +1,36 @@
+File Name: 2_E1-6_2004-03_G_GHG-Prot_WRI&WBCSD.pdf
+Converted on: 2025-03-28 03:20:43
+Original Size: 3.51 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 37 of 104
+--------------------------------------------------------------------------------
+
+Select a calculation approach
+Direct measurement of GHG emissions by monitoring
+concentration and flow rate is not common. More often,emissions may be calculated based on a mass balance orstoichiometric basis specific to a facility or process.However, the most common approach for calculatingGHG emissions is through the application of documentedemission factors. These factors are calculated ratiosrelating GHG emissions to a proxy measure of activity atan emissions source. The IPCC guidelines (IPCC, 1996)refer to a hierarchy of calculation approaches and tech-niques ranging from the application of generic emissionfactors to direct monitoring.
+In many cases, particularly when direct monitoring is
+either unavailable or prohibitively expensive, accurateemission data can be calculated from fuel use data. Evensmall users usually know both the amount of fuelconsumed and have access to data on the carbon contentof the fuel through default carbon content coefficients orthrough more accurate periodic fuel sampling.Companies should use the most accurate calculationapproach available to them and that is appropriate fortheir reporting context. Collect activity data
+and choose emission factors
+For most small to medium-sized companies and for many
+larger companies, scope 1 GHG emissions will be calcu-lated based on the purchased quantities of commercialfuels (such as natural gas and heating oil) usingpublished emission factors. Scope 2 GHG emissions willprimarily be calculated from metered electricityconsumption and supplier-specific, local grid, or otherpublished emission factors. Scope 3 GHG emissions willprimarily be calculated from activity data such as fueluse or passenger miles and published or third-partyemission factors. In most cases, if source- or facility-specific emission factors are available, they arepreferable to more generic or general emission factors.
+Industrial companies may be faced with a wider range
+of approaches and methodologies. They should seekguidance from the sector-specific guidelines on theGHG Protocol website (if available) or from theirindustry associations (e.g., International AluminumInstitute, International Iron and Steel Institute,American Petroleum Institute, WBCSD SustainableCement Initiative, International Petroleum IndustryEnvironmental Conservation Association).
+Apply calculation tools
+This section provides an overview of the GHG calcula-tion tools and guidance available on the
+GHG Protocol
+Initiative website (www.ghgprotocol.org). Use of these
+tools is encouraged as they have been peer reviewed by experts and industry leaders, are regularly updated,and are believed to be the best available. The tools,however, are optional. Companies may substitute theirown GHG calculation methods, provided they are more accurate than or are at least consistent with the
+GHG Protocol Corporate Standards approaches.
+There are two main categories of calculation tools:
+Cross-sector tools that can be applied to different
+sectors. These include stationary combustion, mobilecombustion, HFC use in refrigeration and air condi-tioning, and measurement and estimation uncertainty.   
+
+Sector-specific tools that are designed to calculate
+emissions in specific sectors such as aluminum, ironand steel, cement, oil and gas, pulp and paper, office-based organizations.GUIDANCEIdentifying and Calculating GHG Emissions
+CHAPTER 6 42In 1996, United Technologies Corporation (UTC), a global aero-space and building systems technology corporation, appointed ateam to set boundaries for the company’s new Natural ResourceConservation, Energy and Water Use Reporting Program. The teamfocused on what sources of energy should be included in theprogram's annual report of energy consumption. The teamdecided jet fuel needed to be reported in the annual report; jet fuelwas used by a number of UTC divisions for engine and flight hard-ware testing and for test firing. Although the amount of jet fuelused in any given year was subject to wide variation due tochanging test schedules, the total amount consumed in anaverage year was believed to be large and potentially smallenough to be specifically excluded. However, jet fuel consumptionreports proved that initial belief incorrect. Jet fuel has accountedfor between 9 and 13 percent of the corporation's total annual useof energy since the program commenced. Had UTC not includedthe use of jet fuel in annual data collection efforts, a significantemissions source would have been overlooked.United Technologies Corporation:
+More than meets the eye
+
+--- Page 45 of 116 ---

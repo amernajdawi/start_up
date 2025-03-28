@@ -1,0 +1,48 @@
+File Name: 1_2023-07-31_DelVO_2023_2772_ESRS_EU.pdf
+Converted on: 2025-03-28 03:20:41
+Original Size: 5.82 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 17 of 284
+--------------------------------------------------------------------------------
+
+ELI: http://data.europa.eu/eli/reg_del/2023/2772/oj 15/28472. The incorporation of estimates made using sector-average data or other proxies shall not result in information that
+does not meet the qualitative characteristics of information (see chapter 2 and section 7.2 Sources of estimation and
+outcome uncertainty of this Standard).
+6. Time horizons
+6.1 Reporting period
+73. The reporting period for the undertaking’s sustainability statement shall be consistent with that of its financial
+statements.
+6.2 Linking past, present and future
+74. The undertaking shall establish appropriate linkages in its sustainability statement between retrospective and
+forward-looking information, when relevant, to foster a clear understanding of how historical information relates to future-oriented information.
+6.3 Reporting progress against the base year
+75. A base year is the historical reference date or period for which information is available and against which subsequent
+information can be compared over time.
+76. The undertaking shall present comparative information in respect of the base year for amounts reported in the current period when reporting the developments and progress towards a target, unless the relevant Disclosure
+Requirement already defines how to report progress. The undertaking may also include historical information about
+achieved milestones between the base year and the reporting period when this is relevant information.
+6.4 Definition of short-, medium- and long-term for reporting purposes
+77. When preparing its sustainability statement, the undertaking shall adopt the following time intervals as of the end
+of the reporting period:
+(a) for the short-term time horizon: the period adopted by the undertaking as the reporting period in its financial
+statements;
+(b) for the medium-term time horizon: from the end of the short-term reporting period defined in (a) up to 5 years;
+and
+(c) for the long-term time horizon: more than 5 years.
+78. The undertaking shall use an additional breakdown for the long-term time horizon when impacts or actions are
+expected in a period longer than 5 years if necessary to provide relevant information to users of sustainability
+statements.
+79. If different definitions of medium- or long-term time horizons are required for specific items of disclosure in other
+ESRS, the definitions in those ESRS shall prevail.
+80. There may be circumstances where the use of the medium- or long-term time horizons defined in paragraph 77 results in non-relevant information, as the undertaking uses a different definition for (i) its processes of identification
+and management of material impacts, risks and opportunities or (ii) the definition of its actions and setting targets.
+These circumstances may be due to industry-specific characteristics, such as cash flow and business cycles, the expected duration of capital investments, the time horizons over which the users of sustainability statements
+conduct their assessments or the planning horizons typically used in the undertaking’s industry for decision-making.
+In these circumstances, the undertaking may adopt a different definition of medium- and/or long- term time horizons
+(see ESRS 2 BP–2, paragraph 9).
+81. References to “short-term”, “medium-term”, and “long-term” in ESRS refer to the time horizon as determined by the undertaking according to the provisions in paragraphs 77 to 80.OJ L, 22.12.2023 EN  
+
+--- Page 16 of 284 ---

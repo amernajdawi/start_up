@@ -1,0 +1,70 @@
+File Name: 2_ESRS2_SBM1_2006-12-20_VO_NACER2_EU.pdf
+Converted on: 2025-03-28 03:20:56
+Original Size: 0.17 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 29 of 45
+--------------------------------------------------------------------------------
+
+n.e.c. : not elsewhere classified * part of
+Division Group ClassISIC
+Rev. 4
+68.32 Management of real estate on a fee or contract basis 6820*
+SECTION M —PROFESSIONAL, SCIENTIFIC AND TECHNICAL
+ACTIVITIES
+69 Legal and accounting activities
+69.1 Legal activities
+69.10 Legal activities 6910
+69.2 Accounting, bookkeeping and auditing activities; tax consultancy
+69.20 Accounting, bookkeeping and auditing activities; tax consultancy 6920
+70 Activities of head offices; management consultancy activities
+70.1 Activities of head offices
+70.10 Activities of head offices 7010
+70.2 Management consultancy activities
+70.21 Public relations and communication activities 7020*
+70.22 Business and other management consultancy activities 7020*
+71 Architectural and engineering activities; technical testing and analysis
+71.1 Architectural and engineering activities and related technical con-
+sultancy
+71.11 Architectural activities 7110*
+71.12 Engineering activities and related technical consultancy 7110*
+71.2 Technical testing and analysis
+71.20 Technical testing and analysis 7120
+72 Scientific research and development
+72.1 Research and experimental development on natural sciences and
+engineering
+72.11 Research and experimental development on biotechnology 7210*
+72.19 Other research and experimental development on natural sciences and
+engineering7210*
+72.2 Research and experimental development on social sciences and
+humanities
+72.20 Research and experimental development on social sciences and
+humanities7220
+73 Advertising and market research
+73.1 Advertising
+73.11 Advertising agencies 7310*
+73.12 Media representation 7310*
+73.2 Market research and public opinion polling
+73.20 Market research and public opinion polling 7320
+74 Other professional, scientific and technical activities
+74.1 Specialised design activities
+74.10 Specialised design activities 7410
+74.2 Photographic activities
+74.20 Photographic activities 7420
+74.3 Translation and interpretation activities
+74.30 Translation and interpretation activities 7490*
+74.9 Other professional, scientific and technical activities n.e.c.
+74.90 Other professional, scientific and technical activities n.e.c. 7490*
+75 Veterinary activities
+75.0 Veterinary activities
+75.00 Veterinary activities 7500
+SECTION N —ADMINISTRATIVE AND SUPPORT SERVICE
+ACTIVITIES
+77 Rental and leasing activities
+77.1 Renting and leasing of motor vehicles
+77.11 Renting and leasing of cars and light motor vehicles 7710*
+77.12 Renting and leasing of trucks 7710*30.12.2006 EN Official Journal of the European Union L 393/23
+
+--- Page 24 of 39 ---

@@ -1,0 +1,22 @@
+File Name: 1_2021-06-04_DelVO_2021_2139_TAXKRA_EU.pdf
+Converted on: 2025-03-28 03:18:03
+Original Size: 2.76 MB
+Chunk Size: 500 tokens with 50 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 483 of 966
+--------------------------------------------------------------------------------
+
+(i) until 31 December 2025: specific emissions of CO  2 , as defined in Article 3(1), point (h), of Regulation (EU) 
+2019/631, lower than 50 g CO  2 /km (low- and zero-emission light-duty vehicles);  
+(ii) from 1 January 2026: specific emissions of CO  2 , as defined in Article 3(1), point (h), of Regulation (EU) 
+2019/631, are zero;  
+(g) vehicles of category L (  93 ) with tailpipe CO  2 emissions equal to 0g CO  2 e/km calculated in accordance with the 
+emission test laid down in Regulation (EU) 168/2013;EN  L 442/180 Official Journal of the European Union 9.12.2021  
+( 88 ) For points (j) to (m), the criteria related to retrofitting are covered in Sections 6.9 and 6.12 of this Annex.  
+( 89 ) As referred to in Article 4(1), point (a), of Regulation (EU) 2018/858.  
+( 90 ) As set out in point 3 of part C of Annex I to Regulation (EU) 2018/858.  
+( 91 ) Until 31/12/2022, the EURO VI, step E as set out in Regulation (EC) No 595/2009.  
+( 92 ) As defined in Article 4(1), points (a) and (b) of Regulation (EU) 2018/858.  
+( 93 ) As defined in Article 4 of Regulation (EU) No 168/2013.

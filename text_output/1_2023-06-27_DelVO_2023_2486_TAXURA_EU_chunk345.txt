@@ -1,0 +1,88 @@
+File Name: 1_2023-06-27_DelVO_2023_2486_TAXURA_EU.pdf
+Converted on: 2025-03-28 03:18:09
+Original Size: 8.44 MB
+Chunk Size: 500 tokens with 50 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 345 of 380
+--------------------------------------------------------------------------------
+
+ELI: http://data.europa.eu/eli/reg_del/2023/2486/oj 131/164‘ANNEX II
+TEMPLATES FOR THE KPIs OF NON-FINANCIAL UNDERTAKINGS
+Template: Proportion of turnover from products or services associated with Taxonomy-aligned economic activities – disclosure covering year N
+Financial year N Year Substantial contribution criteriaDNSH criteria (“Does Not Significantly
+Harm”) (h)
+Economic Activities
+(1)Code (a)
+(2)Turnover
+(3)Proportion
+of
+Turnover,
+year N (4)
+Climate Change  
+Mitigation (5)
+Climate Change  
+Adaptation (6)
+Water (7)
+Pollution (8) Circular Economy (9)
+Biodiversity (10)
+Climate Change  
+Mitigation (11)
+Climate Change  
+Adaptation (12)
+Water (13)
+Pollution (14)
+Circular Economy (15)
+Biodiversity (16)
+Minimum  
+Safeguards (17) Proportion of
+Taxonomy-
+aligned (A.1.) or
+-eligible (A.2.)
+turnover, year
+N-1 (18)Category
+enabling
+activity
+(19)Category
+transi -
+tional
+activity
+(20)
+Text Currency %Y; N;
+N/EL
+(b)(c)Y; N;
+N/EL
+(b)(c)Y; N;
+N/EL
+(b)(c)Y; N;
+N/EL
+(b)(c)Y; N;
+N/EL
+(b)(c)Y; N;
+N/EL
+(b)(c)Y/N Y/N Y/N Y/N Y/N Y/N Y/N % E T
+A. TAXONOMY-ELIGIBLE ACTIVITIES
+A.1. Environmentally sustainable activities (Taxonomy-aligned)
+Activity 1 % Y Y Y Y Y Y Y %
+Activity 1 (d) % Y Y Y Y Y Y Y % E
+Activity 2 % Y Y Y Y Y Y Y % T
+Turnover of
+environmentally
+sustainable activities
+(Taxonomy-aligned) (A.1)% % % % % % % Y Y Y Y Y Y Y %
+Of which enabling % % % % % % % Y Y Y Y Y Y Y % E
+Of which transitional % % Y Y Y Y Y Y Y % T
+A.2. Taxonomy-eligible but not environmentally sustainable activities (not Taxonomy-aligned activities) (g)
+EL;
+N/EL
+(f)EL;
+N/EL
+(f)EL;
+N/EL
+(f)EL;
+N/EL
+(f)EL;
+N/EL
+(f)EL;
+N/EL

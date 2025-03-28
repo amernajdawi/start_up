@@ -1,0 +1,29 @@
+File Name: 2_E1-6_2004-03_G_GHG-Prot_WRI&WBCSD.pdf
+Converted on: 2025-03-28 03:20:43
+Original Size: 3.51 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 11 of 104
+--------------------------------------------------------------------------------
+
+may require participating companies to establish an
+audit trail for GHG information (see chapter 10).
+GHG trading programs are likely to impose additional
+layers of accounting specificity relating to whichapproach is used for setting organizational boundaries;which GHGs and sources are addressed; how baseyears are established; the type of calculation method-ology used; the choice of emission factors; and themonitoring and verification approaches employed. The broad participation and best practices incorporatedinto the
+GHG Protocol Corporate Standard are likely
+to inform the accounting requirements of emergingprograms, and have indeed done so in the past.
+Recognition for early voluntary action
+A credible inventory may help ensure that a corpora-tion’s early, voluntary emissions reductions arerecognized in future regulatory programs. To illustrate,suppose that in 2000 a company started reducing itsGHG emissions by shifting its on-site powerhouse boilerfuel from coal to landfill gas. If a mandatory GHGreduction program is later established in 2005 and itsets 2003 as the base against which reductions are tobe measured, the program might not allow the emissionsreductions achieved by the green power project prior to2003 to count toward its target.
+However, if a company’s voluntary emissions reductions
+have been accounted for and registered, they are morelikely to be recognized and taken into account whenregulations requiring reductions go into effect. Forinstance, the state of California has stated that it willuse its best efforts to ensure that organizations thatregister certified emission results with the CaliforniaClimate Action Registry receive appropriate considera-tion under any future international, federal, or stateregulatory program relating to GHG emissions.GUIDANCEBusiness Goals and Inventory Design
+CHAPTER 2 14For Tata Steel, Asia’s first and India’s largest integrated privatesector steel company, reducing its GHG emissions through energyefficiency is a key element of its primary business goal: theacceptability of its product in international markets. Each year, inpursuit of this goal, the company launches several energy effi-ciency projects and introduces less-GHG-intensive processes. Thecompany is also actively pursuing GHG trading markets as ameans of further improving its GHG performance. To succeed inthese efforts and be eligible for emerging trading schemes, TataSteel must have an accurate GHG inventory that includes allprocesses and activities, allows for meaningful benchmarking,measures improvements, and promotes credible reporting.
+Tata Steel has developed the capacity to measure its progress in
+reducing GHG emissions. Tata Steel’s managers have access toon-line information on energy usage, material usage, waste andbyproduct generation, and other material streams. Using thisdata and the GHG Protocol calculation tools, Tata Steel generatestwo key long-term, strategic performance indicators: specificenergy consumption (Giga calorie / tonne of crude steel) and GHGintensity (tonne of CO
+2equivalent /  tonne of crude steel). These
+indicators are key sustainability metrics in the steel sector world-wide, and help ensure market acceptability and competitiveness.Since the company adopted the GHG Protocol Corporate Standard ,
+tracking performance has become more structured and stream-lined. This system allows Tata Steel quick and easy access to itsGHG inventory and helps the company maximize process andmaterial flow efficiencies. Tata Steel: Development of institutional
+capacity in GHG accounting and reporting
+
+--- Page 17 of 116 ---

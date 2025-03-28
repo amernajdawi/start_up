@@ -1,0 +1,20 @@
+File Name: 1_2023-07-31_DelVO_2023_2772_ESRS_EU.pdf
+Converted on: 2025-03-28 03:18:14
+Original Size: 5.82 MB
+Chunk Size: 500 tokens with 50 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 347 of 686
+--------------------------------------------------------------------------------
+
+may indicate the relevant legislation; if voluntary, the undertaking may refer to any voluntary standard or
+procedure used; and
+(j) whether the metrics are informed by or correspond to expectations or recommendations of relevant and
+authoritative national, EU-level or intergovernmental guidelines, policies, legislation or agreements, such as
+the Convention for Biological Diversity (CBD) or IPBES.
+AR 28. The undertaking shall disclose metrics that are verifiable and that are technically and scientifically robust
+considering the appropriate time scales geographies, and may disclose how its selected metrics correspond to
+those criteria. To ensure that the metric is relevant there should be a clear relationship between the indicator and
+the purpose of the measurement. Uncertainties should be reduced as far as possible. Data or mechanisms used
+should be supported by well-established organisations and updated over time. Robust modelled data and expert OJ L, 22.12.2023 EN

@@ -1,0 +1,27 @@
+File Name: 1_2021-06-04_DelVO_2021_2139_TAXKRA_EU.pdf
+Converted on: 2025-03-28 01:55:25
+Original Size: 2.76 MB
+Chunk Size: 400 tokens with 50 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 1016 of 1091
+--------------------------------------------------------------------------------
+
+to this Annex, a climate risk and vulnerability assessment to assess the materiality of the physical climate risks
+on the economic activity;
+(c) an assessment of adaptation solutions that can reduce the identified physical climate risk.
+The climate risk and vulnerability assessment is proportionate to the scale of the activity and its expected lifespan,
+such that:
+(a) for activities with an expected lifespan of less than 10 years, the assessment is performed, at least by using
+climate projections at the smallest appropriate scale;  
+_____________
+( 610  ) Nature-based solutions are defined as ‘solutions that are inspired and supported by nature, which are cost-effective, simulta neously 
+provide environmental, social and economic benefits and help build resilience. Such solutions bring more, and more diverse,
+nature and natural features and processes into cities, landscapes and seascapes, through locally adapted, resource-efficient an d
+systemic interventions’. Therefore, nature-based solutions benefit biodiversity and support the delivery of a range of ecosyste m
+services (version of 4.6.2021: https://ec.europa.eu/info/research-and-innovation/research-area/environment/nature-based-solutio ns_
+en/).
+( 611  ) See Communication from the Commission to the European Parliament, the Council, the European Economic and Social 
+Committee and the Committee of the Regions: Green Infrastructure (GI) — Enhancing Europe’s Natural Capital (COM/2013/0249
+final).EN  9.12.2021 Official Journal of the European Union L 442/323

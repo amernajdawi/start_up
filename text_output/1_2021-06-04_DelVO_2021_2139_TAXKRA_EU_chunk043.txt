@@ -1,0 +1,56 @@
+File Name: 1_2021-06-04_DelVO_2021_2139_TAXKRA_EU.pdf
+Converted on: 2025-03-28 03:20:30
+Original Size: 2.76 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 43 of 447
+--------------------------------------------------------------------------------
+
+1.  FORESTRY  
+1.1.  Afforestation  
+Description of the activity  
+Establishment of forest through planting, deliberate seeding or natural regeneration on land that, until then, was
+under a different land use or not used. Afforestation implies a transformation of land use from non-forest to
+forest, in accordance with the Food and Agriculture Organisation of the United Nations (‘FAO’) definition of
+afforestation (  1 ), where forest means a land matching the forest definition as set out in national law, or where not 
+available, is in accordance with the FAO definition of forest (  2 ). Afforestation may cover past afforestation as long 
+as it takes place in the period between the planting of the trees and the time when the land use is recognised as a
+forest.  
+The economic activities in this category could be associated with NACE code A2 in accordance with the statistical
+classification of economic activities established by Regulation (EC) No 1893/2006. The economic activities in this
+category are limited to NACE II 02.10, i.e. silviculture and other forestry activities, 02.20, i.e. logging, 02.30,
+i.e. gathering of wild growing non-wood products and 02.40, i.e. support services to forestry.  
+Technical screening criteria  
+Substantial contribution to climate change mitigation  
+1. Afforestation plan and subsequent forest management plan or equivalent instrument  
+1.1. The area on which the activity takes place is covered by an afforestation plan of a duration of at least five
+years, or the minimum period prescribed in national law, developed prior to the start of the activity and
+continuously updated, until this area matches the definition of forest as set out in national law or where not
+available, is in line with the FAO definition of forest.
+The afforestation plan contains all elements required by the national law relating to environmental impact
+assessment of afforestation.
+1.2. Preferably through the afforestation plan, or if information is missing, through any other document,
+detailed information is provided on the following points:
+(a) description of the area according to its gazetting in the land registry;
+(b) site preparation and its impacts on pre-existing carbon stocks, including soils and above-ground biomass, in
+order to protect land with high carbon stock (  3 ); 
+(c) management goals, including major constraints;
+(d) general strategies and activities planned to reach the management goals, including expected operations over
+the whole forest cycle;
+(e) definition of the forest habitat context, including main existing and intended forest tree species, and their
+extent and distribution;
+(f) compartments, roads, rights of way and other public access, physical features including waterways, areas
+under legal and other restrictions;
+(g) measures deployed to establish and maintain the good condition of forest ecosystems;
+(h) consideration of societal issues (including preservation of landscape, consultation of stakeholders in
+accordance with the terms and conditions laid down in national law);  
+_____________
+( 1 ) Establishment of forest through planting or deliberate seeding on land that, until then, was under a different land use, impl ies a
+transformation of land use form non-forest to forest,  FAO Global Resources Assessment 2020. Terms and definitions  (version of 
+4.6.2021: http://www.fao.org/3/I8661EN/i8661en.pdf).
+( 2 ) Land spanning more than 0,5 hectares with trees higher than five meters and a canopy cover of more than 10 %, or trees able t o
+reach those thresholds  in situ . It does not include land that is predominantly under agricultural or urban land use,  FAO Global 
+Resources Assessment 2020. Terms and definitions  (version of 4.6.2021: http://www.fao.org/3/I8661EN/i8661en.pdf). 
+( 3 ) Land with high-carbon stock means wetlands, including peatland, and continuously forested areas within the meaning of

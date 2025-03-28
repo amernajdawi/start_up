@@ -1,0 +1,77 @@
+File Name: 2_E1-6_2014-01-01_G_GHG-Agri_WRI&WBCSD.pdf
+Converted on: 2025-03-28 03:20:54
+Original Size: 1.75 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 48 of 65
+--------------------------------------------------------------------------------
+
+68
+Therefore, when recalculating the base pe riod inventory, new landowners should assess
+whether these changes occurred within the re levant look back period from their base
+periods. If so, the associated changes in C st ocks should be included in the recalculated
+base year inventory. For instance, if a compa ny acquired land that had been deforested by
+the prior land-owner five years before the new land-owner’s base period, the associated
+changes in C stocks should be included in the recalculated base period inventory.
+Appendix II provides an example.   Proxy data on historical LUC should be used in the absence of actual data 
+Companies, and especially new landowners, may find it difficult to obtain information on
+historical LUC. What should they do in such cases? This Guidance recommends that
+companies identify and estimate historical LU C using regional or local trends in, for
+example, land clearance. Alte rnatively, remote sensing data may be available from
+commercial or public databases, although th e collection of such data can be time
+consuming and complicated.   
+Additional reporting recommendations  
+1. To maintain the transparency of reported data, companies should report when they
+have not been able to collect historical  data and estimate historical effects.  
+2. Companies should carefully document all assumptions made in amortizing CO
+2
+fluxes (see Chapter 9.1). This is becaus e the amortization sc hedule chosen by a
+company will not match actual patterns of change, and a given period’s inventory will most likely under- or over-estimate th e actual fluxes (for instance, see Fig. 8-
+2).  
+3. If management shifts occur that would reverse any soil C sequ estration that has
+previously been amortized, companies should account for these losses in the
+inventory period in which the shift occurre d. For instance, if no till practices were
+to cease at any point and be replaced by c onventional till, C sequestration will be
+rapidly lost, and companies should record the cumulative gains up to that point as
+CO
+2 emissions in the inventory period in which conventi onal till started.
+Appendix II provides simplified cas e studies that illustrate how amortization is carried
+out, including for historical LUC.    
+
+--- Page 69 of 103 ---
+
+GHG Protocol Agricultural Guidance
+
+69
+ Figure 8-2.  Amortization schedules chosen by comp anies will not match actual patterns 
+of change. In this example C sequesters in so il at a non-linear rate following the adoption
+of reduced-tillage. But the CO 2 emissions are amortized at a fixed rate, causing actual
+fluxes to be either under- or over-estimated in any one reporting period. Note that the
+sequestration rates rise due to reduced so il disturbance but slow down as the C stock
+becomes saturated due to inherent physiochemical processes.  
+
+--- Page 70 of 103 ---
+
+GHG Protocol Agricultural Guidance
+
+70
+Chapter 9: Reporting GHG Data
+Fundamentally, a credible inve ntory provides information th at is complete, accurate,
+consistent and transparent, while meeting the decision-making needs of both internal
+management and external stakeholders.   This chapter: 
+ Describes information that must be reported in an inventory.
+ Outlines additional, sector-specific recommendations for reporting agricultural
+GHG fluxes.
+ Provides guidance on reporting offset a nd renewable energy projects on farms.
+
+Summary of requirements and main recommendations:
+ Companies shall report desc riptive information on inve ntory boundaries and base
+periods.
+ Companies shall report quantitative information on GHG fluxes following
+requirements in the Corporate St andard (and repeated here).
+ Companies should follow a set of additional ‘best practice’ recommendations for
+reporting agricultural GHG fluxes.
+ Any offset credits or renewable energy that are generated on farmland but sold
+off-site shall not be reflec ted in inventory totals.

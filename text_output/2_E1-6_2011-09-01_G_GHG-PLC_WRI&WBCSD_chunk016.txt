@@ -1,0 +1,40 @@
+File Name: 2_E1-6_2011-09-01_G_GHG-PLC_WRI&WBCSD.pdf
+Converted on: 2025-03-28 03:20:53
+Original Size: 3.27 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 16 of 116
+--------------------------------------------------------------------------------
+
+[22]   Product Life Cycle Accounting and Reporting Standard
+requirements
+The requirements and guidance in this standard follow
+the attributional approach to life cycle accounting.
+The attributional approach is defined as a method in
+which GHG emissions and removals are attributed to
+the unit of analysis of the studied product by linking
+together attributable processes along its life cycle.5
+The attributional approach makes use of primary data
+provided by a supplier/customer or average (secondary)
+data for a given process. Explanation of the terms unit
+of analysis, attributable processes, and primary data are
+given in chapter 6, chapter 7, and chapter 8, respectively.
+In addition to the attributional approach, another
+method of life cycle accounting is the consequential
+approach. The consequential approach is defined as an
+approach in which processes are included in the life cycle
+boundary to the extent that they are expected to change
+as a consequence of a change in demand for the unit of
+analysis.6  The consequential approach makes use of data 
+that is not constrained and can respond to changes in
+demand (e.g., marginal technology information), where
+change in demand can occur as a result of changes in
+production volumes, production technologies, public
+policies, and consumer behaviors. Although not followed
+in this standard, the consequential approach can provide
+valuable insight in certain applications such as evaluating
+reduction projects or making public policy decisions. Box [5.1] The consequential approach
+
+--- Page 25 of 148 ---

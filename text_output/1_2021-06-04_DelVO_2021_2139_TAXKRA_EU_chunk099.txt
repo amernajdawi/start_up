@@ -1,0 +1,53 @@
+File Name: 1_2021-06-04_DelVO_2021_2139_TAXKRA_EU.pdf
+Converted on: 2025-03-28 03:20:30
+Original Size: 2.76 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 99 of 447
+--------------------------------------------------------------------------------
+
+(5) Pollution prevention and control  The activity complies with the criteria set out in Appendix C to this 
+Annex.
+Emissions are within or lower than the emission levels associated with the
+best available techniques (BAT-AEL) ranges set out in the latest relevant
+best available techniques (BAT) conclusions, including:
+(a) the best available techniques (BAT) conclusions for the production of
+chlor-alkali (  134  ); 
+(b) the best available techniques (BAT) conclusions for common waste
+water and waste gas treatment/management systems in the chemical
+sector (  135  ). 
+No significant cross-media effects occur.  
+(6) Protection and restoration of
+biodiversity and ecosystems  The activity complies with the criteria set out in Appendix D to this 
+Annex.  
+3.14.  Manufacture of organic basic chemicals  
+Description of the activity  
+Manufacture of:  
+(a) high value chemicals (HVC):  
+(i) acetylene;  
+(ii) ethylene;  
+(iii) propylene;  
+(iv) butadiene.  
+(b) Aromatics:  
+(i) mixed alkylbenzenes, mixed alkylnaphthalenes other than HS 2707 or 2902;  
+(ii) cyclohexane;  
+(iii) benzene;  
+(iv) toluene;  
+(v) o-Xylene;  
+(vi) p-Xylene;  
+(vii) m-Xylene and mixed xylene isomers;  
+(viii) ethylbenzene;  
+(ix) cumene;  
+(x) biphenyl, terphenyls, vinyltoluenes, other cyclic hydrocarbons excluding cyclanes, cyclenes, cycloterpenes,
+benzene, toluene, xylenes, styrene, ethylbenzene, cumene, naphthalene, anthracene;  
+(xi) benzol (benzene), toluol (toluene) and xylol (xylenes)  
+(xii) naphthalene and other aromatic hydrocarbon mixtures (excluding benzole, toluole, xylole).  
+(c) vinyl chloride;  
+(d) styrene;  
+___________  
+( 134  ) Implementing Decision 2013/732/EU.  
+( 135  ) Implementing Decision (EU) 2016/902.EN  9.12.2021 Official Journal of the European Union L 442/57
+
+--- Page 58 of 349 ---

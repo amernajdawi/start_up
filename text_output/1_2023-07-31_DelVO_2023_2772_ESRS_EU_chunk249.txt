@@ -1,0 +1,50 @@
+File Name: 1_2023-07-31_DelVO_2023_2772_ESRS_EU.pdf
+Converted on: 2025-03-28 03:20:41
+Original Size: 5.82 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 249 of 284
+--------------------------------------------------------------------------------
+
+ELI: http://data.europa.eu/eli/reg_del/2023/2772/oj 248/284(b) where the undertaking has no policies on anti-
+corruption or anti-bribery consistent with the United Nations
+Convention against Corruption (120), it shall state this and whether it has plans to implement them and the
+timetable for implementation;
+(c) how the undertaking protects whistleblowers, including:
+i.details on the establishment of internal whistleblower reporting channels, including whether the undertaking
+provides for information and training to its own workers and information about the designation and training
+of staff receiving reports; and
+ii.measures to protect against retaliation its own workers who are whistleblowers in accordance with the
+applicable law transposing Directive (EU) 2019/1937 of the European Parliament and of the Council (121);
+(d) where the undertaking has no policies on the protection of whistle-blowers (122), it shall state this and whether it
+has plans to implement them and the timetable for implementation;
+(e) beyond the procedures to follow-up on reports by whistleblowers in accordance with the applicable law transposing Directive (EU) 2019/1937, whether the undertaking has procedures to investigate business conduct
+incidents, including incidents of corruption and bribery , promptly, independently and objectively;
+(f) where applicable, whether the undertaking has in place policies with respect to animal welfare;
+(g) the undertaking’s policy for training within the organisation on business conduct, including target audience,
+frequency and depth of coverage; and
+(h) the functions within the undertaking that are most at risk in respect of corruption and bribery .
+11. Undertakings that are subject to legal requirements under national law transposing Directive (EU) 2019/1937, or to
+equivalent legal requirements with regard to the protection of whistle-blowers, may comply with the disclosure
+specified in paragraph 10 (d) by stating that they are subject to those legal requirements.
+Disclosure Requirement G1-2 – Management of relationships with suppliers
+12. The undertaking shall provide information about the management of its relationships with its suppliers and its
+impacts on its supply chain.
+13. The objective of this Disclosure Requirement is to provide an understanding of the undertaking’s management of its procurement process including fair behaviour with suppliers.
+14. The undertaking shall provide a description of its policy to prevent late payments, specifically to SMEs.
+15. The disclosure required under paragraph 12 shall include the following information:
+(a) the undertaking’s approach to its relationships with its suppliers, taking account of risks to the undertaking
+related to its supply chain and of impacts on sustainability matters; and
+(b) whether and how it takes into account social and environmental criteria for the selection of its suppliers.
+(120)This information supports the information needs of financial market participants subject to Regulation (EU) 2019/2088 because it is
+derived from an additional indicator related to principal adverse impacts as set out by indicator #15 in Table III of Annex I of
+Commission Delegated Regulation (EU) 2022/1288 with regard to disclosures rules on sustainable investments (“Lack of anti- corruption and anti-bribery policies”).
+(121)Directive (EU) 2019/1937 of the European Parliament and of the Council of 23 October 2019 on the protection of persons who
+report breaches of Union law (OJ L 305, 26.11.2019, p. 17).
+(122)This information supports the information needs of financial market participants subject to Regulation (EU) 2019/2088 because it is derived from an additional indicator related to principal adverse impacts as set out by indicator #6 in Table III of Annex I of
+Commission Delegated Regulation (EU) 2022/1288 with regard to disclosures rules on sustainable investments (“Insufficient
+whistleblower protection”).OJ L, 22.12.2023 EN  
+
+--- Page 249 of 284 ---

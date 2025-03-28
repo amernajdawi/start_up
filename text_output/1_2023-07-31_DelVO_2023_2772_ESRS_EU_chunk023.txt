@@ -1,0 +1,51 @@
+File Name: 1_2023-07-31_DelVO_2023_2772_ESRS_EU.pdf
+Converted on: 2025-03-28 03:20:41
+Original Size: 5.82 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 23 of 284
+--------------------------------------------------------------------------------
+
+ELI: http://data.europa.eu/eli/reg_del/2023/2772/oj 21/284121. Provided that the conditions established in paragraph 120 are met, information prescribed by a Disclosure
+Requirement of an ESRS, including a specific datapoint prescribed by a Disclosure Requirement, may be
+incorporated in the sustainability statement by reference to the undertaking’s report prepared according to EU Eco-
+Management and Audit Scheme (EMAS) Regulation (EU) No 1221/2009 (12). In this case, the undertaking shall ensure
+that the information incorporated by reference is produced using the same basis for preparation of ESRS information,
+including scope of consolidation and treatment of value chain information.
+122. In the preparation of its sustainability statement using incorporation by reference, the undertaking shall consider
+the overall cohesiveness of the reported information and ensure that the incorporation by reference does not impair
+the readability of the sustainability statement. Appendix G Example of incorporation by reference of this Standard is an
+illustrative example of incorporation by reference (See ESRS 2 BP-2).
+9.2 Connected information and connectivity with financial statements
+123. The undertaking shall describe the relationships between different pieces of information. Doing so could require
+connecting narrative information on governance, strategy and risk management to related metrics and targets. For
+example, in providing connected information, the undertaking may need to explain the effect or likely effect of its
+strategy on its financial statements or financial plans, or explain how its strategy relates to metrics and targets used
+to measure progress against performance. Furthermore, the undertaking may need to explain how its use of natural
+resources and changes within its supply chain could amplify, change or reduce its material impacts, risks and
+opportunities. It may need to link this information to information about current or anticipated financial effects on
+its production costs, to its strategic response to mitigate such impacts or risks, and to its related investment in new
+assets. The undertaking may also need to link narrative information to the related metrics and targets and to
+information in the financial statements. Information that describes connections shall be clear and concise.
+124. When the sustainability statement includes monetary amounts or other quantitative data points that exceed a
+threshold of materiality and that are presented in the financial statements (direct connectivity between information
+disclosed in sustainability statement and information disclosed in financial statements), the undertaking shall include
+a reference to the relevant paragraph of its financial statements where the corresponding information can be found.
+125. The sustainability statement may include monetary amounts or other quantitative datapoints that exceed a
+threshold of materiality and that are either an aggregation of, or a part of, monetary amounts or quantitative data
+presented in the undertaking’s financial statements (indirect connectivity between information disclosed in sustainability statement and information disclosed in financial statements). If this is the case, the undertaking shall
+explain how these amounts or datapoints in the sustainability statement relate to the most relevant amounts
+presented in the financial statements. This disclosure shall include a reference to the line item and/or to the relevant
+paragraphs of its financial statements where the corresponding information can be found. Where appropriate, a
+reconciliation may be provided, and it may be presented in a tabular form.
+126. In the case of information not covered by paragraphs 124 and 125, the undertaking shall explain, based on a
+threshold of materiality, the consistency of significant data, assumptions, and qualitative information included in its
+sustainability statement with the corresponding data, assumptions and qualitative information included in the
+financial statements. This may occur when the sustainability statement includes:
+(a) monetary amounts or other quantitative data linked to monetary amounts or other quantitative data presented in
+the financial statements; or
+(b) qualitative information linked to qualitative information presented in the financial statements.
+(12)Regulation (EC) No 1221/2009 of the European Parliament and of the Council of 25 November 2009 on the voluntary participation
+by organisations in a Community eco-management and audit scheme (EMAS), repealing Regulation (EC) No 761/2001 and

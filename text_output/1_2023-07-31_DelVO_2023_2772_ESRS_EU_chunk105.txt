@@ -1,0 +1,51 @@
+File Name: 1_2023-07-31_DelVO_2023_2772_ESRS_EU.pdf
+Converted on: 2025-03-28 03:20:41
+Original Size: 5.82 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 105 of 284
+--------------------------------------------------------------------------------
+
+ELI: http://data.europa.eu/eli/reg_del/2023/2772/oj 107/284AR 68. Currently, there is no commonly accepted methodology to assess or measure how material physical risks and
+transition risks may affect the undertaking’s future financial position, financial, performance and cash flows.
+Therefore, the disclosure of the financial effects (as required by paragraphs 64, 66 and 67) will depend on the
+undertaking’s internal methodology and the exercise of significant judgement in determining the inputs, and assumptions needed to quantify their anticipated financial effects.
+Calculation guidance - Anticipated financial effects from material physical risks
+AR 69. When disclosing the information required under paragraphs 64 (a) and 66, the undertaking shall explain whether
+and how:
+(a) it assessed the anticipated financial effects for assets and business activities at material physical risk, including
+the scope of application, time horizons, calculation methodology, critical assumptions and parameters and
+limitations of the assessment; and
+(b) the assessment of assets and business activities considered to be at material physical risk relies on or is part of
+the process to determine material physical risk as required under paragraphs 20 (b) and AR 11 and to determine climate scenarios as required under paragraphs 19 and AR 13 to AR 14. In particular, it shall
+explain how it has defined medium- and long-term time horizons and how these definitions are linked to the expected lifetime of the undertaking’s assets, strategic planning horizons and capital allocation plans.
+AR 70. When preparing the information on assets at material physical risk that is required to be disclosed under paragraph
+66 (a), the undertaking shall:
+(a) Calculate the assets at material physical risk in terms of monetary amount and as a proportion (percentage) of
+total assets at the reporting date (i.e., the proportion is an estimate of the carrying value of assets at material
+physical risk divided by total carrying value as stated in the statement of financial position or balance sheet).
+The estimate of assets at material physical risk shall be derived starting from the assets recognised in the
+financial statements. The estimate of monetary amounts and proportion of assets at physical risk may be
+presented as either a single amount or range.
+(b) All types of assets including finance-lease / right-of-use assets shall be considered when determining the assets
+at material physical risk.
+(c) To contextualise this information, the undertaking shall:
+i.disclose the location of its significant assets at material physical risk. Significant assets located (
+52)in the EU
+territory shall be aggregated by NUTS codes 3 level digits (Nomenclature of Territorial Units for Statistics).
+For significant assets located outside EU territory, the breakdown by NUTS code will only be provided
+where applicable.
+ii.disaggregate the monetary amounts of assets at risk by acute and chronic physical risk (53).
+(d) calculate the share of assets at material physical risk resulting from paragraph 66 (a) that is addressed by the
+climate change adaptation actions based on the information disclosed under Disclosure Requirement E1-3.
+This aims at approximating net risks.
+AR 71. When preparing the information required under paragraph 64 (a) and 66 (d), the undertaking may assess and disclose the share of net revenue from business activities at physical risk. This disclosure
+(a) shall be based on the net revenue in line with the requirements in accounting standards applied for financial
+statements, i.e., IFRS 15 or local GAAP.
+(52)This disclosure requirement is consistent with the requirements of Commission Implementing Regulation (EU) 2022/2453 - Template
+5 exposures subjects to physical risk.
+(53)This disclosure requirement is consistent with the requirements of Commission Implementing Regulation (EU) 2022/2453 - Template 5 exposures subjects to physical risk.OJ L, 22.12.2023 EN  
+
+--- Page 108 of 284 ---

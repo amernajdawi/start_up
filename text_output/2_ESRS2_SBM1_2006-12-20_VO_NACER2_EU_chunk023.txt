@@ -1,0 +1,67 @@
+File Name: 2_ESRS2_SBM1_2006-12-20_VO_NACER2_EU.pdf
+Converted on: 2025-03-28 03:20:56
+Original Size: 0.17 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 23 of 45
+--------------------------------------------------------------------------------
+
+n.e.c. : not elsewhere classified * part of
+Division Group ClassISIC
+Rev. 4
+42 Civil engineering
+42.1 Construction of roads and railways
+42.11 Construction of roads and motorways 4210*42.12 Construction of railways and underground railways 4210*
+42.13 Construction of bridges and tunnels 4210*
+42.2 Construction of utility projects
+42.21 Construction of utility projects for fluids 4220*42.22 Construction of utility projects for electricity and telecommunications 4220*
+42.9 Construction of other civil engineering projects
+42.91 Construction of water projects 4290*42.99 Construction of other civil engineering projects n.e.c. 4290*
+43 Specialised construction activities
+43.1 Demolition and site preparation
+43.11 Demolition 4311
+43.12 Site preparation 4312*
+43.13 Test drilling and boring 4312*
+43.2 Electrical, plumbing and other construction installation activities
+43.21 Electrical installation 4321
+43.22 Plumbing, heat and air conditioning installation 4322
+43.29 Other construction installation 4329
+43.3 Building completion and finishing
+43.31 Plastering 4330*
+43.32 Joinery installation 4330*43.33 Floor and wall covering 4330*
+43.34 Painting and glazing 4330*
+43.39 Other building completion and finishing 4330*
+43.9 Other specialised construction activities
+43.91 Roofing activities 4390*
+43.99 Other specialised construction activities n.e.c. 4390*
+SECTION G —WHOLESALE AND RETAIL TRADE; REPAIR OF
+MOTOR VEHICLES AND MOTORCYCLES
+45 Wholesale and retail trade and repair of motor vehicles and
+motorcycles
+45.1 Sale of motor vehicles
+45.11 Sale of cars and light motor vehicles 4510*
+45.19 Sale of other motor vehicles 4510*
+45.2 Maintenance and repair of motor vehicles
+45.20 Maintenance and repair of motor vehicles 4520
+45.3 Sale of motor vehicle parts and accessories
+45.31 Wholesale trade of motor vehicle parts and accessories 4530*
+45.32 Retail trade of motor vehicle parts and accessories 4530*
+45.4 Sale, maintenance and repair of motorcycles and related parts and
+accessories
+45.40 Sale, maintenance and repair of motorcycles and related parts and
+accessories4540
+46 Wholesale trade, except of motor vehicles and motorcycles
+46.1 Wholesale on a fee or contract basis
+46.11 Agents involved in the sale of agricultural raw materials, live animals,
+textile raw materials and semi-finished goods4610*
+46.12 Agents involved in the sale of fuels, ores, metals and industrial
+chemicals4610*
+46.13 Agents involved in the sale of timber and building materials 4610*
+46.14 Agents involved in the sale of machinery, industrial equipment, ships
+and aircraft4610*
+46.15 Agents involved in the sale of furniture, household goods, hardware
+and ironmongery4610*30.12.2006 EN Official Journal of the European Union L 393/17
+
+--- Page 18 of 39 ---

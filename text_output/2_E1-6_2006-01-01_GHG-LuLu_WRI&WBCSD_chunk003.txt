@@ -1,0 +1,185 @@
+File Name: 2_E1-6_2006-01-01_GHG-LuLu_WRI&WBCSD.pdf
+Converted on: 2025-03-28 03:20:49
+Original Size: 6.41 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 3 of 50
+--------------------------------------------------------------------------------
+
+Thetwoproceduresforestimating“baselineGHG
+removals”—thatis,theGHGremovalsthatare
+comparedwiththeprojectactivityGHGremovals
+todeterminetheGHGreductions—are(1)the
+performancestandardprocedureand(2)theproject-
+specificprocedure.
+•Chapter4:SelectingaBaselineProcedure.
+Thischapterdescribeseachprocedureandexplains
+whichoneshouldbeusedforparticularforestry
+projectsandconditions.Thechoiceofprocedure
+affectstheidentificationofbaselinecandidates
+(chapter5)andtheestimationofbaselineGHG
+removals(chapters6and7).
+•Chapter5:IdentifyingtheBaselineCandidates .
+Thischaptershowshowtoidentifybaselinecandidates;
+thatis,thealternativelandusesormanagement
+practicestoconsiderandanalyzewhenestimating
+baselineGHGremovals.Thisisdonebydefininga
+relevantareaandtimeframefromwhichthebaseline
+candidatesareidentified.Itisimportantthatthis
+bedoneaccurately,asbothbaselineprocedures
+(chapters6and7)usethebaselinecandidatestoderive
+thebaselineGHGremovals.Baselinecandidatesare
+alsoimportantifaland-useormanagement trendis
+usedtoadjustthebaselineGHGremovals(chapter8).•Chapter6:EstimatingtheBaselineGHGRemovals—
+Project-SpecificProcedure.
+ThischapterexplainshowtoestimatebaselineGHG
+removalsusingthe“project-specific”procedure.
+Thefirstpartofthisprocedureidentifiesa“baseline
+scenario”fromthelistofbaselinecandidatesin
+chapter5,andthesecondpartestimatesthebaseline
+GHGremovalsassociatedwiththebaselinescenario.
+ThesebaselineGHGremovalsarethencomparedwith
+theprojectactivityGHGremovalstocalculatethe
+totalGHGreduction,explainedinchapter10.
+•Chapter7:EstimatingtheBaselineGHGRemovals—
+PerformanceStandardProcedure.
+ThischaptershowshowtoestimatebaselineGHG
+removalsusingthe“performancestandard”procedure.
+Todothis,thebaselineGHGremovalsareestimated
+byrankingthebaselinecandidatesbasedontheirGHG
+removalsandthenselectingthebetter-than-average
+GHGremovals(theperformancestandard )touse
+asbaselineGHGremovals.Aswiththeproject-specific
+procedure,thebaselineGHGremovalsarecompared
+withtheprojectactivityGHGremovalstocalculatethe
+totalGHGreduction,explainedinchapter10.
+•Chapter8:ApplyingaLand-UseorManagement
+TrendFactor.
+Thischaptergivesinstructionsforestimatingtherate
+atwhichland-useormanagementchangesareoccur -
+ringinaregion,thatis,theland-useormanagement
+trendfactor.Thisfactorcanbeappliedtoboththe
+performancestandardandtheproject-specificbaseline
+procedurestoderiveamoreaccurateestimateof
+baselineGHGremovalsovertime,therebyensuring
+thatthebaselineGHGremovalsmorecloselyreflect
+theregion’schangingconditions.
+•Chapter9:EstimatingandQuantifyingCarbonStocks.
+Thischapterdescribesthecomponentsnecessaryto
+estimateorquantifycarbonstocksandlistsvarious
+resourcestouse.
+•Chapter10:MonitoringandQuantifying
+GHGReductions.
+ThischaptershowshowtomonitorandquantifyGHG
+reductionsfromLULUCFprojectactivities.Italso
+suppliestheequationstocalculatethetotalGHG
+reductionsusingbaselineGHGremovals(estimatedin
+chapters6and7)andprojectactivityGHGremovals.
+CHAPTER1:Introduction 6
+
+--- Page 9 of 100 ---
+
+•Chapter11:CarbonReversibilityManagementPlan.
+Thischapterexplainshowtodevelopamanagement
+planforpreventingandmitigatingtheeffectsof
+intentionalorunintentionalcarbonreversals(e.g.,
+harvestingactivities,forestfires,insectinfestation).
+Intentionalreversalsshouldbefactoredintothe
+ex-anteassessmentoftheproject’sGHGreduction
+inchapter10,takingintoaccountanycompensating
+mechanismsincorporatedintotheprojectdesign.
+Theprojectreductionisthencalculated,basedon
+themonitoringofactualcarbonstoredbytheproject.
+Thecarbonreversibilitymanagementplanshouldmake
+surethattheprojectreductionsareactuallyachieved
+andarenotintentionallyorunintentionallyreversed.
+•Chapter12:ReportingGHGReductionsand
+NetCarbonStocks.
+Thischapterdescribeshowtoreporttransparentlythe
+GHGreductionscalculatedinchapter10andtoapply
+toLULUCFprojectsthereportingrequirementslisted
+intheProjectProtocol.
+P A R T I I I : E X A M P L E
+PartIIIoffersanexamplethatillustratestheapplication
+ofthisguidance:NipawinAfforestation Project.Other
+examplesareavailableontheGHGProtocolwebsite
+(www.ghgprotocol.org).
+P A R T I V : S U P P L E M E N T A RY I N F O R M AT I O N
+Therearefourannexesinthisdocument,providing
+projectdeveloperswithspecificinformation aboutlife-
+cycleassessmentsandsecondaryeffects,GHGprograms’
+definitionsofforest,afforestation,etc.,andmore
+detailedQA/QCprocedures.
+1.6 Issues NotAddressed
+intheLULUC FGuidance
+LiketheProjectProtocol,theLULUCFGuidancedoesnot
+addresssustainabledevelopment,stakeholderconsultation,
+ownershipofGHGreductions,confidentiality,andverifica -
+tion,althoughitdoesaddressuncertainty,albeitbriefly.In
+addition,theguidancedoesnotexplicitlydiscussthefollow -
+ingthreeissuesspecifictoLULUCFprojects:
+•Crediting:Creditingistheprovisionofcreditsbasedon
+theGHGremovalsoveragivenperiodoftime.
+AlthoughhowcreditingshouldbehandledforLULUCF
+projectactivitieshasbeenwidelydiscussedintheliter -
+ature,thisisapolicydecision,andthereforethe
+LULUCFGuidancedoesnotaddressit.•Ecologicalconsiderationsandco-benefitsfromLULUCF
+projectactivities:Land-usemanagementandecological
+conditions(e.g.,waterandbiodiversityconsiderations,
+communitylivelihoods)areimportantcomponentsof
+LULUCFprojectactivitiesandshouldbeconsidered
+whendevelopingaproject.Buttheyarebeyondthe
+scopeofthisdocumentandsoarenotcovered.
+•Woodproducts:Variousexpertgroupsarestill
+debatingaccountingconventionsforthecarbonstored
+inwoodproducts.Inthe1996GoodPracticeGuidance
+fordevelopingnationalinventories,theIntergovern-
+mentalPanelonClimateChange(IPCC)didnot
+includethecarbonstoredinwoodproductsafter
+harvesting.ForGHGaccounting,thismeansthatall
+carbonstoredinthetreeswasconsideredemittedback
+intotheatmosphereduringharvestandthatany
+carbonthatmayhaveremainedinwoodproductswas
+thusnotaccountedfor.Thismethodologyhoweveris
+changing.The2006IPCCguidelinesincludeavariety
+ofmethodstoaddresscarbonstoredinwoodproducts,
+andGHGprogramsliketheCaliforniaClimateAction
+RegistryandtheU.S.DepartmentofEnergy’s
+VoluntaryReportingofGreenhouseGases(1605[b])
+Programprovideguidanceonaccountingforwood
+products.OtherorganizationssuchastheNational
+CouncilforAirandStreamImprovement(NCASI),
+workingwiththeInternationalCouncilofForestPaper
+Associations(ICFPA),haveamanualentitled
+ICFPA/NCASIToolsforCalculatingBiomassCStoredi
+nForestProductsIn-Use—InstructionManualv1.0 .
+Otherguidancedocumentsmayalsoexist.Intheshort
+term,however,ifandhowthewoodproductspoolis
+incorporatedintoGHGaccountingforLULUCFproject
+activitieswillmostlikelycontinuetobepolicy
+decisionsmadebyindividualGHGprogramsandsoare
+notaddressedhere.
+N O T E S
+1Thisdocumentusesthetermreforestationbroadlyandgenerically
+tocoveranyactivitiesthatincludeplantingtreesinnonforested
+areas.Formoreinformationaboutprogram-specificdefinitionsof
+afforestation,reforestation,andhowthesetermsareusedhere,
+seeannexB.
+2Othersareavailableatwww.ghgprotocol.org.CHAPTER1:Introduction
+7
+
+--- Page 10 of 100 ---
+
+8
+PARTI:ConceptsandPrinciples
+numberofkeyconceptsmustbeunderstoodtoaccountforGHGreductionsfrom
+LULUCFprojects.Thischapterexplainstheimportanceoftheconceptsanddescribes
+howandwheretheyareusedintheLULUCFGuidance.Theconceptspresentedhere
+arealsodefinedintheglossary.Inaddition,thischapteroutlinestheprinciplespresentedinthe
+ProjectProtocol.KeyLULUCFAccounting
+ConceptsandPrinciples
+A2
+
+--- Page 11 of 100 ---

@@ -1,0 +1,59 @@
+File Name: 1_2023-07-31_DelVO_2023_2772_ESRS_EU.pdf
+Converted on: 2025-03-28 03:20:41
+Original Size: 5.82 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 130 of 284
+--------------------------------------------------------------------------------
+
+/ 852 are not met , the undertaking may specify whether the target addresses shortcomings related those DNSH criteria . Disclosure Requirement E3 - 4 – Water consumption AR 28 . The undertaking may operate in various areas at water risk . When disclosing information under paragraph 28 ( b ) , the undertaking shall include such information only for those areas that have been identified as material in accordance with ESRS2 IRO - 1 and ESRS2 SBM - 3 . OJ L , 22 . 12 . 2023 EN - - - Page 132 of 284 - - -
+
+ELI: http://data.europa.eu/eli/reg_del/2023/2772/oj 132/284AR 29. When disclosing contextual information on water consumption performance required by paragraph 26, the undertaking shall explain the calculation methodologies and more specifically the share of the measure obtained from direct measurement, from sampling and extrapolation, or from best estimates. AR 30. The undertaking may provide information on other breakdowns (i.e., per sector or segments). AR 31. When disclosing information required by paragraph 29 the undertaking may provide additional intensity ratios based on other denominators. AR 32. The undertaking may also provide information on its water withdrawals and water discharges. Disclosure Requirement E3-5 – Anticipated financial effects from material water and marine resources-related risks and opportunities AR 33. The undertaking may include an assessment of its related products and services at risk over the short-, medium- and long-term, explaining how these are defined, how financial amounts are estimated, and which critical assumptions are made. AR 34. The quantification of the anticipated financial effects in monetary terms under paragraph 39(a) may be a single amount or a range.OJ L, 22.12.2023 EN 
+
+--- Page 133 of 284 ---
+
+ELI: http://data.europa.eu/eli/reg_del/2023/2772/oj 133/284ESRS E4
+BIODIVERSITY AND ECOSYSTEMS
+TABLE OF CONTENTS
+Objective
+Interaction with other ESRS
+Disclosure Requirements
+– ESRS 2 General disclosures
+Strategy
+— Disclosure Requirement E4-1 – Transition plan and consideration of biodiversity and ecosystems in strategy
+and business model
+— Disclosure Requirement related to ESRS 2 SBM-3 – Material impacts, risks and opportunities and their
+interaction with strategy and business model
+Impact, risk and opportunity management
+— Disclosure Requirement related to ESRS 2 IRO-1 Description of processes to identify and assess material biodiversity and ecosystem-related impacts, risks and opportunities
+— Disclosure Requirement E4-2 – Policies related to biodiversity and ecosystems
+— Disclosure Requirement E4-3 – Actions and resources related to biodiversity and ecosystems
+Metrics and targets
+— Disclosure Requirement E4-4 – Targets related to biodiversity and ecosystems
+— Disclosure Requirement E4-5 – Impact metrics related to biodiversity and ecosystems change
+— Disclosure Requirement E4-6 – Anticipated financial effects from biodiversity and ecosystem-related risks
+and opportunities
+Appendix A: Application Requirements
+– ESRS 2 General disclosures
+Impact, risk and opportunity management
+— Disclosure Requirement E4-1 – Transition plan and consideration of biodiversity and ecosystems in strategy
+and business model
+— Disclosure requirements related to ESRS 2 IRO-1 – Description of the processes to identify and assess
+material biodiversity and ecosystem-related impacts, risks and opportunities
+— Disclosure Requirement E4-2 – Policies related to biodiversity and ecosystems
+— Disclosure Requirement E4-3 – Actions and resources related to biodiversity and ecosystems
+Metrics and targets
+— Disclosure Requirement E4-4 – Targets related to biodiversity and ecosystems
+— Disclosure Requirement E4-5 – Impact metrics related to biodiversity and ecosystems change
+— Disclosure Requirement E4-6 – Anticipated financial effects from biodiversity and ecosystem-related risks
+and opportunities
+Objective
+1. The objective of this Standard is to specify Disclosure Requirements which will enable users of the sustainability
+statement to understand:
+(a) how the undertaking affects biodiversity and ecosystems, in terms of material positive and negative, actual and
+potential impacts, including the extent to which it contributes to the drivers of biodiversity and ecosystem loss
+and degradation;OJ L, 22.12.2023 EN  
+
+--- Page 134 of 284 ---

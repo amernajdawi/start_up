@@ -1,0 +1,51 @@
+File Name: 2_E1-6_2004-03_G_GHG-Prot_WRI&WBCSD.pdf
+Converted on: 2025-03-28 03:20:43
+Original Size: 3.51 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 33 of 104
+--------------------------------------------------------------------------------
+
+Significance thresholds for recalculations
+Whether base year emissions are recalculated depends
+on the significance of the changes. The determination ofa significant change may require taking into account thecumulative effect on base year emissions of a number
+of small acquisitions or divestments. The
+GHG Protocol
+Corporate Standard makes no specific recommenda-
+tions as to what constitutes “significant.” However,
+some GHG programs do specify numerical significancethresholds, e.g., the California Climate ActionRegistry, where the change threshold is 10 percent ofthe base year emissions, determined on a cumulativebasis from the time the base year is established.
+Base year emissions
+recalculation for structural changes
+Structural changes trigger recalculation because they
+merely transfer emissions from one company to anotherwithout any change of emissions released to the atmos-phere, for example, an acquisition or divestment only
+transfers existing GHG emissions from one company’sinventory to another.
+Figures 6 and 7 illustrate the effect of structural
+changes and the application of this standard on recalcu-lation of base year emissions.
+Timing of recalculations for structural changes
+When significant structural changes occur during themiddle of the year, the base year emissions should berecalculated for the entire year, rather than only for theremainder of the reporting period after the structuralchange occurred. This avoids having to recalculate baseyear emissions again in the succeeding year. Similarly,current year emissions should be recalculated for theentire year to maintain consistency with the base yearrecalculation. If it is not possible to make a recalcula-tion in the year of the structural change (e.g., due toCHAPTER 5 Tracking Emissions Over Time 37GUIDANCEFIGURE 7. Base year emissions recalculation for a divestment
+Base Year Increase in
+ProductionBeta
+Divests C123
+➡
+2525
+253030
+303030
+30
+3025
+2530
+3030
+30Figures reported in respective yearsRecalculated figures Unit C
+Unit BUnit A
+123
+Company Beta consists of three business units (A, B, and C). Each business unit emits 25 tonnes CO2and the total emissions for the
+company are 75 tonnes CO2in the base year (year one). In year two, the output of the company grows, leading to an increase in emissions
+to 30 tonnes CO2per business unit, i.e., 90 tonnes CO2in total. At the beginning of year three, Beta divests business unit C and its annual
+emissions are now 60 tonnes, representing an apparent reduction of 15 tonnes relative to the base year emissions. However, to m aintain
+consistency over time, the company recalculates its base year emissions to take into account the divestment of business unit C.  The base
+year emissions are lowered by 25 tonnes CO2—the quantity of emissions produced by the business unit C in the base year. The recalcu-
+lated base year emissions are 50 tonnes CO2, and the emissions of company Beta are seen to have risen by 10 tonnes CO2over the three
+years. Beta (optionally) reports 60 tonnes CO2as the recalculated emissions for year two. BETA EMISSIONS
+
+--- Page 40 of 116 ---

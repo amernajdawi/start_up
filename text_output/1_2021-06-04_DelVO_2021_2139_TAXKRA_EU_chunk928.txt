@@ -1,0 +1,48 @@
+File Name: 1_2021-06-04_DelVO_2021_2139_TAXKRA_EU.pdf
+Converted on: 2025-03-28 03:18:03
+Original Size: 2.76 MB
+Chunk Size: 500 tokens with 50 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 928 of 966
+--------------------------------------------------------------------------------
+
+10.  FINANCIAL AND INSURANCE ACTIVITIES  
+10.1.  Non-life insurance: underwriting of climate-related perils  
+Description of the activity  
+Provision of the following insurance services (other than life insurance) as defined in Annex I of Commission
+Delegated Regulation (EU) 2015/35 of 10 October 2014 (  640  ) related to the underwriting of climate related perils 
+set out in Appendix A to this Annex:  
+(a) medical expense insurance;  
+(b) income protection insurance;  
+(c) workers' compensation insurance;  
+(d) motor vehicle liability insurance;  
+(e) other motor insurance;  
+(f) marine, aviation and transport insurance;  
+(g) fire and other damage to property insurance;  
+(h) assistance.  
+The economic activities in this category could be associated with NACE code K65.12 in accordance with the
+statistical classification of economic activities established by Regulation (EC) No 1893/2006.  
+An economic activity in this category is an enabling activity as referred to in Article 11(1), point (b), of Regulation
+(EU) 2020/852 where it meets the technical screening criteria set out in this section.  
+Technical screening criteria  
+Substantial contribution to climate change adaptation  
+1. Leadership in modelling and pricing of climate risks:  
+1.1. The insurance activity uses state-of-the-art modelling techniques that:
+(a) properly reflect climate change risks;
+(b) do not only rely on historical trend;
+(c) integrate forward-looking scenarios.
+1.2. The insurer publicly discloses how the climate change risks are considered in the insurance activity.
+1.3. With the exception of legal restrictions on contractual conditions and insurance premiums, the insurance
+activity provides incentives for risk reduction by setting out the (pre)-conditions for the insurance coverage of risk
+and by acting as a price signal of risk. For the purpose of this point, reduced premiums or deductibles, possibly
+based on supportive information on existing/possible actions, to policyholders who protect an asset or activity
+against natural catastrophes damages may be considered an incentive for risk reduction.
+1.4. After a climate risk event, the insurer provides information on the conditions under which coverage under
+the insurance activity could be renewed or maintained and in particular the benefits of building better in that
+context.
+2. Product design:  
+2.1. Insurance products sold under the insurance activity offer risk-based rewards for preventive actions taken
+by policyholders.
+For the purpose of this point, where a policyholder has invested in adaptation measures, lower premiums may be

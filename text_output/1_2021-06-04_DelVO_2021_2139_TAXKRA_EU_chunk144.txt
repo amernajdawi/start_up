@@ -1,0 +1,54 @@
+File Name: 1_2021-06-04_DelVO_2021_2139_TAXKRA_EU.pdf
+Converted on: 2025-03-28 03:20:30
+Original Size: 2.76 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 144 of 447
+--------------------------------------------------------------------------------
+
+Technical screening criteria  
+Substantial contribution to climate change mitigation  
+1. Characterisation and assessment of the potential storage complex and surrounding area, or exploration
+within the meaning of Article 3, point (8), of Directive 2009/31/EC of the European Parliament and of the
+Council (  224  ) is carried out in order to establish whether the geological formation is suitable for use as a CO  2 
+storage site.
+2. For operation of underground geological CO  2 storage sites, including closure and post-closure obligations: 
+(a) appropriate leakage detection systems are implemented to prevent release during operation;
+(b) a monitoring plan of the injection facilities, the storage complex, and, where appropriate, the surrounding
+environment is in place, with the regular reports checked by the competent national authority.
+3. For the exploration and operation of storage sites within the Union, the activity complies with Directive
+2009/31/EC. For the exploration and operation of storage sites in third countries, the activity complies with
+ISO 27914:2017 (  225  ) for geological storage of CO  2 . 
+Do no significant harm (‘DNSH’)  
+(2) Climate change adaptation  The activity complies with the criteria set out in Appendix A to this 
+Annex.  
+(3) Sustainable use and protection of
+water and marine resources  The activity complies with the criteria set out in Appendix B to this 
+Annex.  
+(4) Transition to a circular economy  N/A  
+(5) Pollution prevention and control  The activity complies with Directive 2009/31/EC.  
+(6) Protection and restoration of
+biodiversity and ecosystems  The activity complies with the criteria set out in Appendix D to this 
+Annex.  
+6.  TRANSPORT  
+6.1.  Passenger interurban rail transport  
+Description of the activity  
+Purchase, financing, rental, leasing and operation of passenger transport using railway rolling stock on mainline
+networks, spread over an extensive geographic area, passenger transport by interurban railways and operation of
+sleeping cars or dining cars as an integrated operation of railway companies.  
+The economic activities in this category could be associated with several NACE codes, in particular H49.10,
+N77.39 in accordance with the statistical classification of economic activities established by Regulation (EC)
+No 1893/2006.  
+Where an economic activity in this category does not fulfil the substantial contribution criterion specified in
+point (a) of this Section, that activity is a transitional activity as referred to in Article 10(2) of Regulation (EU)
+2020/852, provided it complies with the remaining technical screening criteria set out in this Section.  
+___________  
+( 224  ) Directive 2009/31/EC of the European Parliament and of the Council of 23 April 2009 on the geological storage of carbon dioxi de 
+and amending Council Directive 85/337/EEC, European Parliament and Council Directives 2000/60/EC, 2001/80/EC, 2004/35/EC,
+2006/12/EC, 2008/1/EC and Regulation (EC) No 1013/2006 (OJ L 140, 5.6.2009, p. 114).  
+( 225  ) ISO Standard 27914:2017, Carbon dioxide capture, transportation and geological storage — Geological storage (version of 
+4.6.2021: https://www.iso.org/standard/64148.html).EN  9.12.2021 Official Journal of the European Union L 442/101
+
+--- Page 102 of 349 ---

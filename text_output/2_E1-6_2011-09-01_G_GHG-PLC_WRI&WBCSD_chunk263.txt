@@ -1,0 +1,23 @@
+File Name: 2_E1-6_2011-09-01_G_GHG-PLC_WRI&WBCSD.pdf
+Converted on: 2025-03-28 01:56:27
+Original Size: 3.27 MB
+Chunk Size: 400 tokens with 50 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 263 of 270
+--------------------------------------------------------------------------------
+
+Hans-Jürgen Gerhardy, Deutsche Telekom AG
+Reiner Lemke, Deutsche Telekom AG
+Michael Zalan, Deutsche Telekom AG
+Daniel A. Daggett, Diversey
+Carina Alles, DuPont
+Dawn Rittenhouse, DuPont
+Susanne Veith, DuPont
+Bo Weidema, Ecoinvent
+Matt Molinaro, Ecolab, Inc.
+Ali Rivers, Ecometrica
+Marc Zanter, Edelweiss
+Nigel Carter, En-Venture
+Lixiao Hu, Energy Systems International Product Standard Technical Working Group Members (continued)

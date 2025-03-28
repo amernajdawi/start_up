@@ -1,0 +1,331 @@
+File Name: CELEX_32010L0075_DE_TXT.pdf
+Converted on: 2025-03-28 03:21:03
+Original Size: 4.18 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 15 of 93
+--------------------------------------------------------------------------------
+
+(1)
+(2)
+(3)
+(4)17.12.2010 DE Amtsblattder Europäischen Union L 334/25
+35. „Dieselmotor“  einen  nach  dem Dieselprin zip  arbeitenden
+Verbrennungsmotor
+mit Selbstzündung
+des Kraftstoffs;
+36. „
+kleines,
+isoliertes Netz“ ein  
+kleines,
+isoliertes Netzsystem im
+Sinne
+des Artikels
+2 Nummer 26 der Richtlin ie
+2003/54/E G
+des
+Europäischen
+Parlamen ts
+und
+des Rates vom 26. Juni
+2003
+über
+gemeinsame
+Vorschriften für den
+Elektrizitätsbinnenmarkt
+(1) ABl. L 176 vom 15.7.2003, S. 37.;
+37. „Abfall
+“ Abfälle
+gemäß
+der Begriffsbestimmung
+in
+Artikel
+3
+Nummer 1 der Richtlin ie
+2008/98/E G
+des Europäischen
+Par­
+laments
+und
+ des Rates vom 19.  Novemb er
+2008 über
+Abfälle
+(2) ABl. L 312 vom 22.11.2008, S. 3.;
+38. „gefährliche
+Abfälle
+“ gefährliche
+Abfälle
+gemäß
+der Begriffs­
+bestimmung
+in Artik el
+  3 Nummer  2 der Richtlin ie
+2008/98/E G;
+39.
+„gemischte
+Siedlungsabfälle
+“ Abfälle
+aus Haushaltun gen
+sowie
+gewerbliche,
+industrielle
+Abfälle
+und
+Abfälle
+aus Ein­
+richtungen,
+die aufgrund
+ihrer Beschaffen heit
+oder Zusam­
+mensetzung
+den Abfällen
+aus Haushaltun gen
+ähnlich
+sind,
+jedoch
+ausgenommen
+die unter
+Position
+20 01 des An hangs
+der
+Entscheidung
+2000/532/E G
+(3) Entscheidung  2000/532/E G  der Kommission  vom 3. Mai 2000  zur
+Ersetzung
+der Entscheidung
+94/3/EG
+über
+ein Abfallverzeichnis
+gemäß
+Artikel
+1 Buchstab e
+a) der Richtlinie 75/442/E W
+G des Rates
+über
+Abfälle
+und
+der Entscheidung
+94/904/EG
+des Rates üb er
+ein
+Ver­
+zeichnis g efährlicher
+Abfälle
+im Sinne
+von Artik el
+1 Absatz
+4 der
+Richtlinie
+91/689/EWG
+über
+gefährliche
+Abfälle
+(ABl. L 226 vom
+6.9.2000, S. 3). genannten Fraktionen,
+die
+getrennt
+am Entstehungsort
+eingesammelt
+werden, un d
+anderen,
+unter
+Position 20 02 dieses An hangs
+genannten
+Abfalls;
+40. „
+Abfallverbrennungsanlage
+“ jede ortsfeste oder n icht
+ortsfeste
+technische
+Einheit
+oder Anlage,
+die zur thermischen  
+Behand­
+lung
+von
+Abfällen
+mit oder ohn e
+Nutzung
+der Verbrennungs­
+wärme
+mittels Verb rennung
+durch Oxidation von Ab fällen
+und
+anderen
+thermischen Behan dlungsverfahren
+wie Pyro­
+lyse, Verg asung
+und
+Plasmaverfahren  
+eingesetzt
+wird, wen n
+die
+bei
+der Behan dlung
+entstehenden
+Stoffe anschließen d
+ver­
+brannt
+werden;
+41. „
+Abfallmitverbrennungsanlage
+“ jede ortsfeste oder n icht
+orts­
+feste techn ische
+Einheit,
+deren
+Hauptzweck  
+in
+der Energieer­
+zeugung
+oder der Produk tion
+stofflicher E rzeugnisse
+besteht
+und
+in der Ab fall
+als Regel-
+oder Zusatzbrennstoff verwen­
+det oder im Hin blick
+auf die Beseitig ung
+thermisch b ehandelt
+wird,
+und
+zwar mittels Verb rennung
+durch Oxidation von
+Abfällen
+und
+andere
+thermische Behan dlungsverfahren
+wie
+Pyrolyse, Verg asung
+und
+Plasmaverfahren ,
+wenn
+die bei
+der
+Behandlung
+entstehenden
+Stoffe an schließend
+verbrannt
+werden;
+42. „
+Nennkapazität
+“ die Summe der vom Hersteller an gegebenen
+und
+vom Betreib er
+bestätigten
+Verbrennungskapazitäten
+aller
+Öfen ein er
+Abfallverbrennungs-
+oder Ab fallmit
+­
+verbrennungsanlage,
+wobei
+der Heizwert des Ab falls,
+ausge­
+drückt
+in der pro Stun de
+verbrannten
+Abfallmenge,
+zu
+berücksichtigen
+ist;43. „Dioxine
+“ und „
+Furane
+“ alle in
+Anhang
+VI
+Teil 2 genannten
+polychlorierten  
+Dibenzo-p-Dioxine
+und
+Dibenzofurane;
+44. „
+organische
+Verbindung
+“ eine
+Verbindung,
+die zumin dest
+das
+Element
+Kohlenstoff
+und
+eines
+oder mehrere der E lem
+ent
+e
+Wasserstoff, Halog ene,
+Sauerstoff, Schwefel, Phosphor, Sili­
+zium oder Stick stoff
+enthält,
+ausgenommen
+Kohlenstoffoxide
+sowie
+anorganische
+Karbonate
+und
+Bikarbonate;
+45.
+„flüchtige
+organische
+Verbindung
+“ eine
+organische
+Verbin
+­
+dung
+und
+der Kreosotanteil,
+die bzw.
+der bei
+293,15 K
+einen
+Dampfdruck
+von 0,01 k Pa
+oder mehr hat oder un ter
+den
+jeweiligen
+Verwendungsbedingungen
+eine
+entsprechende
+Flüchtigkeit
+aufweist;
+46. „organisches
+Lösungsmittel
+“ eine
+flüchtige
+organische
+Ver­
+bindung,
+die zu ein em
+der folgenden
+Zwecke
+verwendet
+wird:
+a) ohne
+sich chemisch zu verän dern
+allein
+oder in
+Kombi­
+nation
+mit anderen
+Stoffen
+zur Auflösun g
+von
+Rohstof­
+fen,
+Produkten
+oder Abfallstoffen;
+b)
+als Rein igungsmittel
+zur Auflösun g
+von
+Verschmutzun gen;
+c) als
+Lösungsmittel;
+d) als
+Dispersion smittel;
+e) als

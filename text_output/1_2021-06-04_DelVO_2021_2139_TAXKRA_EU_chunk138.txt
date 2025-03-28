@@ -1,0 +1,48 @@
+File Name: 1_2021-06-04_DelVO_2021_2139_TAXKRA_EU.pdf
+Converted on: 2025-03-28 03:20:30
+Original Size: 2.76 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 138 of 447
+--------------------------------------------------------------------------------
+
+5.5.  Collection and transport of non-hazardous waste in source segregated fractions  
+Description of the activity  
+Separate collection and transport of non-hazardous waste in single or comingled fractions (  213  ) aimed at preparing 
+for reuse or recycling.  
+The economic activities in this category could be associated with NACE code E38.11 in accordance with the
+statistical classification of economic activities established by Regulation (EC) No 1893/2006.  
+Technical screening criteria  
+Substantial contribution to climate change mitigation  
+All separately collected and transported non-hazardous waste that is segregated at source is intended for
+preparation for reuse or recycling operations.  
+Do no significant harm (‘DNSH’)  
+(2) Climate change adaptation  The activity complies with the criteria set out in Appendix A to this 
+Annex.  
+(3) Sustainable use and protection of
+water and marine resources  N/A  
+(4) Transition to a circular economy  Separately collected waste fractions are not mixed in waste storage and 
+transfer facilities with other waste or materials with different properties.  
+(5) Pollution prevention and control  N/A  
+(6) Protection and restoration of
+biodiversity and ecosystems  N/A  
+5.6.  Anaerobic digestion of sewage sludge  
+Description of the activity  
+Construction and operation of facilities for the treatment of sewage sludge by anaerobic digestion with the
+resulting production and utilisation of biogas or chemicals.  
+The economic activities in this category could be associated with several NACE codes, in particular E37.00 and
+F42.99 in accordance with the statistical classification of economic activities established by Regulation (EC)
+No 1893/2006.  
+Technical screening criteria  
+Substantial contribution to climate change mitigation  
+1. A monitoring and contingency plan is in place in order to minimise methane leakage at the facility.
+2. The produced biogas is used directly for the generation of electricity or heat, or upgraded to bio-methane
+for injection in the natural gas grid, or used as vehicle fuel or as feedstock in chemical industry.  
+_____________
+( 213  ) In the Union, the activity is in line with Article 10(3) of Directive 2008/98/EC of the European Parliament and of the Counci l of 
+19 November 2008 on waste and repealing certain Directives (OJ L 312, 22.11.2008, p. 3) and the national legislation and
+waste management plans.EN  9.12.2021 Official Journal of the European Union L 442/95
+
+--- Page 96 of 349 ---

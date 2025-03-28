@@ -1,0 +1,32 @@
+File Name: 2_E1-6_2004-03_G_GHG-Prot_WRI&WBCSD.pdf
+Converted on: 2025-03-28 03:18:16
+Original Size: 3.51 MB
+Chunk Size: 500 tokens with 50 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 181 of 225
+--------------------------------------------------------------------------------
+
+emissions intensity, i.e., emissions per unit of produc-tion output.
+3)  It ensures transparency in reporting of indirect emis-
+sions from T&D losses.
+The formula to account for emissions associated with
+T&D losses is the following:
+In some countries such as Japan, local regulations may
+require utility companies to provide both EFG and EFC toits consumers, and consumers may be required to use EFCto calculate indirect emissions from the consumption ofpurchased electricity. In this case, a company still needs touse EFG to report its scope 2 emissions for a GHG reportprepared in accordance with
+GHG Protocol Corporate Standard .APPENDIX AEFC xELECTRICITY CONSUMED
+=
+EFG x(ELECTRICITY CONSUMED +T&D LOSSES)
+T&D LOSSES
+ELECTRICITY CONSUMEDEFG =
+EFC =TOTAL CO2EMISSIONS FROM GENERATION
+ELECTRICITY GENERATED
+TOTAL CO2EMISSIONS FROM GENERATION  
+ELECTRICITY CONSUMED
+(                 )
+INDIRECT EMISSIONS
+FROM CONSUMPTION OF
+ELECTRICITY DURING T&DEFG x
+ELECTRICITY CONSUMED
+DURING T&D=EFC =EFG x 1+

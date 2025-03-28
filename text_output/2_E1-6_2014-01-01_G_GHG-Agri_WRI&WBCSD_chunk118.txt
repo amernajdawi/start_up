@@ -1,0 +1,37 @@
+File Name: 2_E1-6_2014-01-01_G_GHG-Agri_WRI&WBCSD.pdf
+Converted on: 2025-03-28 01:56:31
+Original Size: 1.75 MB
+Chunk Size: 400 tokens with 50 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 118 of 150
+--------------------------------------------------------------------------------
+
+Many types of performance metrics exist
+Some examples of performance metrics are:  
+Productivity and efficiency rati os: These express the value or achievement of a company
+divided by its GHG impact. Increasing effici ency ratios therefore reflect a positive
+performance improvement. Examples of producti vity/efficiency ratios include resource
+productivity ratios (e.g., sales per GHG) and process eco-efficiency ratios (e.g.,
+production volume per amount of GHG).  Intensity ratios: Intensity (or ‘normalized ’) ratios express GHG impact per unit of 
+physical activity or unit of economic output. A physical intensity ratio is suitable when
+aggregating or comparing across businesses that have similar products. In turn, an
+economic intensity ratio is suitable when a ggregating or comparing across businesses that
+produce different products. A declining intens ity ratio reflects a positive performance
+improvement. Examples of intensity ratio s include product inte nsity (e.g., tonnes of
+emissions per unit of sold livestock or crops generated) and sales intensity (e.g.,
+emissions per sales).  When calculating intensity ratios companies may have to allocate  
+GHG fluxes amongst different product streams (see below).   Percentages: A percentage indicator is a ra tio between two similar variables (with the 
+same physical unit in the numerator and the de nominator). Examples of percentages that
+can be meaningful in performance reports include current GHG fluxes expressed as a
+percentage of base  year GHG fluxes. 
+In selecting a performance metric, companies should consider which metrics best capture
+the benefits and impacts of their business (e .g., its operations, its produ cts, and its effects
+on the marketplace), as well as  its intended application. 
+
+--- Page 78 of 103 ---
+
+GHG Protocol Agricultural Guidance
+
+78

@@ -1,0 +1,82 @@
+File Name: 1_2023-07-31_DelVO_2023_2772_ESRS_EU.pdf
+Converted on: 2025-03-28 03:20:41
+Original Size: 5.82 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 5 of 284
+--------------------------------------------------------------------------------
+
+ELI: http://data.europa.eu/eli/reg_del/2023/2772/oj 3/284ANNEX I
+European sustainability reporting standards (ESRS)
+ESRS 1 General requirements
+ESRS 2 General disclosures
+ESRS E1 Climate change
+ESRS E2 Pollution
+ESRS E3 Water and marine resources
+ESRS E4 Biodiversity and ecosystems
+ESRS E5 Resource use and circular economy
+ESRS S1 Own workforce
+ESRS S2 Workers in the value chain
+ESRS S3 Affected communities
+ESRS S4 Consumers and end-users
+ESRS G1 Business conduct
+ESRS 1
+GENERAL REQUIREMENTS
+TABLE OF CONTENTS
+Objective
+1. Categories of ESRS Standards, reporting areas and drafting conventions1.1 Categories of ESRS Standards
+1.2 Reporting areas and minimum content disclosure requirements on policies, actions, targets and metrics
+1.3 Drafting conventions
+2. Qualitative characteristics of information
+3. Double materiality as the basis for sustainability disclosures
+3.1 Stakeholders and their relevance to the materiality assessment process
+3.2 Material matters and materiality of information
+3.3 Double materiality
+3.4 Impact materiality
+3.5 Financial materiality
+3.6 Material impacts or risks arising from actions to address sustainability matters
+3.7 Level of disaggregation
+4. Due diligence
+5. Value chain
+5.1 Reporting undertaking and value chain
+5.2 Estimation using sector averages and proxies
+6. Time horizons6.1 Reporting period
+6.2 Linking past, present and futureOJ L, 22.12.2023 EN  
+
+--- Page 4 of 284 ---
+
+ELI: http://data.europa.eu/eli/reg_del/2023/2772/oj 4/2846.3 Reporting progress against the base year
+6.4 Definition of short-, medium- and long-term for reporting purposes
+7 Preparation and presentation of sustainability information
+7.1 Presenting comparative information
+7.2 Sources of estimation and outcome uncertainty
+7.3 Updating disclosures about events after the end of the reporting period
+7.4 Changes in preparation or presentation of sustainability information
+7.5 Reporting errors in prior periods
+7.6 Consolidated reporting and subsidiary exemption
+7.7 Classified and sensitive information, and information on intellectual property, know-how or results of
+innovation
+7.8 Reporting on opportunities
+8. Structure of sustainability statement
+8.1 General presentation requirement
+8.2 Content and structure of the sustainability statement
+9. Linkages with other parts of corporate reporting and connected information9.1 Incorporation by reference
+9.2 Connected information and connectivity with financial statements
+10. Transitional provisions10.1 Transitional provision related to entity-specific disclosures
+10.2 Transitional provision related to chapter 5 Value chain
+10.3 Transitional provision related to section 7.1 Presenting comparative information
+10.4 Transitional provision: List of Disclosure Requirements that are phased-in
+Appendix A: Application Requirements– Entity-specific disclosures
+– Double materiality
+– Estimation using sector averages and proxies
+– Content and structure of the sustainability statement
+Appendix B: Qualitative characteristics of information
+Appendix C: List of phased-in Disclosure Requirements
+Appendix D: Structure of ESRS sustainability statement
+Appendix E: Flowchart for determining disclosures to be included
+Appendix F: Example of structure of ESRS sustainability statement
+Appendix G: Example of incorporation by referenceOJ L, 22.12.2023 EN  
+
+--- Page 5 of 284 ---

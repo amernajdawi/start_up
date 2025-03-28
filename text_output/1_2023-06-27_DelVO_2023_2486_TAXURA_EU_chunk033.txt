@@ -1,0 +1,43 @@
+File Name: 1_2023-06-27_DelVO_2023_2486_TAXURA_EU.pdf
+Converted on: 2025-03-28 03:20:36
+Original Size: 8.44 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 33 of 199
+--------------------------------------------------------------------------------
+
+ELI: http://data.europa.eu/eli/reg_del/2023/2486/oj 21/164(b) in the EU, in any area: the activity is not detrimental to the recovery or maintenance
+of the populations of species protected under Directive 92/43/EEC and Directive
+2009/147/EC of the European Parliament and of the Council (20)at a favourable
+conservation status. The activity is also not detrimental to the recovery or maintenance of the habitat types concerned and protected under Directive
+92/43/EEC at a favourable conservation status;
+(c) in the EU, the introduction of invasive alien species is prevented, or their spread is managed in accordance with Regulation (EU) No 1143/2014;
+(d) outside of the EU, activities are conducted in accordance with applicable law related
+to the conservation of habitats, species and the management of invasive alien
+species.
+4. Information and communication
+4.1. Provision of IT/OT data-driven solutions for leakage reduction
+Description of the activity
+The activity manufactures, develops, installs, deploys, maintains, repairs or provides professional services, including
+technical consulting for design or monitoring, for information technology (IT) or operational technology (OT) data driven
+solutions (
+21)to control, manage, reduce and mitigate leakage in water supply systems (WSSs).
+The economic activities in this category could be associated with several NACE codes, in particular E36, F42.99 and J62 in accordance with the statistical classification of economic activities established by Regulation (EC) No 1893/2006.
+An economic activity in this category is an enabling activity in accordance with Article 12(1), point (e), of Regulation
+(EU) 2020/852 where it complies with the technical screening criteria set out in this Section.
+Technical screening criteria
+Substantial contribution to the sustainable use and protection of water and marine resources
+1.The economic activity manufactures, develops, installs, deploys, maintains, repairs or provides professional services,
+including technical consulting for design or monitoring, to one or more of the following IT/OT data-driven solutions to
+control, manage, reduce and mitigate leakage in the new or existing water supply systems:
+(a) monitoring systems including holistic IT/OT suites/tools, or add-ons/extensions to such tools that provide
+identification, tracking and tracing water leakage;
+(b) IT/OT solutions, or add-ons/extensions to such tools, that provide controlling, managing and mitigating water leakage;
+(c) IT/OT solutions, or add-ons/extensions to such tools, that ensure interoperability of systems in district metered areas when new monitoring systems or IT/OT solutions are installed.
+(20)Directive 2009/147/EC of the European Parliament and of the Council of 30 November 2009 on the conservation of wild birds
+(OJ L 20, 26.1.2010, p. 7).
+(21)‘IT or OT data-driven solutions’ include connectable products, sensors, analytics and other software, and information and communication technologies (ICT) for the transmission, storage and display of data and system management.OJ L, 21.11.2023 EN  
+
+--- Page 22 of 164 ---

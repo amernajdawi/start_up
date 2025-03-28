@@ -1,0 +1,51 @@
+File Name: 1_2022-12-14_RL_2022_2464_CSRD_EU.pdf
+Converted on: 2025-03-28 03:20:33
+Original Size: 1.12 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 77 of 140
+--------------------------------------------------------------------------------
+
+(82) Since the objectives of this amending Directive cannot be suffic iently achi eved by the Member States but can rather ,
+by reason of the scale or effects of the action, be better achi eved at Union level, the Union may adopt measures, in
+accordance with the principle of subsidiar ity as set out in Article 5 of the Treaty on European Union. In accordance
+with the principle of propor tionality as set out in that Article, this amending Directive does not go beyond what is
+necessar y in order to achi eve those objectives.
+(83) Regulation (EU) No 537/2014, Directive 2004/109/EC, Directive 2006/43/EC and Directive 2013/34/EU should
+theref ore be amended according ly.
+(84) The ECB was consult ed and delivered an opinion on 7 Sept ember 2021 ,
+HAVE ADOPTED THIS DIRECTIVE:
+Article 1
+Amendments to Directiv e 2013/34/EU
+Directive 2013/34/EU is amended as follows :
+(1) in Article 1, the followi ng paragraphs are added:
+‘3. The coordination measures prescr ibed by Articles 19a, 29a, 29d, 30 and 33, point (aa) of the second
+subparagraph of Article 34(1), Article 34(2) and (3) and Article 51 of this Directive shall also apply to the laws,
+regulations and administrative provisions of the Member States relating to the following under takings regar dless of
+their legal form, provi ded that those under takings are large under takings, or small and medium-sized under takings,
+excep t micro under takings, whic h are public-inte rest entities as defined in point (a) of point (1) of Article 2 of this
+Directive:
+(a) insurance under takings within the meaning of Article 2(1) of Council Directive 91/674/EEC (*);
+(b) credit institutions as defined in point (1) of Article 4(1) of Regulation (EU) No 575/2013 of the European
+Parliament and of the Council (**).
+Member States may choose not to apply the coordination measures refer red to in the first subparagraph of this
+paragraph to the under takings listed in points (2) to (23) of Article 2(5) of Directive 2013/36/EU of the
+European Parliament and of the Council (***).
+4. The coordination measures prescr ibed by Articles 19a, 29a and 29d shall not apply to financial products liste d
+in points (b) and (f) of point (12) of Article 2 of Regulation (EU) 2019/2088 of the European Parliament and of the
+Council (****).
+5. The coordination measures prescr ibed by Articles 40a to 40d shall also apply to the laws, regulations and
+administrative provis ions of the Member State s relating to subsidiar y under takings and branche s of under takings
+which are not governed by the law of a Member State but whose legal form is compar able with the types of
+under takings liste d in Annex I.
+_____________
+(*) Council Directive 91/674/EEC of 19 December 1991 on the annual accounts and consolidate d accounts of
+insurance under takings (OJ L 374, 31.12.1991, p. 7).
+(**) Regulation (EU) No 575/2013 of the European Parliament and of the Council of 26 June 2013 on prudential
+requirements for credit institutions and amending Regulation (EU) No 648/2012 (OJ L 176, 27.6.2013, p. 1).
+(***) Directive 2013/36/EU of the European Parliament and of the Council of 26 June 2013 on access to the activity
+of credit institutions and the prudential super vision of credit institutions, amending Directive 2002/87/EC and
+repealing Directives 2006/48/EC and 2006/49/EC (OJ L 176, 27.6.2013, p. 338).
+(****) Regulation (EU) 2019/2088 of the European Parliament and of the Council of 27 November 2019 on

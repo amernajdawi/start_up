@@ -1,0 +1,49 @@
+File Name: 1_2023-07-31_DelVO_2023_2772_ESRS_EU.pdf
+Converted on: 2025-03-28 03:20:41
+Original Size: 5.82 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 18 of 284
+--------------------------------------------------------------------------------
+
+ELI: http://data.europa.eu/eli/reg_del/2023/2772/oj 16/2847. Preparation and presentation of sustainability information
+82. This chapter provides general requirements to be applied when preparing and presenting sustainability information.
+7.1 Presenting comparative information
+83. The undertaking shall disclose comparative information in respect of the previous period for all quantitative metrics
+and monetary amounts disclosed in the current period. When relevant to an understanding of the current period’s
+sustainability statement, the undertaking shall also disclose comparative information for narrative disclosures.
+84. When the undertaking reports comparative information that differs from the information reported in the previous
+period it shall disclose:
+(a) the difference between the figure reported in the previous period and the revised comparative figure; and
+(b) the reasons for the revision of the figure.
+85. Sometimes, it is impracticable to adjust comparative information for one or more prior periods to achieve
+comparability with the current period. For example, data might not have been collected in the prior period(s) in a
+way that allows either retrospective application of a new definition of a metric or target, or retrospective restatement
+to correct a prior period error, and it may be impracticable to recreate the information (see ESRS 2 BP-2). When it is
+impracticable to adjust comparative information for one or more prior periods, the undertaking shall disclose this
+fact.
+86. When an ESRS requires the undertaking to present more than one comparative period for a metric or datapoint, the
+requirements of that ESRS shall prevail.
+7.2 Sources of estimation and outcome uncertainty
+87. When quantitative metrics and monetary amounts, including upstream and downstream value chain information
+(see chapter 5 of this Standard), cannot be measured directly and can only be estimated, measurement uncertainty may arise.
+88. An undertaking shall disclose information to enable users to understand the most significant uncertainties affecting
+the quantitative metrics and monetary amounts reported in its sustainability statement.
+89. The use of reasonable assumptions and estimates, including scenario or sensitivity analysis, is an essential part of
+preparing sustainability-related information and does not undermine the usefulness of that information, provided
+that the assumptions and estimates are accurately described and explained. Even a high level of measurement
+uncertainty would not necessarily prevent such an assumption or estimate from providing useful information or
+meeting the qualitative characteristics of information (see Appendix B of this Standard).
+90. Data and assumptions used in preparing the sustainability statement shall be consistent to the extent possible with
+the corresponding financial data and assumptions used in the undertaking’s financial statements.
+91. Some ESRS require the disclosure of information such as explanations about possible future events that have
+uncertain outcomes. In judging whether information about such possible future events is material, the undertaking
+shall refer to the criteria in Chapter 3 of this Standard and consider:
+(a) the potential financial effects of the events (the possible outcome);
+(b) the severity and likelihood of the impacts on people or the environment resulting from the possible events,
+taking account of the factors of severity specified in paragraph 45; and
+(c) the full range of possible outcomes and the likelihood of the possible outcomes within that range.OJ L, 22.12.2023 EN  
+
+--- Page 17 of 284 ---

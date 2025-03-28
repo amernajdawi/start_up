@@ -1,0 +1,53 @@
+File Name: 1_2021-06-04_DelVO_2021_2139_TAXKRA_EU.pdf
+Converted on: 2025-03-28 03:20:30
+Original Size: 2.76 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 68 of 447
+--------------------------------------------------------------------------------
+
+(c) definition of the forest habitat context, main forest tr ee species and those intended and their extent and
+distribution, in accordance to the local forest ecosystem context;
+(d) definition of the area according to its gazetting in the land registry;
+(e) compartments, roads, rights of way and other public access, physical features including waterways, areas under
+legal and other restrictions;
+(f) measures deployed to maintain the good condition of forest ecosystems;
+(g) consideration of societal issues (including preservation of landscape, consultation of stakeholders in
+accordance with the terms and conditions laid down in national law);
+(h) assessment of forest related risks, including forest fires, and pests and diseases outbreaks, with the aim of
+preventing, reducing and controlling the risks and measures deployed to ensure protection and adaptation
+against residual risks;
+(i) all DNSH relevant to forest management.
+1.3. The forest management plan or the equivalent instrument:
+(a) shows a primary designated management objective (  52 ) that consists in protection of soil and water (  53 ), 
+conservation of biodiversity (  54 ) or social services (  55 ) based on the FAO definitions; 
+(b) promotes biodiversity-friendly practices that enhance forests’ natural processes;
+(c) includes an analysis of:
+(i) impacts and pressures on habitat conservation and diversity of associated habitats;
+(ii) condition of harvesting minimizing soil impacts;
+(iii) other activities that have an impact on conser vation objectives, such as hunting and fishing, agricultural,
+pastoral and forestry activities, industrial, mining, and commercial activities.
+1.4. The sustainability of the forest management systems as documented in the plan referred to in point 1.1 is
+ensured by choosing the most ambitious of the following approaches:
+(a) the forest management matches the national definition of sustainable forest management, if any;
+(b) the forest management matches the Forest Europe definition (  56 ) of sustainable forest management and 
+complies with the Pan-European Operational Level Guidelines for Sustainable Forest Management (  57 ); 
+_____________
+( 52 ) The primary designated management objective assigned to a management unit (FAO Global Resources Assessment 2020. Terms
+and definitions version of 4.6.2021: http://www.fao.org/3/I8661EN/i8661en.pdf).
+( 53 ) Forest where the management objective is protection of soil and water. (FAO Global Resources Assessment 2020. Terms and
+definitions version of 4.6.2021: http://www.fao.org/3/I8661EN/i8661en.pdf).
+( 54 ) Forest where the management objective is conservation of biological diversity. Includes but is not limited to areas designate d for
+biodiversity conservation within the protected areas. (FAO Global Resources Assessment 2020. Terms and definitions version of
+4.6.2021: http://www.fao.org/3/I8661EN/i8661en.pdf).
+( 55 ) Forest where the management objective is social services. (FAO Global Resources Assessment 2020. Terms and definitions versio n
+of 4.6.2021: http://www.fao.org/3/I8661EN/i8661en.pdf)
+( 56 ) The stewardship and use of forests and forest lands in a way, and at a rate, that maintains their biodiversity, productivity,  
+regeneration capacity, vitality and their potential to fulfil, now and in the future, relevant ecological, economic and social
+functions, at local, national, and global levels, and that does not cause damage to other ecosystems.  
+Resolution H1 General Guidelines for the Sustainable Management of Forests in Europe  Second Ministerial Conference on the Protection 
+of Forests in Europe (Forest Europe), 16-17 June 1993, Helsinki/Finland (version of 4.6.2021: https://www.foresteurope.org/docs /
+MC/MC_helsinki_resolutionH1.pdf)
+( 57 ) Annex 2 of the Resolution L2. Pan-European Operational Level Guidelines for Sustainable Forest Management. Third Ministerial

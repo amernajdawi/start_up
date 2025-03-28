@@ -1,0 +1,76 @@
+File Name: 2_E1-6_2011-09-01_G_GHG-PLC_WRI&WBCSD.pdf
+Converted on: 2025-03-28 03:20:53
+Original Size: 3.27 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 68 of 116
+--------------------------------------------------------------------------------
+
+11.2  Requirements
+Companies shall apply a 100 year global
+warming potential (GWP) factor to GHG
+emissions and removals data to calculate
+the inventory results in units of CO2
+equivalent (CO2e). Companies shall report
+the source and date of the GWP factor used.
+The global warming potential (GWP) is a metric used to
+calculate the cumulative radiative forcing impact of
+multiple GHGs in a comparable way. When emissions
+or removals are multiplied by their respective GWP,
+they become CO2 equivalents (CO2e). Companies
+should use GWP values from the Intergovernmental
+Panel for Climate Change (IPCC) Fourth Assessment
+Report, published in 2007, or the most recent IPCC
+values when the Fourth Assessment Report is no longer
+current. Although the IPCC provides GWP metrics for
+different time periods (e.g., 20 and 500 years), 100 years
+is used most often by programs and policies as the
+median metric and therefore shall be used to calculate
+inventory results in this standard. Companies shall quantify and report the
+total inventory results in CO2e per unit of
+analysis, which includes all emissions and
+removals included in the boundary from
+biogenic sources, non-biogenic sources,  
+and land-use change impacts.
+Once data collection, allocation, and data quality
+assessments are complete, companies shall quantify
+and report the total inventory results in CO2e per unit  
+of analysis (e.g., functional unit). For more information
+on the unit of analysis please refer to chapter 6.
+
+--- Page 88 of 148 ---
+
+[86]   Product Life Cycle Accounting and Reporting Standard
+requirements
+In addition to the total inventory results,
+companies shall quantify and report:
+ • Percentage of total inventory results  
+by life cycle stage
+ •	Biogenic	and	non-biogenic	emissions	and 	
+removals separately when applicable
+• Land-use change impacts separately
+when applicable
+• Cradle-to-gate and gate-to-gate
+inventory results separately or a clear
+statement	that	confidentiality	is	a 	
+limitation to providing this information
+Separately calculating and reporting these components of
+the inventory results adds transparency to the product’s
+life cycle and provides companies and their stakeholders with a better understanding of what type of emissions
+and removals dominate the inventory and where they
+occur along the life cycle.
+Companies shall not include the following
+when quantifying inventory results:
+•Weighting factors for delayed emissions
+•Offsets
+•Avoided emissions
+In a life cycle, particularly for products that have long
+use and end-of-life time periods, emissions may occur
+at different points in time and have different impacts
+on the atmosphere. Some methodologies try to capture
+this in the life cycle results by applying a weighting
+factor to account for emissions delayed over time (also
+
+--- Page 89 of 148 ---

@@ -1,0 +1,62 @@
+File Name: 2_E1-6_2014-01-01_G_GHG-Agri_WRI&WBCSD.pdf
+Converted on: 2025-03-28 03:20:54
+Original Size: 1.75 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 41 of 65
+--------------------------------------------------------------------------------
+
+57
+compiling an inventory and the GHG accounting and reporting principles. In evaluating
+individual tools, companies should cons ider a range of questions, including:
+ Is the tool comprehensive in terms of its  coverage of different emission sources, 
+GHGs and management activities, particularly  those that are practiced or planned on 
+the farm? And does it integrate the effects of multiple management activities across
+the farm?
+ What input data are required and will farm managers be able to provide these data?
+ How much labor and technical exper tise is required to use the tool?
+ Is the tool transparent ab out its methodology, including limitations and assumptions?
+ Is the tool geographically repr esentative? Is it tailored to the region/area of interest?
+ Is the tool accurate enough to help meet  the business objectives  for compiling an 
+inventory?
+ Is the tool up-to-date (e.g., are emi ssions factors updated on an annual basis)?
+ Does the tool provide estimates of uncertainty?
+ Does the tool have verifications functions (e.g., are ranges enforced for the values of
+activity data)?
+ Can the tool quantify environmental imp acts other than GHG fluxes (e.g., nitrate or
+phosphorus pollution)?  
+ Can the tool quantify GHG performance metrics?
+ Is the tool otherwise consistent  with the GHG accounting principles? 
+
+Figure 7-2 outlines a decision tree for choos ing a tool based on core questions.  
+
+--- Page 58 of 103 ---
+
+GHG Protocol Agricultural Guidance
+
+58
+ Figure 7-2.  Decision tree for choosing a GHG emissions calculation tool.  
+
+7.4 Uncertainty in activity and GHG flux data
+
+The GHG fluxes to/from agricultu ral sources – and especially  non-mechanical sources - 
+are inevitably estimated with some degr ee of uncertainty. Id entifying sources of
+uncertainty can help companies understand th e steps required to improve the inventory
+quality and the level of confidence users s hould have in both the inventory results and
+any estimates of emissions reductions from changes in farming practices.
+
+Two types of uncertainty affect GHG flux estimations  
+1.Model uncertainty. This refers to intrinsic limitations in the ability of the calculation
+approach to reflect real worl d conditions. Such uncertainty is  particularly important for 
+non-mechanical sources whose GHG fluxe s are often determined by complex
+interactions between biol ogical processes (e.g., nitrif ication and decomposition),
+environmental factors (e.g., temperature, ra infall, soil pH), and management practices.
+Failure to reflect these interactions accurate ly in the calculation approach can lead to
+significant divergence between actual and calculated values. For some sources it may not be possible to improve accu racy until science has refined the calculation approach
+(i.e. until the model uncertainty has been  reduced to an acceptable level).  
+
+--- Page 59 of 103 ---
+
+GHG Protocol Agricultural Guidance

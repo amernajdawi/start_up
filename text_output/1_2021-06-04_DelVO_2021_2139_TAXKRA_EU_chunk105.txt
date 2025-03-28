@@ -1,0 +1,58 @@
+File Name: 1_2021-06-04_DelVO_2021_2139_TAXKRA_EU.pdf
+Converted on: 2025-03-28 03:20:30
+Original Size: 2.76 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 105 of 447
+--------------------------------------------------------------------------------
+
+Agricultural biomass used for the manufacture of plastics in its primary form complies with the criteria laid
+down in Article 29, paragraphs 2 to 5, of Directive (EU) 2018/2001. Forest biomass used for the manufacture of
+plastics in its primary form complies with the criteria laid down in Article 29, paragraphs 6 and 7, of that
+Directive.  
+Do no significant harm (‘DNSH’)  
+(2) Climate change adaptation  The activity complies with the criteria set out in Appendix A to this 
+Annex.  
+(3) Sustainable use and protection of
+water and marine resources  The activity complies with the criteria set out in Appendix B to this 
+Annex.  
+(4) Transition to a circular economy  N/A  
+(5) Pollution prevention and control  The activity complies with the criteria set out in Appendix C to this 
+Annex.
+Emissions are within or lower than the emission levels associated with the
+best available techniques (BAT-AEL) ranges set out in relevant best
+available techniques (BAT) conclusions, including:
+(a) the Best Available Techniques Reference Document (BREF) for the
+Production of Polymers (  156  ); 
+(b) the best available techniques (BAT) conclusions for common waste
+water and waste gas treatment/management systems in the chemical
+sector (  157  ). 
+No significant cross-media effects occur.  
+(6) Protection and restoration of
+biodiversity and ecosystems  The activity complies with the criteria set out in Appendix D to this 
+Annex.  
+4.  ENERGY  
+4.1.  Electricity generation using solar photovoltaic technology  
+Description of the activity  
+Construction or operation of electricity generation facilities that produce electricity using solar photovoltaic (PV)
+technology.  
+Where an economic activity is an integral element of the ‘Installation, maintenance and repair of renewable energy
+technologies’ as referred to in Section 7.6 of this Annex, the technical screening criteria specified in Section 7.6
+apply.  
+The economic activities in this category could be associated with several NACE codes, in particular D35.11 and
+F42.22 in accordance with the statistical classification of economic activities established by Regulation (EC)
+No 1893/2006.  
+Technical screening criteria  
+Substantial contribution to climate change mitigation  
+The activity generates electricity using solar PV technology.  
+Do no significant harm (‘DNSH’)  
+_____________
+( 156  ) Best Available Techniques (BAT) Reference Document for the Production of Polymers (version of 4.6.2021: https://eippcb.jrc.ec . 
+europa.eu/sites/default/files/2019-11/pol_bref_0807.pdf).
+( 157  ) Commission Implementing Decision (EU) 2016/902 of 30 May 2016 establishing best available techniques (BAT) conclusions, 
+under Directive 2010/75/EU of the European Parliament and of the Council, for common waste water and waste gas treat ­
+ment/management systems in the chemical sector.( OJ L 152, 9.6.2016, p. 23).EN  L 442/62 Official Journal of the European Union 9.12.2021
+
+--- Page 63 of 349 ---

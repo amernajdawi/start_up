@@ -1,0 +1,34 @@
+File Name: 1_2023-07-31_DelVO_2023_2772_ESRS_EU.pdf
+Converted on: 2025-03-28 03:18:14
+Original Size: 5.82 MB
+Chunk Size: 500 tokens with 50 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 351 of 686
+--------------------------------------------------------------------------------
+
+--- Page 151 of 284 ---
+
+ELI: http://data.europa.eu/eli/reg_del/2023/2772/oj 151/284AR 35. The undertaking may disclose, for example, land cover change, which is the physical representation of the drivers
+“habitat modification” and “industrial and domestic activities”, i.e., the man-made or natural change of the
+physical properties of the earth’s surface at a specific location.
+AR 36. Land cover is a typical variable that can be assessed with earth observation data.
+AR 37. When reporting on material impacts related to the ecosystems , the undertaking may, in addition to the extent and
+condition of ecosystems, also consider the functioning of ecosystems by using:
+(a) a metric that measures a process or function that the ecosystem completes, or that reflects the ability of the
+ecosystem to undertake that specific process or function: e.g. net primary productivity, which is a measure of
+plant productivity based on the rate at which energy is stored by plants and made available to other species in
+the ecosystem. It is a core process that occurs for ecosystems to function. It is related to many factors, such as
+species diversity, but does not measure these factors directly; or
+(b) A metric that measures changes to the population of scientifically identified species under threat.
+AR 38. At the ecosystem level, data layers reflecting change in the extent and condition of ecosystems may be applied,
+including levels of habitat fragmentation and connectivity.
+Disclosure Requirement E4-6 – Anticipated financial effects from material biodiversity and ecosystem-related risks and opportunities
+AR 39. The undertaking may include an assessment of its related products and services at risk over the short-, medium-
+and long-term, explaining how these are defined, how financial amounts are estimated, and which critical
+assumptions are made.
+AR 40. The quantification of the anticipated financial effects in monetary terms under paragraph 45(a) may be a single
+amount or a range.OJ L, 22.12.2023 EN  
+
+--- Page 152 of 284 ---

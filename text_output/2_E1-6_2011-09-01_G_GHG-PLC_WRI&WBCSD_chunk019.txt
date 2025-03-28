@@ -1,0 +1,100 @@
+File Name: 2_E1-6_2011-09-01_G_GHG-PLC_WRI&WBCSD.pdf
+Converted on: 2025-03-28 03:20:53
+Original Size: 3.27 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 19 of 116
+--------------------------------------------------------------------------------
+
+[25]
+CHAPTER 05 Fundamentals of Product Life Cycle GHG Accounting
+guidanceadditional specifications that can be useful to companies
+as they prepare their inventories. Table 5.1 provides some
+examples of additional specifications for key inventory
+steps. For definitions and explanations of terms included in
+the table please see the respective chapters.
+Companies using sector guidance and product rules
+still need to abide by the requirements of the Product
+Standard . For example, companies may use a product
+rule to help choose an allocation method as long as the
+method is in conformance with chapter 9 and performed
+using the attributional approach (e.g., primary supplier or
+average data). Companies may not use sector guidance
+or product rules to exclude attributable processes
+without justification. Any sector guidance or product rules
+used during the inventory process are disclosed in the
+inventory report following the reporting requirements
+(chapter 13).
+Product rules and sector guidance should be developed
+through an inclusive multi-stakeholder process to ensure
+broad acceptance and facilitate increased consistency and
+credibility. Guidance and tools in conformance with the
+Product Standard  can be found at ( www.ghgprotocol.org ). Endnotes
+1   International Organization for Standardization, ISO 14044:2006, 
+Life Cycle Assessment: Requirements and Guidelines. Geneva.
+2   British Standards Institution et al. PAS 2050:2008: Specification 
+for the assessment of life cycle greenhouse gas emissions of
+goods and services.
+3 European Commission - Joint Research Centre - Institute for
+Environment and Sustainability, International Reference Life
+Cycle Data System (ILCD) Handbook - General guide for Life Cycle
+Assessment  - Detailed guidance.  First edition, March 2010. 
+Luxembourg: Publications Office of the European Union, 2010.
+4 In the Product Standard, a completed GHG assessment is called
+a GHG inventory to be consistent with corporate-level GHG
+accounting. The GHG inventory includes both the collection of
+data and the calculation of the global warming impact. This is
+different from the ISO LCA terminology which defines inventory
+as only the collection of data.
+5 Adapted from UNEP and SETAC, Global Guidance Principles for Life
+Cycle Assessment Databases . 2011.
+6 Adapted from UNEP and SETAC,  Global Guidance Principles for Life 
+Cycle Assessment Databases.  2011.
+
+--- Page 28 of 148 ---
+
+Establishing the Scope of a Product Inventory06
+
+--- Page 29 of 148 ---
+
+[27]
+guidancerequirementsEstablishing the Scope  
+of a Product Inventory
+6.1 Introduction
+A well-defined scope1, aligned with the five accounting principles and the company’s
+business goals, can help ensure the final inventory meets the company’s and
+stakeholder’s needs. In addition to identifying which GHGs to account for,
+establishing the inventory scope involves choosing a product, defining the unit of analysis, and
+identifying the reference flow. Specific requirements and guidance are detailed in this chapter.
+6.2 Requirements
+Companies shall account for carbon
+dioxide (CO2), methane (CH4), nitrous
+oxide (N2O), sulfur hexafluoride
+(SF6), perfluorocarbons (PFCs), and
+hydrofluorocarbons (HFCs) emissions
+to, and removals from, the atmosphere.
+Additional GHGs included in the inventory
+shall be listed in the inventory report.
+Companies shall account for these six gases in their
+product GHG inventory if they are emitted during
+the product’s life cycle. Companies should account
+for any other GHGs whose 100-year GWP values have
+been identified by the IPCC if they are emitted during
+the product’s life cycle.2 Any additional GHGs that are
+accounted for shall be listed in the inventory report to
+improve transparency.Removals from the atmosphere typically occur when CO2
+is absorbed by biogenic sources (i.e. plants) and converted
+to energy during photosynthesis. However, removals
+may also occur when a product absorbs atmospheric CO2
+during use, or when CO2 from the atmosphere is used
+during a processing step.  Companies shall also account 
+for all removals of CO2 from the atmosphere if they are
+removed during the product’s life cycle.
+Companies	shall	define	the	studied	product, 	
+unit of analysis, and reference flow.
+The studied product is the product on which the GHG life
+cycle inventory is performed.
+
+--- Page 30 of 148 ---

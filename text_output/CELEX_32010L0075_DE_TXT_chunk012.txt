@@ -1,0 +1,344 @@
+File Name: CELEX_32010L0075_DE_TXT.pdf
+Converted on: 2025-03-28 03:21:03
+Original Size: 4.18 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 12 of 93
+--------------------------------------------------------------------------------
+
+(1)
+(2)
+(3)L 334/24 DE Amtsblattder Europäischen Union 17.12.2010
+18. „gefährliche Stoffe“ Stoffe oder Gemische gemäß Artikel 3 der
+Verordnung
+(EG)
+Nr. 1272/2008 des E uropäischen
+Parla­
+ments
+und
+des Rates vom 16. Dezemb er
+2008 über
+die Ein­
+stufung,
+Kennzeichnung
+und
+Verpackung
+von Stoffen un d
+Gemischen
+(1) ABl. L 353 vom 31.12.2008, S. 1.;
+19. „Bericht üb er
+den
+Ausgangszustand
+“ Informationen
+über
+den
+Stand
+der Verschmutzun g
+des Boden s
+und
+des Grundwassers
+durch
+die relevan ten
+gefährlichen
+Stoffe;
+20. „Grundwasser
+“ Grundwasser
+im Sinne
+des Artik els
+2 Num­
+mer 2 der Richtlin ie
+2000/60/E G
+des Europäischen
+Parla­
+ments
+und
+des Rates vom 23. Oktober
+2000 zur Schaffun g
+eines
+Ordnungsrahmens
+für Maßn ahmen
+der Gemein schaft
+im
+Bereich der Wasserpolitik
+(2) ABl. L 327 vom 22.12.2000, S. 1.;
+21. „Boden“ die oberste
+Schicht der E rdkruste,
+die sich zwischen
+dem Grun dgestein
+und
+der Oberfläche
+befindet.
+Der Boden
+besteht
+aus Mineralpartikeln,
+organischem
+Material, Wasser,
+Luft und
+lebenden
+Organismen;
+22.
+„Umweltin spektionen
+“ alle Maßn ahmen,
+einschließlich
+Besichtigungen
+vor Ort, Üb erwachung
+der Emissionen
+und
+Überprüfung
+interner
+Berichte un d
+Folgedokumente,
+Über
+­
+prüfung
+der Eigenkontrolle,
+Prüfung
+der angewandten
+Tech­
+niken
+und
+der Eignung
+des Umweltman agements
+der Anlage,
+die
+von
+der zustän digen
+Behörde oder in  
+ihrem Namen  
+zur
+Prüfung
+und
+Förderun g
+der Einhaltung
+der Genehmigun gs
+­
+auflagen
+durch die An lagen
+und
+gegebenenfalls
+zur Überwa­
+chung
+ihrer Auswirk ungen
+auf die Umwelt g etroffen
+werden;
+23. „
+Geflügel
+“ Geflügel
+gemäß
+Artikel
+2 Nummer 1 der Richtli­
+nie
+90/539/EWG
+des Rates vom 15. Oktober
+1990 über
+die
+tierseuchen rechtlichen
+Bedingungen
+für den in ner
+­
+gemeinschaftlichen
+Handel
+mit Geflüg el
+und
+Bruteiern für
+ihre Einfuhr
+aus Drittlän dern
+(3) ABl. L 303 vom 31.10.1990, S. 6.;
+24. „Brennstoff
+“ alle festen ,
+flüssigen
+oder gasförmigen
+brennba­
+ren
+Stoffe;
+25. „Feuerungsanlage
+“ jede techn ische
+Einrichtung,
+in
+der Brenn­
+stoffe
+im Hinblick
+auf die Nutzun g
+der dabei
+erzeugten
+Wärme
+oxidiert werden ;
+26.
+„Schornstein
+“ eine
+Konstruktion,
+die einen
+oder mehrere
+Kanäle
+aufweist, üb er
+die Abgase
+in die Luft ab geleitet
+werden;
+27. „
+Betriebsstunden
+“ den
+in
+Stunden
+ausgedrückten
+Zeitraum, in
+dem sich ein e
+Feuerungsanlage
+vollständig
+oder teilweise in
+Betrieb
+befindet
+und
+Emissionen
+in
+die Luft ab gibt,
+ohne
+die
+Zeitabschnitte
+des An-
+und
+Abfahrens;
+28. „
+Schwefelab scheidegrad
+“ das Verhältn is
+der Schwefelmen ge,
+die
+von einer
+Feuerungsanlage
+in einem
+bestimmten
+Zeit­
+raum nicht
+in
+die Luft ab geleitet
+wird, zu der Schwefelmen ge
+des
+Festbrennstoffs,
+der im g leichen
+Zeitraum in die Feue­
+rungsanlage
+eingebracht
+und
+verbraucht
+wird;29. „einheimischer
+fester Bren nstoff
+“ ein
+natürlich
+vorkommen­
+der
+fester Bren nstoff,
+der in
+einer
+eigens
+für diesen  
+Brennstoff
+konzipierten
+Feuerungsanlage
+verfeuert wird un d
+der vor Ort
+gewonnen
+wird;
+30. „maßgeblicher
+Brennstoff
+“ unter
+den
+Brennstoffen,
+die in
+einer
+Destillation s-
+oder Konversionsrückstände
+aus der
+Rohölraffin ierung
+allein
+oder zusammen  
+mit anderen
+Brenn­
+stoffen
+für den
+Eigenverbrauch
+verfeuernden
+Mehrstofffeue­
+rungsanlage
+verwendet
+werden,
+den Bren nstoff
+mit dem
+höchsten
+Emissionsgrenzwert
+nach
+Anhang
+V Teil 1 oder —
+im Falle von  
+mehreren
+Brennstoffen
+mit gleichem
+Emissions­
+grenzwert
+— den
+Brennstoff,
+der von
+diesen
+Brennstoffen
+die
+größte
+Wärmemen ge
+liefert;
+31. „Biomasse“
+a) Produkte
+land-
+oder forstwirtschaftlichen  
+Ursprungs
+aus
+pflanzlichem
+Material, die als Bren nstoff
+zur energeti
+­
+schen
+Rückgewinnung
+verwendet
+werden
+können;
+b) nachstehende
+Abfälle:
+i)
+pflanzliche
+Abfälle
+aus der Lan d-
+und
+Forstwirtschaft;
+ii) pflanzliche
+Abfälle
+aus der Nahrun gsmittelindustrie,
+falls
+die erzeug te
+Wärme genutzt
+wird;
+iii) faserige
+pflanzliche
+Abfälle
+aus der Herstellun g
+von
+natürlichem
+Zellstoff un d
+aus der Herstellun g
+von
+Papier aus Zellstoff, sofern sie am Herstellun gsort
+mitverbrannt  werden un d  die erzeug te  Wärme
+genutzt
+wird;
+iv) Korkabfälle;
+v) Holzabfälle
+mit Ausn ahme
+von
+Holzabfällen,
+die
+infolge
+einer
+Behandlung
+mit Holzschutzmitteln
+oder infolge
+einer
+Beschichtun g
+halogenorganische
+Verbindungen

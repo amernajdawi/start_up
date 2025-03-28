@@ -1,0 +1,119 @@
+File Name: 2_E1-6_2011-09-01_G_GHG-PLC_WRI&WBCSD.pdf
+Converted on: 2025-03-28 03:20:53
+Original Size: 3.27 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 64 of 116
+--------------------------------------------------------------------------------
+
+[79]
+guidancerequirements
+10.1 Introduction
+The term uncertainty assessment refers to a systematic procedure to quantify or qualify
+the uncertainty in a product inventory. Understanding uncertainty can be crucial
+for properly interpreting inventory results. Identifying and documenting sources of
+uncertainty can assist companies in understanding the steps needed to improve inventory
+quality and increase the level of confidence users have in the inventory results. Because the
+audience for a product inventory report is diverse, companies should make a thorough yet
+practical effort to communicate the level of confidence and key sources of uncertainty in the
+inventory results.
+This chapter provides requirements and guidance to
+help companies identify, assess, and report qualitative
+information on inventory uncertainty. Detailed
+descriptions of quantitative approaches to assess
+uncertainty, and an uncertainty calculation tool are
+available at ( www.ghgprotocol.org ). While remaining
+current with leading science and practice, the chapter
+is intended to favor practicality and feasibility for
+companies with a range of uncertainty expertise. 10.2 Requirements
+Companies shall report a qualitative
+statement on sources of inventory
+uncertainty and methodological choices.
+Methodological choices include:
+•Use and end-of-life profile
+• Allocation methods, including allocation
+due to recycling
+• Source of global warming potential
+(GWP) values used
+ •Calculation models  
+
+See table 10.2 for guidance on reporting on these choices.
+
+--- Page 82 of 148 ---
+
+[80]   Product Life Cycle Accounting and Reporting Standard
+guidance10.3 Guidance
+10.3.1 Role of the uncertainty assessment process
+Figure 10.1 illustrates the role of uncertainty assessment
+within the GHG inventory process. Companies should
+keep a list of uncertainties throughout the inventory
+process in order to facilitate the uncertainty assessment,
+assurance, and reporting processes.
+While the reporting requirements are focused on
+qualitative descriptions, quantitative assessments of
+uncertainty can assist companies in prioritizing data
+quality improvement efforts on the sources that
+contribute most to uncertainty and in understanding the
+influence methodological choices have on the overall
+product inventory. A quantitative approach can also add
+clarity and transparency in reporting on uncertainty to
+inventory report readers. When available, companies
+should report quantitative uncertainty results in the
+inventory report. Guidance on quantifying uncertainty can
+be found at ( www.ghgprotocol.org ).
+10.3.2 Types of uncertainty
+The results of a GHG inventory may be affected by various
+types of uncertainty, which can arise from different
+sources within the inventory process. Uncertainty is
+divided into three categories: parameter uncertainty,
+scenario uncertainty and model uncertainty, which are
+defined in the following section. The categories are not mutually exclusive, but they are
+evaluated and reported in different ways. For example,
+the same uncertainty source might be characterized as
+either a component of parameter uncertainty and/or as a
+component of scenario uncertainty.
+As shown in figure 10.1, these types of uncertainties arise
+throughout the stages of the GHG inventory compilation
+process.  Table 10.1 illustrates these various types of 
+uncertainties and how each type can be presented.
+Parameter uncertainty
+Parameter uncertainty is the uncertainty regarding
+whether a value used in the inventory accurately
+represents the process or activity in the product’s life
+cycle. If parameter uncertainty can be determined it can
+typically be represented as a probability distribution of
+possible values including the value used in the inventory
+results. In assessing the uncertainty of a result, parameter
+uncertainties can be propagated within a model to
+provide a quantitative measure (also as a probability
+distribution) of uncertainty in the final inventory result.
+Single parameter uncertainty
+Parameter uncertainty addresses the question, how well
+do the data that are used to represent a parameter fit
+the process in the product inventory. Single parameter
+uncertainty refers to incomplete knowledge about the true
+value of a parameter1.  It can arise in relation to three data 
+types: direct emissions data, activity data, and emission Figure [10.1]  Iterative process of tracking and evaluating uncertainty
+identify and track uncertainties
+		 •	parameter	uncertainty
+		 •	scenario	uncertainty
+	 •	model	uncertaintyprioritize, quantify  
+  and/or evaluatedocument and report  
+  uncertaintyestablish 
+the scopeset the
+boundarycollect data
+assess data
+qualityallocate
+data  
+(if needed)assess
+uncertaintycalculate
+inventory
+resultsperform
+assurancereport
+inventory
+resultsimprove quality in areas of high uncertaintyuncertainty
+assessment
+
+--- Page 83 of 148 ---

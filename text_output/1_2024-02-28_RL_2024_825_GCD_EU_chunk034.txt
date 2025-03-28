@@ -1,0 +1,39 @@
+File Name: 1_2024-02-28_RL_2024_825_GCD_EU.pdf
+Converted on: 2025-03-28 03:20:42
+Original Size: 0.61 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 34 of 34
+--------------------------------------------------------------------------------
+
+ELI: http://data.europa.eu/eli/dir/2024/825/oj 16/16ANNEX
+Annex I to Directive 2005/29/EC is amended as follows:
+(1) the following point is inser ted:
+‘2a. Displa ying a sustainability label that is not based on a certificat ion sche me or not established by public
+author ities.’;
+(2) the following points are inser ted:
+‘4a. ‘Making a gener ic environmental claim for which the trader is not able to demonstrate recognised excellen t
+environmental performa nce relevant to the claim.
+4b. Making an environmental claim about the entire product or the trader ’s entire business when it concer ns only a
+certain aspect of the product or a specific activity of the trader ’s business.
+4c. Claiming, based on the offsetting of greenhouse gas emissions, that a product has a neutral, reduced or positive
+impact on the envi ronment in terms of greenhouse gas emissions.’;
+(3) the following point is inser ted:
+‘10a. Presenting requirements imposed by law on all products within the relevant product cate gory on the Union
+market as a distinctive feature of the trader ’s offer .’;
+(4) the following points are inser ted:
+‘23d. Withholding information from the consumer about the fact that a software update will negatively imp act the
+functioning of goods with digital elements or the use of digital cont ent or digital services.
+23e. Presenting a software update as necessar y when it only enhances functionality features.
+23f. Any commercial communication in relation to a good containing a feature introduced to limit its durability
+despite information on the feature and its effects on the durability of the good being available to the trader .
+23g. Falsely claiming that under normal conditions of use a good has a certain durability in terms of usage time or
+intensi ty.
+23h. Presenting a good as allowing repair when it does not.
+23i. Inducing the consumer to replace or replenish the consumables of a good earlier than necessar y for technical
+reasons.
+23j. Withholding information concer ning the imp airment of the functionality of a good when consumables, spare
+parts or accessor ies not supplied by the original producer are used, or falsely claiming that such impairm ent
+will happen.’.OJ L, 6.3.2024 EN

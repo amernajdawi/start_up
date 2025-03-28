@@ -1,0 +1,46 @@
+File Name: 2_E1-6_2004-03_G_GHG-Prot_WRI&WBCSD.pdf
+Converted on: 2025-03-28 03:20:43
+Original Size: 3.51 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 35 of 104
+--------------------------------------------------------------------------------
+
+No recalculation for organic growth or decline
+Base year emissions and any historic data are not
+recalculated for organic growth or decline. Organic growth/decline refers to increases or decreases inproduction output, changes in product mix, and closuresand openings of operating units that are owned orcontrolled by the company. The rationale for this isthat organic growth or decline results in a change ofemissions to the atmosphere and therefore needs to becounted as an increase or decrease in the company’semissions profile over time. CHAPTER 5 Tracking Emissions Over Time 39
+FIGURE 8. Acquisition of a facility that came into existence after the base year was set
+Base Year Increase in
+ProductionTeta
+Acquires C123
+➡
+2520
+2530
+303015
+3025
+253015
+303020
+30Figures reported in respective years Recalculated figures Facility C
+Unit BUnit A
+123
+Company Teta consists of two business units (A and B). In its base year (year one), the company emits 50 tonnes CO2.In year two, the
+company undergoes organic growth, leading to an increase in emissions to 30 tonnes CO2per business unit, i.e., 60 tonnes CO2in total.
+The base year emissions are not recalculated in this case. At the beginning of year three, Teta acquires a production facility C from
+another company. Facility C came into existence in year two, its emissions being 15 tonnes CO2in year two and 20 tonnes CO2in year
+three. The total emissions of company Teta in year three, including facility C, are therefore 80 tonnes CO2. In this acquisition case, the
+base year emissions of company Teta do not change because the acquired facility C did not exist in year one when the base year of Teta
+was set. The base year emissions of Teta therefore remain at 50 tonnes CO2. Teta (optionally) reports 75 tonnes as the recalculated figure
+for year two emissions.
+TETA EMISSIONSGUIDANCE
+NOTES
+1Terminology on this topic can be confusing. Base year emissions should
+be differentiated from the term “baseline,” which is mostly used in thecontext of project-based accounting. The term base year focuses on acomparison of emissions over time, while a baseline is a hypotheticalscenario for what GHG emissions would have been in the absence of a GHG reduction project or activity.
+2For more information on the timing of base year emissions recalcula-tions, see the guidance document “Base year recalculationmethodologies for structural changes” on the GHG Protocol website(www.ghgprotocol.org). 20
+
+--- Page 42 of 116 ---
+
+GUIDANCE 40 nce the inventory boundary has been established, companies generally calculate GHG emissions using the following steps: 1. Identify GHG emissions sources2. Select a GHG emissions calculation approach3. Collect activity data and choose emission factors4. Apply calculation tools5. Roll-up GHG emissions data to corporate level. This chapter describes these steps and the calculation tools developed by the GHG Protocol. The calculation tools are available on the GHG Protocol Initiative websiteat www.ghgprotocol.org. OIdentifying and Calculating GHG Emissions GUIDANCE6
+
+--- Page 43 of 116 ---

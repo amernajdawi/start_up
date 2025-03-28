@@ -1,0 +1,31 @@
+File Name: 2_E1-6_2011-09-01_G_GHG-PLC_WRI&WBCSD.pdf
+Converted on: 2025-03-28 03:18:25
+Original Size: 3.27 MB
+Chunk Size: 500 tokens with 50 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 142 of 226
+--------------------------------------------------------------------------------
+
+form of emission trading or funding of emission-reduction
+projects) that a company purchases to offset the impact
+of the studied product’s emissions. Companies typically
+purchase offsets for one of two reasons: to meet a
+reduction goal that they cannot reach with reductions
+alone, or to claim a product as carbon neutral. Companies
+are encouraged to set reduction targets and meet these
+with absolute reductions. However if a company wishes to
+purchase offsets for its product inventory, this standard
+does allow for offsets to be reported separately from the
+inventory results. For offsets to be reported separately in
+a product inventory, the company should:
+•Purchase offsets based on the GHG Protocol Project
+Protocol or similar internationally accepted GHG
+mitigation project accounting methodologies for
+quantifying the GHG benefits of climate change
+mitigation projects; and
+•Clearly separate corporate-level and product-level
+offset purchases to avoid double counting.
+If a company purchases offsets to meet their corporate
+reduction goals, double counting can occur if the same life cycle stage

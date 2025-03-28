@@ -1,0 +1,46 @@
+File Name: 1_2021-06-04_DelVO_2021_2139_TAXKRA_EU.pdf
+Converted on: 2025-03-28 03:20:30
+Original Size: 2.76 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 211 of 447
+--------------------------------------------------------------------------------
+
+definition in line with one of the definitions of ecological restoration (  17 ) applied to forest, or forest rehabili ­
+tation (  18 ) under the Convention on Biological Diversity. The economic activities also include forest activities in line 
+with the FAO definition of ‘reforestation’ (  19 ) and ‘naturally regenerating forest’ (  20 ) after an extreme event, where 
+extreme event is defined by national law, and where national law does not contain such a definition, is in line with
+the IPCC definition of extreme weather event (  21 ); or after a wildfire, where wildfire is defined by national law, and 
+where national law does not contain such a definition, as defined in the European Glossary for wildfires and forest
+fires (  22 ). 
+The economic activities in this category imply no change of land use and occurs on degraded land matching the
+forest definition as set out in national law, or where not available, is in accordance with the FAO definition of
+forest (  23 ). 
+The economic activities in this category could be associated with NACE code A2 in accordance with the statistical
+classification of economic activities established by Regulation (EC) No 1893/2006. The economic activities in this
+category are limited to NACE II 02.10, i.e. silviculture and other forestry activities, 02.20, i.e. logging 02.30,
+i.e. gathering of wild growing non-wood products and 02.40, i.e. support services to forestry.  
+Where an economic activity in this category complies with the substantial contribution criterion specified in
+point 5, the activity is an enabling activity as referred to in Article 11(1), point (b), of Regulation (EU)
+2020/852, provided that it meets the technical screening criteria set out in this Section.EN  9.12.2021 Official Journal of the European Union L 442/157  
+( 17 ) Ecological Restoration (Also Ecosystem Restoration):  
+— the process of returning an ecosystem to a natural pre-disturbance structure and function;  
+— the process of assisting the recovery of an ecosystem that has been degraded, damaged, or destroyed;  
+— the process of intentionally altering a site to establish a defined, indigenous ecosystem. The goal of this process is to emu late the
+structure, function, diversity and dynamics of the specified ecosystem;  
+— human intervention … designed to accelerate the recovery of damaged habitats, or to bring ecosystems back to as close an
+approximation as possible of their pre-disturbance states,  
+Most used definitions/descriptions of key terms related to ecosystem restoration . 11  th conference of the Parties to the Convention on 
+Biological Diversity. 2012. UNEP/CBD/COP/11/INF/19 (version of 4.6.2021: https://www.cbd.int/doc/meetings/cop/cop-11/
+information/cop-11-inf-19-en.pdf).  
+( 18 ) Forest rehabilitation is the process of restoring the capacity of a forest to provide goods and services again, where the sta te of the
+rehabilitated forest is not identical to its state before degradation,  
+Most used definitions/descriptions of key terms related to ecosystem restoration.  11  th Conference of the Parties to the Convention on 
+Biological Diversity. 2012. UNEP/CBD/COP/11/INF/19 (version of 4.6.2021: https://www.cbd.int/doc/meetings/cop/cop-11/
+information/cop-11-inf-19-en.pdf).  
+( 19 ) Re-establishment of forest through planting and/or deliberate seeding on land classified as forest,  
+FAO Global Resources Assessment 2020. Terms and definitions  (version of 4.6.2021: http://www.fao.org/3/I8661EN/i8661en.pdf ).  
+( 20 ) Forest predominantly composed of trees established through natural regeneration,  
+FAO Global Resources Assessment 2020. Terms and definitions  (version of 4.6.2021: http://www.fao.org/3/I8661EN/i8661en.pdf).

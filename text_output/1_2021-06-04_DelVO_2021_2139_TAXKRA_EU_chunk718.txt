@@ -1,0 +1,49 @@
+File Name: 1_2021-06-04_DelVO_2021_2139_TAXKRA_EU.pdf
+Converted on: 2025-03-28 03:18:03
+Original Size: 2.76 MB
+Chunk Size: 500 tokens with 50 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 718 of 966
+--------------------------------------------------------------------------------
+
+(b) favour nature-based solutions (  390  ) or rely on blue or green infrastructure (  391  ) to the extent possible; 
+(c) are consistent with local, sectoral, regional or national adaptation plans and strategies;
+(d) are monitored and measured against pre-defined indicators and remedial action is considered where those
+indicators are not met;
+(e) where the solution implemented is physical and consists in an activity for which technical screening criteria
+have been specified in this Annex, the solution complies with the do no significant harm technical screening
+criteria for that activity.  
+Do no significant harm (‘DNSH’)  
+(1) Climate change mitigation  An assessment of the direct GHG emissions from the centralised waste 
+water system, including collection (sewer network) and treatment, has
+been performed (  392  ). The results are disclosed to investors and clients 
+on demand.  
+(3) Sustainable use and protection of
+water and marine resources  The activity complies with the criteria set out in Appendix B to this 
+Annex.
+Where the waste water is treated to a level suitable for reuse in agricultural
+irrigation, the required risk management actions to avoid adverse environ ­
+mental impacts have been defined and implemented (  393  ). 
+(4) Transition to a circular economy  N/A  
+(5) Pollution prevention and control  Discharges to receiving waters meet the requirements laid down in 
+Directive 91/271/EEC or as required by national provisions stating
+maximum permissible pollutant levels from discharges to receiving waters.
+Appropriate measures have been implemented to avoid and mitigate
+excessive storm water overflows from the waste water collection system,
+which may include nature-based solutions, separate storm water collection
+systems, retention tanks and treatment of the first flush.
+Sewage sludge is used in accordance with Directive 86/278/EEC or as
+required by national law relating to the spreading of sludge on the soil
+or any other application of sludge on and in the soil.  
+(6) Protection and restoration of
+biodiversity and ecosystems  The activity complies with the criteria set out in Appendix D to this 
+Annex.  
+5.4.  Renewal of waste water collection and treatment  
+Description of the activity  
+Renewal of centralised waste water systems including collection (sewer network) and treatment. It implies no
+material change related to the load or volume of flow collected or treated in the waste water system.  
+The economic activities in this category could be associated with NACE code E37.00 in accordance with the
+statistical classification of economic activities established by Regulation (EC) No 1893/2006.  
+___________

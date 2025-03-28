@@ -1,0 +1,45 @@
+File Name: 2_E1-6_2014-01-01_G_GHG-Agri_WRI&WBCSD.pdf
+Converted on: 2025-03-28 03:18:26
+Original Size: 1.75 MB
+Chunk Size: 500 tokens with 50 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 77 of 108
+--------------------------------------------------------------------------------
+
+68
+Therefore, when recalculating the base pe riod inventory, new landowners should assess
+whether these changes occurred within the re levant look back period from their base
+periods. If so, the associated changes in C st ocks should be included in the recalculated
+base year inventory. For instance, if a compa ny acquired land that had been deforested by
+the prior land-owner five years before the new land-owner’s base period, the associated
+changes in C stocks should be included in the recalculated base period inventory.
+Appendix II provides an example.   Proxy data on historical LUC should be used in the absence of actual data 
+Companies, and especially new landowners, may find it difficult to obtain information on
+historical LUC. What should they do in such cases? This Guidance recommends that
+companies identify and estimate historical LU C using regional or local trends in, for
+example, land clearance. Alte rnatively, remote sensing data may be available from
+commercial or public databases, although th e collection of such data can be time
+consuming and complicated.   
+Additional reporting recommendations  
+1. To maintain the transparency of reported data, companies should report when they
+have not been able to collect historical  data and estimate historical effects.  
+2. Companies should carefully document all assumptions made in amortizing CO
+2
+fluxes (see Chapter 9.1). This is becaus e the amortization sc hedule chosen by a
+company will not match actual patterns of change, and a given period’s inventory will most likely under- or over-estimate th e actual fluxes (for instance, see Fig. 8-
+2).  
+3. If management shifts occur that would reverse any soil C sequ estration that has
+previously been amortized, companies should account for these losses in the
+inventory period in which the shift occurre d. For instance, if no till practices were
+to cease at any point and be replaced by c onventional till, C sequestration will be
+rapidly lost, and companies should record the cumulative gains up to that point as
+CO
+2 emissions in the inventory period in which conventi onal till started.
+Appendix II provides simplified cas e studies that illustrate how amortization is carried
+out, including for historical LUC.    
+
+--- Page 69 of 103 ---
+
+GHG Protocol Agricultural Guidance

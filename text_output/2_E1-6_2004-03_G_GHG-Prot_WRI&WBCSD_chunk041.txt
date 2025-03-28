@@ -1,0 +1,62 @@
+File Name: 2_E1-6_2004-03_G_GHG-Prot_WRI&WBCSD.pdf
+Converted on: 2025-03-28 03:20:43
+Original Size: 3.51 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 41 of 104
+--------------------------------------------------------------------------------
+
+Approaches for rolling up
+GHG emissions data to corporate level
+There are two basic approaches for gathering data on GHG
+emissions from a corporation’s facilities (Figure 10):
+Centralized: individual facilities report activity/fuel
+use data (such as quantity of fuel used) to the corpo-rate level, where GHG emissions are calculated.
+
+Decentralized: individual facilities collect activity/fuel
+use data, directly calculate their GHG emissionsusing approved methods, and report this data to thecorporate level.
+The difference between these two approaches is in where
+the emissions calculations occur (i.e., where activity datais multiplied by the appropriate emission factors) and inwhat type of quality management procedures must be putin place at each level of the corporation. Facility-levelstaff is generally responsible for initial data collectionunder both approaches.
+Under both approaches, staff at corporate and lower
+levels of consolidation should take care to identify andexclude any scope 2 or 3 emissions that are alsoaccounted for as scope 1 emissions by other facilities,business units, or companies included in the emissionsinventory consolidation.
+CENTRALIZED APPROACH:
+INDIVIDUAL FACILITIES REPORT ACTIVITY/FUEL USE DATA
+This approach may be particularly suitable for office-
+based organizations. Requesting that facilities reporttheir activity/fuel use data may be the preferred option if:
+The staff at the corporate or division level can calcu-
+late emissions data in a straightforward manner onthe basis of activity/fuel use data; and
+Emissions calculations are standard across a number
+of facilities.DECENTRALIZED APPROACH:
+INDIVIDUAL FACILITIES CALCULATE GHG EMISSIONS DATA
+Asking facilities to calculate GHG emissions themselves
+will help to increase their awareness and understandingof the issue. However, it may also lead to resistance,increased training needs, an increase in calculationerrors, and a greater need for auditing of calculations.Requesting that facilities calculate GHG emissionsthemselves may be the preferred option if:
+GHG emission calculations require detailed knowledge
+of the kind of equipment being used at facilities;
+GHG emission calculation methods vary across a
+number of facilities;
+Process emissions (in contrast to emissions from
+burning fossil fuels) make up an important share oftotal GHG emissions;
+Resources are available to train facility staff to
+conduct these calculations and to audit them;
+A user-friendly tool is available to simplify the calcu-
+lation and reporting task for facility-level staff; or
+Local regulations require reporting of GHG emissions
+at a facility level.
+The choice of collection approach depends on the needs
+and characteristics of the reporting company. Forexample, United Technologies Corporation uses thecentralized approach, leaving the choice of emissionfactors and calculations to corporate staff, while BP usesthe decentralized approach and follows up with audits toensure calculations are correct, documented, and followapproved methods. To maximize accuracy and minimizereporting burdens, some companies use a combination ofthe two approaches. Complex facilities with processemissions calculate their emissions at the facility level,while facilities with uniform emissions from standardsources only report fuel use, electricity consumption, andtravel activity. The corporate database or reporting toolthen calculates total GHG emissions for each of thesestandard activities.
+The two approaches are not mutually exclusive and
+should produce the same result. Thus companiesdesiring a consistency check on facility-level calcula-tions can follow both approaches and compare theresults. Even when facilities calculate their own GHGemissions, corporate staff may still wish to gatheractivity/fuel use data to double-check calculations andexplore opportunities for emissions reductions. TheseGUIDANCE
+CHAPTER 6 46Identifying and Calculating GHG Emissions
+Activity data
+Activity data x
+emission factor
+=
+GHG emissionsSites report GHG emissionsSites report activity data
+(GHG emissions calculated at
+corporate level: activity data x
+emissions factor =GHG emissions)DECENTRALIZED    CENTRALIZED➡
+➡SITE LEVEL CORPORATE LEVELFIGURE 10. Approaches to gathering data
+
+--- Page 49 of 116 ---

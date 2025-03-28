@@ -1,0 +1,54 @@
+File Name: 1_2021-06-04_DelVO_2021_2139_TAXKRA_EU.pdf
+Converted on: 2025-03-28 03:20:30
+Original Size: 2.76 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 108 of 447
+--------------------------------------------------------------------------------
+
+The economic activities in this category could be associated with several NACE codes, in particular D35.11 and
+F42.22 in accordance with the statistical classification of economic activities established by Regulation (EC)
+No 1893/2006.  
+Technical screening criteria  
+Substantial contribution to climate change mitigation  
+The activity generates electricity from ocean energy.  
+Do no significant harm (‘DNSH’)  
+(2) Climate change adaptation  The activity complies with the criteria set out in Appendix A to this 
+Annex.  
+(3) Sustainable use and protection of
+water and marine resources  The activity does not hamper the achievement of good environmental 
+status, as set out in Directive 2008/56/EC, requiring that the appropriate
+measures are taken to prevent or mitigate impacts in relation to that
+Directive’s Descriptor 11 (Noise/Energy), laid down in Annex I to that
+Directive, and as set out in Decision (EU) 2017/848 in relation to the
+relevant criteria and methodological standards for that descriptor.  
+(4) Transition to a circular economy  The activity assesses availability of and, where feasible, uses equipment and 
+components of high durability and recyclability and that are easy to
+dismantle and refurbish.  
+(5) Pollution prevention and control  Measures are in place to minimise toxicity of anti-fouling paint and 
+biocides as laid down in Regulation (EU) No 528/2012 of the European
+Parliament and of the Council (  161  ), which implements in Union law the 
+International Convention on the Control of Harmful Anti-fouling Systems
+on Ships adopted on 5 October 2001.  
+(6) Protection and restoration of
+biodiversity and ecosystems  The activity complies with the criteria set out in Appendix D to this 
+Annex.
+The activity does not hamper the achievement of good environmental
+status, as set out in Directive 2008/56/EC, requiring that the appropriate
+measures are taken to prevent or mitigate impacts in relation to that
+Directive’s Descriptor 1 (biodiversity), laid down in Annex I to that
+Directive, and as set out in Decision (EU) 2017/848 in relation to the
+relevant criteria and methodological standards for that descriptor.  
+4.5.  Electricity generation from hydropower  
+Description of the activity  
+Construction or operation of electricity generation facilities that produce electricity from hydropower.  
+The economic activities in this category could be associated with several NACE codes, in particular D35.11 and
+F42.22 in accordance with the statistical classification of economic activities established by Regulation (EC)
+No 1893/2006.  
+___________  
+( 161  ) Regulation (EU) No 528/2012 of the European Parliament and of the Council of 22 May 2012 concerning the making available on 
+the market and use of biocidal products (OJ L 167, 27.6.2012, p. 1).EN  9.12.2021 Official Journal of the European Union L 442/65
+
+--- Page 66 of 349 ---

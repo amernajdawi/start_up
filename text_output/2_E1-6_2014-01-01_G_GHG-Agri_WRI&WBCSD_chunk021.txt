@@ -1,0 +1,112 @@
+File Name: 2_E1-6_2014-01-01_G_GHG-Agri_WRI&WBCSD.pdf
+Converted on: 2025-03-28 03:20:54
+Original Size: 1.75 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 21 of 65
+--------------------------------------------------------------------------------
+
+Mechanical
+Purchased electricity: CO 2, CH 4,
+and N 2O  
+Mobile machinery (e.g., tilling,
+sowing, harvesting, and transport and fishing vessels): CO
+2, CH 4,
+and N 2O
+Stationary machinery (e.g., milling
+and irrigation equipment): CO 2,
+CH 4, and N 2O
+Refrigeration and air-conditioning
+equipment: HFCs and PFCs
+
+Non-mechanical
+Drainage and tillage of soils: CO 2, CH 4, and N 2O
+Addition of synthetic ferti lizers, livestock waste,
+and crop residues to soils: CO 2, CH 4, and N 2O
+Addition of urea and lime to soils: CO 2
+Enteric fermentation: CH 4
+Rice cultivation: CH 4
+Manure management: CH 4  and N 2O 
+Land-use change : CO 2, CH 4, and N 2O
+Open burning of savannahs and of crop residues
+left on fields: CO 2, CH 4, and N 2O
+Managed woodland (e.g., tree strips,
+timberbelts ): CO 2
+Composting of organic wastes: CH 4
+Oxidation of horticultural growing media (e.g.,
+peat): CO 2
+
+--- Page 26 of 103 ---
+
+GHG Protocol Agricultural Guidance
+
+26
+ Figure 4-2 . Relative contribution of different  agricultural sources to global 
+anthropogenic emissions (percent)
+34%
+29%11%10%7%6%2%1%Fertiliser / waste application
+Enteric fermentation
+Biomass burning
+Rice cultivation
+Manure
+Irrigation
+Farm machinery
+Soil carbon (net emissions  
+basis)
+
+Notes:  
+1. Data are from U.S. EPA (2006a) and exclude emi ssions sources located upstream or downstream of
+farms.
+2. Data exclude LUC emissions.  
+3. The ‘soil carbon’ value represents  the net emissions from agricultural soils after subtracting C 
+sequestration from gross soil C emissions. It represents the summed effect of different management practices on soil organic C.   
+Figure 4-3.  Typical patterns of th e contribution of different  sources to overall GHG 
+fluxes from select farming systems.  
+Emission source  Type of system
+Sheep Beef Dairy
+(pasture)  Arable 
+crop Horticulture
+Enteric fermentation      
+Deposition  or application  of 
+fertilizer and/or wastes to soils    
+Crop residue burning     
+Manure management      
+Fuel use     
+Soil CO 2     
+
+Key:
+  Small contribution  
+  Medium contribution  
+  Large contribution  
+
+--- Page 27 of 103 ---
+
+GHG Protocol Agricultural Guidance
+
+27
+
+Notes:  
+1. The actual emissions profile of a farm may (and in many cases will) deviate from the pattern in this
+figure, depending on the soil, climate and management conditions concerned.  
+2. Figure based on expert opinion of the Technical Working Group.  
+
+4.2 Individual agricultural sources
+
+Non-mechanical sources
+The non-mechanical sources that are globally largest in magnitude are:
+
+Enteric fermentation (CH 4)
+CH 4 is produced in herbivores as a by-product of enteric fermentation, whereby
+carbohydrates are broken down by bacteria in  the digestive tract . The amount of CH 4 that 
+is produced depends on:
+ The type of animal. Ruminant livestock have an expansive chamber, the rumen,
+which fosters extensive enteric fermentation and high CH 4 emissions. The main
+ruminant livestock are cattle, buffalo, goats , sheep, and deer. Non-ruminant livestock
+(horses, mules, donkeys) and monogastric li vestock (swine) have relatively lower
+CH 4 emissions.
+ Quantity and composition of feed. Generally, the higher the feed intake, the higher
+the CH 4 emissions.  
+ Age and size of livestock. Feed intake incr eases with animal size, growth rate, and
+production (e.g., milk production, w ool growth, or pregnancy).

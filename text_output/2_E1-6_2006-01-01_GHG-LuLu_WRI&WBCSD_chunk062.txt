@@ -1,0 +1,81 @@
+File Name: 2_E1-6_2006-01-01_GHG-LuLu_WRI&WBCSD.pdf
+Converted on: 2025-03-28 03:18:22
+Original Size: 6.41 MB
+Chunk Size: 500 tokens with 50 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 62 of 88
+--------------------------------------------------------------------------------
+
+applicabletothisprojectactivitybecausethetemporal
+rangewasinsufficienttoestimateareliableland-usetrend
+factor.Toascertainthevalidityofthisdecisionandtodecide
+whetheradditionaldatashouldbecollected,theland-use
+trendsbetween1996and2001wereassessed.Astherewas
+noappreciableconversionoflandtoforestduringthat
+period,noadditionaldatawerecollected.AlthoughtheAl-
+Pacplantationswereplantedin2001,theyweresosmall
+comparedwiththegeographicareathattheywerenot
+consideredrelevant.Thegeographicareashouldbe
+monitoredforanincreaseofafforestationactivities.
+Chapter10:MonitoringandQuantifying
+theGHGReductions
+1 0 . 2 Q U A N T I F Y I N G G H G R E D U C T I O N S
+ProjectActivity’sChangeinCarbonStocks,
+GHGRemovals,andTotalCarbon
+ChangeinCarbonStocksandGHGRemovals
+CarbonstocksfortheNipawinAfforestationProjectare
+basedon1500haoflandbeingafforestedeachyearand
+wereestimatedasfollows:
+LivingBiomass
+Abovegroundcarbonstockswereestimatedbyconverting
+thebiomassfromthehybridpoplargrowthcurve(Peterson
+etal.1999)tocarbon.Thecarbonstocksreachan
+equilibriumof57tC/haaftertwentyyears(seetable
+E.18andsupportingmaterialConline).BoxE.2givesa
+samplecalculation.
+Thebelowgroundbiomasswasestimatedusingthefollowing
+equationtopredictthetotalrootbiomassforhardwoodtree
+species(Lietal.2003):
+Belowgroundbiomass=1.576 •(abovegroundbiomass) 0.615
+Abovegroundcarbonwasusedintheequationinsteadof
+abovegroundbiomasstoobtainanestimateofbelowground
+carbon.Aftertwentyyears,equilibriumcarbonstocksare
+reached:0.36tC/hafortheprojectsite,asshownintable
+E.18andsupportingmaterialConline.Soils
+Thesoilcarbonisbasedon1500haoflandbeingafforested
+eachyearfortwentyyears.Afforestedlandgains0.5tC
+ha/yr(NiuandDuiker2006)(supportingmaterialD).Box
+E.3givesasamplecalculation.EXAMPLE:NipawinAfforestationProject
+75 tC O 2/h a
+1 0.00059
+2 0.00158
+3 0.00287
+4 0.00407
+5 0.00501
+6 0.00567
+7 0.00604
+8 0.00615
+9 0.00611
+10 0.00592
+11 0.00563
+12 0.00528
+13 0.00491
+14 0.00450
+15 0.00412
+16 0.00374
+17 0.00339
+18 0.00305
+19 0.00275
+20 0.00247
+21 0Y E A R W E I G H T E D M E A N G H G R E M O VA L S TABL EE.13WeightedMeanGHGRemovals
+forCommercialCropland,Pasture,
+andHybridPoplar,Year1to21.
+TA B L E E . 1 4 ValuesAssigned tow,g,and fVariablesforthe50th, 75th,and90thGHGRemovalPercentiles
+VA R I A B L E 5 0 T H P E R C E N T I L E 7 5 T H P E R C E N T I L E 9 0 T H P E R C E N T I L E
+w 7,891,402 11,837,102.25 14,204,522.7
+g 7,891,402 11,837,102 14,204,522
+f 0 0.25 0.70
+
+--- Page 78 of 100 ---

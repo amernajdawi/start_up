@@ -1,0 +1,65 @@
+File Name: 2_E1-6_2011-09-01_G_GHG-PLC_WRI&WBCSD.pdf
+Converted on: 2025-03-28 03:18:25
+Original Size: 3.27 MB
+Chunk Size: 500 tokens with 50 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 159 of 226
+--------------------------------------------------------------------------------
+
+[104]   Product Life Cycle Accounting and Reporting Standard
+guidance
+13.3 Guidance
+13.3.1 Goal of public reporting
+The overarching goal of producing a GHG inventory in
+conformance with the GHG Protocol Product Standard  is to 
+create positive drivers to pursue GHG emission reductions
+across the product life cycle. The full process from
+developing the inventory to reporting results is designed to
+help improve the understanding of reduction opportunities
+as well as facilitate and leverage inputs from stakeholders
+to prioritize and reduce emissions. Identifying target
+audience and specific business goals is the first step and
+reporting is the final step to achieving this goal.
+The following sections provide guidance on
+understanding the audience and completing some of
+the reporting requirements not included elsewhere in
+the standard1. A list of optional reporting elements is
+ included, and a reporting template is provided at  
+(www.ghgprotocol.org ) to help companies organize
+their inventory report.
+13.3.2 Identifying the audience
+Keeping the audience in mind is important right from
+the start as companies set objectives and develop an
+inventory. A key opportunity to make a meaningful
+connection with the audience is when a company
+prepares their inventory report. Helping users understand
+the purpose, context, and rationale behind various
+accounting decisions as well as the limitations and
+potential uses of the inventory results are examples of
+objectives that a company should seek to address in the
+inventory report.
+Audience category/role Audience description
+General public Lay person. No understanding or prior experience with LCA/GHG
+inventories may be assumed.
+GHG inventory / LCA practitioner Practitioner wishing to use the inventory results as data inputs to
+another study.
+Assurance provider Assurer performing assurance on the inventory.
+Report partners Employees, suppliers, product-owning organization, report-
+commissioning organization.
+Sustainability / environmental
+practitionerGeneral interested party seeking to understand more about a specific
+product, a product sector, an industry sector, or other aspects of life
+cycle emissions and removals.
+Green purchasing Purchasing decision-maker seeking differentiation across products.
+Downstream customers Retail decision-maker making purchase decisions that may use the
+inventory results.
+Environmental/carbon/  
+GHG labeling organizationsGHG programs that may provide a platform to report, register, and
+disseminate inventory results.
+Policy makers and government  
+program administrators Government stakeholders that may use the inventory results to plan
+future programs and policies.Table [13.1] Potential audiences of a publicly disclosed product GHG inventory report
+
+--- Page 107 of 148 ---

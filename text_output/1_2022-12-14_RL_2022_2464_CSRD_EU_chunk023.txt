@@ -1,0 +1,49 @@
+File Name: 1_2022-12-14_RL_2022_2464_CSRD_EU.pdf
+Converted on: 2025-03-28 03:20:33
+Original Size: 1.12 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 23 of 140
+--------------------------------------------------------------------------------
+
+repor ting standards adopt ed pursuant to the third subparagraph of Article 23(4) of Directive 2004/109/EC. Such
+exem ption should not apply to large under takings whose secur ities are admitted to trading on a regulated mark et in
+the Union for reasons of investor prote ction, in order to ensure great er transparency as regards such under takings.
+(26) Article 23 of Directive 2013/34/EU exem pts parent under takings from the oblig ation to prepare consolidat ed
+financial statements and a consolidated management repor t where parent under takings are subsidiar y under takings
+of another parent under taking that compl ies with that obligation. It should be specifi ed, however , that the
+exem ption regime for consolidated financia l statements and consolidated management repor ts operat es
+independently from the exem ption regime for consolidated sustainability repor ting. An under taking can theref ore
+be exem pted from consolidated financial repor ting requirements but not from consolidated sustainability repor ting
+requirements where its ultimat e parent under taking prepares consolidated financial state ments and consolidat ed
+manage ment repor ts in accordance with Union law, or in accordance with equivalent requirements if the
+under taking is established in a third countr y, but does not carry out consolidated sustainability repor ting in
+accordance with Union law, or in accordance with equivalent requirements if the under taking is established in a
+third countr y. It is necessar y that parent under takings repor ting at group level provide an adequate understanding
+of the risks for, and impacts of, their subsidiar y under takings, including information on their due diligence
+processes where appropr iate. There might be cases where the differ ences between the situation of the group and
+that of its individual subsidiar y under takings, or between the situation of individual subsidiar y under takings in
+differ ent territori es are particularly significant and would, in the absence of additional information about the
+individual subsidiar y under taking concer ned, cause the user of the information to reach a substantially differ ent
+conclusion about the risks for, or impacts of, the subsidiar y under taking.
+(27) Credit institutions and insurance under takings play a key role in the transition towards a fully sustainable and
+inclusive economic and financial system in line with the Green Deal. They can have signif icant positive and nega tive
+imp acts via their lending, investment and under writing activities. Credit institutions and insurance under takings
+other than those that are required to compl y with Directive 2013/34/EU, including cooperatives and mutual
+under takings, should theref ore be subject to sustainability repor ting requirements, provid ed that they meet certain
+size criteria. Users of sustainability information would thus be enabled to assess both the impacts of such credit
+institutions and insurance under takings on society and the environment and the risks arising from sustainability
+matte rs that such credit institutions and insurance under takings could face. Directive 2013/34/EU provi des for
+three possible criteria to determine whether an under taking is to be considered a ‘large under taking’, namely the
+balance sheet total, net turnover and the average number of emplo yees during the financial year .
+The criterion of net turnover needs to be adap ted for credit institutions and for insurance under takings by referring
+to the definition of net turnover in Council Directives 86/635/EEC (19)and 91/674/EEC (20)inste ad of the general
+definit ion laid down in Directive 2013/34/EU. To ensure coherence with the repor ting requirements of Directive
+86/635/EEC, Member State s should be able to choose not to apply sustainability repor ting requirements to credit
+institutions listed in Article 2(5) of Directive 2013/36/EU of the European Parliament and of the Council (21).
+(28) The list of sustainability matters on whic h under takings are required to repor t should be as consistent as possible
+with the definition of the term ‘sustainability factors’ laid down in Regulation (EU) 2019/2088, and should prevent
+a mismatch between information required by data users and information to be repor ted by under takings. That list
+should also correspond to the needs and expectations of users and under takings, who often use the term s

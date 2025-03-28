@@ -1,0 +1,140 @@
+File Name: 2_E1-6_2006-01-01_GHG-LuLu_WRI&WBCSD.pdf
+Converted on: 2025-03-28 03:20:49
+Original Size: 6.41 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 49 of 50
+--------------------------------------------------------------------------------
+
+--- Page 96 of 100 ---
+
+StatisticsCanada.1996.CensusofAgriculture. Data
+Tables (e-mailcorrespondencewithDebbieJacobs,account
+executivewiththeWesternRegionandNorthernTerritories,
+received7/5/06).
+StatisticsCanada.2001.CensusofAgriculture: Data
+Tables.Modified6/28/02.Availableat
+http://www.statcan.ca/english/freepub/95F0301XIE/tables.htm
+StatisticsCanada.2003.TheDaily:2001Censusof
+Agriculture—Canadi anFarmOperationsinthe21st
+Century.Modified1/9/03.Availableat
+http://www.statcan.ca/Daily/English/020515/d020515a.htm
+U.S.EnvironmentalProtectionAgency(USEPA).2006.
+Non-CO 2GasesandCarbonSequestrati on:Conversion
+Units.Updated3/7/06.Availableat
+http://www.epa.gov/nonco2/units.html.
+Zentner,R.P.,D.D.Wall,C.N.Nagy,E.G.Smith,D.L.
+Young,P.R.Miller,C.A.Campbell,B.G.McConkey,S.A.
+Brandt,G.P.Lafond,A.M.Johnston,andD.A.Derksen.
+2002.EconomicsofCropDiversificationandSoilTillage
+OpportunitiesintheCanadianPrairies.AgronomyJournal
+94:216–230.G L O S S A RY
+UnitedNationsFoodandAgricultureOrganization(UN
+FAO).2000.GlobalForestResourcesAssessment2000.
+Rome:UNFAO.
+IntergovernmentalPanelonClimateChange(IPCC).2003.
+GoodPracticeGuidanceforLandUse,Land-UseChange
+andForestry,editedbyJ.Penmanetal.Hayama:Institute
+forGlobalEnvironmentalStrategies(alsoavailableat
+http://www.ipcc-nggip.iges.or.jp).
+A N N E X A : L I F E - C Y C L E A S S E S S M E N T S
+A N D U P S T R E A M A N D
+D O W N S T R E A M E F F E C T S
+Heller,M.,G.Keoleian,andT.Volk.2003.LifeCycle
+AssessmentofaWillowBioenergyCroppingSystem.
+BiomassandBioenergy 25:147–65.
+IntergovernmentalPanelonClimateChange(IPCC).1997.
+Revised1996IPCCGuidelinesforNationalGreenhouse
+GasInventories,editedbyJ.T.Houghtonetal.Bracknell:
+U.K.MeteorologicalOffice,IPCC/OECD/IEA.
+PARTIV:References 94
+
+--- Page 97 of 100 ---
+
+PARTIV:Contributors
+95 OtherContributors
+Manyofthecontributorsinthislisthelpedusthinkthrough
+thequestionsandconcernsaroundtheLULUCFaccounting
+issueswhilewewerestillworkingonthegenericProject
+Protocol.Muchoftheinformationcollectedthenhasalso
+passedintothisdocumentandwewouldliketothankthem
+fortheircontributionsalso.Contributorsarelistedwiththeir
+affiliationsatthetimeoftheircontribution.
+SteveApfelbaum,AppliedEcologicalServices
+CherylMiller,AppliedEcologicalServices
+JohnO.Niles,Climate,Community&BiodiversityAlliance
+SonalPandya,ConservationInternational
+MichaelTotten,ConservationInternational
+BendeJong,ElColegiodelaFronteraSur
+RichardTipper,EdinburghCentreforCarbonManagement
+(ECCM)
+GeorgeFowkes,FutureForests
+PaulNorrish,FutureForests
+DavidBrand,HancockNaturalResourceGroup
+PromoteKant,IndianCouncilofForestryResearch
+andEducation
+JayantSathaye,LawrenceBerkeleyNationalLaboratory
+JeffFielder,NaturalResourcesDefenseCouncil
+JaneEllis,OrganizationforEconomicCo-operation
+andDevelopment LaurieWayburn,PacificForestTrust
+BrianMurray,ResearchTriangleInstitute(RTI)
+AllanSommer,RTI
+NeilSampson,SampsonGroup
+ErikFirstenberg,TheNatureConservancy(TNC)
+PatrickGonzalez,TNC
+EllenHawes,TNC
+ZoeKant,TNC
+TiaNelson,TNC
+BillStanley,TNC
+MichelleManion,UnionofConcernedScientists
+KateBickley,USEnvironmentalProtectionAgency
+(USEPA)
+BenDeAngelo,USEPA
+MauriceLeFranc,USEPA
+SandraBrown,WinrockInternational
+IanNobel,WorldBank
+
+--- Page 98 of 100 ---
+
+Disclaimer
+Thisdocument,designedtopromotebestpracticeGHG
+projectaccountingandreporting,hasbeendeveloped
+throughagloballydiversemulti-stakeholderconsultative
+processinvolvingrepresentativesfrombusiness,
+nongovernmentalorganizations,government,academics,
+andotherbackgrounds.WhileWRIencouragestheuseof
+theLULUCFGuidanceforGHGProjectAccounting,its
+applicationandthepreparationandpublication ofreports
+basedonitarethefullresponsibilityofitsusers.In
+particular,useoftheLULUCFGuidancedoesnotguaran -
+teeaparticularresultwithrespecttoquantifiedGHG
+reductions,oracceptanceorrecognitionofquantified
+GHGreductionsbyGHGprograms.NeitherWRI,nor
+theindividualswhocontributedtotheLULUCFGuidance
+assumeresponsibilityforanyconsequencesordamages
+resultingdirectlyorindirectlyfromitsuseandapplication .
+Copyright©WorldResourcesInstitute
+October2006
+ISBN1-56973-631-6
+LibraryofCongressControlNumber:2006936591
+PrintedinUSA Orderingpublications
+WRI
+HopkinsFulfillmentService
+Tel:(1410)5166956
+Fax:(1410)5166998
+e-mail:hfscustser v@mail.press.jhu.edu
+PublicationscanbeorderedfromWRI’ssecureonlinestore:
+http://www.wristore.com
+Printedwithlinseed-oil-basedinkson,elementalchlorine
+freepaperChorusArtSilkcontaining50%recycledcontent
+including25%postconsumercontent.Usingthispaper
+createdthefollowingbenefits:5.85treesnotcutdown;
+16.89lbs.waterbornewastenotcreated;2,485gallons
+wastewaterflowsaved,275lbs.solidwastenotgenerated,
+541lbs.netgreenhousegasespreventedand4,144,175BTUs
+energynotconsumed.
+SW-COC-1530 25%
+
+--- Page 99 of 100 ---

@@ -1,0 +1,31 @@
+File Name: 1_2023-07-31_DelVO_2023_2772_ESRS_EU.pdf
+Converted on: 2025-03-28 03:20:41
+Original Size: 5.82 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 177 of 284
+--------------------------------------------------------------------------------
+
+ELI: http://data.europa.eu/eli/reg_del/2023/2772/oj 179/284(c) the total amount of fines, penalties, and compensation for damages as a result of the incidents and complaints
+disclosed above, and a reconciliation of such monetary amounts disclosed with the most relevant amount
+presented in the financial statements; and
+(d) where applicable, contextual information necessary to understand the data and how such data has been
+compiled.
+104. The undertaking shall disclose the following information regarding identified cases of severe human rights incidents
+(e.g., forced labour , human trafficking or child labour):
+(a) the number of severe human rights incidents connected to the undertaking’s workforce in the reporting period, including an indication of how many of these are cases of non-respect of the UN Guiding Principles on Business
+and Human Rights, ILO Declaration on Fundamental Principles and Rights at Work or OECD Guidelines for
+Multinational Enterprises. If no such incidents have occurred, the undertaking shall state this (
+100); and
+(b) the total amount of fines, penalties and compensation for damages for the incidents described in (a) above, and a
+reconciliation of the monetary amounts disclosed in the most relevant amount in the financial statements.
+(100)This information supports the information needs of financial market participants subject to Regulation (EU) 2019/2088 because it is
+derived from a mandatory and additional indicator related to principal adverse impacts as set out by indicator #10 in Table I of
+Annex I and by indicator #14 in Table III of Annex I of Commission Delegated Regulation (EU) 2022/1288 with regard to disclosure
+rules on sustainable investments (“Violations of UNGC principles and OECD Guidelines for Multinational Enterprises” and “Number of identified cases of severe human rights issues and incidents”); and the information needs of benchmark administrators to disclose ESG factors subject to Regulation (EU) 2020/1816 as set out by indicator “Number of benchmark constituents subject to social
+violations (absolute number and relative divided by all benchmark constituents), as referred to in international treaties and
+conventions, United Nations principles and, where applicable, national law” in section 1 and 2 of Annex II.OJ L, 22.12.2023 EN  
+
+--- Page 180 of 284 ---

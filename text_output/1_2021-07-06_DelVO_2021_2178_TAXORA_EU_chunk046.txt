@@ -1,0 +1,70 @@
+File Name: 1_2021-07-06_DelVO_2021_2178_TAXORA_EU.pdf
+Converted on: 2025-03-28 03:20:32
+Original Size: 10.30 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 46 of 47
+--------------------------------------------------------------------------------
+
+The proportion of the insurance or reinsurance undertaking’s
+investments other than investments held in respect of life
+insurance contracts where the investment risk is borne by the
+policy holders, that are directed at funding, or are associated with, Taxonomy-aligned economic activities: X %Value of insurance or reinsurance undertaking’s
+investments other than investments held in respect of
+life insurance contracts where the investment risk is
+borne by the policy holders, that are directed at funding, or are associated with, Taxonomy-aligned
+economic activities: [monetary amount]
+The value of all the investments that are funding economic
+activities that are not Taxonomy-eligible relative to the value of
+total assets covered by the KPI:
+X %Value of all the investments that are funding economic
+activities that are not Taxonomy-eligible:
+[monetary amount]
+The value of all the investments that are funding Taxonomy- eligible economic activities, but not Taxonomy-aligned relative
+to the value of total assets covered by the KPI:X %Value of all the investments that are funding Taxonomy- eligible economic activities, but not Taxonomy-
+aligned:[monetary amount]
+Additional, complementary disclosures: breakdown of numerator of the KPI
+The proportion of Taxonomy-aligned exposures to financial
+and non-financial undertakings subject to Articles 19a
+and 29a of Directive 2013/34/EU over total assets covered by
+the KPI:
+For non-financial undertakings:
+Turnover-based: %
+Capital expenditures-based: %
+For financial undertakings:
+Turnover-based: %
+Capital expenditures-based: %Value of Taxonomy-aligned exposures to financial
+and non-financial undertakings subject to Articles
+19a and 29a of Directive 2013/34/EU:
+For non-financial undertakings:
+Turnover-based: [monetary amount]
+Capital expenditures-based: [monetary amount]
+For financial undertakings:
+Turnover-based: [monetary amount]
+Capital expenditures-based: [monetary amount]
+The proportion of the insurance or reinsurance undertaking’s investments other than investments held in respect of life
+insurance contracts where the investment risk is borne by the
+policy holders, that are directed at funding, or are associated with, Taxonomy-aligned:
+Turnover-based: %
+Capital expenditures-based: %Value of insurance or reinsurance undertaking’s
+investments other than investments held in respect of
+life insurance contracts where the investment risk is
+borne by the policy holders, that are directed at funding, or are associated with, Taxonomy-aligned:
+Turnover-based: [monetary amount]
+Capital expenditures-based: [monetary amount]
+The proportion of Taxonomy-aligned exposures to other
+counterparties in over total assets covered by the KPI:
+Turnover-based: %
+Capital expenditures-based: %Value of Taxonomy-aligned exposures to other
+counterparties over total assets covered by the KPI:
+Turnover-based: [monetary amount]Capital expenditures-based: [monetary amount]
+Breakdown of the numerator of the KPI per environmental objective
+Taxonomy-aligned activities – provided ‘do-not-significant-harm’(DNSH) and social safeguards positive assessment:
+(1) Climate change mitigation Turnover: %
+CapEx: %Transitional activities: A % (Turnover; CapEx)Enabling activities: B % (Turnover; CapEx)
+(2) Climate change adaptation Turnover: %
+CapEx: %Transitional activities: A % (Turnover; CapEx)Enabling activities: B % (Turnover; CapEx)EN Official Journal of the European Union 10.12.2021 L 443/65  
+
+--- Page 58 of 59 ---

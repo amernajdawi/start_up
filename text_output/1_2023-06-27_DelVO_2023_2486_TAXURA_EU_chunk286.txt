@@ -1,0 +1,19 @@
+File Name: 1_2023-06-27_DelVO_2023_2486_TAXURA_EU.pdf
+Converted on: 2025-03-28 03:18:09
+Original Size: 8.44 MB
+Chunk Size: 500 tokens with 50 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 286 of 380
+--------------------------------------------------------------------------------
+
+(57)The term ‘landfill’ is defined in Council Directive 1999/31/EC of 26 April 1999 on the landfill of waste (OJ L 182, 16.7.1999, p. 1) as
+a ‘waste disposal site for the deposit of the waste onto or into land (i.e. underground)’ including both non-hazardous and hazardous
+waste.
+A ‘legally non-conforming’ landfill is a landfill that does not comply with the operational and technical requirements defined in
+relevant EU or national legislation.
+(58)A ‘waste dump’ is a site used for the disposal of waste that is not equipped with pollution abatement systems.
+(59)‘Emission’ means the release in the environment, as a result of human activities, of substances, preparations, organisms or micro-
+organisms (as set out in Article 2 of Directive 2004/35/CE of the European Parliament and of the Council of 21 April 2004 on
+environmental liability with regard to the prevention and remedying of environmental damage (OJ L 143, 30.4.2004, p. 56)).OJ L, 21.11.2023 EN

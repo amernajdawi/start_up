@@ -1,0 +1,55 @@
+File Name: 1_2023-06-27_DelVO_2023_2486_TAXURA_EU.pdf
+Converted on: 2025-03-28 03:20:36
+Original Size: 8.44 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 199 of 199
+--------------------------------------------------------------------------------
+
+information on the proportion of total assets covered by the GAR 3 . Credit institutions can , in addition to the information included in this template , show the proportion of assets funding taxonomy relevant sectors that are environmentally sustainable ( Taxonomy - aligned ) . This information would enrich the information on the KPI on environmentally sustainable assets compared to total covered assets 4 . Credit institutions shall duplicate this template for revenue - based and CapEx - based disclosures OJ L , 21 . 11 . 2023 EN - - - Page 156 of 164 - - -
+
+ELI: http://data.europa.eu/eli/reg_del/2023/2486/oj 156/164 OJ L, 21.11.2023 EN 
+
+--- Page 157 of 164 ---
+
+ELI: http://data.europa.eu/eli/reg_del/2023/2486/oj 157/1644. GAR KPI flow OJ L, 21.11.2023 EN 
+
+--- Page 158 of 164 ---
+
+ELI: http://data.europa.eu/eli/reg_del/2023/2486/oj 158/1645. KPI off-balance-sheet exposures OJ L, 21.11.2023 EN 
+
+--- Page 159 of 164 ---
+
+ELI: http://data.europa.eu/eli/reg_del/2023/2486/oj 159/1646. KPI on fees and commissions income from services other than lending and asset management OJ L, 21.11.2023 EN 
+
+--- Page 160 of 164 ---
+
+ELI: http://data.europa.eu/eli/reg_del/2023/2486/oj 160/1647. KPI Trading book portfolio’ OJ L, 21.11.2023 EN 
+
+--- Page 161 of 164 ---
+
+ELI: http://data.europa.eu/eli/reg_del/2023/2486/oj 161/164ANNEX VII ‘ANNEX VIII Template for KPIs of investment firms Template numberName 0 Summary of KPIs to be disclosed by investment firms under Article 8 Taxonomy Regulation 1 KPI IF – Dealing on own account services 2 KPI IF – Other servicesOJ L, 21.11.2023 EN 
+
+--- Page 162 of 164 ---
+
+ELI: http://data.europa.eu/eli/reg_del/2023/2486/oj 162/1640.Summary of KPIs to be disclosed by investment firms under Article 8 Taxonomy Regulation
+Total environmentally sustainable
+assetsKPI (***)KPI (****) % coverage (over total assets) (**)
+Main KPI (for dealing on own account) Green asset ratio
+Total revenue from environmentally
+sustainable services and activitiesKPIKPI % coverage (over total revenue)
+Main KPI (for services and activities other than dealing on own account)KPI on Revenue (*)
+(*) Fees, commissions and other monetary benefits.
+(**) % of assets covered by the KPI over total assets.
+(***) Based on the Turnover KPI of the counterparty.
+(****) Based on the CapEx KPI of the counterparty.OJ L, 21.11.2023 EN  
+
+--- Page 163 of 164 ---
+
+ELI: http://data.europa.eu/eli/reg_del/2023/2486/oj 163/1641.KPI IF – Dealing on own account services OJ L, 21.11.2023 EN 
+
+--- Page 164 of 164 ---
+
+ELI: http://data.europa.eu/eli/reg_del/2023/2486/oj 164/1642.KPI IF – Other services’ OJ L, 21.11.2023 EN

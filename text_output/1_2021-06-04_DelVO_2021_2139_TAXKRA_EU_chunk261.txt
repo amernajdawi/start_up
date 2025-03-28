@@ -1,0 +1,57 @@
+File Name: 1_2021-06-04_DelVO_2021_2139_TAXKRA_EU.pdf
+Converted on: 2025-03-28 03:20:30
+Original Size: 2.76 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 261 of 447
+--------------------------------------------------------------------------------
+
+Do no significant harm (‘DNSH’)  
+(1) Climate change mitigation  The activity manufactures one of the following: 
+(a) iron and steel where GHG emissions (  146  ), reduced by the amount of 
+emissions assigned to the production of waste gases in accordance
+with point 10.1.5(a) of Annex VII to Regulation (EU) 2019/331 do
+not exceed the following values applied to the different manufacturing
+process steps:
+(i) hot metal =1,443 (  147  ) tCO  2 e/t product; 
+(ii) sintered ore = 0,242 (  148  ) tCO  2 e/t product; 
+(iii) coke (excluding lignite coke) = 0,237 (  149  ) tCO  2 e/t product; 
+(iv) iron casting = 0,390 (  150  ) tCO  2 e/t product; 
+(v) electric arc furnace (EAF) high alloy steel = 0,360 (  151  ) tCO  2 e/t 
+product;
+(vi) electric arc furnace (EAF) carbon steel = 0,276 (  152  )] tCO  2 e/t 
+product.
+(b) steel in electric arc furnaces (EAFs) producing EAF carbon steel or EAF
+high alloy steel as defined in Commission Delegated Regulation (EU)
+2019/331 and where the steel scrap input relative to product output
+is:
+(i) at least 70 % for the production of high alloy steel
+(ii) at least 90 % for production of carbon steel.  
+(3) Sustainable use and protection of
+water and marine resources  The activity complies with the criteria set out in Appendix B to this 
+Annex.  
+(4) Transition to a circular economy  N/A  
+_____________
+( 146  ) Calculated in accordance with Regulation (EU) 2019/331. 
+( 147  ) Reflecting the median value of the installations in 2016 and 2017 (t CO  2 equivalents/t) of the data collected in the context of 
+establishing the Commission Implementing Regulation (EU) 2021/447, determined on the basis of verified information on the
+greenhouse gas efficiency of installations reported pursuant to Article 11 of Directive 2003/87/EC.
+( 148  ) Reflecting the median value of the installations in 2016 and 2017 (t CO  2 equivalents/t) of the data collected in the context of 
+establishing the Commission Implementing Regulation (EU) 2021/447, determined on the basis of verified information on the
+greenhouse gas efficiency of installations reported pursuant to Article 11 of Directive 2003/87/EC.
+( 149  ) Reflecting the median value of the installations in 2016 and 2017 (t CO  2 equivalents/t) of the data collected in the context of 
+establishing the Commission Implementing Regulation (EU) 2021/447, determined on the basis of verified information on the
+greenhouse gas efficiency of installations reported pursuant to Article 11 of Directive 2003/87/EC.
+( 150  ) Reflecting the median value of the installations in 2016 and 2017 (t CO  2 equivalents/t) of the data collected in the context of 
+establishing the Commission Implementing Regulation (EU) 2021/447, determined on the basis of verified information on the
+greenhouse gas efficiency of installations reported pursuant to Article 11 of Directive 2003/87/EC.
+( 151  ) Reflecting the median value of the installations in 2016 and 2017 (t CO  2 equivalents/t) of the data collected in the context of 
+establishing the Commission Implementing Regulation (EU) 2021/447, determined on the basis of verified information on the
+greenhouse gas efficiency of installations reported pursuant to Article 11 of Directive 2003/87/EC.
+( 152  ) Reflecting the median value of the installations in 2016 and 2017 (t CO  2 equivalents/t) of the data collected in the context of 
+establishing the Commission Implementing Regulation (EU) 2021/447, determined on the basis of verified information on the
+greenhouse gas efficiency of installations reported pursuant to Article 11 of Directive 2003/87/EC.EN  9.12.2021 Official Journal of the European Union L 442/195
+
+--- Page 196 of 349 ---

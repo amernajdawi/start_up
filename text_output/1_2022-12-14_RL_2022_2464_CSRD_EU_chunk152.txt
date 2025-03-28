@@ -1,0 +1,26 @@
+File Name: 1_2022-12-14_RL_2022_2464_CSRD_EU.pdf
+Converted on: 2025-03-28 03:18:06
+Original Size: 1.12 MB
+Chunk Size: 500 tokens with 50 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 152 of 204
+--------------------------------------------------------------------------------
+
+(a) the third and fourth subparagraphs are replaced by the followi ng:
+‘The Commission shall, in accordance with the procedure refer red to in Article 27(2) of this Directive, take the
+necessar y decisions on the equivalence of accounting standards under the conditions set out in Article 30(3) of
+this Directive and on the equivalence of sustainability repor ting standards as refer red to in Article 29b of Directive
+2013/34/EU which are used by third-countr y issuers. If the Commission decides that the accounting standards or
+the sustainability repor ting standards of a third countr y are not equivalent, it may allow the issuers concer ned to
+continue using such standards during an appropr iate transitional period.
+In the cont ext of the third subparagraph of this paragraph, the Commission shall also adopt, by means of delegat ed
+acts adopt ed in accordance with Article 27(2a), (2b) and (2c), and subject to the conditions laid down in Articles
+27a and 27b, measures that aim to establish general equivalence criteria rega rding accounting standards and
+sustainability repor ting standards relevant to issuers of more than one countr y.’;
+(b) the follo wing subparagraph is added:
+‘The criteria that the Commission shall use when assessing the equivalence of sustainability repor ting standards
+used by third-countr y issuers refer red to in the third subparagraph shall at least ensure the follo wing:
+(a) that the sustainability repor ting standards require under takings to disclose information on environmental,
+social and governance factors;EN Offi cial Jour nal of the European Union L 322/62 16.12.2022

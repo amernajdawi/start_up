@@ -1,0 +1,36 @@
+File Name: 2_E1_2021-06-30_VO_2021_1119_EUKG_EU.pdf
+Converted on: 2025-03-28 03:18:27
+Original Size: 0.54 MB
+Chunk Size: 500 tokens with 50 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 46 of 51
+--------------------------------------------------------------------------------
+
+5. The Advisor y Board shall compl ement the work of the Agen cy while acting independently in disc harging its
+tasks. The Advisor y Board shall establish its annual work programme independently , and when doing so it shall
+consult the Manage ment Board. The chair person of the Advisor y Board shall inform the Manage ment Board and the
+Executive Direct or of that programme and its imp lementation.’;
+(2) in Article 11, the followi ng paragraph is added:
+‘5. The Age ncy’s budget shall also include the expenditure relating to the Advisor y Board.’ .
+Article 13
+Amendments to Regulation (EU) 2018/1999
+Regulation (EU) 2018/1999 is amended as follows :
+(1) in Article 1(1), point (a) is replaced by the following:
+‘(a) implement strateg ies and measures designed to meet the objectives and targets of the Energy Union and the long-
+term Union greenhouse gas emissions commitments consist ent with the Paris Agreement, in particular the
+Union’s climat e-neutrality objective set out in Article 2(1) of Regulation (EU) 2021/1119 of the European
+Parliament and of the Council (*), and, for the first ten-year period, from 2021 to 2030, in particular the Union’s
+2030 targets for energy and climat e;
+_____________
+(*) Regulation (EU) 2021/1119 of the European Parliament and of the Council of 30 June 2021 establishing the
+framew ork for achieving climat e neutrality and amending Regulations (EC) No 401/2009 and (EU) 2018/1999
+(“European Climat e Law”) (OJ L 243, 9.7.2021, p. 1).’;
+(2) in Article 2, point (7) is replaced by the followi ng:
+‘(7) “projections” means forecasts of anthropogenic greenhouse gas emissions by sources and remo vals by sinks or
+developments of the energy system, including at least quantitative estimat es for a sequence of six future years
+ending with 0 or 5, immediately followi ng the repor ting year;’;
+(3) in Article 3(2), point (f) is replaced by the followi ng:
+‘(f) an assessment of the impacts of the planned policies and measures to meet the objectives referred to in point (b)
+of this paragraph, including their consistency with the Union’s climate-neutrality objective set out in Article 2(1)

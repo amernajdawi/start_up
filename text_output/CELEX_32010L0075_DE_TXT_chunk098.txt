@@ -1,0 +1,128 @@
+File Name: CELEX_32010L0075_DE_TXT.pdf
+Converted on: 2025-03-28 03:18:33
+Original Size: 4.18 MB
+Chunk Size: 500 tokens with 50 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 98 of 163
+--------------------------------------------------------------------------------
+
+Betriebsstunden.
+6. NOx- und CO-Emissionsgrenzwerte (in mg/Nm3) für mit Gas b etriebene Feuerungsanlagen
+NOx CO
+Feuerungsanlagen mit Ausnahme von Gasturbinen und
+Gasmotoren100 100
+Gasturbinen
+(einschließlich
+GuD) 50 (1) 100
+Gasmotoren 75 100
+Anmerkung:
+(1)Für einstufige  Gasturbinen,  deren Wirk ungsgrad  unter  ISO-Grundlastbeding un gen mehr als 35 v.H. b eträgt,  gilt  ein NOx-
+Emissionsgrenzwert
+von 50 xη/35, wob ei
+η der in Prozen t
+ausgedrückte
+Wirkungsgrad
+der Gasturb ine
+unter
+ISO-
+Grundlastbedingungen
+ist.
+Für Gasturb inen (einschließlich GuD) gelten die unter dieser Nummer aufgeführten  NOx- und CO-Emissionsgrenzwerte 
+nur
+bei
+einer
+Last von
+über
+70 v. H.
+Gasturbinen
+und
+Gasmotoren für den Notb etrieb,
+die weniger
+als 500 Betrieb sstunden
+jährlich in Betrieb sin d,
+fallen
+nicht
+unter
+die unter
+dieser Nummer aufg eführten
+Emissionsgrenzwerte.
+Die Betreib er
+solcher An lagen
+registrieren
+die
+geleisteten
+Betriebsstunden.
+7.
+Staub-Emissionsgrenzwerte
+ (in mg/Nm3) für mit festen oder flüssig en Brennstoffen betriebene Feuerungsanlagen  m i t  
+Ausnahme
+von
+Gasturbinen
+und
+Gasmotoren  
+Feuerungswärmeleistung (MW)
+50- 300 20
+> 300 10
+20 für Biomasse un d
+Torf
+8. Staub-Emissionsgrenzwerte
+(in
+mg/Nm3) für mit g asförmigen Brennstoffen betriebene Feuerungsanlagen mit Ausnahme
+von
+Gasturbinen
+und
+Gasmotoren  
+Im
+Allgemeinen 5
+Hochofen gas 10
+Anderweitig
+verwertbare
+Gase der Stahlin dustrie 30
+TEIL
+3
+Emissionsüberwachung
+1. Die Konzentrationen
+von
+SO2,  N Ox und Staub in Abgasen sind bei jeder Feuerun gsanlage mit einer Feuerungswä rme­
+leistung
+von
+100 MW oder mehr k ontinuierlich
+zu messen .
+Die
+CO-Konzentration
+der Abgase
+von jeder mit g asförmigen
+Brenn
+stoffen betriebenen Feuerungsanlage mit ein er
+
+Feuerungswärmeleistung
+von
+100 MW oder mehr ist k ontinuierlich
+zu messen.
+2. Die zustän dige
+Behörde k ann
+beschließen,
+in
+folgenden
+Fällen
+von
+den
+ko
+ntinuierlichen
+Messungen
+gemäß
+Nummer 1
+abzusehen:
+a) für
+Feuerungsanlagen
+mit einer
+Lebensdauer
+von
+weniger
+als 10 000 Betrieb sstunden;
+b) für
+SO2 und Staub aus mit Erdgas betriebenen Feuerungsanlagen;
+
+--- Page 48 of 103 ---

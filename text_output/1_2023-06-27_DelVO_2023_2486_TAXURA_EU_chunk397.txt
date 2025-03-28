@@ -1,0 +1,28 @@
+File Name: 1_2023-06-27_DelVO_2023_2486_TAXURA_EU.pdf
+Converted on: 2025-03-28 01:55:43
+Original Size: 8.44 MB
+Chunk Size: 400 tokens with 50 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 397 of 447
+--------------------------------------------------------------------------------
+
+ELI: http://data.europa.eu/eli/reg_del/2023/2486/oj 129/164Appendix C
+Generic criteria for DNSH to pollution prevention and control regarding use and presence of
+chemicals
+The activity does not lead to the manufacture, placing on the market or use of:
+(a) substances, whether on their own, in mixtures or in articles, listed in Annexes I or II to Regulation
+(EU) 2019/1021, except in the case of substances present as an unintentional trace contaminant;
+(b) mercury and mercury compounds, their mixtures and mercury-added products as defined in Article 2 of Regulation (EU) 2017/852;
+(c) substances, whether on their own, in mixture or in articles, listed in Annexes I or II to Regulation (EC)
+No 1005/2009;
+(d) substances, whether on their own, in mixtures or in articles, listed in Annex II to Directive 2011/65/EU, except
+where there is full compliance with Article 4(1) of that Directive;
+(e) substances, whether on their own, in mixtures or in an article, listed in Annex XVII to Regulation (EC)
+No 1907/2006, except where there is full compliance with the conditions specified in that Annex;
+(f) substances, whether on their own, or in mixtures or in an article, in a concentration above 0,1 % weight by weight (w/w), and meeting the criteria laid down in Article 57 of Regulation (EC) No 1907/2006 and that were
+identified in accordance with Article 59(1) of that Regulation for a period of at least 18 months, except if it is
+assessed and documented by the operators that no other suitable alternative substances or technologies are
+available on the market, and that they are used under controlled conditions (
+1).

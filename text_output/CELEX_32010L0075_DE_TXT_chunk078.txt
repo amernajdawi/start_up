@@ -1,0 +1,350 @@
+File Name: CELEX_32010L0075_DE_TXT.pdf
+Converted on: 2025-03-28 03:21:03
+Original Size: 4.18 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 78 of 93
+--------------------------------------------------------------------------------
+
+Verbindungen
+verdunstet
+sind.
+ii) Die
+jährlichen  
+Bezugsemissionen
+sind
+durch Multiplik ation
+der gemäß
+Ziffer i bestimmten
+Masse mit dem en t­
+sprechenden
+Faktor
+der nachstehenden
+Tabelle
+zu berechnen.
+Die zustän di
+gen
+Behörden  
+können
+eine
+Anpas­
+sung
+dieser Fak toren
+für einzelne
+Anlagen
+vornehmen,
+um einem
+nachgewies
+enen
+erhöhten
+Wirkungsgrad
+beim
+Einsatz
+von
+Feststoffen  
+Rechnung
+zu tragen.
+TätigkeitMultiplikationsfaktor für die
+Position a ii
+Rotationstiefdruck, Flexodruck , Laminierung im Zuge einer Drucktätigkeit, Klar­
+lackauftrag
+im Zuge
+einer
+Drucktätigkeit;
+Holzbeschichtung,
+Beschichtun g
+von
+Textilien,
+Geweben,
+Folien
+oder Papier; K lebebeschichtung4
+Bandblechbeschichtung;
+Reparaturlack ierung
+von
+Fahrzeugen 3
+Beschichtun gen,
+die mit Leb ensmitteln
+in
+Berührung
+kommen;
+Beschichtung en
+für
+die Luft- un d
+Raumfahrt2,33
+Sonstige
+Beschichtun gen
+und
+Rotationssiebdruck 1,5
+b) Die
+Zielemission  
+entspricht
+der jährlichen  
+Bezugsemission,
+multipliziert mit ein em
+Prozentsatz
+in
+Höhe
+i) (des Grenzwerts
+für diffuse E missionen
++ 15), für An lagen,
+die unter
+Position
+6 und
+den
+unteren
+Schwellen ­
+bereich
+der Position en
+8 und
+10 des Teils 2 fallen ;
+ii) (des
+Grenzwerts
+für diffuse E missionen
++ 5), für alle son stigen
+Anlage
+n.
+c) Die
+Anforderungen
+sind
+erfüllt, wen n
+die anhand
+der Lösun gsmittelbila
+nz
+bestimmte
+tatsächliche Lösun gsmittel­
+emission
+geringer
+oder gleich
+der Zielemission  
+ist.
+
+--- Page 70 of 103 ---
+
+L 334/86 DE Amtsblattder Europäischen Union 17.12.2010
+TEIL 6
+Emissionsüberwachung
+1. Bei
+Abgasleitungen,
+an
+die eine
+Vorrichtun g
+zur Emis
+sionsminderun g
+angeschlossen
+ist und
+bei
+denen
+am Punkt
+des end­
+gültigen
+Austritts durchschn ittlich
+mehr als 10 k g/h
+organi
+sch gebunden
+en
+Kohlenstoffs
+freigesetzt
+werden,
+wird die E in­
+haltung
+der Anforderungen
+ständig
+überwacht.
+2. In
+den
+anderen
+Fällen
+stellen
+die Mitgliedstaaten
+sicher, dass en tweder
+kontinuierliche oder periodische Messun gen
+durch­
+geführt
+werden.
+Bei periodischen  
+Messungen
+sind
+bei
+jedem Messvorg ang
+mindestens
+drei Messwerte zu ermitteln .
+3. Messungen
+sind
+nicht
+erforderlich, wen n
+zur Einhaltung
+dieser Richtlin ie
+eine
+Vorrichtun g
+zur Minderung
+der Emissi­
+onen
+im Abgas
+nicht
+nötig
+ist.
+TEIL
+7
+Lösungsmittelbilanz
+1. Grundsätze
+Die
+Lösungsmittelbilanz
+dient
+folgenden
+Zwecken:
+a) Überprüfung
+der Erfüllung
+der Anforderungen
+gemäß
+Artikel
+62;
+b) Ermittlung
+der künftigen
+Reduzierun gsoptionen;
+c) Bereitstellun g
+von
+Informationen
+für die Öffen tlichkeit
+über
+den
+Lösungsmittelverbrauch,
+die Lösun gsmittel­
+emissionen
+und
+die Einhaltung
+der Anforderungen
+des Kapitels
+V.
+2. Definitionen
+Mit
+Hilfe der folg enden
+Definitionen
+lässt sich die Massen bilanz
+ermitteln.
+Input
+organischer
+Lösungsmittel
+(I):
+I1Die
+Menge
+organischer
+Lösungsmittel
+oder ihre Men ge
+in
+gekauften
+Mischungen,
+die bei
+dem Verfahren  
+in
+der
+Zeitspanne,
+die der Berechn ung
+der Massen bilanz
+zugrunde
+liegt.
+I2Die
+Menge
+organischer
+Lösungsmittel
+oder ihre Men ge
+in
+zurück
+gewonnen
+en
+Mischungen,
+die bei
+dem Verfah­
+ren
+als Lösungsmittel-Input
+zur Wiederverwen dung
+eingesetzt
+wird. Das zurück  
+gewonnene
+Lösungsmittel
+wird
+jedes Mal dan n
+erfasst, wen n
+es dazu verwan dt
+wird, die Tätig keit
+auszuführen .
+Output
+organischer
+Lösungsmittel
+(O):
+O1Emissionen
+in
+Abgasen.
+O2Verluste
+organischer
+Lösungsmittel
+in
+Wasser, un ter
+Berücksichtigun
+g
+der Abwasseraufbereitung
+bei
+der Berech­
+nung
+von
+O5.
+O3Die Menge
+organischer
+Lösungsmittel,
+die als Verun reinigung
+oder Rückstan d
+im Endprodukt
+verbleibt.
+O4Diffuse
+Emissionen
+organischer
+Lösungsmittel
+in
+die Luft. Hierzu g ehö
+rt im Allg emeinen
+die Belüftun g
+von
+Räu­
+men,
+bei
+der die Luft durch Fen ster,
+Türen,
+Lüftungsschächte
+oder ähnlich
+e Öffnungen
+nach
+außen
+entweichen
+kann.
+O5Der
+Verlust org anischer
+Lösungsmittel
+und/oder
+organischer
+Verbindu
+ngen
+aufgrund
+chemischer oder physik ali­
+scher
+Reaktionen
+(einschließlich
+Lösungsmittel
+und/oder
+Verbindungen
+, die durch Verb rennung
+oder die Aufb e­
+reitung
+von
+Abgas
+oder Abwasser
+vernichtet
+oder aufg efangen
+werden,
+sofern
+sie nicht
+unter
+O6, O7 oder O8
+fallen).
+
+--- Page 71 of 103 ---

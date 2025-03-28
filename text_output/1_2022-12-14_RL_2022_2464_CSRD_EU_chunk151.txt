@@ -1,0 +1,34 @@
+File Name: 1_2022-12-14_RL_2022_2464_CSRD_EU.pdf
+Converted on: 2025-03-28 03:18:06
+Original Size: 1.12 MB
+Chunk Size: 500 tokens with 50 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 151 of 204
+--------------------------------------------------------------------------------
+
+(b) paragraphs 4 and 5 are replaced by the followi ng:
+‘4. The financial statements shall be audite d in accordance with the first subparagraph of Article 34(1) and
+Article 34(2) of Directive 2013/34/EU.
+The statutor y auditor shall deliver the opinion and statement on the manag ement repor t referred to in points (a)
+and (b) of the second subparagraph of Article 34(1) and in Article 34(2) of Directive 2013/34/EU.
+The audit repor t, refer red to in Article 28 of Directive 2006/43/EC of the European Parliament and of the
+Council (*), signed by the person or persons responsible for carrying out the work set out in Article 34(1) and (2)
+of Directive 2013/34/EU shall be disclosed in full to the public together with the annual financial repor t.
+Where applicable, an assurance opinion on sustainability repor ting shall be provided in accordance with point (aa)
+of the second subparagraph of Article 34(1) and Article 34(2) to (5) of Directive 2013/34/EU.
+The assurance repor t on sustainability repor ting refer red to in Article 28a of Directive 2006/43/EC shall be
+disclosed in full to the public together with the annual financial repor t.
+5. The management repor t shall be drawn up in accordance with Articles 19, 19a and 20, and Article 29d(1) of
+Directive 2013/34/EU, and shall include the specif ications adopt ed pursuant to Article 8(4) of
+Regulation (EU) 2020/852, when drawn up by under takings referred to in those provisions.
+Where the issuer is required to prepare consolidat ed accounts, the consolidated manage ment repor t shall be drawn
+up in accordance with Articles 29 and 29a and Article 29d(2) of Directive 2013/34/EU and shall include the
+specifi cations adop ted pursuant to Article 8(4) of Regulation (EU) 2020/852, when drawn up by under takings
+refer red to in those provisions.
+_____________
+(*) Directive 2006/43/EC of the European Parliament and of the Council of 17 May 2006 on statut ory audits of
+annual accounts and consolidated accounts, amending Council Directives 78/660/EEC and 83/349/EEC and
+repealing Council Directive 84/253/EEC (OJ L 157, 9.6.2006, p. 87).’;
+(3) Article 23(4) is amended as follows:

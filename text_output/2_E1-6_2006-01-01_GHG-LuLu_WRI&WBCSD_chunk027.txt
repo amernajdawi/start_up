@@ -1,0 +1,165 @@
+File Name: 2_E1-6_2006-01-01_GHG-LuLu_WRI&WBCSD.pdf
+Converted on: 2025-03-28 03:20:49
+Original Size: 6.41 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 27 of 50
+--------------------------------------------------------------------------------
+
+ThegeographicareafortheNipawinAfforestationProject
+wasdefinedusingthefollowingcharacteristics(inthisorder):
+•Politicalboundaries:Thegeographicareawasrestricted
+toCanada’sprairieprovinces(Alberta,Saskatchewan,
+andManitoba),astheyhavethesamegeneralland-use
+conditionsandagriculturalandforestproductionlaws
+andincentives.
+•Databoundaries: Thegeographicareaislimitedtolands
+withinStatisticsCanada’sCensusAgriculturalRegions,
+astheybestrepresenttheprojectsiteclassificationand
+facilitatethedefinitionofthehectaresineachbaseline
+candidatefortheperformancestandardprocedure.
+•Biophysicalconditions:Thegeographicareawasfurther
+restrictedtotheDarkGrayandBlacksoilzones,asthey
+arehighlysuitableforgrowinghybridpoplars.2
+•Landtenure:Thegeographicareawasrestrictedaswellto
+privatelyheldlands,astheprojectactivitywilltakeplace
+onprivateland.ThismeansProvincialForestsareexcluded.
+Insummary,theinitialgeographicarea 3istheprivately
+heldlandontheDarkGrayandBlacksoilzonesofAlberta,
+Saskatchewan,andManitobawithintheCensusAgricultural
+Regionsforthesethreeprovinces.Thisbroadareais 21,916,393ha,withthetotalamountoflandinagricultural
+production(i.e.,croplandandpastureland)in2001basedon
+economicaltraits(StatisticsCanada2001) 4.TableE.4shows
+eachagriculturelanduseaspercentageoftotalagricultural
+landinthedarkgrayandblacksoilzones(2001) .
+5.3.2 DEFININGTHETEMPORALRANGE
+Theareaofagriculturallandincommercialcropland
+remainedrelativelyconstantbetween1996and2001(table
+E.5,supportingmaterialAonline),althoughtheconven -
+tionaltillagemanagementpracticeshaverecentlyshiftedto
+zerotillage.Therehasalsobeenareductionincommercial
+croplandwithsummerfallow.Therehasbeenanincreasein
+complementaryandrotationalgrazingsystemsandperen -
+nialcropproduction(Boehmetal.2004).Thesechanges
+affectboththefinallistofbaselinecandidateandhowthe
+carbonstocksareestimatedforthesebaselinecandidates.
+Afive-yeartemporalrange(1996to2001)willbeused
+becausethedataforalongerperiodwasnotreadilyavail-
+able.Thisisnotideal,asthetemporalrangeshouldbeat
+leasttenyears.Butbecausethisisonlyanillustrative
+example,itwasnotpracticaltopurchasetheadditional
+historicaldatatoextendtheperiod.Also,becausetheland
+usesintheareaarerelativelystable,fiveyearswasnot
+consideredtobemisleading.
+EXAMPLE :NipawinAfforestationProject 64 TA B L E E . 4 AgricultureLandUseasPercentageofTotalAgriculturalLand
+intheDarkGrayandBlackSoilZones(2001)
+L A N D U S E T O TA L A G R I C U LT U R A L L A N D ( % )
+Commercialcropland(excludingChristmastrees/summerfallowarea) 59
+Naturalpastureland(notabaselinecandidate) 21
+Tameorseededpastureland 8
+Allotherland(includingChristmastreearea) 7
+Commercialcroplandwithsummerfallowland 5
+Total 100
+Source:AdaptedfromStatisticsCanada2001.
+TA B L E E . 5 ChangeinAgriculturalLand-UseAreafrom1996to2001
+L A N D U S E C H A N G E I N A R E A ( % )
+Totalagriculture -1
+Commercialcropland(excludingChristmastrees/summerfallowarea) 1
+Commercialcroplandwithsummerfallowland -36
+Tameorseededpastureland 12
+Allotherland(includingChristmastreearea) -20
+Source:AdaptedfromStatisticsCanada1996,2001.
+
+--- Page 67 of 100 ---
+
+5 . 4 D E F I N I N G O T H E R C R I T E R I A
+U S E D T O I D E N T I F Y T H E T Y P E S
+O F B A S E L I N E C A N D I D AT E S
+Alberta,Saskatchewan, andManitobahavenostatedlegal
+requirementsthataffectlanduseinthegeographicarea,
+andnoothercriteriawereidentifiedtodefinethetypesof
+baselinecandidates.
+5 . 5 I D E N T I F Y I N G T H E F I N A L L I S T
+O F B A S E L I N E C A N D I D AT E S
+Fourtypesofbaselinecandidatesfallintothedefined
+geographicareaandtemporalrange:
+1 . BaselineCandidateType1:Commercialcropland.In
+2001,30percentofthecroplandinthegeographicarea
+waswheat,17percentwasbarley,16percentwas
+canola,13percentwasalfalfa,and8percentwasoats,
+withtheremainderconsistingofmiscellaneouscrops
+types(StatisticsCanada2001).Allcropsaresuitablefor
+thecommercialcroplandbaselinecandidate.Tobe
+conservativeinthequantificationofthebaselinecarbon
+stocks,zero-tillagesoilmanagementisassumed.
+2 . BaselineCandidateType2:Tamepastureland.Tobe
+conservativeinthequantificationofthebaselinecarbon
+stocks,improvedpasturemanagementisassumed.
+3 . BaselineCandidateType3:Hybridpoplarforest.
+4 . BaselineCandidateType4:Development.Commercial,
+residential,andfarmhousedevelopmentwereaggregated.
+Notethatfortheproject-speci ficprocedure,thetypesof
+baselinecandidatesrepresentthebaselinecandidatesbut
+thatfortheperformancestandardprocedure,theindividual
+baselinecandidatesaretheindividualhectaresofland
+representedbyeachtypeofbaselinecandidate.Thehectares
+aredeterminedinsection7.1.2.
+BasedonseveralremotesensingandGISmapsfromthe
+late1990s,5certainland-usechangeswereexcludedfrom
+thelistofbaselinecandidates. Becausenolandwas
+convertedfromcroppingorpasturetoChristmastree
+productionduringthistime,Christmastreeproductionalso
+wasexcluded.
+Commercialcroplandwithandwithoutsummerfallowwas
+aggregatedtoforma“commercialcropland”baseline
+candidate.Theacreageundersummerfallowdecreasedby
+36percentbetween1996and2001(tableE.4)(Statistics
+Canada1996,2001),becausesummerfallowreducesthe
+soil’sorganicmatterrelativetothatofcontinuously
+croppedsoils(Campbelletal.2002),itisconservativeto
+aggregatethesetwocommercialcroppingareas.5.6 IDENTIFYINGTYPESOFBASEL INE
+CANDIDATESTHATREPRESEN T
+COMMONPRACTICE
+Thecommonpracticeinthegeographicareaiscommercial
+cropland,representing64percentofthegeographicarea.
+Chapter6:EstimatingBaselineGHG
+Removals—Pr oject-SpecificProcedure
+ToestimatethebaselineGHGremovalsusingtheproject-
+specificprocedure,thebaselinescenarioisidentified;the
+changeincarbonstocksforthebaselinescenarioarequanti-
+fied;andthecarbonstockchangesarethenconvertedto
+GHGremovals(i.e.,CO 2eq).Inaddition,thetotalcarbon
+stocksareestimatedforthebaselinescenario(i.e.,tC),in
+ordertocomparethemwiththeprojectactivity’stotal
+carbonstocks.
+6 . 1 P E R F O R M I N G A C O M P A R AT I V E
+A S S E S S M E N T O F B A R R I E R S
+Thepossiblealternativesforthebaselinescenario—including
+thebaselinecandidates,theprojectactivity,andthecontinu -
+ationofcurrentactivities—areevaluatedbycomparatively
+assessingthebarriers.Thepossiblealternativesforthe
+baselinescenario(i.e.,thoseidentifiedinsection5.5)are:
+•BaselineCandidate1:Commercialcroplandassuming
+zero-tillage.Thisrepresentsthecontinuationof
+currentactivities.
+•BaselineCandidate2:Tamepastureland,assuming
+improvedmanagementoftamepasture.
+•BaselineCandidate3:TheAl-Pachybridpoplarforest.
+•BaselineCandidate4:Commercial,residential,and
+farmhousedevelopment.
+•ProjectActivity:TheNEPhybridpopularforest.
+Notethatbaselinecandidate3andtheprojectactivitywill
+beconsideredtogetherinthecomparativeassessmentof
+barriers,asthebarriersareperceivedtobesimilarinboth
+cases,despitethedifferencesbetweentheprojects.
+6.1.1 IDENTIFYINGBARRIE RSTOTHEPROJE CT
+ACTIVITYANDBASELINECANDID ATES
+Theanticipatedbarrierstotheprojectactivityandbaseline
+candidatesarelistednext.Credibleandjustifiabledatafor
+eachbarriercategoryshouldbeprovidedtosupporteach
+claim.Inthisexample,forthesakeofbrevity,therequired
+supportingdata(e.g.,locallaborstatisticsindicatingthe
+lackofpossiblemaintenancepersonnel)arenotprovided.EXAMPLE:NipawinAfforestationProject
+65

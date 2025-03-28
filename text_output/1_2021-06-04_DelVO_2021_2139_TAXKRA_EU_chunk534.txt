@@ -1,0 +1,25 @@
+File Name: 1_2021-06-04_DelVO_2021_2139_TAXKRA_EU.pdf
+Converted on: 2025-03-28 03:18:03
+Original Size: 2.76 MB
+Chunk Size: 500 tokens with 50 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 534 of 966
+--------------------------------------------------------------------------------
+
+( 157  ) Nature-based solutions are defined as ‘solutions that are inspired and supported by nature, which are cost-effective, simulta n­
+eously provide environmental, social and economic benefits and help build resilience. Such solutions bring more, and more
+diverse, nature and natural features and processes into cities, landscapes and seascapes, through locally adapted, resource-eff icient
+and systemic interventions’. Therefore, nature-based solutions benefit biodiversity and support the delivery of a range of
+ecosystem services (version of 4.6.2021: https://ec.europa.eu/info/research-and-innovation/research-area/environment/nature-
+based-solutions_en/).
+( 158  ) See Communication from the Commission to the European Parliament, the Council, the European Economic and Social 
+Committee and the Committee of the Regions: Green Infrastructure (GI) — Enhancing Europe’s Natural Capital (COM/2013/0249
+final).
+( 159  ) Directive (EU) 2018/2001 of the European Parliament and of the Council of 11 December 2018 on the promotion of the use of 
+energy from renewable sources (OJ L 328, 21.12.2018, p. 82).
+( 160  ) ISO standard 14067:2018, Greenhouse gases — Carbon footprint of products — Requirements and guidelines for quantification 
+(version of 4.6.2021: https://www.iso.org/standard/71206.html).
+( 161  ) ISO standard 14064-1:2018, Greenhouse gases — Part 1: Specification with guidance at the organization level for quantificatio n 
+and reporting of greenhouse gas emissions and removals (version of 4.6.2021: https://www.iso.org/standard/66453.html).EN  9.12.2021 Official Journal of the European Union L 442/197

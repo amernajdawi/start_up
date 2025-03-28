@@ -1,0 +1,44 @@
+File Name: 1_2023-07-31_DelVO_2023_2772_ESRS_EU.pdf
+Converted on: 2025-03-28 03:20:41
+Original Size: 5.82 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 101 of 284
+--------------------------------------------------------------------------------
+
+ELI: http://data.europa.eu/eli/reg_del/2023/2772/oj 103/284Connectivity of GHG intensity based on revenue with financial reporting information
+AR 55. The reconciliation of the net revenue used to calculate GHG intensity to the relevant line item or notes in the
+financial statements (as required by paragraph 55) may be done by either:
+(a) a cross-reference to the related line item or disclosure in the financial statements; or
+(b) if the net revenue cannot be directly cross-referenced to a line item or disclosure in the financial statements, by a quantitative reconciliation using the below tabular format.
+Net revenue used to calculate GHG intensity
+Net revenue (other)
+Total net revenue (in financial statements)
+Disclosure Requirement E1-7 – GHG removals and GHG mitigation projects financed through carbon credits
+GHG removals and storage in own operations and the upstream and downstream value chain
+AR 56. In addition to their GHG emission inventories, undertakings shall provide transparency on how and to what extent
+they either enhance natural sinks or apply technical solutions to remove GHGs from the atmosphere in their own
+operations and upstream and downstream value chain. While there are no generally accepted concepts and methodologies for accounting for GHG removals, this Standard aims to increase transparency on the
+undertaking’s efforts to remove GHGs from the atmosphere (paragraphs 56 (a) and 58). The GHG removals
+outside the value chain that the undertaking supports through the purchase of carbon credits are to be disclosed
+separately as required by paragraphs 56 (b) and 59.
+AR 57. When disclosing the information on GHG removals and storage from the undertaking’s own operations and its
+upstream and donwstream value chain required under paragraphs 56 (a) and 58, for each removal and storage
+activity, the undertaking shall describe:
+(a) the GHGs concerned;
+(b) whether removal and storage are biogenic or from land-use change (e.g., afforestation, reforestation, forest
+restoration, urban tree planting, agroforestry, building soil carbon, etc.), technological (e.g., direct air capture),
+or hybrid (e.g., bioenergy with CO2 capture and storage), and technological details about the removal, the type of storage and, if applicable, the transport of removed GHGs;
+(c) if applicable, a brief explanation of whether the activity qualifies as a nature-based solution; and
+(d) how the risk of non-permanence is managed, including determining and monitoring leakage and reversal
+events, as appropriate.
+Calculation guidance
+AR 58. When preparing the information on GHG removals and storage from the undertaking’s own operations and its
+upstream and donwstream value chain required under paragraphs 56 (a) and 58, the undertaking shall:
+(a) consider, as far as applicable, the GHG Protocol Corporate Standard (version 2004), Product Standard (version
+2011), Agriculture Guidance (version 2014), Land use, land-use change, and forestry Guidance for GHG
+project accounting (version 2006);OJ L, 22.12.2023 EN  
+
+--- Page 104 of 284 ---

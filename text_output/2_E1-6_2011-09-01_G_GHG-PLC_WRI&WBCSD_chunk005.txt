@@ -1,0 +1,99 @@
+File Name: 2_E1-6_2011-09-01_G_GHG-PLC_WRI&WBCSD.pdf
+Converted on: 2025-03-28 03:20:53
+Original Size: 3.27 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 5 of 116
+--------------------------------------------------------------------------------
+
+[06]   Product Life Cycle Accounting and Reporting Standard
+guidance1.5  Use of the Product Standard  
+for product comparison
+The Product Standard is intended to support
+performance tracking of a product’s GHG inventory
+and emissions reductions over time. Additional
+prescriptiveness on the accounting methodology, such
+as allocation choices and data sources, are needed
+for product labeling, performance claims, consumer
+and business decision making based on comparison
+of two or more products, and other types of product
+comparison based on GHG impacts. See section 5.3.2
+and Appendix A for more guidance on additional
+specifications needed for comparison.
+Claims regarding the overall environmental superiority or
+equivalence of one product versus a competing product,
+referred to in ISO 14044 as comparative assertions, are
+not supported by the Product Standard.
+1.6   Relationship to the Corporate  
+and Scope 3 Standards
+The GHG Protocol Scope 3 Standard and GHG Protocol
+Product Standard both take a value chain or life cycle
+approach to GHG accounting and were developed
+simultaneously. The Scope 3 Standard builds on the
+GHG Protocol Corporate Standard and accounts for
+value chain emissions at the corporate level, while the
+Product Standard accounts for life cycle emissions at the
+individual product level. Together, the three standards
+provide a comprehensive approach to value chain GHG
+measurement and management.
+The reporting company’s business goals should drive the
+use of a particular GHG Protocol accounting standard.
+The Scope 3 Standard enables a company to identify
+the greatest GHG reduction opportunities across the
+entire corporate value chain, while the Product Standard
+enables a company to target individual products with the
+greatest potential for reductions. The Scope 3 Standard
+helps a company identify GHG reduction opportunities,
+track performance, and engage suppliers at a corporate
+level, while the Product Standard helps a company meet
+the same objectives at a product level. The GHG Protocol
+Scope 3 and Product
+Standards both take
+a value chain or life
+cycle approach to  
+GHG accounting.Common data is used
+to develop scope 3
+inventories and product
+inventories, including
+data collected from
+suppliers and other
+companies in the value
+chain. Since there can
+be overlap in data
+collection, companies may find added business value and
+efficiencies in developing scope 3 and product inventories
+in parallel.
+While each standard can be implemented independently,
+both standards are mutually supportive. Integrated use
+might include:
+•Applying the Corporate Standard and Scope 3
+Standard (to determine the company’s total scope 1,
+scope 2, and scope 3 emissions) , using the results to
+identify products with the most significant emissions,
+then using the Product Standard to identify mitigation
+opportunities in the selected products’ life cycles
+•Using product-level GHG data based on the Product
+Standard as a source of data to calculate scope 3
+emissions associated with selected product types
+•Applying the Corporate Standard, Scope 3 Standard
+and the Product Standard and using the results to
+inform GHG-reduction strategies at both the product
+and corporate levels
+The sum of the life cycle emissions of each of a company’s
+products, combined with additional scope 3 categories4
+(e.g., employee commuting, business travel, and
+investments), should approximate the company’s total
+corporate GHG emissions (i.e., scope 1 + scope 2 + scope
+3). In practice, companies are not expected or required
+to calculate life cycle inventories for individual products
+when calculating scope 3 emissions.
+Figure 1.1 illustrates the relationship between the
+Corporate Standard, Product Standard, and Scope 3  
+Standard. In this simplified example, a company
+manufactures one product (Product A). The example
+shows how scopes of emissions at the corporate level
+correspond to life cycle stages at the product level.
+
+--- Page 9 of 148 ---

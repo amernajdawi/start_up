@@ -1,0 +1,15 @@
+File Name: 1_2023-06-27_DelVO_2023_2486_TAXURA_EU.pdf
+Converted on: 2025-03-28 03:18:09
+Original Size: 8.44 MB
+Chunk Size: 500 tokens with 50 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 304 of 380
+--------------------------------------------------------------------------------
+
+meadows within the meaning of Article 29(4)(a), (b) and (c) of Directive (EU) 2018/2001.
+(73)‘Scope 1 GHG emissions’ means the direct greenhouse gas emissions occurring from sources that are owned or controlled by the
+operator. ‘Scope 2 GHG emissions’ means the indirect greenhouse gas emissions from the generation of the electricity consumed by
+the operator.
+(74)EU Construction & Demolition Waste Management Protocol, September 2016: https://ec.europa.eu/docsroom/documents/20509/.OJ L, 21.11.2023 EN

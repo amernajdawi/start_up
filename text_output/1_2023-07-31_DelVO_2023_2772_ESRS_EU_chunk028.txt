@@ -1,0 +1,47 @@
+File Name: 1_2023-07-31_DelVO_2023_2772_ESRS_EU.pdf
+Converted on: 2025-03-28 03:20:41
+Original Size: 5.82 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 28 of 284
+--------------------------------------------------------------------------------
+
+ELI: http://data.europa.eu/eli/reg_del/2023/2772/oj 25/284AR 7. Nature may be considered as a silent stakeholder . In this case, ecological data and data on the conservation of
+species may support the undertaking’s materiality assessment.
+AR 8. Materiality assessment is informed by dialogue with affected stakeholders. The undertaking may engage with
+affected stakeholders or their representatives (such as employees or trade unions), along with users of
+sustainability reporting and other experts, to provide inputs or feedback on its conclusions regarding its material
+impacts, risks and opportunities.
+Assessment of impact materiality
+AR 9. In assessing impact materiality and determining the material matters to be reported, the undertaking shall
+consider the following three steps:
+(a) understanding of the context in relation to its impacts including its activities, business relationships, and
+stakeholders;
+(b) identification of actual and potential impacts (both negative and positive), including through engaging with stakeholders and experts. In this step, the undertaking may rely on scientific and analytical research on
+impacts on sustainability matters;
+(c) assessment of the materiality of its actual and potential impacts and determination of the material matters. In
+this step, the undertaking shall adopt thresholds to determine which of the impacts will be covered in its
+sustainability statement.
+Characteristics of severity
+AR 10. The severity is determined by the following factors:
+(a) scale: how grave the negative impact is or how beneficial the positive impact is for people or the environment;
+(b) scope: how widespread the negative or positive impacts are. In the case of environmental impacts, the scope
+may be understood as the extent of environmental damage or a geographical perimeter. In the case of impacts
+on people, the scope may be understood as the number of people adversely affected; and
+(c) irremediable character: whether and to what extent the negative impacts could be remediated, i.e., restoring the
+environment or affected people to their prior state.
+AR 11. Any of the three characteristics (scale, scope, and irremediable character) can make a negative impact severe. In the
+case of a potential negative human rights impact, the severity of the impact takes precedence over its likelihood.
+Impacts connected with the undertaking
+AR 12. As an illustration:
+(a) if the undertaking uses cobalt in its products that is mined using child labour, the negative impact (i.e., child
+labour) is connected with the undertaking’s products through the tiers of business relationships in its
+upstream value chain. These relationships include the smelter and minerals trader and the mining enterprise
+that uses child labour; and
+(b) if the undertaking provides financial loans to an enterprise for business activities that, in breach of agreed
+standards, result in the contamination of water and land surrounding the operations, this negative impact is
+connected with the undertaking through its relationship with the enterprise it provides the loans to.OJ L, 22.12.2023 EN  
+
+--- Page 26 of 284 ---

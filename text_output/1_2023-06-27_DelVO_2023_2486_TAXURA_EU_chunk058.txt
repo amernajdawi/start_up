@@ -1,0 +1,47 @@
+File Name: 1_2023-06-27_DelVO_2023_2486_TAXURA_EU.pdf
+Converted on: 2025-03-28 03:20:36
+Original Size: 8.44 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 58 of 199
+--------------------------------------------------------------------------------
+
+ELI: http://data.europa.eu/eli/reg_del/2023/2486/oj 39/1642. Water supply, sewerage, waste management and remediation activities
+2.1. Phosphorus recovery from waste water
+Description of the activity
+Construction, upgrade, operation and renewal of facilities for recovery of phosphorus from urban waste water treatment
+plants (WWTP) (aqueous phase and sludge) and from materials (i.e. ashes) after thermal oxidation (i.e. incineration) of
+sewage sludge.
+The economic activity only includes the facilities and processes that make phosphorus recovery possible, not the previous
+steps, such as waste water treatment or incineration facilities.
+The economic activities in this category could be associated with several NACE codes, in particular E37.00, E38.32 and
+F42.99 in accordance with the statistical classification of economic activities established by Regulation (EC) No 1893/2006.
+Technical screening criteria
+Substantial contribution to the transition to a circular economy
+1. For the process integrated at the waste water treatment plant, covering typically phosphorus salts such as struvite–
+magnesium ammonium phosphate (NH 4MgPO 4•6H 2O), the phosphorus recovery process recovers at least 15 % of
+the incoming phosphorus load. Only the harvested material, such as struvite, is counted for the calculation of this
+threshold.
+2. For down-stream recovery after sewage sludge thermal oxidation with chemical phosphorus recovery or after sewage
+sludge thermal oxidation with thermo chemical phosphorus recovery, the process recovers at least 80 % of the
+incoming phosphorus load from the respective input material, such as sewage sludge ash.
+3. The phosphorus extracted out of the system is used either as a component material in a fertilising product compliant with Regulation (EU) 2019/1009 of the European Parliament and of the Council (
+40)or national fertiliser legislation
+where it is more stringent, or in another field of application where the recovered phosphorus fulfils specified functions in accordance with the respective regulations.
+Do no significant harm (‘DNSH’)
+(1) Climate change mitigation N/A
+(2) Climate change adaptation The activity complies with the criteria set out in Appendix A to this Annex.
+(3)
+Sustainable use and protec ­
+tion of water and marine
+resourcesThe activity complies with the criteria set out in Appendix B to this Annex.
+(5) Pollution prevention and controlKey performance parameters, including a mass balance for phosphorus pentoxide (P
+2O5)
+and key environmental parameters in relation to the identity and quantity of emissions and waste streams generated, are monitored.
+(40)Regulation (EU) 2019/1009 of the European Parliament and of the Council of 5 June 2019 laying down rules on the making available
+on the market of EU fertilising products and amending Regulations (EC) No 1069/2009 and (EC) No 1107/2009 and repealing
+Regulation (EC) No 2003/2003 (OJ L 170, 25.6.2019, p. 1).OJ L, 21.11.2023 EN  
+
+--- Page 40 of 164 ---

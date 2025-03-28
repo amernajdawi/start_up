@@ -1,0 +1,32 @@
+File Name: 2_E1-6_2004-03_G_GHG-Prot_WRI&WBCSD.pdf
+Converted on: 2025-03-28 01:56:03
+Original Size: 3.51 MB
+Chunk Size: 400 tokens with 50 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 227 of 251
+--------------------------------------------------------------------------------
+
+GHG registry A public database of organizational GHG emissions and/or project reductions. For example, the US
+Department of Energy 1605b Voluntary GHG Reporting Program, CCAR, World Economic Forum’s GlobalGHG Registry. Each registry has its own rules regarding what and how information is reported.(Introduction, Chapter 2, 5, 8, 10)
+GHG removal Absorbtion or sequestration of GHGs from the atmosphere.
+GHG sink Any physical unit or process that stores GHGs; usually refers to forests and underground/deep sea
+reservoirs of CO
+2.
+GHG source Any physical unit or process which releases GHG into the atmosphere.
+GHG trades All purchases or sales of GHG emission allowances, offsets, and credits.
+Global Warming Potential (GWP) A factor describing the radiative forcing impact (degree of harm to the atmosphere) of one unit of a
+given GHG relative to one unit of CO2.
+Group company / subsidiary The parent company has the ability to direct the financial and operating policies of a group
+company/subsidiary with a view to gaining economic benefits from its activities. (Chapter 3)
+Heating value The amount of energy released when a fuel is burned completely. Care must be taken not to confuse
+higher heating values (HHVs), used in the US and Canada, and lower heating values, used in all othercountries (for further details refer to the calculation tool for stationary combustion available atwww.ghgprotocol.org).
+Indirect GHG emissions Emissions that are a consequence of the operations of the reporting company, but occur at sources
+owned or controlled by another company. (Chapter 4)
+Insourcing The administration of ancillary business activities, formally performed outside of the company, using
+resources within a company. (Chapter 3, 4, 5, 9)
+Intensity ratios Ratios that express GHG impact per unit of physical activity or unit of economic value (e.g. tonnes of
+CO
+2emissions per unit of electricity generated). Intensity ratios are the inverse of productivity/effi-
+ciency ratios. (Chapter 9, 11)

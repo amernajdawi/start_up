@@ -1,0 +1,66 @@
+File Name: 2_ESRS2_SBM1_2006-12-20_VO_NACER2_EU.pdf
+Converted on: 2025-03-28 03:20:56
+Original Size: 0.17 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 19 of 45
+--------------------------------------------------------------------------------
+
+n.e.c. : not elsewhere classified * part of
+Division Group ClassISIC
+Rev. 4
+25 Manufacture of fabricated metal products, except machinery and
+equipment
+25.1 Manufacture of structural metal products
+25.11 Manufacture of metal structures and parts of structures 2511*
+25.12 Manufacture of doors and windows of metal 2511*
+25.2 Manufacture of tanks, reservoirs and containers of metal
+25.21 Manufacture of central heating radiators and boilers 2512*
+25.29 Manufacture of other tanks, reservoirs and containers of metal 2512*
+25.3 Manufacture of steam generators, except central heating hot water
+boilers
+25.30 Manufacture of steam generators, except central heating hot water
+boilers2513
+25.4 Manufacture of weapons and ammunition
+25.40 Manufacture of weapons and ammunition 2520
+25.5 Forging, pressing, stamping and roll-forming of metal; powder
+metallurgy
+25.50 Forging, pressing, stamping and roll-forming of metal; powder
+metallurgy2591
+25.6 Treatment and coating of metals; machining
+25.61 Treatment and coating of metals 2592*
+25.62 Machining 2592*
+25.7 Manufacture of cutlery, tools and general hardware
+25.71 Manufacture of cutlery 2593*25.72 Manufacture of locks and hinges 2593*
+25.73 Manufacture of tools 2593*
+25.9 Manufacture of other fabricated metal products
+25.91 Manufacture of steel drums and similar containers 2599*
+25.92 Manufacture of light metal packaging 2599*
+25.93 Manufacture of wire products, chain and springs 2599*
+25.94 Manufacture of fasteners and screw machine products 2599*
+25.99 Manufacture of other fabricated metal products n.e.c. 2599*
+26 Manufacture of computer, electronic and optical products
+26.1 Manufacture of electronic components and boards
+26.11 Manufacture of electronic components 2610*
+26.12 Manufacture of loaded electronic boards 2610*
+26.2 Manufacture of computers and peripheral equipment
+26.20 Manufacture of computers and peripheral equipment 2620
+26.3 Manufacture of communication equipment
+26.30 Manufacture of communication equipment 2630
+26.4 Manufacture of consumer electronics
+26.40 Manufacture of consumer electronics 2640
+26.5 Manufacture of instruments and appliances for measuring, testing and
+navigation; watches and clocks
+26.51 Manufacture of instruments and appliances for measuring, testing and
+navigation2651
+26.52 Manufacture of watches and clocks 2652
+26.6 Manufacture of irradiation, electromedical and electrotherapeutic
+equipment
+26.60 Manufacture of irradiation, electromedical and electrotherapeutic
+equipment2660
+26.7 Manufacture of optical instruments and photographic equipment
+26.70 Manufacture of optical instruments and photographic equipment 267030.12.2006 EN Official Journal of the European Union L 393/13
+
+--- Page 14 of 39 ---

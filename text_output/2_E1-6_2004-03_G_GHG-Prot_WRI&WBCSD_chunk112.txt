@@ -1,0 +1,15 @@
+File Name: 2_E1-6_2004-03_G_GHG-Prot_WRI&WBCSD.pdf
+Converted on: 2025-03-28 03:18:16
+Original Size: 3.51 MB
+Chunk Size: 500 tokens with 50 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 112 of 225
+--------------------------------------------------------------------------------
+
+scientific uncertainty and
+estimation uncertainty .Scientific uncertainty arises
+when the science of the actual emission and/or removalprocess is not completely understood. For example, many direct and indirect factors associated with globalwarming potential (GWP) values that are used tocombine emission estimates for various GHGs involvesignificant scientific uncertainty. Analyzing and quanti-fying such scientific uncertainty is extremely problematicand is likely to be beyond the capacity of most companyinventory programs.GUIDANCEManaging Inventory Quality
+CHAPTER 7 54The experience of the U.K. automotive manufacturer VauxhalMotors illustrates the importance of attention to detail insetting up GHG information collection systems. The companywished to calculate GHG emissions from staff air travel.However, when determining the impact of flight travel, it isimportant to make sure that the round trip distance is usedwhen calculating emissions. Fortunately, Vauxhall’s review ofits assumptions and calculation methodologies revealed thisfact and avoided reporting emissions that were 50 percentlower than the actual value.Vauxhall Motors:
+The importance of accuracy checks

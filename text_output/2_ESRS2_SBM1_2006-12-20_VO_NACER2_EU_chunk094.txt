@@ -1,0 +1,18 @@
+File Name: 2_ESRS2_SBM1_2006-12-20_VO_NACER2_EU.pdf
+Converted on: 2025-03-28 01:56:34
+Original Size: 0.17 MB
+Chunk Size: 400 tokens with 50 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 94 of 109
+--------------------------------------------------------------------------------
+
+6. The new orders variables (Nos 130, 131, 132) are to be transmitted for total manufacturing, Section C of NACE
+Rev. 2 and a reduced set of MIGs calculated from covering the list of NACE Rev. 2 Divisions defined inparagraph 8 under heading (c) (“List of variables”) of this Annex.
+7. The import price variable (No 340) is to be transmitted for total industrial products, Sections B to E of CPA and
+MIGs defined in accordance with Regulation (EC) No 586/2001 from product groups of the CPA. This variabledoes not need to be transmitted by those Member States that have not adopted the euro as their currency.’.
+1.7. In Annex A, point (f) (‘Level of detail’), paragraphs 9 and 10 shall be replaced by the following:
+‘9. The variables on the non-domestic markets (Nos 122, 132 and 312) are to be transmitted according to the
+distinction into euro-zone and non-euro-zone. The distinction is to be applied to the total industry defined asNACE Rev. 2 Sections B to E, the MIGs, the Section (1 letter) and Division 2-digit level of NACE Rev. 2. The
+information on NACE Rev. 2 D and E is not required for variable 122. In addition, the import price variable

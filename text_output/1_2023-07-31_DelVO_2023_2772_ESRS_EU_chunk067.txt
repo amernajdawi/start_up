@@ -1,0 +1,80 @@
+File Name: 1_2023-07-31_DelVO_2023_2772_ESRS_EU.pdf
+Converted on: 2025-03-28 03:20:41
+Original Size: 5.82 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 67 of 284
+--------------------------------------------------------------------------------
+
+ELI: http://data.europa.eu/eli/reg_del/2023/2772/oj 71/284Appendix C
+Disclosure and Application Requirements in Topical ESRS that are applicable in conjunction with
+ESRS 2 General disclosures
+This appendix is an integral part of ESRS 2 and has the same authority as the other parts of the standard. The following
+table outlines the requirements in topical ESRS that need to be taken into account when reporting against the Disclosure
+Requirements in ESRS 2.
+ESRS 2 Disclosure Requirement Related ESRS paragraph
+GOV–1 The role of the administrative, management and supervisory bodiesESRS G1 Business conduct (paragraph 5)
+GOV–3 Integration of sustainability-related performance in incentive schemesESRS E1 Climate change (paragraph 13)
+SBM–2 Interests and views of stakeholders ESRS S1 Own workforce (paragraph 12)
+ESRS S2 Workers in the value chain (paragraph 9)
+ESRS S3 Affected communities (paragraph 7)
+ESRS S4 Consumers and end-users (paragraph 8)
+SBM–3 Material impacts, risks and opportunities and
+their interaction with strategy and business modelESRS E1 Climate Change (paragraphs 18 to 19)
+ESRS E4 Biodiversity and ecosystems (paragraph 16)
+ESRS S1 Own workforce (paragraph 13 to 16)
+ESRS S2 Workers in the value chain (paragraph 10 to 13)
+ESRS S3 Affected communities (paragraph 8 to 11)
+ESRS S4 Consumers and end-users (paragraph 9 to 12)
+IRO-1 Description of the processes to identify and assess material impacts, risks and opportunitiesESRS E1 Climate change (paragraph 20 to 21)
+ESRS E2 Pollution (paragraph 11)
+ESRS E3 Water and marine resources (paragraph 8)
+ESRS E4 Biodiversity and ecosystems (paragraph 17 to 19)
+ESRS E5 Resource use and circular economy (paragraph 11)
+ESRS G1 Business conduct (paragraph 6)OJ L, 22.12.2023 EN  
+
+--- Page 72 of 284 ---
+
+ELI: http://data.europa.eu/eli/reg_del/2023/2772/oj 72/284ESRS E1
+CLIMATE CHANGE
+TABLE OF CONTENTS
+Objective
+Interactions with other ESRS
+Disclosure Requirements
+– ESRS 2 General disclosures
+Governance
+— Disclosure requirement related to ESRS 2 GOV-3 Integration of sustainability-related performance in incentive
+schemes
+Strategy
+— Disclosure Requirement E1-1 – Transition plan for climate change mitigation
+— Disclosure Requirement related to ESRS 2 SBM-3 – Material impacts, risks and opportunities and their interaction
+with strategy and business model
+Impact, risk and opportunity management
+— Disclosure requirement related to ESRS 2 IRO-1 – Description of the processes to identify and assess material
+climate-related impacts, risks and opportunities
+— Disclosure Requirement E1-2 – Policies related to climate change mitigation and adaptation
+— Disclosure Requirement E1-3 – Actions and resources in relation to climate change policies
+Metrics and targets
+— Disclosure Requirement E1-4 – Targets related to climate change mitigation and adaptation
+— Disclosure Requirement E1-5 – Energy consumption and mix
+— Disclosure Requirement E1-6 – Gross Scopes 1, 2, 3 and Total GHG emissions
+— Disclosure Requirement E1-7 – GHG removals and GHG mitigation projects financed through carbon credits
+— Disclosure Requirement E1-8 – Internal carbon pricing
+— Disclosure Requirement E1-9 – Anticipated financial effects from material physical and transition risks and
+potential climate-related opportunities
+Appendix A: Application Requirements
+– ESRS 2 General disclosures
+Strategy
+— Disclosure Requirement E1-1 – Transition plan for climate change mitigation
+Impact, risk and opportunity management
+— Disclosure Requirement E1-2 – Policies related to climate change mitigation and adaptation
+— Disclosure Requirements E1-3 – Actions and resources in relation to climate change policies
+Metrics and targets
+— Disclosure Requirement E1-4 – Targets related to climate change mitigation and adaptation
+— Disclosure Requirement E1-5 – Energy consumption and mix
+— Disclosure Requirements E1-6 – Gross Scopes 1, 2, 3 and Total GHG emissions
+— Disclosure Requirement E1-7 – GHG removals and GHG mitigation projects financed through carbon creditsOJ L, 22.12.2023 EN  
+
+--- Page 73 of 284 ---

@@ -1,0 +1,53 @@
+File Name: 1_2021-06-04_DelVO_2021_2139_TAXKRA_EU.pdf
+Converted on: 2025-03-28 03:20:30
+Original Size: 2.76 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 117 of 447
+--------------------------------------------------------------------------------
+
+(f) installation of equipment such as, but not limited to future smart metering systems or those replacing smart
+metering systems in line with Article 19(6) of Directive (EU) 2019/944 of the European Parliament and of
+the Council (  180  ), which meet the requirements of Article 20 of Directive (EU) 2019/944, able to carry 
+information to users for remotely acting on consumption, including customer data hubs;
+(g) construction/installation of equipment to allow for exchange of specifically renewable electricity between
+users;
+(h) construction and operation of interconnectors between transmission systems, provided that one of the
+systems is compliant.
+For the purposes of this Section, the following specifications apply:
+(a) the rolling five-year period used in determining compliance with the thresholds is based on five consecutive
+historical years, including the year for which the most recent data are available;
+(b) a ‘system’ means the power control area of the transmission or distribution network where the infrastructure
+or equipment is installed;
+(c) transmission systems may include generation capacity connected to subordinated distribution systems;
+(d) distribution systems subordinated to a transmission system that is deemed to be on a trajectory to full
+decarbonisation may also be deemed to be on a trajectory to full decarbonisation;
+(e) to determine compliance, it is possible to consider a system covering multiple control areas which are
+interconnected and with significant energy exchanges between them, in which case the weighted average
+emissions factor across all included control areas is used, and individual subordinated transmission or
+distribution systems within that system is not required to demonstrate compliance separately;
+(f) it is possible for a system to become non-compliant after having previously been compliant. In systems that
+become non-compliant, no new transmission and distribution activities are compliant from that moment
+onward, until the system complies again with the threshold (except for those activities that are always
+compliant, see above). Activities in subordinated systems may still be compliant, where those subordinated
+systems meet the criteria of this Section;
+(g) a direct connection or expansion of an existing direct connection to production plants includes infrastructure
+that is indispensable to carry the associated electricity from the power generating facility to a substation or to
+the network.  
+Do no significant harm (‘DNSH’)  
+(2) Climate change adaptation  The activity complies with the criteria set out in Appendix A to this 
+Annex.  
+(3) Sustainable use and protection of
+water and marine resources  N/A  
+(4) Transition to a circular economy  A waste management plan is in place and ensures maximal reuse or 
+recycling at end of life in accordance with the waste hierarchy,
+including through contractual agreements with waste management
+partners, reflection in financial projections or official project documen ­
+tation.  
+_____________
+( 180  ) Directive (EU) 2019/944 of the European Parliament and of the Council of 5 June 2019 on rules for the internal market for 
+electricity and amending Directive 2012/27/EU (OJ L 158, 14.6.2019, p. 125),EN  L 442/74 Official Journal of the European Union 9.12.2021
+
+--- Page 75 of 349 ---

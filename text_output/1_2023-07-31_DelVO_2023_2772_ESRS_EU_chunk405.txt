@@ -1,0 +1,38 @@
+File Name: 1_2023-07-31_DelVO_2023_2772_ESRS_EU.pdf
+Converted on: 2025-03-28 03:18:14
+Original Size: 5.82 MB
+Chunk Size: 500 tokens with 50 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 405 of 686
+--------------------------------------------------------------------------------
+
+ELI: http://data.europa.eu/eli/reg_del/2023/2772/oj 173/28449. The objective of this Disclosure Requirement is to provide insight into the undertaking’s approach to employment,
+including the scope and nature of impacts arising from its employment practices, to provide contextual information
+that aids an understanding of the information reported in other disclosures, and to serve as the basis for calculation
+for quantitative metrics to be disclosed under other disclosure requirements in this Standard.
+50. In addition to the information required by paragraph 40(a)iii of ESRS 2 General Disclosures, the undertaking shall
+disclose:
+(a) the total number of employees by head count, and breakdowns by gender and by country for countries in which
+the undertaking has 50 or more employees representing at least 10% of its total number of employees;
+(b) the total number by head count or full time equivalent (FTE) of:
+i. permanent employees, and breakdown by gender;
+ii. temporary employees, and breakdown by gender; and
+iii. non-guaranteed hours employees, and breakdown by gender.
+(c) the total number of employees who have left the undertaking during the reporting period and the rate of
+employee turnover in the reporting period.
+(d) a description of the methodologies and assumptions used to compile the data, including whether the numbers
+are reported:
+i.in head count or full-time equivalent (FTE) (including an explanation of how FTE is defined); and
+ii.at the end of the reporting period, as an average across the reporting period, or using another methodology.
+(e) where applicable, a provision of contextual information necessary to understand the data (for example, to
+understand fluctuations in number of employees during the reporting period); and
+(f) a cross-reference of the information reported under (a) above to the most representative number in the financial
+statements.
+51. For the information specified in point (b) of paragraph 50, the undertaking may in addition disclose the breakdown by region.
+52. The undertaking may disclose by head count or full time equivalent (FTE) the following information:
+(a) full-time employees, and breakdowns by gender and by region; and
+(b) part-time employees, and breakdowns by gender and by region.
+Disclosure Requirement S1-7 – Characteristics of non-employees in the undertaking’s own workforce
+53. The undertaking shall describe key characteristics of non-employees in its own workforce.

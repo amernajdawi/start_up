@@ -1,0 +1,16 @@
+File Name: 2_ESRS2_SBM1_2006-12-20_VO_NACER2_EU.pdf
+Converted on: 2025-03-28 03:20:56
+Original Size: 0.17 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 41 of 45
+--------------------------------------------------------------------------------
+
+2.3. In Annex B, point (f) (‘Level of detail’), paragraphs 1 and 2 shall be replaced by the following:
+‘1. The variables No 110, 210, 220 and 230 are to be transmitted at least at the Section level of NACE Rev. 2.2. The new orders variables (Nos 130, 135 and 136) are required only for Group 41.2 and Division 42 of NACE
+Rev. 2.’ .
+2.4. In Annex B, point (f) (‘Level of detail’), paragraph 6, ‘NACE’ shall be replaced by ‘NACE Rev. 2’ .
+2.5. In Annex B, point (g), (‘Deadlines for data transmission’), in paragraph 2: ‘NACE Rev. 1’ shall be replaced by ‘NACE
+Rev. 2’ .30.12.2006 EN Official Journal of the European Union L 393/33

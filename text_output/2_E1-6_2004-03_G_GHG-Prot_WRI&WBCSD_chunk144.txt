@@ -1,0 +1,18 @@
+File Name: 2_E1-6_2004-03_G_GHG-Prot_WRI&WBCSD.pdf
+Converted on: 2025-03-28 03:18:16
+Original Size: 3.51 MB
+Chunk Size: 500 tokens with 50 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 144 of 225
+--------------------------------------------------------------------------------
+
+Information on the measurement accuracy ofmeters and weigh-bridges (e.g., calibration records),and other measurement techniques
+Equity share allocations and their alignment withfinancial reporting
+Documentation on what, if any, GHG sources oractivities are excluded due to, for example, tech-nical or cost reasons.
+Information gathering process:
+Description of the procedures and systems used to
+collect, document and process GHG emissions dataat the facility and corporate level
+Description of quality control procedures applied(internal audits, comparison with last year’s data,recalculation by second person, etc.).GUIDANCEVerification of GHG Emissions
+CHAPTER 10 72

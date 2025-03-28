@@ -1,0 +1,297 @@
+File Name: CELEX_32010L0075_DE_TXT.pdf
+Converted on: 2025-03-28 03:21:03
+Original Size: 4.18 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 58 of 93
+--------------------------------------------------------------------------------
+
+L 334/60 DE Amtsblattder Europäischen Union 17.12.2010
+4. NOx-Emissionsgrenzwerte (in mg/Nm3) für mit festen  oder flüssig en Brennstoffen betriebene Feuerungsanlagen mit Aus­
+nahme
+von
+Gasturbinen
+und
+Gasmotoren  
+Feuerungswärme­
+leistung
+(MW)Steinkohle und Braunkohle sowie andere feste Bren nstoffeBiomasse
+und
+TorfFlüssige
+Brennstoffe
+50-100 300
+450 bei
+Braunkohlestaubfeuerungen300 450
+100-300 200 250 200
+(1)
+> 300 200 200 150 (1)
+Anmerkung:
+(1)Der Emissionsgrenzwert beträgt 450 mg/Nm3 für die Verfeuerun g von Destillation s- und Konversionsrückständen aus der Rohölraf­
+finierung
+für den
+Eigenverbrauch
+in
+Feuerungsanlagen,
+die eine
+Feuerung
+swärmeleistun g
+von
+nicht
+mehr als 500 MW hab en
+und
+bei
+denen
+die Genehmigung
+vor dem 27. Novemb er
+2002 erteilt oder für die vor diesem Zeitpun kt
+von
+deren
+Betreibern
+ein
+vollstän­
+diger
+Genehmigungsantrag
+gestellt
+wurde, sofern  
+die Anlage
+spätestens
+zum 27. Novemb er
+2003 in
+Betrieb
+genommen
+wurde.
+Für Feuerun gsanlagen in Chemiean lagen, die flüssig e Produktionsrückst ände als nichtkommerziellen Brennstoff für den
+Eigenverbrauch
+verfeuern,
+eine
+Feuerungswärmeleistung
+von
+nicht
+mehr als 500 MW hab en
+und
+bei
+denen
+die Geneh­
+migung
+vor dem 27. Novemb er
+2002 erteilt oder für die vor diesem Zeitpun kt
+von
+deren
+Betreibern
+ein
+vollständiger
+Genehmigungsantrag
+gestellt
+wurde (sofern  
+die Anlage
+spätestens
+zum 27. Novemb er
+2003 in
+Betrieb
+genommen
+wurde),
+gilt
+ein
+NOx-Emissionsgrenzwert von 450 mg/Nm3.
+Für Feuerun gsanlagen
+für feste oder flüssig e
+Brennstoffe
+mit einer
+Feuerungswärmeleistung
+von
+höchstens
+500 MW, b ei
+denen
+die Genehmigung
+vor dem 27. Novemb er
+2002 erteilt oder für die von  
+deren
+Betreibern
+vor diesem Zeitpun kt
+ein
+vollständiger
+Genehmigungsantrag
+gestellt
+wurde (sofern  
+die Anlage
+spätestens
+zum 27. Novemb er
+2003 in
+Betrieb
+genommen
+wurde) un d
+die im gleitenden
+Durchschn itt
+über
+einen
+Zeitraum von  
+fünf
+Jahren
+höchstens 1
+500 Betrieb s­
+stunden
+jährlich in  
+Betrieb
+sind,
+gilt
+ein
+NOx-Emissionsgrenzwert von 450 mg/Nm3.
+Für Feuerun gsanlagen
+für feste Bren nstoffe
+mit einer
+Feuerungswärmelei
+stung
+von mehr als 500 MW, b ei
+denen
+die
+Genehmigung
+vor dem 1. Juli 1987 erteilt wurde un d
+die im gleitenden
+Durchschn itt
+über
+einen
+Zeitraum von  
+fünf
+Jah­
+ren
+höchstens 1
+500 Betrieb sstunden
+jährlich in  
+Betrieb
+sind,
+gilt
+ein
+NOx-Emissionsgrenzwert von 450 mg/Nm3.
+Für Feuerun gsanlagen
+für flüssig e
+Brennstoffe
+mit einer
+Feuerungswärme
+leistung
+von
+mehr als 500 MW, b ei
+denen
+die
+Genehmigung
+vor dem 27. Novemb er
+2002 erteilt oder für die vor diesem Zeitpun kt
+von
+deren
+Betreibern
+ein
+vollstän­
+diger
+Genehmigungsantrag
+gestellt
+wurde (sofern  
+die Anlage
+spätestens
+zum 27. Novemb er
+2003 in
+Betrieb
+genommen
+wurde)
+und
+die im gleitenden
+Durchschn itt
+über
+einen
+Zeitraum von  
+fünf
+Jahren
+höchstens 1
+500 Betrieb sstunden
+jähr­
+lich in
+Betrieb
+sind,
+gilt
+ein
+NOx-Emissionsgrenzwert von 400 mg/Nm3.
+Für einen
+Teil einer
+Feuerungsanlage,
+dessen
+Abgase
+über
+einen
+oder mehrere g esonderte
+Kanäle
+in
+einem
+gemeinsamen
+Schornstein
+abgeleitet
+werden
+und
+der im gleitenden
+Durchschn itt
+über
+einen
+Zeitraum von fün f
+Jahren
+höchstens 1
+500
+Betriebsstunden
+jährlich in Betrieb ist, k önnen
+die in den drei voran gega
+ngenen
+Absätzen
+in Abhängigkeit
+von der
+Feuerungswärmeleistung
+der gesamten
+Anlage
+festgelegten
+Emissionsgre
+nzwerte
+vorgeschrieben
+werden.
+In
+diesem Fall
+werden
+die durch jeden  
+der betreffenden
+Kanäle
+geleiteten
+Emissionen
+ges
+ondert
+überwacht.
+5. Für
+Gasturbinen
+(einschließlich
+Gas- und
+Dampfturb inen-Anlagen
+(GuD)), die Leicht- un d
+Mitteldestillate als flüssig en
+Brennstoff
+verwenden,
+gilt
+ ein NOx-Emissionsgrenzwert  von 90 mg /Nm3 und ein CO-E missionsgrenzwert von 
+100 mg/Nm3.
+Gasturbinen
+für den
+Notbetrieb,
+die weniger
+als 500 Betrieb sstunden
+jährlich in  
+Betrieb
+sind,
+fallen
+nicht
+unter
+die in
+dieser
+Nummer festg elegten
+Emissionsgrenzwerte.
+Die Betreib er
+solcher An lagen
+registrieren
+die geleisteten
+
+Betriebsstunden.  
+
+--- Page 45 of 103 ---

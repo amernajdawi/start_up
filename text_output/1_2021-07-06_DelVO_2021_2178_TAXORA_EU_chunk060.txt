@@ -1,0 +1,36 @@
+File Name: 1_2021-07-06_DelVO_2021_2178_TAXORA_EU.pdf
+Converted on: 2025-03-28 03:18:05
+Original Size: 10.30 MB
+Chunk Size: 500 tokens with 50 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 60 of 90
+--------------------------------------------------------------------------------
+
+(iv) GAR on total financing in non-financial undertakings (lending plus equity holdings)
+The three ratios for each environmental objective shall be disclosed based on turnover KPI and, for debt securities and
+equity holdings, based on turnover KPI and CapEx KPI of underlying assets at an aggregate level for all financing
+on-balance sheet instruments, including equity holdings, in non-financial undertakings.
+The numerator and denominator of the ratios shall contain the gross carrying amount of loans and advances, debt
+securities and equity holdings relevant in each case.
+1.2.1.2. Green asset ratio for lending activities to and equity holdings of financial undertakings
+GAR for lending activities to equity holdings of financial undertakings shall be calculated as a proportion of loans and
+advances, debt securities and equity holdings of relevant accounting portfolios financing taxonomy-aligned economic activities for each environmental objective, compared to total loans and advances, debt securities and equity holdings of
+financial undertakings.
+This GAR shall contain disclosures for climate change mitigation and climate change adaptation, with a breakdown for
+enabling activities. For the climate change mitigation, the GAR shall also contain disclosures of transitional activities and
+adaptation activities. For those activities contributing to the climate change mitigation and adaptation and other environmental objectives, credit institutions shall also provide disclosures of stock and flow.
+The numerator of the GAR for financial undertakings shall be calculated based on the counterparties’ KPIs calculated under
+this Regulation. The amount of loans and advances, debt securities and equity holdings of relevant accounting portfolios to
+financial undertakings to be considered in the numerator of the ratio shall be the sum of their gross carrying amount, weighted by the proportion of taxonomy-aligned economic activities with breakdown for transition, adaptation and
+enabling activities for each counterparty.
+Where the counterparty is another credit institution, the turnover-based and CapEx based KPIs used shall be the gross
+carrying amount of debt securities, loans and advances and equity holdings of relevant accounting portfolios weighted by
+the ‘Total GAR of the counterparty as defined in section’, that is gross carrying amount multiplied by ‘Total GAR’ of the counterparty.
+Where the counterparty is an investment firm, the following calculation of the KPI shall apply based on the proportion of
+the services in the income of the investment firm:
+(a) for investment firms dealing on own account in accordance with Section A of Annex I to Directive 2014/65/EU of the
+European Parliament and of the Council (
+2), the gross carrying amount of debt securities, loans and advances and equity
+holdings shall be weighted by the turnover based and CapEx based GAR disclosed by the investment firms, that is the

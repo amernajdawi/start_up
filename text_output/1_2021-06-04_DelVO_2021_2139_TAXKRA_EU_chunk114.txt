@@ -1,0 +1,50 @@
+File Name: 1_2021-06-04_DelVO_2021_2139_TAXKRA_EU.pdf
+Converted on: 2025-03-28 03:20:30
+Original Size: 2.76 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 114 of 447
+--------------------------------------------------------------------------------
+
+The economic activities in this category could be associated with NACE code D35.11 in accordance with the
+statistical classification of economic activities established by Regulation (EC) No 1893/2006.  
+Technical screening criteria  
+Substantial contribution to climate change mitigation  
+1. Agricultural biomass used in the activity complies with the criteria laid down in Article 29, paragraphs 2
+to 5, of Directive (EU) 2018/2001. Forest biomass used in the activity complies with the criteria laid down in
+Article 29, paragraphs 6 and 7, of that Directive.
+2. The greenhouse gas emission savings from the use of biomass are at least 80 % in relation to the GHG
+saving methodology and the relative fossil fuel comparator set out in Annex VI to Directive (EU) 2018/2001.
+3. Where the installations rely on anaerobic digestion of organic material, the production of the digestate
+meets the criteria in Sections 5.6 and criteria 1 and 2 of Section 5.7 of this Annex, as applicable.
+4. Points 1 and 2 do not apply to electricity generation installations with a total rated thermal input below
+2 MW and using gaseous biomass fuels.
+5. For electricity generation installations with a total rated thermal input from 50 to 100 MW, the activity
+applies high-efficiency cogeneration technology, or, for electricity-only installations, the activity meets an energy
+efficiency level associated with the best available techniques (BAT-AEL) ranges set out in the latest relevant best
+available techniques (BAT) conclusions, including the best available techniques (BAT) conclusions for large
+combustion plants (  172  ). 
+6. For electricity generation installations with a total rated thermal input above 100 MW, the activity complies
+with one or more of the following criteria:
+(a) attains electrical efficiency of at least 36 %;
+(b) applies highly efficient CHP (combined heat and power) technology as referred to in Directive 2012/27/EU of
+the European Parliament and of the Council (  173  ); 
+(c) uses carbon capture and storage technology. Where the CO  2 that would otherwise be emitted from the 
+electricity generation process is captured for the purpose of underground storage, the CO  2 is transported and 
+stored underground in accordance with the technical screening criteria set out in Sections 5.11 and 5.12,
+respectively, of this Annex.  
+Do no significant harm (‘DNSH’)  
+(2) Climate change adaptation  The activity complies with the criteria set out in Appendix A to this 
+Annex.  
+(3) Sustainable use and protection of
+water and marine resources  The activity complies with the criteria set out in Appendix B to this 
+Annex.  
+(4) Transition to a circular economy  N/A  
+_____________
+( 172  ) Implementing Decision (EU) 2017/1442. 
+( 173  ) Directive 2012/27/EU of the European Parliament and of the Council of 25 October 2012 on energy efficiency, amending 
+Directives 2009/125/EC and 2010/30/EU and repealing Directives 2004/8/EC and 2006/32/EC (OJ L 315, 14.11.2012, p. 1).EN  9.12.2021 Official Journal of the European Union L 442/71
+
+--- Page 72 of 349 ---

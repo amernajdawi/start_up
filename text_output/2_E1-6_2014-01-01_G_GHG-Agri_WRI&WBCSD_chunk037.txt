@@ -1,0 +1,64 @@
+File Name: 2_E1-6_2014-01-01_G_GHG-Agri_WRI&WBCSD.pdf
+Converted on: 2025-03-28 03:20:54
+Original Size: 1.75 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 37 of 65
+--------------------------------------------------------------------------------
+
+52
+7.3 Selecting a calculation approach
+GHG fluxes can be determined in differen t ways, ranging from the use of highly
+specialized, field-scale measurement equi pment to global emission factors. This
+Guidance does not require or recommend the use of a specific calculation approach or
+tool. Instead companies should select an appr oach that best meets their objectives for
+compiling an inventory and that meets the GHG accounting and reporti ng principles (see
+Chapter 3 and below).   The distinction between mechanical and non-mechanical sources becomes paramount 
+when calculating GHG fluxes and the associated  levels of uncertainty. In general, GHG 
+fluxes for mechanical sources can be calculate d with higher accuracy. This is especially
+true of mobile and stationary source s, whose emissions are primarily of CO
+2 and can be
+calculated based on only a few items of informa tion – mostly the type and amount of fuel
+used. In contrast, the GHG fluxes to/from non-mechanical sources depend on complex interactions between management practices and variable environmental conditions. As a
+result, GHG flux data for these sources ar e likely to have much higher uncertainty,
+regardless of the calculation approach chosen. This difference has important implications
+for how these data should be reporte d in inventories (see Chapter 9).  
+Because calculation tools for mechanical t ools are widely available (e.g., from GHG
+reporting programs), this section will  focus on non-mechanical sources.  
+How are GHG fluxes calculated for non-mechanical sources?
+Broadly, four different types of calculation approaches can be used for non-mechanical
+sources (Table 7-4):
+ Field measurements
+ Emission factors
+ Empirical models and process-based models
+
+Field measurements
+Many, but not all, GHG emission sources in ag riculture can be measured using either
+direct or indirect measuremen t techniques. Direct techniques  include controlled livestock 
+chambers that measure the CH 4 emissions from enteric fermentation, flux chambers that
+measure the N 2O and CO 2 emissions from plots of land, a nd gas flux meters that measure
+the CH 4 emissions from certain livestock wa ste management systems (e.g., covered
+anaerobic lagoons). Indirect t echniques include the measurement of carbon stocks before
+and after a change in management practices or land use. Indirect techniques are often
+much simpler and easier, but may require additi onal planning ahead of time to capture the
+‘before’ scenario. While useful for research, both direct and indirect  techniques are often 
+far too costly for developing corporate inventories.  
+
+Emission factors  
+The simplest approach involves the multipli cation of management activity data by a
+relevant emission factor, which is a coeffi cient describing the amount of GHG flux per
+
+--- Page 53 of 103 ---
+
+GHG Protocol Agricultural Guidance
+
+53
+unit of activity. For instance, to calculate the CH 4 emissions from enteric fermentation,
+emissions may be estimated by multiplying the number of dairy cattle by an emission factor that specifies how much CH
+4 is emitted per head of dairy cattle. The accuracy of
+this approach depends not only on the accuracy of the activity data, but also on how specific the factor is to the specific co mbination of environmental factors and
+management activities concerned. Default emi ssion factors are largely either based on
+field measurements at individual research site s or represent average values across a range
+of sites.

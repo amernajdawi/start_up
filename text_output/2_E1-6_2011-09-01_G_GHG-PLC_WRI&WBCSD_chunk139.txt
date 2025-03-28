@@ -1,0 +1,36 @@
+File Name: 2_E1-6_2011-09-01_G_GHG-PLC_WRI&WBCSD.pdf
+Converted on: 2025-03-28 03:18:25
+Original Size: 3.27 MB
+Chunk Size: 500 tokens with 50 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 139 of 226
+--------------------------------------------------------------------------------
+
+removal rate per mass or volume of product. However,
+the most typical form of atmospheric CO2 removal is due
+to biogenic uptake during photosynthesis. In this case,
+companies usually only know the amount of biogenic
+carbon contained in the material or product. To convert
+this to CO2, the amount of carbon is multiplied by the
+ratio of molecular weights of CO2 (44) and carbon (12),
+respectively. CO2 removal data, like direct emissions data,
+does not need to be multiplied by an emission factor and
+can simply be multiplied by the GWP of 1 for CO2.
+kg CO2e  =   kg Biogenic Carbon  x  (44/12)  x  GWP  
+                    [kg CO2e/kg GHG]
+Alternatively, companies may want to sum all emissions
+and removals per GHG per unit of analysis before applying
+the GWP. This approach is recommended if companies
+wish to have the option of reporting results separately by
+GHG or using a different GWP value.
+Companies should be cognizant of significant figures and
+rounding rules when calculating emissions and removals,
+particularly when using emissions factors from a life
+cycle database or software program that automatically
+calculates emissions when activity data are given as an
+input. The number of significant figures of the emission
+data should not exceed that of the activity data or
+emission factor with the least significant figures used in
+the calculation.

@@ -1,0 +1,53 @@
+File Name: 2_E1-6_2004-03_G_GHG-Prot_WRI&WBCSD.pdf
+Converted on: 2025-03-28 03:20:43
+Original Size: 3.51 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 22 of 104
+--------------------------------------------------------------------------------
+
+emissions from producing clinker). Even if such “win-
+win” options are not available, indirect emissionsreductions may still be more cost effective to accomplishthan scope 1 reductions. Thus accounting for indirectemissions can help identify where to allocate limitedresources in a way that maximizes GHG reduction andreturn on investment.
+Appendix D lists GHG sources and activities along the
+value chain by scopes for various industry sectors.
+Scope 1: Direct GHG emissions
+Companies report GHG emissions from sources they ownor control as scope 1. Direct GHG emissions are princi-pally the result of the following types of activitiesundertaken by the company:
+
+Generation of electricity, heat, or steam. These emis-
+sions result from combustion of fuels in stationarysources, e.g., boilers, furnaces, turbines
+
+Physical or chemical processing.3Most of these emis-
+sions result from manufacture or processing of chemicalsand materials, e.g., cement, aluminum, adipic acid,ammonia manufacture, and waste processing
+
+Transportation of materials, products, waste, and
+employees. These emissions result from the combus-
+tion of fuels in company owned/controlled mobilecombustion sources (e.g., trucks, trains, ships,airplanes, buses, and cars)
+
+Fugitive emissions. These emissions result from inten-
+tional or unintentional releases, e.g., equipment leaksfrom joints, seals, packing, and gaskets; methaneemissions from coal mines and venting; hydrofluoro-carbon (HFC) emissions during the use of refrigerationand air conditioning equipment; and methane leakagesfrom gas transport.
+SALE OF OWN-GENERATED ELECTRICITY
+Emissions associated with the sale of own-generatedelectricity to another company are not deducted/nettedfrom scope 1. This treatment of sold electricity is consis-tent with how other sold GHG intensive products areaccounted, e.g., emissions from the production of soldclinker by a cement company or the production of scrapsteel by an iron and steel company are not subtractedfrom their scope 1 emissions. Emissions associated withthe sale/transfer of own-generated electricity may bereported in optional information (see chapter 9).Scope 2: Electricity indirect GHG emissions
+Companies report the emissions from the generation ofpurchased electricity that is consumed in its owned orcontrolled equipment or operations as scope 2. Scope 2emissions are a special category of indirect emissions. Formany companies, purchased electricity represents one ofthe largest sources of GHG emissions and the most signifi-cant opportunity to reduce these emissions. Accountingfor scope 2 emissions allows companies to assess the risksand opportunities associated with changing electricity andGHG emissions costs. Another important reason forcompanies to track these emissions is that the informationmay be needed for some GHG programs.
+Companies can reduce their use of electricity by investing
+in energy efficient technologies and energy conservation.Additionally, emerging green power markets
+4provide
+opportunities for some companies to switch to less GHGintensive sources of electricity. Companies can also installan efficient on site co-generation plant, particularly if itreplaces the purchase of more GHG intensive electricityfrom the grid or electricity supplier. Reporting of scope 2emissions allows transparent accounting of GHG emis-sions and reductions associated with such opportunities.
+INDIRECT EMISSIONS
+ASSOCIATED WITH TRANSMISSION AND DISTRIBUTION
+Electric utility companies often purchase electricity from
+independent power generators or the grid and resell it toend-consumers through a transmission and distribution(T&D) system.
+5A portion of the electricity purchased
+by a utility company is consumed (T&D loss) during itstransmission and distribution to end-consumers (see Box 3).
+Consistent with the scope 2 definition, emissions from the
+generation of purchased electricity that is consumedduring transmission and distribution are reported inscope 2 by the company that owns or controls the T&Doperation. End consumers of the purchased electricity donot report indirect emissions associated with T&D lossesin scope 2 because they do not own or control the T&Doperation where the electricity is consumed (T&D loss). CHAPTER 4 Setting Operational Boundaries 27GUIDANCE
+BOX 3. Electricity balance
+Purchased electricity consumed
+by the utility company during T&D
++
+Purchased electricity consumed
+by end consumersGENERATED
+ELECTRICITY=
+
+--- Page 30 of 116 ---

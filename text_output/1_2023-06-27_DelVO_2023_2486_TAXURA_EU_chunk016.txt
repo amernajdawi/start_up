@@ -1,0 +1,50 @@
+File Name: 1_2023-06-27_DelVO_2023_2486_TAXURA_EU.pdf
+Converted on: 2025-03-28 03:20:36
+Original Size: 8.44 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 16 of 199
+--------------------------------------------------------------------------------
+
+--- Page 8 of 164 ---
+
+ELI: http://data.europa.eu/eli/reg_del/2023/2486/oj 8/164(36) The four environmental objectives referred to in Article 9, points (c) to (f), of Regulation (EU) 2020/852 and in
+Articles 12, 13, 14 and 15 of that Regulation are closely interlinked in terms of the means by which an objective is
+achieved and the benefits that achieving one of the objectives may have on other objectives. The provisions
+determining whether an economic activity contributes substantially to the sustainable use and protection of water and marine resources, to the transition to a circular economy, to pollution prevention and control or to the
+protection and restoration of biodiversity and ecosystems, are thus closely interrelated, and are closely linked to the
+need to widen the disclosure obligations laid down in Delegated Regulation (EU) 2021/2178. To ensure coherence
+between those provisions, which should enter into force at the same time, to facilitate a comprehensive view of the
+legal framework for stakeholders and to facilitate the application of Regulation (EU) 2020/852, it is necessary to include those provisions in a single Regulation.
+(37) To ensure that the application of Regulation (EU) 2020/852 evolves with scientific, technological, market and policy
+developments, this Regulation should be regularly reviewed and, where appropriate, amended as regards the
+activities considered to be contributing substantially to the sustainable use and protection of water and marine
+resources, to the transition to a circular economy, to pollution prevention and control, to the protection and
+restoration of biodiversity and ecosystems, and the corresponding technical screening criteria.
+(38) This Regulation is consistent with the climate-neutrality objective set out in Article 2(1) of Regulation (EU) 2021/1119 of the European Parliament and of the Council (
+23)and ensures progress on adaptation as referred
+to in Article 5 of that Regulation. The Commission assessed the consistency of the technical screening criteria for
+ensuring that economic activities that contribute substantially to one of the environmental objectives do not cause
+significant harm to climate change mitigation and climate change adaptation with the objective and targets of
+Regulation (EU) 2021/1119 as required by Article 6(4) of that Regulation.
+(39) It is necessary to provide non-financial and financial undertakings with sufficient time to assess whether their economic activities comply with the technical screening criteria laid down in this Regulation, and to report on the
+basis of that assessment in accordance with Delegated Regulation (EU) 2021/2178. The date of application of this
+Regulation should therefore be deferred, while the amendments to Delegated Regulation (EU) 2021/2178 should ensure that non-financial and financial undertakings have sufficient time to comply with their reporting
+requirements under that Regulation,
+HAS ADOPTED THIS REGULATION:
+Article 1
+Technical screening criteria related to the sustainable use and protection of water and marine resources
+The technical screening criteria for determining the conditions under which an economic activity qualifies as contributing
+substantially to the sustainable use and protection of water and marine resources and for determining whether that
+economic activity causes no significant harm to any of the other environmental objectives laid down in Article 9 of
+Regulation (EU) 2020/852 are set out in Annex I to this Regulation.
+Article 2
+Technical screening criteria related to the transition to a circular economy
+The technical screening criteria for determining the conditions under which an economic activity qualifies as contributing
+substantially to the transition to a circular economy and for determining whether that economic activity causes no
+significant harm to any of the other environmental objectives laid down in Article 9 of Regulation (EU) 2020/852 are set out in Annex II to this Regulation.
+(23)Regulation (EU) 2021/1119 of the European Parliament and of the Council of 30 June 2021 establishing the framework for achieving
+climate neutrality and amending Regulations (EC) No 401/2009 and (EU) 2018/1999 (‘European Climate Law’) (OJ L 243, 9.7.2021,
+p. 1).OJ L, 21.11.2023 EN

@@ -1,0 +1,52 @@
+File Name: 1_2021-06-04_DelVO_2021_2139_TAXKRA_EU.pdf
+Converted on: 2025-03-28 03:20:30
+Original Size: 2.76 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 5 of 447
+--------------------------------------------------------------------------------
+
+(10)  The methodology to calculate life-cycle greenhouse gas emissions for activities in the information and communi ­
+cation sector should reflect the specificities of that sector, in particular the specialised work and guidance that has
+been provided by European Telecommunications Standards Institute (ETSI) for the operation of life-cycle
+assessments in the information and communication sector. It is therefore appropriate to allow for the use of
+the ETSI standard ES 203 199 as a methodology to accurately calculate greenhouse gas emissions for that sector.  
+(11)  The technical screening criteria for certain activities rely on elements of considerable technical complexity and the 
+assessment whether those criteria have been complied with may require expert knowledge and may not be feasible
+for investors. To facilitate that assessment, the compliance with such technical screening criteria for such activities
+should be verified by an independent third party.  
+(12)  Enabling economic activities as referred to in Article 10(1), point (i), of Regulation (EU) 2020/852 do not substan ­
+tially contribute to climate change mitigation through their own performance. Such activities play a crucial role in
+the decarbonisation of the economy by directly enabling other activities to be carried out at a low carbon level of
+environmental performance. Technical screening criteria should therefore be established for those economic
+activities which play an essential role in enabling the target activities to become low-carbon or to lead to
+greenhouse gas reductions. Those technical screening criteria should ensure that an activity complying with
+them respects the safeguards of Article 16 of Regulation (EU) 2020/852, in particular that the activity does not
+lead to a lock-in of assets and has a substantial positive environmental impact.  
+(13)  Transitional economic activities as referred to in Article 10(2) of Regulation (EU) 2020/852 cannot yet be replaced 
+by technologically and economically feasible low-carbon alternatives but support the transition to a climate-neutral
+economy. Those activities can play a crucial role in mitigating climate change by substantially reducing their
+currently high carbon footprint, including by helping to phase out reliance on fossil fuels. Technical screening
+criteria should therefore be established for those economic activities, where near-zero carbon solutions are not yet
+viable or where near-zero carbon activities exist, but are not yet practicable at scale, that have the highest potential
+for significant greenhouse gas reductions. Those technical screening criteria should ensure that an activity
+complying with them respects the safeguards of Article 10(2) of Regulation (EU) 2020/852, in particular that
+the activity has the greenhouse gas emissions corresponding to the best performance in the sector or industry, does
+not hamper the development and deployment of low-carbon alternatives and does not lead to a lock-in of carbon-
+intensive assets.  
+(14)  In view of the ongoing negotiations underway on the Common Agricultural Policy (CAP), and in order to achieve 
+greater coherence across the different instruments to achieve the environmental and climate ambitions of the
+Green Deal, the establishment of the technical screening criteria for agriculture should be delayed.  
+(15)  Forests are under increasing pressure as a result of climate change, which aggravates other key drivers of pressures 
+such as pests, diseases, extreme weather events and forest fires. Other pressures come from rural abandonment,
+lack of management and fragmentation due to land use changes, increasing management intensity due to rising
+demand for wood, forest products and energy, infrastructure development, urbanisation and land take. At the same
+time, forests play a crucial role for reaching the Union’s objectives of reversing biodiversity loss and enhancing
+ambition on climate change mitigation and adaptation, reducing and controlling disaster risk due in particular to
+floods, droughts or wildfires and promoting a circular bioeconomy. To reach climate neutrality and a healthy
+environment, it is necessary to improve both the quality and the quantity of forest areas that are the largest carbon
+sink in the land use, land use change and forestry (‘LULUCF’) sector. Forest-related activities can contribute to
+climate change mitigation by increasing net removals of carbon dioxide, by preserving carbon stocks, and by
+providing materials and renewable energy, generating co-benefits for climate change adaptation, biodiversity,

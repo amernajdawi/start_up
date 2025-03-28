@@ -1,0 +1,38 @@
+File Name: 1_2023-07-31_DelVO_2023_2772_ESRS_EU.pdf
+Converted on: 2025-03-28 03:18:14
+Original Size: 5.82 MB
+Chunk Size: 500 tokens with 50 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 559 of 686
+--------------------------------------------------------------------------------
+
+ELI: http://data.europa.eu/eli/reg_del/2023/2772/oj 234/284Disclosure Requirements
+ESRS 2 General Disclosures
+7. The requirements of this section should be read in conjunction with the disclosures required by ESRS 2 on Strategy
+(SBM). The resulting disclosures shall be presented alongside the disclosures required by ESRS 2, except for SBM-3
+Material impacts, risks and opportunities and their interaction with strategy and business model, for which the undertaking
+has an option to present the disclosures alongside the topical disclosure.
+Strategy
+Disclosure Requirement related to ESRS 2 SBM-2 – Interests and views of stakeholders
+8. When responding to ESRS 2 SBM-2, paragraph 43, the undertaking shall disclose how the interests, views and rights
+of its consumers and/or end-users, including respect for their human rights, inform its strategy and business model.
+Consumers and/or end-users are a key group of affected stakeholders.
+Disclosure Requirement related to ESRS 2 SBM-3 – Material impacts, risks and opportunities and their interaction with strategy and business model
+9. When responding to ESRS 2 SBM-3 paragraph 48, the undertaking shall disclose:
+(a) whether and how actual and potential impacts on consumers and/or end-users as identified in Disclosure
+Requirements ESRS 2 IRO-1 Description of the processes to identify and assess material impacts, risks and opportunities:
+(i) originate from or are connected to the undertaking’s strategy and business model, and (ii) inform and
+contribute to adapting the undertaking’s strategy and business model, and
+(b) the relationship between its material risks and opportunities arising from impacts and dependencies on
+consumers and/or end-users and its strategy and business model.
+10. When fulfilling the requirements of paragraph 48, the undertaking shall disclose whether all consumers and/or end-
+users who are likely to be materially impacted by the undertaking, including impacts connected with the
+undertaking’s own operations and value chain, including through its products or services, as well as through its
+business relationships, are included in the scope of its disclosure under ESRS 2. In addition, the undertaking shall
+disclose the following information:
+(a) a brief description of the types of consumers and/or end-users subject to material impacts by its own operations
+or through its value chain, and specify whether they are:
+i. consumers and/or end-users of products that are inherently harmful to people and/or increase risks for
+chronic disease;

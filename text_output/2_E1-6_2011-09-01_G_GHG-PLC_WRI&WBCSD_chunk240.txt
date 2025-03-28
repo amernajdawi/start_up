@@ -1,0 +1,37 @@
+File Name: 2_E1-6_2011-09-01_G_GHG-PLC_WRI&WBCSD.pdf
+Converted on: 2025-03-28 01:56:27
+Original Size: 3.27 MB
+Chunk Size: 400 tokens with 50 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 240 of 270
+--------------------------------------------------------------------------------
+
+6. Establish formal feedback loops to improve data
+collection, handling, and documentation processes.
+Feedback loops are needed to improve the quality
+of the product inventory over time and to correct any
+errors or inconsistencies identified in the review process.
+7. Establish reporting, documentation, and archiving
+procedures. Establish record-keeping processes for
+what and how data should be stored over time, what
+information should be reported as part of internal
+and external inventory reports, and what should be
+documented to support data collection and calculation
+methodologies. The process may also involve aligning
+or developing relevant database systems for record
+keeping. Systems may take time to develop, and it is
+important to ensure that all relevant information is
+collected prior to the establishment of the system and
+then transferred to the system once it is operational.
+The data management plan is likely to be an evolving
+document that is updated as data sources change,
+data handling procedures are refined, calculation
+methodologies improve, product inventory
+responsibilities change within a company, or the business
+objectives of the product inventory change.
+Table C.1 outlines which components should be included
+in a data management plan and can be used as a guide for
+creating a plan or for pulling together existing documents
+to constitute the plan.Appendix C. Data Management Plan

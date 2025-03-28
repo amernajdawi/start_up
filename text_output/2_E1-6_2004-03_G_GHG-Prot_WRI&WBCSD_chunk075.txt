@@ -1,0 +1,45 @@
+File Name: 2_E1-6_2004-03_G_GHG-Prot_WRI&WBCSD.pdf
+Converted on: 2025-03-28 03:20:43
+Original Size: 3.51 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 75 of 104
+--------------------------------------------------------------------------------
+
+the cost of internal reductions is high, opportunities for
+reductions limited, or the company is unable to meet itstarget because of unexpected circumstances. Whenreporting on the target, it should be specified whetheroffsets are used and how much of the target reductionwas achieved using them.
+CREDIBILITY OF OFFSETS AND TRANSPARENCY
+There are currently no generally accepted methodologiesfor quantifying GHG offsets. The uncertainties thatsurround GHG project accounting make it difficult toestablish that an offset is equivalent in magnitude to theinternal emissions it is offsetting.
+10This is why compa-
+nies should always report their own internal emissionsin separate accounts from offsets used to meet thetarget, rather than providing a net figure (see step 10).It is also important to carefully assess the credibility ofoffsets used to meet a target and to specify the originand nature of the offsets when reporting. Informationneeded includes:the type of project
+geographic and organizational origin
+how offsets have been quantified
+whether they have been recognized by external
+programs (CDM, JI, etc.)
+One important way to ensure the credibility of offsets is
+to demonstrate that the quantification methodologyadequately addresses all of the key project accountingchallenges in chapter 8. Taking these challenges intoaccount, the forthcoming
+GHG Protocol Project
+Quantification Standard aims to improve the consistency,
+credibility, and rigor of project accounting.
+Additionally, it is important to check that offsets have
+not also been counted towards another organization’sGHG target. This might involve a contract between thebuyer and seller that transfers ownership of the offset.Step 8 provides more information on accounting forGHG trades in relation to a corporate target, includingestablishing a policy on double counting.
+OFFSETS AND INTENSITY TARGETS
+When using offsets under intensity targets, all the aboveconsiderations apply. In order to determine compliancewith the target, the offsets can be subtracted from thefigure used for absolute emissions (the numerator); theresulting difference is then divided by the corresponding
+metric. It is important, however, that absolute emissionsare still reported separately both from offsets and thebusiness metric (see step 9 below).
+8. Establish a target double counting policy
+This step addresses double counting of GHG reductionsand offsets, as well as allowances issued by externaltrading programs. It applies only to companies thatengage in trading (sale or purchase) of GHG offsets orwhose corporate target boundaries interface with othercompanies’ targets or external programs.  
+Given that there is currently no consensus on how such
+double counting issues should be addressed, companiesshould develop their own “Target Double CountingPolicy.” This should specify how reductions and tradesrelated to other targets and programs will be reconciledwith their corporate target, and accordingly which typesof double counting situations are regarded as relevant.Listed here are some examples of double counting thatmight need to be addressed in the policy.
+
+DOUBLE COUNTING OF OFFSETS. This can occur when
+a GHG offset is counted towards the target by both theselling and purchasing organizations. For example,company A undertakes an internal reduction projectthat reduces GHGs at sources included in its owntarget. Company A then sells this project reduction tocompany B to use as an offset towards its target, whilestill counting it toward its own target. In this case,reductions are counted by two different organizationsagainst targets that cover different emissions sources.Trading programs address this by using registries thatallocate a serial number to all traded offsets or creditsand ensuring the serial numbers are retired oncethey are used. In the absence of registries this couldbe addressed by a contract between seller and buyer.
+
+DOUBLE COUNTING DUE TO TARGET OVERLAP .11
+This can occur when sources included under a
+company’s corporate target are also subject to limitsby an external program or another company’s target.Two examples:  
+Company A has a corporate target that includesGHG sources that are also regulated under a tradingprogram. In this case, reductions at the commonsources are used by company A to meet both itscorporate target and the trading program target. GUIDANCESetting a GHG Target
+CHAPTER 11 82
+
+--- Page 85 of 116 ---

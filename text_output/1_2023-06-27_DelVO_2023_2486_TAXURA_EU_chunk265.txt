@@ -1,0 +1,24 @@
+File Name: 1_2023-06-27_DelVO_2023_2486_TAXURA_EU.pdf
+Converted on: 2025-03-28 03:18:09
+Original Size: 8.44 MB
+Chunk Size: 500 tokens with 50 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 265 of 380
+--------------------------------------------------------------------------------
+
+For the refrigerant threshold, the Global Warming Potential does not exceed 150 in cooling of the substance.
+Where medicinal products are made from substances listed in Sections 3.10 to 3.16 of
+Annex II to Delegated Regulation (EU) 2021/2139, the GHG emissions do not exceed
+the limits set out in their respective technical screening criteria for DNSH to climate
+change mitigation.
+The substitution does not lead to an increment of lifecycle GHG emissions. Lifecycle
+GHG emissions are calculated using Recommendation 2013/179/EU or, alternatively,
+using ISO 14067:2018 (
+35)or ISO 14064-1:2018 (36). Quantified life-cycle GHG
+emissions are verified by an independent third party.
+(34)Where the exemption under criterion 1.3 applies.
+(35)ISO standard 14067:2018, Greenhouse gases – Carbon footprint of products – Requirements and guidelines for quantification,
+version of 27.6.2023 available at: https://www.iso.org/standard/71206.html.
+(36)ISO standard 14064-1:2018, Greenhouse gases – Part 1: Specification with guidance at the organization level for quantification and reporting of greenhouse gas emissions and removals, version of 27.6.2023 available at: https://www.iso.org/standard/66453.html.OJ L, 21.11.2023 EN

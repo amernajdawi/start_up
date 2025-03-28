@@ -1,0 +1,38 @@
+File Name: 1_2023-07-31_DelVO_2023_2772_ESRS_EU.pdf
+Converted on: 2025-03-28 03:18:14
+Original Size: 5.82 MB
+Chunk Size: 500 tokens with 50 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 296 of 686
+--------------------------------------------------------------------------------
+
+ELI: http://data.europa.eu/eli/reg_del/2023/2772/oj 129/284AR 8. In phase 2, to evaluate its impacts and dependencies for each priority location identified under AR 5, the
+undertaking may:
+(a) identify business processes and activities that lead to impacts and dependencies on environmental assets and
+ecosystem services;
+(b) identify water and marine resources-related impacts and dependencies across the undertaking’s value chain;
+and
+(c) assess the severity and likelihood of the positive and negative impacts on water and marine resources.
+AR 9. For the identification of water and marine resources-related dependencies, the undertaking may rely on
+international classifications such as the Common International Classification of Ecosystem Services (CICES).
+AR 10. When identifying its marine resources-related dependencies, the undertaking shall consider if it depends upon key
+marine resources-related commodities, including but not limited to gravels and seafood products.
+AR 11. Marine resources are defined according to their use by human societies and must be considered in relation to the
+pressure they are subject to. Some of the pressure indicators are presented in other ESRS, namely microplastics
+and emissions to water in ESRS E2 and plastic waste in ESRS E5.
+AR 12. Examples of marine resources dependencies which may be considered by the undertaking are:
+(a) dependencies on commercially exploited fish and shellfish in its own operations and its upstream and
+downstream value chain; and
+(b) fishing activity that involves mobile bottom trawling, which can also have negative impacts on the seabed.
+AR 13. In Phase 3, to assess its material risks and opportunities based on the results of Phases 1 and 2, the undertaking
+may :
+(a) identify transition risks and opportunities in its own operations and its value chain by the categories of:
+i. policy and legal: e.g., introduction of regulation or policy (e.g., changes such as increased water protection,
+increased quality of water regulations, regulation of flows of water supply), ineffective governance of water
+bodies or marine resources, in particular across boundaries (e.g., transboundary governance and
+cooperation) resulting in water or oceans degradation, exposure to sanctions and litigation (e.g., non-
+respect of permits or allocations; negligence towards or killing of threatened marine species), enhanced
+reporting obligations on marine ecosystems and related services;
+ii. technology: e.g., substitution of products or services by products or services with a lower impact on water

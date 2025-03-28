@@ -1,0 +1,153 @@
+File Name: 2_E1-6_2014-01-01_G_GHG-Agri_WRI&WBCSD.pdf
+Converted on: 2025-03-28 03:20:54
+Original Size: 1.75 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 18 of 65
+--------------------------------------------------------------------------------
+
+20
+ Table 2-2.  Some agricultural practices that can reduce GHG emissions and improve farm performance*  
+Practice  Potential GHG benefits  Potential environmental 
+co-benefits Potential agronomic /
+business benefits  Potential trade-offs or 
+problems
+Cover crops
+Non-commodity crops
+planted in between rows
+of commodity crops or
+during fallow periods   Increased soil C 
+sequestration
+ Reduced indirect N 2O
+emissions from soils due to
+a reduction in N leaching  
+ Reduced scope 3
+emissions from fertilizer manufacture  Improved soil nutrient
+content  
+ Reduced wind and
+water erosion
+ Reduced nutrient and
+sediment run off and
+leaching  Reduced fertilizer needs
+ Reduced weed growth
+ Reduced irrigation needs
+ Supplemental livestock
+feed (extends grazing season, cattle weight
+gain)
+ Increased profit  Requires extra time
+and knowledge to manage, and some new techniques for
+growing commodity
+crops
+ Requires more fuel
+use for crop planting
+Conservation tillage
+A range of cultivation
+techniques (including minimum till, strip till, no-till) designed to minimize soil disturbance
+for seed placement, by
+allowing crop residue to remain on soil after planting  Increased soil C
+sequestration
+ Reduced indirect N
+2O
+emissions from reduction in run-off
+ Reduced scope 3
+emissions from fertilizer manufacture
+ Improved soil water
+retention and drainage
+ Reduced water and
+wind erosion
+ Reduced nutrient and
+sediment runoff  Reduced fertilizer needs
+ Reduced fuel and labor
+costs from fewer field
+passes
+ Improved yields
+ Retains top soil  Potential increase in
+herbicide use
+ Increased pest threats
+in repetitive single commodity production
+Rotational or mob livestock grazing on pasture
+Grazing practices that maximize plant health
+and diversity, while increasing the animal carrying capacity of the land  Increased soil C
+sequestration
+ Reduced CH
+4 emissions
+from enteric fermentation (due to improved feed)
+ Increased plant cover
+and productivity
+ Improved soil water
+retention and drainage
+ Reduced water and
+wind erosion
+ Reduced nutrient and
+sediment runoff
+ Increased herd size
+ Can increase length of
+grazing season
+ Reduced need for
+purchases of feed
+ Pastures more able to
+exclude weeds / exotic
+species
+ Potentially reduced
+herbicide costs
+ Helps avoid burning  Requires careful
+management in some areas with sensitive species
+ Labor intensive
+
+--- Page 21 of 103 ---
+
+GHG Protocol Agricultural Guidance
+
+21
+ Practice  Potential GHG benefits  Potential environmental 
+co-benefits Potential agronomic /
+business benefits  Potential trade-offs or 
+problems
+fields as a management
+practice
+Anaerobic digester
+Enclosed system in which
+organic material such as manure is broken down by microorganisms under
+anaerobic conditions  Reduced N
+2O and CH 4
+emissions from manure management  
+ Reduced scope 3
+emissions from fertilizer manufacture  Reduced risk of
+accidental toxic leakages (pathogens killed)
+ Reduced ammonia and
+VOC emissions  Processed solids can be
+used as bedding
+ Reduced need for
+fertilizers (as nutrient availability in the digestate is increased)
+ Electricity / heat
+generation  Digester
+technologies can be expensive
+Windbreaks
+Plantations usually made
+up of one or more rows of trees or shrubs   Increased C sequestration 
+in biomass and soils  Reduced soil erosion  Greater animal survival
+and health in livestock
+systems  May take some land
+out of production
+Switch from constantly flooded to intermittently flooded rice fields   Reductions in CH
+4
+emissions (as oxygen is allowed to reach soil)  Reduced water use and
+increased use of rainfall
+ Less fuel used in
+irrigation  
+*, A more extensive discussion of the advantages and disadvanta ges of different management practices can be found in Stockwell & Bitan (2011)
+
+--- Page 22 of 103 ---
+
+GHG Protocol Agricultural Guidance
+
+22
+ Chapter 3: Principles  
+As with financial accounting and repo rting principles, generally accepted GHG
+accounting principles are intended  to ensure that an inventor y represents a faithful, true, 
+and fair account of a company’s GHG fluxes.  This chapter: 
+ Introduces  GHG accounting and reporting principles  as they apply to farms, 
+businesses and others in the agriculture sector.
+3.1 Overview of principles

@@ -1,0 +1,39 @@
+File Name: 1_2023-07-31_DelVO_2023_2772_ESRS_EU.pdf
+Converted on: 2025-03-28 03:18:14
+Original Size: 5.82 MB
+Chunk Size: 500 tokens with 50 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 359 of 686
+--------------------------------------------------------------------------------
+
+ELI: http://data.europa.eu/eli/reg_del/2023/2772/oj 155/284Disclosure Requirement E5-2 – Actions and resources related to resource use and circular economy
+17. The undertaking shall disclose its resource use and circular economy actions and the resources allocated to their
+implementation.
+18. The objective of this Disclosure Requirement is to enable an understanding of the key actions taken and planned to
+achieve the resource use and circular economy-related policy objectives and targets.
+19. The description of the resource use and circular economy-related actions and resources allocated shall follow the
+principles defined in ESRS 2 MDR-A Actions and resources in relation to material sustainability matters.
+20. In addition to ESRS 2 MDR-A, the undertaking may specify whether and how an action and resources cover:
+(a) higher levels of resource efficiency in use of technical and biological materials and water, particularly in relation
+to critical raw materials and rare earths as listed in the Raw Materials Information System;
+(b) higher rates of use of secondary raw materials (recyclates);
+(c) application of circular design, leading to increased product durability and optimisation of use, and higher rates
+of: Reuse, Repair, Refurbishing, Remanufacture, Repurposing and Recycling.
+(d) application of circular business practices such as (i) value retention actions (maintenance, repair, refurbishing,
+remanufacturing, component harvesting, upgrading and reverse logistics, closed loop systems, second-hand
+retailing), (ii) value maximisation actions (product-service systems, collaborative and sharing economy business
+models), (iii) end-of-life actions (recycling, upcycling, extended producer responsibility), and (iv) systems
+efficiency actions (industrial symbiosis);
+(e) actions taken to prevent waste generation in the undertaking’s upstream and downstream value chain; and
+(f) optimistation of waste management in line with the waste hierarchy .
+Metrics and targets
+Disclosure Requirement E5-3 – Targets related to resource use and circular economy
+21. The undertaking shall disclose the resource use and circular economy-related targets it has set.
+22. The objective of this Disclosure Requirement is to enable an understanding of the targets the undertaking has
+adopted to support its resource use and circular economy policy and to address its material impacts, risks and
+opportunities.
+23. The description of the targets shall contain the information requirements defined in ESRS 2 MDR-T Tracking
+effectiveness of policies and actions through targets.
+24. The disclosure required by paragraph 21 shall indicate whether and how the undertaking’s targets relate to resource

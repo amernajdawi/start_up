@@ -1,0 +1,41 @@
+File Name: 2_E1-6_2004-03_G_GHG-Prot_WRI&WBCSD.pdf
+Converted on: 2025-03-28 03:20:43
+Original Size: 3.51 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 31 of 104
+--------------------------------------------------------------------------------
+
+Companies may need to track emissions over time in
+response to a variety of business goals, including:
+Public reporting
+Establishing GHG targets
+Managing risks and opportunities
+Addressing the needs of investors and other stakeholders
+A meaningful and consistent comparison of emissions
+over time requires that companies set a performancedatum with which to compare current emissions. Thisperformance datum is referred to as the base year
+1
+emissions. For consistent tracking of emissions overtime, the base year emissions may need to be recalcu-lated as companies undergo significant structuralchanges such as acquisitions, divestments, and mergers.
+The first step in tracking emissions, however, is the selec-
+tion of a base year.
+Choosing a base year
+Companies shall choose and report a base year for whichverifiable emissions data are available and specify theirreasons for choosing that particular year.
+Most companies select a single year as their base year.
+However, it is also possible to choose an average ofannual emissions over several consecutive years. Forexample, the U.K. ETS specifies an average of 1998–2000 emissions as the reference point for trackingreductions. A multi-year average may help smooth outunusual fluctuations in GHG emissions that would makea single year’s data unrepresentative of the company’stypical emissions profile.
+The inventory base year can also be used as a basis for
+setting and tracking progress towards a GHG target inwhich case it is referred to as a target base year (seechapter 11).Recalculating base year emissions
+Companies shall develop a base year emissions recalcu-lation policy, and clearly articulate the basis andcontext for any recalculations. If applicable, the policyshall state any “significance threshold” applied fordeciding on historic emissions recalculation. “Significancethreshold” is a qualitative and/or quantitative criterionused to define any significant change to the data, inven-tory boundary, methods, or any other relevant factors.It is the responsibility of the company to determine the “significance threshold” that triggers base yearemissions recalculation and to disclose it. It is theresponsibility of the verifier to confirm the company’sadherence to its threshold policy. The following casesshall trigger recalculation of base year emissions:
+Structural changes in the reporting organization that
+have a significant impact on the company’s base yearemissions. A structural change involves the transferof ownership or control of emissions-generating activ-ities or operations from one company to another.While a single structural change might not have asignificant impact on the base year emissions, thecumulative effect of a number of minor structuralchanges can result in a significant impact. Structuralchanges include:
+Mergers, acquisitions, and divestments
+Outsourcing and insourcing of emitting activities
+Changes in calculation methodology or improvements
+in the accuracy of emission factors or activity datathat result in a significant impact on the base yearemissions data
+Discovery of significant errors, or a number of cumu-
+lative errors, that are collectively significant.
+In summary, base year emissions shall be retroactively
+recalculated to reflect changes in the company thatwould otherwise compromise the consistency and rele-vance of the reported GHG emissions information. Oncea company has determined its policy on how it will recal-culate base year emissions, it shall apply this policy in aconsistent manner. For example, it shall recalculate forboth GHG emissions increases and decreases. CHAPTER 5 Tracking Emissions Over Time 35STANDARD
+
+--- Page 38 of 116 ---

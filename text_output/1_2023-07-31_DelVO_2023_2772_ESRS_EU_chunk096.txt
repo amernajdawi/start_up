@@ -1,0 +1,54 @@
+File Name: 1_2023-07-31_DelVO_2023_2772_ESRS_EU.pdf
+Converted on: 2025-03-28 03:20:41
+Original Size: 5.82 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 96 of 284
+--------------------------------------------------------------------------------
+
+ELI: http://data.europa.eu/eli/reg_del/2023/2772/oj 98/284AR 41. In line with ESRS 1 chapter 3.7, the undertaking shall disaggregate information on its GHG emissions as
+appropriate. For example, the undertaking may disaggregate its Scope 1, 2, 3, or total GHG emissions by country,
+operating segments, economic activity, subsidiary, GHG category (CO2, CH4, N2O, HFCs, PFCs, SF6, NF3, and other GHG considered by the undertaking) or source type (stationary combustion, mobile combustion, process
+emissions and fugitive emissions).
+AR 42. An undertaking might have a different reporting period from some or all of the entities in its value chain. In such
+circumstances, the undertaking is permitted to measure its GHG emissions in accordance with paragraph 44 using
+information for reporting periods that are different from its own reporting period if that information is obtained
+from entities in its value chain with reporting periods that are different from the undertaking’s reporting period,
+on the condition that:
+(a) the undertaking uses the most recent data available from those entities in its value chain to measure and disclose its greenhouse gas emissions;
+(b) the length of the reporting periods is the same; and
+(c) the undertaking discloses the effects of significant events and changes in circumstances (relevant to its GHG
+emissions) that occur between the reporting dates of the entities in its value chain and the date of the
+undertaking’s general purpose financial statements.
+AR 43. When preparing the information on gross Scope 1 GHG emissions required under paragraph 48 (a), the
+undertaking shall:
+(a) calculate or measure GHG emissions from stationary combustion, mobile combustion, process emissions and
+fugitive emissions; and use suitable activity data that include the non-renewable fuel consumption;
+(b) use suitable and consistent emission factors;
+(c) disclose biogenic emissions of CO2 from the combustion or bio-degradation of biomass separately from the Scope 1 GHG emissions, but include emissions of other types of GHG (in particular CH4 and N2O);
+(d) not include any removals, or any purchased, sold or transferred carbon credits or GHG allowances in the
+calculation of Scope 1 GHG emissions; and
+(e) for activities reporting under the EU ETS, report on Scope 1 emissions following the EU ETS methodology. The
+EU ETS methodology may also be applied to activities in geographies and sectors that are not covered by the
+EU ETS.
+AR 44. When preparing the information on the percentage of Scope 1 GHG emissions from regulated emission trading
+schemes required under paragraph 48 (b), the undertaking shall:
+(a) consider GHG emissions from the installations it operates that are subject to regulated Emission Trading
+Schemes (ETS), including the EU-ETS, national ETS and non-EU ETS, if applicable;
+(b) only include emissions of CO2, CH4, N2O, HFCs, PFCs, SF6, and NF3;
+(c) ensure the same accounting period for gross Scope 1 GHG emissions and GHG emissions regulated under the
+ETS; and
+(d) calculate the share by using the following formula:
+GHG Emissions in (t CO
+2eq) from EU ETS installations + national ETS installations + nonEU ETS installations
+Scope 1 GHG emissions (t CO2eq)
+AR 45. When preparing the information on gross Scope 2 GHG emissions required under paragraph 49, the undertaking
+shall:
+(a) consider the principles and requirements of the GHG Protocol Scope 2 Guidance (version 2015, in particular
+the Scope 2 quality criteria in chapter 7.1 relating to contractual instruments); it may also consider
+Commission Recommendation (EU) 2021/2279 or the relevant requirements for the quantification of
+indirect GHG emissions from imported energy in EN ISO 14064-1:2018;OJ L, 22.12.2023 EN  
+
+--- Page 99 of 284 ---

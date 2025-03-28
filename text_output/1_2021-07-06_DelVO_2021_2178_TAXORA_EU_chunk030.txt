@@ -1,0 +1,51 @@
+File Name: 1_2021-07-06_DelVO_2021_2178_TAXORA_EU.pdf
+Converted on: 2025-03-28 03:20:32
+Original Size: 10.30 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 30 of 47
+--------------------------------------------------------------------------------
+
+--- Page 33 of 59 ---
+
+Credit institutions shall calculate the KPIs proposed according to the following formula for this type of exposures:
+First step = (2)(b)/(2)(a).
+Second step = (2)(c)/(2)(b); credit institutions shall disclose separately the part of the KPI that refers to enabling and
+transitional activities, when relevant.GAR DS = (2)(c)/(2)(a) based on turnover KPI; (2)(c)/(2)(a) based on CapEx KPI.The following aspects of KPIs shall be disclosed:
+(a) in terms of stock, based on the total gross carrying amount of debt securities as of the disclosure reference date;
+(b) in terms of flow, based on the gross carrying amount of new debt securities during the year prior to the disclosure
+reference date;
+(c) with separate breakdown for enabling and transitional activities, and for specialised lending.
+(iii) Green asset ratio for equity holdings of credit institutions in non-financial undertakings (‘GAR EH’)
+Credit institutions shall calculate and disclose:
+(a) the proportion of equity holdings in non-financial undertakings performing taxonomy-eligible economic activities
+compared to total equity holdings in non-financial undertakings.
+The numerator shall cover the gross carrying amount of the equity holdings not held for trading that comprise financial
+assets at fair value through other comprehensive income and financial assets not held for trading at fair value through
+profit or loss and investments in subsidiaries, joint ventures and associates, of non-financial undertakings performing
+taxonomy-eligible economic activities.
+The denominator shall cover the total gross carrying amount of the equity holdings not held for trading that comprise
+financial assets at fair value through other comprehensive income and financial assets not held for trading at fair value through profit or loss and investments in subsidiaries, joint ventures and associates, of non-financial undertakings.
+(b) the proportion of equity holdings in non-financial undertakings performing taxonomy-aligned economic activities
+compared to equity holdings in those non-financial undertakings performing taxonomy-eligible economic activities.
+The numerator equals to the gross carrying amount of the equity holdings not held for trading based on the turnover KPI
+and CapEx KPI related to taxonomy-aligned economic activities of the non-financial undertaking to which the equity
+instruments belongs.
+The denominator shall include the gross carrying amount of the equity holdings not held for trading based on the turnover
+KPI of the non-financial undertakings performing taxonomy-eligible economic activities.
+(c) GAR EH = Proportion of equity holdings in non-financial undertakings financing taxonomy-aligned economic
+activities compared to total equity holdings in non-financial undertakings.
+The numerator shall equals to the gross carrying amount of the equity holdings not held for trading weighted by the
+turnover and CapEx KPI related to taxonomy-aligned economic activities as disclosed by the non-financial undertaking to
+which the equity instruments belongs.
+The denominator shall include the total gross carrying amount of the equity holdings not held for trading of non-financial
+undertakings.
+The followings aspects of ratios shall be disclosed:
+(a) in terms of stock, based on the total gross carrying amount of equity holdings as of the disclosure reference date;
+(b) in terms of flow, based on the gross carrying amount of equity holdings during the year prior to the disclosure
+reference date;
+(c) with separate breakdown for enabling and for transitional activities.EN Official Journal of the European Union 10.12.2021 L 443/41  
+
+--- Page 34 of 59 ---

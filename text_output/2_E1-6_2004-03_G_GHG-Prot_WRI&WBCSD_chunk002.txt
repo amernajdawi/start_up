@@ -1,0 +1,55 @@
+File Name: 2_E1-6_2004-03_G_GHG-Prot_WRI&WBCSD.pdf
+Converted on: 2025-03-28 03:20:43
+Original Size: 3.51 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 2 of 104
+--------------------------------------------------------------------------------
+
+The first edition of the GHG Protocol Corporate Accounting and
+Reporting Standard (GHG Protocol Corporate Standard), published in
+September 2001, enjoyed broad adoption and acceptance around theglobe by businesses, NGOs, and governments. Many industry, NGO,and government GHG programs
+1used the standard as a basis for
+their accounting and reporting systems. Industry groups, such as the International Aluminum Institute, the International Councilof Forest and Paper Associations, and the WBCSD CementSustainability Initiative, partnered with the GHG Protocol Initiativeto develop complementary industry-specific calculation tools.Widespread adoption of the standard can be attributed to the inclu-
+sion of many stakeholders in its development and to the fact that it is robust, practical, and builds on the experience and expertise ofnumerous experts and practitioners.
+This revised edition of the GHG Protocol Corporate Standard is the
+culmination of a two-year multi-stakeholder dialogue, designed to build on experience gained from using the first edition. It includesadditional guidance, case studies, appendices, and a new chapteron setting a GHG target. For the most part, however, the first editionof the Corporate Standard has stood the test of time, and thechanges in this revised edition will not affect the results of mostGHG inventories.
+This GHG Protocol Corporate Standard provides standards and
+guidance for companies and other types of organizations
+2
+preparing a GHG emissions inventory. It covers the accounting and reporting of the six greenhouse gases covered by the KyotoProtocol — carbon dioxide (CO
+2), methane (CH4), nitrous oxide
+(N2O), hydrofluorocarbons (HFCs), perfluorocarbons (PFCs),
+and sulphur hexafluoride (SF6). The standard and guidance were
+designed with the following objectives in mind:
+•To help companies prepare a GHG inventory that represents
+a true and fair account of their emissions, through the use ofstandardized approaches and principles
+•To simplify and reduce the costs of compiling a GHG inventory
+•To provide business with information that can be used to build
+an effective strategy to manage and reduce GHG emissions
+•To provide information that facilitates participation in voluntary
+and mandatory GHG programs
+•To increase consistency and transparency in GHG accounting
+and reporting among various companies and GHG programs.
+Both business and other stakeholders benefit from converging
+on a common standard. For business, it reduces costs if their GHGinventory is capable of meeting different internal and externalinformation requirements. For others, it improves the consistency,transparency, and understandability of reported information,making it easier to track and compare progress over time.The business value of a GHG inventory
+Global warming and climate change have come to the fore as akey sustainable development issue. Many governments are takingsteps to reduce GHG emissions through national policies thatinclude the introduction of emissions trading programs, voluntaryprograms, carbon or energy taxes, and regulations and standardson energy efficiency and emissions. As a result, companies mustbe able to understand and manage their GHG risks if they are toensure long-term success in a competitive business environment,and to be prepared for future national or regional climate policies.
+A well-designed and maintained corporate GHG inventory can
+serve several business goals, including:
+•Managing GHG risks and identifying reduction opportunities
+•Public reporting and participation in voluntary GHG programs
+•Participating in mandatory reporting programs
+•Participating in GHG markets
+•Recognition for early voluntary action.
+Who should use this standard?
+This standard is written primarily from the perspective of a busi-
+ness developing a GHG inventory. However, it applies equally toother types of organizations with operations that give rise to GHGemissions, e.g., NGOs, government agencies, and universities.
+3
+It should not be used to quantify the reductions associated withGHG mitigation projects for use as offsets or credits—the forthcoming GHG Protocol Project Quantification Standard will
+provide standards and guidance for this purpose.
+Policy makers and architects of GHG programs can also use rele-
+vant parts of this standard as a basis for their own accountingand reporting requirements.INTRODUCTION 3
+
+--- Page 6 of 116 ---

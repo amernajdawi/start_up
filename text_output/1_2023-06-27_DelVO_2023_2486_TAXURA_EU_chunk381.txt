@@ -1,0 +1,30 @@
+File Name: 1_2023-06-27_DelVO_2023_2486_TAXURA_EU.pdf
+Converted on: 2025-03-28 01:55:43
+Original Size: 8.44 MB
+Chunk Size: 400 tokens with 50 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 381 of 447
+--------------------------------------------------------------------------------
+
+ELI: http://data.europa.eu/eli/reg_del/2023/2486/oj 123/164(b) where applicable, a description of partnership agreements with conservation management entities, local NGOs or
+communities to contribute to the conservation or restoration of the area to which it intends to contribute;
+(c) a biodiversity information and awareness plan linked to the specific impacts arising from tourism activities (23);
+(d) a clear framework for the continuous monitoring and measuring of the effectiveness of the contribution, including an
+adaptive approach allowing for the identification of corrective actions, where necessary.
+3.Sustainable Supply Chain and Environmental Management System
+3.1. The establishment has a fair share of products in line with market best practices (such as food and beverages, wood,
+including furniture, paper, board and plastic products) certified according to environmental standards (24). The
+establishment commits to a continuous improvement of the share of the products certified by an independent third party.
+3.2. For accommodation establishments with over 50 employees, the activity complies with one of the following criteria:
+(a) the establishment has an environmental management system (EMS) requiring third-party certification, such as the EU
+Eco-Management and Audit Scheme (25)(EMAS), ISO 14001:2015 (26)or equivalent, aligned with best environmental
+management practice and benchmark performances such as the EMAS Reference Document for the Tourism
+Sector (27)or equivalent national or international standard;
+(b) the establishment was awarded with an EU Ecolabel for tourist accommodation or an equivalent EN ISO
+14024:2018 (28)type I Ecolabel or an equivalent voluntary label meeting equivalent requirements (29).
+4.Minimum requirements
+4.1. An Environmental Impact Assessment (EIA) or a screening (30)has been completed in accordance with Directive
+2011/92/EU (31). Where an EIA has been carried out, the required mitigation and compensation measures for protecting
+the environment are implemented.

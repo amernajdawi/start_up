@@ -1,0 +1,78 @@
+File Name: 1_2023-07-31_DelVO_2023_2772_ESRS_EU.pdf
+Converted on: 2025-03-28 03:20:41
+Original Size: 5.82 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 37 of 284
+--------------------------------------------------------------------------------
+
+ELI: http://data.europa.eu/eli/reg_del/2023/2772/oj 35/284ESRSDisclosure
+RequirementFull name of the Disclosure
+RequirementPhase-in or effective date (including the first year)
+ESRS S1 S1-11 Social protection The undertaking may omit the information
+prescribed by ESRS S1-11 for the first year of
+preparation of its sustainability statement.
+ESRS S1 S1-12 Percentage of employees with
+disabilitiesThe undertaking may omit the information prescribed by ESRS S1-12 for the first year of
+preparation of its sustainability statement.
+ESRS S1 S1-13 Training and skills
+developmentThe undertaking may omit the information prescribed by ESRS S1-13 for the first year of
+preparation of its sustainability statement.
+ESRS S1 S1-14 Health and safety The undertaking may omit the data points on cases
+of work-related ill-health and on number of days lost
+to injuries, accidents, fatalities and work-related ill
+health for the first year of preparation of its
+sustainability statement.
+ESRS S1 S1-14 Health and safety The undertaking may omit reporting on non-
+employees for the first year of preparation of its
+sustainability statement.
+ESRS S1 S1-15 Work-life balance The undertaking may omit the information
+prescribed by ESRS S1-15 for the first year of
+preparation of its sustainability statement.
+ESRS S2 All disclosure
+requirementsAll disclosure requirements Undertakings or groups not exceeding on their balance sheet dates the average number of 750
+employees during the financial year (on a
+consolidated basis where applicable) may omit the
+information specified in the disclosure
+requirements of ESRS S2 for the first 2 years of
+preparation of their sustainability statement.
+ESRS S3 All disclosure
+requirementsAll disclosure requirements Undertakings or groups not exceeding on their balance sheet dates the average number of 750
+employees during the financial year (on a
+consolidated basis where applicable) may omit the
+information specified in the disclosure
+requirements of ESRS S3 for the first 2 years of
+preparation of their sustainability statement.
+ESRS S4 All disclosure
+requirementsAll disclosure requirements Undertakings or groups not exceeding on their balance sheet dates the average number of 750
+employees during the financial year (on a
+consolidated basis where applicable) may omit the
+information specified in the disclosure
+requirements of ESRS S4 for the first 2 years of
+preparation of their sustainability statement.OJ L, 22.12.2023 EN  
+
+--- Page 36 of 284 ---
+
+ELI: http://data.europa.eu/eli/reg_del/2023/2772/oj 36/284Appendix D
+Structure of the ESRS sustainability statement
+This appendix is an integral part of ESRS 1 and has the same authority as the other parts of the Standard with respect to
+reporting in four parts as outlined in paragraph 115.
+Part of the management report ESRS codification Title
+1. General information ESRS 2 General disclosures, including information provided under the Application Requirements of topical ESRS
+listed in ESRS 2 Appendix C.
+2. Environmental information Not applicable Disclosures pursuant to Article 8 of Regulation
+(EU) 2020/852 (Taxonomy Regulation)
+ESRS E1 Climate change
+ESRS E2 Pollution
+ESRS E3 Water and marine resources
+ESRS E4 Biodiversity and ecosystems
+ESRS E5 Resource use and circular economy
+3. Social information ESRS S1 Own workforce
+ESRS S2 Workers in the value chain
+ESRS S3 Affected communities
+ESRS S4 Consumers and end-users
+4. Governance information ESRS G1 Business conductOJ L, 22.12.2023 EN  
+
+--- Page 37 of 284 ---

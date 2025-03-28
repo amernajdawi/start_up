@@ -1,0 +1,32 @@
+File Name: 1_2023-07-31_DelVO_2023_2772_ESRS_EU.pdf
+Converted on: 2025-03-28 01:55:56
+Original Size: 5.82 MB
+Chunk Size: 400 tokens with 50 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 728 of 768
+--------------------------------------------------------------------------------
+
+ELI: http://data.europa.eu/eli/reg_del/2023/2772/oj 271/284Indirect GHG emissions GHG emissions that are a consequence of the activities of an entity but
+occur at sources owned or controlled by another entity. Indirect emissions
+are Scope 2 GHG emissions and scope 3 GHG emissions combined.
+Installation A stationary technical unit within which one or more activities are carried
+out which could have an effect on emissions and pollution.
+Internal carbon price Price used by an undertaking to assess the financial implications of changes to investment, production, and consumption patterns, and of potential
+technological progress and future emissions abatement costs.
+Internal carbon pricing scheme An organisational arrangement that allows an undertaking to apply carbon prices in strategic and operational decision making. There are two types of
+internal carbon prices commonly used by undertakings. The first type is a
+shadow price, which is a theoretical cost or notional amount that the undertaking does not charge but that can be used in assessing the
+economic implications or trade-offs for such things as risk impacts, new
+investments, net present value of projects, and the cost-benefit of various initiatives. The second type is an internal tax or fee, which is a carbon price
+charged to a business activity, product line, or other business unit based on
+its GHG emissions (these internal taxes or fees are similar to intracompany
+transfer pricing).
+Invasive or alien species Species whose introduction and/or spread by human action outside their natural distribution threatens biological diversity , food security, and
+human health and well-being. “Alien’ refers to the species’ having been introduced outside its natural distribution (“exotic’, “non-native’ and “non-
+indigenous’ are synonyms for “alien’). “Invasive’ means “tending to expand
+into and modify ecosystems to which it has been introduced’. Thus, a species
+may be alien without being invasive, or, in the case of a species native to a
+region, it may increase and become invasive, without actually being an alien
+species.

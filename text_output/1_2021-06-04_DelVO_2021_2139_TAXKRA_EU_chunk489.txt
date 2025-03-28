@@ -1,0 +1,20 @@
+File Name: 1_2021-06-04_DelVO_2021_2139_TAXKRA_EU.pdf
+Converted on: 2025-03-28 03:18:03
+Original Size: 2.76 MB
+Chunk Size: 500 tokens with 50 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 489 of 966
+--------------------------------------------------------------------------------
+
+(a) do not adversely affect the adaptation efforts or the level of resilience to physical climate risks of other people,
+of nature, of cultural heritage, of assets and of other economic activities;  
+_____________
+( 98 ) Fuels that meet the technical screening criteria specified in Sections 3.10 and 4.13 of this Annex.
+( 99 ) Future scenarios include Intergovernmental Panel on Climate Change representative concentration pathways RCP2.6, RCP4.5,
+RCP6.0 and RCP8.5.
+( 100  ) Assessments Reports on Climate Change: Impacts, Adaptation and Vulnerability, published periodically by the Intergovernmental  
+Panel on Climate Change (IPCC), the United Nations body for assessing the science related to climate change produces,
+https://www.ipcc.ch/reports/.
+( 101  ) Such as Copernicus services managed by the European Commission.EN  L 442/182 Official Journal of the European Union 9.12.2021

@@ -1,0 +1,47 @@
+File Name: 1_2021-07-06_DelVO_2021_2178_TAXORA_EU.pdf
+Converted on: 2025-03-28 03:20:32
+Original Size: 10.30 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 12 of 47
+--------------------------------------------------------------------------------
+
+2. Information disclosed in accordance with this Regulation shall cover the annual reporting period from the previous
+calendar year of the date of disclosure.
+3. Financial undertakings and non-financial undertakings shall provide in the non-financial statement the key
+performance indicators covering the previous annual reporting period.For the purposes of this paragraph, the first annual reporting period shall cover the year 2023.
+4. Financial undertakings and non-financial undertakings shall in their disclosures, use the same currency as in their
+financial statements.Financial undertakings shall use the most recently available data and key performance indicators of their counterparties to
+calculate their own key performance indicators.
+5. The key performance indicators shall cover only the objectives of climate change mitigation and climate change
+adaptation until 12 months after the date of application of the delegated regulations that contain the technical screening
+criteria for the other environmental objectives and that have been adopted pursuant to Article 12(2), Article 13(2), Article 14(2) and Article 15(2) of Regulation (EU) 2020/852.
+Article 9
+Review
+1. By 30 June 2024, the Commission shall review the application of this Regulation. The Commission shall assess in
+particular the need for any further amendments with regard to the inclusion of:
+(a) exposures to central governments and central banks in the numerator and denominator of key performance indicators
+of financial undertakings;
+(b) exposures to undertakings that do not publish a non-financial statement pursuant to Articles 19a or 29a of Directive
+2013/34/EU in the numerator of key performance indicators of financial undertakings.
+2. The review for SME exposures will be accompanied by an impact assessment assessing the administrative burden,
+access to finance and the potential impacts on SMEs of a possible extension to cover SMEs exposures that are not covered
+by this Delegated Regulation or provide such information voluntarily.
+3. The exposures to and investments in undertakings that do not publish non-financial information pursuant to Articles
+19a and 29a of Directive 2013/34/EU and Article 8 of Regulation (EU) 2020/852, but that provide such equivalent
+information voluntarily, may be included in the numerators of key performance indicators of financial undertakings from
+1 January 2025 subject to a positive assessment referred to in paragraph (2).
+Article 10
+Entry into force and application
+1. This Regulation shall enter into force on the twentieth day following that of its publication in the Official Journal of the
+European Union.
+2. From 1 January 2022 until 31 December 2022, non-financial undertakings shall only disclose the proportion of
+Taxonomy-eligible and Taxonomy non-eligible economic activities in their total turnover, capital and operational
+expenditure and the qualitative information referred to in Section 1.2 of Annex I relevant for this disclosure.
+3. From 1 January 2022 until 31 December 2023, financial undertakings shall only disclose:
+(a) the proportion in their total assets of exposures to Taxonomy non-eligible and Taxonomy-eligible economic activities;
+(b) the proportion in their total assets of the exposures referred to in Article 7, paragraphs 1 and 2;EN Official Journal of the European Union 10.12.2021 L 443/15  
+
+--- Page 8 of 59 ---

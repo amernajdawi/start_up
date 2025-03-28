@@ -1,0 +1,18 @@
+File Name: 2_E1-6_2004-03_G_GHG-Prot_WRI&WBCSD.pdf
+Converted on: 2025-03-28 03:18:16
+Original Size: 3.51 MB
+Chunk Size: 500 tokens with 50 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 122 of 225
+--------------------------------------------------------------------------------
+
+counting, the reductions giving rise to the offset mustoccur at sources or sinks not included in the target orcap for which the offset is used. Also, if the reductionsoccur at sources or sinks owned or controlled bysomeone other than the parties to the project (i.e.,they are indirect), the ownership of the reductionshould be clarified to avoid double counting.
+Offsets may be converted into credits when used to meet
+an externally imposed target. Credits are convertible andtransferable instruments usually bestowed by an externalGHG program. They are typically generated from anactivity such as an emissions reduction project and thenused to meet a target in an otherwise closed system, suchas a group of facilities with an absolute emissions capplaced across them. Although a credit is usually based onthe underlying reduction calculation, the conversion of anoffset into a credit is usually subject to strict rules, whichmay differ from program to program. For example, aCertified Emission Reduction (CER) is a credit issued bythe Kyoto Protocol Clean Development Mechanism. Onceissued, this credit can be traded and ultimately used tomeet Kyoto Protocol targets. Experience from the “pre-compliance” market in GHG credits highlights theimportance of delineating project reductions that are tobe used as offsets with a credible quantification methodcapable of providing verifiable data.
+Reporting project based reductions
+It is important for companies to report their physicalinventory emissions for their chosen inventory bound-aries separately and independently of any GHG tradesthey undertake. GHG trades
+3should be reported in its
+public GHG report under optional information—eitherin relation to a target (see chapter 11) or corporateGUIDANCEAccounting for GHG Reductions
+CHAPTER 8 60

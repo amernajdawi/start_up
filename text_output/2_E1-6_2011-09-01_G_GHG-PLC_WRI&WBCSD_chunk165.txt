@@ -1,0 +1,43 @@
+File Name: 2_E1-6_2011-09-01_G_GHG-PLC_WRI&WBCSD.pdf
+Converted on: 2025-03-28 03:18:25
+Original Size: 3.27 MB
+Chunk Size: 500 tokens with 50 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 165 of 226
+--------------------------------------------------------------------------------
+
+[110]   Product Life Cycle Accounting and Reporting Standardguidance
+14.3 Guidance
+14.3.1  Steps for setting reduction targets and 
+tracking changes
+Setting reduction targets and tracking changes involves
+the following steps:
+1. Complete and report a base inventory done in
+conformance with the requirements of this standard.
+2. Identify reduction opportunities.
+3. Set a reduction target.
+4. Achieve reductions and account for these by
+performing an updated inventory.
+5. Recalculate the base inventory as needed when
+significant changes in the inventory occur, including,
+but not limited to: changes in the product’s boundary;
+quality of data; and allocation or recycling methods.6. Complete and disclose an updated inventory report
+including the updated results and the base inventory
+results. Companies should report the inventory results
+as a percentage change over time on the unit of
+analysis basis.
+The following section describes each step in more detail.
+Step 1:  Complete and report a base inventory
+The first step is to ensure that a base inventory has been
+completed and publically reported in conformance with
+this standard. The base inventory does not have to be
+the first inventory a company performs on a product; for
+example, companies may want to improve data quality
+before finalizing the base inventory. Once a company has
+identified the base inventory, however, any changes made
+that warrant a recalculation should be done following the
+guidance in step 5.
+
+--- Page 113 of 148 ---

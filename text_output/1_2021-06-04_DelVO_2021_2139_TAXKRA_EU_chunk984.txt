@@ -1,0 +1,33 @@
+File Name: 1_2021-06-04_DelVO_2021_2139_TAXKRA_EU.pdf
+Converted on: 2025-03-28 01:55:25
+Original Size: 2.76 MB
+Chunk Size: 400 tokens with 50 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 984 of 1091
+--------------------------------------------------------------------------------
+
+and less than 0,001 mg of other categories 1A and 1B carcinogenic
+volatile organic compounds per m  3 of material or component, upon 
+testing in accordance with CEN/EN 16516 (  575  ) or ISO 16000-3 (  576  ) or 
+other equivalent standardised test conditions and determination
+methods (  577  ). 
+Where the new construction is located on a potentially contaminated site
+(brownfield site), the site has been subject to an investigation for potential
+contaminants, for example using standard ISO 18400 (  578  ). 
+Measures are taken to reduce noise, dust and pollutant emissions during
+construction or maintenance works.  
+_____________
+( 572  ) EU Construction and Demolition Waste Protocol (version of 4.6.2021: https://ec.europa.eu/growth/content/eu-construction-and- 
+demolition-waste-protocol-0_en).
+( 573  ) ISO 20887:2020, Sustainability in buildings and civil engineering works - Design for disassembly and adaptability - Principle s, 
+requirements and guidance (version of 4.6.2021: https://www.iso.org/standard/69370.html).
+( 574  ) Applying to paints and varnishes, ceiling tiles, floor coverings, including associated adhesives and sealants, internal insul ation and 
+interior surface treatments, such as those to treat damp and mold.
+( 575  ) CEN/TS 16516: 2013, Construction products - Assessment of release of dangerous substances - Determination of emissions into 
+indoor air.
+( 576  ) ISO 16000-3:2011, Indoor air — Part 3: Determination of formaldehyde and other carbonyl compounds in indoor air and test 
+chamber air — Active sampling method.
+( 577  ) The emissions thresholds for carcinogenic volatile organic compounds relate to a 28-day test period. 
+( 578  ) ISO 18400 series on Soil quality — SamplingEN  9.12.2021 Official Journal of the European Union L 442/313

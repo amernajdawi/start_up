@@ -1,0 +1,22 @@
+File Name: 1_2023-07-31_DelVO_2023_2772_ESRS_EU.pdf
+Converted on: 2025-03-28 03:18:14
+Original Size: 5.82 MB
+Chunk Size: 500 tokens with 50 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 418 of 686
+--------------------------------------------------------------------------------
+
+96. The objective of this Disclosure Requirement is twofold: to allow an understanding of the extent of any gap in the pay
+between women and men amongst the undertaking’s employees ; and to provide insight into the level of
+remuneration inequality inside the undertaking and whether wide pay disparities exist.
+(95)This information supports the information needs of benchmark administrators to disclose ESG factors subject to Regulation
+(EU) 2020/1816 as set out by indicator “Weighted average ratio of accidents, injuries, fatalities” in section 1 and 2 of Annex II. This
+information supports the information needs of financial market participants subject to Regulation (EU) 2019/2088 because it is derived from an additional indicator related to principal adverse impacts as set out by indicator #2 in Table III of Annex I of Commission Delegated Regulation (EU) 2022/1288 with regard to disclosure rules on sustainable investments (“Rate of accidents”)
+and benchmark administrators to disclose ESG factors subject to Regulation (EU) 2020/1816 as set out by indicator “Weighted
+average ratio of accidents, injuries, fatalities” in section 1 and 2 of Annex II.
+(96)This information supports the information needs of financial market participants subject to Regulation (EU) 2019/2088 because it is
+derived from an additional indicator related to principal adverse impacts as set out by indicator #3 in Table III of Annex I of
+Commission Delegated Regulation (EU) 2022/1288 with regard to disclosure rules on sustainable investments (“Number of days lost
+to injuries, accidents, fatalities or illness”).OJ L, 22.12.2023 EN

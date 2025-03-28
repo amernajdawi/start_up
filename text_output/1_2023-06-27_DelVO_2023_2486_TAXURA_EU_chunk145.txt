@@ -1,0 +1,50 @@
+File Name: 1_2023-06-27_DelVO_2023_2486_TAXURA_EU.pdf
+Converted on: 2025-03-28 03:20:36
+Original Size: 8.44 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 145 of 199
+--------------------------------------------------------------------------------
+
+ELI: http://data.europa.eu/eli/reg_del/2023/2486/oj 105/164The activity also includes all of the following sub-activities that are required to prepare, plan, monitor and follow-up on the
+above remediation measures:
+(a) preparatory investigations, including data collection and surveying activities (in particular geological or hydrological),
+technical feasibility and environmental impact studies required to define the remediation project;
+(b) site preparation, including earth moving and levelling works, construction or reinforcement of perimeter walls or
+fences, primary access and internal roads, demolition of buildings or other structures on the landfill site;
+(c) monitoring and control of the remediation measures, including:
+(i) sampling of soil, water, sediment, biota or other materials;
+(ii) laboratory analysis of samples to identify the nature and concentration of pollutants;
+(iii) installation, operation and maintenance of monitoring facilities and equipment such as observation wells in and
+outside the perimeter of the landfill site;
+(d) implementation of other environmental protection and pollution prevention and control measures to comply with the conditions imposed in the environmental permit for the remediation project, including measures for safeguarding
+safety of operations on-site and health of workers, such as for fire control, flood protection, hazardous waste
+management.
+The activity does not include:
+(a) the permanent closure, rehabilitation and after care of existing or new landfills that comply with the Council
+Directive 1999/31/EC (
+60), or for activities located in third countries having equivalent national legislation or otherwise
+aligned with recognised international industry standards (61);
+(b) landfill gas transformation for utilisation as energy carrier or industry feedstock;
+(c) redevelopment of the remediated site for other economic use such as recreational, residential or commercial areas,
+installation of photovoltaic (PV) panels;
+(d) compensatory measures for pollution caused by the landfill or dumpsite such as the development and operation of alternative water supply systems for affected population living in the surrounding area.
+The economic activities in this category could be associated with several NACE codes, in particular E39, E38.2, E38.32 and F42.9 in accordance with the statistical classification of economic activities established by Regulation (EC) No 1893/2006.
+Technical screening criteria
+Substantial contribution to pollution prevention and control
+1.The activity complies with all of the following criteria:
+(a) the remediation activity is not undertaken by the operator (
+62)that caused the pollution or a producer of waste or a
+person acting on behalf of that operator or producer in order to comply with the Directive 2004/35/CE of the
+European Parliament and of the Council (63)or, for activities located in third countries, with an equivalent national
+legislation or international standards that apply the polluter-pays-principle to the remediation of environmental
+pollution caused by economic activities;
+(60)Council Directive 1999/31/EC of 26 April 1999 on the landfill of waste (OJ L 182, 16.7.1999, p. 1).
+(61)Such as, at the international level, landfill operational guidelines published by the International Solid Waste Association (ISWA).
+(62)As defined in Article 2, point 6, of Directive 2004/35/CE.
+(63)Directive 2004/35/CE of the European Parliament and of the Council of 21 April 2004 on environmental liability with regard to the
+prevention and remedying of environmental damage (OJ L 143, 30.4.2004, p. 56).OJ L, 21.11.2023 EN  
+
+--- Page 106 of 164 ---

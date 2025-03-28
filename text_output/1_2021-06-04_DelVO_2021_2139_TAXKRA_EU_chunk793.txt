@@ -1,0 +1,46 @@
+File Name: 1_2021-06-04_DelVO_2021_2139_TAXKRA_EU.pdf
+Converted on: 2025-03-28 03:18:03
+Original Size: 2.76 MB
+Chunk Size: 500 tokens with 50 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 793 of 966
+--------------------------------------------------------------------------------
+
+(b) favour nature-based solutions (  486  ) or rely on blue or green infrastructure (  487  ) to the extent possible; 
+(c) are consistent with local, sectoral, regional or national adaptation plans and strategies;
+(d) are monitored and measured against pre-defined indicators and remedial action is considered where those
+indicators are not met;
+(e) where the solution implemented is physical and consists in an activity for which technical screening criteria
+have been specified in this Annex, the solution complies with the do no significant harm technical screening
+criteria for that activity.  
+Do no significant harm (‘DNSH’)  
+(1) Climate change mitigation  1. The vehicles are not dedicated to the transport of fossil fuels. 
+2. For vehicles of category N2 and N3 falling under the scope of
+Regulation (EU) 2019/1242, specific direct CO  2 emissions are equal to 
+or lower than the reference CO  2 emissions of all vehicles in the same sub- 
+group, as defined in Article 3 of that Regulation (  488  ). 
+(3) Sustainable use and protection of
+water and marine resources  N/A  
+(4) Transition to a circular economy  Vehicles of category N1, N2 and N3 are both of the following: 
+(a) reusable or recyclable to a minimum of 85 % by weight;
+(b) reusable or recoverable to a minimum of 95 % by weight (  489  ). 
+Measures are in place to manage waste both in the use phase (main ­
+tenance) and the end-of-life of the fleet, including through reuse and
+recycling of batteries and electronics (in particular critical raw materials
+therein), in accordance with the waste hierarchy.  
+(5) Pollution prevention and control  For road vehicles of categories M and N, tyres comply with external rolling 
+noise requirements in the highest populated class and with Rolling
+Resistance Coefficient (influencing the vehicle energy efficiency) in the
+two highest populated classes as set out in Regulation (EU) 2020/740
+and as can be verified from the European Product Registry for Energy
+Labelling (EPREL).
+Vehicles comply with the requirements of the most recent applicable stage
+of the Euro VI heavy duty emission type-approval (  490  ) set out in 
+accordance with Regulation (EC) No 595/2009.
+Vehicles comply with Regulation (EU) No 540/2014.  
+(6) Protection and restoration of
+biodiversity and ecosystems  N/A  
+___________  
+( 486  ) Nature-based solutions are defined as ‘solutions that are inspired and supported by nature, which are cost-effective, simulta neously

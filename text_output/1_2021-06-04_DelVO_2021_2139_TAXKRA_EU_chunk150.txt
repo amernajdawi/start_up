@@ -1,0 +1,52 @@
+File Name: 1_2021-06-04_DelVO_2021_2139_TAXKRA_EU.pdf
+Converted on: 2025-03-28 03:20:30
+Original Size: 2.76 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 150 of 447
+--------------------------------------------------------------------------------
+
+Vehicles comply with Regulation (EU) No 540/2014 of the European
+Parliament and of the Council (  239  ). 
+(6) Protection and restoration of
+biodiversity and ecosystems  N/A  
+6.6.  Freight transport services by road  
+Description of the activity  
+Purchase, financing, leasing, rental and operation of vehicles designated as category N1, N2 (  240  ) or N3 (  241  ) falling 
+under the scope of EURO VI (  242  ), step E or its successor, for freight transport services by road.  
+The economic activities in this category could be associated with several NACE codes, in particular H49.4.1,
+H53.10, H53.20 and N77.12 in accordance with the statistical classification of economic activities established by
+Regulation (EC) No 1893/2006.  
+Where an economic activity in this category does not fulfil the substantial contribution criterion specified in
+point (1)(a), (1)( b) or (1)(c)(i) of this Section, the activity is a transitional activity as referred to in Article 10(2) of
+Regulation (EU) 2020/852, provided it complies with the remaining technical screening criteria set out in this
+Section.  
+Technical screening criteria  
+Substantial contribution to climate change mitigation  
+1. The activity complies with one of the following criteria:
+(a) vehicles of category N1 have zero direct (tailpipe) CO  2 emissions; 
+(b) vehicles of category N2 and N3 with a technically permissible maximum laden mass not exceeding
+7,5 tonnes are ‘zero-emission heavy-duty vehicles’ as defined in Article 3, point (11), of Regulation (EU)
+2019/1242;
+(c) vehicles of category N2 and N3 with a technically permissible maximum laden mass exceeding 7,5 tonnes
+are one of the following:
+(i) ‘zero-emission heavy-duty vehicles’, as defined in Article 3, point (11), of Regulation (EU) 2019/1242;
+(ii) where technologically and economically not feasible to comply with the criterion in point (i), ‘low-
+emission heavy-duty vehicles’ as defined in Article 3, point (12), of that Regulation.
+2. Vehicles are not dedicated to the transport of fossil fuels.  
+Do no significant harm (‘DNSH’)  
+(2) Climate change adaptation  The activity complies with the criteria set out in Appendix A to this 
+Annex.  
+(3) Sustainable use and protection of
+water and marine resources  N/A  
+_____________
+( 239  ) Regulation (EU) No 540/2014 of the European Parliament and of the Council of 16 April 2014 on the sound level of motor 
+vehicles and of replacement silencing systems, and amending Directive 2007/46/EC and repealing Directive 70/157/EEC
+(OJ L 158, 27.5.2014, p. 131).
+( 240  ) As referred to in Article 4(1), point (b)(ii), of Regulation (EU) 2018/858. 
+( 241  ) As referred to in Article 4(1), point (b)(iii), of Regulation (EU) 2018/858. 
+( 242  ) As set out in Regulation (EC) No 595/2009.EN  9.12.2021 Official Journal of the European Union L 442/107
+
+--- Page 108 of 349 ---

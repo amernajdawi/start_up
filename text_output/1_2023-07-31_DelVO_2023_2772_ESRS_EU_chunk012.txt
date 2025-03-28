@@ -1,0 +1,53 @@
+File Name: 1_2023-07-31_DelVO_2023_2772_ESRS_EU.pdf
+Converted on: 2025-03-28 03:20:41
+Original Size: 5.82 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 12 of 284
+--------------------------------------------------------------------------------
+
+ELI: http://data.europa.eu/eli/reg_del/2023/2772/oj 11/28449. A sustainability matter is material from a financial perspective if it triggers or could reasonably be expected to trigger
+material financial effects on the undertaking. This is the case when a sustainability matter generates risks or
+opportunities that have a material influence, or could reasonably be expected to have a material influence, on the
+undertaking’s development, financial position, financial performance, cash flows, access to finance or cost of capital
+over the short-, medium- or long-term. Risks and opportunities may derive from past events or future events. The
+financial materiality of a sustainability matter is not constrained to matters that are within the control of the
+undertaking but includes information on material risks and opportunities attributable to business relationships
+beyond the scope of consolidation used in the preparation of financial statements.
+50. Dependencies on natural, human and social resources can be sources of financial risks or opportunities.
+Dependencies may trigger effects in two possible ways:
+(a) they may influence the undertaking’s ability to continue to use or obtain the resources needed in its business
+processes, as well as the quality and pricing of those resources; and
+(b) they may affect the undertaking’s ability to rely on relationships needed in its business processes on acceptable terms.
+51. The materiality of risks and opportunities is assessed based on a combination of the likelihood of occurrence and
+the potential magnitude of the financial effects.
+3.6 Material impacts or risks arising from actions to address sustainability matters
+52. The undertaking’s materiality assessment may lead to the identification of situations in which its actions to address
+certain impacts or risks, or to benefit from certain opportunities in relation to a sustainability matter, might have
+material negative impacts or cause material risks in relation to one or more other sustainability matters. For
+example:
+(a) an action plan to decarbonise production that involves abandoning certain products might have material
+negative impacts on the undertaking’s own workforce and result in material risks due to redundancy payments;
+or
+(b) an action plan of an automotive supplier to focus on the supply of e-vehicles might lead to stranded assets for the
+production of supply parts for conventional vehicles.
+53. In such situations, the undertaking shall:
+(a) disclose the existence of material negative impacts or material risks together with the actions that generate them,
+with a cross-reference to the topic to which the impacts or risks relate; and
+(b) provide a description of how the material negative impacts or material risks are addressed under the topic to
+which they relate.
+3.7 Level of disaggregation
+54. When needed for a proper understanding of its material impacts, risks and opportunities, the undertaking shall
+disaggregate the reported information:
+(a) by country, when there are significant variations of material impacts, risks and opportunities across countries
+and when presenting the information at a higher level of aggregation would obscure material information about
+impacts, risks or opportunities; or
+(b) by significant site or by significant asset, when material impacts, risks and opportunities are highly dependent on
+a specific location or asset.
+55. When defining the appropriate level of disaggregation for reporting, the undertaking shall consider the
+disaggregation adopted in its materiality assessment. Depending on the undertaking’s specific facts and
+circumstances, a disaggregation by subsidiary may be necessary.OJ L, 22.12.2023 EN  
+
+--- Page 12 of 284 ---

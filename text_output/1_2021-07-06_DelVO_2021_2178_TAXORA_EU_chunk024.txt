@@ -1,0 +1,57 @@
+File Name: 1_2021-07-06_DelVO_2021_2178_TAXORA_EU.pdf
+Converted on: 2025-03-28 03:20:32
+Original Size: 10.30 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 24 of 47
+--------------------------------------------------------------------------------
+
+The value of all the investments that are funding taxonomy-eligible
+economic activities, but not taxonomy-aligned relative to the
+value of total assets covered by the KPI:
+X %Value of all the investments that are funding Taxonomy- eligible economic activities, but not taxonomy-
+aligned:
+[monetary amount]
+Additional, complementary disclosures: breakdown of numerator of the KPI
+The proportion of Taxonomy-aligned exposures to financial
+and non-financial undertakings subject to Articles 19a
+and 29a of Directive 2013/34/EU over total assets covered by
+the KPI:For non-financial undertakings:
+Turnover-based: %
+Capital expenditures-based: %
+For financial undertakings:
+Turnover-based: %
+Capital expenditures-based: %Value of Taxonomy-aligned exposures to financial
+and non-financial undertakings subject to Articles
+19a and 29a of Directive 2013/34/EU:
+For non-financial undertakings:
+Turnover-based: [monetary amount]
+Capital expenditures-based: [monetary amount]
+For financial undertakings:
+Turnover-based: [monetary amount]
+Capital expenditures-based: [monetary amount]
+The proportion of taxonomy-aligned exposures to other
+counterparties in over total assets covered by the KPI:
+Turnover-based: %
+Capital expenditures-based: %Value of taxonomy-aligned exposures to other
+counterparties:
+Turnover-based: [monetary amount]
+Capital expenditures-based: [monetary amount]
+Breakdown of the numerator of the KPI per environmental objective
+Taxonomy-aligned activities –:
+(1) Climate change mitigation Turnover: %
+CapEx:%Transitional activities: A% (Turnover; CapEx)Enabling activities: B% (Turnover; CapEx)
+(2) Climate change adaptation Turnover: %CapEx:%Transitional activities: A% (Turnover; CapEx)Enabling activities: B% (Turnover; CapEx)
+(3)
+The sustainable use and protec ­
+tion of water and marine re ­
+sourcesTurnover: %CapEx:%Transitional activities: A% (Turnover; CapEx)Enabling activities: B% (Turnover; CapEx)
+(4) The transition to a circular economyTurnover: %CapEx:%Transitional activities: A% (Turnover; CapEx)Enabling activities: B% (Turnover; CapEx)
+(5)
+Pollution prevention and con ­
+trolTurnover: %CapEx:%Transitional activities: A% (Turnover; CapEx)Enabling activities: B% (Turnover; CapEx)
+(6) The protection and restoration of biodiversity and ecosystemsTurnover: %CapEx:%Transitional activities: A% (Turnover; CapEx)Enabling activities: B% (Turnover; CapEx)EN Official Journal of the European Union L 443/36 10.12.2021  
+
+--- Page 29 of 59 ---

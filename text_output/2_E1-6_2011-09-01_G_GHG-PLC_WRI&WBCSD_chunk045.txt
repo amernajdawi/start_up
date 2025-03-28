@@ -1,0 +1,142 @@
+File Name: 2_E1-6_2011-09-01_G_GHG-PLC_WRI&WBCSD.pdf
+Converted on: 2025-03-28 03:20:53
+Original Size: 3.27 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 45 of 116
+--------------------------------------------------------------------------------
+
+[55]
+CHAPTER 08 Collecting Data and Assessing Data Quality
+guidanceData quality indicators and methods
+The five data quality indicators used to assess individual
+data points for processes in the product inventory are
+listed in table 8.1.
+There are multiple methods for using indicators to
+assess data quality, including the qualitative data quality
+assessment method outlined in this standard. Regardless
+of the method used, companies should document the
+approach and results in the data management plan to
+support the assurance process, ensure internal inventory
+quality controls, and track data quality improvements
+over time.
+Improving the quality of data for large emission sources can
+result in a significant improvement in the overall inventory quality. Therefore, if resource constraints exist, companies
+should focus data assessment and subsequent collection of
+higher quality data on the largest sources of emissions.  
+Qualitative data quality assessment
+The qualitative data quality assessment approach applies
+scoring criteria to each of the data quality indicators. This
+rating system has elements of subjectivity. For example,
+some fuel emission factors do not change significantly
+over time. Therefore, a fuel emission factor that is over
+10 years old, which would be assigned a temporal score
+of ‘poor’ with the data quality in table 8.2, may not be
+different from a factor less than 6 years old (a ‘good’
+temporal score). Companies should consider the individual
+circumstances of the data when using the data quality
+Indicator Description Relation to data quality
+Technological
+representativenessThe degree to which the data reflects  
+the actual technology(ies) usedCompanies should select data that  
+are technologically specific.
+Temporal
+representativenessThe degree to which the data reflects  
+the actual time (e.g., year) or age of  
+the activity Companies should select data that  
+are temporally specific.
+Geographical
+representativenessThe degree to which the data reflects  
+the actual geographic location of the
+activity (e.g., country or site)Companies should select data that  
+are geographically specific.
+Completeness The degree to which the data are
+statistically representative of the  
+relevant activity.
+Completeness includes the percentage  
+of locations for which data is available  
+and used out of the total number that  
+relate to a specific activity. Complete -
+ness also addresses seasonal and other
+normal fluctuations in data.Companies should select data that  
+are complete.
+Reliability The degree to which the sources, data
+collection methods and verification
+procedures3 used to obtain the data are
+dependable.Companies should select data that are
+reliable.Table [8.1]    Data quality indicators
+NOTE:  Adapted from B.P. Weidema, and M.S. Wesnaes, “Data quality management for life cycle inventories - an example of using data quality 
+indicators,” Journal of Cleaner Production. 4 no. 3-4 (1996): 167-174.
+
+--- Page 58 of 148 ---
+
+[56]   Product Life Cycle Accounting and Reporting Standard
+guidanceScore Representativeness to the process in terms of:
+Technology Time Geography Completeness Reliability
+Very
+goodData generated
+using the same
+technology Data with less
+than 3 years of
+difference Data from the
+same areaData from all relevant
+process sites over an
+adequate time period
+to even out normal
+fluctuationsVerified4  data 
+based on
+measurements5
+Good Data generated
+using a similar
+but different
+technologyData with less
+than 6 years of
+difference Data from a
+similar area Data from more than  
+50 percent of sites for
+an adequate time period
+to even out normal
+fluctuationsVerified data
+partly based on
+assumptions
+or non-verified
+data based on
+measurements
+Fair Data generated
+using a different
+technologyData with less
+than 10 years of
+differenceData from a
+different area Data from less than  
+50 percent of sites for
+an adequate time period
+to even out normal
+fluctuations or from more
+than 50 percent of sites
+but for shorter time periodNon-verified
+data partly
+based on
+assumptions
+or a qualified
+estimate (e.g.,  
+by sector expert)
+Poor Data where
+technology is
+unknownData with more
+than 10 years of
+difference or the
+age of the data
+are unknownData from an
+area that is
+unknownData from less than
+50 percent of sites for
+shorter time period  
+or representativeness  
+is unknownNon-qualified
+estimateTable [8.2]  Sample scoring criteria for performing a qualitative data quality assessment 
+
+NOTE: Adapted from Weidema and Wesnaes, 1996.
+
+--- Page 59 of 148 ---

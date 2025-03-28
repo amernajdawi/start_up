@@ -1,0 +1,45 @@
+File Name: 1_2021-06-04_DelVO_2021_2139_TAXKRA_EU.pdf
+Converted on: 2025-03-28 01:55:25
+Original Size: 2.76 MB
+Chunk Size: 400 tokens with 50 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 992 of 1091
+--------------------------------------------------------------------------------
+
+(4) Transition to a circular economy  At least 70 % (by weight) of the non-hazardous construction and demo ­
+lition waste (excluding naturally occurring material referred to in category
+17 05 04 in the European List of Waste established by Decision
+2000/532/EC) generated on the construction site is prepared for reuse,
+recycling and other material recovery, including backfilling operations
+using waste to substitute other materials, in accordance with the waste
+hierarchy and the EU Construction and Demolition Waste Management
+Protocol (  588  ). Operators limit waste generation in processes related 
+construction and demolition, in accordance with the EU Construction
+and Demolition Waste Management Protocol and taking into account
+best available techniques and using selective demolition to enable
+removal and safe handling of hazardous substances and facilitate reuse
+and high-quality recycling by selective removal of materials, using
+available sorting systems for construction and demolition waste.
+Building designs and construction techniques support circularity and in
+particular demonstrate, with reference to ISO 20887 (  589  ) or other 
+standards for assessing the disassembly or adaptability of buildings, how
+they are designed to be more resource efficient, adaptable, flexible and
+dismantleable to enable reuse and recycling.  
+(5) Pollution prevention and control  Building components and materials used in the construction complies with 
+the criteria set out in Appendix C to this Annex.
+Building components and materials used in the building renovation that
+may come into contact with occupiers (  590  ) emit less than 0,06 mg of 
+formaldehyde per m  3 of material or component upon testing in 
+accordance with the conditions specified in Annex XVII to Regulation
+(EC) No 1907/2006 and less than 0,001 mg of other categories 1A and
+1B carcinogenic volatile organic compounds per m  3 of material or 
+component, upon testing in accordance with CEN/EN 16516 or
+ISO 16000-3:2011 (  591  ) or other equivalent standardised test conditions 
+and determination methods.
+Measures are taken to reduce noise, dust and pollutant emissions during
+construction or maintenance works.  
+(6) Protection and restoration of
+biodiversity and ecosystems  N/A.  
+7.3.  Installation, maintenance and repair of energy efficiency equipment

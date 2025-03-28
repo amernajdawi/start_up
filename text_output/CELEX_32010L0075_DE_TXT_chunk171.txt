@@ -1,0 +1,36 @@
+File Name: CELEX_32010L0075_DE_TXT.pdf
+Converted on: 2025-03-28 01:56:46
+Original Size: 4.18 MB
+Chunk Size: 400 tokens with 50 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 171 of 208
+--------------------------------------------------------------------------------
+
+und/oder
+organischer
+Verbindu
+ngen
+aufgrund
+chemischer oder physik ali­
+scher
+Reaktionen
+(einschließlich
+Lösungsmittel
+und/oder
+Verbindungen
+, die durch Verb rennung
+oder die Aufb e­
+reitung
+von
+Abgas
+oder Abwasser
+vernichtet
+oder aufg efangen
+werden,
+sofern
+sie nicht
+unter
+O6, O7 oder O8
+fallen).

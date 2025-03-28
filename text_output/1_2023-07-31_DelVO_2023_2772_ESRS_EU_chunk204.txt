@@ -1,0 +1,48 @@
+File Name: 1_2023-07-31_DelVO_2023_2772_ESRS_EU.pdf
+Converted on: 2025-03-28 03:20:41
+Original Size: 5.82 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 204 of 284
+--------------------------------------------------------------------------------
+
+ELI: http://data.europa.eu/eli/reg_del/2023/2772/oj 205/284(b) any geographies, at country level or other levels, or commodities for which there is a significant risk of child
+labour , or of forced labour or compulsory labour, among workers in the undertaking’s value chain (104);
+(c) in the case of material negative impacts, whether they are either (i) widespread or systemic in contexts where the
+undertaking operates or has sourcing or other business relationships (e.g., child labour or forced labour in
+particular commodity supply chains in specific countries or regions), or (ii) related to individual incidents (e.g.,
+an industrial accident or an oil spill) or to specific business relationships. This includes consideration of impacts on value chain workers that may arise from the transition to greener and climate-neutral operations. Potential
+impacts include impacts associated with innovation and restructuring, closure of mines, increased mining of minerals needed for the transition to a sustainable economy, and solar panel production;
+(d) in the case of material positive impacts, a brief description of the activities that result in the positive impacts (e.g., updated purchasing practices, capacity-building to supply chain workers), including providing opportunities for
+the workforce such as job creation and upskilling in the context of a ‘just transition’, and the types of value chain
+workers that are positively affected or could be positively affected; the undertaking may also disclose whether the
+positive impacts occur in specific countries or regions; and
+(e) any material risks and opportunities for the undertaking arising from impacts and dependencies on value chain
+workers.
+12. In describing the main types of value chain workers who are or could be negatively affected, based on the materiality
+assessment set out in ESRS 2 IRO-1, the undertaking shall disclose whether and how it has developed an understanding of how workers with particular characteristics, those working in particular contexts, or those
+undertaking particular activities may be at greater risk of harm.
+13. The undertaking shall disclose which, if any, of its material risks and opportunities arising from impacts and
+dependencies on its value chain workers relate to specific groups of value chain workers (for example, particular age
+groups, workers in a particular factory or country) rather than to all of the value chain workers.
+Impact, risk and opportunity management
+Disclosure Requirement S2-1 – Policies related to value chain workers
+14. The undertaking shall describe its policies adopted to manage its material impacts on value chain workers, as well as
+associated material risks and opportunities.
+15. The objective of this Disclosure Requirement is to enable an understanding of the extent to which the undertaking
+has policies that address the identification, assessment, management and/or remediation of material impacts on
+value chain workers specifically, as well as policies that cover material risks or opportunities related to value chain
+workers.
+16. The disclosure required by paragraph 14 shall contain the information on the undertaking’s policies to manage its
+material impacts, risks and opportunities related to value chain workers in accordance with ESRS 2 MDR-P Policies
+adopted to manage material sustainability matters. In addition, the undertaking shall specify whether such policies cover
+specific groups of value chain workers or all value chain workers.
+(104)This information supports the information needs of financial market participants subject to Regulation (EU) 2019/2088 because it is
+derived from additional indicators related to principal adverse impacts as set out by indicators number 12 and number 13 in Table III
+of Annex I of Commission Delegated Regulation (EU) 2022/1288 with regard to disclosure rules on sustainable investments
+(“Operations and suppliers at significant risk of incidents of child labour” and “Operations and suppliers at significant risk of
+incidents of forced or compulsory labour”).OJ L, 22.12.2023 EN  
+
+--- Page 206 of 284 ---

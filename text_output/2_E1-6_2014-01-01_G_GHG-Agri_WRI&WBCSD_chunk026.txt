@@ -1,0 +1,120 @@
+File Name: 2_E1-6_2014-01-01_G_GHG-Agri_WRI&WBCSD.pdf
+Converted on: 2025-03-28 03:20:54
+Original Size: 1.75 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 26 of 65
+--------------------------------------------------------------------------------
+
+A company must use only one consolidation a pproach (and related cr iterion) in creating
+an inventory, although it may choose to crea te multiple inventories using different
+approaches. Many agricultural bus inesses are organized as sole  proprietorships or family 
+businesses and their organizational bounda ries will be correspondingly simple. As
+business structures become more complex, organizational boundaries will become more
+valuable in ensuring consistent accounti ng practices. Exactly which agricultural
+operations are included in an inventory will depend on the business structures involved and the chosen consolidation approach (Table  5-1). For example, the member-patrons of 
+a co-operative would not account for any of th at co-operative’s fluxes under the financial
+control approach, but they would account for those fluxe s under the equity share
+approach (Table 5-1). Figure 5-1 illustrates the application of organizational boundaries
+for different accounting categories. Co-operatives  are considered furt her in Chapter 5.2.  
+This Guidance makes no recommendations a bout which consolidation approach should
+be used in the sector. Rather, many companie s will likely need to consider a range of
+factors when selecting an approach and that  selection should be based on the reporting 
+company’s business goals for GHG reporting (Tab le 5-2). For instance, a company with a
+large cattle feedlot may fall under the ju risdiction of a mandatory GHG reporting
+program. Because compliance with such program s typically rests with the operators of
+emission sources, the company may choose the operational cont rol approach to
+streamline its reporting processes. In general,  sole proprietorships will typically find the 
+operational control the most straightforward approach to apply, while companies with
+other business structures  may prefer any of the three appr oaches based on their specific 
+business goals.      
+Table 5-1.  Common types of business structures and outcomes of setting organizational 
+boundaries
+Type of agricultural business
+
+Feature compared Individual
+(sole
+proprietorship) Partnership Corporation
+
+Investor-oriented      Co-operative 
+Who uses the services?  Non-owner 
+customers Generally, non-
+owner customers Generally,
+non-owner customers Chiefly, the co-
+operative’s members
+Who owns the business?  The individual The partners The 
+stockholders The member-patrons
+Who votes?  None necessary The partners Common 
+stockholders The member-patrons
+How is voting done?  None necessary Usually by By shares of Usually, one 
+
+--- Page 36 of 103 ---
+
+GHG Protocol Agricultural Guidance
+
+36
+partners’ share
+in capital common stock member-one vote
+Who determines policies  The individual The partners Common 
+stockholders
+and directors The member-patrons
+and directors
+Who gets the operating
+proceeds?  The individual The partners in 
+proportion to
+interest in
+business The
+stockholders in
+proportion to
+stock held The member-patrons
+on a patronage basis
+Who
+accounts for
+the GHG
+fluxes from
+business’s
+agricultural
+production?
+And at what
+percent?  Based on 
+equity
+share
+Owner accounts
+for 100% of
+fluxes Each partner
+accounts for a
+% of the fluxes
+in proportion to
+interest in
+business The company
+accounts for a
+% of fluxes
+based on its
+share of equity
+in the business The member-patrons
+on a patronage basis
+Based on
+financial
+control The company
+accounts for
+100% of
+fluxes The co-operative  
+accounts for 100% of
+the fluxes
+Based on
+operational
+control Varies depending on contractual
+and other legal provisions The co-operative  
+accounts for 100% of
+the fluxes
+
+Figure 5-1.  Applying organizational boundaries. A wine company owns and operates a 
+winery and a vineyard (Vineyard B). It also  owns 50% of a second vineyard (Vineyard 
+A) that is operated by another company. The size of the wine company’s inventory
+depends on the consolidation approach used.  
+
+--- Page 37 of 103 ---
+
+GHG Protocol Agricultural Guidance

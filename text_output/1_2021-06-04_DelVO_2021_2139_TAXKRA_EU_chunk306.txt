@@ -1,0 +1,54 @@
+File Name: 1_2021-06-04_DelVO_2021_2139_TAXKRA_EU.pdf
+Converted on: 2025-03-28 03:20:30
+Original Size: 2.76 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 306 of 447
+--------------------------------------------------------------------------------
+
+(6) Protection and restoration of
+biodiversity and ecosystems  The activity complies with the criteria set out in Appendix D to this 
+Annex.  
+4.12.  Storage of hydrogen  
+Description of the activity  
+Construction and operation of facilities that store hydrogen and return it at a later time.  
+The economic activities in this category have no dedicated NACE code in accordance with the statistical classifi ­
+cation of economic activities established by Regulation (EC) No 1893/2006.  
+Technical screening criteria  
+Substantial contribution to climate change adaptation  
+1. The economic activity has implemented physical and non-physical solutions (‘adaptation solutions’) that
+substantially reduce the most important physical climate risks that are material to that activity.
+2. The physical climate risks that are material to the activity have been identified from those listed in
+Appendix A to this Annex by performing a robust climate risk and vulnerability assessment with the
+following steps:
+(a) screening of the activity to identify which physical climate risks from the list in Appendix A to this Annex
+may affect the performance of the economic activity during its expected lifetime;
+(b) where the activity is assessed to be at risk from one or more of the physical climate risks listed in Appendix A
+to this Annex, a climate risk and vulnerability assessment to assess the materiality of the physical climate risks
+on the economic activity;
+(c) an assessment of adaptation solutions that can reduce the identified physical climate risk.
+The climate risk and vulnerability assessment is proportionate to the scale of the activity and its expected lifespan,
+such that:
+(a) for activities with an expected lifespan of less than 10 years, the assessment is performed, at least by using
+climate projections at the smallest appropriate scale;
+(b) for all other activities, the assessment is performed using the highest available resolution, state-of-the-art
+climate projections across the existing range of future scenarios (  298  ) consistent with the expected lifetime 
+of the activity, including, at least, 10 to 30 year climate projections scenarios for major investments.
+3. The climate projections and assessment of impacts are based on best practice and available guidance and
+take into account the state-of-the-art science for vulnerability and risk analysis and related methodologies in line
+with the most recent Intergovernmental Panel on Climate Change reports (  299  ), scientific peer-reviewed 
+publications and open source (  300  ) or paying models. 
+4. The adaptation solutions implemented:
+(a) do not adversely affect the adaptation efforts or the level of resilience to physical climate risks of other people,
+of nature, of cultural heritage, of assets and of other economic activities;  
+_____________
+( 298  ) Future scenarios include Intergovernmental Panel on Climate Change representative concentration pathways RCP2.6, RCP4.5, 
+RCP6.0 and RCP8.5.
+( 299  ) Assessments Reports on Climate Change: Impacts, Adaptation and Vulnerability, published periodically by the Intergovernmental  
+Panel on Climate Change (IPCC), the United Nations body for assessing the science related to climate change produces,
+https://www.ipcc.ch/reports/.
+( 300  ) Such as Copernicus services managed by the European Commission.EN  9.12.2021 Official Journal of the European Union L 442/235
+
+--- Page 236 of 349 ---

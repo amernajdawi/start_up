@@ -1,0 +1,46 @@
+File Name: 1_2023-07-31_DelVO_2023_2772_ESRS_EU.pdf
+Converted on: 2025-03-28 03:20:41
+Original Size: 5.82 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 27 of 284
+--------------------------------------------------------------------------------
+
+ELI: http://data.europa.eu/eli/reg_del/2023/2772/oj 24/284Appendix A
+Application Requirements
+This appendix is an integral part of ESRS 1 and has the same authority as the other parts of the Standard.
+Entity specific disclosuresAR 1. The entity-specific disclosures shall enable users to understand the undertaking’s impacts, risks and opportunities
+in relation to environmental, social or governance matters.
+AR 2. When developing entity-specific disclosures, the undertaking shall ensure that:
+(a) the disclosures meet the qualitative characteristics of information as set out in chapter 2 Qualitative
+characteristics of information; and
+(b) its disclosures include, where applicable, all material information related to the reporting areas of governance;
+strategy; impact, risk and opportunity management; and metrics and targets (see ESRS 2 chapters 2 to 5).
+AR 3. When determining the usefulness of metrics for inclusion in its entity-specific disclosures, the undertaking shall
+consider whether:
+(a) its chosen performance metrics provide insight into:
+i.how effective its practices are in reducing negative outcomes and/or increasing positive outcomes for
+people and the environment (for impacts); and/or
+ii.the likelihood that its practices result in financial effects on the undertaking (for risks and opportunities);
+(b) the measured outcomes are sufficiently reliable, meaning that they do not involve an excessive number of
+assumptions and unknowns that would render the metrics too arbitrary to provide a faithful representation;
+and
+(c) it has provided sufficient contextual information to interpret performance metrics appropriately, and whether variations in such contextual information may impact the comparability of the metrics over time.
+AR 4. When developing its entity-specific disclosures, the undertaking shall carefully consider:
+(a) comparability between undertakings, while still ensuring relevance of the information provided, recognising
+that comparability may be limited for entity- specific disclosures. The undertaking shall consider whether the
+available and relevant frameworks, initiatives, reporting standards and benchmarks (such as technical material
+issued by the International Sustainability Standards Board or the Global Reporting Initiative) provide elements
+that can support comparability to the maximum extent possible; and
+(b) comparability over time: consistency of methodologies and disclosures is a key factor for achieving
+comparability over time.
+AR 5. Further guidance for developing entity-specific disclosures can be found by considering the information required under topical ESRS that addresses similar sustainability matters.
+Double materiality
+Stakeholders and their relevance to the materiality assessment process
+AR 6. In addition to the categories of stakeholder listed in paragraph 22, common categories of stakeholders are:
+employees and other workers, suppliers, consumers, customers, end- users, local communities and persons in
+vulnerable situations, and public authorities, including regulators, supervisors and central banks.OJ L, 22.12.2023 EN  
+
+--- Page 25 of 284 ---

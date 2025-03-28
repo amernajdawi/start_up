@@ -1,0 +1,47 @@
+File Name: 1_2021-07-06_DelVO_2021_2178_TAXORA_EU.pdf
+Converted on: 2025-03-28 03:20:32
+Original Size: 10.30 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 8 of 47
+--------------------------------------------------------------------------------
+
+(5) ‘taxonomy-eligible economic activity’ means an economic activity that is described in the delegated acts adopted
+pursuant to Article 10(3), Article 11(3), Article 12(2), Article 13(2), Article 14(2), and Article 15(2), of Regulation
+(EU) 2020/852, irrespective of whether that economic activity meets any or all of the technical screening criteria laid
+down in those delegated acts;
+(6) ‘taxonomy-non-eligible economic activity’ means any economic activity that is not described in the delegated acts
+adopted pursuant to Article 10(3), Article 11(3), Article 12(2), Article 13(2), Article 14(2) and Article 15(2), of
+Regulation (EU) 2020/852;
+(7) ‘asset manager’ meansan undertaking that is subject to the disclosure obligations laid down in Articles 19a and 29a of
+Directive 2013/34/EU and is either of the following:
+(a) an AIFM as defined in Article 4(1), point (b), of Directive 2011/61/EU of the European Parliament and of the
+Council (4);
+(b) a management company as defined in Article 2(1), point (b), of Directive 2009/65/EC of the European Parliament
+and of the Council (5);
+(c) an investment company authorised in accordance with Articles 27, 28 and 29 of Directive 2009/65/EC and that
+has not designated for its management a management company authorised in accordance with Articles 6, 7 and 8
+of that Directive.
+(8) ‘financial undertaking’ means an undertaking that is subject to the disclosure obligations laid down in Articles 19a and 29a of Directive 2013/34/EU and is an asset manager, a credit institution as defined in Article 4(1), point (1), of
+Regulation (EU) No 575/2013 of the European Parliament and of the Council (
+6), an investment firm as defined in
+Article 4(1), point (2), of Regulation (EU) No 575/2013, an insurance undertaking as defined in Article 13, point (1), of Directive 2009/138/EC of the European Parliament and of the Council (
+7), or a reinsurance undertaking as defined
+in Article 13, point (4) of Directive 2009/138/EC;
+(9) ‘non-financial undertaking’ means an undertaking that is subject to the disclosure obligations laid down in Articles
+19a and 29a of Directive 2013/34/EU and is not a financial undertaking as defined in point (8);
+(10) ‘taxonomy-aligned insurance or reinsurance activity’ means an insurance or reinsurance activity that complies with the criteria laid down in Sections 10.1 and 10.2 of Annex II to Delegated Regulation (EU) 2021/2139.
+Article 2
+Disclosures by non-financial undertakings
+1. Non-financial undertakings shall disclose the information referred to in Article 8, paragraphs 1 and 2, of Regulation
+(EU) 2020/852 as specified in Annex Ito this Regulation.
+2. The information referred to in paragraph 1 shall be presented in tabular form by using the templates set out in Annex
+II to this Regulation.
+(4)Directive 2011/61/EU of the European Parliament and of the Council of 8 June 2011 on Alternative Investment Fund Managers and
+amending Directives 2003/41/EC and 2009/65/EC and Regulations (EC) No 1060/2009 and (EU) No 1095/2010 (OJ L 174,
+1.7.2011, p. 1).
+(5)Directive 2009/65/EC of the European Parliament and of the Council of 13 July 2009 on the coordination of laws, regulations and
+administrative provisions relating to undertakings for collective investment in transferable securities (UCITS) (OJ L 302, 17.11.2009,
+p. 32).

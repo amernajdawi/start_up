@@ -1,0 +1,26 @@
+File Name: 2_E1-6_2014-01-01_G_GHG-Agri_WRI&WBCSD.pdf
+Converted on: 2025-03-28 01:56:31
+Original Size: 1.75 MB
+Chunk Size: 400 tokens with 50 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 141 of 150
+--------------------------------------------------------------------------------
+
+company accounts for 100% of the emissions from an operation over which it has the ability to direct financial and operating policies with a view to gaining economic benefits.
+Forestry The theory and practice of all that constitutes the creation,
+conservation and scientific management of forests and the utilization
+of their resources.  
+Greenhouse gas (GHG) A gas absorbs and emits radi ation within the thermal infrared range in
+the atmosphere.  
+GHG Flux Emissions to or removals fro m the atmosphere of GHGs.
+Global warming
+potential (GWP) The change in the climate system that would result from the emission
+of one unit of a given GHG compared to one unit of CO 2.
+Harvested wood
+products (HWPs) A carbon pool  that includes all wood material (including bark) that 
+leaves the boundary of the reporting company.
+Indirect GHG emissions Emissions from sources that are owned or controlled by another
+company, but are nonetheless a con sequence of the activities of the
+reporting company.

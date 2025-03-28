@@ -1,0 +1,51 @@
+File Name: 1_2023-06-27_DelVO_2023_2486_TAXURA_EU.pdf
+Converted on: 2025-03-28 03:20:36
+Original Size: 8.44 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 194 of 199
+--------------------------------------------------------------------------------
+
+ELI: http://data.europa.eu/eli/reg_del/2023/2486/oj 146/164(m) in Section 1.2.1.4, the first paragraph is replaced by the following:
+‘Where credit institutions have a business model based to a great extent on financing public housing, they shall
+disclose a KPI concerning the proportion of exposures to public authorities financing activities in compliance
+with the relevant technical screening criteria, in particular, in accordance with Sections 7.1, 7.2, 7.3, 7.4, 7.5,
+7.6 and 7.7 of Annex I or Annex II to Delegated Regulation (EU) 2021/2139 or Sections 3.1 and 3.2 of
+Annex II to Delegated Regulation (EU) 2023/2486. This GAR shall be estimated and disclosed by the credit
+institution as a proportion of loan or debt securities exposures to municipalities financing public housing
+compliant with the relevant technical screening criteria, in particular, in accordance with Sections 7.1, 7.2, 7.3,
+7.4, 7.5, 7.6 and 7.7 of Annex I or Annex II to Delegated Regulation (EU) 2021/2139 or Sections 3.1 and 3.2
+of Annex II to Delegated Regulation (EU) 2023/2486 compared to total loans to municipalities financing
+public housing. The credit institution shall include disclosures of stock and flow.’;
+(n) in Section 1.2.1.4, the third paragraph is replaced by the following:
+‘For the financing of other activities and assets than public housing where the use of proceeds is known, credit
+institutions shall consider the gross carrying amount of those exposures, including specialised lending
+exposures, to the public authority to the extent and proportion that the lending finances a Taxonomy-aligned
+economic activity. The assessment of whether that requirement has been met shall be based on information
+provided by the public authority on the project or activities to which the proceeds will be applied. Credit
+institutions shall provide information on the type of economic activity that is funded. Double counting shall
+not be allowed. Where the same specialised lending exposure is relevant for two environmental objectives,
+credit institutions shall allocate it to the most relevant objective.’;
+(o) Section 1.2.1.6. is replaced by the following:
+‘1.2.1.6. Total GAR
+Credit institutions shall disclose information on the total GAR. This shall reflect the cumulative value of the
+exposure-based KPIs, by including in the denominator the total on-balance sheet assets without exposures
+referred to in Article 7(1) and by adding in the total numerator the numerators of environmentally sustainable
+exposures of the exposure-based KPIs:
+(a) total GAR for financing activities directed at financial undertakings, for all the environmental objectives;
+(b) total GAR for financing activities directed at non-financial undertakings, for all the environmental
+objectives;
+(c) GAR for residential real estate exposures, including house renovation loans, for the objectives of climate
+change mitigation, climate change adaptation, and circular economy;
+(d) GAR for retail car loans, for the objective of climate change mitigation;
+(e) GAR for use of proceeds financing local governments, for all the environmental objectives;
+(f) GAR for commercial and residential repossessed real estate collateral held for sale, for climate change
+objectives.
+Together with the total GAR, credit institutions shall disclose the percentage of assets that are excluded
+from the numerator of the GAR in accordance with Article 7 (2) and (3) and Section 1.1.2 of this Annex.’;
+(p) in Section 1.2.2.1, the first paragraph is replaced by the following:
+‘The green ratio for financial guarantees to undertakings shall be defined as a proportion of financial guarantees
+supporting loans and advances and debt securities financing Taxonomy-aligned economic activities compared
+to all financial guarantees supporting loans and advances and debt securities to undertakings. This shall

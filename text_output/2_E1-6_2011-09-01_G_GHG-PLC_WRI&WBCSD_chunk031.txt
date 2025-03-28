@@ -1,0 +1,83 @@
+File Name: 2_E1-6_2011-09-01_G_GHG-PLC_WRI&WBCSD.pdf
+Converted on: 2025-03-28 03:20:53
+Original Size: 3.27 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 31 of 116
+--------------------------------------------------------------------------------
+
+[41]
+CHAPTER 07 Boundary Setting
+guidance3. Identify component inputs and upstream processing
+steps necessary to create and transport the finished
+product, aligning the processes with the appropriate
+life cycle stage
+4. Identify the energy and material flows associated with
+each upstream process, including inputs that directly
+impact the product’s ability to perform its function
+(e.g., fertilizers, lubricants) and outputs such as waste
+and co-products
+5. For cradle-to-grave inventories, identify the
+downstream processing steps and energy and material
+flows needed to distribute, store, and use the studied
+product
+6. For cradle-to-grave inventories, identify the energy
+and material inputs needed for the end-of-life of the
+studied product
+Figure 7.5 illustrates the steps to develop a process map
+with a generic, simplified cradle-to-grave inventory. For a cradle-to-gate inventory, the use of the product
+is unknown and therefore the process map ends when
+the studied product is a finished intermediate product,
+typically when it leaves the production stage.  
+7.3.3  Identifying attributable processes  
+in the use and end-of-life stages
+Companies need to make assumptions about the specific
+attributable processes used to create, distribute, and sell
+the studied product as they develop their process map.
+Because the way a product is used (often referred to
+as the use profile) can vary significantly between users,
+companies often find it difficult to determine attributable
+processes for the use stage.
+The first step is to look at the functional unit definition
+for the product. The defined function, as well as the
+duration and quality of service provided by the product,
+should help identify the use profile processes. Because
+the service life does not always correspond directly to
+the use profile, companies should assume a profile that
+most accurately represents the use of their product while
+material acquisition  
+& pre-processing         production       distribution  
+      & storageuse end-of-life 
+
+processing   
+of   
+component A  
+
+production  
+process
+distribution  
+process
+use  
+process
+
+processing  
+of   
+component B
+end-of-life  
+processFigure [7.5]  Illustrative steps to developing a process map for a company that produces a final product
+material
+input Bmaterial
+input Ae e e e
+Step [1]       Identify	the	defined	life	cycle	stages
+Step [2]   Identify the studied product leaving the production gate 
+Step [3]    Identify component inputs and upstream processes
+Step [4]			Identify	directly	connected	energy	and	material	flows
+Step [5+6]   Identify	downstream	processes	and	energy/material	flowsm
+menergy inputs
+material inputs me
+attributable processesmovement of material
+through the lifecycle
+
+--- Page 44 of 148 ---

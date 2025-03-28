@@ -1,0 +1,16 @@
+File Name: 1_2023-07-31_DelVO_2023_2772_ESRS_EU.pdf
+Converted on: 2025-03-28 03:18:14
+Original Size: 5.82 MB
+Chunk Size: 500 tokens with 50 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 676 of 686
+--------------------------------------------------------------------------------
+
+(37)Directive 2000/60/EC of the European Parliament and of the Council of 23 October 2000 establishing a framework for Community
+action in the field of water policy (Water Framework Directive).
+(38)Regulation (EU) 2019/2088 on sustainability-related disclosures in the financial services sector.
+(39)Directive 2013/34/EU of the European Parliament and of the Council of 26 June 2013 on the annual financial statements,
+consolidated financial statements and related reports of certain types of undertakings, amending Directive 2006/43/EC of the
+European Parliament and of the Council and repealing Council Directives 78/660/EEC and 83/349/EEC (OJ L 182, 29.6.2013, p. 19).OJ L, 22.12.2023 EN

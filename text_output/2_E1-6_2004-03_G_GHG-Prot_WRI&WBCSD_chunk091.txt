@@ -1,0 +1,44 @@
+File Name: 2_E1-6_2004-03_G_GHG-Prot_WRI&WBCSD.pdf
+Converted on: 2025-03-28 03:20:43
+Original Size: 3.51 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 91 of 104
+--------------------------------------------------------------------------------
+
+Fixed asset investment Equipment, land, stocks, property, incorporated and non-incorporated joint ventures, and partnerships
+over which the parent company has neither significant influence nor control. (Chapter 3)
+Fugitive emissions Emissions that are not physically controlled but result from the intentional or unintentional releases
+of GHGs. They commonly arise from the production, processing transmission storage and use of fuelsand other chemicals, often through joints, seals, packing, gaskets, etc. (Chapter 4, 6)
+Green power A generic term for renewable energy sources and specific clean energy technologies that emit fewer
+GHG emissions relative to other sources of energy that supply the electric grid. Includes solar photovoltaic panels, solar thermal energy, geothermal energy, landfill gas, low-impact hydropower,and wind turbines. (Chapter 4)
+Greenhouse gases (GHG) For the purposes of this standard, GHGs are the six gases listed in the Kyoto Protocol: carbon dioxide
+(CO
+2); methane (CH4); nitrous oxide (N2O); hydrofluorocarbons (HFCs); perfluorocarbons (PFCs); and
+sulphur hexafluoride (SF6).
+GHG capture Collection of GHG emissions from a GHG source for storage in a sink.
+GHG credit GHG offsets can be converted into GHG credits when used to meet an externally imposed target.
+A GHG credit is a convertible and transferable instrument usually bestowed by a GHG program.(Chapter 8, 11)
+GHG offset Offsets are discrete GHG reductions used to compensate for (i.e., offset) GHG emissions elsewhere, for
+example to meet a voluntary or mandatory GHG target or cap. Offsets are calculated relative to abaseline that represents a hypothetical scenario for what emissions would have been in the absenceof the mitigation project that generates the offsets. To avoid double counting, the reduction givingrise to the offset must occur at sources or sinks not included in the target or cap for which it is used.
+GHG program A generic term used to refer to any voluntary or mandatory international, national, sub-national,
+government or non-governmental authority that registers, certifies, or regulates GHG emissions orremovals outside the company. e.g. CDM, EU ETS, CCX, and CCAR.
+GHG project A specific project or activity designed to achieve GHG emission reductions, storage of carbon, or
+enhancement of GHG removals from the atmosphere. GHG projects may be stand-alone projects, or specific activities or elements within a larger non-GHG related project. (Chapter 8, 11)
+GHG Protocol calculation tools A number of cross-sector and sector-specific tools that calculate GHG emissions on the basis of
+activity data and emission factors (available at www.ghgprotocol.org).
+GHG Protocol Initiative A multi-stakeholder collaboration convened by the World Resources Institute and World Business Council
+for Sustainable Development to design, develop and promote the use of accounting and reporting standards for business. It comprises of two separate but linked standards — the GHG Protocol Corporate
+Accounting and Reporting Standard and the GHG Protocol Project Quantification Standard.
+GHG Protocol Project An additional module of the GHG Protocol Initiative addressing the quantification of GHG
+Quantification Standard reduction projects. This includes projects that will be used to offset emissions elsewhere and/or
+generate credits. More information available at www.ghgprotocol.org. (Chapter 8, 11)
+GHG Protocol sector specific A GHG calculation tool that addresses GHG sources that are unique to certain sectors, e.g., process
+calculation tools emissions from aluminum production. (see also GHG Protocol Calculation tools)
+GHG public report Provides, among other details, the reporting company’s physical emissions for its chosen inventory
+boundary. (Chapter 9)
+98Glossary
+
+--- Page 101 of 116 ---

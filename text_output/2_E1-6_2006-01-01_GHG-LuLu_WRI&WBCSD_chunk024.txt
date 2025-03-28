@@ -1,0 +1,141 @@
+File Name: 2_E1-6_2006-01-01_GHG-LuLu_WRI&WBCSD.pdf
+Converted on: 2025-03-28 03:20:49
+Original Size: 6.41 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 24 of 50
+--------------------------------------------------------------------------------
+
+12.1 Descr iption oftheProject
+Inadditiontothegeneralprojectdescriptionoutlinedinthe
+ProjectProtocol,developersshouldnameandbrieflydescribe
+allthemandatoryandvoluntaryprogramsinwhichthey
+haveregisteredGHGreductionsorotheractivitiesonthe
+land,toavoiddouble-counting GHGreductionsandimprove
+transparency(includingallnon-GHGland-useormanage -
+mentincentiveprograms,suchastheU.S.Departmentof
+Agriculture’sConservationReserveProgram).
+Thereportshouldcontainmapsofboththegeographicarea
+andtheprojectsite.Italsoshouldstatethestartdateofthe
+projectandthedatewhenGHGreductionsarefirstgener -
+ated,aswellastheestimateddatethatallexpectedGHG
+reductionswillbeachieved.SincethelifeofLULUCF
+projectactivitiesmayextendbeyondthecreditingperiod,
+projectdevelopersshouldconsiderthefutureofthecarbon
+stocksandGHGremovalsandplanfortheircontinued
+monitoringandcalculation.
+12.2 TheGHGAssessmen tBoundary
+AswithotherGHGprojects,LULUCFprojectdevelopers
+shouldreportallprimaryandsignificantsecondaryeffects
+resultingfromeachprojectactivity.Iftheprojecthastwo
+projectactivities,theyandtheireffectsshouldbereported
+separatelyinordertomaintaintransparencyandaccuracy.
+12.3 Baseline CarbonStocks
+andGHGRemova lsforEachProject
+ActivityandPrimaryEffect
+Acompletelistofallthecharacteristicsusedtodefinethe
+geographicarea,temporalrange,andfinallistofbaseline
+candidatesshouldbeprovided.Whenbaselinecandidates
+andtheprojectactivityarecomparedbytheirproductor
+service—forexample,certainforestmanagementproject
+activitiessupplyingaspecificproductorservice—adescrip -
+tionoftheproductorserviceaswellasthequantity
+producedshouldbeprovided.
+Forbothprocedures(project-specific andperformance
+standard),projectdevelopersshouldreportboththetotaland
+theperunitlandareabaselinecarbonstocksandGHG
+removals,aswellthedegreeofuncertaintyoftheirestimates
+andhowthisuncertaintyisaccountedfor(e.g.,bydiscount -
+ingtotalreductions,overestimatingbaselinecarbonstocks).12.4EstimatedTotalCarbonStocks,
+GHGRemovals,andGHGReductions
+fortheGHGProject
+Projectdevelopersshouldlistallthecalculationstheyused
+toestimatetheGHGreductions,includinghowthebaseline
+carbonstocksandGHGremovalsweredetermined—for
+example,bydirectmeasurement,defaultfactors,ormodel-
+ing—aswellasanyandallassumptionsmadeusingthose
+quantificationmethods.Inaddition,projectdevelopersshould
+reportthetotalcarbonstocksfromtheprojectactivity.
+12.5MonitoringPlan
+Thereportshouldincludealltheelementsofthemonitoring
+planintheProjectProtocol’schapter10,Monitoringand
+QuantifyingGHGReductions,andtheprocessfordata
+storageandbackup.
+12.6CarbonReversibilityManagementPlan
+BecauseLULUCFprojectactivitiesarevulnerableto
+unexpectedcarbonstocklosses(e.g.,pestinfestation,fire,
+illegallogging),projectdevelopersshouldcreateaplanto
+assessandmitigatecarbonreversibilityontheprojectsite.
+Thereportshouldcontainalltheinformation,models,and
+sourcesusedtodeterminethelevelofriskaswellasthe
+intendedstepstomitigateit(foracompletelist,seechapter
+11,CarbonReversibilityManagementPlan).
+12.7AnnualMonitoring
+andGHGReductionReports
+GHGprojectssubmittedtoGHGprogramsthatgrant
+creditstoprojectdevelopersbeforetheactualGHG
+removalsoccurshouldbemonitoredandquantifiedannually
+toensurethattheGHGreductionsareactuallyachieved.
+Whenpossible,thesereductionsshouldbecalculatedor
+verifiedbyacertifiedthirdparty.CHAPTER12:ReportingGHGReductionsandTotalCarbonStocks
+59
+
+--- Page 62 of 100 ---
+
+60
+PARTIII:Example hiscasestudyillustratestheapplicationofpartIIIof
+theProjectProtocolandtheLULUCFGuidancetoa
+hypotheticalGHGproject,usingboththeproject-
+specificandtheperformancestandardproceduresto
+estimatebaselineremovals.Thesectionsinthis
+examplehavethesamenumbersasthoseofthechaptersin
+partIIoftheLULUCFGuidance.Thiscasestudyismeant
+onlyasanillustration,however;thevarioussectionsofan
+actualprojectreportmayneedadditionaldetailsorjustifica -
+tions.Furthermore,owingtospacelimitationsinthis
+document,someofthesupportingmaterials(e.g.,excel
+spreadsheetswithcalculations)andvisualshavebeen
+excludedbutcanbefoundonline.Toseeafullcopyofthis
+report,pleasevisittheGHGProtocolwebsiteat
+www.ghgprotocol.org.
+TheGHGprojectpresentedhereisanafforestationproject
+plantinghybridpoplartreesnearthetownofNipawinin
+Saskatchewan,Canada,withthetreesprovidingfeedstock
+totheNipawinEthanolPlant(NEP).
+Chapter 3:DefiningtheGHGAssessm entBoundary
+3 . 1 I D E N T I F Y I N G T H E P R O J E C T A C T I V I T I E S
+TheProjectSite
+TheprojectsiteislocatednearthetownofNipawin,asmall
+prairiecommunityofapproximately4,300peoplelocatedin
+theDarkGraysoilzoneoftheAspenParklandEcoregionin Saskatchewan,Canada.Althoughthisareaishighlysuitable
+fortreegrowth,traditionallyeitheragriculturalcrops,such
+asgrainsandoilseeds,havebeenplantedontheland
+surroundingNipawin,orithasbeenusedaspastureland.
+Theprojectsitecovers30,000haofagriculturalland
+surroundingthephysicallocationoftheNEP.
+TheProjectActivity
+Theprojectactivityischangingthelandusefromnonforest
+agriculturallandtoforest,byplantinghybridpoplartrees
+on1500ha,approximatelyonesection,oflandeachyear
+fortwentyyears.Inaccordancewiththisplantingpattern,
+thefirstsectionoflandwillbeplantedinyear1and
+harvestedandreplantedinyear21.Thisplantingpattern
+willprovidetheNEPwithenoughfeedstockfromtheproject
+sitetoproduceethanolexclusivelyfromwoodycellulosic
+biomass.Inturn,theNEPwillproduce75millionL/yrof
+fuel-gradeethanolbygasifying150,000tonnesofbiomass
+peryear.
+3 . 2 I D E N T I F Y I N G P R I M A RY E F F E C T S
+Theprimaryeffect istheincreasedremovalsandstorageof
+CO 2bymeansofbiologicalprocesses,particularlyintrees
+andsoil.
+Toestimatethemagnitudeoftheprimaryeffect,the
+changesinthecarbonstoredinallrelevantcarbonpoolsare
+considered,includinglivingbiomass,deadbiomass,and
+soils.Above-andbelowgroundlivingbiomassandsoil
+carbonwillincreaseasaresultoftheprojectactivityand,NipawinAfforestationProject
+T
+
+--- Page 63 of 100 ---

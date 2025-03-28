@@ -1,0 +1,43 @@
+File Name: 2_E1-6_2006-01-01_GHG-LuLu_WRI&WBCSD.pdf
+Converted on: 2025-03-28 03:18:22
+Original Size: 6.41 MB
+Chunk Size: 500 tokens with 50 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 82 of 88
+--------------------------------------------------------------------------------
+
+GHGEmissions,November19–21,Raleigh,N.C.
+Cairns,M.A.,S.Brown,E.H.Helmer,andG.A.
+Baumgardner.1997.RootBiomassAllocationinthe
+World’sUplandForests.Oecologia 111:1–11.
+Guo,L.B.,andR.M.Gifford.2002.SoilCarbonStocksand
+LandUseChange:AMeta-Analysis.GlobalChangeBiology
+8:345–60.
+Hamburg,S.P.2000.SimpleRulesforMeasuringChanges
+inEcosystemCarboninForestry-OffsetProjects.Mitigation
+andAdaptationStrategiesforGlobalChange 5:25–37.
+Harmon,M.E.,andJ.Sexton.1996.Guidelinesfor
+MeasurementsofWoodyDetritusinForestEcosystems.US
+LTERPublicationno.20.Seattle:USLTERNetwork
+Office,UniversityofWashington.
+IntergovernmentalPanelonClimateChange(IPCC).1997.
+Revised1996IPCCGuidelinesforNationalGreenhouse
+GasInventories,editedbyJ.T.Houghtonetal.Bracknell:
+U.K.MeteorologicalOffice,IPCC/OECD/IEA.
+Lal,R.,J.M.Kimble,R.F.Follett,andB.A.Stewart(Eds.).
+2000.AssessmentMethodsforSoil
+Carbon.BocaRaton:LewisPublishers.696p.
+Malhi,Y.,D.D.Baldocchi,andP.G.Jarvis.1999.The
+CarbonBalanceofTropical,TemperateandBorealForests.
+PlantCellandEnvironment 22:715–40.
+Noriega,F.R.2002.ModelingDeforestationBaselines
+UsingLUCSfortheNoelKempff,Guaraquecaba,and
+ChiapasRegions.SubmittedtoWinrockInternational.
+Tipper,R.,andB.H.deJong.1998.Quantificationand
+RegulationofCarbonOffsetsfromForestry:Comparisonof
+AlternativeMethodologies,withSpecialReferenceto
+Chiapas,Mexico.CommonwealthForestryReview
+77(3):219–28.
+PARTIV:References 92

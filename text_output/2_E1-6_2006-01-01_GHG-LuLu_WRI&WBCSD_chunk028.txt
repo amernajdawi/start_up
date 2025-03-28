@@ -1,0 +1,117 @@
+File Name: 2_E1-6_2006-01-01_GHG-LuLu_WRI&WBCSD.pdf
+Converted on: 2025-03-28 03:20:49
+Original Size: 6.41 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 28 of 50
+--------------------------------------------------------------------------------
+
+( i . e . , thoseidentifiedinsection5 . 5 ) are : • BaselineCandidate1 : Commercialcroplandassuming zero - tillage . Thisrepresentsthecontinuationof currentactivities . • BaselineCandidate2 : Tamepastureland , assuming improvedmanagementoftamepasture . • BaselineCandidate3 : TheAl - Pachybridpoplarforest . • BaselineCandidate4 : Commercial , residential , and farmhousedevelopment . • ProjectActivity : TheNEPhybridpopularforest . Notethatbaselinecandidate3andtheprojectactivitywill beconsideredtogetherinthecomparativeassessmentof barriers , asthebarriersareperceivedtobesimilarinboth cases , despitethedifferencesbetweentheprojects . 6 . 1 . 1 IDENTIFYINGBARRIE RSTOTHEPROJE CT ACTIVITYANDBASELINECANDID ATES Theanticipatedbarrierstotheprojectactivityandbaseline candidatesarelistednext . Credibleandjustifiabledatafor eachbarriercategoryshouldbeprovidedtosupporteach claim . Inthisexample , forthesakeofbrevity , therequired supportingdata ( e . g . , locallaborstatisticsindicatingthe lackofpossiblemaintenancepersonnel ) arenotprovided . EXAMPLE : NipawinAfforestationProject 65
+
+--- Page 68 of 100 ---
+
+Thefollowingbarriercategorieswereconsidered:
+1 . Financialandbudgetary
+•Commercialcropland:Nofinancialorbudgetary
+barrierswereidentified.
+•Tamepastureland:Financialandbudgetary
+barrierswereidentified.Becausemostpasture -
+landismarginalagriculturalland,anyconversion
+ofcommercialcroplandtopasturewouldlower
+farmincome.
+•Hybridpoplarforest:Highperceivedrisksare
+barrierstothisbaselinecandidate,first,therisk
+associatedwithreducedproductivityduetofire
+andinsectdiseaseoutbreaks 6and,second,therisk
+relatedtotheunprovenbusinessmodelandthe
+longlagtimebetweenup-frontexpendituresand
+therevenuestreamfortreeplantations.
+•Development:Ahighperceivedriskisabarrierto
+thisbaselinecandidate.Thatis,commercialor
+residentialdevelopmentrequiresdevelopersto
+purchaselandfromaprivatelandowner(cost)as
+wellastoassumetheriskofthesefinancialinfra -
+structuralinvestments.Farmhousedevelopment
+requiresafinancialinvestmentbythelandowner,
+althoughthelevelofinvestmentisnotsohighas
+thatforcommercialorresidentialdevelopment.
+2 . Technologyoperationandmaintenance
+•Commercialcropland:Notechnologyoperation
+andmaintenancebarrierswereidentified.
+•Tamepastureland:Notechnologyoperationand
+maintenancebarrierswereidentified.
+•Hybridpoplarforest:Thelackoftrainedpersonnel
+isabarrier.Becausehybridpoplarplantationsare
+newintheregion,therearefewtrainedpersonnel
+capableofmaintaining,operating,ormanaging
+suchplantations.Inaddition,landownersdonot
+knowhowtogrowthistreecropspecies.
+•Development:Thelackofmaintenancepersonnelis
+abarrier.Landdevelopmentrequiresequipment,
+building,infrastructure,and/orlandmaintenance,
+andtheregionhasalimitedmaintenance
+workforce.
+3 . Infrastructure
+•Commercialcropland:Noinfrastructurebarriers
+wereidentified.
+•Tamepastureland:Noinfrastructurebarrierswere
+identified.
+•Hybridpoplarforest:Noinfrastructurebarriers
+wereidentified.
+•Development:Infrastructurebarrierswereidentified
+fordevelopmentbecausebuildingsupplieswould needtobesourcedandpurchased,andentirenew
+structureswouldneedtobebuilt.Inaddition,the
+potentialimpactofdevelopmentintheprojectarea
+(i.e.,30,000ha)wouldbeminimalbecausethe
+amountofdevelopmentrelativetothesizeofthe
+projectareawouldbenegligible.
+4 . Marketstructure
+•Commercialcropland:Nomarketstructurebarri-
+erswereidentified.
+•Tamepastureland:Nomarketstructurebarriers
+wereidentified.Pasturelandiseitherusedbythe
+landownerorrentedtoneighboringfarmers.
+•Hybridpoplarforest:Marketstructurebarriersdo
+exist,asthereiscurrentlynomarketforwoody
+biomassintheregion.However,theNipawinEthanol
+Plantisexpectedtobuyallbiomassproducedby
+thepoplarplantationsforethanolfeedstock.
+•Development:Marketsrelatedtocommercial,
+residential,andfarmhousedevelopmentsare
+relativelyunknown.Ingeneral,however,thearea’s
+populationhasnotbeenexpandingquickly,sothere
+isnotalargedemandfornewresidentialareasor
+commercialgoodsand,therefore,development.
+5 . Institutional/social/cultural/political
+•Commercialcropland:Noinstitutional,social,
+cultural,orpoliticalbarrierswereidentified.
+•Tamepastureland:Nosocial,cultural,etc.,barriers
+wereidentified.
+•Hybridpoplarforest:Socialandculturalbarriers
+wereidentified.Becauseresidentsoftheareahave
+beencommerciallygrowingcropsforthelastone
+hundredyears,someofthemareresistantto
+convertingagriculturallandtopoplarplantations.
+Furthermore,inthepast,agriculturalsoilsclassi-
+fiedasDarkGrayLuvisolswereclearedoftrees
+foragriculture,solandownersarereluctantto
+planttreesonlandthattheirancestors worked
+hardtoclear.Thereisalsoapublicperceptionthat
+treeplantationscompetewithfoodproduction.
+•Development:Potentialinstitutionalandpolitical
+barrierswereidentified.Anycommercialorresiden -
+tialdevelopmentmustcomplywithzoninglaws.
+6 . Resourceavailability
+•Commercialcropland:Noresourceavailability
+barrierswereidentified.
+•Tamepastureland:Noresourceavailabilitybarri-
+erswereidentified.
+•Hybridpoplarforest:Barrierstoresourceavail-
+abilitywereidentified,thatis,concernsabout
+seedlingavailabilityandnurserycapacityin
+meetingthedemandforplantingstock.
+EXAMPLE :NipawinAfforestationProject 66
+
+--- Page 69 of 100 ---

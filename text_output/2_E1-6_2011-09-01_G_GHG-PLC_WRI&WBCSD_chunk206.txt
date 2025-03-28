@@ -1,0 +1,71 @@
+File Name: 2_E1-6_2011-09-01_G_GHG-PLC_WRI&WBCSD.pdf
+Converted on: 2025-03-28 03:18:25
+Original Size: 3.27 MB
+Chunk Size: 500 tokens with 50 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 206 of 226
+--------------------------------------------------------------------------------
+
+[129]
+Table [C.1]  Data management plan checklist (continued)
+Component Information Rationale
+• Data sources where better quality
+data is preferable and plan for how to
+improve that dataIdentifies where data sources should
+be improved over time (e.g., needed
+emissions for laptop computer but
+could only obtain desktop computer
+information), including those suppliers
+who were asked to provide data and
+those that were not
+• Criteria used to determine when
+an inventory is to be re-evaluated,
+including the relevant information,
+changes to the system to be tracked
+over time, and how these changes
+should be trackedThis allows data and information
+sources to be tracked and compared
+over time. It may also involve
+identifying a system (e.g., document
+tracking and identification system) to
+ensure data and information is easily
+located and under what conditions
+this information/data was used  
+or collected
+• Calculation methodologies used
+(and references). This includes
+documenting where the calculation
+methodology for any data used was
+not available.Provides internal auditors, assurance
+providers, and those doing future
+product inventories with details on
+how emissions were calculated
+Inventory results
+calculations• Calculation methodologies and
+changes in methodologies over timeNoting methodological changes allows
+for easier baseline recalculation when
+tracking inventory improvements
+• GWP values used Allows for consistency over time
+Performance tracking • When tracking performance, details
+of the base inventory adjustment
+policyPrescribes clearly a trigger for
+adjusting a base inventory enabling
+tracking of performance over time
+Data storage  
+procedures• How and where data is stored Allows information to be easily located
+• Length of time data is to be archived Keeps a record of how long
+information is stored to prevent
+looking for information that is no
+longer kept
+• Backup procedures Ensures backup procedures are
+implemented
+QA/QC procedures • QA/QC procedures used  
+(see table C.2 for detailed guidance)Ensures that adequate processes are
+in place to check data collection, input
+and handling, data documentation, and
+emissions calculationsData summary
+(continued)Appendix C. Data Management Plan
+
+--- Page 132 of 148 ---

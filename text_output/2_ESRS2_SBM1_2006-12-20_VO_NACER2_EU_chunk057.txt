@@ -1,0 +1,50 @@
+File Name: 2_ESRS2_SBM1_2006-12-20_VO_NACER2_EU.pdf
+Converted on: 2025-03-28 03:18:28
+Original Size: 0.17 MB
+Chunk Size: 500 tokens with 50 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 57 of 78
+--------------------------------------------------------------------------------
+
+n.e.c. : not elsewhere classified * part of
+Division Group ClassISIC
+Rev. 4
+95 Repair of computers and personal and household goods
+95.1 Repair of computers and communication equipment
+95.11 Repair of computers and peripheral equipment 951195.12 Repair of communication equipment 9512
+95.2 Repair of personal and household goods
+95.21 Repair of consumer electronics 9521
+95.22 Repair of household appliances and home and garden equipment 9522
+95.23 Repair of footwear and leather goods 952395.24 Repair of furniture and home furnishings 9524
+95.25 Repair of watches, clocks and jewellery 9529*
+95.29 Repair of other personal and household goods 9529*
+96 Other personal service activities
+96.0 Other personal service activities
+96.01 Washing and (dry-)cleaning of textile and fur products 960196.02 Hairdressing and other beauty treatment 9602
+96.03 Funeral and related activities 9603
+96.04 Physical well-being activities 9609*96.09 Other personal service activities n.e.c. 9609*
+SECTION T —ACTIVITIES OF HOUSEHOLDS AS EMPLOYERS;
+UNDIFFERENTIATED GOODS- AND SERVICES-PRODUCING
+ACTIVITIES OF HOUSEHOLDS FOR OWN USE
+97 Activities of households as employers of domestic personnel
+97.0 Activities of households as employers of domestic personnel
+97.00 Activities of households as employers of domestic personnel 9700
+98 Undifferentiated goods- and services-producing activities of private
+households for own use
+98.1 Undifferentiated goods-producing activities of private households for
+own use
+98.10 Undifferentiated goods-producing activities of private households for
+own use9810
+98.2 Undifferentiated service-producing activities of private households for
+own use
+98.20 Undifferentiated service-producing activities of private households for
+own use9820
+SECTION U —ACTIVITIES OF EXTRATERRITORIAL ORGANISA-
+TIONS AND BODIES
+99 Activities of extraterritorial organisations and bodies
+99.0 Activities of extraterritorial organisations and bodies
+99.00 Activities of extraterritorial organisations and bodies 990030.12.2006 EN Official Journal of the European Union L 393/27
+
+--- Page 28 of 39 ---

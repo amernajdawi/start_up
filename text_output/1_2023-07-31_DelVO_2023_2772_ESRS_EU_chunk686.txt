@@ -1,0 +1,35 @@
+File Name: 1_2023-07-31_DelVO_2023_2772_ESRS_EU.pdf
+Converted on: 2025-03-28 03:18:14
+Original Size: 5.82 MB
+Chunk Size: 500 tokens with 50 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 686 of 686
+--------------------------------------------------------------------------------
+
+--- Page 284 of 284 ---
+
+ELI: http://data.europa.eu/eli/reg_del/2023/2772/oj 284/284Work-life balance Satisfactory state of equilibrium between an individual’s work and private
+life. Work-life balance in a broader sense encompasses not only the
+balance between work and private life given family or care responsibilities,
+but also time allocation between time spent at work and in private life
+beyond family responsibilities.
+Work-related hazards Work-related hazards can be:
+i. physical (e.g., radiation, temperature extremes, constant loud noise,
+spills on floors or tripping hazards, unguarded machinery, faulty
+electrical equipment);
+ii. ergonomic (e.g., improperly adjusted workstations and chairs, awkward movements, vibration);
+iii. chemical (e.g., exposure to carcinogens, mutagens, reprotoxic substances, solvents, carbon monoxide, or pesticides);
+iv. biological (e.g., exposure to blood and bodily fluids, fungi, bacteria, viruses, or insect bites);
+v. psychosocial (e.g., verbal abuse, harassment, bullying);
+vi. related to work-organisation (e.g., excessive workload demands, shift
+work, long hours, night work, workplace violence).
+Work-related incident Occurrence arising out of or in the course of work that could or does result in injury or ill health. Incidents might be due to, for example, electrical
+problems, explosion, fire, overflow, overturning, leakage, flow, breakage, bursting, splitting, loss of control, slipping, stumbling and falling, body
+movement without stress, body movement under/with stress, shock, fright,
+workplace violence or harassment (e.g., sexual harassment).
+An incident that results in injury or ill health is often referred to as an
+‘accident’. An incident that has the potential to result in injury or ill health
+but where none occurs is often referred to as a ‘close call’, ‘near-miss’, or
+‘near-hit’.OJ L, 22.12.2023 EN

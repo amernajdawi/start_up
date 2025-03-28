@@ -1,0 +1,52 @@
+File Name: 1_2023-07-31_DelVO_2023_2772_ESRS_EU.pdf
+Converted on: 2025-03-28 03:20:41
+Original Size: 5.82 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 46 of 284
+--------------------------------------------------------------------------------
+
+ELI: http://data.europa.eu/eli/reg_del/2023/2772/oj 47/28432. The main aspects and steps of due diligence referred to under ESRS 1 chapter 4 Due diligence are related to a number
+of cross-cutting and topical Disclosure Requirements under the ESRS. The undertaking shall provide a mapping that
+explains how and where its application of the main aspects and steps of the due diligence process are reflected in its
+sustainability statement, to allow a depiction of the actual practices of the undertaking with regard to due
+diligence (15).
+33. This disclosure requirement does not mandate any specific behavioural requirements with regard to due diligence
+actions and does not extend or modify the role of administrative, management and supervisory bodies as
+mandated by other legislation or regulation.
+Disclosure Requirement GOV–5 - Risk management and internal controls over sustainability reporting
+34. The undertaking shall disclose the main features of its risk management and internal control system in
+relation to the sustainability reporting process.
+35. The objective of this Disclosure Requirement is to provide an understanding of the undertaking’s risk management
+and internal control processes in relation to sustainability reporting.
+36. The undertaking shall disclose the following information:
+(a) the scope, main features and components of the risk management and internal control processes and systems in
+relation to sustainability reporting;
+(b) the risk assessment approach followed, including the risk prioritisation methodology;
+(c) the main risks identified and their mitigation strategies including related controls;
+(d) a description of how the undertaking integrates the findings of its risk assessment and internal controls as regards
+the sustainability reporting process into relevant internal functions and processes; and
+(e) a description of the periodic reporting of the findings referred to in point (d) to the administrative, management
+and supervisory bodies.
+3. Strategy
+37. This chapter sets disclosure requirements that enable an understanding of:
+(a) the elements of the undertaking’s strategy that relate to or affect sustainability matters, its business model and
+its value chain;
+(b) how the interests and views of the undertaking’s stakeholders are taken into account by the undertaking’s
+strategy and business model; and
+(c) the outcome of the undertaking’s assessment of material impacts, risks and opportunities, including how they
+inform its strategy and business model.
+Disclosure Requirement SBM-1 – Strategy, business model and value chain
+38. The undertaking shall disclose the elements of its strategy that relate to or impact sustainability matters, its
+business model and its value chain.
+39. The objective of this Disclosure Requirement is to describe the key elements of the undertaking’s general strategy that
+relate to or affect sustainability matters, and the key elements of the undertaking’s business model and value chain,
+in order to provide an understanding of its exposure to impacts, risks and opportunities and where they originate.
+(15)This information supports the information needs of financial market participants subject to Regulation (EU) 2019/2088 because it is
+derived from an additional indicator related to principal adverse impacts as set out by indicator #10 in Table III of Annex I of
+Commission Delegated Regulation (EU) 2022/1288 with regard to disclosure rules on sustainable investments (“Lack of due
+diligence”).OJ L, 22.12.2023 EN  
+
+--- Page 48 of 284 ---

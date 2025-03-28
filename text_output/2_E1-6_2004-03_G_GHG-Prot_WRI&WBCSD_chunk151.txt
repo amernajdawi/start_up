@@ -1,0 +1,19 @@
+File Name: 2_E1-6_2004-03_G_GHG-Prot_WRI&WBCSD.pdf
+Converted on: 2025-03-28 03:18:16
+Original Size: 3.51 MB
+Chunk Size: 500 tokens with 50 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 151 of 225
+--------------------------------------------------------------------------------
+
+usually not required (see step 4)
+•May increase the comparability of GHG performance among companies
+Disadvantages
+•No guarantee that GHG emissions to the atmosphere will be
+reduced—absolute emissions may rise even if intensity goesdown and output increases
+•Companies with diverse operations may find it difficult to define
+a single common business metric
+•If a monetary variable is used for the business metric, such as
+dollar of revenue or sales, it must be recalculated for changes inproduct prices and product mix, as well as inflation, addingcomplexity to the tracking process

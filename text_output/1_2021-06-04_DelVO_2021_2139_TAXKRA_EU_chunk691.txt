@@ -1,0 +1,43 @@
+File Name: 1_2021-06-04_DelVO_2021_2139_TAXKRA_EU.pdf
+Converted on: 2025-03-28 03:18:03
+Original Size: 2.76 MB
+Chunk Size: 500 tokens with 50 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 691 of 966
+--------------------------------------------------------------------------------
+
+(b) for all other activities, the assessment is performed using the highest available resolution, state-of-the-art
+climate projections across the existing range of future scenarios (  358  ) consistent with the expected lifetime 
+of the activity, including, at least, 10 to 30 year climate projections scenarios for major investments.
+3. The climate projections and assessment of impacts are based on best practice and available guidance and
+take into account the state-of-the-art science for vulnerability and risk analysis and related methodologies in line
+with the most recent Intergovernmental Panel on Climate Change reports (  359  ), scientific peer-reviewed 
+publications and open source (  360  ) or paying models. 
+4. The adaptation solutions implemented:
+(a) do not adversely affect the adaptation efforts or the level of resilience to physical climate risks of other people,
+of nature, of cultural heritage, of assets and of other economic activities;
+(b) favour nature-based solutions (  361  ) or rely on blue or green infrastructure (  362  ) to the extent possible; 
+(c) are consistent with local, sectoral, regional or national adaptation plans and strategies;
+(d) are monitored and measured against pre-defined indicators and remedial action is considered where those
+indicators are not met;
+(e) where the solution implemented is physical and consists in an activity for which technical screening criteria
+have been specified in this Annex, the solution complies with the do no significant harm technical screening
+criteria for that activity.  
+Do no significant harm (‘DNSH’)  
+(1) Climate change mitigation  The direct GHG emissions of the activity are lower than 270 g CO  2 e/kWh.  
+(3) Sustainable use and protection of
+water and marine resources  The activity complies with the criteria set out in Appendix B to this 
+Annex.  
+(4) Transition to a circular economy  N/A  
+(5) Pollution prevention and control  Emissions are within or lower than the emission levels associated with the 
+best available techniques (BAT-AEL) ranges set out in the latest relevant
+best available techniques (BAT) conclusions, including the best available
+techniques (BAT) conclusions for large combustion plants (  363  ). No 
+significant cross-media effects occur.  
+_____________
+( 358  ) Future scenarios include Intergovernmental Panel on Climate Change representative concentration pathways RCP2.6, RCP4.5, 
+RCP6.0 and RCP8.5.
+( 359  ) Assessments Reports on Climate Change: Impacts, Adaptation and Vulnerability, published periodically by the Intergovernmental  
+Panel on Climate Change (IPCC), the United Nations body for assessing the science related to climate change produces,

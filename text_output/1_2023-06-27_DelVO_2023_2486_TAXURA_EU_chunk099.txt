@@ -1,0 +1,60 @@
+File Name: 1_2023-06-27_DelVO_2023_2486_TAXURA_EU.pdf
+Converted on: 2025-03-28 03:20:36
+Original Size: 8.44 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 99 of 199
+--------------------------------------------------------------------------------
+
+--- Page 69 of 164 ---
+
+ELI: http://data.europa.eu/eli/reg_del/2023/2486/oj 69/164(d) supporting optimisation and intensification of the use of products, through circular business models such as providing
+products as a service or peer-to-peer sharing.
+4.For lifecycle assessment software, at least one of the following capabilities specified in points (a) to (c) is met in its full
+scope:
+(a) supporting the life cycle assessment of products, equipment or infrastructure with software-implemented methods and
+algorithms according to relevant standards such as Recommendation (EU) 2021/2279, ISO 14067:2018 (154)or ISO
+14040:2006 (155);
+(b) providing data required for lifecycle analysis, such as standard carbon emission values and other environmental impacts
+for frequently used products and materials or production steps;
+(c) providing recommendations for improving the design of a product, equipment, or infrastructure so as to minimise
+their material and carbon footprint.
+5.For design and engineering software, at least one of the following capabilities specified in points (a) to (e) is met in its full
+scope:
+(a) supporting users to formulate, document and manage product-specific circularity and other environmental design
+goals and requirements, such as design-for-remanufacturability, design-for-serviceability, minimal environmental
+impact from using or operating the product, minimal waste during production or construction and tailored
+production to eliminate over-specification and reduce material inputs;
+(b) supporting users to explore product designs for the purpose of assessing and optimising product designs against specified circular or other environmental objectives, or finding the best trade-off between conflicting design goals,
+such as robustness v material use, greener material v costing or installing schedule or cost of downstream reuse and
+recycling systems;
+(c) validating a design through analysis and simulation against specified circularity and other environmental design goals
+and requirements;
+(d) supporting the computer-aided product design process – including mechanical, electrical, electronic or recipe design –
+with data and information about the impact of design and construction decisions on circularity and environmental
+performance;
+(e) supporting the selection of materials and components with a low environmental impact through the provision of data
+about market-available materials and components and their cost.
+6.For supplier management software, at least one of the following capabilities specified in points (a) to (e) is met in its full
+scope:
+(a) providing the user with information about suppliers and supplies of circular products, immediate products,
+components and materials that are designed for closed loop systems, reuse, remanufacturing or repurposing. The
+information provided exceeds the minimum information requirements in existing Union law (
+156);
+(b) supporting the management and tracking suppliers’ compliance with standards and certifications related to the
+provision of such materials, products, and components;
+(c) supporting the exchange with suppliers of data required to verify the environmental performance of supplied materials,
+products, and components;
+(d) supporting the trading and matchmaking between suppliers and purchasers of circular, eco-designed or otherwise eco-
+friendly products, materials, and components;
+(154)ISO standard 14067:2018, Greenhouse gases – Carbon footprint of products – Requirements and guidelines for quantification
+(version of 27.6.2023: https://www.iso.org/standard/71206.html).
+(155)ISO standard 14040:2006, Environmental management – Life cycle assessment – Principles and framework (version of 27.6.2023:
+https://www.iso.org/standard/37456.html).
+(156)Minimum information include energy labelling requirements under Union’s energy labelling framework regulation, information
+under the scope of Regulation (EC) No 1272/2008, information on the Substances of Very High Concern in articles as such or in
+complex objects (Products) established under Directive 2008/98/EC or information on safety or warranty.OJ L, 21.11.2023 EN  
+
+--- Page 70 of 164 ---

@@ -1,0 +1,47 @@
+File Name: 2_E1-6_2004-03_G_GHG-Prot_WRI&WBCSD.pdf
+Converted on: 2025-03-28 03:20:43
+Original Size: 3.51 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 94 of 104
+--------------------------------------------------------------------------------
+
+Renewable energy Energy taken from sources that are inexhaustible, e.g. wind, water, solar, geothermal energy, and biofuels.
+Reporting Presenting data to internal management and external users such as regulators, shareholders, the
+general public or specific stakeholder groups. (Chapter 9)
+Reversibility of reductions This occurs when reductions are temporary, or where removed or stored carbon may be returned to the
+atmosphere at some point in the future. (Chapter 8)
+Rolling base year The process of shifting or rolling the base year forward by  a certain number of years at regular inter-
+vals of time. (Chapter 5, 11)
+Scientific Uncertainty Uncertainty that arises when the science of the actual emission and/or removal process is not
+completely understood. (Chapter 7)
+Scope Defines the operational boundaries in relation to indirect and direct GHG emissions. (Chapter 4)
+Scope 1 inventory A reporting organization’s direct GHG emissions. (Chapter 4)
+Scope 2 inventory A reporting organization’s emissions associated with the generation of electricity, heating/ cooling, or
+steam purchased for own consumption. (Chapter 4)
+Scope 3 inventory A reporting organization’s indirect emissions other than those covered in scope 2. (Chapter 4)
+Scope of works An up-front specification that indicates the type of verification to be undertaken and the level of
+assurance to be provided between the reporting company and the verifier during the verificationprocess. (Chapter 10)
+Secondary effects (Leakage) GHG emissions changes resulting from the project not captured by the primary effect(s). These are
+typically the small, unintended GHG consequences of a project. (Chapter 8)
+Sequestered atmospheric carbon Carbon removed from the atmosphere by biological sinks and stored in plant tissue. Sequestered
+atmospheric carbon does not include GHGs captured through carbon capture and storage.
+Significance threshold A qualitative or quantitative criteria used to define a significant structural change. It is the responsi-
+bility of the company/ verifier to determine the “significance threshold” for considering base yearemissions recalculation. In most cases the “significance threshold” depends on the use of the infor-mation, the characteristics of the company, and the features of structural changes. (Chapter 5)
+Stationary Combustion Burning of fuels to generate electricity, steam, heat, or power in stationary equipment such as boilers,
+furnaces etc.
+Structural change A change in the organizational or operational boundaries of a company that result in the transfer of
+ownership or control of emissions from one company to another. Structural changes usually resultfrom a transfer of ownership of emissions, such as mergers, acquisitions, divestitures, but can alsoinclude outsourcing/ insourcing. (Chapter 5)
+Target base year The base year used for defining a GHG target, e.g. to reduce CO
+2emissions 25% below the target base
+year levels by the target base year 2000 by the year 2010. (Chapter 11)
+Target boundary The boundary that defines which GHG’s, geographic operations, sources and activities are covered by
+the target. (Chapter 11)
+Target commitment period The period of time during which emissions performance is actually measured against the target. It
+ends with the target completion date. (Chapter 11)
+Target completion date The date that defines the end of the target commitment period and determines whether the target is
+relatively short- or long-term. (Chapter 11)GLOSSARY 101
+
+--- Page 104 of 116 ---

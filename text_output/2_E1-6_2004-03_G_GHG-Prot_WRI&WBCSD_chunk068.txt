@@ -1,0 +1,55 @@
+File Name: 2_E1-6_2004-03_G_GHG-Prot_WRI&WBCSD.pdf
+Converted on: 2025-03-28 03:20:43
+Original Size: 3.51 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 68 of 104
+--------------------------------------------------------------------------------
+
+This chapter provides guidance on the process of setting
+and reporting on a corporate GHG target. Although the chapter focuses on emissions, many of the consid-erations equally apply to GHG sequestration (see Appendix B). It is not the purpose of this chapter toprescribe what a company’s target should be, rather thefocus is on the steps involved, the choices to be made,and the implications of those choices.
+Why Set a GHG Target?
+Any robust business strategy requires setting targets forrevenues, sales, and other core business indicators, aswell as tracking performance against those targets.Likewise, effective GHG management involves setting a GHG target. As companies develop strategies to reducethe GHG emissions of their products and operations,
+corporate-wide GHG targets are often key elements ofthese efforts, even if some parts of the company are or will be subject to mandatory GHG limits. Commondrivers for setting a GHG target include:
+
+MINIMIZING AND MANAGING GHG RISKS
+While developing a GHG inventory is an important
+step towards identifying GHG risks and opportunities,a GHG target is a planning tool that can actually driveGHG reductions. A GHG target will help raise internalawareness about the risks and opportunities presentedby climate change and ensure the issue is on the busi-ness agenda. This can serve to minimize and moreeffectively manage the business risks associated withclimate change.
+
+ACHIEVING COST SAVINGS
+AND STIMULATING INNOVATION
+Implementing a GHG target can result in cost savings
+by driving improvements in process innovation andresource efficiency. Targets that apply to products candrive R&D, which in turn creates products and serv-ices that can increase market share and reduceemissions associated with the use of products.
+
+PREPARING FOR FUTURE REGULATIONS
+Internal accountability and incentive mechanisms that
+are established to support a target’s implementationcan also equip companies to respond more effectivelyto future GHG regulations. For example, some compa-nies have found that experimenting with internal GHGtrading programs has allowed them to better under-stand the possible impacts of future trading programson the company. CHAPTER 11 Setting a GHG Target 75GUIDANCE
+➡FIGURE 12. Steps in setting a GHG target➡➡ ➡ ➡ ➡➡ · ➡1. Obtain senior management commitment
+2. Decide on the target type
+Set an absolute or intensity target?
+3. Decide on the target boundary
+Which GHGs to include?
+Which direct and indirect emissions?
+Which geographical operations?
+Treat business types separately?
+4. Choose the target base year
+Use a fixed or rolling approach?
+Use a single or multi-year approach?
+5. Define the target completion date
+Set a long- or short-term target?
+6. Define the length of the target commitment period
+Set a one-year or multi-year commitment period?
+7. Decide on the use of offsets or credits
+8. Establish a target double counting policy
+How to deal with double counting of reductions across companies?
+How does GHG trading affect target performance?
+9. Decide on the target level
+What is business-as-usual? How far to go beyond that?
+How do all the above steps influence the decision?
+10. Track and report progress
+Make regular performance checks
+Report information in relation to the target
+
+--- Page 78 of 116 ---

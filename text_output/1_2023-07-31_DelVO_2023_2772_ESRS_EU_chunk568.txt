@@ -1,0 +1,38 @@
+File Name: 1_2023-07-31_DelVO_2023_2772_ESRS_EU.pdf
+Converted on: 2025-03-28 03:18:14
+Original Size: 5.82 MB
+Chunk Size: 500 tokens with 50 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 568 of 686
+--------------------------------------------------------------------------------
+
+ELI: http://data.europa.eu/eli/reg_del/2023/2772/oj 237/28424. The objective of this Disclosure Requirement is to enable an understanding of the formal means by which consumers
+and/or end-users can make their concerns and needs known directly to the undertaking, and/or through which the
+undertaking supports the availability of such channels (for example, grievance mechanisms) by its business
+relationships, how follow up is performed with these consumers and/or end-users regarding the issues raised, and
+the effectiveness of these channels.
+25. The undertaking shall describe:
+(a) its general approach to and processes for providing or contributing to remedy where it has identified that it has
+caused or contributed to a material negative impact on consumers and/or end-users, including whether and
+how the undertaking assesses that the remedy provided is effective;
+(b) any specific channels it has in place for consumers and/or end-users to raise their concerns or needs directly with
+the undertaking and have them addressed, including whether these are established by the undertaking
+itself and/or through participation in third-party mechanisms;
+(c) the processes through which the undertaking supports or requires the availability of such channels by its business
+relationships; and
+(d) how it tracks and monitors issues raised and addressed, and how it ensures the effectiveness of the channels,
+including through involvement of stakeholders who are the intended users.
+26. The undertaking shall disclose whether and how it assesses that consumers and/or end-users are aware of and trust
+these structures or processes as a way to raise their concerns or needs and have them addressed. In addition, the
+undertaking shall disclose whether it has policies in place to protect individuals from retaliation when they use such
+structures or processes. If such information has been disclosed in accordance with ESRS G1-1, the undertaking may
+refer to that information.
+27. If the undertaking cannot disclose the above required information because it has not adopted a channel for raising
+concerns and/or does not support the availability of mechanisms by its business relationships, it shall disclose this to
+be the case. It may disclose a timeframe in which it aims to have such a channel or processes in place.
+Disclosure Requirement S4-4 – Taking action on material impacts on consumers and end- users, and approaches to
+managing material risks and pursuing material opportunities related to consumers and end-users, and effectiveness of
+those actions
+28. The undertaking shall disclose how it takes action to address material impacts on consumers and end-users,

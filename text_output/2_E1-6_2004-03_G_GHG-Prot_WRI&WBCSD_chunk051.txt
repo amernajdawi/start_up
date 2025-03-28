@@ -1,0 +1,40 @@
+File Name: 2_E1-6_2004-03_G_GHG-Prot_WRI&WBCSD.pdf
+Converted on: 2025-03-28 03:20:43
+Original Size: 3.51 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 51 of 104
+--------------------------------------------------------------------------------
+
+For these reasons, almost all comprehensive estimates of
+uncertainty for GHG inventories will be not only imper-fect but also have a
+subjective component and, despite
+the most thorough efforts, are themselves consideredhighly uncertain. In most cases, uncertainty estimatescannot be interpreted as an objective measure of quality.Nor can they be used to compare the quality of emissionestimates between source categories or companies.
+Exceptions to this include the following cases in which it
+is assumed that either statistical or instrument precisiondata are available to objectively estimate each para-meter’s statistical uncertainty (i.e., expert judgment isnot needed):
+When two operationally similar facilities use identical
+emission estimation methodologies, the differences inscientific or model uncertainties can, for the mostpart, be ignored. Then quantified estimates of statis-tical uncertainty can be treated as being comparablebetween facilities. This type of comparability is what isaimed for in some trading programs that prescribespecific monitoring, estimation, and measurementrequirements. However, even in this situation, thedegree of comparability depends on the flexibility thatparticipants are given for estimating emissions, thehomogeneity across facilities, as well as the level ofenforcement and review of the methodologies used.
+Similarly, when a single facility uses the same estima-
+tion methodology each year, the systematic parameteruncertainties—in addition to scientific and modeluncertainties—in a source’s emission estimates fortwo years are, for the most part, identical.
+7Because
+the systematic parameter uncertainties then cancelout, the uncertainty in an emission trend (e.g., thedifference between the estimates for two years) isgenerally less than the uncertainty in total emissionsfor a single year. In such a situation, quantified uncer-tainty estimates can be treated as being comparableover time and used to track relative changes in thequality of a facility’s emission estimates for thatsource category. Such estimates of uncertainty inemission trends can also be used as a guide to settinga facility’s emissions reduction target. Trend uncer-tainty estimates are likely to be less useful for settingbroader (e.g., company-wide) targets (see chapter 11)because of the general problems with comparabilitybetween uncertainty estimates across gases, sources,and facilities.Given these limitations, the role of qualitative and quan-
+titative uncertainty assessments in developing GHGinventories include:
+Promoting a broader learning and quality
+feedback process.
+Supporting efforts to qualitatively understand and
+document the causes of uncertainty and help identifyways of improving inventory quality. For example,collecting the information needed to determine thestatistical properties of activity data and emissionfactors forces one to ask hard questions and to care-fully and systematically investigate data quality.
+Establishing lines of communication and feedback
+with data suppliers to identify specific opportunities to improve quality of the data and methods used.
+Providing valuable information to reviewers, verifiers,
+and managers for setting priorities for investmentsinto improving data sources and methodologies.
+The
+GHG Protocol Corporate Standard has developed a
+supplementary guidance document on uncertainty assess-ments (“Guidance on uncertainty assessment in GHGinventories and calculating statistical parameter uncer-tainty”) along with an uncertainty calculation tool, bothof which are available on the GHG Protocol website. Theguidance document describes how to use the calculationtool in aggregating uncertainties. It also discusses inmore depth different types of uncertainties, the limita-tions of quantitative uncertainty assessment, and howuncertainty estimates should be properly interpreted.
+Additional guidance and information on assessing
+uncertainty—including optional approaches to devel-oping quantitative uncertainty estimates and eliciting
+judgments from experts— can also be found in EPA'sEmissions Inventory Improvement Program, Volume VI:Quality Assurance/Quality Control (1999) and in chapter 6 of the IPCC’s Good Practice Guidance (2000a).GUIDANCEManaging Inventory Quality
+CHAPTER 7 56
+
+--- Page 59 of 116 ---

@@ -1,0 +1,56 @@
+File Name: 1_2021-06-04_DelVO_2021_2139_TAXKRA_EU.pdf
+Converted on: 2025-03-28 03:20:30
+Original Size: 2.76 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 113 of 447
+--------------------------------------------------------------------------------
+
+2. Where facilities incorporate any form of abatement (including carbon capture or use of decarbonised fuels),
+that abatement activity complies with the criteria set out in the relevant Section of this Annex, where applicable.
+Where the CO  2 that would otherwise be emitted from the electricity generation process is captured for the 
+purpose of underground storage, the CO  2 is transported and stored underground, in accordance with the 
+technical screening criteria set out in Sections 5.11 and 5.12 of this Annex.
+3. The activity meets either of the following criteria:
+(a) at construction, measurement equipment for monitoring of physical emissions, such as methane leakage is
+installed or a leak detection and repair program is introduced;
+(b) at operation, physical measurement of methane emissions are reported and leak is eliminated.
+4. Where the activity blends renewable gaseous or liquid fuels with biogas or bioliquids, the agricultural
+biomass used for the production of the biogas or bioliquids complies with the criteria laid down in Article 29,
+paragraphs 2 to 5, of Directive (EU) 2018/2001 while forest biomass complies with the criteria laid down in
+Article 29, paragraphs 6 and 7, of that Directive.  
+Do no significant harm (‘DNSH’)  
+(2) Climate change adaptation  The activity complies with the criteria set out in Appendix A to this 
+Annex.  
+(3) Sustainable use and protection of
+water and marine resources  The activity complies with the criteria set out in Appendix B to this 
+Annex.  
+(4) Transition to a circular economy  N/A  
+(5) Pollution prevention and control  Emissions are within or lower than the emission levels associated with the 
+best available techniques (BAT-AEL) ranges set out in the latest relevant
+best available techniques (BAT) conclusions, including the best available
+techniques (BAT) conclusions for large combustion plants (  170  ). 
+No significant cross-media effects occur.
+For combustion plants with thermal input greater than 1 MW but below
+the thresholds for the BAT conclusions for large combustion plants to
+apply, emissions are below the emission limit values set out in Annex II,
+part 2, to Directive (EU) 2015/2193 of the European Parliament and of
+the Council (  171  ). 
+(6) Protection and restoration of
+biodiversity and ecosystems  The activity complies with the criteria set out in Appendix D to this 
+Annex.  
+4.8.  Electricity generation from bioenergy  
+Description of the activity  
+Construction and operation of electricity generation installations that produce electricity exclusively from biomass,
+biogas or bioliquids, excluding electricity generation from blending of renewable fuels with biogas or bioliquids
+(see Section 4.7 of this Annex).  
+___________  
+( 170  ) Commission Implementing Decision (EU) 2017/1442 of 31 July 2017 establishing best available techniques (BAT) conclusions, 
+under Directive 2010/75/EU of the European Parliament and of the Council, for large combustion plants (OJ L 212, 17.8.2017,
+p. 1).  
+( 171  ) Directive (EU) 2015/2193 of the European Parliament and of the Council of 25 November 2015 on the limitation of emissions of 
+certain pollutants into the air from medium combustion plants (OJ L 313, 28.11.2015, p. 1).EN  L 442/70 Official Journal of the European Union 9.12.2021
+
+--- Page 71 of 349 ---

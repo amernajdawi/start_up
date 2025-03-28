@@ -1,0 +1,62 @@
+File Name: 2_E1-6_2011-09-01_G_GHG-PLC_WRI&WBCSD.pdf
+Converted on: 2025-03-28 03:18:25
+Original Size: 3.27 MB
+Chunk Size: 500 tokens with 50 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 144 of 226
+--------------------------------------------------------------------------------
+
+[91]
+guidanceCHAPTER 11 Calculating Inventory Results[91]
+offsets were reported in a product inventory. Similarly if
+a company sells reductions that occur at sources included
+in the boundary for use as offsets, these should not be
+included in tracking performance towards their own
+reduction target. Companies should separately report any
+sold offsets from sources that they own or control that
+are part of the product boundary.
+In this standard, avoided emissions are quantified as
+emissions reductions that are indirectly caused by market
+responses to the studied product or process that occurs
+in the studied product’s life cycle. For example, consider
+a company that performs a GHG inventory on energy-
+efficient appliances. Avoided emissions can be calculated
+by assuming that the energy-efficient appliances replace
+non-efficient appliances in the market place. The company
+also installs an energy-efficient wood-fired boiler in the
+production facility to reduce emissions. Avoided emissions
+can be calculated by assuming that the use of the wood-
+fired boiler reduces the demand for coal-fired power.
+This standard does not allow avoided emissions to be
+subtracted from the total inventory results. However,
+companies may report avoided emissions separately
+in the inventory report. Avoided emissions are often
+calculated using the consequential approach, which
+among other things considers how emissions might
+change as a result of a shift in demand (see chapter 5 for
+more information). Companies calculating and reporting
+avoided emissions should also consider any indirect
+emissions caused by market responses to the studied
+product or its life cycle. For example, indirect land-use
+change impacts are a form of indirect impact that could
+increase the GHG inventory of a product and should also
+be reported separately if other avoided emissions are
+considered. It is not appropriate to consider only the
+emissions savings associated with indirect effects.
+In LCA, the term avoided emissions is sometimes used
+to describe allocation due to system expansion, or
+emission reductions due to a reduction project within
+the product’s boundary. These cases are not considered
+avoided emissions as defined by this standard and
+therefore are not required to be reported separately
+from the inventory results. However, the requirements
+for allocation (chapter 9) and performance tracking
+(chapter 14) are applicable in these cases.  Endnotes
+1 Emissions increases can also be indirectly caused by the studied
+product or process that occurs in the studied product’s life cycle
+and should also be reported separately with avoided emissions.DuPontTM Sorona® is an advanced polymer that
+contains 37 percent renewably sourced (e.g., biogenic)
+ingredients by weight and can be used in place of
+traditional petrochemical polymers in a wide range

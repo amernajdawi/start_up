@@ -1,0 +1,87 @@
+File Name: 2_E1-6_2011-09-01_G_GHG-PLC_WRI&WBCSD.pdf
+Converted on: 2025-03-28 03:20:53
+Original Size: 3.27 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 63 of 116
+--------------------------------------------------------------------------------
+
+[77]
+CHAPTER 09 Allocation
+guidanceEndnotes
+1  The term “common process” can be one or more processes that 
+require allocation.
+2  As defined in ISO 14044:2006, 4.3.4.3.
+3 In some LCA literature, this method is known as the substitution
+or avoided-burden method.
+4 Steps adapted from ISO 14044:2006, 4.3.4.2.
+5  A true closed loop recycling scenario occurs when the recycled 
+material does not leave the studied product’s life cycle and
+therefore does not require allocation.
+6  John Atherton, “Declaration by the Metals Industry on Recycling 
+Principles,” International Journal of Life Cycle Assessment, 12 no.
+1 (2007):59-60.
+7  European Commission - Joint Research Centre - Institute for 
+Environment and Sustainability, International Reference Life
+Cycle Data System (ILCD) Handbook - General guide for Life Cycle
+Assessment  - Detailed guidance.
+8  ISO 14044:2006 defines open and closed loop recycling as well 
+as open and closed loop allocation procedures. In ISO 14044, an
+open loop recycling situation where there is no change in the
+inherent properties of the material is treated using a closed loop
+allocation procedure.9 Collection may be considered part of the material recovery facility
+in some product life cycles.
+10 Recycled material that does not leave a product system  
+(e.g., scraps that do not leave the control of the production
+company) is an example of a closed loop situation. Material that
+is recycled at the end-of-life and then used in a different product
+(e.g., tires being recycled into asphalt) is an example of an open
+loop situation.
+11 The collection process is listed as an attributable end-of-life
+process; however, the location of this process depends on how
+the recycled material is collected, as discussed above and in
+chapter 7.
+12 International Working Group, Life Cycle Inventory Analysis:
+Enhanced Methods and Applications for the Products of the
+Forest Industry. (Washington DC: American Forest and Paper
+Association,1996).
+13 International Organization for Standardization, ISO 14049:2000,
+Environmental management — Life cycle assessment —
+Examples of application of ISO 14041 to goal and scope definition
+and inventory analysis. Geneva.Box [9.4]  Comparing closed loop approximation and the recycled content method (continued)
+Although in this example using the recycled content
+method results in lower emissions and removals
+allocated to the studied product, a different scenario
+may have the opposite results. To avoid the misuse
+or misinterpretation of methodological choices, the
+standard includes the following requirements related
+to recycling:
+•Disclose and justify the method used for recycling;
+•Use that same method consistently over time to track
+performance, or if the method changes recalculate the
+base inventory as required in chapter 14; and
+•Disclose the calculated virgin material displacement
+separately.
+The standard also recommends that companies include
+quantitative uncertainty results in their inventory report
+(e.g., sensitivity analysis).Additionally, a disclaimer is required as part of the
+inventory report to avoid incorrect comparisons of
+inventory results based on different allocation methods
+(see chapter 13 for more details). In cases where choices
+are needed in a general standard to accommodate a
+large range of products, companies are encouraged
+to look towards available product rules and sector
+guidance to ensure consistency and comparability (if
+desired) within a product category or sector. Companies
+can choose a method other than the recycled content
+or closed loop approximation based on product rules or
+sector guidance as long as this is disclosed and justified
+in the inventory report.
+
+--- Page 80 of 148 ---
+
+Assessing Uncertainty 10
+
+--- Page 81 of 148 ---

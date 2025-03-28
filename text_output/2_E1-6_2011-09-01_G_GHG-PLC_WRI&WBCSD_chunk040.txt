@@ -1,0 +1,54 @@
+File Name: 2_E1-6_2011-09-01_G_GHG-PLC_WRI&WBCSD.pdf
+Converted on: 2025-03-28 03:20:53
+Original Size: 3.27 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 40 of 116
+--------------------------------------------------------------------------------
+
+[50]   Product Life Cycle Accounting and Reporting Standard
+guidance8.3.2 Identifying data needs
+The attributable processes identified during boundary
+setting and in the process map provide a basis for the list
+of data that needs to be collected. The data management
+plan can also be used to organize attributable processes if
+it is not possible to include them all in a process map.
+8.3.3 Data screening
+Screening processes based on their estimated contribution
+to the total life cycle helps companies focus their data
+collection efforts. While such screening is not required,
+it may deliver surprising findings and help companies
+prioritize data collection resources more effectively.
+The most effective way to perform screening is to
+estimate the emissions and removals of processes
+and process inputs using secondary data and rank the
+estimates in order of their contribution to the product’s
+life cycle. Companies can then use this list to prioritize
+the collection of primary or quality secondary data on the
+processes and process inputs that have the largest impact
+on the inventory results. If companies choose not to
+estimate emissions and removals during screening, they should at a minimum identify and focus data collection on
+processes that are known to consume or produce large
+amounts of GHG-intensive energy or material inputs.
+During the screening process it is also helpful to assess
+the estimated uncertainty. Processes that contribute
+significantly to the total life cycle emissions based on data
+with high levels of uncertainty should be priority areas for
+data collection.
+Processes may be relevant for non-emissions-
+related reasons for some companies. Under such
+circumstances, companies may want to use the
+following criteria, in addition to the ones above, to
+establish data collection priorities:
+•Processes that are significant by spend relative to
+other processes in the product’s life cycle
+•Processes with potential emissions reductions that
+could be undertaken or influenced by the company
+•Processes that are controlled by suppliers with
+strategic importance to the company’s core business
+•Processes that meet additional criteria developed by
+the company or industry sector
+
+--- Page 53 of 148 ---

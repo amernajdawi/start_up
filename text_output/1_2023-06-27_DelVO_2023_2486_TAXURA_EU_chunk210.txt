@@ -1,0 +1,41 @@
+File Name: 1_2023-06-27_DelVO_2023_2486_TAXURA_EU.pdf
+Converted on: 2025-03-28 03:18:09
+Original Size: 8.44 MB
+Chunk Size: 500 tokens with 50 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 210 of 380
+--------------------------------------------------------------------------------
+
+ELI: http://data.europa.eu/eli/reg_del/2023/2486/oj 76/1646.The activity complies with the following criteria:
+(a) the output of the activity are products or components of products which are suitable for re-use without any other
+processing;
+(b) sold goods are covered by a sales contract where relevant and in accordance with provisions as regards conformity of
+the product, liability of the seller (170)(including the option of a shorter liability or limitation period for second-hand
+products), burden of proof, remedies for lack of conformity, the modalities for the exercise of those remedies, repair or
+replacement of the goods, and commercial guarantees.
+7.For the preparation for re-use of Waste from Electrical and Electronic Equipment (WEEE), the economic activity is
+permitted to treat waste and implements an environmental management system using ISO 14001:2015 (171), the EU Eco-
+Management and Audit Scheme (EMAS) in accordance with Regulation (EC) No 1221/2009 of the European Parliament and of the Council (
+172)or equivalent and a Quality management system using ISO 9001:2015 (173).
+Do no significant harm (‘DNSH’)
+(1) Climate change mitigation Where the activity involves on-site generation of heat/cool or co-generation including
+power, the direct GHG emissions of the activity are lower than 270 gCO 2e/kWh.
+(2) Climate change adaptation The activity complies with the criteria set out in Appendix A to this Annex.
+(3) Sustainable use and protec ­
+tion of water and marine
+resourcesThe activity complies with the criteria set out in Appendix B to this Annex.
+(5) Pollution prevention and
+controlThe activity complies with the criteria set out in Appendix C to this Annex.
+The activity implements safety procedures required to protect the health and safety of
+workers carrying out preparing for re-use operations.
+(6) Protection and restoration
+of biodiversity and ecosys ­
+temsN/A
+5.4. Sale of second-hand goods
+Description of the activity
+Sale of second-hand goods that have been used for their intended purpose before by a customer (physical person or legal
+person), possibly after repair, refurbishment or remanufacturing.
+(170)The conformity of the product and the period of liability of the seller are set in accordance with the relevant provisions of Directive
+(EU) 2019/771.

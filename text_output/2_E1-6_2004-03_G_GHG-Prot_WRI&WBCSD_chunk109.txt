@@ -1,0 +1,14 @@
+File Name: 2_E1-6_2004-03_G_GHG-Prot_WRI&WBCSD.pdf
+Converted on: 2025-03-28 03:18:16
+Original Size: 3.51 MB
+Chunk Size: 500 tokens with 50 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 109 of 225
+--------------------------------------------------------------------------------
+
+decisions have been applied correctly and consistentlyto the collection of activity data (see chapters 3 and 4). CHAPTER 7 Managing Inventory Quality 53GUIDANCEInterface, Inc., is the world’s largest manufacturer of carpet tilesand upholstery fabrics for commercial interiors. The company hasestablished an environmental data system that mirrors its corpo-rate financial data reporting. The Interface EcoMetrics system isdesigned to provide activity and material flow data from businessunits in a number of countries (the United States, Canada,Australia, the United Kingdom, Thailand and throughout Europe)and provides metrics for measuring progress on environmentalissues such as GHG emissions. Using company-wide accountingguidelines and standards, energy and material input data arereported to a central database each quarter and made availableto sustainability personnel. These data are the foundation ofInterface’s annual inventory and enable data comparison overtime in the pursuit of improved quality.
+Basing emissions data systems on financial reporting helps
+Interface improve its data quality. Just as financial data need tobe documented and defensible, Interface’s emissions data areheld to standards that promote an increasingly transparent,accurate, and high-quality inventory. Integrating its financial andemissions data systems has made Interface’s GHG accountingand reporting more useful as it strives to be a “completelysustainable company” by 2020.Interface: Integration of emissions
+and business data systems

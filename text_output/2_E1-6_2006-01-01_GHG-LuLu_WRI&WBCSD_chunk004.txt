@@ -1,0 +1,187 @@
+File Name: 2_E1-6_2006-01-01_GHG-LuLu_WRI&WBCSD.pdf
+Converted on: 2025-03-28 03:20:49
+Original Size: 6.41 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 4 of 50
+--------------------------------------------------------------------------------
+
+CHAPTER2:KeyLULUCFAccounting Concepts andPrinciples
+92.1 KeyConcepts
+Severalaccountingtermsanddefinitionspertainspecifically
+toLULUCFprojectactivitiesorhavebeenadaptedfromthe
+ProjectProtocolforLULUCFprojectactivities.1Thischapter
+definesanddescribesthefollowingtermsaccordingtotheir
+importancetoLULUCFcarbonaccounting:
+•Carbonstocks,changeincarbonstocksand
+GHGremovals
+•GHGeffects
+•Baselinecandidatesandbaselineprocedures
+•Land-useormanagementtrendfactor
+•Variability
+•Uncertainty
+•Permanence
+•Additionality
+2 . 1 . 1 C A R B O N S T O C K S , C H A N G E I N
+C A R B O N S T O C K S , A N D G H G R E M O V A L S
+ToquantifyGHGreductionsandcapturethedata
+requiredtotransparentlyreporttheachievements ofa
+LULUCFproject,projectdevelopersneed:
+1 . Thechangeincarbonstocks 2betweentwotime
+periodsforthebaselineandtheprojectactivityper
+unitoflandarea(tC/ha).Thechangeincarbonstocksmaybeeithernegativeorpositive,dependingonthe
+activitiestakingplace,forexample,growingtrees
+versusharvestingtrees.
+ThechangeincarbonstocksistranslatedintoGHG
+removalsbymultiplyingtC/haby 44—12 (theratioof
+themolecularweightofcarbondioxide[CO 2]tothe
+molecularweightofcarbon)togettCO 2/ha,which
+alsoallowstheprojectdevelopertoeasilyinclude
+nonbiologicalGHGemissionsintothecalculation
+oftheGHGremovals.
+2 . Thetotalbaselinecarbonstocksandtotalproject
+activitystocksintC.Thisisusedtocomparethetotal
+carbonstored,aswellastotrackthelongevityofthe
+carbonstored(permanence).
+TheGHGreductionisthencalculatedbyfindingthediffer -
+encebetweentheprojectGHGremovalsandthebaseline
+GHGremovalsinthesametimeperiod(seefigure2.1).
+Thechangeincarbonstocks(sometimesreferredtoasflux)
+usuallyreflectsthegrowthrateoftrees/vegetationandthe
+dynamicsofcarboninthesoilandotherpoolsbetweentwo
+timeperiods,aswellasthecorrespondingcarbonthatis
+stored.Ifthechangeincarbonstocksisnegative,thenthe
+forestissometimescalledasource,sinceitisemittingor
+losingcarbon.Ifthechangeincarbonstocksispositive
+duringagiventimeperiod,theforestisoftenreferredto
+asasink,sinceitisabsorbingcarbon.
+Thisguidanceusesthetermschangeincarbonstocks and
+GHGremovals.Theformerisfoundintermsofcarbon
+(e.g.,tC/ha)andisonlyusedwhenlookingatbiological
+F I G U R E 2 . 1 CalculatingGHGRemovalsUsingCarbonStocks
+Carbonstocks
+attime1 Carbonstocks
+attime2
+GHGremovals
+=changeincarbonstocks •44—12tCO 2/tC
+G H G R E D U C T I O N C
+= P R O J E C T A C T I V I T Y G H G R E M O VA L S –B A S E L I N E G H G R E M O VA L S Changeincarbon
+stocks(tC/ha)BASE LINESCENARIO/PERF ORMANCESTAND ARD A
+Carbonstocks
+attime1 Carbonstocks
+attime2
+GHGremovals
+=changeincarbonstock •44—12tCO 2/tC Changeincarbon
+stocks(tC/ha)P R O J E C T A C T I V I T Y B
+ASeesection2.1.3foranexplanation ofthebaselinescenarioversusperformance standard.
+BOnlytheprimaryeffectsareconsidered here.
+CGHGreductions arecalculated inCO 2eq.
+
+--- Page 12 of 100 ---
+
+CHAPTER2:KeyLULUCFAccounting ConceptsandPrinciples 10 effects,andthelatterisfoundintermsofcarbondioxide
+(e.g.,tCO 2/ha).
+CalculatingtheGHGremovalsisimportantforcrediting
+purposesbecausecreditisgivenforthedifferencebetween
+projectactivityGHGremovalsandbaselineGHGremovals
+andnotthetotalamountofcarbonstoredatanygiven
+time.Totalcarbonstockshowevercanbeusedtocompare
+forestswithlessbiomass(e.g.,youngerorlessdenseplant -
+ings)versusforestswithmorebiomass(e.g.,older,mature
+forests).Carbonstocksalsoenablestakeholderstomore
+easilyassessthestorageofcarboninbiomassandsoils
+overtime(permanence).Thereforethisdocumentrecom -
+mendsreportingbothmetrics.
+2 . 1 . 2 G H G E F F E C T S
+GHGeffects aretheGHGremovalsandemissions
+causedbyaprojectactivityandareeitherprimaryeffects
+orsecondaryeffects.
+PrimaryEffects
+TheprimaryeffectforLULUCFprojectactivitiesisallthe
+biologicalcarbonstockchangescausedbytheprojectactiv -
+ityontheprojectsite.Itisdefinedasthedifferencebetween
+projectactivityGHGremovalsandbaselineGHGremovals,
+thelatterwhicharedeterminedusingeitherofthebaseline
+proceduresdescribedinchapters6and7.Althoughagiven
+unitareaoflandmayactasasourceorasinkatanygiven
+timethroughouttheGHGproject’slife,ultimatelythe
+projectactivityisexpectedtoactasanetsink.
+SecondaryEffects
+Thesecondaryeffects forLUCUCFprojectactivitiesarethe
+changesinnonbiologicalGHGemissionscausedbythe
+projectactivityandanybiologicalcarbonstockchangesthat
+occurofftheprojectsite,forexample,fromamarket
+responses.Secondaryeffectsareunintendedintermsofthe
+GHGreduction,althoughtheymaybeanintegralpartofthe
+projectactivity,forexample,theGHGemissionsrelatedto
+sitepreparationforplantingorfromharvestingwoodfiber.
+Secondaryeffectsaretypicallysmallcomparedwiththe
+projectactivity’sprimaryeffect.Insomecases,however,
+theymaycausetheprojectsitetoactasasourceofGHG
+emissionsduringcertaintimeperiods,ortheymayeven
+invalidatetheentirevalueoftheprimaryeffectovertime.
+Thetwocategoriesofsecondaryeffectsare:
+•One-timeeffects: ChangesinGHGemissionsassociated
+withtheimplementatio norterminationofaprojectactivity.
+•Upstreamanddownstreameffects: Recurringchanges
+inGHGemissionsassociatedwithinputstotheproject
+activity(upstream),suchasGHGemissionsfromany
+vehiclesusedinthemaintenanceoftheprojectsite,or
+theproductsoftheprojectactivity(downstream),suchas
+mobilecombustionemissionsfromtransportingharvest
+fibertothemill.Someupstreamanddownstreameffectsmaycausemarket
+responsestochangesinthesupplyand/ordemandforthe
+projectactivity’sinputsorproducts.Thisisoftenreferred
+toasleakage.Forinstance,amarketresponsewouldbean
+increaseinfiberproductioninanewlocationwhen
+productionattheprojectsitefallsorceases.Formore
+informationaboutmarketresponsesandothersecondary
+effects,seechapter3.
+2 . 1 . 3 L U L U C F B A S E L I N E C A N D I D AT E S A N D
+T H E B A S E L I N E P R O C E D U R E S
+TheGHGreductionsassociatedwithaLULUCFprojectare
+quantifiedaccordingtoareferencelevelofGHGremovals.
+Thatreferenceleveliscalculatedusing baselinecandidates,
+thealternativelandusesormanagementpractices(and
+theirassociatedGHGremovallevels)thatcouldbeimple -
+mentedontheprojectactivitysite.Baselinecandidatesare
+identifiedbyexploringpotentiallandusesormanagement
+practiceswithinaspecifiedgeographicareaandovera
+definedtemporalrange.Oncefeasiblealternativeshavebeen
+identified,oneoftwodifferentproceduresmaybeusedto
+derivebaselineGHGremovalsfromthebaselinecandidates.
+Theprocedures,eachusingtheterm baselinecandidates
+slightlydifferently,areintroducednext.Figure2.2illus -
+trateshowbaselinecandidatesdifferbetweenthetwo
+baselineprocedures.
+Project-SpecificProcedure
+Theproject-specificprocedure comparestheland-useor
+managementpracticealternatives—thebaselinecandi-
+dates—toidentifythebaselinecandidatethatrepresents
+thebaselinescenario(seechapter6).TheGHGremovals
+associatedwiththatbaselinescenariobecometherefer -
+enceremovallevelandarecomparedwiththeproject
+activityGHGremovalstocalculatetheLULUCFGHG
+reduction.Whenusingthisprocedure,theterm baseline
+candidate referstothetypesoffeasiblelanduseor
+managementpracticeidentifiedinaspecifiedarea,for
+example,croplandorpasture.
+PerformanceStandardProcedure
+Ratherthanidentifyingasinglebaselinescenario,i.e.,land-
+useormanagementpracticeagainstwhichtomeasurethe
+LULUCFGHGreduction,theperformancestandardproce -
+durederivesbaselineGHGremovalsusinganumerical
+analysisoftheGHGremovalsfromallbaselinecandidates.
+Insteadofusingtypesoffeasiblelandusesormanagement
+practicestodefineGHGremovals,theperformance
+standarduseseachindividuallandunitinthegeographic
+area(e.g.,eachhectare)andcorrespondingGHGremovals
+asthebaselinecandidates.Thesebaselinecandidatesare
+thenrankedaccordingtotheirGHGremovals,fromlowest
+tohighest.Usingapredefinedbetter-than-averagestrin -
+gencylevel(seechapter7),thebaselineGHGremovalsare
+derivedfromthisspectrumofpotentialGHGremovals.
+
+--- Page 13 of 100 ---

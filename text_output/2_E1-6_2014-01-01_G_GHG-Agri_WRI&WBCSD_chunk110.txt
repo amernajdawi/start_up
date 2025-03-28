@@ -1,0 +1,44 @@
+File Name: 2_E1-6_2014-01-01_G_GHG-Agri_WRI&WBCSD.pdf
+Converted on: 2025-03-28 01:56:31
+Original Size: 1.75 MB
+Chunk Size: 400 tokens with 50 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 110 of 150
+--------------------------------------------------------------------------------
+
+Companies should publicly report  the following information:  
+ For non-mechanical sources: A description of whether the calculation methodologies
+are IPCC Tier 1, 2, or 3, and a description of how those methodologies were chosen
+based on the quality criteria in Chapter 7.3
+ Scope 1 emissions disaggregated by m echanical sources, LUC (biogenic CO 2 only),
+and all other non-mechanical sources   
+ Net CO 2 flux data for the C stocks in above-ground and below-ground biomass,
+DOM and soils (in tonnes CO 2), to the extent relevant and required, as defined in
+Chapter 8.2
+ Where LUC results in a reduction in the size of C stocks, the CO 2 emissions are
+reported in Scope 1 (LUC is further defined in Box 9-1)
+ Otherwise, all CO 2 fluxes are reported outside of th e scopes in a separate category
+(‘Biogenic Carbon’) that ha s three components: (1) CO 2 fluxes (emissions or
+removals) during land use management; (2 ) Sequestration during LUC; and (3) CO 2
+emissions from biofuel combustion  
+ A description of the methodology used (where relevant) to amortize the CO 2 fluxes
+to/from C stocks  
+ Assumptions regarding any use of proxy data in calculating the impacts of historical
+changes in management on C stocks  
+ Any exclusions of the impacts of histor ical management practices on C stocks  
+Figure 9-1 summarizes how  GHG data should be separated within an inventory following 
+these requirements and best practice recommendations.  
+
+--- Page 72 of 103 ---
+
+GHG Protocol Agricultural Guidance
+
+72
+ Fig. 9-1.  Schematic illustrating the requirements and minimum, best practice 
+recommendations for disaggregatin g GHG flux data in  inventories 
+Category of
+source or sink Subcategory Examples
+Scopes   
+    Scope 1 Mechanical sources

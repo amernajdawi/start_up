@@ -1,0 +1,51 @@
+File Name: 1_2023-07-31_DelVO_2023_2772_ESRS_EU.pdf
+Converted on: 2025-03-28 03:20:41
+Original Size: 5.82 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 16 of 284
+--------------------------------------------------------------------------------
+
+--- Page 14 of 284 ---
+
+ELI: http://data.europa.eu/eli/reg_del/2023/2772/oj 14/284(b) in accordance with any specific requirements related to the value chain in other ESRS.
+64. Paragraph 63 does not require information on each and every actor in the value chain, but only the inclusion of
+material upstream and downstream value chain information. Different sustainability matters can be material in
+relation to different parts of the undertaking’s upstream and downstream value chain. The information shall be
+extended to include value chain information only in relation to the parts of the value chain for which the matter is
+material.
+65. The undertaking shall include material value chain information when this is necessary to:
+(a) allow users of sustainability statements to understand the undertaking’s material impacts, risks and
+opportunities; and/or
+(b) produce a set of information that meets the qualitative characteristics of information (see Appendix B of this Standard).
+66. When determining at which level within its own operations and its upstream and downstream value chain a material
+sustainability matter arises, the undertaking shall use its assessment of impacts, risks and opportunities following the
+double materiality principle (see chapter 3 of this Standard).
+67. When associates or joint ventures, accounted for under the equity method or proportionally consolidated in the
+financial statements, are part of the undertaking’s value chain, for example as suppliers, the undertaking shall
+include information related to those associates or joint ventures in accordance with paragraph 63 consistent with
+the approach adopted for the other business relationships in the value chain. In this case, when determining impact
+metrics, the data of the associate or joint venture are not limited to the share of equity held, but shall be taken into
+account on the basis of the impacts that are connected with the undertaking’s products and services through its
+business relationships.
+5.2 Estimation using sector averages and proxies
+68. The undertaking’s ability to obtain the necessary upstream and downstream value chain information may vary
+depending on various factors, such as the undertaking’s contractual arrangements, the level of control that it exercises on the operations outside the consolidation scope and its buying power. When the undertaking does not
+have the ability to control the activities of its upstream and/or downstream value chain and its business
+relationships, obtaining value chain information may be more challenging.
+69. There are circumstances where the undertaking cannot collect the information about its upstream and downstream
+value chain as required by paragraph 63 after making reasonable efforts to do so. In these circumstances, the
+undertaking shall estimate the information to be reported about its upstream and downstream value chain, by using all reasonable and supportable information, such as sector-average data and other proxies.
+70. Obtaining value chain information could also be challenging in the case of SMEs and other upstream and/or
+downstream value chain entities that are not in the scope of the sustainability reporting required by Articles 19a
+and 29a of Directive 2013/34/EU (see ESRS 2 BP-2 Disclosures in relation to specific circumstances).
+71. With reference to policies, actions and targets, the undertaking’s reporting shall include upstream and/or
+downstream value chain information to the extent that those policies, actions and targets involve actors in the value
+chain. With reference to metrics, in many cases, in particular for environmental matters for which proxies are
+available, the undertaking may be able to comply with the reporting requirements without collecting data from the
+actors in its upstream and downstream value chain, especially from SMEs, for example, when calculating the
+undertaking’s GHG Scope 3 emissions.OJ L, 22.12.2023 EN  
+
+--- Page 15 of 284 ---

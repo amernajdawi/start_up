@@ -1,0 +1,20 @@
+File Name: 2_E1-6_2004-03_G_GHG-Prot_WRI&WBCSD.pdf
+Converted on: 2025-03-28 03:18:16
+Original Size: 3.51 MB
+Chunk Size: 500 tokens with 50 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 154 of 225
+--------------------------------------------------------------------------------
+
+intensity-based. An absolute target is usually expressedin terms of a reduction over time in a specified quantityof GHG emissions to the atmosphere, the unit typicallybeing tonnes of CO
+2-e. An intensity target is usually
+expressed as a reduction in the ratio of GHG emissionsrelative to another business metric.
+1The comparative
+metric should be carefully selected. It can be the outputof the company (e.g. tonne CO
+2-e per tonne product, per
+kWh, per tonne mileage) or some other metric such assales, revenues or office space. To facilitate transparency,companies using an intensity target should also report theabsolute emissions from sources covered by the target.Box 4 summarizes the advantages and disadvantages
+of each type of target. Some companies have both anabsolute and an intensity target. Box 5 provides exam-ples of corporate GHG targets. The Royal Dutch/Shellcase study illustrates how a corporate wide absolutetarget can be implemented by formulating a combina-tion of intensity targets at lower levels ofdecision-making within the company.
+3.  Decide on the target boundary
+The target boundary defines which GHGs, geographic oper-ations, sources, and activities are covered by the target.The target and inventory boundary can be identical, or

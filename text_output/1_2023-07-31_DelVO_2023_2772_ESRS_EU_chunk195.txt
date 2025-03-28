@@ -1,0 +1,48 @@
+File Name: 1_2023-07-31_DelVO_2023_2772_ESRS_EU.pdf
+Converted on: 2025-03-28 03:20:41
+Original Size: 5.82 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 195 of 284
+--------------------------------------------------------------------------------
+
+ELI: http://data.europa.eu/eli/reg_del/2023/2772/oj 195/284AR 87. Health issues resulting, for example, from smoking, drug and alcohol abuse, physical inactivity, unhealthy diets,
+and psychosocial factors unrelated to work are not considered work-related.
+AR 88. Occupational diseases are not considered work-related injuries but are covered under work-related ill health.
+Guidance on computing the rate of work-related injuries
+AR 89. In computing the rate of work-related injuries, the undertaking shall divide the respective number of cases by the
+number of total hours worked by people in its own workforce and multiplied by 1 000 000. Thereby, these rates
+represent the number of respective cases per one million hours worked. A rate based on 1 000 000 hours worked
+indicates the number of work-related injuries per 500 full time people in the workforce over a 1-year timeframe. For comparability purposes a rate based on 1 000 000 hours worked shall be used also for undertakings with less
+than 500 people in the workforce.
+AR 90. If the undertaking cannot directly calculate the number of hours worked, it may estimate this on the basis of
+normal or standard hours of work, taking into account entitlements to periods of paid leave of absence from
+work (for example, paid vacations, paid sick leave, public holidays) and explain this in its disclosures.
+AR 91. An undertaking shall include fatalities as a result of work-related injury in the calculation of the number and rate
+of recordable work-related injuries.
+Guidance on recordable work-related ill health
+AR 92. Work-related ill health can include acute, recurring, and chronic health problems caused or aggravated by work
+conditions or practices. These include musculoskeletal disorders, skin and respiratory diseases, malignant
+cancers, diseases caused by physical agents (for example, noise-induced hearing loss, vibration-caused diseases),
+and mental illnesses (for example, anxiety, post-traumatic stress disorder). For the purpose of the required
+disclosures, the undertaking shall, at a minimum, include in its disclosure those cases outlined in the ILO List of
+Occupational Diseases.
+AR 93. In the context of this Standard, work-related musculoskeletal disorders are covered under work-related ill health
+(and not injuries).
+AR 94. The cases to be disclosed in paragraph 88(d) relate to cases of work-related ill health notified to the undertaking or identified by the undertaking through medical surveillance, during the reporting period. The undertaking
+might be notified of cases of work-related ill health through reports by affected people, compensation agencies,
+or healthcare professionals. The disclosure may include cases of work-related ill health that were detected during
+the reporting period among people who were formerly in the undertaking’s workforce.
+Guidance on the number of days lost
+AR 95. The undertaking shall count the number of days lost such that the first full day and last day of absence shall be
+included. Calendar days should be considered for the calculation, thus days on which the affected individual is
+not scheduled for work (for example, weekends, public holidays) will count as lost days.
+Disclosure Requirement S1-15 – Work-life balance
+AR 96. Family-related leave include maternity leave, paternity leave, parental leave, and carers’ leave that is available
+under national law or collective agreements. For the purpose of this Standard, these concepts are defined as:
+(a) maternity leave (also called pregnancy leave): employment-protected leave of absence for employed women
+directly around the time of childbirth (or, in some countries, adoption);OJ L, 22.12.2023 EN  
+
+--- Page 196 of 284 ---

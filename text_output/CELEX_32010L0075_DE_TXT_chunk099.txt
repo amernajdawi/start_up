@@ -1,0 +1,234 @@
+File Name: CELEX_32010L0075_DE_TXT.pdf
+Converted on: 2025-03-28 03:18:33
+Original Size: 4.18 MB
+Chunk Size: 500 tokens with 50 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 99 of 163
+--------------------------------------------------------------------------------
+
+L 334/64 DE Amtsblattder Europäischen Union 17.12.2010
+c) für SO2 aus Feuerun gsanlagen, die mit Öl mit b ekanntem Schwefelg ehalt betrieben werden, sofern keine Abgas­
+entschwefelungsanlage
+vorhanden
+ist;
+d) für SO2 aus mit Biomasse b etriebenen  Feuerungsanlagen,  wenn  der Betreib er  nachw eisen kann,  dass die SO2-
+Emissionen
+unter
+keinen
+Umständen
+über
+den
+vorgeschriebenen
+Emissionsg
+renzwerten
+liegen
+können.
+3. Wenn
+keine
+kontinuierlichen
+Messungen
+vorgeschrieben
+sind,
+müssen
+mindestens
+einmal
+alle sechs Mon ate
+Messun­
+gen
+von
+SO2,  N Ox, Staub und — bei mit Gas b etriebenen Anlagen — auch von  CO durchg eführt werden. 
+4.
+Bei Feuerun gsanlagen,
+die mit Stein kohle
+oder Braun kohle
+betrieben
+werden,
+sind
+mindestens
+einmal
+pro Jahr die
+Gesamtqueck silberemissionen
+zu messen .
+5. Als
+Alternative
+zu den
+SO2- und NOx-Messungen gemäß Nummer 3 k önnen andere Verfahren , die von der zustän di­
+gen
+Behörde üb erprüft
+und
+gebilligt
+worden
+sind,
+angewandt
+werden,
+um die SO2- und NOx-Emissionen zu ermitteln .
+Diese
+Verfahren  
+werden
+nach
+den
+einschlägigen
+CEN-Normen  
+oder, sofern  
+diese nicht
+zur Verfüg ung
+stehen,
+nach
+ISO-,
+nationalen
+oder anderen
+internationalen
+Normen
+durchgeführt,
+mit denen
+sichergestellt
+werden
+kann,
+dass Daten  
+von
+gleicher
+wissenschaftlicher
+Qualität erhob en
+werden.
+6. Im
+Falle wesen tlicher
+Änderungen
+beim
+eingesetzten
+Brennstoff
+oder in
+der Betrieb sweise
+der Anlagen
+ist die zustän ­
+dige
+Behörde davon  
+in
+Kenntnis
+zu setzen.
+Die zustän dige
+Behörde en tschei
+det, ob
+die Überwachungsvorschriften
+der
+Nummern  
+1 bis
+4 weiterhin  
+ausreichen  
+oder ob
+sie angepasst
+werden
+müssen.
+7. Die
+kontinuierlichen
+Messungen,
+die gemäß
+Nummer 1 dieses Ab schnitts
+durchgeführt
+werden,
+beinhalten
+die Mes­
+sung
+von
+Sauerstoffg ehalt,
+Temperatur, Druck  
+und
+Wasserdampfg ehalt
+der Abgase.
+Eine
+kontinuierliche
+Messung
+des
+Wasserdampfg ehalts
+der Abgase
+ist nicht
+notwendig,
+sofern
+die Abgasprob
+en
+getrocknet
+werden,
+bevor
+die Emissio­
+nen
+analysiert
+werden.
+8.
+Probenahme
+und
+Analyse
+relevanter
+Schadstoffe un d
+Messungen
+von Verfahren sparametern
+sowie die Qualitäts­
+sicherung
+von
+automatisierten  
+Messsystemen  
+und
+die Referen zmessverfah
+ren
+zur Kalibrierung
+dieser Systeme werden  
+nach
+CEN-Normen
+durchgeführt.
+Sind
+keine
+CEN-Normen
+verfügbar,
+so werden  
+ISO-,
+nationale
+Normen
+oder andere
+internationale
+Normen
+angewandt,
+die sicherstellen ,
+dass Daten  
+von
+glei
+chwertiger
+wissenschaftlicher
+Qualität ermit­
+telt werden .
+Die
+automatisierten Messsysteme sin d
+mindestens
+einmal
+jährlich durch Parallelmessun gen
+unter
+Verwendung
+der
+Referenzmethoden
+einer
+Kontrolle
+zu unterziehen.
+Der
+Betreiber
+unterrichtet
+die zustän dige
+Behörde üb er
+die Ergebnisse
+der Überprüfung
+der automatisierten
+Messsysteme.
+9. In
+Bezug
+auf die Emissionsgrenzwerte
+darf der Wert des K onfidenzinterv
+alls von
+95 v.H. ein es
+einzelnen
+Messergeb­
+nisses
+folgende
+Prozentsätze
+nicht
+übersteigen:
+Kohlenmonoxid 10
+%
+Schwefeldioxid 20 %

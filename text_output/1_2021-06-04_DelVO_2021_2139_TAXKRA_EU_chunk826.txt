@@ -1,0 +1,46 @@
+File Name: 1_2021-06-04_DelVO_2021_2139_TAXKRA_EU.pdf
+Converted on: 2025-03-28 03:18:03
+Original Size: 2.76 MB
+Chunk Size: 500 tokens with 50 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 826 of 966
+--------------------------------------------------------------------------------
+
+3. The climate projections and assessment of impacts are based on best practice and available guidance and
+take into account the state-of-the-art science for vulnerability and risk analysis and related methodologies in line
+with the most recent Intergovernmental Panel on Climate Change reports (  527  ), scientific peer-reviewed 
+publications and open source (  528  ) or paying models. 
+4. The adaptation solutions implemented:
+(a) do not adversely affect the adaptation efforts or the level of resilience to physical climate risks of other people,
+of nature, of cultural heritage, of assets and of other economic activities;
+(b) favour nature-based solutions (  529  ) or rely on blue or green infrastructure (  530  ) to the extent possible; 
+(c) are consistent with local, sectoral, regional or national adaptation plans and strategies;
+(d) are monitored and measured against pre-defined indicators and remedial action is considered where those
+indicators are not met;
+(e) where the solution implemented is physical and consists in an activity for which technical screening criteria
+have been specified in this Annex, the solution complies with the do no significant harm technical screening
+criteria for that activity.  
+Do no significant harm (‘DNSH’)  
+(2) Climate change adaptation  The vessels are not dedicated to the transport of fossil fuels.  
+(3) Sustainable use and protection of
+water and marine resources  The activity complies with the criteria set out in Appendix B to this 
+Annex.  
+(4) Transition to a circular economy  Measures are in place to manage waste, both in the use phase and in the 
+end-of-life of the vessel, in accordance with the waste hierarchy.
+For battery-operated vessels, those measures include reuse and recycling of
+batteries and electronics, including critical raw materials therein.
+For existing ships above 500 gross tonnage and the new-built ones
+replacing them, the activity complies with the requirements of Regulation
+(EU) No 1257/2013 relating to the inventory of hazardous materials. The
+scrap ships are recycled in facilities included on the European List of ship
+recycling facilities as laid down in Commission Decision 2016/2323.
+The activity complies with Directive (EU) 2019/883 as regards the
+protection of the marine environment against the negative effects from
+discharges of waste from ships.
+The ship is operated in accordance with Annex V to the IMO MARPOL
+Convention, in particular with a view to producing reduced quantities of
+waste and to reducing legal discharges, by managing its waste in a
+sustainable and environmentally sound manner.  
+_____________

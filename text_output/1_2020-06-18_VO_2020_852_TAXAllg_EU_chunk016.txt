@@ -1,0 +1,41 @@
+File Name: 1_2020-06-18_VO_2020_852_TAXAllg_EU.pdf
+Converted on: 2025-03-28 03:20:25
+Original Size: 0.73 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 16 of 54
+--------------------------------------------------------------------------------
+
+Directive 1999/31/EC (31), Commission Regulation (EU) No 1357/2014 (32) and Commission
+Decisions 2000/532/EC (33) and 2014/955/EU (34), and with the communications of the Commission of
+2 December 2015 on ‘Closing the loop – An EU action plan for the Circular Econom y’ and of 16 Januar y 2018 on
+‘A European Strategy for Plastics in a Circular Economy’ .
+(28) An economic activity can contr ibute substantially to the environmental objective of transitioning to a circular
+econom y in several ways. It can, for example, increase the durability , reparability , upgradability and reusability of
+products, or can reduce the use of resources through the design and choice of mater ials, facilitating repur posing,
+disassembly and deconstr uction in the buildings and constr uction sector , in particular to reduce the use of building
+mater ials and promote the reuse of building mat erials. It can also contr ibute substantially to the environmental
+objective of transitioning to a circular econom y by developing ‘product-as-a-ser vice’ business models and circular
+value chains, with the aim of keeping products, compo nents and mater ials at their highest utility and value for as
+long as possible. Any reduction in the content of hazardous substances in mat erials and products throughout the
+life cycle, including by replacing them with safer alternatives, should, as a minimum, be in accordance with Union
+law. An economic activity can also contr ibut e substantially to the environmental objective of transitioning to a
+circular econom y by reducing food waste in the production, processing, manufactur ing or distr ibution of food.
+(29) The environmental objective of pollution prevention and control should be interpr eted in accordance with relevant
+Union law, including Directives 2000/60/EC, 2004/35/EC (35), 2004/107/EC (36), 2006/118/EC, 2008/50/EC (37),
+2008/105/EC, 2010/75/EU, (EU) 2016/802 (38) and (EU) 2016/2284 (39) of the European Parliament and of the
+Council.
+(30) The environmental objective of the protect ion and restoration of biodiversity and ecosystems should be interpreted
+in accordance with relevant Union law, including Regulations (EU) No 995/2010 (40), (EU) No 511/2014 (41) and
+(EU) No 1143/2014 (42) of the European Parliament and of the Council, Directive 2009/147/EC of the European
+Parliament and of the Council (43), Council Regulation (EC) No 338/97 (44), Council Directives 91/676/EEC
+and 92/43/EEC (45), and with the communications of the Commission of 21 May 2003 on ‘Forest Law Enforcement,
+(31)Council Directive 1999/31/EC of 26 Apr il 1999 on the landfill of waste (OJ L 182, 16.7.1999, p. 1).
+(32)Commission Regulation (EU) No 1357/2014 of 18 December 2014 replacing Annex III to Directive 2008/98/EC of the European
+Parliament and of the Council on wast e and repealing certain Directives (OJ L 365, 19.12.2014, p. 89).
+(33)Commission Decision 2000/532/EC of 3 May 2000 replacing Decision 94/3/EC establishing a list of wastes pursuant to Article 1(a) of
+Council Directive 75/442/EEC on wast e and Council Decision 94/904/EC establishing a list of hazardous waste pursuant to Article 1
+(4) of Council Directive 91/689/EEC on hazardous waste (OJ L 226, 6.9.2000, p. 3).
+(34)Commission Decision 2014/955/EU of 18 December 2014 amending Decision 2000/532/EC on the list of wast e pursuant to

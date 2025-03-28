@@ -1,0 +1,41 @@
+File Name: 2_ESRS2_SBM1_2006-12-20_VO_NACER2_EU.pdf
+Converted on: 2025-03-28 03:20:56
+Original Size: 0.17 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 24 of 45
+--------------------------------------------------------------------------------
+
+n.e.c. : not elsewhere classified * part of
+Division Group ClassISIC
+Rev. 4
+46.16 Agents involved in the sale of textiles, clothing, fur, footwear and
+leather goods4610*
+46.17 Agents involved in the sale of food, beverages and tobacco 4610*
+46.18 Agents specialised in the sale of other particular products 4610*
+46.19 Agents involved in the sale of a variety of goods 4610*
+46.2 Wholesale of agricultural raw materials and live animals
+46.21 Wholesale of grain, unmanufactured tobacco, seeds and animal feeds 4620*46.22 Wholesale of flowers and plants 4620*46.23 Wholesale of live animals 4620*46.24 Wholesale of hides, skins and leather 4620*
+46.3 Wholesale of food, beverages and tobacco
+46.31 Wholesale of fruit and vegetables 4630*46.32 Wholesale of meat and meat products 4630*46.33 Wholesale of dairy products, eggs and edible oils and fats 4630*
+46.34 Wholesale of beverages 4630*
+46.35 Wholesale of tobacco products 4630*46.36 Wholesale of sugar and chocolate and sugar confectionery 4630*46.37 Wholesale of coffee, tea, cocoa and spices 4630*46.38 Wholesale of other food, including fish, crustaceans and molluscs 4630*46.39 Non-specialised wholesale of food, beverages and tobacco 4630*
+46.4 Wholesale of household goods
+46.41 Wholesale of textiles 4641*46.42 Wholesale of clothing and footwear 4641*46.43 Wholesale of electrical household appliances 4649*46.44 Wholesale of china and glassware and cleaning materials 4649*
+46.45 Wholesale of perfume and cosmetics 4649*
+46.46 Wholesale of pharmaceutical goods 4649*46.47 Wholesale of furniture, carpets and lighting equipment 4649*46.48 Wholesale of watches and jewellery 4649*46.49 Wholesale of other household goods 4649*
+46.5 Wholesale of information and communication equipment
+46.51 Wholesale of computers, computer peripheral equipment and software 465146.52 Wholesale of electronic and telecommunications equipment and parts 4652
+46.6 Wholesale of other machinery, equipment and supplies
+46.61 Wholesale of agricultural machinery, equipment and supplies 4653
+46.62 Wholesale of machine tools 4659*
+46.63 Wholesale of mining, construction and civil engineering machinery 4659*46.64 Wholesale of machinery for the textile industry and of sewing and
+knitting machines4659*
+46.65 Wholesale of office furniture 4659*
+46.66 Wholesale of other office machinery and equipment 4659*46.69 Wholesale of other machinery and equipment 4659*
+46.7 Other specialised wholesale
+46.71 Wholesale of solid, liquid and gaseous fuels and related products 466146.72 Wholesale of metals and metal ores 466246.73 Wholesale of wood, construction materials and sanitary equipment 4663*46.74 Wholesale of hardware, plumbing and heating equipment and supplies 4663*46.75 Wholesale of chemical products 4669*46.76 Wholesale of other intermediate products 4669*46.77 Wholesale of waste and scrap 4669*L 393/18 EN Official Journal of the European Union 30.12.2006
+
+--- Page 19 of 39 ---

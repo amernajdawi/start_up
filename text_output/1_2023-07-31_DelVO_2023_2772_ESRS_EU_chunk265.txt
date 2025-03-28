@@ -1,0 +1,53 @@
+File Name: 1_2023-07-31_DelVO_2023_2772_ESRS_EU.pdf
+Converted on: 2025-03-28 03:20:41
+Original Size: 5.82 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 265 of 284
+--------------------------------------------------------------------------------
+
+ELI: http://data.europa.eu/eli/reg_del/2023/2772/oj 266/284Discrimination Discrimination can occur directly or indirectly. Direct discrimination
+occurs when an individual is treated less favourably by comparison to how
+others, who are in a similar situation, have been or would be treated, and the
+reason for this is a particular characteristic they hold, which falls under a
+‘protected ground’. Indirect discrimination occurs when an apparently
+neutral rule disadvantages a person or a group sharing the same characteristics. It must be shown that a group is disadvantaged by a
+decision when compared to a comparator group.
+Double materiality Double materiality has two dimensions: impact materiality and financial
+materiality . A sustainability matter meets the criterion of double
+materiality if it is material from the impact perspective or the financial
+perspective or both.
+Durability of a product, component or materialThe ability of a product, component or material to remain functional and relevant when used as intended.
+Ecological threshold The point at which a relatively small change in external conditions causes a rapid change in an ecosystem. When an ecological threshold has been
+passed, the ecosystem may no longer be able to return to its state by means
+of its inherent resilience.
+Ecosystem extent The size of an ecosystem asset, whereas an ecosystem asset is the contiguous
+space of a specific ecosystem type characterised by a distinct set of biotic and
+abiotic components and their interactions.
+Ecosystem restoration Any intentional activities that initiate or accelerate the recovery of an
+ecosystem from a degraded state.
+Ecosystem services The contributions of ecosystems to the benefits that are used in economic
+and other human activity, respectively the benefits people obtain from
+ecosystems . In the Millennium Ecosystem Assessment, ecosystem services
+can be divided into supporting, regulating, provisioning and cultural. The Common International Classification of Ecosystem Services (CICES)
+classifies types of ecosystems services.
+Ecosystem(s) A dynamic complex of plant, animal and micro-organism communities and
+their non-living environment interacting as a functional unit. A typology of
+ecosystems is provided by the IUCN Global Ecosystem Typology 2.0.
+Emission The direct or indirect release of substances, vibrations, heat or noise from
+individual or diffuse sources into air, water or soil (
+12).
+Employee An individual who is in an employment relationship with the undertaking
+according to national law or practice.
+End-users Individuals who ultimately use or are intended to ultimately use a particular
+product or service.
+Equal opportunities Equal and non-discriminatory access, among individuals, to opportunities
+for education, training, employment, career development and the exercise
+of power without their being disadvantaged on the basis of criteria such as
+gender, racial or ethnic origin, nationality, religion or belief, disability, age or
+sexual orientation.
+(12)Directive 2010/75/EU on industrial emissions (IED).OJ L, 22.12.2023 EN  
+
+--- Page 267 of 284 ---

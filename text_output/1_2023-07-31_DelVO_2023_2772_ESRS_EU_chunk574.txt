@@ -1,0 +1,38 @@
+File Name: 1_2023-07-31_DelVO_2023_2772_ESRS_EU.pdf
+Converted on: 2025-03-28 03:18:14
+Original Size: 5.82 MB
+Chunk Size: 500 tokens with 50 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 574 of 686
+--------------------------------------------------------------------------------
+
+ELI: http://data.europa.eu/eli/reg_del/2023/2772/oj 240/284Appendix A
+Application Requirements
+This appendix is an integral part of the ESRS S4 Consumers and end-users. It supports the application of the requirements set
+out in this standard and has the same authority as the other parts of the standard.
+ObjectiveAR 1. The undertaking may highlight special issues relevant to a material impact for a shorter period of time, for instance
+initiatives regarding the health and safety of consumers and/or end-users in relation to contamination of a product
+or severe breach of privacy due to a massive data leak.
+AR 2. The overview of social and human rights matters provided in paragraph 2 is not meant to imply that all of these
+issues should be disclosed in each Disclosure Requirement in this Standard. Rather, it provides a list of matters
+that the undertaking shall consider in its materiality assessment (ref. to ESRS 1 chapter 3 Double materiality as the
+basis for sustainability disclosures and ESRS 2 IRO-1) related to consumers and/or end-users and, subsequently,
+disclose as material impacts, risks and opportunities within the scope of this Standard.
+ESRS 2 General disclosures
+Strategy
+Disclosure Requirement related to ESRS 2 SBM-2 – Interests and views of stakeholders
+AR 3. ESRS 2 SBM-2 requires the undertaking to provide an understanding of if and how it considers whether its strategy
+and business model play a role in creating, exacerbating or (conversely) mitigating significant material impacts on
+consumers and/or end-users, and whether and how the business model and strategy are adapted to address such
+material impacts.
+AR 4. While consumers and/or end-users may not be engaging with the undertaking at the level of its strategy or
+business model, their views can inform the undertaking’s assessment of its strategy and business model. The
+undertaking may disclose the views of the (actual or potential) materially affected consumers and/or end-users’
+legitimate representatives or those of credible proxies that have insight into their situation.
+Disclosure Requirement related to ESRS 2 SBM-3 – Material impacts, risks and opportunities and their interaction
+with strategy and business model
+AR 5. Impacts on consumers and/or end-users can originate in the undertaking’s business model or strategy in a number
+of different ways. For example, impacts may relate to the undertaking’s value proposition (for example, providing
+online platforms with potential for online and offline harm), its value chain (for example, speed in developing

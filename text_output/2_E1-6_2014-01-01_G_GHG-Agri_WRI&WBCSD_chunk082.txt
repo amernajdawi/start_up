@@ -1,0 +1,46 @@
+File Name: 2_E1-6_2014-01-01_G_GHG-Agri_WRI&WBCSD.pdf
+Converted on: 2025-03-28 03:18:26
+Original Size: 1.75 MB
+Chunk Size: 500 tokens with 50 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 82 of 108
+--------------------------------------------------------------------------------
+
+The reporting of scope 3 sources  is optional, but encouraged  
+Scope 3 sources are many and diverse. The Sc ope 3 Standard identifies 15 distinct
+categories. These include the activities of  the reporting company’s direct suppliers, 
+cradle-to-gate impacts further upstream, as well as downstream activities, such as the
+customer use and disposal of products the company has manufactured and sold.  Which 
+scope 3 sources should be included in an inventory? Companies may either:  
+ 1. Report scope 3 emissions in accordance with  the Corporate Standard (i.e. scope 3 
+sources are optional)  
+2. Report scope 3 emissions in accordance with the Scope 3 Standard  
+ For many companies, scope 3 emissions will represent a significant component of overall GHG impacts. For instance, the manufacture of  fertilizer and livestock feed will be 
+important scope 3 sources for crop and lives tock operations, respectively. Moreover,
+companies may undertake some actions that reduce their scope 1 and 2 emissions, but
+that then increase their scope 3 emissions (e.g., the outsourcing of feed production).  For 
+these reasons, specific scope 3 sources s hould be reported where those sources are
+considered significant. Criteria for as sessing significance can include amounts of
+emissions, emissions reduction potential, contri bution to risk exposur e (e.g., regulatory or
+reputational risks), and importance to stakeh olders. In general, the scope 3 emissions
+from fertilizer and feed production should be included in inventories, where possible.  
+9.4 Agricultural offset and renewable energy projects
+
+Companies can generate renewabl e energy in many ways, including:
+ Developing their own wind turbines or leasing land to wind power development
+firms  
+ Growing trees, short rotation woodland a nd short rotation coppi ce as a source of
+biomass fuel stock  
+ Installing anaerobic digesters to produce methane as fuel for electricity or heat
+ Developing farm-scale micro hydroelectricity  schemes (typically less than ~ 100kW)  
+ Using solar panels
+
+Such projects are a potential s ource of offset credits. Other offset projects could be based
+on the reforestation or rest oration of degraded lands and changes in fertilizer
+management.    
+
+--- Page 75 of 103 ---
+
+GHG Protocol Agricultural Guidance

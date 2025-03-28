@@ -1,0 +1,36 @@
+File Name: 2_E1-6_2011-09-01_G_GHG-PLC_WRI&WBCSD.pdf
+Converted on: 2025-03-28 03:18:25
+Original Size: 3.27 MB
+Chunk Size: 500 tokens with 50 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 137 of 226
+--------------------------------------------------------------------------------
+
+Many products contain carbon as part of their chemical
+makeup or composition. This carbon, which can be
+biogenic or non-biogenic, is either recycled or reused
+in another product cycle, released as CO2 or CH4 during
+waste treatment (due to combustion or decomposition),
+or stored as a result of waste treatment (due to land
+filling or other treatments that prevent decomposition). Companies shall report when carbon contained in
+a product or its components is not released to the
+atmosphere during waste treatment and therefore is
+considered stored. The amount of carbon stored will
+depend on the waste treatment process, the scientific
+understanding of the product’s degradation in certain
+environments, and the time period chosen. More
+information on time period is available in chapter 7.
+In cradle-to-gate inventories, contained carbon leaves the
+boundary of the inventory as part of the intermediate
+product. For intermediate product cradle-to-gate inventory
+results to be useful to a downstream customer doing a final
+product cradle-to-grave inventory, companies shall report
+the amount of carbon contained in the product leaving the
+boundary (e.g., gate). Companies may include additional
+information about the end-of-life properties of an
+intermediate product separate from the inventory results.
+requirements
+
+--- Page 90 of 148 ---

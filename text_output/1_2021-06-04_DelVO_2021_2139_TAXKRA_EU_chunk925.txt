@@ -1,0 +1,46 @@
+File Name: 1_2021-06-04_DelVO_2021_2139_TAXKRA_EU.pdf
+Converted on: 2025-03-28 03:18:03
+Original Size: 2.76 MB
+Chunk Size: 500 tokens with 50 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 925 of 966
+--------------------------------------------------------------------------------
+
+4. The economic activity has the potential to reduce material impacts due to climate risks identified through a
+robust climate risk assessment in another economic activity through the development, research, or innovation of
+solutions, technologies, products, processes or business models, the risk reduction potential of which has at least
+been demonstrated in an operational environment (  639  ) at pre-commercial scale and are further substantiated 
+through at least one of the following elements:
+(a) the first use of a patent not older than 10 years associated with the solution, technology, product, process or
+business model;
+(b) other forms of intellectual property rights associated with the solution, technology, product, process or
+business model, such as trade secrets, trademarks or copyrights;
+(c) a permit obtained from a competent authority for operating the demonstration site associated with the
+solution, technology, product, process or business model for the duration of the demonstration project.
+5. The economic activity uses state-of-art climate projections and assessment of impacts, the best available
+science for vulnerability and risk analysis and related methodologies in accordance with the most recent Inter ­
+governmental Panel on Climate Change reports and scientific peer-reviewed publications as a benchmark for the
+solutions, technologies, products, processes or business models it develops.  
+Do no significant harm (‘DNSH’)  
+(1) Climate change mitigation  The activity is not undertaken for the purposes of fossil fuel extraction, 
+transport or use.
+The projected life-cycle GHG emissions from the researched technology,
+product or other solution do not undermine GHG mitigation objectives
+under the Paris Agreement or hinder the deployment of climate mitigation
+solutions.  
+(3) Sustainable use and protection of
+water and marine resources  Any potential risks to the good status or the good ecological potential of 
+bodies of water, including surface water and groundwater, or to the good
+environmental status of marine waters from the researched technology,
+product or other solution are evaluated and addressed.  
+(4) Transition to a circular economy  Any potential risks to the circular economy objectives from the researched 
+technology, product or other solution are evaluated and addressed, by
+considering the types of potential significant harm as set out in
+Article 17(1), point (d), of Regulation (EU) 2020/852.  
+(5) Pollution prevention and control  Any potential risks to generate a significant increase in the emissions of 
+pollutants to air, water or land from the researched technology, product or
+other solution are evaluated and addressed.  
+(6) Protection and restoration of
+biodiversity and ecosystems  Any potential risks to the good condition or resilience of ecosystems or to

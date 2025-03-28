@@ -1,0 +1,46 @@
+File Name: 1_2021-07-06_DelVO_2021_2178_TAXORA_EU.pdf
+Converted on: 2025-03-28 03:20:32
+Original Size: 10.30 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 41 of 47
+--------------------------------------------------------------------------------
+
+2.4. Calculation methodology
+With regard to the computation of the GAR for investment firms’ services and activities dealing on own account,
+investment firms shall rely on the turnover KPI and CapEx KPI of investee undertakings for each environmental objective.
+The numerator shall be designed as the value of investments weighted by the proportion of Taxonomy-aligned economic
+activities with a breakdown for transition and enabling activities of the investee undertaking, that is by the proportion of
+turnover and CapEx of the investee undertaking associated with Taxonomy-aligned economic activities.
+The weighted average of the value of investments shall be based on the proportion of Taxonomy-aligned economic
+activities of investee companies measured by the following:
+(a) for investees that are non-financial undertakings, turnover and CapEx KPIs as resulting from the calculation of the KPIs
+of the investee in accordance with Annexes I and II;
+(b) for investees that are asset managers, turnover-based and CapEx based KPIs as resulting from the calculation of the KPIs of the investee in accordance with Annexes III and IV;
+(c) for investees that are credit institutions, the turnover-based and CapEx based green asset ratio as resulting from the calculation of the green asset ratio of the investee in accordance with Annexes V and VI;
+(d) for investees that are investments firms, investments and revenues, as resulting from the calculation of the turnover- based and CapEx based KPIs of the investee in accordance with Annexes VII and VIII in accordance with the
+proportion of services and activities of dealing on own account and not dealing on own account in the income of the
+investment firm;
+(e) for investees that are insurance or reinsurance undertakings, investments, gross premiums written or, as applicable, total insurance revenue, as resulting from the calculation either of the turnover-based or CapEx based investments KPI
+or combined, where applicable, with the underwriting KPI of the non-life investee insurance and reinsurance
+undertakings in accordance with Annexes IX and X.
+For debt securities issued by an investee undertaking with the purpose to fund specific activities or projects, or where the investee undertaking issued environmentally sustainable bonds, investment firms shall assess those debt securities based
+on whether they fund Taxonomy-aligned economic activities or projects, on the basis of information provided by investee
+undertaking.
+By way of derogation from the second and third subparagraph of this point 2.4, debt securities with the purpose of
+financing specific identified activities or projects or environmentally sustainable bonds issued by an investee undertaking
+shall be included in the numerator up to the value of Taxonomy-aligned economic activities that the proceeds of those
+bonds and debt securities finance, on the basis of information provided by the investee undertaking.
+For the denominator, total assets shall include all assets invested by investment firms on own account.
+3. Investment firms not dealing on own account
+Investment firms not dealing on their own account shall disclose the following KPIs:3.1. KPIs related to revenue, including fees, commissions and other monetary benefits as:
+— proportion of revenue from services and activities associated with Taxonomy-eligible economic activities within total
+revenue from investment services and activities;
+— proportion of revenue from investment services and activities associated with Taxonomy-aligned economic activities
+within revenue from investment services and activities associated with Taxonomy-eligible economic activities; and
+— proportion of revenue from investment services and activities associated with Taxonomy-aligned economic activities
+within total revenue from investment services and activities (GAR).EN Official Journal of the European Union 10.12.2021 L 443/55  
+
+--- Page 48 of 59 ---

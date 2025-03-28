@@ -1,0 +1,99 @@
+File Name: 2_E1-6_2014-01-01_G_GHG-Agri_WRI&WBCSD.pdf
+Converted on: 2025-03-28 03:20:54
+Original Size: 1.75 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 10 of 65
+--------------------------------------------------------------------------------
+
+GHG emissions . The terms ‘ farm ’ , ‘ farmland ’ and ‘ agricultural land ’ are also used interchangeably to refer to the land on which agriculture is practiced . 2 See paragraph 1 of ‘ Report of the Conference of the Parties on its fifteenth session , held in Copenhagen from 7 to 19 December 2009 ’ ( http : / / unfccc . int / documentation / documents / adva nced_search / items / 6911 . php ? priref = 600005735 ) - - - Page 6 of 103 - - - GHG Protocol Agricultural Guidance
+
+6
+ (Figure 1-1), and together they  directly contributed about 11%3 of total global 
+anthropogenic emissions in 2010, and roughly 60% of all nitrous oxide (N 2O) emissions
+and 50% of all methane (CH 4) emissions in 2007 (Smith et al., 2007a). Land use change  
+(LUC), caused by the conversion of native habita ts to farmland, contributes a comparable
+amount of emissions (Houghton, 2012). Finally, the production of agricultural inputs and
+various downstream activities, such as the processing and transport of agricultural
+products, contributes a further 3 - 6 % of global emissions (Vermuelen et al., 2012).  
+ Figure 1-1.  Agricultural practices that emit GHGs.  
+
+Source: IPPC (2006), with permission.  
+
+1.2 What is the Greenhouse Gas Protocol?
+
+The GHG Protocol is a multi-stakeholder pa rtnership of businesses, non-governmental
+organizations (NGOs), governments and ot hers convened by the World Resources
+Institute (WRI) and the World Business Counc il for Sustainable Development (WBCSD).
+Launched in 1998, the mission of the GHG Protocol  is to develop and promote the use of 
+industry-accepted best practices for GHG accounting. To date, the GHG Protocol has
+released four standards that define best practices for how GHG emissions inventories
+should be performed at the enterprise, proj ect, and product levels (Table 1-1). All
+publications are available from the GHG Protocol website ( www.ghgprotocol.org ).
+
+3 Value calculated using data from Tubiello et al., (2014) and WRI (2014)
+
+--- Page 7 of 103 ---
+
+GHG Protocol Agricultural Guidance
+
+7
+This Guidance defines agriculture as
+the cultivation of animals, plants, and fungi for food, fiber, biofuels,
+drugs or other purposes .*
+
+Definition developed by the stakeholders
+involved in this Guidance’s development
+process.  Table 1-1.  The GHG Protocol family of publications  
+Type of GHG assessment   GHG Protocol publication  
+Enterprise ‐level  
+  Development  of GHG emissions  
+inventories  that itemize the 
+emissions  from all of the 
+operations  that together comprise 
+the reporting  company 
+ Corporate  Accounting  and Reporting  
+Standard (‘Corporate  Standard’)   
+
+The Corporate  Value Chain (Scope 3) 
+Accounting  and Reporting  Standard 
+(‘Scope 3 Standard’)  provides additional  
+requirements  and guidance on 
+developing  comprehensive  inventories  
+of scope 3 emissions  (see Box 1‐1 for an 
+introduction  to the concept of ‘scopes’) 
+Project‐level  
+ The quantification  of the GHG 
+impacts of projects that have been
+undertaken  to reduce emissions,  
+avoid emissions  occurring  in the 
+future, or sequester  carbon Project Protocol 
+Product‐level  The development  of GHG 
+emissions  inventories  of the entire 
+life cycle impacts of individual  
+products or services, from raw
+material extraction  to product 
+disposal Product Life Cycle Accounting  and 
+Reporting  Standard (‘Product  Standard’)  
+
+1.3 Why an Agricultural Guidance?
+
+The Corporate Standard pr ovides a high-level, cross-
+sector accounting framework. But, it does not address many accounting and reporting issues specific to agriculture. These include:
+ The profound influence of environmental factors on
+agricultural GHG fluxes  (emissions or removals)
+4,
+which complicates efforts to separate anthropogenic from non-anthropogenic effect s and thus ensure that
+GHG inventories are useful as management tools.
+ Obtaining accurate, site-specific flux data  when environmental conditions vary a lot 
+across landscapes.  
+ Setting and tracking progress toward emi ssion reduction goals against a background
+of highly variable GHG fluxes.  
+
+4 GHG fluxes are the emissions to or re movals from the atmosphere of GHGs.  
+
+--- Page 8 of 103 ---
+
+GHG Protocol Agricultural Guidance

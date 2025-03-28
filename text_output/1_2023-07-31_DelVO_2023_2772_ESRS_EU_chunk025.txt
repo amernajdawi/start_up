@@ -1,0 +1,51 @@
+File Name: 1_2023-07-31_DelVO_2023_2772_ESRS_EU.pdf
+Converted on: 2025-03-28 03:20:41
+Original Size: 5.82 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 25 of 284
+--------------------------------------------------------------------------------
+
+--- Page 22 of 284 ---
+
+ELI: http://data.europa.eu/eli/reg_del/2023/2772/oj 22/284127. Consistency as required by paragraph 126 shall be at the level of a single datapoint and shall include a reference to the
+relevant line item or paragraph of notes to the financial statements. When significant data, assumptions and
+qualitative information are not consistent, the undertaking shall state that fact and explain the reason.
+128. Examples of items for which the explanation in paragraph 126 is required, are:
+(a) when the same metric is presented as of the reporting date in financial statements and as a forecast for future
+periods in the sustainability statement ; and
+(b) when macroeconomic or business projections are used to develop metrics in the sustainability statement and
+they are also relevant in estimating the recoverable amount of assets, the amount of liabilities or provisions in
+financial statements.
+129. Topical and sector-specific ESRS may include requirements to include reconciliations or to illustrate consistency of
+data and assumptions for specific Disclosure Requirements. In such cases, the requirements in those ESRS shall
+prevail.
+10 Transitional provisions
+10.1 Transitional provision related to entity-specific disclosures
+130. The extent to which sustainability matters are covered by ESRS is expected to evolve as further Disclosure
+Requirements are developed. Therefore, the need for entity-specific disclosures is likely to decrease over time, in
+particular as a result of the future adoption of sector specific standards.
+131. When defining its entity-specific disclosures, the undertaking may adopt transitional measures for their preparation
+in the first three annual sustainability statements under which it may as a priority:
+(a) introduce in its reporting those entity-specific disclosures that it reported in prior periods, if these disclosures meet or are adapted to meet the qualitative characteristics of information referred to under chapter 2 of this
+Standard; and
+(b) complement its disclosures prepared on the basis of the topical ESRS with an appropriate set of additional disclosures to cover sustainability matters that are material for the undertaking in its sector(s), using available
+best practice and/or available frameworks or reporting standards, such as IFRS industry-based guidance and GRI
+Sector Standards.
+10.2 Transitional provision related to chapter 5 Value chain
+132. For the first 3 years of the undertaking’s sustainability reporting under the ESRS, in the event that not all the
+necessary information regarding its upstream and downstream value chain is available, the undertaking shall explain
+the efforts made to obtain the necessary information about its upstream and downstream value chain, the reasons
+why not all of the necessary information could be obtained, and its plans to obtain the necessary information in the
+future.
+133. For the first 3 years of its sustainability reporting under the ESRS, in order to take account of the difficulties that undertakings may encounter in gathering information from actors throughout their value chain and in order to
+limit the burden for SMEs in the value chain:
+(a) when disclosing information on policies, actions and targets in accordance with ESRS2 and other ESRS, the
+undertaking may limit upstream and downstream value chain information to information available in-house,
+such as data already available to the undertaking and publicly available information; and
+(b) when disclosing metrics, the undertaking is not required to include upstream and downstream value chain
+information, except for datapoints derived from other EU legislation, as listed in ESRS 2 Appendix B.OJ L, 22.12.2023 EN  
+
+--- Page 23 of 284 ---

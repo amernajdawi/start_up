@@ -1,0 +1,38 @@
+File Name: 2_E1-6_2004-03_G_GHG-Prot_WRI&WBCSD.pdf
+Converted on: 2025-03-28 03:20:43
+Original Size: 3.51 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 60 of 104
+--------------------------------------------------------------------------------
+
+y following the GHG Protocol Corporate Standard
+reporting requirements, users adopt a compre-
+hensive standard with the necessary detail and
+transparency for credible public reporting. The appropriate level of reporting of optional informationcategories can be determined by the objectives andintended audience for the report. For national or voluntary GHG programs, or for internal managementpurposes, reporting requirements may vary (Appendix Csummarizes the requirements of various GHG programs).
+For public reporting, it is important to differentiate
+between a summary of a public report that is, forexample, published on the Internet or in Sustainability/Corporate Social Responsibility reporting (e.g., Global Reporting Initiative) and a full public reportthat contains all the necessary data as specified by thereporting standard spelled out in this volume. Notevery circulated report must contain all information as specified by this standard, but a link or referenceneeds to be made to a publicly available full reportwhere all information is available.
+For some companies, providing emissions data for
+specific GHGs or facilities/business units, or reportingratio indicators, may compromise business confiden-tiality. If this is the case, the data need not be publiclyreported, but can be made available to those auditing theGHG emissions data, assuming confidentiality is secured.
+Companies should strive to create a report that is as
+transparent, accurate, consistent and complete aspossible. Structurally, this may be achieved by adoptingthe reporting categories of the standard (e.g., requireddescription of the company and inventory boundary,required information on corporate emissions, optionalinformation on emissions and performance, andoptional information on offsets) as a basis of the report.Qualitatively, including a discussion of the reportingcompany’s strategy and goals for GHG accounting,any particular challenges or tradeoffs faced, thecontext of decisions on boundaries and other accountingparameters, and an analysis of emissions trends may help provide a complete picture of the company’sinventory efforts. Double Counting
+Companies should take care to identify and exclude fromreporting any scope 2 or scope 3 emissions that are also reported as scope 1 emissions by other facilities,business units, or companies included in the emissionsinventory consolidation (see chapter 6).
+Use of ratio indicators
+Two principal aspects of GHG performance are ofinterest to management and stakeholders. One concernsthe overall GHG impact of a company—that is theabsolute quantity of GHG emissions released to theatmosphere. The other concerns the company’s GHGemissions normalized by some business metric thatresults in a ratio indicator. The
+GHG Protocol Corporate
+Standard requires reporting of absolute emissions;
+reporting of ratio indicators is optional.
+Ratio indicators provide information on performance
+relative to a business type and can facilitate compar-isons between similar products and processes over time.Companies may choose to report GHG ratio indicatorsin order to:
+Evaluate performance over time (e.g., relate figures
+from different years, identify trends in the data, andshow performance in relation to targets and baseyears (see chapter 11).
+Establish a relationship between data from different
+categories. For example, a company may want toestablish a relationship between the value that anaction provides (e.g., price of a tonne of product) andits impact on society or on the environment (e.g.,emissions from product manufacturing).
+Improve comparability between different sizes of busi-
+ness and operations by normalizing figures (e.g., byassessing the impact of different sized businesses onthe same scale).
+It is important to recognize that the inherent diversity
+of businesses and the circumstances of individualcompanies can result in misleading indicators.Apparently minor differences in process, product, orlocation can be significant in terms of environmentaleffect. Therefore, it is necessary to know the businesscontext in order to be able to design and interpretratio indicators correctly.CHAPTER 9 Reporting GHG Emissions 65GUIDANCEB
+
+--- Page 68 of 116 ---

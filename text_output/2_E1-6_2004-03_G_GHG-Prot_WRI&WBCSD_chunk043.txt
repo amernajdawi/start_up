@@ -1,0 +1,37 @@
+File Name: 2_E1-6_2004-03_G_GHG-Prot_WRI&WBCSD.pdf
+Converted on: 2025-03-28 03:20:43
+Original Size: 3.51 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 43 of 104
+--------------------------------------------------------------------------------
+
+A corporate GHG inventory program includes all institu-
+tional, managerial, and technical arrangements made forthe collection of data, preparation of the inventory, andimplementation of steps to manage the quality of theinventory.
+1The guidance in this chapter is intended to
+help companies develop and implement a qualitymanagement system for their inventory.
+Given an uncertain future, high quality information will
+have greater value and more uses, while low qualityinformation may have little or no value or use and mayeven incur penalties. For example, a company maycurrently be focusing on a voluntary GHG program butalso want its inventory data to meet the anticipatedrequirements of a future when emissions may havemonetary value. A quality management system is essential to ensuring that an inventory continues to meet the principles of the
+GHG Protocol Corporate
+Standard and anticipates the requirements of future
+GHG emissions programs.
+Even if a company is not anticipating a future regulatory
+mechanism, internal and external stakeholders willdemand high quality inventory information. Therefore,the implementation of some type of quality managementsystem is important. However, the
+GHG Protocol Corporate
+Standard recognizes that companies do not have unlim-
+ited resources, and, unlike financial accounting,corporate GHG inventories involve a level of scientificand engineering complexity. Therefore, companies shoulddevelop their inventory program and quality manage-ment system as a cumulative effort in keeping with theirresources, the broader evolution of policy, and their owncorporate vision.
+A quality management system provides a systematic
+process for preventing and correcting errors, and identifies areas where investments will likely lead tothe greatest improvement in overall inventory quality.However, the primary objective of quality management is ensuring the credibility of a company’s GHG inven-tory information. The first step towards achieving thisobjective is defining inventory quality.Defining inventory quality
+The GHG Protocol Corporate Standard outlines five
+accounting principles that set an implicit standard forthe faithful representation of a company’s GHG emissionthrough its technical, accounting, and reporting efforts(see chapter 1). Putting these principles into practicewill result in a credible and unbiased treatment and pres-entation of issues and data. For a company to followthese principles, quality management needs to be anintegral part of its corporate inventory program. Thegoal of a quality management system is to ensure thatthese principles are put into practice.CHAPTER 7 Managing Inventory Quality 49GUIDANCEKPMG, a global services company, found that a key factor in thederivation of reliable, verifiable GHG data is the integration ofGHG data management and reporting mechanisms with compa-nies’ core operational management and assurance processes.This is because:
+•It is more efficient to widen the scope of existing embedded
+management and assurance processes than to develop a separatefunction responsible for generating and reporting GHG information.
+•As GHG information becomes increasingly monetized, it will
+attract the same attention as other key performance indicatorsof businesses. Therefore, management will need to ensureadequate procedures are in place to report reliable data. Theseprocedures can most effectively be implemented by functionswithin the organization that oversee corporate governance,internal audit, IT, and company reporting.
+Another factor that is often not given sufficient emphasis is
+training of personnel and communication of GHG objectives. Datageneration and reporting systems are only as reliable as thepeople who operate them. Many well-designed systems failbecause the precise reporting needs of the company are notadequately explained to the people who have to interpret areporting standard and calculation tools. Given the complexity ofaccounting boundaries and an element of subjectivity that mustaccompany source inclusion and equity share, inconsistent inter-pretation of reporting requirements is a real risk. It is alsoimportant that those responsible for supplying input data areaware of its use. The only way to minimize this risk is throughclear communication, adequate training and knowledge sharing.KPMG:  The value of integrating 
+GHG management with existing systems
+
+--- Page 52 of 116 ---

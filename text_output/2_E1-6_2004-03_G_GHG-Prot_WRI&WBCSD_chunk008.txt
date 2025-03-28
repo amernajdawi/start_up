@@ -1,0 +1,57 @@
+File Name: 2_E1-6_2004-03_G_GHG-Prot_WRI&WBCSD.pdf
+Converted on: 2025-03-28 03:20:43
+Original Size: 3.51 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 8 of 104
+--------------------------------------------------------------------------------
+
+emission sources hadundergone considerable changes over the last seven years . Emissions from production processes , which were considered to beirrelevant at a corporate level in 1996 , today constitute almost 20 percent of aggregated GHG emissions at the relevant plantsites . Examples of growing emissions sources are new sites forengine testing or the investment into magnesium die - castingequipment at certain production sites . This example shows thatemissions sources have to be regularly re - assessed to maintain acomplete inventory over time . Volkswagen : Maintaining completeness over timeGUIDANCE - - - Page 12 of 116 - - -
+
+10 mproving your understanding of your company’s GHG emissions by compiling a GHG inventory makes good business sense. Companies frequently cite the following five business goals as reasons for compiling a GHG inventory: Managing GHG risks and identifying reduction opportunities Public reporting and participation in voluntary GHG programs Participating in mandatory reporting programs Participating in GHG markets Recognition for early voluntary actionI2Business Goals and Inventory Design GUIDANCEGUIDANCE
+
+--- Page 13 of 116 ---
+
+Companies generally want their GHG inventory to be
+capable of serving multiple goals. It therefore makessense to design the process from the outset to provideinformation for a variety of different users and uses—both current and future. The
+GHG Protocol
+Corporate Standard has been designed as a comprehensive
+GHG accounting and reporting framework to provide the information building blocks capable of serving mostbusiness goals (see Box 1). Thus the inventory datacollected according to the
+GHG Protocol Corporate
+Standard can be aggregated and disaggregated for
+various organizational and operational boundaries andfor different business geographic scales (state, country,Annex 1 countries, non-Annex 1 countries, facility,business unit, company, etc.). Appendix C provides an overview of various GHG
+programs—many of which are based on the
+GHG Protocol
+Corporate Standard . The guidance sections of chapters 3
+and 4 provide additional information on how to designan inventory for different goals and uses.
+Managing GHG risks
+and identifying reduction opportunities
+Compiling a comprehensive GHG inventory improves
+a company’s understanding of its emissions profile and any potential GHG liability or “exposure.” Acompany’s GHG exposure is increasingly becoming amanagement issue in light of heightened scrutiny by theinsurance industry, shareholders, and the emergence ofenvironmental regulations/policies designed to reduceGHG emissions.
+In the context of future GHG regulations, significant
+GHG emissions in a company’s value chain may result inincreased costs (upstream) or reduced sales (down-stream), even if the company itself is not directly subjectto regulations. Thus investors may view significant indi-rect emissions upstream or downstream of a company’soperations as potential liabilities that need to bemanaged and reduced. A limited focus on direct emis-sions from a company’s own operations may miss majorGHG risks and opportunities, while leading to a misin-terpretation of the company’s actual GHG exposure.
+On a more positive note, what gets measured gets
+managed. Accounting for emissions can help identifythe most effective reduction opportunities. This candrive increased materials and energy efficiency as wellas the development of new products and services thatreduce the GHG impacts of customers or suppliers. Thisin turn can reduce production costs and help differen-tiate the company in an increasingly environmentallyconscious marketplace. Conducting a rigorous GHGinventory is also a prerequisite for setting an internalor public GHG target and for subsequently measuringand reporting progress. CHAPTER 2 Business Goals and Inventory Design 11GUIDANCEBOX 1. Business goals served by GHG inventories
+Managing GHG risks and identifying reduction opportunities Identifying risks associated with GHG constraints in the future
+Identifying cost effective reduction opportunities
+Setting GHG targets, measuring and reporting progress
+Public reporting and participation in voluntary GHG programs
+Voluntary stakeholder reporting of GHG emissions and progress
+towards GHG targets
+Reporting to government and NGO reporting programs,
+including GHG registries
+Eco-labelling and GHG certification
+Participating in mandatory reporting programs
+Participating in government reporting programs at the national,
+regional, or local level
+Participating in GHG markets
+Supporting internal GHG trading programs
+Participating in external cap and trade allowance trading programs
+Calculating carbon/GHG taxes
+Recognition for early voluntary action
+Providing information to support “baseline protection” and/or
+credit for early action
+
+--- Page 14 of 116 ---

@@ -1,0 +1,31 @@
+File Name: 1_2023-06-27_DelVO_2023_2486_TAXURA_EU.pdf
+Converted on: 2025-03-28 01:55:43
+Original Size: 8.44 MB
+Chunk Size: 400 tokens with 50 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 445 of 447
+--------------------------------------------------------------------------------
+
+--- Page 152 of 164 ---
+
+ELI: http://data.europa.eu/eli/reg_del/2023/2486/oj 152/1641. Assets for the calculation of GAR OJ L, 21.11.2023 EN 
+
+--- Page 153 of 164 ---
+
+ELI: http://data.europa.eu/eli/reg_del/2023/2486/oj 153/164 OJ L, 21.11.2023 EN 
+
+--- Page 154 of 164 ---
+
+ELI: http://data.europa.eu/eli/reg_del/2023/2486/oj 154/1642. GAR sector information OJ L, 21.11.2023 EN 
+
+--- Page 155 of 164 ---
+
+ELI: http://data.europa.eu/eli/reg_del/2023/2486/oj 155/1643. GAR KPI stock 1. Institution shall dislcose in this template the GAR KPIs on stock of loans calculated based on the data disclosed in template 1, on covered assets, and by applying the formulas proposed in this template 2. Information on the GAR (green asset ratio of ‘eligible’ activities) shall be accompanied with information on the proportion of total assets covered by the GAR 3. Credit institutions can, in addition to the information included in this template, show the proportion of assets funding taxonomy relevant sectors that are environmentally sustainable (Taxonomy-aligned). This information would enrich the information on the KPI on environmentally sustainable assets compared to total covered assets 4. Credit institutions shall duplicate this template for revenue-based and CapEx-based disclosures OJ L, 21.11.2023 EN 
+
+--- Page 156 of 164 ---
+
+ELI: http://data.europa.eu/eli/reg_del/2023/2486/oj 156/164 OJ L, 21.11.2023 EN 
+
+--- Page 157 of 164 ---

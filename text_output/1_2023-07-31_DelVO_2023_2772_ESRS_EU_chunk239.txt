@@ -1,0 +1,51 @@
+File Name: 1_2023-07-31_DelVO_2023_2772_ESRS_EU.pdf
+Converted on: 2025-03-28 03:20:41
+Original Size: 5.82 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 239 of 284
+--------------------------------------------------------------------------------
+
+ELI: http://data.europa.eu/eli/reg_del/2023/2772/oj 238/284(b) whether and how it has taken action to provide or enable remedy in relation to an actual material impact;
+(c) any additional actions or initiatives it has in place with the primary purpose of positively contributing to
+improved social outcomes for consumers and/or end-users; and
+(d) how it tracks and assesses the effectiveness of these actions and initiatives in delivering intended outcomes for
+consumers and/or end-users.
+32. In relation to paragraph 28, the undertaking shall describe:
+(a) the processes through which it identifies what action is needed and appropriate in response to a particular actual
+or potential negative impact on consumers and/or end-users;
+(b) its approaches to taking action in relation to specific material negative impacts on consumers and/or end-users,
+including any action in relation to its own practices regarding product design, marketing or sales, as well as
+whether wider industry or collaborative action with other relevant parties will be required; and
+(c) how it ensures that processes to provide or enable remedy in the event of material negative impacts are available
+and effective in their implementation and outcomes.
+33. In relation to material risks and opportunities, the undertaking shall describe:
+(a) what action is planned or underway to mitigate material risks for the undertaking arising from its impacts and
+dependencies on consumers and/or end-users and how it tracks effectiveness in practice; and
+(b) what action is planned or underway to pursue material opportunities for the undertaking in relation to
+consumers and/or end-users.
+34. The undertaking shall disclose whether and how it takes action to avoid causing or contributing to material negative
+impacts on consumers and/or end-users through its own practices, including, where relevant, in relation to
+marketing, sales and data use. This may include disclosing what approach is taken when tensions arise between the prevention or mitigation of material negative impacts and other business pressures.
+35. When preparing this disclosure, the undertaking shall consider whether severe human rights issues and incidents
+connected to its consumers and/or end-users have been reported and, if applicable, disclose these (
+119).
+36. Where the undertaking evaluates the effectiveness of an action by setting a target, in disclosing the information
+required under paragraph 32 (c), the undertaking shall consider ESRS 2 MDR-T Tracking effectiveness of policies and
+actions through targets.
+37. The undertaking shall disclose what resources are allocated to the management of its material impacts with information that enables users to gain an understanding of how the material impacts are managed.
+Metrics and targets
+Disclosure Requirement S4-5 – Targets related to managing material negative impacts, advancing positive impacts, and
+managing material risks and opportunities
+38. The undertaking shall disclose the time-bound and outcome-oriented targets it may have set related to:
+(a) reducing negative impacts on consumers and/or end-users; and/or
+(b) advancing positive impacts on consumers and/or end-users; and/or
+(c) managing material risks and opportunities related to consumers and/or end-users.
+(119)This information supports the information needs of financial market participants subject to Regulation (EU) 2019/2088 because it is
+derived from an additional indicator related to principal adverse impacts as set out by indicator #14 in Table III of Annex I of
+Commission Delegated Regulation (EU) 2022/1288 with regard to disclosure rules on sustainable investments (“Number of
+identified cases of severe human rights issues and incidents”).OJ L, 22.12.2023 EN  
+
+--- Page 239 of 284 ---

@@ -1,0 +1,49 @@
+File Name: 1_2023-07-31_DelVO_2023_2772_ESRS_EU.pdf
+Converted on: 2025-03-28 03:20:41
+Original Size: 5.82 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 32 of 284
+--------------------------------------------------------------------------------
+
+ELI: http://data.europa.eu/eli/reg_del/2023/2772/oj 30/284Appendix B
+Qualitative characteristics of information
+This appendix is an integral part of ESRS 1 and has the same authority as the other parts of the Standard. This appendix
+defines the qualitative characteristics that the information presented in the sustainability statement prepared according to
+ESRS shall meet.
+RelevanceQC 1. Sustainability information is relevant when it may make a difference in the decisions of users under a double
+materiality approach (see chapter 3 of this Standard).
+QC 2. Information may make a difference in a decision even if some users choose not to take advantage of it or are
+already aware of it from other sources. Sustainability information may impact decisions of users if it has
+predictive value, confirmatory value or both. Information has predictive value if it can be used as an input to
+processes employed by users to predict future outcomes. Sustainability information does not need to be a
+prediction or forecast to have predictive value, but rather has predictive value if employed by users in making
+their own predictions.
+QC 3. Information has confirmatory value if it provides feedback about (confirms or changes) previous evaluations.
+QC 4. Materiality is an entity-specific aspect of relevance based on the nature or magnitude, or both, of the items to
+which the information relates, as assessed in the context of the undertaking’s sustainability reporting (see chapter
+3 of this Standard).
+Faithful representation
+QC 5. To be useful, the information must not only represent relevant phenomena, it must also faithfully represent the
+substance of the phenomena that it purports to represent. Faithful representation requires information to be (i)
+complete, (ii) neutral and (iii) accurate.
+QC 6. A complete depiction of an impact, a risk or an opportunity includes all material information necessary for the
+users to understand that impact, risk or opportunity. This includes how the undertaking has adapted its strategy,
+risk management and governance in response to that impact, risk or opportunity, as well as the metrics identified
+to set targets and measure performance.
+QC 7. A neutral depiction is without bias in its selection or disclosure of information. Information is neutral if it is not
+slanted, weighted, emphasised, de-emphasised or otherwise manipulated to make it more likely that the users will
+receive that information favourably or unfavourably. It shall be balanced, so as to cover favourable/positive and unfavourable/negative aspects. Both negative and positive material impacts from an impact materiality
+perspective as well as material risks and opportunities from a financial materiality perspective shall receive
+equal attention. Any aspirational sustainability information, for example targets or plans, shall cover both
+aspirations and factors that could prevent the undertaking from achieving these aspirations in order to have a
+neutral depiction.
+QC 8. Neutrality is supported by the exercise of prudence which is the exercise of caution when making judgements
+under conditions of uncertainty. Information shall not be netted or compensated to be neutral. The exercise of
+prudence means that opportunities are not overstated and risks are not understated. Equally, the exercise of
+prudence does not allow for the understatement of opportunities or the overstatement of risks. The undertaking may present net information, in addition to gross values, if such presentation does not obscure relevant
+information and includes a clear explanation about the effects of the netting and the reasons for the netting.OJ L, 22.12.2023 EN  
+
+--- Page 31 of 284 ---

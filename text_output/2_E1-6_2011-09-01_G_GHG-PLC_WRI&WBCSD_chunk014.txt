@@ -1,0 +1,71 @@
+File Name: 2_E1-6_2011-09-01_G_GHG-PLC_WRI&WBCSD.pdf
+Converted on: 2025-03-28 03:20:53
+Original Size: 3.27 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 14 of 116
+--------------------------------------------------------------------------------
+
+[17]
+Table [3.1] Summary of requirements (continued)
+Chapter Requirements
+13.  Reporting  
+(continued)Inventory Results
+• The source and date of the GWP factors used
+• Total inventory results in units of CO2e per unit of analysis, which includes  
+all emissions and removals included in the boundary from biogenic sources,  
+non-biogenic sources, and land-use change impacts
+• Percentage of total inventory results by life cycle stage
+• Biogenic and non-biogenic emissions and removals separately, when applicable
+• Land use impacts separately, when applicable
+• Cradle-to-gate and gate-to-gate inventory results separately (or a clear statement
+that confidentiality is a limitation to providing this information)
+• The amount of carbon contained in the product or its components that is not
+released to the atmosphere during waste treatment, when applicable
+• For cradle-to-gate inventories, the amount of carbon contained in the
+intermediate product
+Assurance
+• The assurance statement including:
+•Whether the assurance was performed by a first or third party
+•Level of assurance achieved (limited or reasonable) and assurance opinion or
+the critical review findings
+•A summary of the assurance process
+•The relevant competencies of the assurance providers
+•How any potential conflicts of interests were avoided for first party assurance
+Setting Reduction Targets and Tracking Inventory Changes
+• Companies that report a reduction target and/or track performance over time
+shall include the following:
+•The base inventory and current inventory results in the updated inventory report
+•The reduction target, if established
+•Changes made to the inventory, if the base inventory was recalculated
+•The threshold used to determine when recalculation is needed
+ •Appropriate context identifying and describing any significant changes  
+that trigger base inventory recalculation
+•The change in inventory results as a percentage change over time between
+two inventories on the unit of analysis basis
+•An explanation of the steps taken to reduce emissions based on the
+inventory results
+14.  Setting Reduction 
+Targets and  
+Tracking Inventory
+Changes Over TimeNote: Setting a reduction target and tracking inventory changes over time is not
+required to claim conformance with the Product Standard. However, if companies
+choose to set a reduction target, the following requirements apply.
+To set reduction targets and track inventory changes over time, companies shall:
+• Develop and report a base inventory that conforms with the requirements of this
+standard
+• Recalculate the base inventory when significant changes in the inventory
+methodology occur and report those changes
+• Complete and disclose an updated inventory report including the updated results,
+the base inventory results, and the context for significant changes
+• Use a consistent unit of analysis to enable comparison and track performance
+over timeCHAPTER 03 Summary of Steps and Requirements
+requirements
+
+--- Page 20 of 148 ---
+
+04Principles of Product Life Cycle GHG Accounting and Reporting
+
+--- Page 21 of 148 ---

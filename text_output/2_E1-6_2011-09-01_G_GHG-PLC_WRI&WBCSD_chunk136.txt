@@ -1,0 +1,46 @@
+File Name: 2_E1-6_2011-09-01_G_GHG-PLC_WRI&WBCSD.pdf
+Converted on: 2025-03-28 03:18:25
+Original Size: 3.27 MB
+Chunk Size: 500 tokens with 50 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 136 of 226
+--------------------------------------------------------------------------------
+
+[87]
+CHAPTER 11 Calculating Inventory Results[87]
+referred to as emission discounting). In this standard,
+inventory results shall not be calculated with weighting
+factors. This is true for both biogenic and non-biogenic
+emissions, removals, and products. Companies may show
+the impact of delayed emissions and removals separately
+from the inventory results. It is important to note that
+if a weighting factor is applied to calculate the impact
+of delayed emissions or removals in the end-of-life
+stage, the same factor needs to be applied to end-of-life
+allocation of co-products and recycled materials.
+Offsets and avoided emissions are both classified as
+actions that occur outside the boundary of the product’s
+life cycle. Offsets are emission credits (in the form of
+emission trading or funding of emission-reductions1
+projects) that a company purchases to offset the studied
+product’s inventory results. Avoided emissions are
+quantified as emissions reductions that are indirectly
+caused by the studied product or a process that occurs
+in the studied product’s life cycle. Avoided emissions as
+defined here are not the same as emissions reductions
+that occur due to directly attributable reduction projects,
+or allocated emissions using the system expansion
+allocation method. Purchased offsets and avoided
+emissions shall not be deducted from the product’s
+total inventory results, but may be reported separately.
+Guidance on using offsets to meet reduction targets is
+available in chapter 14.
+Companies shall report the amount of carbon
+contained in the product or its components
+that is not released to the atmosphere
+during waste treatment, if applicable. For
+cradle-to-gate inventories, companies shall
+report the amount of carbon contained in the
+intermediate product.

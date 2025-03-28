@@ -1,0 +1,53 @@
+File Name: 2_E1-6_2014-01-01_G_GHG-Agri_WRI&WBCSD.pdf
+Converted on: 2025-03-28 03:18:26
+Original Size: 1.75 MB
+Chunk Size: 500 tokens with 50 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 96 of 108
+--------------------------------------------------------------------------------
+
+94
+ Table III-2. Additional features of  emissions calculators1 
+Tool Geographic focus Methodology Interface Uncertainty
+analysis
+Tools suitable for farm managers
+Brazil GHG Protocol Program
+calculation tool Brazil Methodologies and emission factors from Brazils national
+inventory and IPCC Tier 1 emission factors Excel-based  
+Carbon Accounting for Land
+Managers (CALM)  UK Emission factors from UK national inventory  Web-based  
+Carbon calculator for New
+Zealand Agriculture and
+Horticulture  New Zealand Methodologies and emi ssion factors from New Zealand’s 
+national inventory Web-based  
+Climate Friendly Food (CFF)
+Carbon Calculator  UK Uses methodologies from UK national inventory (Tiers 1 
+and 2 methods), as well as methods and EFs from academic
+literature Web-based  
+COLE-EZ 1605b Forest Carbon
+Reporting Tool  US Models and equations from a cademic literature Web-based  
+COLE-Lite  US The results correspond to the entries needed to report under 
+US 1605(b) Web-based  
+COMET-Farm: CarbOn
+Management Evaluation Tool for
+whole FARM GHG accounting  US Combination of process models (CENTURY/DAYCENT), 
+empirical models and IPCC Tier 1 emission factors  Web-based  
+COMET-VR: CarbOn
+Management Evaluation Tool for
+Voluntary Reporting of
+greenhouse gases V2.0  Continental US Combination of pr ocess models (CENTURY/DAYCENT), 
+empirical models and IPCC Tier 1 emission factors Web-based  
+Cool Farm Tool  Global Combination of LCA emission factors, empirical models, 
+Tier 1 and 2 methods and emi ssion factors, and academic
+literature Excel-based  
+C-PLAN  UK Above ground biomass is for forests. IPCC Tier 1 EFs Web-based  
+CQuest Lite  Global Online interface to NASA-CASA model Web-based  
+Dairy Greenhouse Gas Model
+(DairyGHG)  US Unknown Software 
+application  
+
+--- Page 95 of 103 ---
+
+GHG Protocol Agricultural Guidance

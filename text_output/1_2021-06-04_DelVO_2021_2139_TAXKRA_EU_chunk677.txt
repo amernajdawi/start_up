@@ -1,0 +1,21 @@
+File Name: 1_2021-06-04_DelVO_2021_2139_TAXKRA_EU.pdf
+Converted on: 2025-03-28 03:18:03
+Original Size: 2.76 MB
+Chunk Size: 500 tokens with 50 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 677 of 966
+--------------------------------------------------------------------------------
+
+services (version of 4.6.2021: https://ec.europa.eu/info/research-and-innovation/research-area/environment/nature-based-solutio ns_
+en/).
+( 344  ) See Communication from the Commission to the European Parliament, the Council, the European Economic and Social 
+Committee and the Committee of the Regions: Green Infrastructure (GI) — Enhancing Europe’s Natural Capital (COM/2013/0249
+final).
+( 345  ) Implementing Decision (EU) 2017/1442. 
+( 346  ) The final technology report resulting from the exchange of information with Member States, the industries concerned and non- 
+governmental organisations contains technical information on best available technologies used in medium combustion plants to
+reduce their environmental impacts, and on the emission levels achievable with best available and emerging technologies and the  
+related costs (version of 4.6.2021: https://circabc.europa.eu/ui/group/06f33a94-9829-4eee-b187-21bb783a0fbf/library/
+9a99a632-9ba8-4cc0-9679-08d929afda59/details).EN  9.12.2021 Official Journal of the European Union L 442/249

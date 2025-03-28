@@ -1,0 +1,23 @@
+File Name: 1_2023-06-27_DelVO_2023_2486_TAXURA_EU.pdf
+Converted on: 2025-03-28 03:18:09
+Original Size: 8.44 MB
+Chunk Size: 500 tokens with 50 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 208 of 380
+--------------------------------------------------------------------------------
+
+(a) a procedure is in place to check the suitability for preparing for re-use or recycling, and that the activity implements a
+publicly available waste management plan, which ensures that discarded end-of-life products not suitable for
+preparing for re-use (due to damage, degradation or hazardous substances) are sent for recycling or, only where reuse
+and recycling is not viable, disposed of;
+(b) the procedure which can be based on visual or manual external inspection against pre-determined criteria is suited to
+the category of discarded end-of-life products, which are prepared for re-use;
+(c) proper training is provided and ensures that the re-use operators are qualified for the preparing for re-use activities of the discarded end-of-life products at stake.
+4.The activity uses the tools and equipment suited for the preparation for re-use of discarded end-of-life products.
+5.The activity has a system to report recovery rate and, where applicable, targets for preparing for re-use or recycling set
+out by Union or national legislation.
+(169)In the Union, the activity is in line with Article 10(3) of Directive 2008/98/EC of the European Parliament and of the Council of
+19 November 2008 on waste and repealing certain Directives (OJ L 312, 22.11.2008, p. 3), or sectoral Union legislation related to
+waste and the national legislation and waste management plans.OJ L, 21.11.2023 EN

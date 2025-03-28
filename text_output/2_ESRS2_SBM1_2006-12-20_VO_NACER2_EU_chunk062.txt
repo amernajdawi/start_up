@@ -1,0 +1,29 @@
+File Name: 2_ESRS2_SBM1_2006-12-20_VO_NACER2_EU.pdf
+Converted on: 2025-03-28 03:18:28
+Original Size: 0.17 MB
+Chunk Size: 500 tokens with 50 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 62 of 78
+--------------------------------------------------------------------------------
+
+ANNEX III
+Annexes A, B, C and D of Regulation (EC) No 1165/98 are amended as follows:
+1. Annex A
+1.1. In Annex A, point (a) (‘Scope ’) shall be replaced by the following:
+‘(a) ScopeThis Annex applies to all activities listed in Sections B to E of NACE Rev. 2, or as the case may be, to all products listed
+in Sections B to E of the CPA. The information is not required for 37, 38.1, 38.2 and 39 of NACE Rev. 2. The list of
+activities may be revised in accordance with the procedure laid down in Article 18.’.
+1.2. In Annex A, point (c) (‘List of variables’), paragraphs 6, 7 and 8 shall be replaced by the following:
+‘6. The information on production (No 110) is not required for Division 36 and Groups 35.3 and 38.3 of NACE
+Rev. 2.
+7. The information on turnover (No 120, 121, 122) is not required for NACE Rev. 2, Section D and E.
+8. The information on orders (No 130, 131, 132) is only required for the following Divisions of NACE Rev. 2: 13,
+14, 17, 20, 21, 24, 25, 26, 27, 28, 29, 30. The list of activities may be revised in accordance with the procedurelaid down in Article 18.’.
+1.3. In Annex A, point (c) (‘List of variables’), paragraphs 9 and 10 shall be replaced by the following:
+‘9. The information on variables No 210, 220, 230 is not required for Group 38.3 of NACE Rev. 2.
+10. The information on output prices and import prices (No 310, 311, 312 and 340) is not required for the
+following groups or classes of NACE Rev. 2 respectively CPA: 07.2, 24.46, 25.4, 30.1, 30.3, 30.4 and 38.3. Thelist of activities may be revised in accordance with the procedure laid down in Article 18.
+11. The variable on import prices (No 340) is calculated on the basis of CPA products. The importing kind-of-
+activity units may be classified outside the activities of Sections B to E of NACE Rev. 2.’.

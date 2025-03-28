@@ -1,0 +1,95 @@
+File Name: 2_E1-6_2011-09-01_G_GHG-PLC_WRI&WBCSD.pdf
+Converted on: 2025-03-28 03:20:53
+Original Size: 3.27 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 1 of 116
+--------------------------------------------------------------------------------
+
+--- Page 1 of 148 ---
+
+Product Life Cycle Accounting and Reporting Standard 
+
+--- Page 2 of 148 ---
+
+GHG Protocol Team
+Pankaj Bhatia, World Resources Institute
+Cynthia Cummis, World Resources Institute
+Andrea Brown, World Business Council for Sustainable Development
+Laura Draucker, World Resources Institute
+David Rich, World Resources Institute
+Holly Lahd, World Resources Institute
+Steering Committee
+Gerald Rebitzer, Amcor Ltd.
+Nigel Topping, Frances Way, Carbon Disclosure Project (CDP)
+Graham Sinden, The Carbon Trust
+H. Scott Matthews, Carnegie Mellon University
+Luc Larmuseau, DNV Climate Change Services
+David A. Russell, Rob Rouse, The Dow Chemical Company
+Jiang Kejun, Energy Research Institute, China’s National Development and Reform Commission
+Andrew Hutson, Environmental Defense Fund
+Simon Aumônier, Environmental Resources Management
+Ugo Pretato, Kirana Chomkhamsri, European Commission Joint Research Centre
+Steven Meyers, General Electric
+Sergio Galeano, Georgia Pacific, ISO TC207 U.S. Technical Advisory Group
+Gregory A. Norris, Harvard University, New Earth, University of Arkansas
+Klaus Radunsky, ISO 14067 Working Group Convener
+Atsushi Inaba, Kogakuin University
+Alison Watson, New Zealand Ministry of Agriculture and Forestry
+Susan Cosper, Nick Shufro, PricewaterhouseCoopers LLP
+Rasmus Priess, THEMA1 GmbH, Product Carbon Footprint World Forum
+Wanda Callahan, Shell
+James A. Fava, UNEP SETAC Life Cycle Initiative, Five Winds International
+Matthias Finkbeiner, UNEP SETAC Life Cycle Initiative, Technische Universität Berlin
+Henry King, Unilever
+Susan Wickwire, John Sottong, United States Environmental Protection Agency
+Maureen Nowak, United Kingdom Department of Environment, Food, and Rural Affairs
+James Stanway, Miranda Ballentine, Walmart Stores Inc.
+
+--- Page 3 of 148 ---
+
+[01]guidance
+guidance
+guidance
+guidance requirementsrequirements
+guidance requirements
+guidance requirements
+guidance requirements
+guidance requirements
+guidance requirements
+guidance requirements
+guidance requirements
+guidance requirements
+guidance requirements
+guidance requirementsTable of Contents
+CHAPTERS
+1.  Introduction 02
+2. 	Defining	Business	Goals	 08
+3.  Summary of Steps and Requirements 12
+4.  Principles of Product Life Cycle GHG Accounting and Reporting 18
+5.  Fundamentals of Product Life Cycle GHG Accounting 20
+6.  Establishing the Scope of a Product Inventory 26
+7. 	Boundary	Setting	 32
+8.  Collecting Data and Assessing Data Quality 46
+9.  Allocation 60
+10. Assessing Uncertainty 78
+11. Calculating Inventory Results 84
+12. Assurance 92
+13. Reporting 100
+14. Setting Reduction Targets and Tracking Inventory Changes 108
+APPENDICES  
+A. Guidance on Product Comparison 115
+B. Land-Use Change Impacts 117
+C. Data Management Plan 126
+Abbreviations 132
+Glossary 133
+References 139
+Recognitions 140
+
+--- Page 4 of 148 ---
+
+Introduction 01
+
+--- Page 5 of 148 ---

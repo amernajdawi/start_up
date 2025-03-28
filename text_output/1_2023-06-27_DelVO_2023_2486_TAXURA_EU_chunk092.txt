@@ -1,0 +1,46 @@
+File Name: 1_2023-06-27_DelVO_2023_2486_TAXURA_EU.pdf
+Converted on: 2025-03-28 03:20:36
+Original Size: 8.44 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 92 of 199
+--------------------------------------------------------------------------------
+
+ELI: http://data.europa.eu/eli/reg_del/2023/2486/oj 64/164Technical screening criteria
+Substantial contribution to the transition to a circular economy
+1.All generated construction and demolition waste is treated in accordance with Union waste legislation and the full
+checklist of the EU Construction and Demolition Waste Management Protocol, in particular by setting sorting systems (133).
+The preparing for re-use (134)or recycling (135)of the non-hazardous construction and demolition waste generated on the
+construction site is at least 90 % (by mass in kilogrammes), excluding backfilling (136). This excludes naturally occurring
+material referred to in category 17 05 04 in the European List of Waste established by Decision 2000/532/EC. The
+operator of the activity demonstrates compliance with the 90 % threshold by reporting on the Level(s) indicator 2.2 using
+the Level 2 reporting format for different waste streams.
+2.Construction designs and techniques support circularity via the incorporation of concepts for design for adaptability
+and deconstruction as outlined in Level(s) indicators 2.3 and 2.4 respectively. Compliance with this requirement is
+demonstrated by reporting on the Level(s) indicators 2.3 (137)and 2.4 (138)at Level 2.
+3.The use of primary raw material is minimised through the use of secondary raw materials (139). For concrete, a
+maximum of 70 % of the material comes from primary raw material. This criterion applies to in situ poured concrete, pre-
+cast products, and all constituent materials, including any reinforcement. The threshold is calculated by subtracting the
+secondary raw material from the total amount of material used measured by mass in kilogrammes. Where the information
+on the recycled content of the construction product is not available, it is to be counted as comprising 100 % primary raw
+material. In order to respect the Waste Hierarchy and thereby favour re-use over recycling, re-used construction products,
+including those containing non-waste materials reprocessed on site, are to be counted as comprising zero primary raw
+material.
+4.The secondary raw materials are not moved over distances greater than 2,5 times the distance between the construction
+site and the nearest production facility for equivalent primary raw materials, to avoid that the use of re-used or recycled
+materials leads to higher CO 2 emissions than the use of primary raw materials.
+(133)EU Construction and Demolition Waste Management Protocol, Annex F (version of 27.6.2023: https://ec.europa.eu/docsroom/
+documents/20509/).
+(134)‘Preparing for re-use’ means checking, cleaning or repairing recovery operations, by which products or components of products that
+have become waste are prepared so that they can be re-used without any other pre-processing. This includes, for instance, the
+preparation for re-use of certain parts of buildings like roof elements, windows, doors, bricks, stones or concrete elements. A pre- requisite for the preparation for re-use of building elements is usually the selective deconstruction of buildings or other structures.
+(135)‘Recycling’ means any recovery operation by which waste materials are reprocessed into products, materials or substances whether
+for the original or other purposes. It includes the reprocessing of organic material but does not include energy recovery and the
+reprocessing into materials that are to be used as fuels or for backfilling operations.
+(136)‘Backfilling’ means any recovery operation where suitable non-hazardous waste is used for purposes of reclamation in excavated areas
+or for engineering purposes in landscaping. Waste used for backfilling must substitute non-waste materials, be suitable for the
+aforementioned purposes, and be limited to the amount strictly necessary to achieve those purposes.
+(137)See Level(s) indicator 2.3: Design for adaptability and renovation, user manual: introductory briefing, instruction and guidance
+(Publication version 1.1), https://susproc.jrc.ec.europa.eu/product-bureau//sites/default/files/2021-01/

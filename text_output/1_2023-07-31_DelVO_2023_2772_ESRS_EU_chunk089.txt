@@ -1,0 +1,38 @@
+File Name: 1_2023-07-31_DelVO_2023_2772_ESRS_EU.pdf
+Converted on: 2025-03-28 03:20:41
+Original Size: 5.82 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 89 of 284
+--------------------------------------------------------------------------------
+
+ELI: http://data.europa.eu/eli/reg_del/2023/2772/oj 92/284AR 24. When disclosing the information required under paragraph 34 (b), the undertaking shall specify the share of the
+target related to each respective GHG emission Scope (1, 2 or 3). The undertaking shall state the method used to
+calculate Scope 2 GHG emissions included in the target (i.e., either the location-based or market-based method). If
+the boundary of the GHG emission reduction target diverges from that of the GHG emissions reported under
+Disclosure Requirement E1-6, the undertaking shall disclose which gases are covered, the respective percentage of Scope 1, 2, 3 and total GHG emissions covered by the target. For the GHG emission reduction targets of its
+subsidiaries, the undertaking shall analogously apply these requirements at the level of the subsidiary.
+AR 25. When disclosing the information required under paragraph 34(c) on base year and baseline value:
+(a) the undertaking shall briefly explain how it has ensured that the baseline value against which the progress towards the target is measured is representative in terms of the activities covered and the influences from external factors (e.g., temperature anomalies in a certain year influencing the amount of energy consumption and related GHG emissions). This can be done by the normalisation of the baseline value, or, by using a
+baseline value that is derived from a 3-year average if this increases the representativeness and allows a more
+faithful representation;
+(b) the baseline value and base year shall not be changed unless significant changes in either the target or reporting boundary occur. In such a case, the undertaking shall explain how the new baseline value affects the
+new target, its achievement and presentation of progress over time. To foster comparability, when setting new
+targets, the undertaking shall select a recent base year that does not precede the first reporting year of the new target period by longer than 3 years. For example, for 2030 as the target year and a target period between 2025 and 2030, the base year shall be selected from the period between 2022 and 2025;
+(c) the undertaking shall update its base year from 2030 and after every 5-year period thereafter. This means that before 2030, the base years chosen by undertakings’ may be either the currently applied base year for existing targets or the first year of application of the sustainability reporting requirements as set out in Article 5(2) of
+Directive (EU) 2022/2464 (2024, 2025 or 2026) and, after 2030, every 5 years (2030, 2035, etc); and
+(d) when presenting climate-related targets, the undertaking may disclose the progress in meeting these targets
+made before its current base year. In doing so, the undertaking shall, to the greatest extent possible, ensure that the information on past progress is consistent with the requirements of this Standard. In the case of
+methodological differences, for example, regarding target boundaries, the undertaking shall provide a brief
+explanation for these differences.
+AR 26. When disclosing the information required under paragraphs 34 (d) and 34 (e), the undertaking shall present the information over the target period with reference to a sector- specific, if available, or a cross-sector emission
+pathway compatible with limiting global warming to 1.5°C. For this purpose, the undertaking shall calculate
+a 1.5°C aligned reference target value for Scope 1 and 2 (and, if applicable, a separate one for Scope 3) against
+which its own GHG emission reduction targets or interim targets in the respective Scopes can be compared.
+AR 27. The reference target value may be calculated by multiplying the GHG emissions in the base year with either a
+sector-specific (sectoral decarbonisation methodology) or cross-sector (contraction methodology) emission
+reduction factor. These emission reduction factors can be derived from different sources. The undertaking should
+ensure that the source used is based on an emission reduction pathway compatible with limiting global warming
+to 1.5°C.

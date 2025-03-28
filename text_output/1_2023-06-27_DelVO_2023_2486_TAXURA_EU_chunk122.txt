@@ -1,0 +1,34 @@
+File Name: 1_2023-06-27_DelVO_2023_2486_TAXURA_EU.pdf
+Converted on: 2025-03-28 03:20:36
+Original Size: 8.44 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 122 of 199
+--------------------------------------------------------------------------------
+
+ELI: http://data.europa.eu/eli/reg_del/2023/2486/oj 89/164ANNEX III
+Technical screening criteria for determining the conditions under which an economic activity
+qualifies as contributing substantially to pollution prevention and control and for determining
+whether that economic activity causes no significant harm to any of the other environmental
+objectives
+Table of Contents
+Page
+1. Manufacturing . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .89
+1.1. Manufacture of active pharmaceutical ingredients (API) or active substances . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .89
+1.2. Manufacture of medicinal products . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .94
+2. Water supply, sewerage, waste management and remediation activities . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .99
+2.1. Collection and transport of hazardous waste . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .99
+2.2. Treatment of hazardous waste . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 101
+2.3. Remediation of legally non-conforming landfills and abandoned or illegal waste dumps . . . . . . . . . . . . . . . . . . . . . . . 104
+2.4. Remediation of contaminated sites and areas . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 108
+1. Manufacturing
+1.1. Manufacture of active pharmaceutical ingredients (API) or active substances
+Description of the activity
+Manufacture of active pharmaceutical ingredients (API) or active substances.The economic activities in this category could be associated with NACE code C21.1 in accordance with the statistical
+classification of economic activities established by Regulation (EC) No 1893/2006.
+Technical screening criteria
+Substantial contribution to pollution prevention and control
+1.The activity complies with all of the requirements specified below relating to product substitution.
+1.1. The API complies with one of the following requirements:

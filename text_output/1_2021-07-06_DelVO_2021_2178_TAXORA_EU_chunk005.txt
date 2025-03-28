@@ -1,0 +1,46 @@
+File Name: 1_2021-07-06_DelVO_2021_2178_TAXORA_EU.pdf
+Converted on: 2025-03-28 03:20:32
+Original Size: 10.30 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 5 of 47
+--------------------------------------------------------------------------------
+
+(4) Investors and the public should be able to assess the proportion of Taxonomy-aligned economic activities pursued
+by investee undertakings. Asset managers should therefore disclose the proportion of investments they made in
+Taxonomy-aligned economic activities in the value of all investments managed by them resulting from both their
+collective and individual portfolio management activities. That proportion of Taxonomy-aligned investments
+should be calculated asthe proportion of Taxonomy-aligned economic activities of investee undertakings which results from their respective key performance indicators, because those key performance indicators reflect the
+environmental performance of investee undertakings.
+(5) The main activity of credit institutions is the provision of financing to and investments in the real economy. The
+exposures of credit institutions to undertakings that they finance or invest in are reflected as assets in the credit
+institutions’ balance sheet. The main key performance indicator for credit institutions that are subject to the
+disclosure obligations laid down in Articles 19a and 29a of Directive 2013/34/EU should be the green asset ratio (GAR), which shows the proportion of exposures related to Taxonomy-aligned activities compared to the total
+assets of those credit institutions. The GAR should relate to the credit institutions’ main lending and investment
+business, including loans, advances and debt securities, and to their equity holdings to reflect the extent to which
+those institutions finance Taxonomy-aligned activities.
+(6) Credit institutions also perform other commercial services and activities than the provision of financing. Those
+activities generate fees and commission income. It is necessary to enable investors and the public to assess the
+proportion of Taxonomy-aligned economic activities pursued by the recipients of those services. Credit institutions
+that are subject to the disclosure obligations laid down in Articles 19a and 29a of Directive 2013/34/EU should therefore also disclose what proportion of their fees and commission income is derived from commercial services
+and activities that are associated with Taxonomy-aligned economic activities of their clients.
+(7) Credit institutions may manage underlying assets or provide financial guarantees, leading to off-balance-sheet
+exposures. To enable investors and the public to assess the proportion of Taxonomy-aligned activities pursued by
+credit institutions, for those off-balance-sheet exposures, credit institutions that are subject to the disclosure
+obligations laid down in Articles 19a and 29a of Directive 2013/34/EU should disclose the proportion of
+Taxonomy-aligned activities in the underlying assets that they manage or in the obligations the performance of
+which they guarantee.
+(8) In addition to disclosures concerning their banking book, credit institutions that are subject to the disclosure
+obligations laid down in Articles 19a and 29a of Directive 2013/34/EU should also disclose separately the overall
+composition of their total assets, including their trading book, and any trends and limits in terms of climate and
+environmental risks. Credit institutions with a significant trading activity should be subject to obligations for more
+granulardisclosures for their trading book.
+(9) It is important to provide investors and the public with a complete overview of which investments an investment firm that is subject to the disclosure obligations laid down in Articles 19a and 29a of Directive 2013/34/EU has
+made in Taxonomy-aligned activities. The key performance indicators for such investment firms should therefore cover both their dealing on own account and their dealing on behalf of clients. The disclosure of the key
+performance indicator for dealing on own account should reflect which proportion of the total assets is composed
+of assets related to Taxonomy-aligned activities. That indicator should focus on the investment firms’ investments, includingdebt securities and equity instruments in investee companies. The key performance indicator for the
+environmental sustainability of investment firms’ services and activities on behalf of all their clients should be based
+on the revenue in the form of fees, commissions and other monetary benefits that investment firms generate from their investment services and activities carried out for their clients.
+(10) The key performance indicators for insurance and reinsurance undertakings that are subject to the disclosure obligations laid down in Articles 19a and 29a of Directive 2013/34/EU should capture their non-life underwriting activities and investment policy that are part of their business model to show the extent to which those activities are

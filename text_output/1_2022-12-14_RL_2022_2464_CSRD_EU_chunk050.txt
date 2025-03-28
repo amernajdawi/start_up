@@ -1,0 +1,52 @@
+File Name: 1_2022-12-14_RL_2022_2464_CSRD_EU.pdf
+Converted on: 2025-03-28 03:20:33
+Original Size: 1.12 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 50 of 140
+--------------------------------------------------------------------------------
+
+(51) The sustainability repor ting standards should promot e a more integrat ed view of all the information published by
+under takings in the manag ement repor t to provid e users of that information with a better understanding of the
+development, performance, position and impact of the under taking. The sustainability repor ting standards should
+distinguish, as necessar y, between information that under takings should disclose when repor ting at individual level
+and the information that under takings should disclose when repor ting at group level. The sustainability repor ting
+standards should also contain guidance for under takings on the process for identifying the sustainability
+information that should be included in the manage ment repor t, since an under taking should only be required to
+disclose the information relevant to understanding its impa cts on sustainability matt ers, and the information
+relevant to understanding how sustainability matte rs affect its development, performa nce and position.
+(52) Member States should ensure that sustainability repor ting is carried out in compl iance with work ers’ rights to
+information and consultation. The manag ement of the under taking should theref ore inform workers’
+representatives at the appropr iate level and discuss with them relevant information and the means of obtaining and
+verifying sustainability information. This implies for the purpose of this amending Directive the establishment of
+dialogue and exchange of views between worke rs’ representatives and central manag ement or any other level of
+manage ment that could be more appropr iate, at such times, in such fashion and with such content as would enable
+workers’ representatives to express their opinion. Their opinion should be communicated, where applicable, to the
+relevant administrative, manage ment or super visor y bodies.
+(53) Under takings in the same sector are often exposed to similar sustainability-relate d risks, and they often have similar
+imp acts on society and the environment. Com parisons between under takings in the same sector are especially
+valuable to inve stors and other users of sustainability information. Sustainability repor ting standards should
+theref ore specify both information that under takings in all sectors should disclose and information that
+under takings should disclose depending on their sector of activity . Sector -specifi c sustainability repor ting standards
+are especially imp ortant in the case of sectors associated with high sustainability risks for or impacts on the
+environment, human rights and govern ance, including sectors listed in Sections A to H and Section L of Annex I to
+Regulation (EC) No 1893/2006 of the European Parliament and of the Council (32), and the relevant activities within
+those sector s. When adopt ing sector -specif ic sustainability repor ting standards, the Commission should ensure the
+information specifi ed by those sustainability repor ting standards is propor tionat e to the scale of the risks and
+imp acts relat ed to sustainability matters specific to each sector , taking account of the fact that the risks and impacts
+of some sector s are higher than for others. The Commission should also take account of the fact that not all activities
+within such sector s are necessar ily associated with high sustainability risks or impacts. For under takings that operat e
+in sectors particularly reliant on natural resources, sector -specif ic sustainability repor ting standards would require
+the disclosure of nature-related impacts on and risks for biodiversity and ecosystems.
+Sustainability repor ting standards should also take account of the difficulties that under takings may encounter in
+gathering information from actors throughout their value chain, especially from suppliers that are small or
+medium-sized under takings and from suppliers in emerging mark ets and economies. Sustainability repor ting
+standards should specify disclosures concer ning value chains that are propor tionate and relevant to the scale and
+compl exity of the activities of the under takings, and the capacities and charact eristics of under takings in value
+chains, especially those capacities and charact eristics of under takings that are not subject to the sustainability
+repor ting requirements provid ed for in this amending Directive. Sustainability repor ting standards should not
+specify disclosures that would require under takings to obtain information from small and medium-sized
+under takings in their value chain that exceed s the information to be disclosed in accordance with the sustainability
+repor ting standards for small and medium-sized under takings. This should be without prejudice to any Union

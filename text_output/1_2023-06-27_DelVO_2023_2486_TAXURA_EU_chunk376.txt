@@ -1,0 +1,42 @@
+File Name: 1_2023-06-27_DelVO_2023_2486_TAXURA_EU.pdf
+Converted on: 2025-03-28 03:18:09
+Original Size: 8.44 MB
+Chunk Size: 500 tokens with 50 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 376 of 380
+--------------------------------------------------------------------------------
+
+ELI: http://data.europa.eu/eli/reg_del/2023/2486/oj 149/164(11) in Annex X, in the second template, in the Section ‘Breakdown of the numerator of the KPI per environmental
+objective’ the words ‘Transitional activities: A % (Turnover; CapEx)’ are deleted from lines (2) to (6);
+(12) in Annex X, in the second template, the eighth row is replaced by the following:
+‘The proportion of exposures to other counterparties
+and assets over total assets covered by the KPI:
+X %Value of exposures to other counterparties and
+assets:
+[monetary amount]’
+(13) in Annex X in the second template, the fifteenth row is replaced by the following:
+‘The proportion of Taxonomy-aligned exposures to
+other counterparties and assets over total assets
+covered by the KPI:Turnover-based: %Capital expenditures-based: %Value of Taxonomy-aligned exposures to other
+counterparties and assets over total assets covered by
+the KPI:Turnover-based: [monetary amount]Capital expenditures-based: [monetary amount]’OJ L, 21.11.2023 EN  
+
+--- Page 150 of 164 ---
+
+ELI: http://data.europa.eu/eli/reg_del/2023/2486/oj 150/164ANNEX VI
+‘ANNEX VI
+Template for the KPIs of credit institutions
+Template
+numberName
+0 Summary of KPIs
+1 Assets for the calculation of GAR
+2 GAR sector information
+3 GAR KPI stock
+4 GAR KPI flow
+5 KPI off-balance-sheet exposures
+6 KPI on fees and commissions income from services other than lending and asset management
+7 KPI Trading book portfolioOJ L, 21.11.2023 EN  
+
+--- Page 151 of 164 ---

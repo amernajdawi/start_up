@@ -1,0 +1,83 @@
+File Name: 2_E1-6_2011-09-01_G_GHG-PLC_WRI&WBCSD.pdf
+Converted on: 2025-03-28 03:20:53
+Original Size: 3.27 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 72 of 116
+--------------------------------------------------------------------------------
+
+As required in chapter 9, the virgin material displacement
+factor is reported separately from the inventory results
+by life cycle stage to avoid a negative percent impact in
+the end-of-life stage. The percentage impact of the virgin
+material displacement can be reported next to the end-
+of-life stage results as shown in the reporting template
+(available at www.ghgprotocol.org ). The virgin material
+displacement factor is included as part of the total
+inventory results.
+5.   Separate reporting of biogenic and  
+non-biogenic emissions and removals and
+land-use change impacts, when applicable
+Separate reporting of the total inventory result
+components provides transparency to the reporting
+company and their stakeholders.
+Biogenic emissions include CO2, CH4, and N2O that
+are produced as a result of the combustion and/or
+degradation of biogenic materials, wastewater treatment,
+and a variety of biological sources in soil and water. For
+example, if paper degrades in a landfill, the CO2 and CH4
+emitted would be classified as biogenic emissions. Non-
+biogenic emissions include all GHG emissions from non-
+biogenic (e.g., fossil-based) materials. Biogenic removals
+are due to the uptake of CO2 by biogenic materials during
+photosynthesis, while non-biogenic removals only occur
+if CO2 is removed from the atmosphere by a non-biogenic
+product during its production or use stage. Appendix B  
+provides guidance on calculating land-use change impacts.If companies are unsure whether emissions are from a
+biogenic or non-biogenic source, they should include
+those emissions as non-biogenic. In some cases, a product
+may have no biogenic emissions, biogenic and non-
+biogenic removals, or land-use change impacts. If only
+non-biogenic emissions occur in the inventory, companies
+may report only the total inventory results and note this
+in the inventory report.
+6.    Calculate cradle-to-gate and gate-to-gate 
+inventory results separately
+In addition to reporting separately the inventory result
+components, reporting inventory results by cradle-to-gate
+and gate-to-gate gives some insight into what emissions
+and removals occur under the control of the reporting
+company. However, it is recognized that reporting gate-
+to-gate inventory results may jeopardize the reporting
+company’s confidentiality. If this is the case, companies
+may state this as a limitation to reporting these results
+separately. For cradle-to-gate inventories, the total
+inventory results are the cradle-to-gate results and
+therefore do not need to be repeated here.
+11.3.2	 Offsets	and	avoided	emissions
+As previously stated, offsets are emission credits (in the
+form of emission trading or funding of emission-reduction
+projects) that a company purchases to offset the impact
+of the studied product’s emissions. Companies typically
+purchase offsets for one of two reasons: to meet a
+reduction goal that they cannot reach with reductions
+alone, or to claim a product as carbon neutral. Companies
+are encouraged to set reduction targets and meet these
+with absolute reductions. However if a company wishes to
+purchase offsets for its product inventory, this standard
+does allow for offsets to be reported separately from the
+inventory results. For offsets to be reported separately in
+a product inventory, the company should:
+•Purchase offsets based on the GHG Protocol Project
+Protocol or similar internationally accepted GHG
+mitigation project accounting methodologies for
+quantifying the GHG benefits of climate change
+mitigation projects; and
+•Clearly separate corporate-level and product-level
+offset purchases to avoid double counting.
+If a company purchases offsets to meet their corporate
+reduction goals, double counting can occur if the same life cycle stage
+
+--- Page 93 of 148 ---

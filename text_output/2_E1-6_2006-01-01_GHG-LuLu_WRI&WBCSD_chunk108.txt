@@ -1,0 +1,53 @@
+File Name: 2_E1-6_2006-01-01_GHG-LuLu_WRI&WBCSD.pdf
+Converted on: 2025-03-28 01:56:20
+Original Size: 6.41 MB
+Chunk Size: 400 tokens with 50 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 108 of 118
+--------------------------------------------------------------------------------
+
+C H A P T E R 9 : C A R B O N S T O C K Q U A N T I F I C AT I O N
+Brown,S.1999.Land-UseandForestryCarbon-Offset
+Projects.WinrockInternationalpaperpreparedforUSAID
+EnvironmentalOfficersTrainingWorkshop,September.
+Brown,S.,O.Masera,andJ.Sathaye.2000.Project-Based
+Activities.InLandUse,Land-UseChange,andForestry;
+SpecialReporttotheIntergovernmentalPanelonClimate
+Change,editedbyR.Watson,I.Noble,andD.Verardo.
+Cambridge:CambridgeUniversityPress.
+IntergovernmentalPanelonClimateChange(IPCC).1997.
+Revised1996IPCCGuidelinesforNationalGreenhouse
+GasInventories.Kanagawa:TechnicalSupportUnit,IPCC
+NationalGreenhouseGasInventoriesProgram.
+IntergovernmentalPanelonClimateChange(IPCC).2001.
+GoodPracticeGuidanceandUncertaintyManagement in
+NationalGreenhouseGasInventories,editedbyJ.Penman
+etal.Hayama:IPCCNationalGreenhouseGasInventories
+Programme,InstituteforGlobalEnvironmentalStrategies.
+IntergovernmentalPanelonClimateChange(IPCC).2003.
+GoodPracticeGuidanceforLandUse,Land-UseChange
+andForestry,editedbyJ.Penmanetal.Hayama:Institute
+forGlobalEnvironmentalStrategies(alsoavailableat
+http://www.ipcc-nggip.iges.or.jp).
+MacDicken,K.G.1997.AGuidetoMonitoringCarbon
+StorageinForestryandAgroforestryProjects.Arlington,
+Va.:WinrockInternational(alsoavailableat
+www.winrock.org).
+Masera,O.R.,J.Garza-Caligaris,M.Kanninen,T.
+Karjalainen,J.Liski,G.J.Nabuurs,A.Pussinen,B.H.J.de
+Jong,andG.M.J.Mohren.2003.ModelingCarbon
+SequestrationinAfforestation,AgroforestryandForest
+ManagementProjects:TheCO 2FIXV.2Approach.
+EcologicalModelling 164:177–99.(TheCO 2FIXmodelis
+availableathttp://www2.efi.fi/projects/casfor/.)
+Parton,W.J.,D.S.Schimel,C.V.Cole,andD.S.Ojima.
+1987.AnalysisofFactorsControllingSoilOrganicMatter
+LevelsinGreatPlainsGrasslands.SoilScienceSocietyof
+AmericaJournal51:1173–79.
+Pearson,T.,S.Walker,andS.Brown.2005.Sourcebook
+forLandUse,Land-UseChangeandForestryProjects.
+Washington,D.C.:BioCarbonFundandWinrock
+International.
+Thornton,P.E.,B.E.Law,H.L.Gholz,K.L.Clark,E.Falge,

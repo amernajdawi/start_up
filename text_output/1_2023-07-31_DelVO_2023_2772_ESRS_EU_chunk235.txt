@@ -1,0 +1,50 @@
+File Name: 1_2023-07-31_DelVO_2023_2772_ESRS_EU.pdf
+Converted on: 2025-03-28 03:20:41
+Original Size: 5.82 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 235 of 284
+--------------------------------------------------------------------------------
+
+ELI: http://data.europa.eu/eli/reg_del/2023/2772/oj 235/284(c) in the case of material positive impacts, a brief description of the activities that result in the positive impacts (for
+example, product design that improves its accessibility for persons with disabilities) and the types of
+consumers and/or end-users that are positively affected or could be positively affected; the undertaking may also
+disclose whether the positive impacts occur in specific countries or regions; and
+(d) any material risks and opportunities for the business arising from impacts and dependencies on
+consumers and/or end-users.
+11. In describing the main types of consumers and/or end-users who are or could be negatively affected, based on the
+materiality assessment set out in ESRS 2 IRO-1, the undertaking shall disclose whether and how it has developed an
+understanding of how consumers and/or end-users with particular characteristics, or those using particular products
+or services, may be at greater risk of harm.
+12. The undertaking shall disclose which, if any, of its material risks and opportunities arising from impacts and
+dependencies on consumers and/or end-users, relate to specific groups of consumers and/or end-users (for example,
+particular age groups) rather than to all consumers and/or end-users.
+Impact, risk and opportunity management
+Disclosure Requirement S4-1 – Policies related to consumers and end-users
+13. The undertaking shall describe its policies adopted to manage its material impacts of its products and/or
+services on consumers and end-users, as well as associated material risks and opportunities.
+14. The objective of this Disclosure Requirement is to enable an understanding of the extent to which the undertaking has policies that address the identification, assessment, management and/or remediation of material impacts on
+consumers and/or end-users specifically, as well as policies that cover material risks or opportunities related to
+consumers and/or end-users.
+15. The disclosure required by paragraph 13 shall contain the information on the undertaking’s policies to manage its material impacts, risks and opportunities related to consumers and/or end-users in accordance with ESRS 2 MDR-P
+Policies adopted to manage material sustainability matters
+. In addition, the undertaking shall specify if such policies cover
+specific groups or all consumers and/or end-users.
+16. The undertaking shall describe its human rights policy commitments (116)that are relevant to consumers and/or end-
+users, including those processes and mechanisms to monitor compliance with the UN Guiding Principles on Business
+and Human Rights, ILO Declaration on Fundamental Principles and Rights at Work or OECD Guidelines for Multinational Enterprises. In its disclosure it shall focus on those matters that are material, as well as the general
+approach in relation to (
+117):
+(a) respect for the human rights of consumers and/or end-users;
+(b) engagement with consumers and/or end-users; and
+(c) measures to provide and/or enable remedy for human rights impacts.
+17. The undertaking shall disclose whether and how its policies with regard to consumers and/or end-users are aligned
+with internationally recognised instruments relevant to consumers and/or end-users, including United Nations (UN)
+Guiding Principles on Business and Human Rights. The undertaking shall also disclose the extent to which cases of
+non-respect of the UN Guiding Principles on Business and Human Rights, ILO Declaration on Fundamental
+(116)This information supports the information needs of financial market participants subject to Regulation (EU) 2019/2088 because it is
+derived from an additional indicator related to principal adverse impacts as set out by indicator #9 in Table III of Annex I of
+Commission Delegated Regulation (EU) 2022/1288 with regard to disclosure rules on sustainable investments (“Lack of a human rights policy”).
+(117)This information supports the information needs of financial market participants subject to Regulation (EU) 2019/2088 because it is

@@ -1,0 +1,91 @@
+File Name: 2_E1-6_2011-09-01_G_GHG-PLC_WRI&WBCSD.pdf
+Converted on: 2025-03-28 03:20:53
+Original Size: 3.27 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 57 of 116
+--------------------------------------------------------------------------------
+
+[71]
+CHAPTER 09 Allocation
+guidance9.3.5 Comparing allocation results
+When one allocation method is not clearly more suitable
+than another, companies should perform multiple
+allocations with different methods and compare the
+results. This is particularly important when companies
+are deciding whether physical, economic, or another
+allocation method is more appropriate. If several methods
+are performed and similar results are obtained, the choice
+between the methods should not impact the inventory
+results and the company should note this in the inventory.
+report. If the allocation method(s) result in different
+GHG emissions, companies should select the allocation
+method that provides the more conservative result (e.g.,
+the method that allocates more emissions to the studied
+product as opposed to the co-products).
+Companies are required to disclose and justify the methods
+used to avoid allocation or perform allocation. Companies
+may also report a range of results as part of the qualitative
+uncertainty description in the inventory report.
+Alcoa, a leading producer of aluminum, performed
+a cradle-to-grave GHG inventory of their LvL One
+aluminum truck wheel. Recycling occurs twice during
+the life cycle of the wheel. First, scrap created during
+the wheel fabrication process is sent to be recycled in
+an ingot casting facility,
+and second, the wheels
+themselves are recycled
+at the end-of-life. Both
+metal streams fall into the
+category of the closed loop
+approximation method as
+described in the standard.
+The recycled metal is
+processed, remelted,
+and cast into secondary aluminum ingot with the same inherent properties as
+primary metal. Because of this, it can be assumed that
+the recycled metal displaces the production of virgin
+metal in another product’s life cycle.
+To account accurately for the recycling activity, Alcoa
+calculated the mass of recycled metal during the wheel
+fabrication process using a mass balance. For end-of-
+life recycling, Alcoa assumed a recycling rate of 95  
+percent based on peer-reviewed literature data specific
+to the recycling rates of aluminum in the commercial
+vehicle sector.
+Alcoa achieved a 10 percent reduction in the total
+inventory results compared to an LvL One aluminum
+wheel with no recycling.  achieved a  
+10% reduction  
+in the total
+inventory results
+compared to an
+LvL One aluminum
+wheel with  
+no recyclingAlcoa9.3.6 Methods for allocation due to recycling
+Closed loop approximation method
+The closed loop approximation method accounts for
+the impact that end-of-life recycling has on the net
+virgin acquisition of a material. Its name derives from
+the assumption that the material being recycled is used
+to displace virgin material input with the same inherent
+properties5. The closed loop approximation method is
+also known as the following: the 0/100 method; the end-
+of-life approach as defined and supported by many in the
+metal industry6; the recyclability substitution approach
+in the ILCD Handbook7; and the closed loop8 method
+defined in ISO 14044:2006 and shown with examples in
+ISO 14049:2000.
+Since the closed loop approximation method is defined
+as a method to allocate recycled materials that maintain
+the same inherent properties as its virgin material input,
+the properties (e.g., chemical, physical) of the recycled
+material have to be similar enough to the properties
+of the virgin material input to be used interchangeably
+without any additional changes to the product’s life cycle.
+A process map illustrating the closed loop approximation
+method is given in figure 9.5.
+
+--- Page 74 of 148 ---

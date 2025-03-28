@@ -1,0 +1,67 @@
+File Name: 2_E1-6_2011-09-01_G_GHG-PLC_WRI&WBCSD.pdf
+Converted on: 2025-03-28 03:18:25
+Original Size: 3.27 MB
+Chunk Size: 500 tokens with 50 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 205 of 226
+--------------------------------------------------------------------------------
+
+--- Page 130 of 148 ---
+
+[128]   Product Life Cycle Accounting and Reporting Standard
+Table [C.1]  Data management plan checklist
+Component Information Rationale
+Responsibilities Name and contact details of persons
+responsible for:
+• Management of product inventory
+• Data collection for each process
+• Internal review or audit procedures
+• Assurance proceduresThis ensures institutional knowledge
+is maintained and allows relevant
+person(s) to be identified as
+accountable for:
+• Confirming and checking
+information during any internal or
+external audit procedures
+• Producing consistent future
+product inventory
+Product description • Description of the product and
+functional unitTo provide internal auditors, assurance
+providers, and those doing future
+product inventories, with information
+on the product/functional unit
+Inventory boundary • Inventory boundary description (e.g.,
+cradle-to-grave or cradle-to-gate)
+• How the boundary was derived
+• Attributable processes included in the
+inventory
+• Attributable processes excluded from
+the inventory (including rationale for
+exclusion)
+• Information on how the product
+use and end-of-life profile was
+determinedTo provide internal auditors, assurance
+providers, and those doing future
+product inventories with sufficient
+information to understand and
+replicate boundary decisions
+Allocation • Allocation methodologies used and
+where they were usedTo provide internal auditors, assurance
+providers, and those doing future
+product inventories with sufficient
+information to understand and
+replicate allocation decisions
+• Data collection procedures, including
+data sources for each processRecords all data sources and allows
+others to locate data sources (for audit
+or future product inventories). Also
+provides information on what suppliers
+have been approached for data
+• How data quality assessment and
+uncertainty assessment were
+undertakenEnables data quality to be tracked over
+time and improvedData summary
+
+--- Page 131 of 148 ---

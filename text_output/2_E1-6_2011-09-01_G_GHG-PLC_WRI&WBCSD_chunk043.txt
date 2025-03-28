@@ -1,0 +1,87 @@
+File Name: 2_E1-6_2011-09-01_G_GHG-PLC_WRI&WBCSD.pdf
+Converted on: 2025-03-28 03:20:53
+Original Size: 3.27 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 43 of 116
+--------------------------------------------------------------------------------
+
+[53]
+CHAPTER 08 Collecting Data and Assessing Data Quality
+guidanceMany life cycle databases exist, and they vary in
+their geographic focus, cost, update frequency,
+and review processes. A few questions to use in the
+selection of a database are listed below. While these
+questions can be used to evaluate entire databases,
+companies are required to assess the quality (both in
+representativeness and data collection methods) of the
+individual data points chosen from databases as part of
+data quality assessment. A list of databases is available
+at (www.ghgprotocol.org ).
+1. Are the process data from a collection of actual
+processes or estimated/calculated from other  
+data sources?2. Were the data developed using a consistent
+methodology?
+3. For agricultural and forest products, are land-use
+impacts included in the LCA emissions data? If yes,
+what impacts are included?
+4. How long has the database existed, and how
+extensively has the database been used?
+5. How frequently is the database updated?
+6. How current are the data sources used for
+developing the LCA emissions data?
+7. Can uncertainties be estimated for the data?
+8. Is there any risk that the data will be perceived as
+biased and, if so, have the data and methodologies
+been independently reviewed?Box [8.5] Questions to assist with selecting a lifecycle database to use with the  Product Standarddata requirement and emission factors do not need to be 
+classified as primary or secondary.
+If available and of sufficient quality, primary data should
+be collected for all processes in the product’s life cycle.
+There are several reasons why collecting primary data can
+be beneficial to a company even if the processes are not
+under the company’s ownership or control. For example:
+•Collecting primary data from suppliers throughout
+the product’s life cycle can expand transparency,
+accountability, and data management to partners in
+the value chain
+•Primary data can better reflect changes in emissions
+resulting from operational changes taken to reduce
+emissions, whereas secondary data sources may not
+reflect such changes
+•Collecting primary data enables companies to more
+effectively track and report progress toward its GHG-
+reduction goals
+8.3.6 Collecting secondary data
+Secondary data are defined as data that are not from
+specific processes in the studied product’s life cycle.
+Direct emission data and process activity data that do not
+meet the definition of primary data can be classified as
+secondary. Financial activity data cannot be used to meet the primary data collection requirement and therefore
+are always classified as secondary.   
+Examples of secondary data include:
+•Average number of liters of fuel consumed by a
+process, obtained from a life cycle database
+•Kilowatt-hours consumed by another similar process
+used as a proxy in the studied product’s life cycle
+ •Industry-average kilograms of material input into  
+a process
+•Industry-average GHG emissions from a process’s
+chemical reaction
+ •Amount spent on process inputs, either specific to  
+the process or a company/industry average
+Secondary data can come from external sources (e.g.,
+lifecycle databases, industry associations, etc.) or can be
+data from another process or activity in the reporting
+company’s or supplier’s control that is used as a proxy for
+a process in the inventory product’s life cycle. This data
+can be adapted to the process or can be used “as-is” in the
+studied product’s inventory. For example, suppose the
+studied product’s life cycle includes a process using a steam-
+generating boiler. If the company does not have primary
+data for the boiler but does have process activity data for a
+boiler used in another product’s life cycle, the company may
+use this data for the studied product’s boiler process.
+
+--- Page 56 of 148 ---

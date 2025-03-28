@@ -1,0 +1,76 @@
+File Name: 2_E1-6_2014-01-01_G_GHG-Agri_WRI&WBCSD.pdf
+Converted on: 2025-03-28 03:20:54
+Original Size: 1.75 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 9 of 65
+--------------------------------------------------------------------------------
+
+--- Page 4 of 103 ---
+
+GHG Protocol Agricultural Guidance
+
+4
+ A note on terminology in GH G Protocol publications  
+The GHG Protocol uses specific terms to connote reporting requirements and
+recommendations. The term “shall” is used in this Guidance to indicate what is required
+for a GHG inventory to conform to the GHG Protocol Corporate Accounting and
+Reporting Standard. The term “should” is used  to indicate a reco mmendation, but not a 
+requirement. The term “may” is used to i ndicate an option that is permissible or
+allowable. This publication contains requi rements and guidance from the Corporate
+Standard, and additional, sect or-specific recommendations.  
+
+Part	1:	GENERAL	INFORMATION 	
+
+--- Page 5 of 103 ---
+
+GHG Protocol Agricultural Guidance
+
+5
+ Chapter 1: Introduction  
+Agriculture is a major contribu tor to global emissions of the greenhouse gases  (GHGs) 
+that drive climate change. Leadership and innova tion from the sector is  therefore vital in 
+making progress in reducing these emissions a nd in abating the worst effects of climate
+change on agricultural production. Action in th is arena also makes good business sense.
+By addressing GHG emissions , companies (and producers1) can identify opportunities to
+bolster their bottom line, reduce risk, and discover competitive advantages.   A GHG emissions inventory is the foundational tool that al lows a company to understand 
+its GHG emissions and build effective climat e change strategies. GHG inventories help
+companies understand their exposure to GHG-re lated risks, identify emissions reduction
+opportunities, create baseline data and reduc tion targets for tracking performance, and
+communicate performance to key audiences, in cluding internal management and external
+stakeholders. Realizing these benefits require s that inventories are prepared according to
+industry-accepted best practices.  
+This chapter:
+ Introduces the family of GHG Protocol publi cations that define best practices for
+developing GHG emissi ons inventories.
+ Describes how and why the Agricultural  Guidance (‘Guidance’) was developed, 
+and for whom.
+ Describes what guidance is (and is no t) provided in this publication.
+ Summarizes how the Guidance differs  from the GHG Protocol Corporate 
+Accounting and Reporting Standard, a nd relates to other GHG Protocol
+publications.
+1.1 Agriculture and climate change  
+The international community has adopted a goal to restrict global warming to 2oC above
+pre-industrial levels2. Temperature rise above 2oC will produce increasingly
+unpredictable and dangerous impacts for peopl e and ecosystems, but particularly for
+agricultural systems. Impacts on the agricultu ral sector that are already occurring but
+expected to intensify include increased irriga tion water needs, increased spread of animal
+and crop diseases and pests, reduced forage quality, and reduced cr op and pasture yields
+(Easterling et al., 2007). These impacts stem  from changes in surface temperatures, the 
+timing of seasons, and in the frequency and se verity of severe weather events, such as
+droughts, floods, and heatwaves.   Achieving the 2
+oC goal will require drastic reducti ons in GHG emissions. Here, again,
+the agricultural sector is central. A wide range of ag ricultural activ ities emit GHGs
+
+1 In this Guidance, the terms ‘producer’ and ‘company ’ are used synonymously to refer to any entity that
+develops an inventory of the agricultural GHG emissions. The terms ‘farm’, ‘farmland’ and ‘agricultural
+land’ are also used interchangeably to refer to  the land on which agriculture is practiced.   
+2 See paragraph 1 of ‘Report of the Conference of the Parties on its fifteenth session, held in Copenhagen
+from 7 to 19 December 2009’
+(http://unfccc.int/documentation/documents/adva nced_search/items/6911.php?priref=600005735 )  
+
+--- Page 6 of 103 ---
+
+GHG Protocol Agricultural Guidance

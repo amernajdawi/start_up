@@ -1,0 +1,53 @@
+File Name: 1_2021-06-04_DelVO_2021_2139_TAXKRA_EU.pdf
+Converted on: 2025-03-28 03:20:30
+Original Size: 2.76 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 160 of 447
+--------------------------------------------------------------------------------
+
+6.12.  Retrofitting of sea and coastal freight and passenger water transport  
+Description of the activity  
+Retrofit and upgrade of vessels designed and equipped for the transport of freight or passengers on sea or coastal
+waters, and of vessels required for port operations and auxiliary activities, such as tugboats, mooring vessels, pilot
+vessels, salvage vessels and ice-breakers.  
+The economic activities in this category could be associated with NACE codes H50.10, H50.2, H52.22, C33.15,
+N77.21 and N.77.34 in accordance with the statistical classification of economic activities established by
+Regulation (EC) No 1893/2006.  
+An economic activity in this category is a transitional activity as referred to in Article 10(2) of Regulation (EU)
+2020/852 where it complies with the technical screening criteria set out in this Section.  
+Technical screening criteria  
+Substantial contribution to climate change mitigation  
+1. Until 31 December 2025, the retrofitting activity reduces fuel consumption of the vessel by at least 10 %
+expressed in grams of fuel per deadweight tons per nautical mile, as demonstrated by computational fluid
+dynamics (CFD), tank tests or similar engineering calculations.
+2. Vessels are not dedicated to the transport of fossil fuels.  
+Do no significant harm (‘DNSH’)  
+(2) Climate change adaptation  The activity complies with the criteria set out in Appendix A to this 
+Annex.  
+(3) Sustainable use and protection of
+water and marine resources  The activity complies with the criteria set out in Appendix B to this 
+Annex.  
+(4) Transition to a circular economy  Measures are in place to manage waste, both in the use phase and in the 
+end-of-life of the vessel, in accordance with the waste hierarchy.
+For battery-operated vessels, those measures include reuse and recycling of
+batteries and electronics, including critical raw materials therein.
+For existing ships above 500 gross tonnage and the new-built ones
+replacing them, the activity complies with the requirements of Regulation
+(EU) No 1257/2013 relating to the inventory of hazardous materials. The
+scrap ships are recycled in facilities included on the European List of ship
+recycling facilities as laid down in Commission Decision 2016/2323.
+The activity complies with Directive (EU) 2019/883 as regards the
+protection of the marine environment against the negative effects from
+discharges of waste from ships.
+The ship is operated in accordance with Annex V to the IMO MARPOL
+Convention, in particular with a view to producing reduced quantities of
+waste and to reducing legal discharges, by managing its waste in a
+sustainable and environmentally sound manner.  
+_____________
+( 263  ) As regards the extension of the requirements applying in Emission Control Area to other Union seas, countries bordering the 
+Mediterranean Sea are discussing the creation of relevant ECA under the legal framework of the Barcelona Convention.EN  L 442/116 Official Journal of the European Union 9.12.2021
+
+--- Page 117 of 349 ---

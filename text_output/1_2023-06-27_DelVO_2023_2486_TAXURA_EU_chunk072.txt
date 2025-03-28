@@ -1,0 +1,44 @@
+File Name: 1_2023-06-27_DelVO_2023_2486_TAXURA_EU.pdf
+Converted on: 2025-03-28 03:20:36
+Original Size: 8.44 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 72 of 199
+--------------------------------------------------------------------------------
+
+ELI: http://data.europa.eu/eli/reg_del/2023/2486/oj 52/164Technical screening criteria
+Substantial contribution to the transition to a circular economy
+1.All generated construction and demolition waste is treated in accordance with Union waste legislation and with the full
+checklist of the EU Construction and Demolition Waste Management Protocol, in particular by setting sorting systems and
+pre-demolition audits (74). The preparing for re-use (75)or recycling (76)of the non-hazardous construction and demolition
+waste generated on the construction site is at least 90 % (by mass in kilogrammes), excluding backfilling (77). This excludes
+naturally occurring material referred to in category 17 05 04 in the European List of Waste established by Decision 2000/532/EC. The operator of the activity demonstrates compliance with the 90 % threshold by reporting on the Level(s)
+indicator 2.2 (
+78)using the Level 2 reporting format for different waste streams.
+2.The life-cycle Global Warming Potential (GWP) of the building resulting from the construction has been calculated for
+each stage in the life cycle and is disclosed to investors and clients on demand (79).
+3.Construction designs and techniques support circularity via the incorporation of concepts for design for adaptability
+and deconstruction as outlined in Level(s) indicators 2.3 and 2.4 respectively. Compliance with this requirement is
+demonstrated by reporting on the Level(s) indicators 2.3 (80)and 2.4 (81)at Level 2.
+(74)EU Construction and Demolition Waste Management Protocol, Annex F (version of 27.6.2023: https://ec.europa.eu/docsroom/
+documents/20509/).
+(75)‘Preparing for re-use’ means checking, cleaning or repairing recovery operations, by which products or components of products that
+have become waste are prepared so that they can be re-used without any other pre-processing. This includes, for instance, the
+preparation for re-use of certain parts of buildings like roof elements, windows, doors, bricks, stones or concrete elements. A pre-
+requisite for the preparation for re-use of building elements is usually the selective deconstruction of buildings or other structures.
+(76)‘Recycling’ means any recovery operation, by which waste materials are reprocessed into products, materials or substances whether for
+the original or other purposes. It includes the reprocessing of organic material but does not include energy recovery and the
+reprocessing into materials that are to be used as fuels or for backfilling operations.
+(77)‘Backfilling’ means any recovery operation where suitable non-hazardous waste is used for purposes of reclamation in excavated areas
+or for engineering purposes in landscaping. Waste used for backfilling must substitute non-waste materials, be suitable for the
+aforementioned purposes, and be limited to the amount strictly necessary to achieve those purposes.
+(78)See Level(s) indicator 2.2: Construction and demolition waste and materials, user manual: introductory briefing, instructions and
+guidance (Publication version 1.1), https://susproc.jrc.ec.europa.eu/product-bureau//sites/default/files/2021-01/
+UM3_Indicator_2.2_v1.1_40pp.pdf. For reporting, the Excel spreadsheet available on the Commission website is to be used:
+Construction and Demolition Waste (CDW) and materials Excel template: for estimating (Level 2) and recording (Level 3) amounts
+and types of CDW and their final destinations (version 1.1), https://susproc.jrc.ec.europa.eu/product-bureau/product-groups/412/
+documents.
+(79)The GWP is communicated as a numeric indicator for each life cycle stage expressed as kgCO 2e/m2 (of useful internal floor area)
+averaged for one year of a reference study period of 50 years. The data selection, scenario definition and calculations are carried out

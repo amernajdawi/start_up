@@ -1,0 +1,15 @@
+File Name: 2_E1-6_2014-01-01_G_GHG-Agri_WRI&WBCSD.pdf
+Converted on: 2025-03-28 03:18:26
+Original Size: 1.75 MB
+Chunk Size: 500 tokens with 50 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 101 of 108
+--------------------------------------------------------------------------------
+
+products (HWPs) A carbon pool  that includes all wood material (including bark) that 
+leaves the boundary of the reporting company.
+Indirect GHG emissions Emissions from sources that are owned or controlled by another
+company, but are nonetheless a con sequence of the activities of the
+reporting company.

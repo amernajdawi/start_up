@@ -1,0 +1,60 @@
+File Name: 2_E1-6_2004-03_G_GHG-Prot_WRI&WBCSD.pdf
+Converted on: 2025-03-28 03:18:16
+Original Size: 3.51 MB
+Chunk Size: 500 tokens with 50 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 191 of 225
+--------------------------------------------------------------------------------
+
+•Mobile combustion (transportation of fuels/waste,
+employee business travel, employee commuting)
+•Fugitive emissions (CH4and CO2from waste landfills,
+pipelines, SF6emissions)
+•Stationary combustion (product use as fuel or combus-
+tion for the production of purchased materials)
+•Mobile combustion (transportation of raw
+materials/products/waste, employee business travel,employee commuting, product use as fuel)
+•Process emissions (product use as feedstock or emis-
+sions from the production of purchased materials)
+•Fugitive emissions (CH
+4and CO2from waste landfills
+or from the production of purchased materials)
+•Stationary combustion (product use as fuel)
+•Mobile combustion (transportation of coal/waste,
+employee business travel, employee commuting)
+•Process emissions (gasification)
+•Stationary combustion (raw material processing and
+coke production by second party suppliers, manufactureof production line machinery)
+•Mobile combustion (transportation services, business
+travel, employee commuting)
+•Process emissions (during production of purchased
+materials)
+•Fugitive emissions (mining and landfill CH
+4and CO2,
+outsourced process emissions)
+•Stationary combustion (mining equipment, production
+of purchased materials)
+•Process emissions (production of ferroalloys)
+•Mobile combustion (transportation of raw
+materials/products/waste and intermediate products)
+•Fugitive emissions (CH4and CO2from waste landfills)
+•Stationary combustion (production of purchased mate-
+rials, waste combustion)
+•Process emissions (production of purchased materials)
+•Mobile combustion (transportation of raw
+materials/products/waste, employee business travel,employee commuting)
+•Fugitive emissions (CH
+4and CO2from waste landfills
+and pipelines)SECTOR
+ENERGYEnergy
+Generation
+Oil and Gas
+3
+Coal Mining
+METALS
+Aluminum4
+Iron and Steel5
+CHEMICALSNitric acid,
+Ammonia, Adipicacid, Urea, andPetrochemicals

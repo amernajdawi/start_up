@@ -1,0 +1,42 @@
+File Name: 1_2024-02-28_RL_2024_825_GCD_EU.pdf
+Converted on: 2025-03-28 03:18:15
+Original Size: 0.61 MB
+Chunk Size: 500 tokens with 50 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 46 of 49
+--------------------------------------------------------------------------------
+
+ELI: http://data.europa.eu/eli/dir/2024/825/oj 14/164. By 27 Sept ember 2025 the Commission shall, by means of imp lementing acts, specify the design and content of
+the harmonised label referred to in paragraph 1.
+5. The harmonised notice and the harmonised label shall be easily recognisable and understandable for consumers
+and easy to use and reproduce for traders.
+6. Those implementing acts shall be adopt ed in accordance with the examination procedure refer red to in
+Article 27a.’ ;
+(6) the following article is inser ted:
+‘Article 27a
+Committee procedure
+1. The Commission shall be assisted by a committe e. That committee shall be a committee within the meaning of
+Regulation (EU) No 182/2011 of the European Parliament and of the Council (*).
+2. Where reference is made to this paragraph, Article 5 of Regulation (EU) No 182/2011 shall apply .
+_____________
+(*) Regulation (EU) No 182/2011 of the European Parliament and of the Council of 16 Febr uary 2011 laying down the
+rules and general principles concer ning mech anisms for control by Member States of the Commission’s exercise of
+implementing powers (OJ L 55, 28.2.2011, p. 13).’.
+Article 3
+Repor ting by the Commission and review
+By 27 September 2031 , the Commission shall submit a repor t on the application of this Directive to the European
+Parliament and to the Council.
+That repor t shall include an assessment of this Directive ’s contr ibution to enhancing consumer rights, in particular the
+effectiveness of the harmonised label and the harmonised notice with regard to impro ving the availability of commercial
+guarant ees of durability and consumers’ understanding thereof, as well as consumers’ aware ness of their rights under the
+lega l guarant ee of conf ormity . Further more, the repor t shall assess this Directive ’s overall contr ibution to the participation
+of consumers in the green transition and its imp act on traders.
+That repor t shall be accompan ied, where appropr iate, by relevant legislative proposals.
+Article 4
+Transposition
+1. By 27 Marc h 2026 , Member States shall adopt and publish the measures necessar y to compl y with this Directive.
+They shall immediately inform the Commission thereof.
+They shall apply those measures from 27 Sept ember 2026 .
+When Member States adop t those measures, they shall contain a reference to this Directive or shall be accompan ied by such

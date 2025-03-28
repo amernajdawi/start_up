@@ -1,0 +1,379 @@
+File Name: CELEX_32010L0075_DE_TXT.pdf
+Converted on: 2025-03-28 03:21:03
+Original Size: 4.18 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 41 of 93
+--------------------------------------------------------------------------------
+
+(1)L 334/44 DE Amtsblattder Europäischen Union 17.12.2010
+Artikel 57
+Begriffsbestimmu ngen
+Im
+Sinne
+dieses Kapitels
+bezeichnet
+der Ausdruck :
+1. „
+bestehende
+Anlage
+“ eine
+Anlage,
+die am 29. März 1999 in
+Betrieb
+war oder für die vor dem 1. April 2001 ein e
+Geneh­
+migung
+erteilt oder Reg istrierung
+vorgenommen
+worden
+ist
+oder für die der Betreib er
+vor diesem Zeitpun kt
+einen
+voll­
+ständigen
+Genehmigungsantrag
+gestellt
+hat, sofern  
+sie spätes­
+tens
+am 1. April 2002 in  
+Betrieb
+genommen
+wurde;
+2. „Abgase
+“ die aus ein em
+Schornstein
+oder einer
+Vorrichtun g
+zur
+Emissionsminderung
+endgültig
+in die Luft freigesetzten
+Gase, die flüchtig e
+organische
+Verbindungen
+oder son stige
+Schadstoffe
+enthalten;
+3. „
+diffuse Emissionen
+“ alle nicht
+in
+Abgasen
+enthaltenen
+Emis­
+sionen
+flüchtiger
+organischer
+Verbindungen
+in
+die Luft, den
+Boden oder das Wasser sowie Lösun gsmit
+tel, die in ein em
+Produkt
+enthalten
+sind,
+soweit in An hang
+VII
+Teil 2 nicht
+anders
+angegeben;
+4. „
+Gesamtemission en
+“ die Summe der diffusen  
+Emissionen un d
+der
+Emissionen
+in
+Abgasen;
+5.
+„Mischung
+“ Mischung
+im Sinne
+der Begriffsbestimmung
+in
+Artikel
+3 Absatz
+2 der Verordn ung
+(EG)
+Nr. 1907/2006 des
+Europäischen
+Parlaments
+und
+des Rates vom 18. Dezemb er
+2006
+zur Registrierung,
+Bewertun g,
+Zulassun g
+und
+Beschränkung
+chemischer Stoffe (RE ACH)
+und
+zur Schaffun g
+einer
+Europäischen
+Chemikalienagentur
+(1) ABl. L 396 vom 30.12.2006, S. 1.;
+6. „Klebstoff
+“ jede Mischun g,
+einschließlich
+aller org anischen
+Lösungsmittel
+oder Mischun gen,
+die für ihre Gebrauchs­
+tauglichkeit
+organische
+Lösungsmittel
+enthalten
+müssen,
+die
+dazu verwen det
+wird, E inzelteile
+eines
+Produk ts
+zusammen zukleben;
+7. „
+Druckfarbe
+“ eine
+Mischung,
+einschließlich
+aller organischen
+Lösungsmittel
+oder Mischun gen,
+die für ihre Gebrauchs­
+tauglichkeit
+organische
+Lösungsmittel
+enthalten
+müssen,
+die
+in
+einem
+Druckverfahren
+für das Bedruck en
+einer
+Oberfläche
+mit
+Text oder Bildern  
+verwendet
+wird;
+8. „Klarlack
+“ einen
+durchsichtig en
+Beschichtun gsstoff;
+9.
+„Verbrauch
+“ die Gesamtmen ge
+an organischen
+Lösungsmit
+­
+teln,
+die in
+einer
+Anlage
+je Kalenderjahr
+oder innerhalb
+eines
+beliebigen
+Zwölfmon atszeitraums
+eingesetzt
+wird, abzüglich
+aller
+flüchtigen
+organischen
+Verbindungen,
+die zur Wieder­
+verwendung
+zurück
+gewonnen
+werden;
+10.
+„eingesetzte
+Lösungsmittel
+“ die Men ge
+der org anischen
+Lösungsmittel
+und
+ihre Menge
+in
+Mischungen,
+die bei
+der
+Durchführun g
+einer
+Tätigkeit
+verwendet
+werden,
+einschließ­
+lich
+der innerhalb
+und
+außerhalb  
+der Anlage
+zurück
+gewon­
+nenen
+Lösungsmittel,
+die jedes Mal zu b erücksichtigen
+sind,
+wenn
+sie zur Durchführun g
+der Tätigkeit
+verwendet
+werden;11. „
+Wiederverwen dung
+“ die Verwen dung
+organischer
+Lösungs­
+mittel,
+die aus ein er
+Anlage
+für techn ische
+oder kommerzi
+­
+elle Zweck e
+zurück g ewonnen
+werden;
+dazu zählt die
+Nutzung
+als Brennstoff,
+nicht
+jedoch die E ndlagerung
+zurück
+gewonnener
+organischer
+Lösungsmittel
+als Abfall;
+12.
+„gefasste
+Bedingungen
+“ Bedingungen,
+unter
+denen
+eine
+Anlage
+so betrieben
+wird, dass die b ei
+der Tätigkeit
+freigesetz­
+ten
+flüchtigen
+organischen
+Verbindungen
+erfasst un d
+entwe­
+der
+durch ein en
+Schornstein
+oder ein e
+Vorrichtun g
+zur
+Emissionsminderung
+kontrolliert
+abgeleitet
+und
+somit nicht
+vollständig
+diffus emittiert werden ;
+13.
+„An-
+und
+Abfahren
+“ die Vorgänge,
+mit denen
+der Betrieb s-
+oder
+Bereitschaftszustan d
+einer
+Tätigkeit,
+eines
+Gerätes oder
+eines
+Behälters herg estellt
+oder beendet
+wird, ausg enommen
+regelmäßig
+wiederkehrende
+Phasen
+bei
+einer
+Tätigkeit.
+Artikel
+58
+Substitution
+gefährlicher Stoffe
+Stoffe oder Mischun gen,
+denen
+aufgrund
+ihres Gehalts an  
+flüch­
+tigen
+organischen
+Verbindungen,
+die gemäß
+der Verordnun g
+(EG)
+Nr.  1272/2008 als k arzinogen, 
+mutagen
+oder reproduk tions­
+toxisch
+eingestuft
+sind,
+die Gefahren hinweise
+H340, H350,
+H350i, H360D oder H360F zug eordnet
+oder die mit diesen  
+Hin­
+weisen
+zu kennzeichnen
+sind,
+werden in k ürzestmöglicher
+Frist
+soweit wie mög lich
+durch wen iger
+schädliche Stoffe oder
+Mischungen
+ersetzt.
+Artikel 59
+Reduzierung der Emissionen
+(1) Die Mitgliedstaaten
+ergreifen
+die erforderlichen Maßn ah
+­
+men,
+um bei
+jeder Anlage
+sicherzustellen ,
+dass
+a) die Emissionen
+an
+flüchtigen
+organischen
+Verbindungen
+aus
+den Anlagen
+die Emissionsgrenzwerte
+für Abgase
+und
+die
+Grenzwerte
+für die diffusen  
+Emissionen
+oder die Gren zwerte
+für
+die Gesamtemission en
+nicht
+überschreiten
+und
+die ande­
+ren
+Anforderungen
+des Anhangs
+VII
+Teile 2 un d
+3 eingehal­
+ten

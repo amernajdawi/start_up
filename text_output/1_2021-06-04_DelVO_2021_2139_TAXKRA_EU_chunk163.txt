@@ -1,0 +1,59 @@
+File Name: 1_2021-06-04_DelVO_2021_2139_TAXKRA_EU.pdf
+Converted on: 2025-03-28 03:20:30
+Original Size: 2.76 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 163 of 447
+--------------------------------------------------------------------------------
+
+6.14.  Infrastructure for rail transport  
+Description of the activity  
+Construction, modernisation, operation and maintenance of railways and subways as well as bridges and tunnels,
+stations, terminals, rail service facilities (  273  ), safety and traffic management systems including the provision of 
+architectural services, engineering services, drafting services, building inspection services and surveying and
+mapping services and the like as well as the performance of physical, chemical and other analytical testing of
+all types of materials and products.  
+The economic activities in this category could be associated with several NACE codes, in particular F42.12,
+F42.13, M71.12, M71.20, F43.21, and H52.21 in accordance with the statistical classification of economic
+activities established by Regulation (EC) No 1893/2006.  
+An economic activity in this category is an enabling activity as referred to in Article 10(1), point (i), of Regulation
+(EU) 2020/852 where it complies with the technical screening criteria set out in this Section.  
+Technical screening criteria  
+Substantial contribution to climate change mitigation  
+1. The activity complies with one of the following criteria:
+(a) the infrastructure (as defined in Annex II.2 to Directive (EU) 2016/797 of the European Parliament and of the
+Council (  274  )) is either: 
+(i) electrified trackside infrastructure and associated subsystems: infrastructure, energy, on-board control-
+command and signalling, and trackside control-command and signalling subsystems as defined in
+Annex II.2 to Directive (EU)2016/797;
+(ii) new and existing trackside infrastructure and associated subsystems where there is a plan for electrifi ­
+cation as regards line tracks, and, to the extent necessary for electric train operations, as regards sidings,
+or where the infrastructure will be fit for use by zero tailpipe CO  2 emission trains within 10 years from 
+the beginning of the activity: infrastructure, energy, on-board control-command and signalling, and
+trackside control-command and signalling subsystems as defined in Annex II.2 to Directive
+(EU)2016/797;
+(iii) until 2030, existing trackside infrastructure and associated subsystems that are not part of the TEN-T
+network (  275  ) and its indicative extensions to third countries, nor any nationally, supranationally or 
+internationally defined network of major rail lines: infrastructure, energy, on-board control-command
+and signalling, and trackside control-command and signalling subsystems as defined in Annex II.2 to
+Directive (EU) 2016/797;
+(b) the infrastructure and installations are dedicated to transhipping freight between the modes: terminal infra ­
+structure and superstructures for loading, unloading and transhipment of goods;
+(c) infrastructure and installations are dedicated to the transfer of passengers from rail to rail or from other
+modes to rail.
+2. The infrastructure is not dedicated to the transport or storage of fossil fuels.  
+Do no significant harm (‘DNSH’)  
+(2) Climate change adaptation  The activity complies with the criteria set out in Appendix A to this 
+Annex.  
+_____________
+( 273  ) In accordance with Article 3, point (11), of Directive 34/2012/EU of the European Parliament and of the Council of 
+21 November 2012 establishing a single European railway area (OJ L 343, 14.12.2012, p. 32).
+( 274  ) Directive (EU) 2016/797 of the European Parliament and of the Council of 11 May 2016 on the interoperability of the rail 
+system within the European Union (OJ L 138, 26.5.2016, p. 44).
+( 275  ) In accordance with Regulation (EU) No 1315/2013 of the European Parliament and of the Council of 11 December 2013 on 
+Union guidelines for the development of the trans-European transport network and repealing Decision No 661/2010/EU
+(OJ L 348, 20.12.2013, p. 1).EN  9.12.2021 Official Journal of the European Union L 442/119
+
+--- Page 120 of 349 ---

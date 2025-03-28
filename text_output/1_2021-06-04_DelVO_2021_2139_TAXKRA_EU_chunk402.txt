@@ -1,0 +1,69 @@
+File Name: 1_2021-06-04_DelVO_2021_2139_TAXKRA_EU.pdf
+Converted on: 2025-03-28 03:20:30
+Original Size: 2.76 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 402 of 447
+--------------------------------------------------------------------------------
+
+--- Page 313 of 349 ---
+
+(c) WCs, including suites, bowls and flushing cisterns, have a full flush
+volume of a maximum of 6 litres and a maximum average flush
+volume of 3,5 litres;
+(d) urinals use a maximum of 2 litres/bowl/hour. Flushing urinals have a
+maximum full flush volume of 1 litre.
+To avoid impact from the construction site, the activity complies with the
+criteria set out in Appendix B to this Annex.  
+(4) Transition to a circular economy  At least 70 % (by weight) of the non-hazardous construction and demo ­
+lition waste (excluding naturally occurring material referred to in category
+17 05 04 in the European List of Waste established by Decision
+2000/532/EC) generated on the construction site is prepared for reuse,
+recycling and other material recovery, including backfilling operations
+using waste to substitute other materials, in accordance with the waste
+hierarchy and the EU Construction and Demolition Waste Management
+Protocol (  572  ). Operators limit waste generation in processes related to 
+construction and demolition, in accordance with the EU Construction
+and Demolition Waste Management Protocol and taking into account
+best available techniques and using selective demolition to enable
+removal and safe handling of hazardous substances and facilitate reuse
+and high-quality recycling by selective removal of materials, using
+available sorting systems for construction and demolition waste.
+Building designs and construction techniques support circularity and in
+particular demonstrate, with reference to ISO 20887 (  573  ) or other 
+standards for assessing the disassembly or adaptability of buildings, how
+they are designed to be more resource efficient, adaptable, flexible and
+dismantleable to enable reuse and recycling.  
+(5) Pollution prevention and control  Building components and materials used in the construction comply with 
+the criteria set out in Appendix C to this Annex.
+Building components and materials used in the construction that may
+come into contact with occupiers (  574  ) emit less than 0,06 mg of formal ­
+dehyde per m  3 of material or component upon testing in accordance with 
+the conditions specified in Annex XVII to Regulation (EC) No 1907/2006
+and less than 0,001 mg of other categories 1A and 1B carcinogenic
+volatile organic compounds per m  3 of material or component, upon 
+testing in accordance with CEN/EN 16516 (  575  ) or ISO 16000-3 (  576  ) or 
+other equivalent standardised test conditions and determination
+methods (  577  ). 
+Where the new construction is located on a potentially contaminated site
+(brownfield site), the site has been subject to an investigation for potential
+contaminants, for example using standard ISO 18400 (  578  ). 
+Measures are taken to reduce noise, dust and pollutant emissions during
+construction or maintenance works.  
+_____________
+( 572  ) EU Construction and Demolition Waste Protocol (version of 4.6.2021: https://ec.europa.eu/growth/content/eu-construction-and- 
+demolition-waste-protocol-0_en).
+( 573  ) ISO 20887:2020, Sustainability in buildings and civil engineering works - Design for disassembly and adaptability - Principle s, 
+requirements and guidance (version of 4.6.2021: https://www.iso.org/standard/69370.html).
+( 574  ) Applying to paints and varnishes, ceiling tiles, floor coverings, including associated adhesives and sealants, internal insul ation and 
+interior surface treatments, such as those to treat damp and mold.
+( 575  ) CEN/TS 16516: 2013, Construction products - Assessment of release of dangerous substances - Determination of emissions into 
+indoor air.
+( 576  ) ISO 16000-3:2011, Indoor air — Part 3: Determination of formaldehyde and other carbonyl compounds in indoor air and test 
+chamber air — Active sampling method.
+( 577  ) The emissions thresholds for carcinogenic volatile organic compounds relate to a 28-day test period. 
+( 578  ) ISO 18400 series on Soil quality — SamplingEN  9.12.2021 Official Journal of the European Union L 442/313
+
+--- Page 314 of 349 ---

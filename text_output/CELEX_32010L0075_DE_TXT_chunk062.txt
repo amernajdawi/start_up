@@ -1,0 +1,282 @@
+File Name: CELEX_32010L0075_DE_TXT.pdf
+Converted on: 2025-03-28 03:21:03
+Original Size: 4.18 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 62 of 93
+--------------------------------------------------------------------------------
+
+17.12.2010 DE Amtsblattder Europäischen Union L 334/65
+TEIL 4
+Beurteilung
+der Einhaltung von Emissionsgrenzwerten
+1. Im
+Falle kontinuierlicher
+Messungen
+gelten
+die in
+den
+Teilen
+1 und
+2 aufgeführten  
+Emissionsgrenzwerte
+als eingehalten,
+wenn
+die Auswertun g
+der Messerg ebnisse
+für die Betrieb sstunden
+innerhal
+b
+eines
+Kalenderjahres
+ergibt,
+dass alle n ach­
+stehenden
+Bedingungen
+erfüllt sind:
+a) kein
+validierter Mon atsmittelwert
+überschreitet
+die einschlägigen
+Emissionsgrenzwerte
+gemäß
+den
+Teilen
+1 und
+2;
+b) kein
+validierter Tag esmittelwert
+überschreitet
+110 % der ein schlägig
+en
+Emissionsgrenzwerte
+gemäß
+den
+Teilen
+1
+und
+2;
+c) kein
+validierter Tag esmittelwert
+überschreitet
+150 % der ein schlägig
+en
+Emissionsgrenzwerte
+gemäß
+den
+Teilen
+1
+und
+2 im Falle von  
+Großfeuerun gsanlagen,
+deren
+Kessel
+nur
+mit Steinkohle
+betrieben
+werden
+und
+deren Feuerungs­
+wärmeleistun g
+weniger
+als 50 MW b eträgt;
+d)
+95 % aller validierten Stun denmittelwerte
+über
+das Jahr g erec
+hnet
+über
+schreiten n icht
+200 % der ein schlägigen
+
+Emissionsgrenzwerte
+gemäß
+den
+Teilen
+1 und
+2.
+Die validierten  
+Mittelwerte werden  
+gemäß
+Teil 3 Nummer 10 b estimmt.
+Bei
+der Berechn ung
+der durchschn ittlichen
+Emissionswerte
+bleiben
+die währen d
+der Zeitab sc
+hnitte gemäß
+Artikel
+30
+Absätze
+5 und
+6 und
+Artikel
+37 sowie währen d
+der An-
+und
+Abfahrzeiten
+gemess
+enen
+Werte unberücksichtigt.
+2.
+Sind
+keine
+kontinuierlichen
+Messungen
+vorgeschrieben,
+so gelten
+die in den Teilen 1 un d
+2 aufgeführten
+Emissions
+­
+grenzwerte
+als eingehalten,
+wenn
+die Ergebnisse
+jeder einzelnen
+Messreihe oder der an deren
+Verfahren ,
+die gemäß
+den
+von
+den
+zuständigen
+Behörden  
+festgelegten
+Vorschriften  
+definiert
+und
+be
+stimmt wurden ,
+die Emissionsgrenzwerte
+nicht
+überschreiten.
+TEIL
+5
+Mindest-Schwefelabscheidegrad
+1. Mindest-Schwefelabscheidegrad
+für die in
+Artikel
+30 Absatz
+2 aufgefüh
+rten
+Feuerungsanlagen
+Feuerungswärmeleistung (MW)Mindest-Schwefelabscheidegrad
+Anlagen,
+die vor dem 27. Novemb er
+2002 eine
+Genehmigung
+erhalten haben oder für die von  deren Betreibern vor diesem 
+Zeitpunkt
+ein
+vollständiger
+Genehmigungsantrag
+gestellt
+wurde,
+sofern
+die Anlage
+spätestens
+zum 27. Novemb er
+2003 in
+Betrieb
+genommen
+wurdeSonstige
+Anlagen
+50-100 80 % 92 %
+100-300 90 % 92 %
+> 300 96 % (1)9 6 %
+Anmerkung:
+(1)Bei Feuerun gsanlagen, die mit Ölschiefer b etrieben werden, beträgt der Mindest-Schwefelabscheidegrad 95 %.
+2. Mindest-Schwefelabscheidegrad für die in Artikel  30 Absatz  3 aufgefüh rten Feuerungsanlagen 
+Feuerungswärmeleistung (MW) Mindest-Schwefelabscheidegrad
+50-100 93 %
+100-300 93 %
+> 300 97 %
+
+--- Page 50 of 103 ---
+
+L 334/66 DE Amtsblattder Europäischen Union 17.12.2010
+TEIL 6
+Einhaltung
+des Schwefelabscheidegrads
+Die in
+Teil 5 dieses An hangs
+festgelegten
+Mindest-Schwefelabscheidegra
+de gelten
+als monatliche
+Durchschn ittsgrenzwerte.
+TEIL
+7
+Durchschnittliche Emissionsgrenzwerte für Mehrstofffeuerungsanlagen in Raffinerien
+Durchschn ittliche
+SO2-Emissionsgrenzwerte (mg/Nm3) für Mehrstofffeuerun gsanlagen  — mit Ausn ahme von Gasturbinen 
+und
+Gasmotoren — in Raffin erien,
+die Destillation s-
+und
+Konversionsrück
+stände
+aus der Rohölraffin i
+erung
+allein oder
+zusammen  
+mit anderen
+Brennstoffen
+für den
+Eigenverbrauch
+verfeuern:
+a) Feuerungsanlagen,
+bei
+denen
+die Genehmigung
+vor dem 27. Novemb er
+2002 erteilt oder für die von  
+deren
+Betreibern
+vor
+diesem Zeitpun kt
+ein vollstän diger
+Genehmigungsantrag
+gestellt
+wurde (sofern die An lage
+spätesten s
+zum
+27. Novemb er
+2003 in
+Betrieb
+genommen
+wurde): 1 000 mg /Nm3;
+b) sonstige
+Feuerungsanlagen:
+600 mg/Nm3.
+Diese Emissionsgrenzwerte
+werden
+bei
+einer
+Temperatur von  
+273,15 K,
+eine
+m Druck
+von
+101,3 kPa
+und
+nach
+Abzug
+des
+Wasserdampfg ehalts
+des Abgases
+und
+bei
+einem
+Bezugs-O2-Gehalt von  6 % für feste Bren nstoffe und von 3 % für flüssig e 
+und
+gasförmige
+Brennstoffe
+berechnet.
+
+--- Page 51 of 103 ---

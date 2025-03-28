@@ -1,0 +1,68 @@
+File Name: 2_ESRS2_SBM1_2006-12-20_VO_NACER2_EU.pdf
+Converted on: 2025-03-28 03:20:56
+Original Size: 0.17 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 22 of 45
+--------------------------------------------------------------------------------
+
+n.e.c. : not elsewhere classified * part of
+Division Group ClassISIC
+Rev. 4
+33 Repair and installation of machinery and equipment
+33.1 Repair of fabricated metal products, machinery and equipment
+33.11 Repair of fabricated metal products 3311
+33.12 Repair of machinery 3312
+33.13 Repair of electronic and optical equipment 3313
+33.14 Repair of electrical equipment 3314
+33.15 Repair and maintenance of ships and boats 3315*
+33.16 Repair and maintenance of aircraft and spacecraft 3315*
+33.17 Repair and maintenance of other transport equipment 3315*
+33.19 Repair of other equipment 3319
+33.2 Installation of industrial machinery and equipment
+33.20 Installation of industrial machinery and equipment 3320
+SECTION D —ELECTRICITY, GAS, STEAM AND AIR CONDITION-
+ING SUPPLY
+35 Electricity, gas, steam and air conditioning supply
+35.1 Electric power generation, transmission and distribution
+35.11 Production of electricity 3510*
+35.12 Transmission of electricity 3510*
+35.13 Distribution of electricity 3510*
+35.14 Trade of electricity 3510*
+35.2 Manufacture of gas; distribution of gaseous fuels through mains
+35.21 Manufacture of gas 3520*
+35.22 Distribution of gaseous fuels through mains 3520*
+35.23 Trade of gas through mains 3520*
+35.3 Steam and air conditioning supply
+35.30 Steam and air conditioning supply 3530
+SECTION E —WATER SUPPLY; SEWERAGE, WASTE MANAGEMENT
+AND REMEDIATION ACTIVITIES
+36 Water collection, treatment and supply
+36.0 Water collection, treatment and supply
+36.00 Water collection, treatment and supply 3600
+37 Sewerage
+37.0 Sewerage
+37.00 Sewerage 3700
+38 Waste collection, treatment and disposal activities; materials recovery
+38.1 Waste collection
+38.11 Collection of non-hazardous waste 3811
+38.12 Collection of hazardous waste 3812
+38.2 Waste treatment and disposal
+38.21 Treatment and disposal of non-hazardous waste 3821
+38.22 Treatment and disposal of hazardous waste 3822
+38.3 Materials recovery
+38.31 Dismantling of wrecks 3830*
+38.32 Recovery of sorted materials 3830*
+39 Remediation activities and other waste management services
+39.0 Remediation activities and other waste management services
+39.00 Remediation activities and other waste management services 3900
+SECTION F —CONSTRUCTION
+41 Construction of buildings
+41.1 Development of building projects
+41.10 Development of building projects 4100*
+41.2 Construction of residential and non-residential buildings
+41.20 Construction of residential and non-residential buildings 4100*L 393/16 EN Official Journal of the European Union 30.12.2006
+
+--- Page 17 of 39 ---

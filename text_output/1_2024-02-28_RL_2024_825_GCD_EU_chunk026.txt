@@ -1,0 +1,49 @@
+File Name: 1_2024-02-28_RL_2024_825_GCD_EU.pdf
+Converted on: 2025-03-28 03:20:42
+Original Size: 0.61 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 26 of 34
+--------------------------------------------------------------------------------
+
+ELI: http://data.europa.eu/eli/dir/2024/825/oj 9/16a simple and clear manner allowing them to compar e different minimum periods. This is without prejudice to the
+oblig ations set out in Union law, in particular in Directives (EU) 2019/770 and (EU) 2019/771 and, where
+applicable, product-specific Union law. The information on software updat es should be provid ed in a manner that
+is not misleading under Directive 2005/29/EC. The trader should be obliged to provid e this information only where
+the producer or provider has made such information available.
+(34) Pursuant to Article 5(1), point (e), and Article 6(1), point (m), of Directive 2011/83/EU, before consumers are bound
+by a contract, traders are oblig ed to provid e consumers with information on the existen ce and the conditions of
+after-sales services, including repair services, where such services are provid ed. In addition, to allow consumers to
+make an informed transactional decision and choose goods that are easier to repair , traders should, where
+applicable, provide, before consumers are bound by the contract, the reparability score for the good as provid ed by
+the producer and as established at Union level.
+(35) In order to ensure that consumers are well informed about the reparability of the goods they purc hase, where a
+reparability score is not established at Union level, traders should provid e other relevant information on repair that
+is made available by the producer , such as information about the availability , estimated cost and procedure for
+order ing spare parts that are necessar y to keep the goods in conf ormity , the availability of repair and mainte nance
+instr uctions and repair restr ictions.
+(36) Traders should provide consumers with the harmonised label, information about the minimum period for updat es
+and information on repair other than the reparability score, where the producer or provid er of the digital cont ent or
+digital service, if different from the trader , mak es the relevant information available. In particular , as regards goods,
+the trader should conve y to consumers the information that the producer has provided to the trader or has
+other wise intended to make readily available to the consumer before the conclusion of the contract, by indicating it
+on the product itself, its packaging or tags and labels that the consumer would normally consult before concluding
+the contract. The trader should not be required to actively seek such information from the producer , for example,
+by searc hing on the product-specif ic website s. At the same time, it would be in the interest of the producers to
+proactively provide such information to benefi t from a commercial advantage.
+(37) Traders should, where applicable, inform consumers about the availability of environmentally friendly deliver y
+options, such as the deliver y of goods by cargo bike or electr ic deliver y vehicle or the possibility of bundled
+shipping options.
+(38) If a distance contract that is to be concluded by electronic means places the consumer under an obligation to pay, the
+trader should make the consumer aware of the harmonised label, whenever provi ded, in a clear and prominent
+manner , and directly before the consumer places an order to ensure the consumer takes that information into
+account.
+(39) Directives 2005/29/EC and 2011/83/EU should continue to function as a ‘safety net’, ensur ing that a high level of
+consumer prot ection can be maintained in all sectors by complementing sector and product-specif ic Union law that
+prevail in case of conf lict.
+(40) Since the objectives of this Directive, namely , enabling better-informed transactional decisions by consumers to
+promote sustainable consum ption, eliminating practices that cause damage to the sustainable economy and prevent
+consumers from making sustainable consum ption choices, and ensur ing a better and consistent application of the
+Union consumer legal framewor k, cannot be suffi ciently achieved by the Member States but can rather , by reason of

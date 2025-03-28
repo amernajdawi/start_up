@@ -1,0 +1,65 @@
+File Name: 2_ESRS2_SBM1_2006-12-20_VO_NACER2_EU.pdf
+Converted on: 2025-03-28 03:18:28
+Original Size: 0.17 MB
+Chunk Size: 500 tokens with 50 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 51 of 78
+--------------------------------------------------------------------------------
+
+n.e.c. : not elsewhere classified * part of
+Division Group ClassISIC
+Rev. 4
+55.2 Holiday and other short-stay accommodation
+55.20 Holiday and other short-stay accommodation 5510*
+55.3 Camping grounds, recreational vehicle parks and trailer parks
+55.30 Camping grounds, recreational vehicle parks and trailer parks 5520
+55.9 Other accommodation
+55.90 Other accommodation 5590
+56 Food and beverage service activities
+56.1 Restaurants and mobile food service activities
+56.10 Restaurants and mobile food service activities 5610
+56.2 Event catering and other food service activities
+56.21 Event catering activities 562156.29 Other food service activities 5629
+56.3 Beverage serving activities
+56.30 Beverage serving activities 5630
+SECTION J —INFORMATION AND COMMUNICATION
+58 Publishing activities
+58.1 Publishing of books, periodicals and other publishing activities
+58.11 Book publishing 581158.12 Publishing of directories and mailing lists 5812
+58.13 Publishing of newspapers 5813*
+58.14 Publishing of journals and periodicals 5813*58.19 Other publishing activities 5819
+58.2 Software publishing
+58.21 Publishing of computer games 5820*58.29 Other software publishing 5820*
+59 Motion picture, video and television programme production, sound
+recording and music publishing activities
+59.1 Motion picture, video and television programme activities
+59.11 Motion picture, video and television programme production activities 5911
+59.12 Motion picture, video and television programme post-production
+activities5912
+59.13 Motion picture, video and television programme distribution activities 5913
+59.14 Motion picture projection activities 5914
+59.2 Sound recording and music publishing activities
+59.20 Sound recording and music publishing activities 5920
+60 Programming and broadcasting activities
+60.1 Radio broadcasting
+60.10 Radio broadcasting 6010
+60.2 Television programming and broadcasting activities
+60.20 Television programming and broadcasting activities 6020
+61 Telecommunications
+61.1 Wired telecommunications activities
+61.10 Wired telecommunications activities 6110
+61.2 Wireless telecommunications activities
+61.20 Wireless telecommunications activities 6120
+61.3 Satellite telecommunications activities
+61.30 Satellite telecommunications activities 6130
+61.9 Other telecommunications activities
+61.90 Other telecommunications activities 6190
+62 Computer programming, consultancy and related activities
+62.0 Computer programming, consultancy and related activities
+62.01 Computer programming activities 620162.02 Computer consultancy activities 6202*
+62.03 Computer facilities management activities 6202*
+62.09 Other information technology and computer service activities 620930.12.2006 EN Official Journal of the European Union L 393/21
+
+--- Page 22 of 39 ---

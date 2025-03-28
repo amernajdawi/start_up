@@ -1,0 +1,94 @@
+File Name: 2_E1-6_2011-09-01_G_GHG-PLC_WRI&WBCSD.pdf
+Converted on: 2025-03-28 03:20:53
+Original Size: 3.27 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 32 of 116
+--------------------------------------------------------------------------------
+
+[42]   Product Life Cycle Accounting and Reporting Standard
+ [42]   Product Life Cycle Accounting and Reporting Standard
+guidanceabiding by the attributional approach of the standard as
+well as the data collection requirement that specific data
+be used whenever possible. This could be data collected
+from customer surveys, when available, or data based on
+industry average values for the average product use.
+Attributable processes in both the use and end-of-
+life stage can vary significantly between geographical
+locations. While companies can use global averages, they
+may find that focusing on a specific region or country
+provides greater insight into the GHG impacts of the
+product’s use and end-of-life stages. Data collection
+requirements and guidance are available in chapter 8 to
+help companies determine the most appropriate use and
+waste treatment profile.
+In the case where more than one use or end-of-life profile
+is possible, companies may assess the scenario uncertainty
+(i.e., sensitivity analysis) to understand the impact each
+potential profile may have on the total inventory results.
+For example, a company may want users of the report to
+know the impact that storing food in the freezer for three
+months versus one year has on the inventory results.
+More information on scenario uncertainty is available in
+chapter 10.
+7.3.4	 Estimating	to	determine	insignificance
+To determine insignificance, a company should estimate the
+process’s emissions using data with upper limit assumptions
+to determine whether, in the most conservative case, the
+process is insignificant based on either mass, energy, or
+volume, as well as GHG relevance criteria.
+To determine whether an estimate is insignificant or not,
+a company needs to establish a definition of insignificance
+which may include a rule of thumb threshold. For example,
+a rule of thumb for insignificance may be material or
+energy flows that contribute less than one percent of the
+mass, energy, or volume and estimated GHG significance
+over a process, life cycle stage, or total inventory.4
+For example, consider a process for which there is no
+primary or secondary data available on material input
+X other than that it contributes 0.5 grams to the 100
+gram total material input for the product. The company
+estimates that even if material X is a GHG intensive input,
+0.5 grams does not exceed one percent of the mass or environmental impact; therefore, the material input is a
+justified exclusion. The definition of insignificance should
+reflect the company’s business goals for conducting the
+inventory. As stated previously, companies are required
+to disclose and justify any exclusion of attributable
+processes in the inventory report.
+7.3.5 Non-attributable processes
+Companies are not required to include non-attributable
+processes (processes that are not directly connected to
+the studied product) in the boundary. However, companies
+should include non-attributable processes in the inventory
+if they cannot be separated from attributable process
+data, or if the company determines that the process is
+relevant to the studied product. Relevance is determined
+by the company and may be based on many different
+factors including business goals and reduction potentials,
+product rules or sector guidance, and relative impact in
+relation to the rest of the inventory.  TAL Apparel is a major 
+apparel manufacturer with
+multiple manufacturing
+facilities in China and
+Southeast Asia. While TAL
+has installed sub-meters
+for most attributable
+processes for their non-iron shirt, there are still some
+attributable processes, such as packing, whose energy
+use cannot be fully separated from non-attributable
+processes that also occur in the factory, such as R&D
+and product testing. After deducting the emissions of
+metered processes from the overall tally, TAL captured
+emissions from the remaining processes (attributable
+and non-attributable) that are not sub-metered by
+allocating across all products produced in the factory.
+As a result of using this approach, the product
+inventory was able to meet the boundary requirement
+to include all attributable processes. By clearly stating
+which non-attributable processes were included in the
+report, TAL also improved the transparency of their
+inventory results. TAL
+
+--- Page 45 of 148 ---

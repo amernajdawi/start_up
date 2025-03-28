@@ -1,0 +1,91 @@
+File Name: 2_E1-6_2014-01-01_G_GHG-Agri_WRI&WBCSD.pdf
+Converted on: 2025-03-28 03:20:54
+Original Size: 1.75 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 27 of 65
+--------------------------------------------------------------------------------
+
+37
+ Table 5-2. Considerations for choosing an or ganizational boundary approach.  
+Consideration  Preferred 
+boundary
+approach  Explanation  
+Reflection of
+commercial reality  Equity share Equity share is based on the share of economic 
+interest in a business activity, which is a
+reflection of commercial reality  
+Government
+reporting and emissions trading
+programs  Operational control Programs usually require reporting on the basis 
+of operational control  
+Liability and risk
+management  Equity share or 
+financial control  The ultimate financial liability for GHG 
+emissions often rests with the group company
+that holds an equity share in the operation or has
+financial control over it
+Alignment with
+financial accounting  Equity share or 
+financial controlThese approaches result in the closest alignment
+between GHG and financial accounting  
+Management
+information and
+performance
+tracking Operational control
+or financial control  Managers can only be held accountable for 
+activities under their control  
+Cost of
+administration and data access  Operational control 
+or financial control  The equity share approach can result in higher 
+costs because of resource requirements of collecting data from joint operations not under
+the control of the reporting company.  
+
+5.2 Setting operational boundaries  
+
+Having set organizational boundaries using a ny one of the consolidation approaches,
+companies should then set operational boundaries for each of their sources. These boundaries define whether an emission source is direct (i.e., is controlled or owned by the
+reporting company) or indire ct (i.e., owned or controll ed by another company, but a
+portion of whose emissions are a consequence of  the activities of the reporting company). 
+Emission sources are further cl assified by scope (Box 1-1):
+ Scope 1: All direct sources
+ Scope 2: Consumption of purchased heat, st eam and electricity (a n indirect source)
+ Scope 3: All other indirect sources
+ All scope 1 and 2 sources shall be reported in  an inventory. Scope 3 sources are optional 
+under the Corporate Standard, although it is recommended to measure and report
+significant scope 3 sources (see Chapter 9.3). Also, with the exception of LUC, all CO
+2
+fluxes to/from C pools that are owned or c ontrolled by the reporting company should be
+reported separately from the scopes in a sp ecial ‘Biogenic Carbon’  category. Biogenic 
+CO 2 fluxes are considered further in Chapters 8 and 9.   
+
+--- Page 38 of 103 ---
+
+GHG Protocol Agricultural Guidance
+
+38
+What factors affect how oper ational boundaries are set?
+
+Companies may encounter the following fact ors for consideration when determining
+which scope a given source falls under:  
+1. Production contracts
+Agricultural products can be sold in va rious ways, including production contracts,
+marketing contracts and spot markets (Figur e 5-2). Production contracts are distinct in
+that they are agreements between contract ors (often called growers) and contractees
+(often called integrators) that cede some m easure of control over the production process
+to the integrator. The contract specifies: (1 ) the services to be provided by the grower
+(e.g., fertilizer application schedules, husbandr y conditions); (2) the manner in which the
+grower is to be compensated for the services ; and (3) specific inte grator responsibilities
+for the provision of any inputs. There are ma ny different types of production contracts,
+which vary according to whether the integrator or grower owns the product during production; whether the terms of  the contract are non-negotiabl e; and the extent to which 
+the integrator provides inputs.  
+
+For the purposes of reporting under this Guidance, growers are assumed to retain operational control over the contracted produc tion and should therefore account for 100%
+of the associated emissions under scope 1 or  2 using the operationa l control approach. 
+The accounting under financial or equity share a pproaches may differ. In particular, if the
+integrator has established multi-year contra cts with individual growers and provides
+extensive inputs, the integrators and grower s should each then account for a portion of
+the emissions according to their share of investments in the production process.  
+ Figure 5-2.  Primary sales routes for agricultural products

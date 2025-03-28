@@ -1,0 +1,32 @@
+File Name: 1_2020-06-18_VO_2020_852_TAXAllg_EU.pdf
+Converted on: 2025-03-28 01:55:14
+Original Size: 0.73 MB
+Chunk Size: 400 tokens with 50 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 99 of 109
+--------------------------------------------------------------------------------
+
+(2) Article 8 is amended as follows:
+(a) the follo wing paragraph is inser ted:
+‘2a. Where financia l mark et participants make available a financial product as refer red to in Article 6 of
+Regulation (EU) 2020/852 of the European Parliament and of the Council (*), they shall include in the information
+to be disclosed pursuant to Article 6(1) and (3) of this Regulation the information required under Article 6 of
+Regulation (EU) 2020/852.
+_____________
+(*) Regulation (EU) 2020/852 of the European Parliament and of the Council of 18 June 2020 on the
+establishment of a framew ork to facilitate sustainable investment, and amending Regulation (EU) 2019/2088
+(OJ L 198, 22.6.2020, p. 13).’;
+(b) in paragraph 3, the first subparagraph is replaced by the followi ng:
+‘3. The ESAs shall, through the Joint Committee, develop draf t regulatory technical standards to specify the
+details of the content and presentation of the information to be disclosed pursuant to paragraphs 1 and 2 of this
+Article.’;
+(c) the follo wing paragraph is added:
+‘4. The ESAs shall, through the Joint Committee, develop draf t regulatory technical standards to specify the
+details of the cont ent and presentation of the information referred to in paragraph 2a of this Article.
+When developing the draf t regulatory technical standards refer red to in the first subparagraph of this paragraph,
+the ESA s shall take into account the various types of financial products, their charact eristics and the diffe rences
+between them, as well as the objective that disclosures are to be accurate, fair, clear , not misleading, simple and
+concise and, where necessar y to achi eve that objective, shall develop draf t amendments to the regulator y technical
+standards refer red to in paragraph 3 of this Article. The draf t regulatory technical standards shall take into account

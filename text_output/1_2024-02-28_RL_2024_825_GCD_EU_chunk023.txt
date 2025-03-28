@@ -1,0 +1,48 @@
+File Name: 1_2024-02-28_RL_2024_825_GCD_EU.pdf
+Converted on: 2025-03-28 03:20:42
+Original Size: 0.61 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 23 of 34
+--------------------------------------------------------------------------------
+
+ELI: http://data.europa.eu/eli/dir/2024/825/oj 8/16(27) Recent repor ts have shown that consumers are often unaware of their legal rights under Directive (EU) 2019/771.
+Theref ore, a harmonised notice should remind consumers about the existence and the main elements of the legal
+guarant ee of conf ormity , including its minimum duration of two years and a general reference to the possibility that
+the duration of the legal guarant ee of conf ormity can be longer under national law. This will prevent possible
+confusion with the information on the commercial guarant ee of durability .
+(28) The harmonised label should be displa yed in a prominent manner and used in a way that allows consumers to easily
+identify which particular good benefits from a commercial guarant ee of durability offered by the producer at no
+additional cost, covering the entire good, and with a duration of more than two years, for exam ple by placing the
+label directly on the packa ging of a particular good, by displa ying the label in a prominent manner on the shelf
+where the goods covered by such a guarantee are placed or by placing it directly next to the picture of the good in
+the case of online sale. Producers offer ing such commercial guarant ees of durability can themselves place the
+harmonised label directly on the particular good or on its packaging, with the aim of benefitti ng from a commercial
+advantage . Traders should ensure that the harmonised label is clearly visible. Meanwhile, the harmonised notice
+should provide a general reminder to the consumers about the legal guarant ee of conf ormity applicable to all goods
+in accordance with Directive (EU) 2019/771. The harmonised notice should be displa yed in a prominent manner , for
+example, on a poster in an eye-catch ing way on a wall in the shop, next to the check out counte r or, in cases of online
+sale, placed as a general reminder on the website of the trader selling goods.
+(29) Implementing powers should be conferr ed on the Commission as regards the design and cont ent of the harmonised
+label and the harmonised notice. Those powers should be exercised in accordance with Regulation (EU)
+No 182/2011 of the European Parliament and of the Council (15).
+(30) In view of the minimum duration of two years of the legal guarantee of conf ormity as provided in Directive
+(EU) 2019/771 and the fact that many product failures occur after that time, the trader ’s oblig ation to inform
+consumers about the existence and duration of the producer ’s commercial guarantee of durability using a
+harmonised label should only apply to commercial guarant ees of durability that are offered for a period long er than
+two years. In addition, the harmonised label should also remind consumers of the existence of the lega l guarant ee of
+conf ormity .
+(31) In order to mak e it easier for consumers to take an informed transactional decision when compar ing goods before
+concluding a contract, traders should inform consumers about the existen ce and duration of the producer ’s
+commercial guarantee of durability for the entire good and not for specifi c components of the good.
+(32) The producer and the seller should remain free to offer other types of commercial guarant ees and after-sales services.
+However , the information provid ed to the consumer about other commercial guarant ees or services should not
+confuse the consumer with regar d to the existen ce and duration of the commercial guarant ee of durability offered
+at no additional cost by the producer , covering the entire good and with a duration of more than two years, and for
+which a harmonised label is used.
+(33) In order for consumers to make better-informed decisions and to promote competition between producers as
+regards the durability of goods with digital elements, the traders selling those goods should inform consumers
+about the minimum period during which the producer commits to provide software updat es for such goods,
+whether expressed as a period of time or by referen ce to a date . Likewise, traders offer ing digital content and digital

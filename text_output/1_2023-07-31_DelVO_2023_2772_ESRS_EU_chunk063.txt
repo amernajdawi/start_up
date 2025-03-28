@@ -1,0 +1,117 @@
+File Name: 1_2023-07-31_DelVO_2023_2772_ESRS_EU.pdf
+Converted on: 2025-03-28 03:20:41
+Original Size: 5.82 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 63 of 284
+--------------------------------------------------------------------------------
+
+ELI: http://data.europa.eu/eli/reg_del/2023/2772/oj 65/284Disclosure Requirement and
+related datapointSFDR (1)reference Pillar 3 (2)referenceBenchmark
+Regulation (3)referenceEU
+Climate Law (4)
+reference
+ESRS E1-9
+Disaggregation of monetary
+amounts by acute and
+chronic physical risk
+paragraph 66 (a)
+ESRS E1-9
+Location of significant assets
+at material physical risk
+paragraph 66 (c).Article 449a
+Regulation (EU)
+No 575/2013;
+Commission
+Implementing
+Regulation
+(EU) 2022/2453
+paragraphs 46
+and 47; Template 5:
+Banking book -
+Climate change
+physical risk:
+Exposures subject to
+physical risk.
+ESRS E1-9 Breakdown of the
+carrying value of its real estate
+assets by energy-efficiency
+classes paragraph 67 (c).Article 449a
+Regulation (EU)
+No 575/2013;
+Commission
+Implementing
+Regulation
+(EU) 2022/2453
+paragraph 34;
+Template 2:Banking
+book -Climate change
+transition risk: Loans
+collateralised by
+immovable property -
+Energy efficiency of
+the collateral
+ESRS E1-9
+Degree of exposure of the
+portfolio to climate- related
+opportunities paragraph 69Delegated Regulation (EU) 2020/1818,
+Annex II
+ESRS E2-4Amount of each pollutant
+listed in Annex II of the
+E-PRTR Regulation
+(European Pollutant Release
+and Transfer Register)
+emitted to air, water and soil,
+paragraph 28Indicator number 8 Table #1 of Annex 1
+Indicator number 2
+Table #2 of Annex 1
+Indicator number 1
+Table #2 of Annex 1
+Indicator number 3
+Table #2 of Annex 1OJ L, 22.12.2023 EN  
+
+--- Page 66 of 284 ---
+
+ELI: http://data.europa.eu/eli/reg_del/2023/2772/oj 66/284Disclosure Requirement and
+related datapointSFDR (1)reference Pillar 3 (2)referenceBenchmark
+Regulation (3)referenceEU
+Climate Law (4)
+reference
+ESRS E3-1
+Water and marine resources
+paragraph 9Indicator number 7
+Table #2 of Annex 1
+ESRS E3-1Dedicated policy paragraph
+13Indicator number 8
+Table 2 of Annex 1
+ESRS E3-1
+Sustainable oceans and seas
+paragraph 14Indicator number 12
+Table #2 of Annex 1
+ESRS E3-4Total water recycled and
+reused paragraph 28 (c)Indicator number 6.2
+Table #2 of Annex 1
+ESRS E3-4
+Total water consumption in
+m
+3 per net revenue on own
+operations paragraph 29Indicator number 6.1 Table #2 of Annex 1
+ESRS 2- IRO 1 - E4 paragraph 16 (a) iIndicator number 7 Table #1 of Annex 1
+ESRS 2- IRO 1 - E4 paragraph
+16 (b)Indicator number 10 Table #2 of Annex 1
+ESRS 2- IRO 1 - E4 paragraph 16 (c)Indicator number 14 Table #2 of Annex 1
+ESRS E4-2
+Sustainable land / agriculture
+practices or policies
+paragraph 24 (b)Indicator number 11 Table #2 of Annex 1
+ESRS E4-2Sustainable oceans / seas
+practices or policies
+paragraph 24 (c)Indicator number 12 Table #2 of Annex 1
+ESRS E4-2
+Policies to address
+deforestation paragraph 24
+(d)Indicator number 15 Table #2 of Annex 1OJ L, 22.12.2023 EN  
+
+--- Page 67 of 284 ---

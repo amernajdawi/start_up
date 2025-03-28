@@ -1,0 +1,50 @@
+File Name: 1_2023-07-31_DelVO_2023_2772_ESRS_EU.pdf
+Converted on: 2025-03-28 03:20:41
+Original Size: 5.82 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 121 of 284
+--------------------------------------------------------------------------------
+
+ELI: http://data.europa.eu/eli/reg_del/2023/2772/oj 123/284— Disclosure Requirement E3-2 – Actions and resources related to water and marine resources policies
+Metrics and targets
+— Disclosure Requirement E3-3 – Targets related to water and marine resources
+— Disclosure Requirement E3-4 – Water consumption
+— Disclosure Requirement E3-5 – Anticipated financial effects from water and marine resources-related risks
+and opportunities
+Objective
+1. The objective of this Standard is to specify Disclosure Requirements which will enable users of the sustainability
+statement to understand:
+(a) how the undertaking affects water and marine resources, in terms of material positive and negative actual or
+potential impacts;
+(b) any actions taken, and the result of such actions to prevent or mitigate material actual or potential negative
+impacts, to protect water and marine resources, also with reference to reduction of water consumption, and to
+address risks and opportunities;
+(c) whether, how and to what extent the undertaking contributes to the European Green Deal’s ambitions for fresh
+air, clean water, healthy soil and biodiversity , as well as to the sustainability of the blue economy and fisheries
+sectors, taking account of the following: Directive 2000/60/EC of the European Parliament and of the
+Council (61)(EU Water Framework Directive), Directive 2008/56/EC of the European Parliament and of the
+Council (62)(EU Marine Strategy Framework Directive), Directive 2014/89/EU of the European Parliament and
+of the Council (63)(EU Maritime Spatial Planning Directive), the Sustainable Development Goals (in particular
+SDG 6 Clean water and sanitation and 14 Life below water), and respect of global environmental limits (e.g. biosphere integrity , ocean acidification, freshwater use, and biogeochemical flows planetary boundaries);
+(d) the plans and capacity of the undertaking to adapt its strategy and business model in line with the promotion of
+sustainable water use based on long-term protection of available water resources; protection of aquatic
+ecosystems and restoration of freshwater and marine habitats;
+(e) the nature, type and extent of the undertaking’s material risks and opportunities arising from the undertaking’s
+impacts and dependencies on water and marine resources, and how the undertaking manages them; and
+(f) the financial effects on the undertaking over the short-, medium- and long-term of material risks and
+opportunities arising from the undertaking’s impacts and dependencies on water and marine resources.
+2. This Standard sets out Disclosure Requirements related to water and marine resources. With regard to “water”, this
+standard covers surface water and groundwater . It includes disclosure requirements on water consumption in the
+undertaking’s activities, products and services, as well as related information on water withdrawals and water
+discharges.
+3. With regard to “marine resources”, this standard covers the extraction and use of such resources, and associated
+economic activities.
+(61)Directive 2000/60/EC of the European Parliament and of the Council of 23 October 2000 establishing a framework for Community
+action in the field of water policy (Water Framework Directive) (OJ L 327, 22.12.2000, p. 1).
+(62)Directive 2008/56/EC of the European Parliament and of the Council of 17 June 2008 establishing a framework for community action in the field of marine environmental policy (Marine Strategy Framework Directive) (OJ L 164, 25.6.2008, p. 19).
+(63)Directive 2014/89/EU of the European Parliament and of the Council of 23 July 2014 establishing a framework for maritime spatial planning (OJ L 257, 28.8.2014, p. 135).OJ L, 22.12.2023 EN  
+
+--- Page 124 of 284 ---

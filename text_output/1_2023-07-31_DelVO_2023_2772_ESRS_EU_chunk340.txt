@@ -1,0 +1,40 @@
+File Name: 1_2023-07-31_DelVO_2023_2772_ESRS_EU.pdf
+Converted on: 2025-03-28 03:18:14
+Original Size: 5.82 MB
+Chunk Size: 500 tokens with 50 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 340 of 686
+--------------------------------------------------------------------------------
+
+ELI: http://data.europa.eu/eli/reg_del/2023/2772/oj 147/284AR 16. The undertaking may also explain how its policy enables it to:
+(a) avoid negative impacts on biodiversity and ecosystems in its own operations and related upstream and
+downstream value chain;
+(b) reduce and minimise its negative impacts on biodiversity and ecosystems in its operations and throughout the
+upstream and downstream value chain that cannot be avoided;
+(c) restore and rehabilitate degraded ecosystems or restore cleared ecosystems following exposure to impacts that
+cannot be completely avoided and/or minimised; and
+(d) mitigate its contribution to material biodiversity loss drivers.
+AR 17. When disclosing its policies, if referring to third-party standards of conduct, the undertaking may disclose whether
+the standard used:
+(a) is objective and achievable based on a scientific approach to identifying issues, and realistic in assessing how
+these issues can be addressed on the ground under a variety of practical circumstances;
+(b) is developed or maintained through a process of ongoing consultation with stakeholders with balanced input
+from all relevant stakeholder groups, including producers, traders, processors, financiers, local people and
+communities, indigenous peoples, and civil society organisations representing consumer , environmental and
+social interests, with no group holding undue authority or veto power over the content;
+(c) encourages a step-wise approach and continuous improvement, both in the standard and its application of
+better management practices, and requires the establishment of meaningful targets and specific milestones to
+indicate progress against principles and criteria over time;
+(d) is verifiable through independent certifying or verifying bodies, which have defined and rigorous assessment procedures that avoid conflicts of interest, and are compliant with ISO guidance on accreditation and
+verification procedures or Article 5(2) of Regulation (EC) No 765/2008; and
+(e) conforms to the ISEAL Code of Good Practice.
+Disclosure Requirement E4-3 – Actions and resources related to biodiversity and ecosystems
+AR 18. The undertaking may relate significant monetary amounts of CapEx and OpEx required to implement the actions
+taken or planned to:
+(a) the relevant line items or notes in the financial statements;
+(b) the key performance indicators required under article 8 of Regulation (EU) 2020/852 and under Commission
+Delegated Regulation (EU) 2021/2178; and
+(c) if applicable, the CapEx plan required by Commission Delegated Regulation (EU) 2021/2178.
+AR 19. The undertaking may disclose whether it considers an “avoidance” action plan, which prevents damaging actions

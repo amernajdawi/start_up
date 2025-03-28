@@ -1,0 +1,56 @@
+File Name: 2_E1-6_2014-01-01_G_GHG-Agri_WRI&WBCSD.pdf
+Converted on: 2025-03-28 03:20:54
+Original Size: 1.75 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 40 of 65
+--------------------------------------------------------------------------------
+
+56
+ Box 7-2.  GHG trade-offs and the value of a whole-farm approach to calculating GHG 
+fluxes
+Mitigation options or best management pr actices (BMPs) intr oduced to reduce the
+emissions of one GHG can sometimes increase those of others. Some examples include:
+ Measures taken to enhance soil C se questration (e.g., no till-practices, the
+recovery of degraded pasture, or in creased irrigation) can increase soil N 2O
+emissions because of increased soil mo isture content, a supply of easily
+mineralizable N, and/or reduced soil aeration.   
+ Wooded riparian buffer zones can increase C sequestrati on but lead to increased
+soil N 2O emissions, compared to field margins.  
+ Constructed wetlands can se quester C over long time pe riods, but can also emit
+CH 4.
+ Aerating a manure lagoon to reduce CH 4 emissions will increase N 2O emissions.  
+ Removal of straw from fl ooded rice paddies to reduce CH 4 emissions can lead to
+the requirement for more fertilizer and increased N 2O emissions.  
+ Leaving sugarcane residue on fields can increase soil C sequestration but also
+increase CH 4 emissions.
+ The winter use of restricted gr azing systems and stand-off pads – purpose built,
+drained resting surfaces to hold livestock  over wet periods – to reduce soil N 2O 
+emissions and N leaching can increase CH 4 emissions.  
+ The application of N-transformation inhibi tors to soils to reduce the leaching of
+some N 2O precursors may increase that of others.  
+ These examples demonstrate the need to identify trade-offs and consider multiple emissions sources and GHGs in tandem when  evaluating possible mitigation measures. A 
+whole-systems approach avoids potentially ill-advised practices based on preoccupation
+with one individual GHG or practice.  
+
+What tools are available fo r calculating GHG fluxes?
+There are an increasing number of publicly available tools - spreadsheets, software and
+protocols - for calculating GHG fluxes base d on emission factors, models or a
+combination of these approaches. Appendix III provides a non-exhaustive list of such
+tools. Most of the more accessi ble and user-friendly tools that  would be most amenable to 
+use by farm managers tend to implement Tier  1 or Tier 2 approaches. Unfortunately, 
+process-oriented models are often unwieldy to  use, although more user-friendly interfaces 
+are available or under construction for some process models and specifically intended for
+use by farm managers, extension agents, and consultants. These offer the most potential
+for accurately calculating farm-level GHG fluxes, at least in regions for which
+background, calibrating data sets are available.  
+
+Tools should be evaluated agai nst a range of criteria  
+This Guidance does not recommend speci fic tools for calculating GHG fluxes –
+companies should instead select tools that best allow them to meet their objectives for
+
+--- Page 57 of 103 ---
+
+GHG Protocol Agricultural Guidance

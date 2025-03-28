@@ -1,0 +1,40 @@
+File Name: 2_E1-6_2011-09-01_G_GHG-PLC_WRI&WBCSD.pdf
+Converted on: 2025-03-28 01:56:27
+Original Size: 3.27 MB
+Chunk Size: 400 tokens with 50 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 257 of 270
+--------------------------------------------------------------------------------
+
+with guidance for the validation and verification of
+greenhouse gas assertions. Geneva.
+International Organization for Standardization. ISO/IEC
+Guide 98:1995, Guide to the expression of uncertainty in
+measurement (GUM). Geneva.
+IPCC. Fourth Assessment Report. 2007.
+IPCC. Summary for Policymakers. In Climate Change 2007:
+Mitigation. Contribution of Working Group III to the Fourth
+Assessment Report of the Intergovernmental Panel on
+Climate Change, ed. B. Metz, O.R. Davidson, P.R. Bosch, R.
+Dave, L.A. Meyer. Cambridge, United Kingdom and New
+York, NY, USA: Cambridge University Press, 2007.
+IPCC. 2006 IPCC Guidelines for National Greenhouse Gas
+Inventories, vol.4, Agriculture, Forestry and Other Land
+Use, eds. H.S. Eggleston, L. Buendia, K. Miwa, T. Ngara and
+K. Tanabe (Hayama, Japan: IGES,2006).
+UNEP and SETAC.  Global Guidance Principles for Life 
+Cycle Assessment Databases. 2011.
+Weidema, B.P. and M.S. Wesnaes. Data quality
+management for life cycle inventories - an example
+of using data quality indicators.  Journal of Cleaner 
+Production.  4 no. 3-4 (1996): 167-174.
+World Resources Institute. “EarthTrends: Environmental
+Information.” Available from http://earthtrends.wri.org.
+Washington DC: World Resources Institute.2007.
+Zaks, D.P.M., C. C. Barford, N. Ramankutty and J. A.
+Foley.”Producer and consumer responsibility for
+greenhouse gas emissions from agricultural production –
+a perspective from the Brazilian Amazon.” Environmental
+Research Letters. 4 (2009).References

@@ -1,0 +1,46 @@
+File Name: 2_E1-6_2006-01-01_GHG-LuLu_WRI&WBCSD.pdf
+Converted on: 2025-03-28 03:18:22
+Original Size: 6.41 MB
+Chunk Size: 500 tokens with 50 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 68 of 88
+--------------------------------------------------------------------------------
+
+46.3
+51.6
+57.05
+57.05 C U M U L AT I V E
+I N C R E A S E I N
+B E L O W G R O U N D
+C A R B O N S T O C K S
+tC / h a
+0
+0.01
+0.02
+0.03
+0.04
+0.06
+0.08
+0.1
+0.12
+0.14
+0.16
+0.18
+0.2
+0.23
+0.25
+0.27
+0.29
+0.31
+0.34
+0.36
+0.36
+Soilcarbon
+=sumofcarbonsequesteredinthesoilbythree1500-haparcelsthatwereafforested
+=(2.5tCha/yr •1500ha)+(2.0tC/ha/yr •1500ha)+(1.5tC/ha/yr •1500ha)+(1.0tCha/yr •1500ha)
++(0.5tCha/yr •1500ha)
+=3750tC/yr+3000tC/yr+2250tC/yr+1500tC/yr+750tC/yr
+=11,250tCinyear5
+Thesoilcarbonperhectareforyear5isfoundbydividing11,250tCby30,000.B O X E.3 CalculatingtheSoilCarbonforYear5oftheNipawinAfforestationProject

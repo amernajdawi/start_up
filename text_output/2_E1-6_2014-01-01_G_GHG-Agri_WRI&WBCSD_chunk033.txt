@@ -1,0 +1,48 @@
+File Name: 2_E1-6_2014-01-01_G_GHG-Agri_WRI&WBCSD.pdf
+Converted on: 2025-03-28 03:20:54
+Original Size: 1.75 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 33 of 65
+--------------------------------------------------------------------------------
+
+ Describes criteria that are useful in selecting specific calculation tools .  Describes common sources of uncertainty in calculating GHG data that offer opportunities for improving inventory quality . Calculation approach GHG flux data Activity data : Data on farm production ( e . g . , number of livestock grown ) Data on environmental factors ( e . g . , soil type , climate , and weather ) Data on farm inputs ( e . g . , amount of fertilizer used ) - - - Page 47 of 103 - - - GHG Protocol Agricultural Guidance
+
+47
+Summary of requirements and main recommendations:
+ When high-quality activity da ta are not available for a ll of the emissions sources
+that need to be included in an invent ory, companies should prioritize their data
+collection efforts based on source magnitude.
+ Companies should select a calculation appr oach that best meets their objectives
+for compiling an inventory and the GHG accounting and reporting principles.
+ When managing inventory quality, companies should focus on reducing
+parameter uncertainty.
+ Information on GHG data uncertainty s hould be reported in inventories.  
+Note: Prior to calculating GHG fluxes, comp anies should also consult Chapter 8, which
+details the specific types of C stock changes that should be included in an inventory and
+for which calculations are therefore recommended.   
+
+7.1 Collecting activity data
+
+Activity data can often be collected from ex isting data records held by producers, such
+as: invoices, electricity meters, crop insurance records, field records of tractor passes and
+crop operations, production records, land registry  records, nutrient management plans, 
+and livestock movement records. To the extent  possible, these record s should be used to 
+reduce the GHG reporting burden and improve the a udit trail. In general, data on energy
+consumption, procurement and production leve ls can often be obtained from high quality
+sources. In contrast, reliable data on land ma nagement practices and LUC can be more
+difficult to obtain. Table 7-1 summarizes common types of required activity data.
+Companies should consult individual calculatio n tools to determine their exact data
+requirements. It is recommended that larg e operations with geographically separated
+facilities should standardize inventory procedures and keep central records.
+
+Common challenges
+Certain challenges are commonly encountered when collecting activity data (Table 7-2).
+Companies should be mindful of these ch allenges when designing inventories and
+inventory quality management plans.  
+
+--- Page 48 of 103 ---
+
+GHG Protocol Agricultural Guidance

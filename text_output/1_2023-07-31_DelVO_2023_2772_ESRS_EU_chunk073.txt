@@ -1,0 +1,52 @@
+File Name: 1_2023-07-31_DelVO_2023_2772_ESRS_EU.pdf
+Converted on: 2025-03-28 03:20:41
+Original Size: 5.82 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 73 of 284
+--------------------------------------------------------------------------------
+
+--- Page 76 of 284 ---
+
+ELI: http://data.europa.eu/eli/reg_del/2023/2772/oj 76/284(g) a disclosure on whether or not the undertaking is excluded from the EU Paris-aligned Benchmarks; (31)
+(h) an explanation of how the transition plan is embedded in and aligned with the undertaking’s overall business
+strategy and financial planning;
+(i) whether the transition plan is approved by the administrative, management and supervisory bodies; and
+(j) an explanation of the undertaking’s progress in implementing the transition plan.
+17. In case the undertaking does not have a transition plan in place, it shall indicate whether and, if so, when it will adopt
+a transition plan.
+Disclosure Requirement related to ESRS 2 SBM-3 – Material impacts, risks and opportunities and their interaction
+with strategy and business model
+18. The undertaking shall explain for each material climate-related risk it has identified, whether the entity considers the
+risk to be a climate-related physical risk or climate-related transition risk .
+19. The undertaking shall describe the resilience of its strategy and business model in relation to climate change. This
+description shall include:
+(a) the scope of the resilience analysis;
+(b) how and when the resilience analysis has been conducted, including the use of climate scenario analysis as
+referenced in the Disclosure Requirement related to ESRS 2 IRO-1 and the related application requirement
+paragraphs; and
+(c) the results of the resilience analysis including the results from the use of scenario analysis.
+Impact, risk and opportunity management
+Disclosure requirement related to ESRS 2 IRO-1 – Description of the processes to identify and assess material climate-
+related impacts, risks and opportunities
+20. The undertaking shall describe the process to identify and assess climate-related impacts, risks and opportunities.
+This description shall include its process in relation to:
+(a) impacts on climate change, in particular, the undertaking’s GHG emissions (as required by Disclosure
+Requirement ESRS E1-6);
+(b) climate-related physical risks in own operations and along the upstream and downstream value chain, in
+particular:
+i.the identification of climate-related hazards, considering at least high emission climate scenarios; and
+ii.the assessment of how its assets and business activities may be exposed and are sensitive to these climate-
+related hazards, creating gross physical risks for the undertaking.
+(c) climate-related transition risks and opportunities in own operations and along the upstream and downstream
+value chain, in particular:
+i.the identification of climate-related transition events, considering at least a climate scenario in line with
+limiting global warming to 1.5°C with no or limited overshoot; and
+ii.the assessment of how its assets and business activities may be exposed to these climate-related transition events, creating gross transition risks or opportunities for the undertaking.
+(31)This disclosure requirement is included consistent with the requirements in Commission Implementing Regulation (EU) 2022/2453
+template I climate change transition risk; and is aligned with Commission Delegated Regulation (EU) 2020/1818 (Climate Benchmark
+Regulation), Articles 12.1 (d) to (g) and 12.2.OJ L, 22.12.2023 EN  
+
+--- Page 77 of 284 ---

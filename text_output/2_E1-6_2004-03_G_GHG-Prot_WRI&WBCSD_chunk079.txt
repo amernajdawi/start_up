@@ -1,0 +1,14 @@
+File Name: 2_E1-6_2004-03_G_GHG-Prot_WRI&WBCSD.pdf
+Converted on: 2025-03-28 03:20:43
+Original Size: 3.51 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 79 of 104
+--------------------------------------------------------------------------------
+
+10This equivalence is sometimes referred to as “fungibility.” However,“fungibility” can also refer to equivalence in terms of the value inmeeting a target (two fungible offsets have the same value in meetinga target, i.e., they can both be applied to the same target).
+11Overlap here refers to a situation when two or more targets include thesame sources in their target boundaries.
+12Similarly, company A in this example could be subject to a mandatorycap on its direct emissions under a trading program and engage intrading allowances covering the common sources it shares withcompany B.  In this case, the example in the section “Double countingof allowances traded in external programs” is more relevant.
+13The energy efficiency measures implemented by company C may notalways result in an actual reduction of company B’s emissions. Seechapter 8 for further details on reductions in indirect emissions. NOTES

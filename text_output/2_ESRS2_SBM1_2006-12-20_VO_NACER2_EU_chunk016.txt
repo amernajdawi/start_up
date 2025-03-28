@@ -1,0 +1,60 @@
+File Name: 2_ESRS2_SBM1_2006-12-20_VO_NACER2_EU.pdf
+Converted on: 2025-03-28 03:20:56
+Original Size: 0.17 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 16 of 45
+--------------------------------------------------------------------------------
+
+n.e.c. : not elsewhere classified * part of
+Division Group ClassISIC
+Rev. 4
+13.95 Manufacture of non-wovens and articles made from non-wovens,
+except apparel1399*
+13.96 Manufacture of other technical and industrial textiles 1399*
+13.99 Manufacture of other textiles n.e.c. 1399*
+14 Manufacture of wearing apparel
+14.1 Manufacture of wearing apparel, except fur apparel
+14.11 Manufacture of leather clothes 1410*14.12 Manufacture of workwear 1410*
+14.13 Manufacture of other outerwear 1410*
+14.14 Manufacture of underwear 1410*14.19 Manufacture of other wearing apparel and accessories 1410*
+14.2 Manufacture of articles of fur
+14.20 Manufacture of articles of fur 1420
+14.3 Manufacture of knitted and crocheted apparel
+14.31 Manufacture of knitted and crocheted hosiery 1430*
+14.39 Manufacture of other knitted and crocheted apparel 1430*
+15 Manufacture of leather and related products
+15.1 Tanning and dressing of leather; manufacture of luggage, handbags,
+saddlery and harness; dressing and dyeing of fur
+15.11 Tanning and dressing of leather; dressing and dyeing of fur 151115.12 Manufacture of luggage, handbags and the like, saddlery and harness 1512
+15.2 Manufacture of footwear
+15.20 Manufacture of footwear 1520
+16 Manufacture of wood and of products of wood and cork, except
+furniture; manufacture of articles of straw and plaiting materials
+16.1 Sawmilling and planing of wood
+16.10 Sawmilling and planing of wood 1610
+16.2 Manufacture of products of wood, cork, straw and plaiting materials
+16.21 Manufacture of veneer sheets and wood-based panels 162116.22 Manufacture of assembled parquet floors 1622*
+16.23 Manufacture of other builders' carpentry and joinery 1622*
+16.24 Manufacture of wooden containers 162316.29 Manufacture of other products of wood; manufacture of articles of
+cork, straw and plaiting materials1629
+17 Manufacture of paper and paper products
+17.1 Manufacture of pulp, paper and paperboard
+17.11 Manufacture of pulp 1701*
+17.12 Manufacture of paper and paperboard 1701*
+17.2 Manufacture of articles of paper and paperboard
+17.21 Manufacture of corrugated paper and paperboard and of containers of
+paper and paperboard1702
+17.22 Manufacture of household and sanitary goods and of toilet requisites 1709*
+17.23 Manufacture of paper stationery 1709*17.24 Manufacture of wallpaper 1709*17.29 Manufacture of other articles of paper and paperboard 1709*
+18 Printing and reproduction of recorded media
+18.1 Printing and service activities related to printing
+18.11 Printing of newspapers 1811*
+18.12 Other printing 1811*
+18.13 Pre-press and pre-media services 1812*18.14 Binding and related services 1812*
+18.2 Reproduction of recorded media
+18.20 Reproduction of recorded media 1820L 393/10 EN Official Journal of the European Union 30.12.2006
+
+--- Page 11 of 39 ---

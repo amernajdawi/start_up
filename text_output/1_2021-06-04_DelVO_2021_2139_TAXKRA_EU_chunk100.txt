@@ -1,0 +1,55 @@
+File Name: 1_2021-06-04_DelVO_2021_2139_TAXKRA_EU.pdf
+Converted on: 2025-03-28 03:20:30
+Original Size: 2.76 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 100 of 447
+--------------------------------------------------------------------------------
+
+(e) ethylene oxide;  
+(f) monoethylene glycol;  
+(g) adipic acid.  
+The economic activities in this category could be associated with NACE code C20.14 in accordance with the
+statistical classification of economic activities established by Regulation (EC) No 1893/2006.  
+An economic activity in this category is a transitional activity as referred to in Article 10(2) of Regulation (EU)
+2020/852 where it complies with the technical screening criteria set out in this Section.  
+Technical screening criteria  
+Substantial contribution to climate change mitigation  
+GHG emissions (  136  ) from the organic basic chemicals production processes are lower than: 
+(a) for HVC: 0,693 (  137  ) tCO  2 e/t of HVC; 
+(b) for aromatics: 0,0072 (  138  ) tCO  2 e/t of complex weighted throughput; 
+(c) for vinyl chloride: 0,171 (  139  ) tCO  2 e/t of vinyl chloride; 
+(d) for styrene: 0,419 (  140  ) tCO  2 e/t of styrene; 
+(e) for ethylene oxide/ethylene glycols: 0,314 (  141  ) tCO  2 e/t of ethylene oxide/glycol; 
+(f) for adipic acid: 0,32 (  142  ) tCO  2 e /t of adipic acid. 
+Where the organic chemicals in scope are produced wholly or partially from renewable feedstock, the life-cycle
+GHG emissions of the manufactured chemical, manufactured wholly or partially from renewable feedstock, are
+lower than the life-cycle GHG emissions of the equivalent chemical manufactured from fossil fuel feedstock.
+Life-cycle GHG emissions are calculated using Recommendation 2013/179/EU or, alternatively, using
+ISO 14067:2018 (  143  ) or ISO 14064-1:2018 (  144  ). 
+Quantified life-cycle GHG emissions are verified by an independent third party.
+Agricultural biomass used for the manufacture of organic basic chemicals complies with the criteria laid down in
+Article 29, paragraphs 2 to 5 of Directive (EU) 2018/2001. Forest biomass used for the manufacture of organic
+basic chemicals complies with the criteria laid down in Article 29, paragraphs 6 and 7 of that Directive.  
+Do no significant harm (‘DNSH’)  
+(2) Climate change adaptation  The activity complies with the criteria set out in Appendix A to this 
+Annex.  
+_____________
+( 136  ) Calculated in accordance with Regulation (EU) 2019/331. 
+( 137  ) Reflecting the average value of the 10 % most efficient installations in 2016 and 2017 (t CO  2 equivalents/t) as set out in the 
+Annex to the Implementing Regulation (EU) 2021/447.
+( 138  ) Reflecting the average value of the 10 % most efficient installations in 2016 and 2017 (t CO  2 equivalents/t) as set out in the 
+Annex to the Implementing Regulation (EU) 2021/447.
+( 139  ) Reflecting the average value of the 10 % most efficient installations in 2016 and 2017 (t CO  2 equivalents/t) as set out in the 
+Annex to the Implementing Regulation (EU) 2021/447.
+( 140  ) Reflecting the average value of the 10 % most efficient installations in 2016 and 2017 (t CO  2 equivalents/t) as set out in the 
+Annex to the Implementing Regulation (EU) 2021/447.
+( 141  ) Reflecting the average value of the 10 % most efficient installations in 2016 and 2017 (t CO  2 equivalents/t) as set out in the 
+Annex to the Implementing Regulation (EU) 2021/447.
+( 142  ) Reflecting the average value of the 10 % most efficient installations in 2016 and 2017 (t CO  2 equivalents/t) as set out in the 
+Annex to the Implementing Regulation (EU) 2021/447.
+( 143  ) ISO standard 14067:2018, Greenhouse gases — Carbon footprint of products — Requirements and guidelines for quantification 
+(version of 4.6.2021: https://www.iso.org/standard/71206.html).
+( 144  ) ISO standard 14064-1:2018, Greenhouse gases — Part 1: Specification with guidance at the organization level for quantificatio n

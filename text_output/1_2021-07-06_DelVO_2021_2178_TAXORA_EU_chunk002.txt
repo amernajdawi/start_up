@@ -1,0 +1,49 @@
+File Name: 1_2021-07-06_DelVO_2021_2178_TAXORA_EU.pdf
+Converted on: 2025-03-28 03:20:32
+Original Size: 10.30 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 2 of 47
+--------------------------------------------------------------------------------
+
+COMMISSION DELEGATED REGULATION (EU) 2021/2178
+of 6 July 2021
+supplementing Regulation (EU) 2020/852 of the European Parliament and of the Council by
+specifying the content and presentation of information to be disclosed by undertakings subject to
+Articles 19a or 29a of Directive 2013/34/EU concerning environmentally sustainable economic
+activities, and specifying the methodology to comply with that disclosure obligation
+(Text with EEA relevance)
+THE EUROPEAN COMMISSION,
+Having regard to the Treaty on the Functioning of the European Union,
+Having regard to Regulation (EU) 2020/852 of the European Parliament and of the Council of 18 June 2020 on the
+establishment of a framework to facilitate sustainable investment, and amending Regulation (EU) 2019/2088 (1), and in
+particular Article 8(4), thereof,
+Whereas:
+(1) Article 8(1) of Regulation (EU) 2020/852 requires undertakings that are subject to Articles 19a or 29a of Directive
+2013/34/EU of the European Parliament and of the Council (2)to disclose how and to what extent their activities
+are associated with environmentally sustainable economic activities. Article 8(2) of Regulation (EU) 2020/852 requires non-financial undertakings to disclose information on the proportion of the turnover, capital expenditure
+and operating expenditure (‘key performance indicators’) of their activities related to assets or processes associated
+with environmentally sustainable economic activities. That provision, however, does not specify equivalent key
+performance indicators for financial undertakings, that is credit institutions, asset managers, investment firms and
+insurance and reinsurance undertakings. It is therefore necessary to supplement Article 8 of Regulation (EU) 2020/852 to specify the key performance indicators for financial undertakings and further specify the content and
+presentation of the information to be disclosed by all undertakings and the methodology to comply with that
+disclosure.
+(2) It is necessary to ensure a uniform application of the disclosure requirements laid down in Article 8(2) of Regulation (EU) 2020/852 by non-financial undertakings that are subject to Articles 19a or 29a of Directive 2013/34/EU. Rules
+should therefore be laid down to further specify the content and presentation of the information required by
+Article 8 of Regulation (EU) 2020/852, including the methodology to comply with those rules. To enable investors and the public to properly assess the proportion of environmentally sustainable economic activities (‘Taxonomy-
+aligned activities’) of non-financial undertakings, those undertakings should be required to disclose which of their
+economic activities are Taxonomy-aligned. In addition, it is necessary to disclose to which environmental objectives
+those activities contribute substantially. Non-financial undertakings should therefore also provide for a breakdown
+in the key performance indicators of the proportion of Taxonomy-aligned activities based on each environmental objective to which those activities contribute substantially.
+(3) Turnover, capital expenditure and operating expenditure are irrelevant for assessing the environmental sustainability of financial activities, including lending, investment and insurance. The three key performance indicators for non-
+financial undertakings laid down in Article 8(2) of Regulation (EU) 2020/852 are therefore not appropriate to
+demonstrate to what extent the economic activities of financial undertakings are -Taxonomy-aligned. It is therefore
+necessary to provide specific key performance indicators and calculation methodologies for such key performance
+indicators for financial undertakings. To support markets’ understanding of those key performance indicators, any disclosures of those key performance indicators should be accompanied by qualitative information to enable
+financial undertakings to explain their determination of key performance indicators.
+(1)Regulation (EU) 2019/2088 of the European Parliament and of the Council of 27 November 2019 on sustainability-related disclosures
+in the financial services sector (OJ L 317, 9.12.2019, p. 1).
+(2)Directive 2013/34/EU of the European Parliament and of the Council of 26 June 2013 on the annual financial statements,
+consolidated financial statements and related reports of certain types of undertakings, amending Directive 2006/43/EC of the

@@ -1,0 +1,37 @@
+File Name: 1_2023-07-31_DelVO_2023_2772_ESRS_EU.pdf
+Converted on: 2025-03-28 03:18:14
+Original Size: 5.82 MB
+Chunk Size: 500 tokens with 50 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 302 of 686
+--------------------------------------------------------------------------------
+
+ELI: http://data.europa.eu/eli/reg_del/2023/2772/oj 131/284Disclosure Requirement E3-2 – Actions and resources related to water and marine resources policies
+AR 19. When disclosing information required under paragraph 15, the undertaking shall consider the actions, or action
+plans, contributing to address the material impacts, risks and opportunities identified. Useful guidance is provided
+by the Alliance for Water Stewardship (AWS).
+AR 20. Considering that water and marine resources are shared resources which may require collective actions, or action
+plans, involving other stakeholders, the undertaking may provide information on those specific collective actions,
+including information on other parties (competitors, suppliers, retailers, customers, other business partners, local
+communities and authorities, government agencies…) and specific information on the project, its specific contribution, its sponsors and other participants.
+AR 21. When providing information on capital expenditures, the undertaking may consider expenditures related, for example, to stormwater drain rehabilitation, pipelines, or machinery used to manufacture new low water-use products.
+Metrics and targets
+Disclosure Requirement E3-3 – Targets related to water and marine resources
+AR 22. If the undertaking refers to ecological thresholds when setting targets, it may refer to the guidance provided by the
+Science-Based Targets Initiative for Nature (SBTN) in its interim guidance (Initial Guidance for Business, September
+2020). It may also refer to any other guidance with a scientifically acknowledged methodology that enables the
+setting of science-based targets by identifying ecological thresholds and, if applicable, organisation-specific
+allocations. Ecological thresholds can be local, national and/or global.
+AR 23. The undertaking may provide targets relating to:
+(a) the reduction of water withdrawals; and
+(b) the reduction of water discharges.
+AR 24. If the undertaking provides targets on withdrawals, it may include water withdrawal from polluted soils and
+aquifers, and water withdrawn and treated for remediation purposes.
+AR 25. If the undertaking provides targets on discharges, it may include water discharges to groundwater such as
+reinjection to aquifers, or water returning to a groundwater source via a soakaway or a swale.
+AR 26. The targets may cover its own operations and/or its upstream and downstream value chain.
+AR 27. The undertaking may specify whether the target addresses shortcomings related to the Substantial Contribution
+criteria for Water and Marine Resources as defined in the Commission delegated acts adopted pursuant to
+Article 12(2) of Regulation (EU) 2020/852. Where the Do No Significant Harm (DNSH) criteria for Water and

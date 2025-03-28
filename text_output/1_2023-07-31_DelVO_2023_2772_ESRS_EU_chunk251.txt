@@ -1,0 +1,51 @@
+File Name: 1_2023-07-31_DelVO_2023_2772_ESRS_EU.pdf
+Converted on: 2025-03-28 03:20:41
+Original Size: 5.82 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 251 of 284
+--------------------------------------------------------------------------------
+
+ELI: http://data.europa.eu/eli/reg_del/2023/2772/oj 250/284(b) any actions taken to address breaches in procedures and standards of anti-corruption and anti-bribery (124).
+25. The undertaking may disclose:
+(a) the total number and nature of confirmed incidents of corruption or bribery;
+(b) the number of confirmed incidents in which own workers were dismissed or disciplined for corruption or
+bribery-related incidents;
+(c) the number of confirmed incidents relating to contracts with business partners that were terminated or not
+renewed due to violations related to corruption or bribery; and
+(d) details of public legal cases regarding corruption or bribery brought against the undertaking and its own workers
+during the reporting period and the outcomes of such cases. This includes cases that were initiated in previous
+years where the outcome was only established in the current reporting period.
+26. The disclosures required shall include incidents involving actors in its value chain only where the undertaking or its
+employees are directly involved.
+Disclosure Requirement G1-5 – Political influence and lobbying activities
+27. The undertaking shall provide information on the activities and commitments related to exerting its political
+influence, including its lobbying activities related to its material impacts, risks and opportunities.
+28. The objective of this Disclosure Requirement is to provide transparency on the undertaking’s activities and commitments related to exerting its political influence with political contributions, including the types and purpose
+of lobbying activities.
+29. The disclosure required by paragraph 27 shall include:
+(a) if applicable, the representative(s) responsible in the administrative, management and supervisory bodies for the
+oversight of these activities;
+(b) for financial or in-kind political contributions:
+i.the total monetary value of financial and in-kind political contributions made directly and indirectly by the
+undertaking aggregated by country or geographical area where relevant, as well as type of recipient/
+beneficiary; and
+ii.where appropriate, how the monetary value of in-kind contributions is estimated.
+(c) the main topics covered by its lobbying activities and the undertaking’s main positions on these in brief. This
+shall include explanations on how this interacts with its material impacts, risks and opportunities identified in its materiality assessment per ESRS 2; and
+(d) if the undertaking is registered in the EU Transparency Register or in an equivalent transparency register in a
+Member State, the name of any such register and its identification number in the register.
+30. The disclosure shall also include information about the appointment of any members of the administrative,
+management and supervisory bodies who held a comparable position in public administration (including
+regulators) in the 2 years preceding such appointment in the current reporting period.
+Disclosure Requirement G1-6 – Payment practices
+31. The undertaking shall provide information on its payment practices, especially with respect to late payments to small
+and medium enterprises (SMEs).
+(124)This information supports the information needs of financial market participants subject to Regulation (EU) 2019/2088 because it is
+derived from an additional indicator related to principal adverse impacts set out in in indicator #16 of Table III of Annex I of
+Commission Delegated Regulation (EU) 2022/1288 with regard to disclosures rules on sustainable investments (“Cases of
+insufficient action taken to address breaches of standards of anti-corruption and anti-bribery”).OJ L, 22.12.2023 EN  
+
+--- Page 251 of 284 ---

@@ -1,0 +1,36 @@
+File Name: 1_2021-06-04_DelVO_2021_2139_TAXKRA_EU.pdf
+Converted on: 2025-03-28 03:20:30
+Original Size: 2.76 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 185 of 447
+--------------------------------------------------------------------------------
+
+www . iso . org / standard / 71206 . html ) . ( 319 ) ISO standard 14064 - 1 : 2018 , Greenhouse gases — Part 1 : Specification with guidance at the organization level for quantificatio n and reporting of greenhouse gas emissions and removals ( version of 4 . 6 . 2021 : https : / / www . iso . org / standard / 66453 . html ) . EN L 442 / 138 Official Journal of the European Union 9 . 12 . 2021 - - - Page 139 of 349 - - -
+
+The economic activities in this category could be associated with NACE code M71 in accordance with the
+statistical classification of economic activities established by Regulation (EC) No 1893/2006.  
+An economic activity in this category is an enabling activity as referred to in Article 10(1), point (i), of Regulation
+(EU) 2020/852 where it complies with the technical screening criteria set out in this Section.  
+Technical screening criteria  
+Substantial contribution to climate change mitigation  
+The activity consists in one of the following:
+(a) technical consultations (energy consultations, energy simulations, project management, production of energy
+performance contracts, dedicated trainings) linked to the improvement of energy performance of buildings;
+(b) accredited energy audits and building performance assessments;
+(c) energy management services;
+(d) energy performance contracts;
+(e) energy services provided by energy service companies (ESCOs).  
+Do no significant harm (‘DNSH’)  
+(2) Climate change adaptation  The activity complies with the criteria set out in Appendix A to this 
+Annex.  
+(3) Sustainable use and protection of
+water and marine resources  N/A  
+(4) Transition to a circular economy  N/A  
+(5) Pollution prevention and control  N/A  
+(6) Protection and restoration of
+biodiversity and ecosystems  N/AEN  9.12.2021 Official Journal of the European Union L 442/139
+
+--- Page 140 of 349 ---

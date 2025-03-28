@@ -1,0 +1,34 @@
+File Name: 2_E1-6_2004-03_G_GHG-Prot_WRI&WBCSD.pdf
+Converted on: 2025-03-28 03:20:43
+Original Size: 3.51 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 27 of 104
+--------------------------------------------------------------------------------
+
+CHAPTER 4 Setting Operational Boundaries 31
+Outsourced activities are often candidates for scope 3
+emissions assessments. It may be particularly importantto include these when a previously outsourced activitycontributed significantly to a company’s scope 1 orscope 2 emissions.
+If GHG-intensive materials represent a significant
+fraction of the weight or composition of a productused or manufactured (e.g., cement, aluminum),companies may want to examine whether there areopportunities to reduce their consumption of theproduct or to substitute less GHG-intensive materials.
+Large manufacturing companies may have significant
+emissions related to transporting purchased materialsto centralized production facilities.
+Commodity and consumer product companies may
+want to account for GHGs from transporting rawmaterials, products, and waste.
+Service sector companies may want to report on emis-
+sions from employee business travel; this emissionssource is not as likely to be significant for other kindsof companies (e.g., manufacturing companies).
+3. Identify partners along the value chain.
+Identify any partners that contribute potentiallysignificant amounts of GHGs along the value chain(e.g., customers/users, product designers/manufac-turers, energy providers, etc.). This is important whentrying to identify sources, obtain relevant data, andcalculate emissions.
+4. Quantify scope 3 emissions. While data availability
+and reliability may influence which scope 3 activitiesare included in the inventory, it is accepted that dataaccuracy may be lower. It may be more important to understand the relative magnitude of and possiblechanges to scope 3 activities. Emission estimates areacceptable as long as there is transparency with regardto the estimation approach, and the data used for theanalysis are adequate to support the objectives of theinventory. Verification of scope 3 emissions will oftenbe difficult and may only be considered if data is ofreliable quality.  Leased assets, outsourcing, and franchises
+The selected consolidation approach (equity share or oneof the control approaches) is also applied to account forand categorize direct and indirect GHG emissions fromcontractual arrangements such as leased assets,outsourcing, and franchises. If the selected equity orcontrol approach does not apply, then the company mayaccount for emissions from the leased assets,outsourcing, and franchises under scope 3. Specific guid-ance on leased assets is provided below:
+
+USING EQUITY SHARE OR FINANCIAL CONTROL: The
+lessee only accounts for emissions from leased assetsthat are treated as wholly owned assets in financialaccounting and are recorded as such on the balancesheet (i.e., finance or capital leases).IKEA, an international home furniture and furnishings retailer,decided to include scope 3 emissions from customer travel whenit became clear, through participation in the Business LeadersInitiative on Climate Change (BLICC) program, that these emis-sions were large relative its scope 1 and scope 2 emissions.Furthermore, these emissions are particularly relevant to IKEA’sstore business model. Customer travel to its stores, often fromlong distances, is directly affected by IKEA’s choice of store loca-tion and the warehouse shopping concept.
+Customer transportation emission calculations were based on
+customer surveys at selected stores. Customers were asked forthe distance they traveled to the store (based on home postalcode), the number of customers in their car, the number of otherstores they intended to visit at that shopping center that day, andwhether they had access to public transportation to the store.Extrapolating this data to all IKEA stores and multiplying distanceby average vehicle efficiencies for each country, the companycalculated that 66 percent of its emissions inventory was fromscope 3 customer travel. Based on this information, IKEA will havesignificant influence over future scope 3 emissions by consideringGHG emissions when developing public transportation optionsand home delivery services for its existing and new stores.IKEA: Customer transportation
+to and from its retail storesGUIDANCE
+
+--- Page 34 of 116 ---

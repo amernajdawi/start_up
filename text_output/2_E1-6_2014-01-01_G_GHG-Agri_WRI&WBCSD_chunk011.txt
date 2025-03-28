@@ -1,0 +1,70 @@
+File Name: 2_E1-6_2014-01-01_G_GHG-Agri_WRI&WBCSD.pdf
+Converted on: 2025-03-28 03:20:54
+Original Size: 1.75 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 11 of 65
+--------------------------------------------------------------------------------
+
+8
+  Carbon (C) sequestration  and accounting for changes in the management and 
+ownership of different carbon pools .  
+ The fact that agricultural activities do not immediatel y result in GHG fluxes (e.g.,
+delayed emissions from decomposition of post-harvest detritus).
+ The types of organizational structures  and operational practices specific to 
+agriculture.
+This Guidance outlines recommended methodolog ies to address these and other issues
+important to the sector, while  incorporating requirements in the Corporate Standard. 
+Because the agricultural sector is highly di verse, this Guidance aims to establish a
+common framework that is applicable to the myriad subsectors within agriculture. This
+Guidance can largely be used on its own fo r developing GHG invent ories. However, it
+does not address certain topics covered by the Corporate Standard, such as the
+verification of GHG inventor ies or setting of GHG reduc tion targets (see Chapter 1.5).
+  The specific objectives of  this Guidance are to:  
+ Increase consistency and transparency in GHG accounting  and reporting within the 
+agricultural sector.  
+ Help companies cost-effectively prepare GHG inventories that are true and fair
+accounts of their climate impact.  
+ Enable GHG inventories to meet the d ecision-making needs of both internal
+management and external stakeholders (e.g., investors) and so provide for the more
+effective management of agricultural GHG fluxes.  
+
+What does this Guidance not do?  
+This Guidance is squarely focused on corpor ate- or farm-level accounting and reporting
+issues and:
+ Does not advance methods for projec t- or product-level GHG accounting (e.g.,
+product category rules).  
+ Does not provide accounting methods for indirect Land Use Change  (iLUC). iLUC 
+occurs when an existing crop is diverted for another purpose, such as transportation
+fuel production, and replacement crops are then grown on formerly non-agricultural lands. An example of iLUC is when sugar cane is diverted from sugar to biofuel
+production, causing forests to be cleare d for additional sugarcane production.
+Accounting for such iLUC impacts requires a project-based approach to determine
+what the GHG fluxes would have been in th e absence of the mark et intervention. The
+Project Protocol provides general, high-le vel guidance that can help inform how to
+account for iLUC impacts.   
+ Does not require sector-specific GHG perfor mance metrics. The choice of a metric
+has to be guided by a company’s objectives  in developing an inventory and by the 
+specific operations and sources that char acterize that company. (Appendix I provides
+an overview of the advantages and disadvant ages of different types of metrics.)  
+ Does not require specific methods or t ools for calculating agricultural GHG fluxes.
+ Does not provide guidance on the selection and deployment of GHG mitigation
+practices on farms.  
+
+--- Page 9 of 103 ---
+
+GHG Protocol Agricultural Guidance
+
+9
+ Does not address environmental impacts ot her than GHG fluxes, such as water use,
+eutrophication, and emissions of air pollu tants. Consequently, this Guidance cannot
+be used by itself to evaluate the po ssible trade-offs between GHG emissions
+reductions and other environmental imp acts of a given farming practice.  
+
+1.4 Who should use this Guidance?
+This Guidance is primarily intended for produc ers and companies that seek to develop
+scope 1 and 2 inventories of their agricultur al operations (Box 1-1). Examples include
+fruit and crop growers, ranchers, and biof uel producers. While producers with small
+agricultural operations may find it difficult to devote the resources to use this Guidance,
+it is applicable to operations of all sizes.

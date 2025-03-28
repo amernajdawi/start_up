@@ -1,0 +1,208 @@
+File Name: 2_E1-6_2006-01-01_GHG-LuLu_WRI&WBCSD.pdf
+Converted on: 2025-03-28 03:20:49
+Original Size: 6.41 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 18 of 50
+--------------------------------------------------------------------------------
+
+8.2 Estima tingtheLand-Use
+orManagementTrendFactor
+8 . 2 . 1 LAND-USEORMANAGEMEN TTRENDMETRIC
+Theappropriatemetrictousewhenestimatingtheland-use
+trendfactoristhepercentchangeinlandareatoagiven
+landuseormanagementpracticeforeachtimeperiod.
+Specifically,forreforestationprojectactivities,itisthe
+percentageoflandconvertedfromthebaselinecandidate’s
+landuse(s)totheprojectactivity’slanduseforeachtime
+period.Forforestmanagementprojectactivities,itisthe
+percentageoflandconvertedfromthespecifiedmanage -
+mentpractice(s)totheprojectactivity’smanagement
+practiceforeachtimeperiod.Insomecases,baselinecandi-
+datesmaybeshiftingtomultiplelandusesorpractices.Itis
+importanttotrackthosebaselinecandidatesshiftingtoa
+landuseorpracticesimilartotheprojectactivity,butother
+shiftsmaybetrackedaswell.
+8 . 2 . 2 E S T I M AT I N G T H E L A N D - U S E
+O R M A N A G E M E N T T R E N D FA C T O R
+Oneoftwomainapproachescanbeusedtoestimatealand-
+useormanagementtrend:asimpleapproachthat
+extrapolatespastland-useormanagementchangedataand
+amorecomplicatedapproachthatusesthedriversofchange
+aswellaspastland-useormanagement datatodevelopa
+trend.Avarietyofmethodsandmodels 1canbeusedfor
+eitheroftheseapproaches,includingstatisticalandtrend
+analysis,modeling,defaultvalues,andremotesensing.
+Extrapolating PastLand-Use
+orManagement TrendsUsingHistoricalData
+Thisapproachuseshistoricaldatatodeterminethetrendof
+land-useormanagementchange.Thetrendisestimated
+usingeithertendencyorpolicyanalysisandhistoricalland-
+useormanagement changedatawithinthegeographicarea
+toprojectthetrendintothefuture.Theresultsdependon
+thetemporalrangeandgeographicareachosen(and/ordata
+availability)fortheanalysis.Althoughthisisarelatively
+straightforwardapproach,itcannotdetectanyoftheunder -
+lyingcausesordriversofland-useormanagementchange
+thatmayinfluencesomeland-usepatternsorchangesin
+managementpractices.ExtrapolatingPastLand-UseorManagementTrends
+UsingDriversofLand-UseorManagementChange
+Modelingdriversofland-usechangeeithercanextrapolate
+pasttrendsusingsocioeconomicdriversor,usinggeographic
+informationsystems(GIS),canextrapolatepasttrends
+usingspatiallybasedbiophysicalandsocioeconomicdrivers.
+Someofthecommondriversofland-useandmanagement
+changeare:
+•Physicalfactors,forexample,elevation,slope,aspect,soil
+type,rivers,navigablewaterandwatersheds.
+•Developmentfactors,forexample,majorandminor
+roads,damconstruction.
+•Urbanandruralpopulation.
+•Politicalboundaries.
+•Centersofcommerce,loggingcamps,andcommunities.
+•Landtenureandcurrentland-usedistribution.
+Manymodelscanbeusedtodeterminetherelativeimpor -
+tanceofthedriversinfluencingland-useormanagement
+change,althoughcurrentlynoonemodelissuperiorinall
+circumstances.Somedesirablecomponentsofamodelusing
+driverstoestimateratesofchangeare:
+•Transparency.
+•Aroutinefordeterminingtheimportantland-useor
+managementdriversinagivenarea.
+•Empiricalcalibration.
+•Internalcheckssuchascalibrationofthefit.
+•Validationroutine.
+•Relianceongenerallyavailabledata(e.g.,government
+statisticsandmaps).
+•Abilitytogenerateprobability(orlikelihood)ofchange
+mapsforthearea.2
+CHAPTER8:ApplyingaLand-UseorManagem entTrendFactor 42
+
+--- Page 45 of 100 ---
+
+43 8.3 Applyin gtheLand-Use
+orManagem entTrendFactor
+Theland-usetrendfactorisappliedtoadjustthebaseline
+GHGremovalsineachtimeperiodfoundbyidentifying
+eithertheperformance standardorthebaselinescenario.
+Besidesunderstandingtheland-useormanagementtrend,
+theprojectdeveloperalsoneedstounderstandtheGHG
+removaloremissionimpactsresultingfromthetrend.
+Someofthisinformation mayalreadyhavebeencollected,
+especiallyiftheperformancestandardprocedurewasused.
+Butprojectdevelopersshouldbepreparedtodefendnot
+onlythetrendfactoridentifiedbutalsotheGHGemissions
+orremovalsaddedtothebaselineGHGremovalsasaresult
+ofitsapplication.N O T E S
+1Someofthemanymodelsavailabletoestimatetherateofland-
+useormanagementchangearetheFACmodel(FAO1993;Scotti
+2000),LUCS(Faethetal.1994),andGEOMOD(Halletal.1995,
+2000).UsethemodelthatbestsuitstheGHGproject’sconditions
+anddataavailability.
+2PersonalcommunicationfromSandraBrown,Winrock
+International,andBendeJon,ElColegiodelaFronteraSur.CHAPTER8:ApplyingaLand-UseorManagement TrendFactor
+
+--- Page 46 of 100 ---
+
+44
+PARTII:GHGReductionAccountingandReporting
+hischapterprovidesaconceptual overviewofestimatingandquantifyingthebaselineand
+projectactivitycarbonstocksusedtofindboththechangeincarbonstocksneededto
+quantifyGHGremovalsandthetotalcarbonstocks.Itdescribesboththecalculationsforan
+ex-anteestimationforaproject’spotentialcarbonstocksandanex-postquantification forits
+verification.Thisisnotmeanttobeacomprehensivediscussionbut,rather,anoutlineoftheimpor -
+tantaspectstoconsiderwhenestimatingorquantifyingcarbonstocksandsomeresourcesthat
+providetherequireddetailtomakesuchmeasurementsorestimations.EstimatingandQuantifying
+CarbonStocks
+T9
+Photo:LynnBetts,USDANRCS
+
+--- Page 47 of 100 ---
+
+Someoftheimportantconsiderationsinestimatingor
+quantifyingcarbonstocksare:
+•Identifyingthecarbonpoolstomeasureorestimate.
+•Estimatingormeasuringthecarbonstocks,includingthe
+carbonstocksatthebeginningoftheprojectactivity’s
+implementationandanycarbonstockchangesexpected
+duringtheprojectlifetime.Ifmeasuringcarbonstocks,
+thendeterminingthetype,number,locationofsample
+plotsusedtomeasurecarbonstocks,andthefrequency
+withwhichtomeasuretheplotsisalsoimportant.
+•Estimatingandadjustingforuncertainty.9.1 IdentifyingtheCarbonPools
+toMeasureorEstimate
+Carbonisstoredinseveralcomponentsofabiological
+ecosystem.Eachisreferredtoasacarbonpool,and
+togethertheycomprisethecarbonstocksofabiological
+systemlikeaforeststand.
+Thecommoncarbonpoolstoconsiderare:
+•Livingbiomass:abovegroundbiomassandbelowground
+biomass(e.g.,stems,branches,foliage,androots).
+•Deadorganicmatter:deadwoodandlitter.
+•Soils.
+Table9.1listssomerecommendedcarbonpoolstoestimate
+orquantifyandmonitorforLULUCFprojectactivities.The
+IPCCGoodPracticeGuidance(2003)andtheLULUCF
+Sourcebook(Pearson,Walker,andBrown2005)provide
+moredetailsaboutthesecarbonpools.CHAPTER9:EstimatingandQuantifying CarbonStocks
+45 P R O J E C T T Y P E
+Stopdeforestation
+Reduceimpactlogging
+Improveforestmanagement
+Plantations/reforestation
+Agroforestry
+Soilcarbonmanagement
+Short-rotation
+energyplantations M A J O R C A R B O N P O O L S
+Livebiomass Deadbiomass TA B L E 9 . 1 Decision Matrix oftheMainCarbon Pools toEstimate
+orQuantifyandMonitorforLULUCFProject Activit ies
+Wood
+Products
+M
+NY
+Y
+MN
+ATrees
+Y
+YY
+Y
+YN
+YHerbaceous
+M
+MM
+N
+YN
+NRoots
+R
+RR
+R
+MM
+MFine
+M
+MM
+M
+NM
+NCoarse
+Y
+YY
+M
+NN
+NSoil
+R
+MM
+R
+RY
+Y
+Avoidemissions
+Sequestercarbon
+Carbonsubstitution
+Source:AdaptedfromBrown1999;Brown,Masera,andSathaye2000.
+Notes:A=Storescarboninunburnedfossilfuels.
+Y=yesandindicatesthatthechangeinthispoolislikelytobelargeandshouldbemeasured.
+R=recommendedandindicatesthatthechangeinthepoolcouldbesignificant,butmeasuringcoststoachievedesiredlevelsofprecisioncouldbehigh.
+N=noandindicatesthatthechangeislikelytobesmalltonone,andthusitisnotnecessarytomeasurethispool.
+M=maybeandindicatesthatthechangeinthispoolmayneedtobemeasureddependingontheforesttypeand/ormanagementintensityoftheproject.
+
+--- Page 48 of 100 ---

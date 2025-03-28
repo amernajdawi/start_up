@@ -1,0 +1,52 @@
+File Name: 1_2021-06-04_DelVO_2021_2139_TAXKRA_EU.pdf
+Converted on: 2025-03-28 03:20:30
+Original Size: 2.76 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 250 of 447
+--------------------------------------------------------------------------------
+
+(g) light sources rated in the highest two populated classes of energy efficiency in accordance with Regulation (EU)
+2017/1369 and delegated acts adopted under that Regulation;  
+(h) space heating and domestic hot water systems rated in the highest two populated classes of energy efficiency
+in accordance with Regulation (EU) 2017/1369 and delegated acts adopted under that Regulation;  
+(i) cooling and ventilation systems rated in the highest two populated classes of energy efficiency in accordance
+with Regulation (EU) 2017/1369 and delegated acts adopted under that Regulation;  
+(j) presence and daylight controls for lighting systems;  
+(k) heat pumps compliant with the technical screening criteria set out in Section 4.16 of this Annex;  
+(l) façade and roofing elements with a solar shading or solar control function, including those that support the
+growing of vegetation;  
+(m) energy-efficient building automation and control systems for residential and non-residential buildings;  
+(n) zoned thermostats and devices for the smart monitoring of the main electricity loads or heat loads for
+buildings, and sensoring equipment;  
+(o) products for heat metering and thermostatic controls for individual homes connected to district heating
+systems, for individual flats connected to central heating systems serving a whole building, and for central
+heating systems;  
+(p) district heating exchangers and substations compliant with the district heating/cooling distribution activity set
+out in Section 4.15 of this Annex;  
+(q) products for smart monitoring and regulating of heating system, and sensoring equipment.  
+The economic activities in this category could be associated with several NACE codes, in particular C16.23,
+C23.11, C23.20, C23.31, C23.32, C23.43, C.23.61, C25.11, C25.12, C25.21, C25.29, C25.93, C27.31,
+C27.32, C27.33, C27.40, C27.51, C28.11, C28.12, C28.13, C28.14, in accordance with the statistical classification
+of economic activities established by Regulation (EC) No 1893/2006.  
+Technical screening criteria  
+Substantial contribution to climate change adaptation  
+1. The economic activity has implemented physical and non-physical solutions (‘adaptation solutions’) that
+substantially reduce the most important physical climate risks that are material to that activity.
+2. The physical climate risks that are material to the activity have been identified from those listed in
+Appendix A to this Annex by performing a robust climate risk and vulnerability assessment with the
+following steps:
+(a) screening of the activity to identify which physical climate risks from the list in Appendix A to this Annex
+may affect the performance of the economic activity during its expected lifetime;
+(b) where the activity is assessed to be at risk from one or more of the physical climate risks listed in Appendix A
+to this Annex, a climate risk and vulnerability assessment to assess the materiality of the physical climate risks
+on the economic activity;
+(c) an assessment of adaptation solutions that can reduce the identified physical climate risk.
+The climate risk and vulnerability assessment is proportionate to the scale of the activity and its expected lifespan,
+such that:
+(a) for activities with an expected lifespan of less than 10 years, the assessment is performed, at least by using
+climate projections at the smallest appropriate scale;EN  L 442/186 Official Journal of the European Union 9.12.2021
+
+--- Page 187 of 349 ---

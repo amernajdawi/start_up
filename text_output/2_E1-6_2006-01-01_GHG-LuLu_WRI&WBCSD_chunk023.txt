@@ -1,0 +1,198 @@
+File Name: 2_E1-6_2006-01-01_GHG-LuLu_WRI&WBCSD.pdf
+Converted on: 2025-03-28 03:20:49
+Original Size: 6.41 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 23 of 50
+--------------------------------------------------------------------------------
+
+11.2DescribeActionstoSuppress orMitigate
+theReversi bilityofGHGReduct ions
+Anumberofactionscanreducethereversibilityof
+carbonstorage:
+•Eas ements.Easementsestablishperpetualland-useor
+managementrestrictionsonlanddeedsthatbindfuture
+landownerstothem.Theymayberelevanttosome
+forestmanagementandland-usechangeprojects.When
+theownershipchanges,easementscanhelpavoidland-
+useconversionand/orchangesinmanagement that
+wouldresultinreleasingthestoredcarbonintothe
+atmosphereinthefuture.
+•Projecttype,siteselection,andpreventionmeasures.
+Suchmeasuresmaybe
+1 . ChoosingorplanningGHGprojectswithalow
+riskofreversal.Forexample,onestrategyfor
+forestprojectplanningistotakealandscapeview
+oftheprojectandtodesignplantationestablish -
+mentinastaggeredmannersothatnotallofthe
+areareachesaharvestableageatthesametime.
+Inthiswaytherewillalwaysbecarbonstockson
+thelandscapeevenwhensomeareasarebeing
+harvested.Therefore,areforestationprojectthus
+designedwillalwayshaveGHGremovalsand
+carbonstocksgreaterthanthoseoftheagricul-
+turallanduse,sothecarbonstockincreaseis
+“permanent,”evenwithharvesting(exceptduring
+catastrophicreversalssuchasfire).
+2 . Selectingsiteswitharelativelylowriskcompared
+withthatofotherareas.Inordertoidentifyareas
+thathavehadfewerincidents,projectdevelopers
+mustbecomefamiliarwiththehistoryofnatural
+disturbanceintheirregion.
+3 . Addingpreventionmeasurestoreducerisk.
+Examplesareprescribingburningtoreducefuel
+loads,breakinglargeplantationsintosmaller
+blockstopreventfirespread,mixingspeciesof
+lowerandhigherflammabilitytoreduceoverallfire
+risk,andensuringthatallpartsofaplantation
+haveaccesstofiresuppressionequipment.Planting
+avarietyoftreespeciestogethersothatnosingle
+hostspeciesisdominantcanreduceinsect
+outbreaks.Otherdisturbances(windstorms,earth -
+quakes)aremoredifficulttoguardagainst,buta
+healthyvigorousforeststandgenerallyreducesthe
+effectsasmuchaspossible.
+•Eliminationofcausesofreversalfromland-usechange
+toreducerisk.Eliminationrequiresidentifyingthe
+driversofland-usechangeanddesigningtheprojectto
+addressthem.Forexample,ifaregion’scoffeepricesare
+rising,thenaprojectinthatregionmayincorporatea
+wood-productscooperativeoranothermeansofimproving theresidents’livelihood.Suchaprojectmaygive
+landownersanincomesimilartowhattheymightearn
+iftheyconvertedtheirprojectlandstocoffee.
+•Contracts.Contractsmayprovideincentivestoproject
+partnersand/orlandownerstousebest-managemen t
+practicesorotherapproachesaimedatreducingtheriskof
+reversal.Forexample,contractscouldrequirelandowners
+topayfornewseedlingsandreplantthemiftreesdie,or
+theycouldbepaidabonusifthetreessurviveorthe
+biomassexceedsanagreedamountafterfiveortenyears.
+Projectdevelopersshoulddocumentanyactionsthatthey
+taketoreducetheriskofreversibilityandhowtheyincorpo -
+ratedthemintotheestimatesofaproject’sGHGreduction.
+Theyalsoshouldalsoindicatewhethertheseactionswill
+fullyoronlypartiallyavoidthereversalofcarbonstorage.
+11.3ForAnyResidualRiskofReversibility,
+EstablishMechanismstoCompens ate
+forReversalsofCarbonStorage
+Afteraprojectdeveloperhasidentified,assessed,andtaken
+actiontoreducethereversibilityofcarbonstorage,some
+risksmaystillremain,whichmayaffectaprojecteither
+duringitslife(orcreditingperiod)orafteritslife(orthe
+endofthecreditingperiod).Theseresidualrisksshouldbe
+documented,aswellasanymechanismsputinplaceto
+compensateforthisreversalofcarbonstorage.These
+mechanismstypicallyaddressanyliabilitiesassociatedwith
+thereversaloftheproject’sGHGreduction.Ofcourse,both
+GHGprogramsandanyprivatecontractsassociatedwith
+theprojectmustdeterminetheexactnatureoftheliabili-
+ties.Riskmanagementmechanismsgenerallyinclude
+measurestoobtainadditionalGHGreductionselsewhere.
+Somemechanismsforcompensatingforanyfuturelossof
+carbonstoragebenefitsare:
+•Financialinstruments,suchasinsurance,forward
+contractsforcarbondeliveryatafuturedate,andoptions
+forthedeliveryofstoredcarbontonnes.Traditionalforest
+orcropinsurancemaybeadaptedtoincludeGHGreduc -
+tions.Theinstrumentshouldexplainhowitworksand
+statethetimeperiodoverwhichitwouldoperate.
+•Legalcontracts,suc haspurchaseandsalecontractsfor
+forestryandagriculturalGHGprojectsthatcontain
+clauses/processesforrestitutionwhencarbonstocksare
+released.Restitutionmaymeangoingtothemarketto
+buycompensatory(temporaryorpermanent)equiva -
+lentstoreplacetheGHGreductions.Thelegalcontract
+shoulddescribehowliabilityisapportionedamongthe
+differentparties.
+CHAPTER11:CarbonReversibilityManagement Plan 56
+
+--- Page 59 of 100 ---
+
+•Portfoliosorbuffersareaformofself-insurancebya
+singleGHGprojectorcoinsurancebyasetofGHG
+projects.GHGprojectscanholdaproportionoftheGHG
+reductionsinreserveagainsttheriskofreversal.A
+slightlymodifiedapproachbundlesGHGprojects,and
+onlyaportionoftheGHGreductionsaresoldorreported,
+therebyhedgingagainsttheriskofnaturaleventsaffect -
+ingoneprojectbutnottheothers.Portfoliosorbuffers
+shoulddocumentthetermsoftheagreement,theGHG
+projectstheycontain,andthetimeperiodthattheagree -
+mentcovers.Thesizeofthebufferorbackupcarbon
+reserveshouldbeestimatedconservatively.
+11.4 Develop aPlan
+toMonitorCarbonReversibility
+Theproject’smonitoringplanshouldcontainindicatorsto
+determinewhethercarbonstorageiscontinuing(seechapter
+10,MonitoringandQuantifyingGHGReductions).Often
+theseindicatorsaresimplerthanthoseneededtomonitor
+theGHGreductionsfromtheprimaryeffects,astheyneed
+todetermineonlythecontinuedexistenceoftheparticular
+landuseormanagement practiceanditsacceptablemainte -
+nance.Thefrequencyofmonitoringvariesaccordingto
+projecttypesandareas.Themonitorsmayuselow-resolu -
+tionsatelliteimagerytoidentifypotentiallossesofcarbon
+fromillegallogging,fires,orpestoutbreaks,ortheymay
+userandomfieldinspections.Theseindicatorsmaythen
+triggermoredetailedmonitoring.
+Projectdevelopersshouldlisttheindicators,howtheywill
+beusedtoassessreversibility,andhowfrequentlytheywill
+bemonitored,assomerisksmayneedtobemonitoredmore
+often.Projectdeveloperswoulddowelltocheckwiththe
+relevantGHGprogram,asitmayexplainhowlongproject
+activitiesneedtobemonitoredtoensurethatthecarbonis
+stillbeingstored.Themonitoringreportsshouldstate
+whetheralosshasoccurredandhowitwasorwillbe
+replacedandverifythatactionhasbeentaken(e.g.,acerti-
+ficationofthedeliveryorreplacementtonnesbyaninsurer).
+Asacross-check, aproject’scarbonreversibilitymanage -
+mentplanshouldcontain
+1 . Reversibleelementsoftheproject’sGHGreductionthat
+•Listtheproject’selements(includingcarbonpools)
+thatpertaintostoringcarbon.
+•Foreachelementcontributingtocarbonstorage,
+assessthepotentialforitsreversibility,including
+theuncertaintyassociatedwiththeseassessments.
+•Ifthecarbonstorageisnotreversible,briefly
+explainwhythisisthecase.2 . ActionstoreduceoreliminatethereversibilityofGHG
+reductionsthat
+•Listanyactionstakentoreducetheriskof
+reversibilityandhowtheywereincorporatedinto
+theestimatesofaproject’sGHGreduction.
+•Statewhethertheseactionswillfullyoronly
+partiallyavoidthereversalofcarbonstorage.
+3 . Thelistofresidualrisksshouldincludeanyrisksthat
+remainafterthemechanismstocompensateforreversals
+ofcarbonstoragehavebeenputinplace.
+4 . Themonitoringplanshouldlisttheindicatorsofreversal,
+howtheywillbeusedtoassessreversibility.Itshouldlist
+howfrequentlytheywillbemonitored,aswellasan
+explanationofthisfrequency.Finally,alistoftheitems
+toincludeinthemonitoringreports,forexample,whether
+alosshasoccurred,howitwasreplaced,andwhetherthe
+replacementhasbeenverifiedshouldbeincluded.
+CHAPTER11:CarbonReversibilityManagement Plan
+
+--- Page 60 of 100 ---
+
+58
+PARTII:GHGReductionAccountingandReporting
+eportingrequirement susuallyaredeterminedbyGHGprogramsandvaryfromprogram
+toprogram.ButifnoGHGprogramrequirementsareavailable,thefollowingguidance,
+alongwiththerequirementslistedintheProjectProtocol,willgenerateatransparent
+andcompletereportforLULUCFprojectactivities.
+Thereportshoulddescribehowtheinformationwascollectedandhowdecisionsweremade
+regardingthe
+•Description oftheproject.
+•GHGassessment boundary.
+•BaselinecarbonstocksandGHGremovalsforeachprojectactivityandprimaryeffect.
+•Estimated totalcarbonstocks,GHGremovalsandGHGreductionsfortheGHGproject.
+•Monitoring plan.
+•Carbonreversibility management plan.
+•Annualmonitoring andGHGreductionreports.ReportingGHGReductions
+andTotalCarbonStocks
+R12
+
+--- Page 61 of 100 ---

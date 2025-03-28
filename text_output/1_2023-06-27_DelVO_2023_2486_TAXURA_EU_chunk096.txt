@@ -1,0 +1,43 @@
+File Name: 1_2023-06-27_DelVO_2023_2486_TAXURA_EU.pdf
+Converted on: 2025-03-28 03:20:36
+Original Size: 8.44 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 96 of 199
+--------------------------------------------------------------------------------
+
+ELI: http://data.europa.eu/eli/reg_del/2023/2486/oj 67/1644. Information and communication
+4.1. Provision of IT/OT data-driven solutions
+Description of the activity
+The activity manufactures, develops, installs, deploys, maintains, repairs or provides professional services, including
+technical consulting for design or monitoring of:
+(a) software (149)and information technology (IT) or operational technology (OT) systems (150), including artificial
+intelligence (AI) based solutions, such as for automated machine learning, built for the purpose of remote monitoring
+and predictive maintenance, including systems for:
+(i) remotely collecting, processing, transferring, and storing data from equipment, products or infrastructure during
+their use or operation;
+(ii) analysing the data and generating insights about the operational performance and condition of the equipment,
+product or infrastructure;
+(iii) providing remote maintenance and recommendations about measures required to avoid operational failure and
+maintain the equipment, product or infrastructure in an optimal operating condition and prolong their useful life
+and reduce resource use and waste;
+(b) tracking and tracing software and IT or OT systems built for the purpose of providing identification, tracking and
+tracing of materials, products and assets through their respective value chains (including digital material and product
+passports) with the predominant objective to support the circularity of material flows and products or other objectives
+set out in Regulation (EU) 2020/852;
+(c) lifecycle assessment software supporting the lifecycle assessment and related reporting for products, equipment or infrastructures;
+(d) design and engineering software supporting the eco-design of products, equipment, and infrastructure, including waste management and resource efficiency;
+(e) supplier management software supporting green procurement of materials, products and services with low environmental impact, but excluding the operation of market places supporting the trading of such goods;
+(f) lifecycle performance management software supporting the monitoring and assessment of the circularity performance
+of products, equipment, or infrastructures during their lifecycle.
+The economic activities in this category could be associated with several NACE codes, in particular C26, C27, J58.29, J61, J62 and J63.1 in accordance with the statistical classification of economic activities established by Regulation (EC)
+No 1893/2006.
+An economic activity in this category is an enabling activity in accordance with Article 13(1), point (l), of Regulation
+(EU) 2020/852 where it complies with the technical screening criteria set out in this Section.
+(149)‘Software’ includes on-premises and cloud-based software.
+(150)‘IT or OT systems’ include connectable products, sensors, analytics and other software, and information and communication
+technologies (ICT) for the transmission, storage and display of data and system management.OJ L, 21.11.2023 EN  
+
+--- Page 68 of 164 ---

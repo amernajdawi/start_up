@@ -1,0 +1,25 @@
+File Name: 2_ESRS2_SBM1_2006-12-20_VO_NACER2_EU.pdf
+Converted on: 2025-03-28 01:56:34
+Original Size: 0.17 MB
+Chunk Size: 400 tokens with 50 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 98 of 109
+--------------------------------------------------------------------------------
+
+2.6. In Annex B, point (i) (‘First reference year ’), the following paragraph shall be added:
+‘The first reference period for which all variables are to be transmitted in NACE Rev. 2 is January 2009 for monthly
+data and the first quarter 2009 for quarterly data.’.
+3. Annex C
+3.1. In Annex C, point (a) (‘Scope ’) shall be replaced by the following:
+‘(a) Scope
+This Annex applies to the activities listed in Division 47 of NACE Rev. 2.’.
+3.2. In Annex C, point (f) (‘Level of detail’), paragraphs 1, 2, 3, 4 and 5 shall be replaced by the following:
+‘1. The turnover variable (No 120) and the deflator of sales/volume of sales variables (No 330/123) are to be
+transmitted according to the levels of detail defined in paragraphs 2 and 3. The number of persons employedvariable (No 210) is to be transmitted according to the level of detail defined in paragraph 4.
+2. Detailed level regrouping NACE Rev. 2 classes and groups:
+Class 47.11;
+Class 47.19;Group 47.2;Group 47.3;sum of Classes (47.73, 47.74 and 47.75);sum of Classes (47.51, 47.71 and 47.72);sum of Classes (47.43, 47.52, 47.54, 47.59 and 47.63);sum of Classes (47.41, 47.42, 47.53, 47.61, 47.62, 47.64, 47.65, 47.76, 47.77 and 47.78);
+Class 47.91.
+3. Aggregate levels regrouping NACE Rev. 2 classes and groups:

@@ -1,0 +1,46 @@
+File Name: 2_E1-6_2004-03_G_GHG-Prot_WRI&WBCSD.pdf
+Converted on: 2025-03-28 03:18:16
+Original Size: 3.51 MB
+Chunk Size: 500 tokens with 50 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 174 of 225
+--------------------------------------------------------------------------------
+
+Considering whether there are any existing environmental
+or energy plans, capital investments, product/servicechanges, or targets that will affect GHG emissions.Are there plans already in place for fuel switching, on site power generation, and/or renewable energyinvestments that affect the future GHG trajectory?
+Benchmarking GHG emissions with similar
+organizations. Generally, organizations that havenot previously invested in energy and other GHG reductions should be capable of meeting more aggres-sive reduction levels because they would have morecost-effective reduction opportunities.
+10. Track and report progress
+Once the target has been set, it is necessary to trackperformance against it in order to check compliance,and also—in order to maintain credibility—to reportemissions and any external reductions in a consistent,complete and transparent manner.
+
+CARRY OUT REGULAR PERFORMANCE CHECKS. In order
+to track performance against a target, it is importantto link the target to the annual GHG inventory processand make regular checks of emissions in relation tothe target. Some companies use interim targets forthis purpose (a target using a rolling target base yearautomatically includes interim targets every year).
+REPORT INFORMATION IN RELATION TO THE TARGET.
+Companies should include the following information when
+setting and reporting progress in relation to a target:
+1. Description of the target
+Provide an outline of the target boundaries chosen
+Specify target type, target base year, target
+completion date, and length of commitment period
+Specify whether offsets can be used to meet the     
+target; if yes, specify the type and amount
+Describe the target double counting policy
+Specify target level.
+2. Information on emissions and performance in rela-
+tion to the target
+Report emissions from sources inside the target
+boundary separately from any GHG trades
+If using an intensity target, report absolute emis-
+sions from within the target boundary separately, both from any GHG trades and the business metric
+Report GHG trades that are relevant to
+compliance with the target (including how many offsets were used to meet the target)
+Report any internal project reductions sold or
+transferred to another organization for use as an offset
+Report overall performance in relation to the target.CHAPTER 11 Setting a GHG Target 85GUIDANCE
+1Some companies may formulate GHG efficiency targets by formulating
+this ratio the other way around.
+2Examples include the U.K. ETS, the CCX, and the EU ETS.
+3Holcim’s and Lafarge’s target have been formulated using the termi-nology of the WBCSD Cement CO2Protocol (WBCSD, 2001), which
+uses“specific” to denote emissions per tonne of cement produced.

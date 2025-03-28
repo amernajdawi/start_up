@@ -1,0 +1,51 @@
+File Name: 1_2023-07-31_DelVO_2023_2772_ESRS_EU.pdf
+Converted on: 2025-03-28 03:20:41
+Original Size: 5.82 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 19 of 284
+--------------------------------------------------------------------------------
+
+ELI: http://data.europa.eu/eli/reg_del/2023/2772/oj 17/28492. When assessing the possible outcomes, the undertaking shall consider all relevant facts and circumstances, including
+information about low-probability and high-impact outcomes, which, when aggregated, could become material. For
+example, the undertaking might be exposed to several impacts or risks, each of which could cause the same type of
+disruption, such as disruptions to the undertaking’s supply chain. Information about an individual source of risk
+might not be material if disruption from that source is highly unlikely to occur. However, information about the aggregate risk of supply chain disruption from all sources might be material (see ESRS 2 BP-2).
+7.3 Updating disclosures about events after the end of the reporting period
+93. In some cases, the undertaking may receive information after the reporting period but before the management report
+is approved for issuance. If such information provides evidence or insights about conditions existing at period end,
+the undertaking shall, where appropriate, update estimates and sustainability disclosures, in the light of the new
+information.
+94. When such information provides evidence or insights about material transactions, other events and conditions that
+arise after the end of the reporting period, the undertaking shall, where appropriate, provide narrative information
+indicating the existence, nature and potential consequences of these post-year end events.
+7.4 Changes in preparation or presentation of sustainability information
+95. The definition and calculation of metrics, including metrics used to set targets and monitor progress towards them,
+shall be consistent over time. The undertaking shall provide restated comparative figures, unless it is impracticable
+to do so (see ESRS 2 BP-2), when it has:
+(a) redefined or replaced a metric or target;
+(b) identified new information in relation to the estimated figures disclosed in the preceding period and the new
+information provides evidence of circumstances that existed in that period.
+7.5 Reporting errors in prior periods
+96. The undertaking shall correct material prior period errors by restating the comparative amounts for the prior
+period(s) disclosed, unless it is impracticable to do so. This requirement does not extend to reporting periods before
+the first year of application of ESRS by the undertaking.
+97. Prior period errors are omissions from, and misstatements in, the undertaking’s sustainability statement for one or
+more prior periods. Such errors arise from a failure to use, or misuse of, reliable information that:
+(a) was available when the management report that includes the sustainability statement for those periods was
+authorised for issuance; and
+(b) could reasonably be expected to have been obtained and considered in the preparation of sustainability
+disclosures included in these reports.
+98. Such errors include: the effects of mathematical mistakes, mistakes in applying the definitions for metrics or targets,
+oversights or misinterpretations of facts, and fraud.
+99. Potential errors in the current period discovered in that period are corrected before the management report is
+authorised for issuance. However, material errors are sometimes only discovered in a subsequent period.
+100. When it is impracticable to determine the effect of an error on all prior periods presented, the undertaking shall
+restate the comparative information to correct the error from the earliest date practicable. When correcting
+disclosures for a prior period, the undertaking shall not use hindsight either in making assumptions about what the
+management’s intentions would have been in a prior period or in estimating the amounts disclosed in a prior
+period. This requirement applies to correction of both backward-looking and forward- looking disclosures.OJ L, 22.12.2023 EN  
+
+--- Page 18 of 284 ---

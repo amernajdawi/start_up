@@ -1,0 +1,85 @@
+File Name: 2_E1-6_2011-09-01_G_GHG-PLC_WRI&WBCSD.pdf
+Converted on: 2025-03-28 03:20:53
+Original Size: 3.27 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 58 of 116
+--------------------------------------------------------------------------------
+
+[72]   Product Life Cycle Accounting and Reporting Standard
+guidanceFigure [9.5]  Example process map illustrating the closed loop approximation method
+Material recovery facility and recycled material
+preprocessing are general terms for the attributable
+processes needed to convert recovered material (e.g.,
+material collected for reuse) into a recycled material
+output ready to be used in another product system.
+Specific examples of potential attributable processes
+include sorting, shredding, cleaning, melting, and deinking.  
+In the closed loop approximation method no emissions
+or removals associated with recycling are allocated
+to another product system. However, the creation of
+recyclable material results in the displacement of virgin
+material and the emissions and removals associated with
+its creation.
+The following illustrates how to calculate inventory
+results for the material acquisition, end-of-life stage,
+and virgin material displacement using the closed loop
+approximation method as illustrated in figure 9.5.
+Virgin material acquisition and preprocessing stage:  
+All attributable processes due to virgin material acquisition
+and preprocessing (assumes all input material is virgin).
+End-of-life stage: All attributable processes due to end-
+of-life (including recycling). In fi  gure  9.5 this includes 
+collection9, waste treatment, material recovery facility,
+and preprocessing of recycled material.Virgin material displacement factor: Recycling  
+rate of material (recycled output/virgin material input)
+multiplied by the attributable processes for virgin
+material acquisition and preprocessing.
+The virgin material displacement factor is calculated
+only for the virgin material that has the same inherent
+properties as the recycled material. For products with
+several material inputs, only the attributable processes
+associated with the displaced material are considered.
+Virgin material acquisition and preprocessing impacts
+should be calculated assuming that all material input is
+virgin. In the case where recycled material is also used as an
+input, the material acquisition and preprocessing impacts
+are calculated assuming all virgin input in order to correctly
+apply the closed loop approximation method. Alternatively,
+to avoid double accounting, the recycled content approach
+can be applied to the recycled input with a closed loop
+approach applied to the remaining net material output
+(displacing only the primary material input). However this
+could be difficult and therefore is not advised.
+The closed loop approximation method can also be used
+for recycling within a life cycle stage (e.g., the creation
+and reuse of scrap during production). material acquisition  
+& pre-processing         production       distribution  
+      & storageuse end-of-life 
+virgin material  
+acquisition  
+& pre-processingproduction
+processdistribution  
+processuse
+processcollection  
+process
+material recovery  
+facility (MRF)recycled materials
+pre-processingassumed virgin  
+material  
+displacementwaste  
+treatmentwaste  
+material
+output
+recovered
+material
+output
+recycled
+material
+output
+attributable processesmovement of material
+through the lifecycle
+
+--- Page 75 of 148 ---

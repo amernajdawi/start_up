@@ -1,0 +1,44 @@
+File Name: 1_2023-06-27_DelVO_2023_2486_TAXURA_EU.pdf
+Converted on: 2025-03-28 03:20:36
+Original Size: 8.44 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 100 of 199
+--------------------------------------------------------------------------------
+
+ELI: http://data.europa.eu/eli/reg_del/2023/2486/oj 70/164(e) supporting reverse logistics.
+7.For lifecycle performance management software, at least one of the following capabilities specified in points (a) to (e) is
+met in its full scope:
+(a) supporting the monitoring and assessment of the circularity performance (157)of a product, equipment or
+infrastructure during its lifecycle over time;
+(b) comparing circularity performance against original circularity design goals, analysing deviations and their root causes;
+(c) supporting the planning and documentation of measures required to prolong the useful life of the product, equipment
+or infrastructure, such as maintenance, retrofit, or other services;
+(d) supporting the impact assessment of such measures on circularity performance;
+(e) providing the user with data required to take decisions on the future use of the product, equipment, or infrastructure, such as retrofit, change of use, decommissioning and recycling.
+8.All IT/OT data-driven solutions should meet the following criteria:
+(a) techniques are adopted that support the reuse and use of secondary raw materials and reused components, and the solutions are designed for high durability, recyclability, easy disassembly, adaptability and upgradability;
+(b) measures are in place to manage and recycle waste at the end-of life, including through decommissioning contractual
+agreements with recycling service providers, reflection in financial projections or official project documentation.
+These measures ensure that components and materials are segregated and treated to maximise recycling and reuse in
+accordance with the waste hierarchy, EU waste regulation principles and applicable regulations, in particular through
+the reuse and recycling of batteries and electronics and the critical raw materials therein. These measures also include
+the control and management of hazardous materials;
+(c) preparation for re-use, recovery or recycling operations, or proper treatment, including the removal of all fluids and a
+selective treatment are performed in accordance with Annex VII to Directive 2012/19/EU.
+Do no significant harm (‘DNSH’)
+(1) Climate change mitigation N/A
+(2) Climate change adaptation The activity complies with the criteria set out in Appendix A to this Annex.
+(3)
+Sustainable use and protec ­
+tion of water and marine
+resourcesThe activity complies with the criteria set out in Appendix B to this Annex.
+(157)‘Circularity performance’ is to be assessed on the basis of: (i) product durability, reliability, reusability, upgradability, reparability, ease
+of maintenance and refurbishment; (ii) presence of substances that inhibit the circularity of products and materials; (iii) energy use or
+energy efficiency of products; (iv) resource use or resource efficiency of products; (v) recycled content in products; (vi) ease of
+disassembly, remanufacturing and recycling of products and materials; (vii) life-cycle environmental impact of products, including
+their carbon and environmental footprints; (viii) preventing and reducing waste, including packaging waste.OJ L, 21.11.2023 EN  
+
+--- Page 71 of 164 ---

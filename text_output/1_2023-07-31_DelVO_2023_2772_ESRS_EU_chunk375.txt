@@ -1,0 +1,16 @@
+File Name: 1_2023-07-31_DelVO_2023_2772_ESRS_EU.pdf
+Converted on: 2025-03-28 03:18:14
+Original Size: 5.82 MB
+Chunk Size: 500 tokens with 50 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 375 of 686
+--------------------------------------------------------------------------------
+
+AR 16. When providing information targets according to paragraph 24, the undertaking shall consider the production
+phase, the use phase, and the end of functional life of products and materials.
+AR 17. When providing information on targets related to virgin renewable raw material under paragraph 24(c), the
+undertaking shall consider how those targets may impact biodiversity loss, also in light of ESRS E4.
+(86)As established by Directive 2009/125/EC.Directive 2009/125/EC of the European Parliament and of the Council of 21 October 2009
+establishing a framework for the setting of ecodesign requirements for energy-related products (OJ L 285, 31.10.2009, p. 10).OJ L, 22.12.2023 EN

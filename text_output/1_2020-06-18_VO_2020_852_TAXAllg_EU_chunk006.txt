@@ -1,0 +1,52 @@
+File Name: 1_2020-06-18_VO_2020_852_TAXAllg_EU.pdf
+Converted on: 2025-03-28 03:20:25
+Original Size: 0.73 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 6 of 54
+--------------------------------------------------------------------------------
+
+(16) A classificat ion of environmentally sustainable economic activities at Union level should enable the development of
+future Union policies in suppor t of sustainable finance, including Union-wide standards for environmentally
+sustainable financia l products and the eventual establishment of labels that formally recognise compl iance with
+those standards across the Union. It could also serve as the basis for other economic and regulator y measures.
+Uniform legal requirements for determining the degree of environmental sustainability of inve stments, based on
+unif orm criteria for environmentally sustainable economic activities, are necessar y as a reference for future Union
+law that aims to facilitat e the shift of investment towards environmentally sustainable economic activities.
+(17) In the context of achieving the SDGs in the Union, policy choices such as the creation of a European Fund for
+Strateg ic Investment, have been effective in contr ibuting to the channelling of private investment towards
+sustainable investments alongside public spending. Regulation (EU) 2015/1017 of the European Parliament and of
+the Council (5) specifi es a 40 % climat e investment target for infrastr ucture and inno vation projects under the
+European Fund for Strategic Investment. Common criteria for determi ning whether economic activities qualify as
+sustainable, including their impact on the environment, could under pin future similar initiatives of the Union to
+mobilise inve stment that pursues climat e-related or other environmental objectives.
+(18) To avoid harming invest or interests, fund manag ers and institutional investors that make available financial products
+should disclose how and to what exte nt they use the criteria for environmentally sustainable economic activities to
+determine the environmental sustainability of their investments. The information disclosed should enable invest ors
+to understand the propor tion of the inve stments underlying the financia l product in environmentally sustainable
+economic activities as a percentage of all inve stments underlying that financial product, thereb y enabling inve stors
+to understand the degree of environmental sustainability of the investment. Where the investments underlying the
+financial product are in economic activities that contr ibute to an environmental objective, the information to be
+disclosed should specify the environmental objective or objectives to whic h the investment underlying the financia l
+product contr ibutes, as well as how and to what extent the investments underlying the financia l product fund
+environmentally sustainable economic activities, and should include details on the respective propor tions of
+enabling and transitional activities. The Commission should specify the information that needs to be disclosed in
+that rega rd. That information should enable national compet ent author ities to easily verify compl iance with that
+disclosure obligation, and to enforce such compl iance in accordance with applicable national law. Where financial
+mark et participants do not take the criteria for envi ronmentally sustainable investments into account, they should
+provid e a state ment to that end. To avoid the circum vention of the disclosure obligation, that obligation should also
+apply where financial products are mark eted as promoting environmental charact eristics, including financial
+products that have as their objective environmental prot ection in a broad sense.
+(19) The disclosure obligations laid down in this Regulation supplement the rules on sustainability-related disclosures laid
+down in Regulation (EU) 2019/2088 of the European Parliament and of the Council (6). To enhance transparency
+and to provid e an objective point of compari son by financial mark et participants to end inve stors on the
+propor tion of investments that fund environmentally sustainable economic activities, this Regulation supplements
+the rules on transparency in pre-contractual disclosures and in periodic repor ts laid down in Regulation (EU)
+2019/2088. The definition of ‘sustainable investment’ in Regulation (EU) 2019/2088 includes investments in
+economic activities that contr ibut e to an environmental objective whic h, amongst others, should include
+inve stments into ‘envi ronmentally sustainable economic activities’ within the meaning of this Regulation. Moreover ,
+Regulation (EU) 2019/2088 only considers an investment to be a sustainable investment if it does not signif icantly
+harm any environmental or social objective as set out in that Regulation.
+(5)Regulation (EU) 2015/1017 of the European Parliament and of the Council of 25 June 2015 on the European Fund for Strategic

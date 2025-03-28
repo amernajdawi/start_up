@@ -1,0 +1,18 @@
+File Name: 2_E1-6_2014-01-01_G_GHG-Agri_WRI&WBCSD.pdf
+Converted on: 2025-03-28 01:56:31
+Original Size: 1.75 MB
+Chunk Size: 400 tokens with 50 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 138 of 150
+--------------------------------------------------------------------------------
+
+use its services and whose benefits are shared by the members on the
+basis of use.
+Co-product A co-product is an output of an agricultural system with a significant
+market value in another system.  
+Corporate GHG
+emissions inventory A quantified list of the GHG fluxes  from across the entire operations of 
+the reporting company. Such inventories include the emissions of all seven Kyoto GHGs  (CO
+2, CH 4, N 2O, HFCs, PFCs, SF 6, and NF 3).

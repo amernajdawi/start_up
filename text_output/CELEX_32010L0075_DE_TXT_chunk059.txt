@@ -1,0 +1,271 @@
+File Name: CELEX_32010L0075_DE_TXT.pdf
+Converted on: 2025-03-28 03:21:03
+Original Size: 4.18 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 59 of 93
+--------------------------------------------------------------------------------
+
+17.12.2010 DE Amtsblattder Europäischen Union L 334/61
+6. NOx- und CO-Emissionsgrenzwerte (in mg/Nm3) für mit Gas b etriebene Feuerungsanlagen
+NOx CO
+Mit Erdgas betriebene Feuerungsanlagen mit Ausnahme von Gasturbi­
+nen
+und
+Gasmotoren100 100
+Mit Hochofen gas,
+Koksofengas
+oder aus Raffin erierückständen
+erzeug­
+tem
+Gas mit n iedrigem
+Heizwert b etriebene
+Feuerungsanlagen
+mit
+Ausnahme
+von
+Gasturbinen
+und
+Gasmotoren200 (4)—
+Mit Raffin erieheizgas
+betriebene
+Feuerungsanlagen
+mit Ausnahme
+von
+Gasturbinen
+und
+Gasmotoren200 (4)—
+Mit Erdgas
+betriebene
+(1) Gasturbinen (einschließlich GuD) 50  (2)  (3) 100
+Anders
+als mit Erdgas
+betriebene
+Gasturbinen
+(einschließlich
+GuD) 120 —
+Gasmotoren 100 100
+Anmerkungen:
+(1)Erdgas ist n atürlich vorkommendes Methangas mit nicht mehr als 20 Volumen -% Inertgasen und sonstigen Bestandteilen.
+(2)75 mg/Nm3 in folgenden Fällen, in denen der Wirkungsgrad der Gasturb ine unter ISO-Grundlastbedingungen bestimmt wird:
+i) Gasturbinen
+in
+Anlagen
+mit Kraft-Wärme-Kopplung
+mit einem
+Gesamtwirkun gsgrad
+von
+über
+75 v. H.;
+ii) Gasturbinen
+in
+Kombinationskraftwerken,
+deren
+elektrischer
+Gesamtwirk ungsgrad
+im Jahresdurchschn itt
+über
+55 v. H. lieg t;
+iii) Gasturbinen
+für mechan ische
+Antriebszwecke.
+(3)Für einstufige Gasturbinen, die keiner der unter Anmerkung 2 genannten Kateg o rien zuzurechn en sind und deren Wirkungsgrad unter
+ISO-Grundlastbedingungen
+mehr als 35 v. H. b eträgt,
+gilt
+ein
+NOx-Emissionsgrenzwert von 50xη/35, wob ei η der in Prozent ausge­
+drückte
+Wirkungsgrad
+der Gasturb ine
+unter
+ISO-Grundlastbedingungen
+ist.
+(4)300 mg/Nm3 für derartig e Feuerungsanlagen mit einer Feuerungswärmeleistung von nicht mehr als 500 MW, b ei denen die Geneh­
+migung
+vor dem 27. Novemb er
+2002 erteilt oder für die vor diesem Zeitpun kt
+von
+deren
+Betreibern
+ein
+vollständiger
+Genehmigungs­
+antrag
+gestellt
+wurde (sofern  
+die Anlage
+spätestens
+zum 27. Novemb er
+2003 in
+Betrieb
+genommen
+wurde).
+Für Gasturb inen (einschließlich  GuD) gelten die in der Tabelle un ter dieser Nummer aufg eführten NOx- und 
+CO-Emissionsgrenzwerte
+nur
+bei
+einer
+Last von
+über
+70 v. H.
+Für Gasturb inen
+(einschließlich
+GuD), bei
+denen
+die Genehmigung
+vor dem 27. Novemb er
+2002 erteilt oder für die vor
+diesem Zeitpun kt
+von
+deren
+Betreibern
+ein
+vollständiger
+Genehmigungsan
+trag
+gestellt
+wurde (sofern  
+die Anlage
+spätes­
+tens
+zum 27. Novemb er
+2003 in
+Betrieb
+genommen
+wurde) un d
+die im gleitenden
+Durchschn itt
+über
+einen
+Zeitraum
+von
+fünf
+Jahren
+höchstens 1
+500 Betrieb sstunden
+jährlich in  
+Betrieb
+sind,
+gilt
+ein
+NOx-Emissionsgrenzwert von
+150
+mg/Nm3 im Falle von  Anlagen, die mit Erdgas betrieben werden, und von 200 mg/Nm3 im Falle von  Anlagen, die 
+mit anderen
+Gasen
+oder flüssig en
+Brennstoffen
+betrieben
+werden.
+Für
+einen
+Teil einer
+Feuerungsanlage,
+dessen
+Abgase
+über
+einen
+oder mehrere g esonderte
+Kanäle
+in
+einem
+gemeinsamen
+Schornstein
+abgeleitet
+werden
+und
+der im gleitenden
+Durchschn itt
+über
+einen
+Zeitraum von fünf Jahren höchsten s 1
+500
+Betriebsstunden
+jährlich in Betrieb ist, k önnen
+die im vorangegan g
+enen Absatz
+in Abhängigkeit
+von der Feuerun gs
+­
+wärmeleistun g
+der gesamten
+Anlage
+festgelegten
+Emissionsgrenzwerte
+vorgeschrieben
+werden.
+In
+diesem Fall werden die
+durch jeden  
+der betreffenden
+Kanäle
+geleiteten
+Emissionen
+gesondert
+übe
+rwacht.
+Gasturbinen
+und
+Gasmotoren für den Notb etrieb,
+die weniger
+als 500 Betrieb sstunden
+jährlich in Betrieb sin d,
+fallen
+nicht
+unter
+die unter
+dieser Nummer aufg eführten
+Emissionsgrenzwerte.
+Die Betreib er
+solcher An lagen
+registrieren
+die
+geleisteten
+Betriebsstunden.
+7.
+Staub-Emissionsgrenzwerte
+ (in mg/Nm3) für mit festen oder flüssig en Brennstoffen betriebene Feuerungsanlagen  m i t  
+Ausnahme
+von
+Gasturbinen
+und
+Gasmotoren  
+Feuerungswärmeleistung (MW)Steinkohle und Braunkohle
+sowie andere feste Bren nstoffeBiomasse und Torf Flüssige Brennstoffe  (1)
+50-100 30 30 30
+100-300 25 20 25
+> 300 20 20 20
+Anmerkung:(
+1)Der Emissionsgrenzwert beträgt 50 mg/Nm3 für die Verfeuerun g von Destillation s- und Konversionsrückständen aus der Rohölraf­
+finierung
+für den
+Eigenverbrauch
+in
+Feuerungsanlagen,
+bei
+denen
+die Gene
+hmigung
+vor dem 27. Novemb er
+2002 erteilt oder für die
+vor diesem Zeitpun kt
+von
+deren
+Betreibern
+ein
+vollständiger
+Genehmigung
+santrag
+gestellt
+wurde, sofern  
+die Anlage
+spätestens
+zum
+27. Novemb er
+2003 in Betrieb g enommen
+wurde.
+
+--- Page 46 of 103 ---

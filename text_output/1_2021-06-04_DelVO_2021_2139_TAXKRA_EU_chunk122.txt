@@ -1,0 +1,54 @@
+File Name: 1_2021-06-04_DelVO_2021_2139_TAXKRA_EU.pdf
+Converted on: 2025-03-28 03:20:30
+Original Size: 2.76 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 122 of 447
+--------------------------------------------------------------------------------
+
+4.14.  Transmission and distribution networks for renewable and low-carbon gases  
+Description of the activity  
+Conversion, repurposing or retrofit of gas networks for the transmission and distribution of renewable and low-
+carbon gases.  
+Construction or operation of transmission and distribution pipelines dedicated to the transport of hydrogen or
+other low-carbon gases.  
+The economic activities in this category could be associated with several NACE codes, in particular D35.22,
+F42.21 and H49.50 in accordance with the statistical classification of economic activities established by Regulation
+(EC) No 1893/2006.  
+Technical screening criteria  
+Substantial contribution to climate change mitigation  
+1. The activity consists in one of the following:
+(a) construction or operation of new transmission and distribution networks dedicated to hydrogen or other
+low-carbon gases;
+(b) conversion/repurposing of existing natural gas networks to 100 % hydrogen;
+(c) retrofit of gas transmission and distribution networks that enables the integration of hydrogen and other low-
+carbon gases in the network, including any gas transmission or distribution network activity that enables the
+increase of the blend of hydrogen or other low carbon gasses in the gas system;
+2. The activity includes leak detection and repair of existing gas pipelines and other network elements to
+reduce methane leakage.  
+Do no significant harm (‘DNSH’)  
+(2) Climate change adaptation  The activity complies with the criteria set out in Appendix A to this 
+Annex.  
+(3) Sustainable use and protection of
+water and marine resources  The activity complies with the criteria set out in Appendix B to this 
+Annex.  
+(4) Transition to a circular economy  N/A  
+(5) Pollution prevention and control  Fans, compressors, pumps and other equipment used which is covered by 
+Directive 2009/125/EC of the European Parliament and of the
+Council (  187  ) comply, where relevant, with the top class requirements of 
+the energy label, and with implementing regulations under that Directive
+and represent the best available technology.  
+(6) Protection and restoration of
+biodiversity and ecosystems  The activity complies with the criteria set out in Appendix D to this 
+Annex.  
+4.15.  District heating/cooling distribution  
+Description of the activity  
+Construction, refurbishment and operation of pipelines and associated infrastructure for distribution of heating
+and cooling, ending at the sub-station or heat exchanger.  
+___________  
+( 187  ) Directive 2009/125/EC of the European Parliament and of the Council of 21 October 2009 establishing a framework for the setti ng 
+of ecodesign requirements for energy-related products (OJ L 285, 31.10.2009, p. 10).EN  9.12.2021 Official Journal of the European Union L 442/79
+
+--- Page 80 of 349 ---

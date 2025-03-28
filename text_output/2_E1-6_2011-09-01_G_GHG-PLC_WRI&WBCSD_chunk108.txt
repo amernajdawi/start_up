@@ -1,0 +1,42 @@
+File Name: 2_E1-6_2011-09-01_G_GHG-PLC_WRI&WBCSD.pdf
+Converted on: 2025-03-28 03:20:53
+Original Size: 3.27 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 108 of 116
+--------------------------------------------------------------------------------
+
+[135]
+GlossaryGlobal warming potential  A factor used to calculate the cumulative radiative forcing impact of multiple specific  
+ (GWP)  GHGs in a comparable way.10
+Indirect land-use change  When the demand for a specific land use induces a carbon stock change on other lands.
+Insignificance threshold  The threshold below which a process, input, or output can be considered insignificant to 
+the studied product’s life cycle inventory.
+Intermediate products  Goods that are used as inputs to the production of other goods or services.
+Inventory report  The full reporting requirements, plus any optional information, reported publicly in 
+conformance with the Product Standard .
+Inventory results  The GHG impact of the studied product per unit of analysis. 
+Land use categories  Forest land, cropland, grassland, wetlands, settlements and other lands.11
+Land-use change  Occurs when the demand for a specific land use results in a change in carbon stocks 
+on that land, due to either a conversion from one land-use category to another or a
+conversion within a land-use category.
+Land-use change impacts  Emissions and removals due to land-use change.
+Level of assurance  The degree of confidence stakeholders can have over the information in the  
+inventory report.
+Life cycle  Consecutive and interlinked stages of a product system, from raw material acquisition or 
+generation of natural resources to end-of-life.
+Life cycle assessment  Compilation and evaluation of inputs, outputs and potential environmental impacts of a 
+product system throughout its lifecycle.12
+Life cycle stage  A useful categorization of the interconnected steps in a product’s life cycle for the 
+purposes of organizing processes, data collection, and inventory results.
+Material acquisition and  A life cycle stage that begins when resources are extracted from nature and ends when  
+ pre-processing stage  the product components enter the gate of the studied product’s production facility.
+Material misstatement  Individual or aggregate errors, omissions, and misrepresentations that significantly 
+impact the GHG inventory results and could influence a user’s decisions.
+Non-attributable processes  Processes and services, materials and energy flows are not directly connected to the 
+studied product because they do not become the product, make the product, or directly
+carry the product through its life cycle.
+
+--- Page 138 of 148 ---

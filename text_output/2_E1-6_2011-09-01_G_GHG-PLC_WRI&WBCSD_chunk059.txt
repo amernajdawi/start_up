@@ -1,0 +1,92 @@
+File Name: 2_E1-6_2011-09-01_G_GHG-PLC_WRI&WBCSD.pdf
+Converted on: 2025-03-28 03:20:53
+Original Size: 3.27 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 59 of 116
+--------------------------------------------------------------------------------
+
+[73]
+CHAPTER 09 Allocation
+guidancewaste  
+treatmentFigure [9.6] Example process map illustrating the recycled content method
+Recycled content method
+The recycled content method allocates the recycling
+process emissions and removals to the life cycle that
+uses the recycled material. The recycled content
+method can be used in open loop situations10 that
+include recycled material inputs and outputs. Figure
+9.6 illustrates a simplified process map for a product
+that uses the recycled content method11. The recycled
+content method is also referred to as the cut–off
+method or the 100-0 method.
+The following describes the calculation of the material
+acquisition and end-of-life stages using the recycled
+content method as illustrated in figure 9.6.
+Material acquisition and preprocessing stage:   
+All attributable processes due to virgin and recycled
+material acquisition and preprocessing. In figure 9.6 this
+includes virgin material preprocessing, virgin material
+acquisition, recycled material preprocessing, and material
+recovery facility.
+End-of-life:  All attributable processes due to end-of-life 
+treatment of waste material output. In figure 9.6 this
+includes collection and waste treatment.The recycled content method does not include
+attributable processes due to recovered material output.
+While a virgin material displacement factor is not included
+in this method, figure 9.6 does illustrate two potential
+benefits due to recycling in the studied product’s
+inventory: the reduction in the amount of waste entering
+waste treatment and the reduction of upstream virgin
+material acquisition. Reducing the amount of waste
+entering waste treatment reduces the GHG emissions
+from waste treatment in the end-of-life stage. Reducing
+upstream virgin material acquisition reduces the GHG
+emissions and removals from material acquisition if the
+recycling processes are less GHG intensive than virgin
+extraction. If this is not the case (e.g., recycling processes
+are more GHG intensive than virgin inputs), it is possible
+that using virgin inputs would result in a lower total
+product inventory than using recycled inputs. This  is 
+an example of when focusing on one impact category
+may drive companies to make product decisions that
+are desirable for one impact (e.g., GHG emissions)
+but unfavorable to another (e.g., material depletion).
+Companies are encouraged to consider all applicable
+environmental metrics before making reduction decisions,
+as discussed in chapter 14.material acquisition  
+& pre-processing         production       distribution  
+      & storageuse end-of-life 
+virgin  
+material  
+acquisitionvirgin  
+material  
+pre-  
+processing
+material
+recovery
+facility  
+(MRF)recycled  
+material  
+pre-  
+processingproduction
+processdistribution  
+processuse
+processcollection  
+processvirgin  
+material
+input
+recycled  
+material
+inputwaste  
+material
+output
+recovered
+material
+output
+attributable processesmovement of material
+through the lifecycle
+
+--- Page 76 of 148 ---

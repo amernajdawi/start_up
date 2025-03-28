@@ -1,0 +1,31 @@
+File Name: 2_E1-6_2004-03_G_GHG-Prot_WRI&WBCSD.pdf
+Converted on: 2025-03-28 03:18:16
+Original Size: 3.51 MB
+Chunk Size: 500 tokens with 50 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 186 of 225
+--------------------------------------------------------------------------------
+
+included in the analysis, which are not, and the
+rationale for the selections. Until consensus methodsare developed for characterizing impacts onsequestered atmospheric carbon along the value chain,this information can be included in the “optionalinformation” section of a GHG inventory compiledusing the
+GHG Protocol Corporate Standard.
+TRACKING REMOVALS OVER TIME
+As is sometimes the case with accounting for GHG emis-sions, base year data for impacts on sequestered carbonmay need to be averaged over multiple years to accom-modate the year-to-year variability expected of thesesystems. The temporal scale used in sequestered carbonaccounting will often be closely tied to the spatial scaleover which the accounting is done. The question of howto recalculate base years to account for land acquisitionand divestment, land use changes, and other activitiesalso needs to be addressed.
+IDENTIFYING AND CALCULATING GHG REMOVALS
+The GHG Protocol Corporate Standard does not include
+consensus methods for sequestered carbon quantifica-tion. Companies should, therefore, explain the methodsused. In some instances, quantification methods usedin national inventories can be adapted for corporate-level quantification of sequestered carbon. IPCC(1997; 2000b) provides useful information on how todo this.  In 2004, IPCC is expected to issue GoodPractice Guidance for Land Use, Land Use Changeand Forestry, with information on methods for quan-tification of sequestered carbon in forests and forestproducts.  Companies may also find it useful to consultthe methods used to prepare national inventories forthose countries where significant parts of theircompany’s value chain reside. 
+In addition, although corporate inventory accounting
+differs from project-based accounting (as discussedbelow), it may be possible to use some of the calculationand monitoring methods derived from project levelaccounting of sequestration projects.
+ACCOUNTING FOR REMOVAL ENHANCEMENTS
+A corporate inventory can be used to account for yearlyremovals within the corporate inventory boundary. In contrast, the forthcoming
+GHG Protocol Project Quantification Standard is designed to calculate project
+reductions that will be used as offsets, relative to a hypo-
+thetical baseline scenario for what would have happenedwithout the project. In the forestry sector, projects take theform of removal enhancements.
+Chapter 8 in this document addresses some of the issues
+that must be addressed when accounting for offsetsfrom GHG reduction projects. Much of this guidance isalso applicable to removal enhancement projects. One
+example is the issue of reversibility of removals — also
+briefly described in chapter 8.
+REPORTING GHG REMOVALS
+Until consensus methods are developed for character-

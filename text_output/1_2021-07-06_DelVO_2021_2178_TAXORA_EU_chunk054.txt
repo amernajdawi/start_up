@@ -1,0 +1,34 @@
+File Name: 1_2021-07-06_DelVO_2021_2178_TAXORA_EU.pdf
+Converted on: 2025-03-28 03:18:05
+Original Size: 10.30 MB
+Chunk Size: 500 tokens with 50 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 54 of 90
+--------------------------------------------------------------------------------
+
+Second step = (1)(c)/(1)(b). Credit institutions shall disclose separately the part of the KPI that refers to enabling activities,
+when relevant.
+GAR L&A (for each environmental objective) = (1)(c)/(1)(a). Credit institutions shall disclose the GAR based on
+turnover KPI and separately the part of the KPI that refers to enabling and transitional activities, where relevant.
+The following aspects of the KPIs shall be disclosed:(a) in terms of stock, based on the total gross carrying amount of loans and advances as of the disclosure reference date;
+(b) in terms of flow, based on the gross carrying amount of new loans and advances during the year prior to the disclosure
+reference date;
+(c) with a separate breakdown for enabling and for transitional and adaptation activities, and for specialised lending.
+(ii) GAR for debt securities to non-financial undertakings (‘GAR DS’)
+Credit institutions shall calculate and disclose the following items for the calculation of the GAR for this type of exposures:
+(2)(a) Total debt securities of non-financial undertakings, including the gross carrying amount of debt securities at
+amortised cost and at fair value through other comprehensive income, and debt securities not held for trading at
+fair value through profit or loss;
+(2)(b) Debt securities of non-financial undertakings financing Taxonomy-eligible economic activities for each
+environmental objective, including the gross carrying amount of debt securities in the relevant accounting
+categories towards companies carrying out taxonomy-eligible economic activities (where available 4 level NACE
+codes)
+(2)(c) Debt securities to relevant entities financing taxonomy-aligned economic activities, including all debt securities
+financing taxonomy-aligned economic activities, including transitional and enabling activities.
+The amount for the purposes of (2)(c) shall be calculated by using the following formula:
+2(c) = (2)(c)(1) + (2)(c)(2) where:
+(2)(c)(1) represents debt securities where the use of proceeds is known;
+(2)(c)(2) represents debt securities where the use of proceeds is not known.
+For the purposes of point 2(c)(1), credit institutions shall consider the following:(2)(c)(1)(a) Credit institutions shall consider the total gross carrying amount of exposures to environmentally sustainable

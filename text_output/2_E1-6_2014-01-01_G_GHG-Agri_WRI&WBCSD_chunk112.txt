@@ -1,0 +1,33 @@
+File Name: 2_E1-6_2014-01-01_G_GHG-Agri_WRI&WBCSD.pdf
+Converted on: 2025-03-28 01:56:31
+Original Size: 1.75 MB
+Chunk Size: 400 tokens with 50 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 112 of 150
+--------------------------------------------------------------------------------
+
+. Companies may find it simpler to use a country - specific classification system shoul d their operations occu r within a single country . Companies with agricultural operations in multiple countries may instead find it - - - Page 73 of 103 - - - GHG Protocol Agricultural Guidance
+
+73
+ easier to use internationally  recognized classification systems (e.g., the EU’s CORINE 
+system). A simplified set of land use categories is shown below.    LUC occurs when land is converted fr om one land use category to another
+13; for instance,
+when cropland is converted to grassland or when forests are converted to cropland. On
+occasion, the same area of land might be used  to support multiple agricultural activities 
+and so meet the definitions for different land-use categories. For instance, savannah
+woodland might be used both to graze livesto ck and as a source of wood fuel. In such
+cases, companies should categorize the land based on the agricultural activity that is economically most important .  
+
+Land use
+category Definition
+Forest land An area of high concentra tion of woody biomass. Typically defined
+on the basis of a minimum tree height and canopy cover. Forests lands include plantations, primary fo rests, and naturally regenerated
+forests with evidence of human intervention   
+Cropland Includes rice fields and agro-forestry systems.
+Grassland Managed grasslands , rangelands, pasture land.
+Wetland Areas of peat extraction and land that is covered or saturated by water
+for all or part of the year (e.g., pe atlands) and that does not fall into
+other categories.
+Settlements All developed land (e.g., roads, buildings, etc.).

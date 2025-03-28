@@ -1,0 +1,58 @@
+File Name: 2_E1-6_2011-09-01_G_GHG-PLC_WRI&WBCSD.pdf
+Converted on: 2025-03-28 03:18:25
+Original Size: 3.27 MB
+Chunk Size: 500 tokens with 50 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 207 of 226
+--------------------------------------------------------------------------------
+
+[130]   Product Life Cycle Accounting and Reporting Standard
+Table [C.2] Recommended quality assurance/quality control procedures
+Activity Procedure
+Data collection, input,  
+and handling activities
+• Transcription errors  
+in data collection • Check a sample of input data in each process for transcription errors
+• Uncertainty  
+estimates• Check that the calculated uncertainties are complete and calculated correctly
+Data documentation
+• Transcription errors  
+in references
+and storage of all
+references used• Confirm that bibliographical data in references are properly cited.
+• Ensure that all relevant references are archived
+• Storing information  
+on inventory
+methodology, data,  
+and data quality• Check that inventory boundary, base inventory (if relevant), GHGs included,
+allocation methodology uses, data sources, and any relevant assumptions are
+documented and archived
+• Check that all data quality indicators are described, documented, and archived for
+each process
+• Check for consistency in emissions sources and data sources to similar product
+inventories
+• Recording parameter  
+and unit information• Check that all units are appropriately labeled in calculation sheets
+• Check that all units are correctly transferred through all calculations and
+aggregation of emissions in all processes
+• Check that conversion factors are correct
+• Check any temporal or spatial adjustment factors are appropriate and correctly used
+• Recording calculation
+methodologies• Check that all calculation methodologies are documented
+• Check that any changes to calculation methodologies are documented
+• Database/calculation
+sheet integrity• Ensure all fields and their units are labeled in database/calculation sheet
+• Ensure the database/calculation sheet is documented and the structure and
+operating details of the database/calculations sheets are archived
+• Review of internal
+documentation and
+archiving• Check there is sufficient internal documentation to support the estimates and
+enable the reproduction of the emissions and data quality assessment, and
+uncertainty estimations
+• Check that all data, supporting data and records are archived and stored to
+facilitate a detailed review
+• Check that the archive is securely stored
+
+--- Page 133 of 148 ---

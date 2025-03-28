@@ -1,0 +1,44 @@
+File Name: 1_2023-07-31_DelVO_2023_2772_ESRS_EU.pdf
+Converted on: 2025-03-28 03:20:41
+Original Size: 5.82 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 189 of 284
+--------------------------------------------------------------------------------
+
+ELI: http://data.europa.eu/eli/reg_del/2023/2772/oj 190/284AR 56. The definitions of permanent, temporary, non-guaranteed hours, full-time, and part-time employees differ
+between countries. If the undertaking has employees in more than one country, it shall use the definitions as per
+the national laws of the countries where the employees are based to calculate country-level data. The country-
+level data shall then be added up to calculate total numbers, disregarding differences in national legal definitions.
+Non-guaranteed hours employees are employed by the undertaking without a guarantee of a minimum or fixed
+number of working hours. The employee may need to make themselves available for work as required, but the undertaking is not contractually obliged to offer the employee a minimum or fixed number of working hours
+per day, week, or month. Casual employees, employees with zero-hour contracts, and on-call employees are
+examples that fall under this category.
+AR 57. Disclosing the number of employees at the end of the reporting period provides information for that point in
+time, without capturing fluctuations during the reporting period. Disclosing these numbers in averages across the reporting period takes into account fluctuations during the reporting period.
+AR 58. Quantitative data, such as the number of temporary or part-time employees, is unlikely to be sufficient on its
+own. For example, a high proportion of temporary or part-time employees could indicate a lack of employment security for employees, but it could equally signal workplace flexibility when offered as a voluntary choice. For
+this reason, the undertaking is required to disclose contextual information to help information users interpret
+the data. The undertaking can explain the reasons for temporary employment. An example of such a reason is
+the recruitment of employees to undertake work on a temporary or seasonal project or event. Another example
+is the standard practice of offering a temporary contract (for example, six months) to new employees before an
+offer of permanent employment is made. The undertaking may also explain the reasons for non-guaranteed
+hours employment.
+AR 59. For the own employee turnover calculation, the undertaking shall calculate the aggregate of the number of
+employees who leave voluntarily or due to dismissal, retirement, or death in service. The undertaking shall use
+this number for the numerator of the employee turnover rate and may determine the denominator used to calculate this rate and describe its methodology.
+AR 60. Where data is not available for detailed information, the undertaking shall use an estimation of the employee
+number or ratios, in accordance with ESRS 1, and clearly identify where the use of estimates has taken place.
+Disclosure Requirement S1-7 – Characteristics of non-employees in the undertaking’s own workforce
+AR 61. This Disclosure Requirement provides insight into the undertaking’s approach to employment, as well as the
+scope and nature of impacts arising from its employment practices. It also provides contextual information that
+aids an understanding of the information reported in other disclosures. This disclosure covers both individual contractors supplying labour to the undertaking (“self-employed people”) and workers provided by undertakings
+primarily engaged in “employment activities” (NACE Code N78). If all the people performing work for the
+undertaking are employees and the undertaking does not have any people in its workforce who are not
+employees, this Disclosure Requirement is not material for the undertaking; notwithstanding, the undertaking may state this fact when disclosing the information required by Disclosure Requirement S1-6 as contextual information as this information can be relevant for the users of the Sustainability Statement.
+AR 62. Examples of contractors (self-employed people) in the undertaking’s own workforce include: contractors hired by
+the undertaking to perform work that would otherwise be carried out by an employee; contractors hired by the undertaking to perform work in a public area (for example, on a road, on the street); and contractors hired by
+the undertaking to deliver the work/service directly at the workplace of a client of the organization. Examples of
+people employed by a third party engaged in ‘employment activities’ whose work is under the direction of the

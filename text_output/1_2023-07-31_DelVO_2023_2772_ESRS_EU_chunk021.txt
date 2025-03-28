@@ -1,0 +1,57 @@
+File Name: 1_2023-07-31_DelVO_2023_2772_ESRS_EU.pdf
+Converted on: 2025-03-28 03:20:41
+Original Size: 5.82 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 21 of 284
+--------------------------------------------------------------------------------
+
+ELI: http://data.europa.eu/eli/reg_del/2023/2772/oj 19/284(b) whether the inclusion of quantitative measures of anticipated financial effects is appropriate, taking into
+account the number of assumptions that it could require and consequential uncertainty.
+8. Structure of the sustainability statement
+110. This chapter provides the basis for the presentation of the information about sustainability matters prepared in
+compliance with Articles 19a and 29a of Directive 2013/34/EU (i.e., the sustainability statement
+) within the
+undertaking’s management report. Such information is presented in a dedicated section of the management report
+identified as the sustainability statement. Appendix F Example of structure of ESRS sustainability statement of this
+Standard provides an illustrative example of a sustainability statement structured according to the requirements of
+this chapter.
+8.1 General presentation requirement
+111. Sustainability information shall be presented:
+(a) in a way that allows a distinction between information required by disclosures in ESRS and other information
+included in the management report; and
+(b) under a structure that facilitates access to and understanding of the sustainability statement, in a format that is
+both human-readable and machine-readable.
+8.2 Content and structure of the sustainability statement
+112. Except for the possibility to incorporate information by reference in accordance with section 9.1 Incorporation by
+reference of this Standard, the undertaking shall report all the applicable disclosures required by ESRS in accordance
+with chapter 1 of this Standard, within a dedicated section of the management report.
+113. The undertaking shall include in its sustainability statement the disclosures pursuant to Article 8 of Regulation
+(EU) 2020/852 of the European Parliament and the Council (8)and to the Commission Delegated Regulations that
+specify the content and other modalities of those disclosures. The undertaking shall ensure that these disclosures are
+separately identifiable within the sustainability statement. The disclosures relating to each of the environmental
+objectives defined in the Taxonomy Regulation shall be presented together in a clearly identifiable part of the
+environmental section of the sustainability statement. These disclosures are not subject to the provisions of ESRS,
+with the exception of this paragraph and the first sentence of paragraph 115 of this standard.
+114. When the undertaking includes in its sustainability statement additional disclosures stemming from (i) other
+legislation which requires the undertaking to disclose sustainability information, or (ii) generally accepted
+sustainability reporting standards and frameworks, including non-mandatory guidance and sector-specific guidance,
+published by other standard-setting bodies (such as technical material issued by the International Sustainability
+Standards Board or the Global Reporting Initiative), such disclosures shall:
+(a) be clearly identified with an appropriate reference to the related legislation, standard or framework (see ESRS 2
+BP-2, paragraph 15);
+(b) meet the requirements for qualitative characteristics of information specified in chapter 2 and Appendix B of this
+standard.
+115. The undertaking shall structure its sustainability statement in four parts, in the following order: general
+information, environmental information (including disclosures pursuant to Article 8 of Regulation (EU) 2020/852),
+social information and governance information. Respecting the provision in section 3.6 Material impacts or risks
+arising from actions to address sustainability matters of this Standard, when information provided in one part contains
+information to be reported in another part, the undertaking may refer in one part to information presented in
+another part, avoiding duplications. The undertaking may apply the detailed structure illustrated in Appendix F of
+this Standard.
+(8)Regulation (EU) 2020/852 of the European Parliament and of the Council of 18 June 2020 on the establishment of a framework to
+facilitate sustainable investment, and amending Regulation (EU) 2019/2088 (OJ L 198, 22.6.2020, p. 13).OJ L, 22.12.2023 EN  
+
+--- Page 20 of 284 ---

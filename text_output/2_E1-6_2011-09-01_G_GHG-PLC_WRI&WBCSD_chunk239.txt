@@ -1,0 +1,58 @@
+File Name: 2_E1-6_2011-09-01_G_GHG-PLC_WRI&WBCSD.pdf
+Converted on: 2025-03-28 01:56:27
+Original Size: 3.27 MB
+Chunk Size: 400 tokens with 50 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 239 of 270
+--------------------------------------------------------------------------------
+
+[127]
+The process of setting up a data management system
+should involve establishing standard procedures to
+address all of the data management activities, including
+the quality control and quality assurance aspects of
+developing a product inventory.
+C.2 Creating a data management plan
+To develop a data management plan, the following steps
+should be undertaken and documented.
+1. Establish a product accounting quality person/
+team. This person/team should be responsible for
+implementing and maintaining the data management
+plan, continually improving the quality of product
+inventories, and coordinating internal data exchanges
+and any external interactions (such as with relevant
+product accounting programs and assurance
+providers). The person/team may be responsible for all
+product inventories undertaken by a company or for
+an individual product inventory.
+2. Develop a data management plan. For publicly-
+disclosed product inventories, the plan should cover
+the components outlined in the section above (also
+see table C.1) Documenting this information should
+assist with completing repeat product inventories and
+assessing and improving the quality of the current
+product inventory.   
+Development of the data management plan
+should begin before any data is collected to ensure
+all relevant information about the inventory is
+documented as it proceeds. The plan should evolve
+over time as data collection and processes are refined.
+3. Perform generic data quality checks based on
+the data management plan.  Generic checks 
+should be applied to all aspects of the inventory
+process, focusing on data quality, data handling,
+documentation, and calculation procedures.
+4. Perform specific data quality checks.  Specific checks 
+are more in-depth than generic and should be made
+for those sources, processes, and/or activities that
+are major contributors to the product inventory and/
+or have high levels of uncertainty (see chapter 10 on
+assessing uncertainty).5. Review final product inventory and reports. Review
+procedures should be established that match the
+purpose of the inventory and the type of assurance
+performed. Internal reviews should be undertaken
+in preparation for the assurance process by the
+appropriate department within a company, such as  
+an internal audit or accounting department.

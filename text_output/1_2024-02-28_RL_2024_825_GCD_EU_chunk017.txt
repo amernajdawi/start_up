@@ -1,0 +1,47 @@
+File Name: 1_2024-02-28_RL_2024_825_GCD_EU.pdf
+Converted on: 2025-03-28 03:20:42
+Original Size: 0.61 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 17 of 34
+--------------------------------------------------------------------------------
+
+ELI: http://data.europa.eu/eli/dir/2024/825/oj 6/16(18) Software updat es that are secur ity updat es are necessar y for the secure use of the product while updat es relat ed to
+enhancing functionality features are not. Theref ore, Directive 2005/29/EC should prohibit the presentation of a
+software update as necessar y to keep the product in conf ormity where that updat e only enhances functionality
+features.
+(19) Commercial communications for goods that contain a feature introduced to limit their durability is a commercial
+practice that is detr imental to consumers and the environment as they encourage the sale of such goods whic h leads
+to higher costs for consumers and unnecessar y use of resources, waste production and greenhouse gas emissions.
+Such commercial communications should theref ore be prohibit ed when information on the feature and its effects
+on the durability of the good are available to the trader . Examples of such features could be software which stops or
+down grades the functionality of the good after a particular period, or a piece of hardware which is designed to fail
+after a particular period. It could also be a design or manufactur ing flaw which , although not introduced as a
+feature for that purpose, leads to the premature failure of the good, if it is not fixed once information about the
+existen ce and effect of the feature has become available to the trader . In the conte xt of that prohibition, commercial
+communications include communications designed to promote, directly or indirectly , the goods. The manufact uring
+of goods and making them available on the mark et do not constitute commercial communications. That prohibition
+should aim to cover mainly traders who are also the producers of the goods, as it is they who determi ne the
+durability of the goods.
+Theref ore, in general, when a good is identif ied as containing a feature to limit the durability , the producer of that
+good should be expected to be aware of that feature and its effect on the durability of that good. Never theless,
+traders who are not the producers of the goods, such as the sellers, should be target ed by that prohibition where
+reliable information is available to them about the feature and its effects on durability , such as a statement from a
+compet ent national author ity or information provided by the producer . Theref ore, as soon as such information is
+available to the trader , the prohibition should apply irrespective of whether the trader is actually aware or unawa re
+of that information, for exam ple by neglecting it. For such a commercial practice to be considered unfair, it should
+not be necessar y to demonstrate that the purpose of the feature is to stimulate the replacement of the respective
+good, but it would be suffi cient to prove that the feature has been introduced to limit the durability of the good.
+This prohibition complements and does not affect the remedies available to consumers in the event of a lack of
+conf ormity under Directive (EU) 2019/771. The use of features limiting the durability of the goods should be
+distinguished from manuf actur ing practices using mater ials or processes of general low quality resulting in limited
+durability of the goods. Lack of conf ormity of a good resulting from the use of low quality mater ials or processes
+should continue to be governed by the rules on the conf ormity of goods set out in Directive (EU) 2019/771.
+(20) Another practice which should be prohibit ed under Annex I to Directive 2005/29/EC is the practice of falsel y
+claiming that a good has a certain durability in term s of usage time or intensity under normal conditions of use.
+That would be the case, for instance, if a trader informs consumers that a washing machine is expect ed to last a
+certain number of washing cycles, in accordance with normal expecte d use indicate d in the instr uctions, while the
+actual use of the washing machi ne under the prescr ibed conditions shows that is not the case. Such claims are
+largely made by the producers, as it is they who determine the durability of the goods. Theref ore, in general, traders

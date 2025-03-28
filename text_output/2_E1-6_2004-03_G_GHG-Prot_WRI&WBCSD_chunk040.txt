@@ -1,0 +1,33 @@
+File Name: 2_E1-6_2004-03_G_GHG-Prot_WRI&WBCSD.pdf
+Converted on: 2025-03-28 03:20:43
+Original Size: 3.51 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 40 of 104
+--------------------------------------------------------------------------------
+
+In the automated worksheet section, it is only necessary
+to insert activity data into the worksheets and to selectan appropriate emission factor or factors. Default emis-sion factors are provided for the sectors covered, but it isalso possible to insert customized emission factors thatare more representative of the reporting company’s oper-ations. The emissions of each GHG (CO
+2, CH4, N2O, etc.)
+are calculated separately and then converted to CO2
+equivalents on the basis of their global warming potential.
+Some tools, such as the iron and steel sector tool and the
+HFC cross-sector tool, take a tiered approach, offering achoice between a simple and a more advanced calculationmethodology. The more advanced methods are expectedto produce more accurate emissions estimates but usuallyrequire collection of more detailed data and a morethorough understanding of a company’s technologies.
+Roll-up GHG emissions data to corporate level
+To report a corporation’s total GHG emissions, compa-nies will usually need to gather and summarize datafrom multiple facilities, possibly in different countriesand business divisions. It is important to plan thisprocess carefully to minimize the reporting burden,reduce the risk of errors that might occur whilecompiling data, and ensure that all facilities arecollecting information on an approved, consistent basis.Ideally, corporations will integrate GHG reporting withtheir existing reporting tools and processes, and takeadvantage of any relevant data already collected andreported by facilities to division or corporate offices,regulators or other stakeholders.
+The tools and processes chosen to report data will
+depend upon the information and communication infra-structure already in place (i.e., how easy is it to includenew data categories in corporate databases). It will alsodepend upon the amount of detail that corporate head-quarters wishes to be reported from facilities. Datacollection and management tools could include:
+Secure databases available over the company intranet
+or internet, for direct data entry by facilities
+Spreadsheet templates filled out and e-mailed to a corpo-
+rate or division office, where data is processed further
+Paper reporting forms faxed to a corporate or division
+office where data is re-entered in a corporate data-base. However, this method may increase thelikelihood of errors if there are not sufficient checks inplace to ensure the accurate transfer of the data.For internal reporting up to the corporate level, it is
+recommended that standardized reporting formats be used to ensure that data received from differentbusiness units and facilities is comparable, and thatinternal reporting rules are observed (see BP casestudy). Standardized formats can significantly reducethe risk of errors.CHAPTER 6 Identifying and Calculating GHG Emissions 45GUIDANCEBP, a global energy company, has been collecting GHG data fromthe different parts of its operations since 1997 and has consoli-dated its internal reporting processes into one central databasesystem. The responsibility for reporting environmental emissionslies with about 320 individual BP facilities and business depart-ments, which are termed “reporting units.” All reporting units haveto complete a standard Excel pro-forma spreadsheet every quarter,stating actual emissions for the preceding three months andupdates to forecasts for the current year and the next two years. Inaddition, reporting units are asked to account for all significantvariances, including sustainable reductions. The reporting units alluse the same BP GHG Reporting Guidelines “Protocol” (BP, 2000)for quantifying their emissions of carbon dioxide and methane.
+All pro-forma spreadsheets are e-mailed automatically by the
+central database to the reporting units, and the completed e-mailreturns are uploaded into the database by a corporate team, whocheck the quality of the incoming data. The data are then compiled,by the end of the month following each quarter end, to provide thetotal emission inventory and forecasts for analysis against BP’sGHG target. Finally, the inventory is reviewed by a team of inde-pendent external auditors to provide assurance on the quality andaccuracy of the data.BP: A standardized system
+for internal reporting of GHGs
+
+--- Page 48 of 116 ---

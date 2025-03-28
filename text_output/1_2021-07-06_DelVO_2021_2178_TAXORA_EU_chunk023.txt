@@ -1,0 +1,67 @@
+File Name: 1_2021-07-06_DelVO_2021_2178_TAXORA_EU.pdf
+Converted on: 2025-03-28 03:20:32
+Original Size: 10.30 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 23 of 47
+--------------------------------------------------------------------------------
+
+ANNEX IV
+TEMPLATE FOR THE KPI OF ASSET MANAGERS
+Standard template for the disclosure required under Article 8 of Regulation (EU) 2020/852 (asset managers)
+The weighted average value of all the investments that are directed
+at funding, or are associated with taxonomy-aligned economic
+activities relative to the value of total assets covered by the
+KPI, with following weights for investments in undertakings per
+below:
+Turnover-based: %
+CapEx—based: %The weighted average value of all the investments that
+are directed at funding, or are associated with
+taxonomy-aligned economic activities, with following
+weights for investments in undertakings per below:
+Turnover-based: [monetary amount]
+CapEx-based: [monetary amount]
+The percentage of assets covered by the KPI relative to total
+investments (total AuM). Excluding investments in sovereign
+entities, Coverage ratio: %The monetary value of assets covered by the KPI.
+Excluding investments in sovereign entities.
+Coverage: [monetary amount]
+Additional, complementary disclosures: breakdown of denominator of the KPI
+The percentage of derivatives relative to total assets covered by the
+KPI.
+X %The value in monetary amounts of derivatives:.
+[monetary amount]
+The proportion of exposures to EU financial and non-financial
+undertakings not subject to Articles 19a and 29a of Directive  2013/34/EU over total assets covered by the KPI:
+For non-financial undertakings:For financial undertakings:Value of exposures to EU financial and non-financial
+undertakings not subject to Articles 19a and 29a of Directive 2013/34/EU:
+For non-financial undertakings: [monetary amount]
+For financial undertakings: [monetary amount]
+The proportion of exposures to financial and non-financial
+undertakings from non-EU countries not subject to Articles 19a and 29a of Directive 2013/34/EU over total assets covered
+by the KPI:For non-financial undertakings:
+For financial undertakings:Value of exposures to financial and non-financial
+undertakings from non-EU countries not subject to
+Articles 19a and 29a of Directive 2013/34/EU:
+For non-financial undertakings: [monetary amount]
+For financial undertakings: [monetary amount]
+The proportion of exposures to financial and non-financial
+undertakings subject to Articles 19a and 29a of Directive  2013/34/EU over total assets covered by the KPI:
+For non-financial undertakings:For financial undertakings:Value of exposures to financial and non-financial
+undertakings subject to Articles 19a and 29a of Directive 2013/34/EU:
+For non-financial undertakings: [monetary amount]
+For financial undertakings: [monetary amount]
+The proportion of exposures to other counterparties over total
+assets covered by the KPI:
+X %Value of exposures to other counterparties:
+[monetary amount]
+The value of all the investments that are funding economic
+activities that are not taxonomy-eligible relative to the value of
+total assets covered by the KPI:
+X %Value of all the investments that are funding economic
+activities that are not taxonomy-eligible:
+[monetary amount]EN Official Journal of the European Union 10.12.2021 L 443/35  
+
+--- Page 28 of 59 ---

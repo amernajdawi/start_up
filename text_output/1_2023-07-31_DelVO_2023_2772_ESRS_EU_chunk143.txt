@@ -1,0 +1,52 @@
+File Name: 1_2023-07-31_DelVO_2023_2772_ESRS_EU.pdf
+Converted on: 2025-03-28 03:20:41
+Original Size: 5.82 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 143 of 284
+--------------------------------------------------------------------------------
+
+ELI: http://data.europa.eu/eli/reg_del/2023/2772/oj 146/284Site locationThreatened species,
+protected areas, key
+biodiversity areasActual or potential impacts
+……Frequency of
+occurrenceSpeed of impactSeverity of impact Potential for mitigation
+…
+…High, medium or low<1 year or
+1-3 years
+or >3 yearsHigh, medium or
+lowHigh, medium or low
+… … … … … …
+With regard to AR 7(e), the undertaking may consider using the table below:
+Where are the raw materials produced or
+sourced from?Absolute weight of raw materials (and
+percentage of the raw material weight)
+In areas with species listed on the IUCN Red List of Threatened Species, the Birds
+and Habitats
+Directive or on national lists of threated species…
+In officially recognised protected Areas …
+In other Key Biodiversity Areas …
+Disclosure Requirement E4-2 – Policies related to biodiversity and ecosystems
+AR 11. The policies described under this Disclosure Requirement may be integrated in broader environmental or
+sustainability policies covering different subtopics.
+AR 12. The undertaking may also provide information on how the policy refers to the production, sourcing or
+consumption of raw materials, and in particular how it:
+(a) limits procurement from suppliers that cannot demonstrate that they are not contributing to significant
+damage to protected areas or key biodiversity areas (e.g., through certification);
+(b) refers to recognised standards or third-party certifications overseen by regulators; and
+(c) addresses raw materials originating from ecosystems that have been managed to maintain or enhance
+conditions for biodiversity, as demonstrated by regular monitoring and reporting of biodiversity status and
+gains or losses.
+AR 13. The undertaking may disclose connections and alignment with other global goals and agreements such as the
+SDGs 2, 6, 14 and 15 or any other well established global convention related to biodiversity and ecosystems.
+AR 14. When disclosing policies related to social consequences of biodiversity and ecosystems related dependencies and
+impacts under 23 (f), the undertaking may notably refer to the Nagoya Protocol and the Convention for Biological
+Diversity (CBD).
+AR 15. When disclosing information about whether and how its policies address the social consequences of biodiversity
+and ecosystems-related impacts under paragraph 23(f), the undertaking may provide information in relation to:
+(a) the fair and equitable sharing of the benefits arising from the utilisation of genetic resources; and
+(b) the free, prior and informed consent for access to genetic resources.OJ L, 22.12.2023 EN  
+
+--- Page 147 of 284 ---

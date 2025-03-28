@@ -1,0 +1,60 @@
+File Name: 2_E1-6_2014-01-01_G_GHG-Agri_WRI&WBCSD.pdf
+Converted on: 2025-03-28 03:20:54
+Original Size: 1.75 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 43 of 65
+--------------------------------------------------------------------------------
+
+ta ke decades to reach equilibrium following a change in farm management or land use . Th ese special features of agriculture have important implications for whether and how C stocks should be included within GHG inventories . This chapter :  Describes how changes in C stocks should be reported in terms of CO 2 fluxes .  Describes the types of CO 2 fluxes that should / s hould not be included in inventories .  Describes how the CO 2 fluxes from long - term changes in C stocks can be spread over multiple reporting periods .
+
+Summary of requirements and main recommendations:
+ Companies should report the net CO 2 fluxes (in tonnes CO 2) to/from organic C
+stocks in mineral/organic soils and above-ground and below-ground woody
+biomass, as well as the CO 2 emissions from DOM and biomass combustion.
+ Natural disturbances, Payments for Environmental Services (PESs), and
+conservation areas should be accounted fo r equivalently to other agricultural
+activities.
+ Companies should use peer -reviewed methods for CO 2 flux calculations.
+ When relevant, companies should amortize changes in C stocks evenly over time
+using a fixed-rate approach.
+ Companies should account for historical changes in land use or management
+occurring on or afte r the base period.
+8.1 Including flux and stock data in inventories  
+
+Companies  should report net CO 2 flux data 
+Because of the reversibility of C stocks, cha nges to C stocks can be quantified using data
+on:
+ Stock size, when measured in units of mass of C (e.g., metric tonnes C/ha) at two
+points in time; or
+ The net balance of CO 2 emissions and CO 2 removals (‘net fluxes’) to or from a
+stock, measured in units of mass of CO 2.
+
+Both approaches are equally valid. Under ei ther, companies should take care to use
+methods that treat soil depth consistently, particularly in the context of LUC. For
+instance, reference stock values might be available for soil C stocks in forest and
+
+--- Page 61 of 103 ---
+
+GHG Protocol Agricultural Guidance
+
+61
+cropland - if these are not de fined to a consistent depth10, some of the estimated stock
+difference will reflect methodological differe nces rather than actual variation.
+While companies should report net CO
+2 flux data, they may also report data on stock size
+(when available) to provide us eful context for interpreting inventory results. Stock size
+data can be converted to net flux data by multiplying the mass of stock change by ସସ
+ଵଶ,
+which is the ratio of th e molecular weights of CO 2 and elemental carbon.  
+
+Companies  should use peer-reviewed methods for CO 2 flux calculations 
+This Guidance does not prescribe speci fic methodologies for calculating the CO 2 fluxes
+to/from C stocks. Any of the general approach es detailed in Chapter 7.3 may be used, as
+long as the underlying methodology has been scientifically vetted (i.e., has undergone
+peer review). Appendix III lists many, scie ntifically published and well established
+calculation tools for estimating CO 2 fluxes.   
+
+8.2 Reporting recommendations for different C stocks

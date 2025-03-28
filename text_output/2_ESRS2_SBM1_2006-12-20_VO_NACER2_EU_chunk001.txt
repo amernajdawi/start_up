@@ -1,0 +1,68 @@
+File Name: 2_ESRS2_SBM1_2006-12-20_VO_NACER2_EU.pdf
+Converted on: 2025-03-28 03:20:56
+Original Size: 0.17 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 1 of 45
+--------------------------------------------------------------------------------
+
+--- Page 1 of 39 ---
+
+I
+(Acts whose publication is obligatory)
+REGULATION (EC) No 1893/2006 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL
+of 20 December 2006
+establishing the statistical classification of economic activities NACE Revision 2 and amending
+Council Regulation (EEC) No 3037/90 as well as certain EC Regulations on specific statistical domains
+(Text with EEA relevance)
+THE EUROPEAN PARLIAMENT AND THE COUNCIL OF THE
+EUROPEAN UNION,
+Having regard to the Treaty establishing the European Commu-
+nity, and in particular Article 285(1) thereof,
+Having regard to the proposal from the Commission,
+Having regard to the opinion of the European Central Bank (1),
+Acting in accordance with the procedure laid down in Article 251
+of the Treaty (2),
+Whereas:
+(1) Council Regulation (EEC) No 3037/90 (3) established the
+statistical classification of economic activities in the
+European Community (hereinafter referred to as ‘NACE
+Rev. 1’ or‘NACE Rev. 1.1’).
+(2) In order to reflect the technological development and
+structural changes of the economy, an up-to-date classifica-
+tion, called NACE Revision 2, should be established(hereinafter referred to as ‘NACE Rev. 2’).
+(3) An up-to-date classification such as NACE Rev. 2 is central
+to the Commission's ongoing efforts to modernise the
+production of Community statistics; it is expected tocontribute, through more comparable and relevant data, tobetter economic governance at both Community andnational level.
+(4) In order to function, the internal market requires statistical
+standards applicable to the collection, transmission and
+publication of national and Community statistics so thatbusinesses, financial institutions, governments and all otheroperators in the internal market can have access to reliableand comparable statistical data. To this end, it is vital thatthe various categories for classifying activities in theCommunity be interpreted uniformly in all the Member
+States.
+(5) Reliable and comparable statistics are necessary to enable
+businesses to assess their competitiveness, and are useful to
+the Community institutions in preventing distortions ofcompetition.
+(6) The establishment of a revised common statistical classifi-
+cation of economic activities does not oblige Member States
+to collect, publish or supply data. Only if the Member Statesuse activity classifications linked to the Communityclassification is it possible to provide integrated informationwith the reliability, speed, flexibility and degree of detailrequired for the management of the internal market.
+(7) Provision should be made for the Member States to be able,
+in order to meet national requirements, to integrate into
+their national classifications additional categories based onthe statistical classification of economic activities in theCommunity.
+(8) The international comparability of economic statistics
+requires that the Member States and the Community
+institutions use classifications of economic activities whichare directly linked to the International Standard IndustrialClassification of all economic activities (ISIC) Rev. 4, asadopted by the Statistical Commission of the UnitedNations.
+(9) Use of the classification of economic activities in the
+Community requires that the Commission be assisted by
+the Statistical Programme Committee set up by Coun-cil Decision 89/382/EEC, Euratom (
+4) in particular as
+regards: the examination of problems arising fromimplementation of NACE Rev. 2; ensuring a fullycoordinated transition from NACE Rev. 1 to NACE Rev. 2;and, the preparation of future amendments to NACE Rev. 2.30.12.2006 EN Official Journal of the European Union L 393/1
+(1) OJ C 79, 1.4.2006, p. 31.
+(2) Opinion of the European Parliament of 12 October 2006 (not yet
+published in the Official Journal) and the Council Decision of19 December 2006.
+(
+3) OJ L 293, 24.10.1990, p. 1. Regulation as last amended by
+Regulation (EC) No 1882/2003 of the European Parliament and ofthe Council (OJ L 284, 31.10.2003, p. 1.).
+(4) OJ L 181, 28.6.1989, p. 47.
+
+--- Page 2 of 39 ---

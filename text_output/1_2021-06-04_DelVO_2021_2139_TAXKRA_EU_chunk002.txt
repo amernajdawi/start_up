@@ -1,0 +1,56 @@
+File Name: 1_2021-06-04_DelVO_2021_2139_TAXKRA_EU.pdf
+Converted on: 2025-03-28 03:20:30
+Original Size: 2.76 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 2 of 447
+--------------------------------------------------------------------------------
+
+(4)  The technical screening criteria for determining whether an economic activity contributes substantially to climate 
+change mitigation or climate change adaptation should ensure that the economic activity makes a positive impact
+on the climate objective or reduces negative impact on the climate objective. Those technical screening criteria
+should therefore refer to thresholds or performance levels that the economic activity should achieve in order to
+qualify as contributing substantially to one of those climate objectives. The technical screening criteria for ‘do no
+significant harm’ should ensure that the economic activity has no significant negative environmental impact.
+Consequently, those technical screening criteria should specify the minimum requirements that the economic
+activity should meet in order to qualify as environmentally sustainable.  
+(5)  The technical screening criteria for determining whether an economic activity contributes substantially to climate 
+change mitigation or climate change adaptation and does no significant harm to any of the environmental
+objectives should build, where relevant, on existing Union law, best practices, standards and methodologies, as
+well as on well-established standards, practices and methodologies developed by internationally reputed public
+entities. Where objectively there are no viable alternatives for a specific policy area, the technical screening criteria
+could also build on well-established standards developed by internationally reputed private bodies.  
+(6)  In order to ensure a level playing field, the same categories of economic activities should be subject to the same 
+technical screening criteria for each climate objective. It is therefore necessary that the technical screening criteria,
+where possible, follow the classification of economic activities laid down in the NACE Revision 2 classification
+system of economic activities established by Regulation (EC) No 1893/2006 of the European Parliament and of the
+Council (  3 ). To facilitate the identification by undertakings and financial market participants of the relevant 
+economic activities for which technical screening criteria should be established, the specific description of an
+economic activity should also include the references to NACE codes that can be associated with that activity. Those
+references should be understood as indicative and should not prevail over the specific definition of the activity
+provided in its description.  
+(7)  The technical screening criteria for determining under which conditions an economic activity qualifies as 
+contributing substantially to climate change mitigation should reflect the need to avoid producing greenhouse
+gas emissions, to reduce such emissions or to increase greenhouse gas removals and long-term carbon storage. It is
+therefore appropriate to focus first on those economic activities and sectors that have the greatest potential to
+achieve those aims. The choice of those economic activities and sectors should be based on their share of overall
+greenhouse gas emissions, and on evidence regarding their potential to contribute to avoid producing greenhouse
+gas emissions, to reduce such emissions or to contribute to greenhouse gas removal, or to enable such avoidance,
+reduction, removal or long-term storage for other activities.  
+(8)  The methodology to calculate life-cycle greenhouse gas emissions should be robust and widely applicable and 
+thereby promote the comparability of greenhouse gas emissions calculations within and across sectors. It is
+therefore appropriate to demand the same calculation methodology across activities, where such calculation is
+required, while providing sufficient flexibility for entities applying Regulation (EU) 2020/852. Accordingly, the
+Commission Recommendation 2013/179/EU is useful for the calculation of life-cycle greenhouse gas emissions,
+with, as an alternative, the possibility to use ISO 14067 or ISO 14064-1 standards. Where alternative well-
+established tools or standards are particularly suitable to provide exact and comparable information on the
+calculation of life-cycle greenhouse gas emission for a specific sector, such as the G-res tool for the hydropower
+sector and the ETSI standard ES 203 199 for the information and communication sector, it is appropriate to
+include such tool or standards as additional alternatives for that sector.  
+(9)  The methodology to calculate life-cycle greenhouse gas emissions for activities in the hydropower sector should 
+reflect the specificities of that sector, including new modelling methodologies, scientific knowledge and empirical
+measurements from reservoirs worldwide. To allow accurate reporting on the net impact on greenhouse gas
+emissions for the hydropower sector, it is therefore appropriate to allow for the use of the G-res tool that is
+publicly available free of charge and has been developed by the International Hydropower Association in collab ­

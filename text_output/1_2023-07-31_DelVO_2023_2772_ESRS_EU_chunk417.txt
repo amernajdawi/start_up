@@ -1,0 +1,39 @@
+File Name: 1_2023-07-31_DelVO_2023_2772_ESRS_EU.pdf
+Converted on: 2025-03-28 03:18:14
+Original Size: 5.82 MB
+Chunk Size: 500 tokens with 50 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 417 of 686
+--------------------------------------------------------------------------------
+
+ELI: http://data.europa.eu/eli/reg_del/2023/2772/oj 177/284(b) the number of fatalities (95)as a result of work-related injuries and work-related ill health;
+(c) the number and rate of recordable work-related accidents;
+(d) with regard to the undertaking’s employees, the number of cases of recordable work-related ill health, subject to
+legal restrictions on the collection of data; and
+(e) with regard to the undertaking’s employees, the number of days lost to work-related injuries and fatalities from
+work-related accidents, work-related ill health and fatalities from ill health (96).
+The information for (b) shall also be reported for other workers working on the undertaking’s sites, such as value
+chain workers if they are working on the undertaking’s sites.
+89. The undertaking may also disclose the information specified in points (d) and (e) of paragraph 88 with regard to non-
+employees.
+90. In addition, the undertaking may include the following additional information on the health and safety coverage: the
+percentage of its own workers covered by a health and safety management system which is based on legal
+requirements and/or recognised standards or guidelines and which has been internally audited and/or audited or
+certified by an external party.
+Disclosure Requirement S1-15 – Work-life balance metrics
+91. The undertaking shall disclose the extent to which employees are entitled to and make use of family-related
+leave.
+92. The objective of this Disclosure Requirement is to provide an understanding of the entitlement and actual practices
+amongst the employees to take family-related leave in a gender equitable manner, as it is one of the dimensions of
+work-life balance.
+93. The disclosure required by paragraph 91 shall include:
+(a) the percentage of employees entitled to take family-related leave; and
+(b) the percentage of entitled employees that took family-related leave, and a breakdown by gender.
+94. If all of the undertaking’s employees are entitled to family-related leave through social policy and/or collective
+bargaining agreements, it is sufficient to disclose this in order to meet the requirement of paragraph 93a.
+Disclosure Requirement S1-16 – Remuneration metrics (pay gap and total remuneration)
+95. The undertaking shall disclose the percentage gap in pay between its female and male employees and the
+ratio between the remuneration of its highest paid individual and the median remuneration for its
+employees.

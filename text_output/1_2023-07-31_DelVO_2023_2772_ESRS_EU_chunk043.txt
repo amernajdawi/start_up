@@ -1,0 +1,44 @@
+File Name: 1_2023-07-31_DelVO_2023_2772_ESRS_EU.pdf
+Converted on: 2025-03-28 03:20:41
+Original Size: 5.82 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 43 of 284
+--------------------------------------------------------------------------------
+
+ELI: http://data.europa.eu/eli/reg_del/2023/2772/oj 44/284respectively by ESRS E4, ESRS S1, ESRS S2, ESRS S3 and ESRS S4 have been assessed to be material as a result of the
+undertaking’s materiality assessment. In addition, if one or more of these topics has been assessed to be material, the
+undertaking shall, for each material topic:
+(a) disclose the list of matters (i.e. topic, sub-topic or sub-sub-topic) in AR 16 ESRS 1 Appendix A that are assessed
+to be material and briefly describe how the undertaking’s business model and strategy take account of the
+impacts of the undertaking related to those matters. The undertaking may identify the matter at the level of
+topic, sub-topic or sub-sub-topic;
+(b) briefly describe any time-bound targets it has set related to the matters in question, the progress it has made
+towards achieving those targets, and whether its targets related to biodiversity and ecosystems are based on
+conclusive scientific evidence;
+(c) briefly describe its policies in relation to the matters in question;
+(d) briefly describe actions it has taken to identify, monitor, prevent, mitigate, remediate or bring an end to actual or
+potential adverse impacts related to the matters in question, and the result of such actions; and
+(e) disclose metrics relevant to the matters in question.
+2. Governance
+18. The objective of this chapter is to set disclosure requirements that enable an understanding of the governance
+processes, controls and procedures put in place to monitor, manage and oversee sustainability matters.
+Disclosure Requirement GOV-1 – The role of the administrative, management and supervisory bodies
+19. The undertaking shall disclose the composition of the administrative, management and supervisory bodies, their
+roles and responsibilities and access to expertise and skills with regard to sustainability matters.
+20. The objective of this Disclosure Requirement is to provide an understanding of:
+(a) the composition and diversity of the administrative, management and supervisory bodies;
+(b) the roles and responsibilities of the administrative, management and supervisory bodies in exercising oversight
+of the process to manage material impacts, risks and opportunities, including management’s role in these
+processes; and
+(c) the expertise and skills of its administrative, management and supervisory bodies on sustainability matters or
+access to such expertise and skills.
+21. The undertaking shall disclose the following information about the composition and diversity of the members of the
+undertaking’s administrative, management and supervisory bodies:
+(a) the number of executive and non-executive members;
+(b) representation of employees and other workers;
+(c) experience relevant to the sectors, products and geographic locations of the undertaking;OJ L, 22.12.2023 EN  
+
+--- Page 45 of 284 ---

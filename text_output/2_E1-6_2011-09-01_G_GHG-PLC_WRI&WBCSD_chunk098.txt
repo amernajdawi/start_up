@@ -1,0 +1,89 @@
+File Name: 2_E1-6_2011-09-01_G_GHG-PLC_WRI&WBCSD.pdf
+Converted on: 2025-03-28 03:20:53
+Original Size: 3.27 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 98 of 116
+--------------------------------------------------------------------------------
+
+[123]
+Box [B.2]  Estimating land-use change impacts without specific data (continued)
+Figure [B.3]  Area harvested (1000 ha) for rice 
+paddy production in Malaysia for the
+period from 1988-2008
+Source:  FAO, FAOSTAT. Available from http://faostat.fao.org/site/567/
+DesktopDefault.aspx?PageID=567#ancor , 2011. Figure [B.4]  Area harvested (1000 ha) for oil palm 
+fruit production in Malaysia for the
+period from 1988-2008
+Source:  FAO, FAOSTAT. Available from http://faostat.fao.org/site/567/
+DesktopDefault.aspx?PageID=567#ancor , 2011.
+Malaysia due to rice production over the assessment
+period. Assuming the GHG inventory is being assessed
+in 2010 companies should also consider whether
+any recent changes in land use in Malaysia may have
+caused an increase in rice production over the past
+two years not shown in the data.  If there is no reason 
+to believe this is the case, the company can assume
+that no land-use change impacts are attributable to
+the studied product rice.
+Taking the same approach for palm oil, it is obvious from
+figure B.4 that there has been an increase in land used for
+palm production over the assessment period.  
+At this point a company can either assume that all the land
+is converted from a different land category (e.g., forest,
+grassland) to palm (see step 4), or they can estimate
+what percentage of land is converted within the cropland
+category and therefore not subject to land-use change. 3.   Determine what percentage of land-use change is 
+due to converted cropland
+Looking at the major crops dynamics in Malaysia over the
+past 20 years, table B.2 shows a decrease in harvested
+area for some crops and an increase in harvested area for
+palm oil. This indicates that the total growth of harvested
+area in the country is driven by increases in palm oil
+production.
+As table B.2 suggests, around 27 percent of the overall
+land-use growth could potentially come from the
+conversion of other cropland where area is decreasing.
+Therefore the company may assume that 72 percent
+of the palm oil produced in Malaysia comes from
+areas converted from a different land category.  This 
+assumption should not be made if the total area of
+cropland is decreasing, or if the country has specific
+efforts in place to convert degraded cropland to pasture
+land or another type of land category. In these cases, the
+decrease in other cropland may be due to those efforts
+and conversion to the studied product.  4500
+4000
+3500
+3000
+2500
+2000
+1500
+1000
+500
+0
+1990
+1995
+2000
+2005
+year710
+700
+690
+680
+670
+660
+650
+640
+630
+620
+610
+1990
+1995
+2000
+2005area harvested (1000 ha)
+area harvested (1000 ha)
+yearAppendix	B.	 Land-Use Change Impacts  
+
+--- Page 126 of 148 ---

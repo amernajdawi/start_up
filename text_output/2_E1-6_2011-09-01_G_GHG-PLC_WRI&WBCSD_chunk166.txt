@@ -1,0 +1,61 @@
+File Name: 2_E1-6_2011-09-01_G_GHG-PLC_WRI&WBCSD.pdf
+Converted on: 2025-03-28 03:18:25
+Original Size: 3.27 MB
+Chunk Size: 500 tokens with 50 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 166 of 226
+--------------------------------------------------------------------------------
+
+[111]CHAPTER 14 Setting Reduction Targets and Tracking Inventory Changes
+guidanceStep 2:  Identify reduction opportunities
+Companies can begin identifying potential emissions
+reduction opportunities along the product’s life cycle
+while creating the base inventory. These opportunities
+can then be assessed based on the magnitude of the
+reductions and the company’s level of influence. In
+general, companies have the largest influence on
+processes they control and therefore, a first step may be
+to identify energy savings or fuel switching opportunities
+within those processes.
+In many cases the largest potential for improvement
+comes from processes that are under the control of
+suppliers and customers along the product’s life cycle.
+To address these emissions, companies should identify
+suppliers and customers to engage with, based on both
+their level of influence and reduction potential. For use
+and end-of-life processes, the company may determine
+that improvements are influenced primarily by the design
+of a product and less by the behaviors of customers. In
+this case, companies should engage their product design
+or research and development team.
+Step 3:  Set a reduction target
+A robust business strategy often includes setting
+targets for revenues, sales, and other core business
+indicators, as well as tracking performance against
+those targets. Likewise, although performance tracking
+a GHG product inventory over time can be done without
+a reduction target, effective GHG management involves
+setting a GHG target.
+Companies should set a reduction target for the total
+product’s life cycle to avoid the perception of cherry-
+picking. In addition companies may also set individual
+targets for stages or processes. A target should include
+both a completion date and a target level - the numeric
+value of the reduction target per unit of analysis (e.g.,
+20 percent reduction). In general, companies should set
+an ambitious target that reaches significantly beyond
+business-as-usual. “Stretch goals” tend to drive greater
+innovation and are seen as most credible by stakeholders.  
+It is important to note that all reduction targets set for
+a product inventory are made on the basis of the unit
+of analysis, and the unit of analysis cannot change when comparing inventories over time. This means that if an
+improvement made along the product’s life cycle changes
+its unit of analysis, then a new inventory is completed and
+the company needs to redefine the base inventory and
+reduction goal based on the new unit of analysis.
+Step 4:  Achieve and account for reductions
+Companies may achieve reductions in different ways, such
+as working within the company to improve the processing
+or design of the product or engaging with customers

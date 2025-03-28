@@ -1,0 +1,87 @@
+File Name: 2_E1-6_2011-09-01_G_GHG-PLC_WRI&WBCSD.pdf
+Converted on: 2025-03-28 03:20:53
+Original Size: 3.27 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 34 of 116
+--------------------------------------------------------------------------------
+
+[44]   Product Life Cycle Accounting and Reporting Standard
+ [44]   Product Life Cycle Accounting and Reporting Standard
+guidanceBoth relevance and significance are used in this
+standard to define similar concepts.
+Significance is defined as the size of emissions,
+removals, or GHG intensity and is used quantitatively
+throughout the standard. Significance is used in
+data quality reporting (chapter 8) to describe data
+that has a large impact on the inventory results.
+Insignificance is also used in boundary setting and
+base inventory recalculation (chapter 14) to describe
+a threshold under which a process or change can be
+assumed insignificant to the inventory results.
+Relevance is a qualitative term used to describe how
+decisions made during the inventory process impact
+a company’s business goals. Examples of decisions
+that consider relevance include establishing the scope
+(chapter 6), including non-attributable processes, and
+screening during data collection (chapter 8). When
+making decisions based on relevance, it is usually
+recommended that companies also consider significance. Box [7.3]  Relevance and significancegeographic location, and can vary significantly depending 
+on the type of waste treatment assumed and how long
+it takes for the product’s carbon to return to nature. For
+example, waste that is incinerated has a very short time
+period compared to waste that is disposed of in a landfill.
+Additionally, not all waste treatment methods result in
+the release of the carbon contained in the product into
+the atmosphere. When a company knows that either
+all or a portion of a product’s carbon does not return to
+the atmosphere during waste treatment, a company is
+required to disclose and justify this in the inventory report.
+For example, lignin is a carbon-based component of wood
+that does not degrade under anaerobic conditions.5
+A company may not assume that carbon is stored in a
+product by shortening the end-of-life time period. It
+should be known that the carbon is stored indefinitely
+as a result of waste treatment. For example, a company
+cannot assign an end-of-life time period of five years to a
+product that aerobically degrades in ten years.
+7.3.7 Cradle-to-gate inventories
+There are two types of intermediate products: when the
+company manufacturing the intermediate product knows
+the use profiles of the final product it becomes and when
+the intermediate product can be used in many different
+final products and therefore has a variety of possible use
+profiles. Just like the unit of analysis of an intermediate
+product (see chapter 6), the boundary requirements
+are dependent on whether the company knows the use
+profile (e.g., function) of the final product.
+If the use profile is known, companies should perform
+a full life cycle (cradle-to-grave) inventory of the
+intermediate product. This provides companies with more
+reduction opportunities by including the distribution,
+retail, use and end-of-life stages, and stakeholders with a
+complete picture of the product’s life cycle. An innovative
+way to do this is to work with the final product producer;
+using the primary data and expertise they have on the
+final production, use, and end-of-life can improve the
+completeness and accuracy of the inventory.
+If the use profile is unknown, companies may still decide
+to perform a cradle-to-grave inventory by picking a
+representative or average use profile. Alternatively, a
+cradle-to-gate inventory may be performed. Transparency
+is important when performing a cradle-to-gate Non-attributable process that may be relevant to
+some products are capital goods and infrastructure.
+For example, renewable energy generation such
+as hydroelectric and wind power require capital
+infrastructure that may have a large GHG impact relative
+to the rest of the inventory. This can be determined using
+the same basis and threshold defined when determining
+insignificance. Additionally, a company may see corporate
+activities, a non-attributable process, as a key area of
+reduction potential and therefore determine they are
+relevant to include in the product inventory.
+7.3.6 Time period
+The total inventory time period is dependent on the
+use and end-of-life stages. The use-stage time period is

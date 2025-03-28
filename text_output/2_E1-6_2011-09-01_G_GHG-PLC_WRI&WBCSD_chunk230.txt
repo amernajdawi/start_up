@@ -1,0 +1,18 @@
+File Name: 2_E1-6_2011-09-01_G_GHG-PLC_WRI&WBCSD.pdf
+Converted on: 2025-03-28 01:56:27
+Original Size: 3.27 MB
+Chunk Size: 400 tokens with 50 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 230 of 270
+--------------------------------------------------------------------------------
+
+Unless the default data collected in step 4 is on an annual
+basis, the company needs to distribute the land-use
+change impacts across the amortization period for the
+product. Assuming palm oil is harvested on an annual
+basis, 1/20th of the land-use change impacts are applied
+to a yearly harvest of palm oil. This value is further
+normalized to the reference flow basis for inclusion in the
+inventory results. Box [B.2]    Estimating land-use change impacts without specific data (continued)

@@ -1,0 +1,28 @@
+File Name: 1_2021-07-06_DelVO_2021_2178_TAXORA_EU.pdf
+Converted on: 2025-03-28 01:55:32
+Original Size: 10.30 MB
+Chunk Size: 400 tokens with 50 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 93 of 101
+--------------------------------------------------------------------------------
+
+the investment firm;
+(e) for investees that are insurance or reinsurance undertakings, investments, gross premiums written or, as applicable, total
+insurance revenue, as resulting from the calculation either of the turnover-based and CapEx based investments KPI (i.e.
+the proportion of the insurance or reinsurance undertaking’s investments other than investments held in respect of life
+insurance contracts where the investment risk is borne by the policy holders, that are directed at funding, or are
+associated with, Taxonomy-aligned economic activities) combined, where applicable, with the underwriting KPI of the
+non-life investee insurance and reinsurance undertakings in accordance with Annexes XI and X.
+By way of derogation from the first and fourth paragraph of this point 1, debt securities with the purpose of financing
+specific identified activities or projects or environmentally sustainable bonds issued by an investee undertaking shall be
+included in the numerator up to the value of Taxonomy-aligned economic activities that the proceeds of those bonds and
+debt securities finance, on the basis of information provided by the investee undertaking.
+2.KPI related to underwriting activities
+Insurance and reinsurance undertakings other than life insurance undertakings shall calculate the KPI related to
+underwriting activities and present the ‘gross premiums written’ non-life insurance revenue or, as applicable, reinsurance
+revenue corresponding to Taxonomy-aligned insurance or reinsurance activities in accordance with points 10.1. and 10.2.
+of Annex II to Climate Delegated Act. The KPI shall be depicted in percentage terms relative to, as applicable, one of the following:
+(a) total non-life insurance gross premiums written;
+(b) total reinsurance gross premiums written;EN Official Journal of the European Union 10.12.2021 L 443/61

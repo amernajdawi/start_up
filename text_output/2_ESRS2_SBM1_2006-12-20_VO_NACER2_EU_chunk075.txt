@@ -1,0 +1,32 @@
+File Name: 2_ESRS2_SBM1_2006-12-20_VO_NACER2_EU.pdf
+Converted on: 2025-03-28 03:18:28
+Original Size: 0.17 MB
+Chunk Size: 500 tokens with 50 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 75 of 78
+--------------------------------------------------------------------------------
+
+4. For Sections H and J of NACE Rev. 2, the number of persons employed variable (No 210) need only be
+transmitted at Section level by those Member States whose total value added in Sections H and J of NACE Rev. 2in a given base year represents less than 4 % of the European Community total.
+5. The output price variable (No 310) is to be transmitted according to the following activities and groupings of
+NACE Rev. 2:
+49.4, 51, 52.1, 52.24, 53.1, 53.2, 61, 62, 63.1, 63.9, 71, 73, 78, 80, 81.2;
+sum of (50.1 and 50.2);sum of (69.1, 69.2 and 70.2).
+NACE Rev. 2 Division 78 covers the total price of labour recruited and personnel provided.’.
+4.4. In Annex D, point (f) (‘Level of detail’), point 7 shall be replaced by the following:
+‘7. For Division 63 of NACE Rev. 2, the output price variable (No 310) need only be transmitted at the 2 digit level
+by those Member States whose turnover in this Division of NACE Rev. 2 in a given base year represents less than4 % of the European Community total.’.
+4.5. In Annex D, point (h) (‘Pilot studies’ ), point 3 shall be replaced by the following:
+‘3. assess the feasibility and relevance of collection data on:
+(i) management activities of holding companies NACE Rev. 2 Groups 64.2 and 70.1;
+(ii) real estate NACE Rev. 2 Division 68;
+(iii) research and development NACE Rev. 2 Division 72;
+(iv) renting activity NACE Rev. 2 Division 77;
+(v) NACE Rev. 2 Sections K, P, Q, R, S;’.
+4.6. The following paragraph shall be added to Annex D, point (i) (‘First reference period’):
+‘The first reference period for which all variables are to be transmitted in NACE Rev. 2 is the first quarter 2009.’.
+4.7. In Annex D, point (j) (‘ Transition period’) shall be replaced by the following:
+‘(j) Transition period
+A transition period ending no later than 11 August 2008 may be granted for variable No 310 in accordance with the

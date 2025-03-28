@@ -1,0 +1,56 @@
+File Name: 1_2021-06-04_DelVO_2021_2139_TAXKRA_EU.pdf
+Converted on: 2025-03-28 03:20:30
+Original Size: 2.76 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 218 of 447
+--------------------------------------------------------------------------------
+
+1.3.  Forest management  
+Description of the activity  
+Forest management as defined by national law. Where national law does not contain such a definition, forest
+management refers to any economic activity resulting from a system applicable to a forest that influences the
+ecological, economic or social functions of the forest. Forest management assumes no change in land use and
+occurs on land matching the definition of forest as set out in national law, or where not available, in accordance
+with the FAO definition of forest (  36 ). 
+The economic activities in this category could be associated with NACE code A2 in accordance with the statistical
+classification of economic activities established by Regulation (EC) No 1893/2006. The economic activities in this
+category are limited to NACE II 02.10, i.e. silviculture and other forestry activities, 02.20, i.e. logging, 02.30,
+i.e. gathering of wild growing non-wood products and 02.40, i.e. support services to forestry.  
+Where an economic activity in this category complies with the substantial contribution criterion specified in
+point 5, the activity is an enabling activity as referred to in Article 11(1), point (b), of Regulation (EU)
+2020/852, provided that it meets the technical screening criteria set out in this Section.  
+Technical screening criteria  
+Substantial contribution to climate change adaptation  
+1. The economic activity has implemented physical and non-physical solutions (‘adaptation solutions’) that
+substantially reduce the most important physical climate risks that are material to that activity.
+2. The physical climate risks that are material to the activity have been identified from those listed in
+Appendix A to this Annex by performing a robust climate risk and vulnerability assessment with the
+following steps:
+(a) screening of the activity to identify which physical climate risks from the list in Appendix A to this Annex
+may affect the performance of the economic activity during its expected lifetime;
+(b) where the activity is assessed to be at risk from one or more of the physical climate risks listed in Appendix A
+to this Annex, a climate risk and vulnerability assessment to assess the materiality of the physical climate risks
+on the economic activity;
+(c) an assessment of adaptation solutions that can reduce the identified physical climate risk.
+The climate risk and vulnerability assessment is proportionate to the scale of the activity and its expected lifespan,
+such that:
+(a) for activities with an expected lifespan of less than 10 years, the assessment is performed, at least by using
+climate projections at the smallest appropriate scale;
+(b) for all other activities, the assessment is performed using the highest available resolution, state-of-the-art
+climate projections across the existing range of future scenarios (  37 ) consistent with the expected lifetime of 
+the activity, including, at least, 10 to 30 year climate projections scenarios for major investments.
+3. The climate projections and assessment of impacts are based on best practice and available guidance and
+take into account the state-of-the-art science for vulnerability and risk analysis and related methodologies in line
+with the most recent Intergovernmental Panel on Climate Change reports (  38 ), scientific peer-reviewed publications 
+and open source (  39 ) or paying models.  
+_____________
+( 36 ) Land spanning more than 0,5 hectares with trees higher than five meters and a canopy cover of more than 10 %, or trees able t o
+reach those thresholds in situ. It does not include land that is predominantly under agricultural or urban land use, FAO Global  
+Resources Assessment 2020. Terms and definitions (version of 4.6.2021: http://www.fao.org/3/I8661EN/i8661en.pdf).
+( 37 ) Future scenarios include Intergovernmental Panel on Climate Change representative concentration pathways RCP2.6, RCP4.5,
+RCP6.0 and RCP8.5.
+( 38 ) Assessments Reports on Climate Change: Impacts, Adaptation and Vulnerability, published periodically by the Intergovernmental  
+Panel on Climate Change (IPCC), the United Nations body for assessing the science related to climate change produces,

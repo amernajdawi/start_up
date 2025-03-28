@@ -1,0 +1,36 @@
+File Name: 1_2021-07-06_DelVO_2021_2178_TAXORA_EU.pdf
+Converted on: 2025-03-28 03:18:05
+Original Size: 10.30 MB
+Chunk Size: 500 tokens with 50 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 51 of 90
+--------------------------------------------------------------------------------
+
+Stock and flow
+Other environmental activities Same ratios for each of the other four environmental objectives
+should be disclosed, once the screening criteria are defined. That
+is: the sustainable use and protection of water and marine
+resources; the transition to a circular economy; pollution
+prevention and control; the protection and restoration of
+biodiversity and ecosystems.
+(i) GAR for lending activities to equity holdings of non-financial undertakings for loans and advances (GAR L&A)
+Credit institutions shall use and disclose the following items for the calculation of the GAR for this type of exposures:
+(1)(a) total loans and advances to non-financial undertakings, including loans and advances recognised under the
+accounting categories referred to in point 1.2 of this Annex, that is the gross carrying amount of:
+(i) loans and advances at amortised cost and at fair value through other comprehensive income;
+(ii) loans and advances not held for trading at fair value through profit or loss.
+(1)(b) loans and advances to non-financial undertakings financing Taxonomy-eligible economic activities for each
+environmental objective, including the gross carrying amount of loans and advances in the relevant accounting
+categories towards companies carrying out taxonomy-eligible economic activities (where available, 4 level
+Nomenclature of Economic Activities (NACE) codes) relevant for each environmental objective.
+(1)(c) loans and advances to non-financial undertakings financing taxonomy-aligned economic activities for each
+environmental objective, including all loans and advances financing taxonomy-aligned economic activities,
+including subsets of transitional and enabling economic activities.
+The amount for the purpose of (1)(c) shall be calculated by using the following formula 1(c) = (1)(c)(1) + (1)(c)(2) where:
+(1)(c)(1) represents loans and advances where the use of proceeds is known, including specialised lending – project finance
+loans as referred to in Annex V to Commission Implementing Regulation (EU) No 680/2014 (1);
+(1)(c)(2) represents loans and advances where the use of proceeds is unknown (general loans).
+For the purposes of point (1)(c)(1), credit institutions shall consider the gross carrying amount of the project finance exposures to the non-financial undertaking to the extent and proportion that the project funded finances a taxonomy-
+aligned economic activity. The assessment of whether that requirement has been complied with shall be based on

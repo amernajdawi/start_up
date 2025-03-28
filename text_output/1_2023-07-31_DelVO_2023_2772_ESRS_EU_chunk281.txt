@@ -1,0 +1,53 @@
+File Name: 1_2023-07-31_DelVO_2023_2772_ESRS_EU.pdf
+Converted on: 2025-03-28 03:20:41
+Original Size: 5.82 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 281 of 284
+--------------------------------------------------------------------------------
+
+ELI: http://data.europa.eu/eli/reg_del/2023/2772/oj 281/284Systemic risks Risks arising from the breakdown of the entire system, rather than the
+failure of individual parts. They are characterised by modest tipping points
+combining indirectly to produce large failures with cascading of interactions
+of physical and transition risks (contagion), as one loss triggers a chain of
+others, and with systems unable to recover equilibrium after a shock. An
+example is the loss of a keystone species, such as sea otters, which have a
+critical role in ecosystem community structure. When sea otters were
+hunted to near extinction in the 1900s, the coastal ecosystems flipped and
+biomass production was greatly reduced.
+Targets Measurable, outcome-oriented and time-bound goals that the undertaking aims to achieve in relation to material impacts, risks or opportunities.
+They may be set voluntarily by the undertaking or derive from legal requirements on the undertaking.
+Threatened species Endangered species, including flora and fauna, listed in the European Red List or the IUCN Red List, as referred to in Section 7 of Annex II to
+Commission Delegated Regulation (EU) 2021/2139.
+Training Initiatives put in place by the undertaking aimed at the maintenance and/or improvement of skills and knowledge of its own workers. It can include
+different methodologies, such as on-site training, and online training.
+Transition plan A specific type of action plan that is adopted by the undertaking in relation
+to a strategic decision and that addresses:
+i.a public policy objective; and/or
+ii.an entity-specific action plan organised as a structured set of targets and
+actions, associated with a key strategic decision, a major change in
+business model, and/or particularly important actions and allocated
+resources.
+Transition plan for climate change
+mitigationAn aspect of an undertaking’s overall strategy that lays out the undertaking’s targets, actions and resources for its transition towards a lower–carbon
+economy, including actions such as reducing its GHG emissions with
+regard to the objective of limiting global warming to 1.5°C and climate
+neutrality.
+Transition risks Risks that result from a misalignment between an organisation’s or
+investor’s strategy and management and the changing regulatory, policy or
+societal landscape in which it operates. Developments aimed at halting or
+reversing damage to the climate or to nature, such as government
+measures, technological breakthroughs, market changes, litigation and
+changing consumer preferences can all create or change transition risks.
+Users Users of sustainability statements are primary users of general-purpose
+financial reporting (existing and potential investors, lenders and other
+creditors including asset managers, credit institutions, insurance
+undertakings), as well as other users, including the undertaking’s business
+partners, trade unions and social partners, civil society and non- governmental organisations, governments, analysts and academics.
+Value chain The full range of activities, resources and relationships related to the
+undertaking’s business model and the external environment in which it
+operates.OJ L, 22.12.2023 EN  
+
+--- Page 282 of 284 ---

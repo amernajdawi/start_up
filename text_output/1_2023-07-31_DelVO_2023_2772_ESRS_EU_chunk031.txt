@@ -1,0 +1,49 @@
+File Name: 1_2023-07-31_DelVO_2023_2772_ESRS_EU.pdf
+Converted on: 2025-03-28 03:20:41
+Original Size: 5.82 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 31 of 284
+--------------------------------------------------------------------------------
+
+ELI: http://data.europa.eu/eli/reg_del/2023/2772/oj 29/284Topical
+ESRSSustainability matters covered in topical ESRS
+Topic Sub-topic Sub-sub-topics
+ESRS S4 Consumers and
+end- users— Information-related impacts for
+consumers and/or end-users— Privacy— Freedom of expression
+— Access to (quality) information
+— Personal safety of consumers
+and/or end-users— Health and safety
+— Security of a person
+— Protection of children
+— Social inclusion of consumers
+and/or end-users— Non-discrimination
+— Access to products and services
+— Responsible marketing practices
+ESRS G1 Business conduct — Corporate culture
+— Protection of whistle-blowers
+— Animal welfare
+— Political engagement and lobbying
+activities
+— Management of relationships with
+suppliers including payment prac ­
+tices
+— Corruption and bribery — Prevention and detection including train ­
+ing
+— Incidents
+Estimation using sector averages and proxies
+AR 17. When the undertaking cannot collect upstream and downstream value chain information as required by
+paragraph 63 after making reasonable efforts to do so, it shall estimate the information to be reported using all
+reasonable and supportable information that is available to the undertaking at the reporting date without undue
+cost or effort. This includes, but is not limited to, internal and external information, such as data from indirect
+sources, sector-average data, sample analyses, market and peer groups data, other proxies or spend-based data.
+Content and structure of the sustainability statement
+AR 18. As an illustration for paragraph 115 in section 8.2 Content and structure of the sustainability statement of this
+Standard, the undertaking that covers environmental and social matters in the same policy may cross-refer. That
+means that the undertaking may report on the policy in its environmental disclosures and cross-refer to it from
+the relevant social disclosures or vice versa. Consolidated presentation of policies across topics is allowed.OJ L, 22.12.2023 EN  
+
+--- Page 30 of 284 ---

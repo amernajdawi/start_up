@@ -1,0 +1,45 @@
+File Name: 1_2021-06-04_DelVO_2021_2139_TAXKRA_EU.pdf
+Converted on: 2025-03-28 03:20:30
+Original Size: 2.76 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 133 of 447
+--------------------------------------------------------------------------------
+
+Technical screening criteria  
+Substantial contribution to climate change mitigation  
+The activity produces heat/cool from waste heat.  
+Do no significant harm (‘DNSH’)  
+(2) Climate change adaptation  The activity complies with the criteria set out in Appendix A to this 
+Annex.  
+(3) Sustainable use and protection of
+water and marine resources  N/A  
+(4) Transition to a circular economy  The activity assesses availability of and, where feasible, uses equipment and 
+components of high durability and recyclability and that are easy to
+dismantle and refurbish.  
+(5) Pollution prevention and control  Pumps and the kind of equipment used, which is covered by Ecodesign 
+and Energy labelling comply, where relevant, with the top class
+requirements of the energy label laid down in Regulation (EU) 2017/1369,
+and with implementing regulations under Directive 2009/125/EC and
+represent the best available technology.  
+(6) Protection and restoration of
+biodiversity and ecosystems  The activity complies with the criteria set out in Appendix D to this 
+Annex.  
+5.  WATER SUPPLY, SEWERAGE, WASTE MANAGEMENT AND REMEDIATION  
+5.1.  Construction, extension and operation of water collection, treatment and supply systems  
+Description of the activity  
+Construction, extension and operation of water collection, treatment and supply systems.  
+The economic activities in this category could be associated with several NACE codes, in particular E36.00 and
+F42.99 in accordance with the statistical classification of economic activities established by Regulation (EC)
+No 1893/2006.  
+Technical screening criteria  
+Substantial contribution to climate change mitigation  
+The water supply system complies with one of the following criteria:
+(a) the net average energy consumption for abstraction and treatment equals to or is lower than 0,5 kWh per
+cubic meter produced water supply. Net energy consumption may take into account measures decreasing
+energy consumption, such as source control (pollutant load inputs), and, as appropriate, energy generation
+(such as hydraulic, solar and wind energy);EN  L 442/90 Official Journal of the European Union 9.12.2021
+
+--- Page 91 of 349 ---

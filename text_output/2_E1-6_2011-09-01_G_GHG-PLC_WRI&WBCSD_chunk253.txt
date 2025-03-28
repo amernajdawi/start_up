@@ -1,0 +1,12 @@
+File Name: 2_E1-6_2011-09-01_G_GHG-PLC_WRI&WBCSD.pdf
+Converted on: 2025-03-28 01:56:27
+Original Size: 3.27 MB
+Chunk Size: 400 tokens with 50 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 253 of 270
+--------------------------------------------------------------------------------
+
+Sector guidance  A document or tool that provides guidance for performing a product GHG inventory 
+within a given sector.

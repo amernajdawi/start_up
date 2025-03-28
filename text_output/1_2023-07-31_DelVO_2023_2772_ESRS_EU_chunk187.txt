@@ -1,0 +1,53 @@
+File Name: 1_2023-07-31_DelVO_2023_2772_ESRS_EU.pdf
+Converted on: 2025-03-28 03:20:41
+Original Size: 5.82 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 187 of 284
+--------------------------------------------------------------------------------
+
+ELI: http://data.europa.eu/eli/reg_del/2023/2772/oj 188/284AR 52. When modifying or replacing a target in the reporting period, the undertaking may explain the change by cross-
+referencing it to significant changes in the business model or to broader changes in the accepted standard or
+legislation from which the target is derived to provide contextual information as per ESRS 2 BP-2 Disclosures in
+relation to specific circumstances.
+Disclosure Requirement S1-6 – Characteristics of the Undertaking’s Employees
+AR 53. This Disclosure Requirement covers all employees who perform work for any of the undertaking’s entities
+included in its sustainability reporting.
+AR 54. Providing a breakdown of employees by country gives insight into the distribution of activity across countries.
+The number of employees in each country is also a key trigger for many information, consultation and
+participation rights for workers and workers' representatives, both in the Union labour law acquis (for example,
+Directive 2009/38/EC of the European Parliament and of the Council (101)“European Works Councils Directive”
+and Directive 2002/14/EC of the European Parliament and of the Council (102)“Information and Consultation
+Directive”) and in national law (for example, rights to establish a works council or to have board level employee
+representation). Providing a breakdown of employees by gender and type of employment relationship gives
+insight into gender representation across the undertaking. Additionally, providing a breakdown of employees by
+region gives insight into regional variations. A region can refer to a country or other geographic locations, such
+as a region within a country or a world region.
+AR 55. The undertaking shall disclose the requested disclosures in the following tabular formats:
+Table 1
+Template for presenting information on employee head count by gender
+Gender Number of employees (head count)
+Male
+Female
+OtherNot reported
+Total
+Employees
+In some Member States it is possible for persons to legally register themselves as having a third, often neutral, gender, which
+is categorised as “other” in the table above. However, if the undertaking is disclosing data about employees where this is not
+possible, it may explain this and indicate that the “other” category is not applicable.
+Table 2
+Template for presenting employee head count in countries where the undertaking has at least 50 employees
+representing at least 10% of its total number of employees.
+Country Number of employees (head count)
+Country A
+Country B
+(101)Directive 2009/38/EC of the European Parliament and of the Council of 6 May 2009 on the establishment of a European Works
+Council or a procedure in Community-scale undertakings and Community-scale groups of undertakings for the purposes of
+informing and consulting employees (OJ L 122, 16.5.2009, p. 28).
+(102)Directive 2002/14/EC of the European Parliament and of the Council of 11 March 2002 establishing a general framework for
+informing and consulting employees in the European Community - Joint declaration of the European Parliament, the Council and
+the Commission on employee representation (OJ L 80, 23.3.2002, p. 29).OJ L, 22.12.2023 EN  
+
+--- Page 189 of 284 ---

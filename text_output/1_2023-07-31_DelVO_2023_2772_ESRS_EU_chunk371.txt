@@ -1,0 +1,38 @@
+File Name: 1_2023-07-31_DelVO_2023_2772_ESRS_EU.pdf
+Converted on: 2025-03-28 03:18:14
+Original Size: 5.82 MB
+Chunk Size: 500 tokens with 50 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 371 of 686
+--------------------------------------------------------------------------------
+
+ELI: http://data.europa.eu/eli/reg_del/2023/2772/oj 160/284(b) identify physical risks including depletion of stock and use of virgin and non-virgin renewable resources, and
+of non-renewable resources;
+(c) identify opportunities categorised by:
+i. resource efficiency: e.g., transition to more efficient services and processes requiring less resources, eco-
+design for longevity , repair, reuse, recycle, by- products, take-back systems, decoupling activity from
+extraction of materials, intensifying circular material use, creation of a system that allows for demateria ­
+lization (e.g., digitisation, improving utilisation rates, weight reduction); practices to ensure products and
+materials are collected, sorted, and reused, repaired, refurbished, remanufactured;
+ii. markets: e.g., demand for less resource-intense products and services, and new consumption models such
+as product-as- a-service, pay-per-use, sharing, leasing;
+iii. financing: e.g., access to green funds, bonds or loans;
+iv. resilience: e.g., diversification of resources and business activities (e.g., start a new business unit to recycle
+new materials), investing in green infrastructures, adopting recycling and circularity mechanisms that
+reduce the dependencies
+, capability of the undertaking to safeguard future stocks and flows of resources;
+and
+v. reputation.
+AR 6. The undertaking may consider the following methodologies to assess its impacts, risks and opportunities in its
+own operations and along its upstream and downstream value chain:
+(a) Commission Recommendation 2021/2279 on the use of the Environmental Footprint methods to measure and communicate the life cycle environmental performance of products and organizations (Annex I – Product Environmental Footprint; Annex III – Organisation Environmental Footprint); and
+(b) Material Flow Analysis (MFA) from the European Environment Agency.
+AR 7. When providing information on the outcome of the materiality assessment, the undertaking shall consider:
+(a) a list of business units associated to resource use and circular economy material impacts, risks and
+opportunities in the context of the products and services of the undertaking and the waste it generates;
+(b) a list and prioritisation of the material resources used by the undertaking;
+(c) the material impacts and risks of staying in business as usual;
+(d) the material opportunities related to a circular economy;
+(e) the material impacts and risks of a transition to a circular economy; and

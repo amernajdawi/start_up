@@ -1,0 +1,97 @@
+File Name: 2_E1-6_2006-01-01_GHG-LuLu_WRI&WBCSD.pdf
+Converted on: 2025-03-28 03:20:49
+Original Size: 6.41 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 36 of 50
+--------------------------------------------------------------------------------
+
+7.1.5 ESTIMATE THEBASELI NEGHG REMOVALS
+ANDTOTAL BASELINECARBO NSTOCKS
+ThebaselineGHGremovalsareequaltotheweightedmean
+GHGremovals,foundintableE.13.
+Tofindtotalbaselinecarbonstocks:first,calculatethepercent
+ofthegeographicareathateachtypeofbaselinecandidate
+represents;second,applythepercentagetotheareaof
+theprojectsite;third,multiplythebaselinecarbonstocks
+bytheirrespectiveareaoftheprojectsite(seetableE.16).
+Thetotalbaselinecarbonstocksfortheperformance
+standardarefoundintableE.17.Chapter8:ApplyingaLand-Use
+orManagementTrendFactor
+The land-usetrendfactorestimatestheunderlyingrateat
+whichthelanduseormanagementischanginginthe
+geographicarea.Thisfactoristhenusedtoadjustthebaseline
+GHGremovalstoreflectanyinherenttrendsinthearea.
+8 . 1 W H E N T O A P P LY T H E L A N D - U S E
+O R M A N A G E M E N T T R E N D FA C T O R
+Becausetheprojectactivityandbaselinecandidatesrepre -
+sentdiscretelanduses,atrendfactormightbeapplied.But
+itwasdeterminedthattheland-usetrendfactorwasnot
+EXAMPLE :NipawinAfforestationProject 74 Y E A R
+1
+2345678910 11 12 13 14 15 16 17 18 19 20 21 Numberof
+hectares TA B L E E . 1 2 MostStringent Stringency Level, Years 1to21
+M O S T S T R I N G E N T
+G H G R E M O VA L S
+GHG REMOVALS
+tC O 2/h a
+3.12
+8.29
+15.11
+21.41
+26.36
+29.81
+31.79
+32.38
+32.16
+31.13
+29.63
+27.79
+25.81
+23.69
+21.67
+19.65
+17.86
+16.06
+14.48
+12.98
+0B A S E L I N E C A N D I D AT E 2
+TA M E P A S T U R E L A N D
+G H G R E M O VA L S
+tC O 2/h a
+0
+000000000000000000001,753,311 B A S E L I N E C A N D I D AT E 1
+C O M M E R C I A L C R O P L A N D
+G H G R E M O VA L S
+tC O 2/h a
+0
+0000000000000000000014,026,492 B A S E L I N E C A N D I D AT E 3
+A L - P A C H Y B R I D
+P O P L A R F O R E S T
+G H G R E M O VA L S
+tC O 2/h a
+3.12
+8.29
+15.11
+21.41
+26.36
+29.81
+31.79
+32.38
+32.16
+31.13
+29.63
+27.79
+25.81
+23.69
+21.67
+19.65
+17.86
+16.06
+14.48
+12.98
+03,000
+
+--- Page 77 of 100 ---

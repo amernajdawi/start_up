@@ -1,0 +1,48 @@
+File Name: 1_2023-06-27_DelVO_2023_2486_TAXURA_EU.pdf
+Converted on: 2025-03-28 03:20:36
+Original Size: 8.44 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 48 of 199
+--------------------------------------------------------------------------------
+
+--- Page 30 of 164 ---
+
+ELI: http://data.europa.eu/eli/reg_del/2023/2486/oj 30/164(d) substances meeting the criteria for classification as toxic for reproduction category 1 or 2 in accordance with
+Regulation (EC) No 1272/2008;
+(e) substances meeting the criteria for classification as endocrine disruption for human health category 1 or as endocrine
+disruption for environment category 1 in accordance with Regulation (EC) No 1272/2008;
+(f) substances meeting the criteria for classification as persistent, bioaccumulative and toxic in accordance with
+Regulation (EC) No 1272/2008;
+(g) substances meeting the criteria for classification as very persistent and very bioacumulative in accordance with Regulation (EC) No 1272/2008;
+(h) substances meeting the criteria for classification as persistent, mobile and toxic in accordance with Regulation (EC)
+No 1272/2008;
+(i) substances meeting the criteria for classification as very persistent and very mobile in accordance with Regulation (EC) No 1272/2008;
+(j) substances meeting the criteria for classification as respiratory sensitiser category 1 in accordance with Regulation (EC)
+No 1272/2008, except enzymes;
+(k) substances meeting the criteria for classification as skin sensitiser category 1 in accordance with Regulation (EC) No 1272/2008;
+(l) substances meeting the criteria for classification as having chronic hazard to the aquatic environment category 1, 2, 3
+or 4 in accordance with Regulation (EC) No 1272/2008;
+(m) substances meeting the criteria for classification as hazardous to the ozone layer in accordance with Regulation (EC) No 1272/2008;
+(n) substances meeting the criteria for classification as having specific target organ toxicity – repeated exposure category 1
+or 2 in accordance with Regulation (EC) No 1272/2008;
+(o) substances meeting the criteria for classification as having specific target organ toxicity – single exposure category 1 or 2 in accordance with Regulation (EC) No 1272/2008.
+4.Compostable plastic materials in packaging applications are used only for very lightweight plastic carrier bags; tea,
+coffee or other beverage bags; tea, coffee or other beverage pads and sticky labels attached to fruit and vegetables.
+Do no significant harm (‘DNSH’)
+(1) Climate change mitigation For plastic manufactured from chemical recycled feedstock, life-cycle GHG emissions of
+the manufactured plastic, excluding any calculated credits from the production of fuels,
+are lower than the life-cycle GHG emissions of the equivalent plastic in primary form
+manufactured from fossil fuel feedstock. Life-cycle GHG emissions are calculated using
+Commission Recommendation (EU) 2021/2279 (
+10)or, alternatively, using ISO
+14067:2018 (11)or ISO 14064-1:2018 (12). Quantified life-cycle GHG emissions are
+verified by an independent third party.
+(10)Commission Recommendation (EU) 2021/2279 of 15 December 2021 on the use of the Environmental Footprint methods to
+measure and communicate the life cycle environmental performance of products and organisations (OJ L 471, 30.12.2021, p. 1).
+(11)ISO Standard 14067:2018, Greenhouse gases – carbon footprint of products – requirements and guidelines for quantification (version of 27.6.2023: https://www.iso.org/standard/71206.html).
+(12)ISO standard 14064-1:2018, Greenhouse gases – Part 1: Specification with guidance at the organisation level for quantification and reporting of greenhouse gas emissions and removals (version of 27.6.2023: https://www.iso.org/standard/66453.html).OJ L, 21.11.2023 EN  
+
+--- Page 31 of 164 ---

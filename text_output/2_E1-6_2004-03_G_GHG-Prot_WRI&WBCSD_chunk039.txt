@@ -1,0 +1,68 @@
+File Name: 2_E1-6_2004-03_G_GHG-Prot_WRI&WBCSD.pdf
+Converted on: 2025-03-28 03:20:43
+Original Size: 3.51 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 39 of 104
+--------------------------------------------------------------------------------
+
+GUIDANCEIdentifying and Calculating GHG Emissions
+CHAPTER 6 44Stationary Combustion
+Mobile Combustion
+HFC from Air Conditioning
+and Refrigeration Use
+Measurement and Estimation
+Uncertainty for GHG Emissions
+Aluminum and other non-
+Ferrous Metals Production
+Iron and Steel
+Nitric Acid Manufacture
+Ammonia Manufacture
+Adipic Acid Manufacture
+Cement
+Lime
+HFC-23 from
+HCFC-22 Production
+Pulp and Paper
+Semi-Conductor
+Wafer Production
+Guide for Small
+Office-Based OrganizationsCalculates direct and indirect CO2emissions from fuel combustion in stationary equipment
+Provides two options for allocating GHG emissions from a co-generation facility
+Provides default fuel and national average electricity emission factors
+Calculates direct and indirect CO2emissions from fuel combustion in mobile sources
+Provides calculations and emission factors for road, air, water, and rail transport
+Calculates direct HFC emissions during manufacture, use and disposal of refrigeration and air-
+conditioning equipment in commercial applications
+Provides three calculation methodologies: a sales-based approach, a life cycle stage based
+approach, and an emission factor based approach
+Introduces the fundamentals of uncertainty analysis and quantification
+Calculates statistical parameter uncertainties due to random errors related to calculation of
+GHG emissions
+Automates the aggregation steps involved in developing a basic uncertainty assessment for GHG
+inventory data
+Calculates direct GHG emissions from aluminum production (CO2from anode oxidation, PFC emis-
+sions from the “anode effect,” and SF6used in non-ferrous metals production as a cover gas)
+Calculates direct GHG emissions (CO2) from oxidation of the reducing agent, from the calcination
+of the flux used in steel production, and from the removal of carbon from the iron ore and scrapsteel used
+Calculates direct GHG emissions (N
+2O) from the production of nitric acid
+Calculates direct GHG emissions (CO2) from ammonia production. This is for the removal of
+carbon from the feedstock stream only; combustion emissions are calculated with the stationarycombustion module
+Calculates direct GHG emissions (N
+2O) from adipic acid production
+Calculates direct CO2emissions from the calcination process in cement manufacturing (WBCSD
+tool also calculates combustion emissions)
+Provides two calculation methodologies: the cement-based approach and the clinker-based approach
+Calculates direct GHG emissions from lime manufacturing (CO2from the calcination process)
+Calculates direct HFC-23 emissions from production of HCFC-22
+Calculates direct CO2, CH4, and N2O emissions from production of pulp and paper. This includes
+calculation of direct and indirect CO2emissions from combustion of fossil fuels, bio-fuels, and
+waste products in stationary equipment
+Calculates PFC emission from the production of semi-conductor wafers
+Calculates direct CO2emissions from fuel use, indirect CO2emissions from electricity
+consumption, and other indirect CO2emissions from business travel and commutingTABLE 3.  Overview of GHG calculation tools available on the GHG Protocol website CROSS-SECTOR TOOLSCALCULATION TOOLS MAIN FEATURES .SECTOR-SPECIFIC TOOLS
+
+--- Page 47 of 116 ---

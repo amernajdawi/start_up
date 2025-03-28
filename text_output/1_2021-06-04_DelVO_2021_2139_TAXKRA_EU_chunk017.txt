@@ -1,0 +1,53 @@
+File Name: 1_2021-06-04_DelVO_2021_2139_TAXKRA_EU.pdf
+Converted on: 2025-03-28 03:20:30
+Original Size: 2.76 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 17 of 447
+--------------------------------------------------------------------------------
+
+as centralised waste water treatment systems, those technical screening criteria should take into account absolute
+performance and relative performance improvement targets in relation to energy consumption and alternative
+metrics, where relevant, such as leakage levels in water supply systems.  
+(33)  Transport operations consume one third of all energy in the Union and account for approximately 23 % of total 
+direct greenhouse gas emissions in the Union. Decarbonising the transport fleet and infrastructure can therefore
+play a central role in climate change mitigation. Technical screening criteria for the transport sector should focus
+on reducing the main emission sources from that sector, while also considering the need to shift the transport of
+people and goods to lower emission modes and for the creation of an infrastructure that enables clean mobility.
+Technical screening criteria for the transport sector should therefore focus on the performance within one
+transport mode, while also taking into account the performance of that transport mode in comparison with
+other transport modes.  
+(34)  Given their potential to reduce their greenhouse gas emissions and thus contribute to greening the transport sector, 
+maritime shipping and aviation constitute important transport modes for the transition to a low-carbon economy.
+According to the communication from the Commission of 9 December 2020 ‘Sustainable and Smart Mobility
+Strategy– putting European transport on track for the future’ (  13 ), zero emission vessels are expected to become 
+ready for market by 2030. According to that strategy, large zero-emission aircrafts are expected to become ready
+for market by 2035 for short distance, while for longer distance decarbonisation is expected to rely on renewable
+and low-carbon fuels. Separate studies have also been conducted on sustainable financing criteria for those sectors.
+Therefore, maritime shipping should be considered as a transitional economic activity as referred to in Article 10(2)
+of Regulation (EU) 2020/852. Shipping is one of the least carbon intensive ways to transport goods. To ensure
+equal treatment of shipping in comparison with other modes of transport, technical screening criteria for maritime
+transport should be established and should be applicable until the end of 2025. It will however be necessary to
+further assess maritime shipping and, where appropriate, to establish technical screening criteria for maritime
+shipping applicable as of 2026. It will also be necessary to further assess aviation and, where appropriate, to
+establish relevant technical screening criteria. Furthermore, the technical screening criteria should be established for
+low carbon transport infrastructure for certain modes of transport. However, in light of the potential of transport
+infrastructure to contribute to modal shift, it will be necessary to assess and where appropriate establish relevant
+technical screening criteria for overall infrastructure that is essential for low carbon transport modes, notably
+inland waterways. Depending on the outcome of the technical assessment, relevant technical screening criteria
+should also be established for the economic activities referred to in this recital at the time of adoption of the
+delegated act referred to in Articles 12(2), 13(2), 14(2) and 15(2) of Regulation (EU) 2020/852.  
+(35)  To ensure that the transport activities considered as sustainable do not facilitate the use of fossil fuels, the technical 
+screening criteria for the relevant activities should exclude assets, operations and infrastructure dedicated to
+transport of fossil fuels. While applying this criterion, it is necessary to recognise the multiple uses, different
+ownership, user arrangements and fuels blending rates, in line with the relevant existing market practices. The
+Platform on Sustainable Finance should assess the usability of this criterion in the context of fulfilling its mandate.  
+(36)  Buildings across all sectors in the Union are responsible for 40 % of energy consumption and 36 % of carbon 
+emissions. Buildings can therefore play an important role in climate change mitigation. Technical screening criteria
+should therefore be laid down for the construction of new buildings, for building renovation, installation of
+different energy efficiency equipment, on-site renewables, provision of energy services, and for the acquisition
+and ownership of buildings. Those technical screening criteria should be based on the potential impact of those
+activities, on the energy performance of buildings and on related greenhouse gas emissions and embedded carbon.
+For new buildings, it might be necessary to review the technical screening criteria to ensure that those criteria

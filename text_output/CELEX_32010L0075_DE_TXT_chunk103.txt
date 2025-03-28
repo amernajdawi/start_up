@@ -1,0 +1,147 @@
+File Name: CELEX_32010L0075_DE_TXT.pdf
+Converted on: 2025-03-28 03:18:33
+Original Size: 4.18 MB
+Chunk Size: 500 tokens with 50 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 103 of 163
+--------------------------------------------------------------------------------
+
+17.12.2010 DE Amtsblattder Europäischen Union L 334/67
+ANHANG VI
+Technische Bestimmu ngen
+für
+Abfallverbrennu ngs-
+und
+Abfallmitverbrennu ngsanlagen
+TEIL
+1
+Begriffsbestimmungen
+Im
+Sinne
+dieses Anhangs
+bezeichnet
+der Ausdruck :
+a) „
+bestehende
+Abfallverbrennungsanlage
+“ eine
+der folgenden
+Abfallver
+brennungsanlagen:
+i) eine
+Anlage,
+die vor dem 28. Dezemb er
+2002 in
+Betrieb
+war und
+für die vor diesem Zeitpun kt
+eine
+den
+geltenden
+Unionsvorschriften
+entsprechende
+Genehmigung
+erteilt wurde,
+ii) eine
+Anlage,
+die für die Verb rennung
+von
+Abfällen
+genehmigt
+oder regis
+triert wurde un d
+für die ein e
+den
+gelten­
+den
+Unionsvorschriften
+entsprechende
+Genehmigung
+vor dem 28. Dezemb er
+2002 erteilt wurde, sofern die
+Anlage
+spätestens
+am 28. Dezemb er
+2003 in
+Betrieb
+genommen
+wurde,
+iii) eine
+Anlage,
+für die nach
+Auffassun g
+der zustän digen
+Behörden  
+vor dem 28. Dezemb er
+2002 ein
+vollständiger
+Genehmigungsantrag
+gestellt
+worden
+ist, sofern  
+die Anlage
+spätestens
+am 28. Dezemb er
+2004 in
+Betrieb
+genom­
+men
+wurde;
+b) „
+neue
+Abfallverbrennungsanlage
+“ jede nicht
+unter
+Buchstabe
+a fallend
+e Abfallverbrennungsanlage.
+TEIL
+2
+Äquivalenzfaktoren für Dibenzo-p-Dioxine und Dibenzofurane
+Zur Bestimmun g
+der kumulierten
+Werte sind
+die Massen konzentrationen
+folgender
+Dibenzo-p-Dioxine
+und
+Dibenzofurane
+mit
+folgenden
+Äquivalen zfaktoren
+zu multiplizieren ,
+bevor
+sie zusammeng ezählt
+werden:
+Toxischer
+Äquivalen zfaktor
+2,3,7,8 — Tetrachlorodib enzodioxin (TCDD) 1
+1,2,3,7,8
+— Pentachlorodibenzodioxin
+(PeCDD) 0,5
+1,2,3,4,7,8 — Hexachlorodib enzodioxin
+(HxCDD) 0,1
+1,2,3,6,7,8 — Hexachlorodib enzodioxin
+(HxCDD) 0,1
+1,2,3,7,8,9 — Hexachlorodib enzodioxin
+(HxCDD) 0,1
+1,2,3,4,6,7,8 — Heptachlorodib enzodioxin
+(HpCDD) 0,01
+Octachlorodib enzodioxin
+(OCDD) 0,001
+2,3,7,8 — Tetrachlorodib enzofuran
+(TCDF) 0,1
+2,3,4,7,8 — Pen tachlorodibenzofuran
+(PeCDF) 0,5
+1,2,3,7,8 — Pen tachlorodibenzofuran
+(PeCDF) 0,05
+1,2,3,4,7,8 — Hexachlorodib enzofuran
+(HxCDF) 0,1
+1,2,3,6,7,8 — Hexachlorodib enzofuran
+(HxCDF) 0,1
+1,2,3,7,8,9 — Hexachlorodib enzofuran
+(HxCDF) 0,1
+2,3,4,6,7,8 — Hexachlorodib enzofuran
+(HxCDF) 0,1

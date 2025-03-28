@@ -1,0 +1,44 @@
+File Name: 2_E1-6_2014-01-01_G_GHG-Agri_WRI&WBCSD.pdf
+Converted on: 2025-03-28 03:18:26
+Original Size: 1.75 MB
+Chunk Size: 500 tokens with 50 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 70 of 108
+--------------------------------------------------------------------------------
+
+1. Sequestration in harvested woody products (HWPs) and herbaceous vegetation
+The C contained in HWPs should not be include d in any reported values for the amount
+of sequestration in above-ground woody biomas s stocks. Depending on how these values
+have been calculated, this may mean that the amount of C in HWPs will have to be
+subtracted from estimates of the total amount  of sequestration. This subtraction is 
+necessary to ensure that i nventories do not over-estimate the net GHG benefits of woody
+crop production.  
+The biomass associated with annual and pere nnial herbaceous vegetation is relatively
+ephemeral - reductions in these biomass stoc ks from harvesting, the burning of the crop
+residues, or the integration of crop residues into soils, ar e balanced by stock increases
+from plant re-growth over a period of only one  to a few years. Consequently, companies 
+should also not report any sequestrati on in herbaceous biomass stocks.  
+
+2. CO
+2 fluxes to/from livestock
+The carbon incorporated into animal tissues or  lost through animal respiration should not 
+be reported in an inventory.  
+Special note: Accounting for natural disturbances, conservation
+areas, and payments for environmental services  
+Natural  disturbances  are varied and include fires, windstorms, landslides, droughts, and 
+pest outbreaks. Conservation areas  are lands where agricultural production has been 
+limited or halted so as to provide environm ental benefits, such as maintaining or
+
+--- Page 63 of 103 ---
+
+GHG Protocol Agricultural Guidance
+
+63
+improving water quality or wildlife habitat. Such areas may be established mandatorily,
+to meet legal requirements for resource pr otection, or voluntarily, to contribute to the
+public good and/or take advant age of financial incentives. Payments for Environmental
+Services  (PESs) are incentives offered to fa rmers or landowners in exchange for 
+managing their land to provide some sort of  ecological service. Box 8-1 shows some 
+examples of conservation areas and PESs.

@@ -1,0 +1,39 @@
+File Name: 2_E1-6_2004-03_G_GHG-Prot_WRI&WBCSD.pdf
+Converted on: 2025-03-28 03:18:16
+Original Size: 3.51 MB
+Chunk Size: 500 tokens with 50 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 137 of 225
+--------------------------------------------------------------------------------
+
+GUIDANCEVerification of GHG Emissions
+70if its value exceeds 5% of the total inventory for the part
+of the organization being verified.
+The verifier needs to assess an error or omission in the
+full context within which information is presented. Forexample, if a 2% error prevents a company fromachieving its corporate target then this would most likelybe considered material. Understanding how verifiersapply a materiality threshold will enable companies tomore readily establish whether the omissions of an indi-vidual source or activity from their inventory is likely toraise questions of materiality.
+Materiality thresholds may also be outlined in the
+requirements of a specific GHG program or determinedby a national verification standard, depending on whois requiring the verification and for what reasons. Amateriality threshold provides guidance to verifiers onwhat may be an immaterial discrepancy so that they canconcentrate their work on areas that are more likely to lead to materially misleading errors. A materialitythreshold is not the same as de minimis emissions, or a permissible quantity of emissions that a company canleave out of its inventory.
+Assessing the risk of material discrepancy
+Verifiers need to assess the risk of material discrepancyof each component of the GHG information collection andreporting process. This assessment is used to plan anddirect the verification process. In assessing this risk, theywill consider a number of factors, including:
+The structure of the organization and the approach
+used to assign responsibility for monitoring andreporting GHG emissions
+The approach and commitment of management to
+GHG monitoring and reporting
+Development and implementation of policies and
+processes for monitoring and reporting (includingdocumented methods explaining how data is generatedand evaluated)
+Processes used to check and review calculation
+methodologies
+Complexity and nature of operations
+Complexity of the computer information system used
+to process the informationThe state of calibration and maintenance of meters
+used, and the types of meters used
+Reliability and availability of input data
+Assumptions and estimations applied
+Aggregation of data from different sources
+Other assurance processes to which the systems and
+data are subjected (e.g., internal audit, externalreviews and certifications).
+Establishing the verification parameters
+The scope of an independent verification and the level ofassurance it provides will be influenced by the company'sgoals and/or any specific jurisdictional requirements. Itis possible to verify the entire GHG inventory or specificparts of it. Discrete parts may be specified in terms ofgeographic location, business units, facilities, and type ofemissions. The verification process may also examinemore general managerial issues, such as quality manage-ment procedures, managerial awareness, availability ofresources, clearly defined responsibilities, segregation ofduties, and internal review procedures.
+The company and verifier should reach an agreement up-

@@ -1,0 +1,57 @@
+File Name: 1_2021-06-04_DelVO_2021_2139_TAXKRA_EU.pdf
+Converted on: 2025-03-28 03:20:30
+Original Size: 2.76 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 79 of 447
+--------------------------------------------------------------------------------
+
+Well documented and verifiable measures are taken to avoid the use of
+active ingredients that are listed in Annex I, part A, of Regulation (EU)
+2019/1021 (  72 ), the Rotterdam Convention on the prior informed consent 
+procedure for certain hazardous chemicals and pesticides in international
+trade, the Minamata Convention on Mercury, the Montreal Protocol on
+Substances that Deplete the Ozone Layer, and of active ingredients that are
+listed as classification Ia (‘extremely hazardous’) or Ib (‘highly hazardous’)
+in the WHO recommended Classification of Pesticides by Hazard (  73 ). The 
+activity complies with the relevant national implementing law on active
+ingredients.
+Pollution of water and soil is prevented and cleaning up measures are
+undertaken when pollution occurs.  
+(6) Protection and restoration of
+biodiversity and ecosystems  In areas designated by the national competent authority for conservation 
+or in habitats that are protected, the activity is in accordance with the
+conservation objectives for those areas.
+There is no conversion of habitats specifically sensitive to biodiversity loss
+or with high conservation value, or of areas set aside for the restoration of
+such habitats in accordance with national law.
+The plan referred to in point 1 (Restoration plan) of this Section includes
+provisions for maintaining and possibly enhancing biodiversity in
+accordance with national and local provisions, including the following:
+(a) ensuring the good conservation status of habitat and species, main ­
+tenance of typical habitat species;
+(b) excluding the use or release of invasive species.  
+3.  MANUFACTURING  
+3.1.  Manufacture of renewable energy technologies  
+Description of the activity  
+Manufacture of renewable energy technologies, where renewable energy is defined in Article 2(1) of Directive (EU)
+2018/2001.  
+The economic activities in this category could be associated with several NACE codes, in particular C25, C27, C28
+in accordance with the statistical classification of economic activities established by Regulation (EC)
+No 1893/2006.  
+An activity in this category is an enabling activity in accordance with Article 10(1), point (i), of Regulation (EU)
+2020/852 where it complies with the technical screening criteria set out in this Section.  
+Technical screening criteria  
+Substantial contribution to climate change mitigation  
+The economic activity manufactures renewable energy technologies.  
+Do no significant harm (‘DNSH’)  
+(2) Climate change adaptation  The activity complies with the criteria set out in Appendix A to this 
+Annex.  
+_____________
+( 72 ) Which implements in the Union the Stockholm Convention on persistent organic pollutants (OJ L 209, 31.7.2006, p. 3).
+( 73 ) The WHO Recommended Classification of Pesticides by Hazard (version 2019), (version of 4.6.2021: https://apps.who.int/iris/
+bitstream/handle/10665/332193/9789240005662- eng.pdf?ua=1).EN  L 442/40 Official Journal of the European Union 9.12.2021
+
+--- Page 41 of 349 ---

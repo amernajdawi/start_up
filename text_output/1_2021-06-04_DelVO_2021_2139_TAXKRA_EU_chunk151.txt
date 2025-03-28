@@ -1,0 +1,53 @@
+File Name: 1_2021-06-04_DelVO_2021_2139_TAXKRA_EU.pdf
+Converted on: 2025-03-28 03:20:30
+Original Size: 2.76 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 151 of 447
+--------------------------------------------------------------------------------
+
+(4) Transition to a circular economy  Vehicles of category N1, N2 and N3 are both of the following: 
+(a) reusable or recyclable to a minimum of 85 % by weight;
+(b) reusable or recoverable to a minimum of 95 % by weight (  243  ). 
+Measures are in place to manage waste both in the use phase (main ­
+tenance) and the end-of-life of the fleet, including through reuse and
+recycling of batteries and electronics (in particular critical raw materials
+therein), in accordance with the waste hierarchy.  
+(5) Pollution prevention and control  For road vehicles of categories M and N, tyres comply with external rolling 
+noise requirements in the highest populated class and with Rolling
+Resistance Coefficient (influencing the vehicle energy efficiency) in the
+two highest populated classes as set out in Regulation (EU) 2020/740
+and as can be verified from the European Product Registry for Energy
+Labelling (EPREL). Vehicles comply with the requirements of the most
+recent applicable stage of the Euro VI heavy duty emission type-appro ­
+val (  244  ) set out in accordance with Regulation (EC) No 595/2009. 
+Vehicles comply with Regulation (EU) No 540/2014.  
+(6) Protection and restoration of
+biodiversity and ecosystems  N/A  
+6.7.  Inland passenger water transport  
+Description of the activity  
+Purchase, financing, leasing, rental and operation of passenger vessels on inland waters, involving vessels that are
+not suitable for sea transport.  
+The economic activities in this category could be associated with NACE code H50.30 in accordance with the
+statistical classification of economic activities established by Regulation (EC) No 1893/2006.  
+Where an economic activity in this category does not fulfil the substantial contribution criterion specified in
+point (a) of this Section, the activity is a transitional activity as referred to in Article 10(2) of Regulation (EU)
+2020/852, provided it complies with the remaining technical screening criteria set out in this Section.  
+Technical screening criteria  
+Substantial contribution to climate change mitigation  
+The activity complies with one of the following criteria:
+(a) the vessels have zero direct (tailpipe) CO  2 emissions; 
+(b) until 31 December 2025, hybrid and dual fuel vessels derive at least 50 % of their energy from zero direct
+(tailpipe) CO  2 emission fuels or plug-in power for their normal operation.  
+Do no significant harm (‘DNSH’)  
+(2) Climate change adaptation  The activity complies with the criteria set out in Appendix A to this 
+Annex.  
+_____________
+( 243  ) As set out in Annex I to Directive 2005/64/EC. 
+( 244  ) Commission Regulation (EU) No 582/2011 of 25 May 2011 implementing and amending Regulation (EC) No 595/2009 of the 
+European Parliament and of the Council with respect to emissions from heavy duty vehicles (Euro VI) and amending Annexes I
+and III to Directive 2007/46/EC of the European Parliament and of the Council (OJ L 167, 25.6.2011, p. 1).EN  L 442/108 Official Journal of the European Union 9.12.2021
+
+--- Page 109 of 349 ---

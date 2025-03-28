@@ -1,0 +1,32 @@
+File Name: 2_E1-6_2004-03_G_GHG-Prot_WRI&WBCSD.pdf
+Converted on: 2025-03-28 03:18:16
+Original Size: 3.51 MB
+Chunk Size: 500 tokens with 50 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 196 of 225
+--------------------------------------------------------------------------------
+
+Absolute target A target defined by reduction in absolute emissions over time e.g., reduces CO2emissions by 25%
+below 1994 levels by 2010. (Chapter 11)
+Additionality A criterion for assessing whether a project has resulted in GHG emission reductions or removals in
+addition to what would have occurred in its absence. This is an important criterion when the goal ofthe project is to offset emissions elsewhere. (Chapter 8)
+Allowance A commodity giving its holder the right to emit a certain quantity of GHG. (Chapter 11)
+Annex 1 countries Defined in the International Climate Change Convention as those countries taking on emissions
+reduction obligations: Australia; Austria; Belgium; Belarus; Bulgaria; Canada; Croatia; CzechRepublic; Denmark; Estonia; Finland; France; Germany; Greece; Hungary; Iceland; Ireland; Italy; Japan;Latvia; Liechtenstein; Lithuania; Luxembourg; Monaco; Netherlands; New Zealand; Norway; Poland;Portugal; Romania; Russian Federation; Slovakia; Slovenia; Spain; Sweden; Switzerland; Ukraine;United Kingdom; USA.
+Associated/affiliated company The parent company has significant influence over the operating and financial policies of the
+associated/affiliated company, but not financial control. (Chapter 3)
+Audit Trail Well organized and transparent historical records documenting how an inventory was compiled.
+Baseline A hypothetical scenario for what GHG emissions, removals or storage would have been in the absence
+of the GHG project or project activity. (Chapter 8)
+Base year A historic datum (a specific year or an average over multiple years) against which a company’s
+emissions are tracked over time. (Chapter 5)
+Base year emissions GHG emissions in the base year. (Chapter 5)
+Base year emissions recalculation Recalculation of emissions in the base year to reflect a change in the structure of the company, or
+to reflect a change in the accounting methodology used. This ensures data consistency over time, i.e.,comparisons of like with like over time. (Chapter 5, 11)
+Biofuels Fuel made from plant material, e.g. wood, straw and ethanol from plant matter (Chapter 4, 9, Appendix B)
+Boundaries GHG accounting and reporting boundaries can have several dimensions, i.e. organizational, opera-
+tional, geographic, business unit, and target boundaries. The inventory boundary determines whichemissions are accounted and reported by the company. (Chapter 3, 4, 11)
+Cap and trade system A system that sets an overall emissions limit, allocates emissions allowances to participants, and
+allows them to trade allowances and emission credits with each other. (Chapter 2, 8, 11)

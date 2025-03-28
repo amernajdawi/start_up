@@ -1,0 +1,48 @@
+File Name: 1_2023-07-31_DelVO_2023_2772_ESRS_EU.pdf
+Converted on: 2025-03-28 03:20:41
+Original Size: 5.82 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 81 of 284
+--------------------------------------------------------------------------------
+
+ELI: http://data.europa.eu/eli/reg_del/2023/2772/oj 83/284(b) whether and how these claims and the reliance on carbon credits neither impede nor reduce the achievement of
+its GHG emission reduction targets (40), or, if applicable, its net zero target; and
+(c) the credibility and integrity of the carbon credits used, including by reference to recognised quality standards.
+Disclosure Requirement E1-8 – Internal carbon pricing
+62. The undertaking shall disclose whether it applies internal carbon pricing schemes, and if so, how they
+support its decision making and incentivise the implementation of climate-related policies and targets.
+63. The information required in paragraph 62 shall include:
+(a) the type of internal carbon pricing scheme, for example, the shadow prices applied for CapEX or research and
+development (R&D) investment decision making, internal carbon fees or internal carbon funds;
+(b) the specific scope of application of the carbon pricing schemes (activities, geographies, entities, etc.);
+(c) the carbon prices applied according to the type of scheme and critical assumptions made to determine the prices,
+including the source of the applied carbon prices and why these are deemed relevant for their chosen application.
+The undertaking may disclose the calculation methodology of the carbon prices including the extent to which
+these have been set using scientific guidance and how their future development is related to science-based
+carbon pricing trajectories; and
+(d) the current year approximate gross GHG emission volumes by Scopes 1, 2 and, where applicable, Scope 3 in
+metric tonnes of CO2eq covered by these schemes, as well as their share of the undertaking’s overall GHG
+emissions for each respective Scope.
+Disclosure Requirement E1-9 – Anticipated financial effects from material physical and transition risks and potential
+climate-related opportunities
+64. The undertaking shall disclose its:
+(a) anticipated financial effects from material physical risks;
+(b) anticipated financial effects from material transition risks; and
+(c) potential to benefit from material climate-related opportunities.
+65. The information required by paragraph 64 is in addition to the information on current financial effects required
+under ESRS 2 SBM-3 para 48 (d). The objective of this Disclosure Requirement related to:
+(a) anticipated financial effects due to material physical risks and transition risks is to provide an understanding
+of how these risks have (or could reasonably be expected to have) a material influence on the undertaking’s
+financial position, financial performance and cash flows, over the short-, medium- and long- term. The results
+of scenario analysis used to conduct resilience analysis as required under paragraphs AR 10 to AR 13 should
+inform the assessment of anticipated financial effects from material physical and transition risks.
+(b) potential to pursue material climate-related opportunities is to enable an understanding of how the undertaking
+may financially benefit from material climate- related opportunities. This disclosure is complementary to the key
+performance indicators to be disclosed in accordance with Commission Delegated Regulation (EU) 2021/2178.
+(40)This information is aligned with Regulation (EU) 2021/1119 of the European Parliament and of the Council (EU Climate Law),
+Article 2 (1).OJ L, 22.12.2023 EN  
+
+--- Page 84 of 284 ---

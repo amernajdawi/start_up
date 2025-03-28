@@ -1,0 +1,117 @@
+File Name: 2_E1-6_2006-01-01_GHG-LuLu_WRI&WBCSD.pdf
+Converted on: 2025-03-28 03:20:49
+Original Size: 6.41 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 16 of 50
+--------------------------------------------------------------------------------
+
+7 . 1 . 4 S E L E C T A N A P P R O P R I AT E
+S T R I N G E N C Y L E V E L
+Anappropriatestringencyleveltypicallyresultsina
+performancestandardthathashigherthan(weighted)mean
+GHGremovals.Theaimofthestringencylevelistomake
+surethatonlythoseprojectactivitiesrepresentingbetter
+GHGmanagement practicesorhigherGHG-performingland
+usesgenerateGHGreductions.Althoughthereisnohardor
+fastruleforchoosingastringencylevel,thereareanumber
+offactorstoconsiderwhenselectingit:1 . Regulatoryrequirements;forexample,iflegaldrivers
+resultinhigherGHGremovals,thenahigherstringency
+levelmaybeappropriate.
+2 . Recentandplannedinvestments;forexample,ifthereis
+atrendinthegeographicareaforlandtobeconverted
+fromagriculturalusestoforestuses,thenahigherstrin -
+gencylevelmaybeappropriate.38
+CHAPTER7:EstimatingtheBaselineGHGRemovals—P erformanceStandardProcedure Eachoffourdifferenttypesofbaselinecandidatesrepresentsadifferentlanduse,andeachlandusehasthefollowingGHGremovalsforeachtimeperiod:
+ThemoststringentstringencylevelisrepresentedbythehighestGHGremovalsineachtimeperiod.Therefore,themoststringentstringency
+levelis22tCO 2/haintimeperiod1,33tCO 2/haintimeperiod2,and77tCO 2/haintimeperiod3.
+TheweightedmeanGHGremovalsfortimeperiod1arecalculatedas(-7.33 •400)+(-14.67 •700)+(7.33 •300)+(22 •700)
+(400+700+300+700)
+=2.094tCO 2/ha
+ThepercentileGHGremovalsarecalculatedasfollows:
+•SorteachhectarebyitsGHGremovals,fromlowesttohighestandassignitarank.
+•Todeterminethe90thpercentileGHGremovalsintimeperiod1:
+w=(2100 •90)/100+0.5=1890.50
+Therefore,g=1890andf =0.50
+pe=(1-0.5) •22+0.5 •22=22tCO 2/ha •Todeterminethe50thpercentile(ormedian)GHGremovalsin
+timeperiod1:
+w=(2100 •50)/100+0.5=1050.50
+Therefore,g=1050andf=0.50
+pe =(1-0.5) •-7.33+0.5 •-7.33=-7.33tCO 2/ha 2B O X 7 . 4 SampleCalculationsofSpecificPercentilesforaLULUCFProject
+T Y P E O F
+B A S E L I N E
+C A N D I D AT E S
+Landarearepre -
+sentedbybaseline
+candidateswith
+thesamecarbon
+stocks(ha)
+Timeperiod0
+Timeperiod1
+Timeperiod2
+Timeperiod3 Carbonstock
+(tC/ ha)
+310
+308 302 297 GHG
+removals
+(tCO
+2/ha)
+-7.3
+-22
+-22 Carbonstock
+(tC/ ha)
+224
+220
+216
+212 GHG
+removals
+(tCO 2/ha)
+-14.7
+-14.7
+-14.7 Carbonstock
+(tC/ ha)
+382
+384 388 392 GHG
+removals
+(tCO
+2/ha)
+7.3
+14.7
+14.7 Carbonstock
+(tC /ha)
+250
+256 267 288 GHG
+removals
+(tCO
+2/ha)
+22
+33 77
+1–700
+-14.67
+1–400
+-22
+-22 701–1101
+-7.33
+401–1101
+-14.67
+-14.67 1102–1402
+7.33
+1102–1402
+14.67
+14.67 1403–2103
+22
+1403–2103
+33 77 Timeperiod1
+Timeperiod2
+Timeperiod3 A
+4 0 0 B
+7 0 0 C
+3 0 0 D
+7 0 0
+R A N K , m,F O R E A C H h a
+AssignedGHGremoval,x m(tCO 2/ha)
+R A N K , m,F O R E A C H h a
+
+--- Page 41 of 100 ---

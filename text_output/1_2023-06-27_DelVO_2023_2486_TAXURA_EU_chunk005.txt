@@ -1,0 +1,38 @@
+File Name: 1_2023-06-27_DelVO_2023_2486_TAXURA_EU.pdf
+Converted on: 2025-03-28 03:20:36
+Original Size: 8.44 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 5 of 199
+--------------------------------------------------------------------------------
+
+ELI: http://data.europa.eu/eli/reg_del/2023/2486/oj 3/164(8) The technical screening criteria for determining under which conditions an economic activity qualifies as
+contributing substantially to the sustainable use and protection of water and marine resources should reflect the
+need to achieve good status for all water bodies and good environmental status for marine waters, and to prevent the deterioration of water bodies that already have good status or marine waters that are already in good
+environmental status. It is therefore appropriate to focus first on those economic activities and sectors that have the
+greatest potential to achieve those aims.
+(9) The Union framework for water protection (
+6)ensures an integrated approach to water management, respecting the
+integrity of whole ecosystems. The technical screening criteria should therefore aim at addressing the adverse effects of urban and industrial waste water discharges, protecting human health from the adverse impact of any
+contamination of water intended for human consumption, improving water management and the efficiency of
+water use, ensuring the sustainable use of marine ecosystem services, contributing to the good environmental status of marine waters and to the overall achievement and maintenance of good status or good potential of bodies of
+water, including bodies of surface water and groundwater. Technical screening criteria for urban waste water
+treatment as activity providing a substantial contribution to one or more environmental objectives should be reviewed and where necessary revised, taking into account relevant Union law, including Council Directive 91/271/EEC (
+7).
+(10) As regards solutions inspired and supported by nature, which provide environmental, social and economic benefits
+and help build resilience, the technical screening criteria should aim at preventing and protecting against floods or
+droughts while enhancing natural water retention, biodiversity and water quality.
+(11) The transition to a circular economy is an enabler of environmental sustainability that generates significant benefits for the sustainable management of water, the protection and conservation of biodiversity, the prevention and control of pollution and the mitigation of climate change. The circular economy reflects the need for economic activities to
+promote efficient use of resources through appropriate re-use and recycling of resources. The technical screening
+criteria for determining under which conditions an economic activity qualifies as contributing substantially to the transition to a circular economy should therefore ensure that in the design and production phase, the operator takes
+into account the long-term value retention and waste reduction of the product over its lifecycle. During its use phase,
+the product should be subject to maintenance to extend its life, while reducing the amount of waste. The product should be dismantled or treated after its use to ensure that it can be re-used or recycled for the manufacturing of
+another product. That approach can limit the dependency of the Union’s economy on materials imported from
+third countries, which is particularly important in respect of critical raw materials. It is therefore appropriate to
+focus first on those economic activities and sectors that have the greatest potential to achieve those aims.
+(6)In particular Directive 2000/60/EC of the European Parliament and of the Council of 23 October 2000 establishing a framework for
+Community action in the field of water policy (OJ L 327, 22.12.2000, p. 1), Directive 2008/105/EC of the European Parliament and
+of the Council of 16 December 2008 on environmental quality standards in the field of water policy, amending and subsequently repealing Council Directives 82/176/EEC, 83/513/EEC, 84/156/EEC, 84/491/EEC, 86/280/EEC and amending Directive 2000/60/EC of the European Parliament and of the Council (OJ L 348, 24.12.2008, p. 84), Directive 2006/118/EC of the European Parliament and
+of the Council of 12 December 2006 on the protection of groundwater against pollution and deterioration (OJ L 372, 27.12.2006,

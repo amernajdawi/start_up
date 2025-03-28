@@ -1,0 +1,15 @@
+File Name: 1_2023-07-31_DelVO_2023_2772_ESRS_EU.pdf
+Converted on: 2025-03-28 03:20:41
+Original Size: 5.82 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 252 of 284
+--------------------------------------------------------------------------------
+
+needs of financial market participants subject to Regulation ( EU ) 2019 / 2088 because it is derived from an additional indicator related to principal adverse impacts set out in in indicator # 16 of Table III of Annex I of Commission Delegated Regulation ( EU ) 2022 / 1288 with regard to disclosures rules on sustainable investments ( “ Cases of insufficient action taken to address breaches of standards of anti - corruption and anti - bribery ” ) . OJ L , 22 . 12 . 2023 EN - - - Page 251 of 284 - - -
+
+ELI: http://data.europa.eu/eli/reg_del/2023/2772/oj 251/28432. The objective of this Disclosure Requirement is to provide insights on the contractual payment terms and on its performance with regard to payment, especially as to how these impact SMEs and specifically with respect to late payments to SMEs. 33. The disclosure under paragraph 31 shall include: (a) the average time the undertaking takes to pay an invoice from the date when the contractual or statutory term of payment starts to be calculated, in number of days; (b) a description of the undertaking’s standard payment terms in number of days by main category of suppliers and the percentage of its payments aligned with these standard terms; (c) the number of legal proceedings currently outstanding for late payments; and (d) complementary information necessary to provide sufficient context. If the undertaking has used representative sampling to calculate the information required under point (a), it shall state that fact and briefly describe the methodology used.OJ L, 22.12.2023 EN 
+
+--- Page 252 of 284 ---

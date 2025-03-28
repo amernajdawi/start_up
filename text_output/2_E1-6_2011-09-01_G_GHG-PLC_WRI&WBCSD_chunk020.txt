@@ -1,0 +1,47 @@
+File Name: 2_E1-6_2011-09-01_G_GHG-PLC_WRI&WBCSD.pdf
+Converted on: 2025-03-28 03:20:53
+Original Size: 3.27 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 20 of 116
+--------------------------------------------------------------------------------
+
+[28]   Product Life Cycle Accounting and Reporting Standardrequirements
+The unit of analysis is defined as the performance
+characteristics and services delivered by the product
+being studied. The reference flow is the amount of
+product on which the results of the study are based.
+For all final products, companies shall define
+the unit of analysis as a functional unit.
+Final products are goods and services that are ultimately
+consumed by the end user rather than used in the
+production of another good or service. Since the function
+of a final product is known, companies shall define
+the unit of analysis as a functional unit. The functional
+unit, like unit of analysis, is defined as the performance
+characteristics and services delivered by the product
+being studied. A defined functional unit typically includes
+the function (service) a product fulfills, the duration
+or service life (amount of time needed to fulfill the
+function), and the expected quality level.For intermediate products where the
+eventual function is unknown, companies
+shall	define	the	unit	of	analysis	as	the 	
+reference	flow. 	
+Intermediate products are goods that are used as inputs
+in the production of other goods and services. For
+example, a plastic resin that is eventually transformed
+into plastic car parts is an intermediate product.
+In general, an intermediate product is a good that
+eventually becomes a material input into the life cycle of
+a final product.  Therefore, the service an intermediate 
+product fulfills is often dependent on the final product’s
+function. When that function is unknown to the company
+performing a GHG inventory on an intermediate product,
+it is not always possible to define the unit of analysis as
+the functional unit. In this case, companies shall define
+the unit of analysis for an intermediate product as the
+reference flow or amount of product being studied.
+
+--- Page 31 of 148 ---

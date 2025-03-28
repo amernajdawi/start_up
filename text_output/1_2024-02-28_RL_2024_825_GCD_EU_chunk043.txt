@@ -1,0 +1,36 @@
+File Name: 1_2024-02-28_RL_2024_825_GCD_EU.pdf
+Converted on: 2025-03-28 03:18:15
+Original Size: 0.61 MB
+Chunk Size: 500 tokens with 50 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 43 of 49
+--------------------------------------------------------------------------------
+
+ELI: http://data.europa.eu/eli/dir/2024/825/oj 13/16(3) in Article 6, paragraph 1 is amended as follows:
+(a) point (g) is replaced by the followi ng:
+‘(g) the arrang ements for payment, deliver y, including environmentally friendly deliver y options where available,
+performa nce, the time by which the trader under takes to deliver the goods or to perform the services and,
+where applicable, the trader ’s compl aint handling policy ;’;
+(b) point (l) is replaced by the followi ng:
+‘(l) a reminder of the existen ce of the legal guarant ee of conf ormity for goods and its main elements, including its
+minimum duration of two years as provided in Directive (EU) 2019/771, in a prominent manner , using the
+harmonised notice referred to in Article 22a of this Directive;’;
+(c) the follo wing points are inser ted:
+‘(la) where the producer offers the consumer a commercial guarantee of durability at no additional cost, covering
+the entire good and with a duration of more than two years, and makes that information available to the
+trader , the information that that good benefits from such a guarant ee, its duration and a reminder of the
+existen ce of the lega l guarantee of conf ormity , in a prominent manner , using the harmonised label refer red to
+in Article 22a;
+(lb) a reminder of the existen ce of the legal guarantee of conf ormity for digital conte nt and digital services;
+(lc) for goods with digital elements, for digital conte nt and for digital services, where the producer or the provider
+make s the information available to the trader , the minimum period, whether expressed as a period of time or
+by referen ce to a date , during whic h the producer or the provider provides software updates.’;
+(d) the follo wing points are added:
+‘(u) where applicable, the reparability score for the goods;
+(v) where point (u) is not applicable and provid ed that the producer mak es the information available to the trader ,
+information about the availability and estimated cost of, and procedure for order ing, spare parts that are
+necessar y to keep the goods in conf ormity , about the availability of repair and maint enance instr uctions and
+about repair restr ictions.’;
+(4) in Article 8(2), the first subparagraph is replaced by the follo wing:

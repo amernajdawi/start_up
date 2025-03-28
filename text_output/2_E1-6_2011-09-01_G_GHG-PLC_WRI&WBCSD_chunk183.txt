@@ -1,0 +1,28 @@
+File Name: 2_E1-6_2011-09-01_G_GHG-PLC_WRI&WBCSD.pdf
+Converted on: 2025-03-28 03:18:25
+Original Size: 3.27 MB
+Chunk Size: 500 tokens with 50 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 183 of 226
+--------------------------------------------------------------------------------
+
+Scenario C: A forest is converted to another land category
+and the wood is not harvested into a co-product.
+In this scenario, a company may not allocate any land-use
+change impacts to the wood as it was not used to create
+a co-product. All land-use change impacts (including the
+burning of the wood not recovered) must be distributed to
+the product produced on the converted land.  If a company 
+does not have data that justifies the use of scenario B (i.e.,
+proof that the wood was harvested and used for a product)
+then scenario C is used. Figure [B.2]  Distributing GHG impacts over a 20 year time period
+time20 year constant
+0.0100
+time20 year decline
+0.0100C allocation (%)
+timesingle year
+0.0100
+Source:    Zaks, D.P.M., C. C. Barford, N. Ramankutty and J. A. Foley, “Producer and consumer responsibility for greenhouse gas emissions from 
+agricultural production –a perspective from the Brazilian Amazon.”Environmental Research Letters. 4 (2009).Option AGHG Distribution (%)Option B Option C

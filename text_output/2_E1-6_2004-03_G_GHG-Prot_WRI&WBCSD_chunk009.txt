@@ -1,0 +1,36 @@
+File Name: 2_E1-6_2004-03_G_GHG-Prot_WRI&WBCSD.pdf
+Converted on: 2025-03-28 03:20:43
+Original Size: 3.51 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 9 of 104
+--------------------------------------------------------------------------------
+
+Public reporting and participation
+in voluntary GHG programs
+As concerns over climate change grow, NGOs, investors,
+and other stakeholders are increasingly calling forgreater corporate disclosure of GHG information. Theyare interested in the actions companies are taking andin how the companies are positioned relative to theircompetitors in the face of emerging regulations. Inresponse, a growing number of companies are preparingstakeholder reports containing information on GHGemissions. These may be stand-alone reports on GHGemissions or broader environmental or sustainabilityreports. For example, companies preparing sustainabilityreports using the Global Reporting Initiative guidelinesshould include information on GHG emissions in accor-dance with the
+GHG Protocol Corporate Standard (GRI,
+2002). Public reporting can also strengthen relation-ships with other stakeholders. For instance, companiescan improve their standing with customers and with thepublic by being recognized for participating in voluntaryGHG programs.
+Some countries and states have established GHG
+registries where companies can report GHG emissions in a public database. Registries may be administered bygovernments (e.g., U.S. Department of Energy 1605bVoluntary Reporting Program), NGOs (e.g., CaliforniaClimate Action Registry), or industry groups (e.g., WorldEconomic Forum Global GHG Registry). Many GHGprograms also provide help to companies setting volun-tary GHG targets.
+Most voluntary GHG programs permit or require the
+reporting of direct emissions from operations (includingall six GHGs), as well as indirect GHG emissions from
+purchased electricity. A GHG inventory prepared in accordance with the
+GHG Protocol Corporate Standard
+will usually be compatible with most requirements(Appendix C provides an overview of the reportingrequirements of some GHG programs). However, sincethe accounting guidelines of many voluntary programsare periodically updated, companies planning to partici-pate are advised to contact the program administrator to check the current requirements. GUIDANCEBusiness Goals and Inventory Design
+CHAPTER 2 12Indirect emissions associated with the consumption of purchasedelectricity are a required element of any company’s accounting andreporting under the GHG Protocol Corporate Standard . Because
+purchased electricity is a major source of GHG emissions for compa-nies, it presents a significant reduction opportunity. IBM, a majorinformation technology company and a member of the WRI’s GreenPower Market Development Group, has systematically accounted forthese indirect emissions and thus identified the significant potentialto reduce them. The company has implemented a variety of strategiesthat would reduce either their demand for purchased energy or theGHG intensity of that purchased energy. One strategy has been topursue the renewable energy market to reduce the GHG intensity of itspurchased electricity.
+IBM succeeded in reducing its GHG emissions at its facility in
+Austin, Texas, even as energy use stayed relatively constant, througha contract for renewable electricity with the local utility company,Austin Energy. Starting in 2001, this five-year contract is for 5.25million kWhs of wind-power per year. This zero emission powerlowered the facility’s inventory by more than 4,100 tonnes of CO
+2
+compared to the previous year and represents nearly 5% of thefacility’s total electricity consumption. Company-wide, IBM’s 2002total renewable energy procurement was 66.2 million kWh, whichrepresented 1.3% of its electricity consumption worldwide and31,550 tonnes of CO
+2compared to the previous year. Worldwide, IBM
+purchased a variety of sources of renewable energy including wind,biomass and solar.
+By accounting for these indirect emissions and looking for associ-
+ated reduction opportunities, IBM has successfully reduced animportant source of its overall GHG emissions. IBM: The role of renewable energy
+in reducing GHG emissions
+
+--- Page 15 of 116 ---

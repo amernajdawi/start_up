@@ -1,0 +1,89 @@
+File Name: 2_E1-6_2011-09-01_G_GHG-PLC_WRI&WBCSD.pdf
+Converted on: 2025-03-28 03:20:53
+Original Size: 3.27 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 74 of 116
+--------------------------------------------------------------------------------
+
+[93]
+guidancerequirements
+12.1 Introduction
+Assurance is the level of confidence that the inventory results and report are
+complete, accurate, consistent, transparent, relevant, and without material
+misstatements.1 Obtaining assurance over the product inventory is valuable for
+reporting companies and other stakeholders when making decisions using the inventory results.
+Carefully and comprehensively documenting the inventory process in a data management plan
+is a vital step in preparing for assurance.
+12.2 Requirements
+The product GHG inventory shall be assured
+by a first or third party.
+Three key parties are involved in the assurance process:
+1. The reporting company seeking assurance
+2. Stakeholder users of the inventory report
+3. The assurer(s)
+When the reporting company also performs the
+assurance, this is known as first party assurance. When a party other than the reporting company performs  
+the assurance, this is known as third party assurance.  
+Table 12.1 explains the differences between first and
+third party assurance.
+Both first and third party assurers should follow similar
+procedures and processes. For external stakeholders,
+third party assurance is likely to increase the credibility
+of the GHG inventory. However, first party assurance can
+also provide confidence in the reliability of the inventory
+report, and can be a worthwhile learning experience for  
+a company prior to commissioning third party assurance.
+
+--- Page 96 of 148 ---
+
+[94]   Product Life Cycle Accounting and Reporting Standardrequirements
+Table [12.1] Types of assurance
+Type of assurance Description Independence mechanism
+First party assurance Person(s) from within the reporting
+company but independent of the GHG
+inventory determination process  
+conducts internal assurance.Different lines of reporting
+Third party assurance Person(s) from an organization  
+independent of the product GHG  
+inventory determination process  
+conducts third party assurance.Different business entity from the
+reporting company
+
+Companies shall choose assurance  
+providers that are independent of, and  
+have	no	conflict	of	interest	with,	the 	
+product GHG inventory process.
+
+Assurers are defined as person(s) providing assurance
+over the product inventory and shall be independent
+of any involvement in the determination of the product
+inventory or development of any declaration. Assurers
+shall have no conflicts of interests, such that they can
+exercise objective and impartial judgment. Inherently, assurance provided by a third party offers
+a higher degree of objectivity and independence.
+Companies receiving first party assurance are required
+to report how potential conflicts of interests were
+avoided during the assurance process (see the assurance
+statement reporting requirement below for more
+information). Typical threats to independence may
+include financial and other conflicts of interest between
+the reporting company and the assurer. These threats
+should be assessed throughout the assurance process.
+Companies shall report the assurance
+statement in the inventory report. The
+statement shall include:
+ • Whether the assurance was performed  
+by	a	first	or	third	party 	
+• The level of assurance achieved (limited
+or reasonable) including assurance
+opinion or the critical review findings
+•A summary of the assurance process
+ • The relevant competencies of  
+the assurers
+ •	How	any	potential	conflicts	of	interest 	
+were avoided for first party assurance
+
+--- Page 97 of 148 ---

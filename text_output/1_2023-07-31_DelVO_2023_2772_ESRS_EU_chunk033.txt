@@ -1,0 +1,46 @@
+File Name: 1_2023-07-31_DelVO_2023_2772_ESRS_EU.pdf
+Converted on: 2025-03-28 03:20:41
+Original Size: 5.82 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 33 of 284
+--------------------------------------------------------------------------------
+
+ELI: http://data.europa.eu/eli/reg_del/2023/2772/oj 31/284QC 9. Information can be accurate without being perfectly precise in all respects. Accurate information implies that the
+undertaking has implemented adequate processes and internal controls to avoid material errors or material
+misstatements. As such, estimates shall be presented with a clear emphasis on their possible limitations and
+associated uncertainty (see section 7.2 of this Standard). The amount of precision needed and attainable, and the
+factors that make information accurate, depend on the nature of the information and the nature of the matters it
+addresses. For example, accuracy requires that:
+(a) factual information is free from material error;
+(b) descriptions are precise;
+(c) estimates, approximations and forecasts are clearly identified as such;
+(d) no material errors have been made in selecting and applying an appropriate process for developing an estimate,
+approximation or forecast, and the inputs to that process are reasonable and supportable;
+(e) assertions are reasonable and based on information of sufficient quality and quantity; and
+(f) information about judgements about the future faithfully reflects both those judgements and the information
+on which they are based.
+Comparability
+QC 10. Sustainability information is comparable when it can be compared with information provided by the undertaking
+in previous periods and, can be compared with information provided by other undertakings, in particular those
+with similar activities or operating within the same industry. A point of reference for comparison can be a target,
+a baseline, an industry benchmark, comparable information from either other undertakings or from an
+internationally recognised organisation, etc.
+QC 11. Consistency is related to, but is not the same as, comparability. Consistency refers to the use of the same
+approaches or methods for the same sustainability matter, from period to period by the undertaking and other
+undertakings. Consistency helps to achieve the goal of comparability.
+QC 12. Comparability is not uniformity. For information to be comparable, like components shall look alike and different
+components shall look different. Comparability of sustainability information is not enhanced by making unlike things look alike any more than it is enhanced by making like things look different.
+Verifiability
+QC 13. Verifiability helps to give users confidence that information is complete, neutral and accurate. Sustainability
+information is verifiable if it is possible to corroborate the information itself or the inputs used to derive it.
+QC 14. Verifiability means that various knowledgeable and independent observers could reach consensus, although not necessarily complete agreement, that a particular depiction is a faithful representation. Sustainability information
+shall be provided in a way that enhances its verifiability, for example:
+(a) including information that can be corroborated by comparing it with other information available to users about the undertaking’s business, about other businesses or about the external environment;
+(b) providing information about inputs and methods of calculation used to produce estimates or approximations; and
+(c) providing information reviewed and agreed by the administrative, management and supervisory bodies or
+their committees.OJ L, 22.12.2023 EN  
+
+--- Page 32 of 284 ---

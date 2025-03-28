@@ -1,0 +1,46 @@
+File Name: 1_2023-07-31_DelVO_2023_2772_ESRS_EU.pdf
+Converted on: 2025-03-28 03:20:41
+Original Size: 5.82 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 136 of 284
+--------------------------------------------------------------------------------
+
+ELI: http://data.europa.eu/eli/reg_del/2023/2772/oj 139/284(c) shall describe whether and how it has incorporated local and indigenous knowledge and nature- based solutions
+into biodiversity and ecosystems-related actions.
+Metrics and targets
+Disclosure Requirement E4-4 – Targets related to biodiversity and ecosystems
+29. The undertaking shall disclose the biodiversity and ecosystem-related targets it has set.
+30. The objective of this Disclosure Requirement is to allow an understanding of the targets the undertaking has adopted
+to support its biodiversity and ecosystems policies and address its material related impacts, dependencies, risks and
+opportunities.
+31. The description of the targets shall follow the mandatory content defined in ESRS 2 MDR-T Tracking effectiveness of
+policies and actions through targets.
+32. The disclosure required by paragraph 29 shall include the following information:
+(a) whether ecological thresholds and allocations of impacts to the undertaking were applied when setting targets. If
+so, the undertaking shall specify:i. the ecological thresholds identified and the methodology used to identify such thresholds;
+ii. whether or not the thresholds are entity-specific and if so, how they were determined; and
+iii. how responsibility for respecting identified ecological thresholds is allocated in the undertaking;
+(b) whether the targets are informed by, and/or aligned with the Kunming-Montreal Global Biodiversity Framework,
+relevant aspects of the EU Biodiversity Strategy for 2030 and other biodiversity and ecosystem-related national
+policies and legislation;
+(c) how the targets relate to the biodiversity and ecosystem impacts, dependencies, risks and opportunities identified
+by the undertaking in relation to its own operations and its upstream and downstream value chain;
+(d) the geographical scope of the targets, if relevant;
+(e) whether or not the undertaking used biodiversity offsets in setting its targets; and
+(f) to which of the layers of the mitigation hierarchy the target can be allocated (i.e., avoidance, minimisation,
+restoration and rehabilitation, compensation or offsets).
+Disclosure Requirement E4-5 – Impact metrics related to biodiversity and ecosystems change
+33. The undertaking shall report metrics related to its material impacts on biodiversity and ecosystems.
+34. The objective of this Disclosure Requirement is to enable an understanding of the performance of the undertaking
+against impacts identified as material in the materiality assessment on biodiversity and ecosystems change.
+35. If the undertaking identified sites located in or near biodiversity-sensitive areas that it is negatively affecting (see
+paragraph 19(a)), the undertaking shall disclose the number and area (in hectares) of sites owned, leased or managed
+in or near these protected areas or key biodiversity areas.
+36. If the undertaking has identified material impacts with regards to land-use change, or impacts on the extent and
+condition of ecosystems, it may also disclose their land-use based on a Life Cycle Assessment.
+37. For datapoints specified in paragraphs 38 to 41, the undertaking shall consider its own operations.OJ L, 22.12.2023 EN  
+
+--- Page 140 of 284 ---

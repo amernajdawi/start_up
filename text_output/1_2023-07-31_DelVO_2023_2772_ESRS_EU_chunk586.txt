@@ -1,0 +1,36 @@
+File Name: 1_2023-07-31_DelVO_2023_2772_ESRS_EU.pdf
+Converted on: 2025-03-28 03:18:14
+Original Size: 5.82 MB
+Chunk Size: 500 tokens with 50 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 586 of 686
+--------------------------------------------------------------------------------
+
+ELI: http://data.europa.eu/eli/reg_del/2023/2772/oj 244/284AR 28. When the undertaking discloses its participation in an industry or multi-stakeholder initiative as part of its actions
+to address material negative impacts, the undertaking may disclose how the initiative, and its own involvement, is
+aiming to address the material impact concerned. It may disclose under ESRS S4-5 the relevant targets set by the
+initiative and progress towards them.
+AR 29. When disclosing whether and how it considers actual and potential impacts on consumers and/or end-users in
+decisions to terminate business relationships and whether and how it seeks to address any negative impacts that
+may result from termination, the undertaking may include examples.
+AR 30. In disclosing how it tracks the effectiveness of actions to manage material impacts during the reporting period, the
+undertaking may disclose any lessons learned from the previous and current reporting periods.
+AR 31. Processes used to track the effectiveness of actions can include internal or external auditing or verification, court
+proceedings and/or related court decisions, impact assessments, measurement systems, stakeholder feedback,
+grievance mechanisms, external performance ratings, and benchmarking.
+AR 32. Reporting on effectiveness is aimed at enabling the understanding of the links between actions taken by the
+undertaking and the effective management of impacts.
+AR 33. With regard to initiatives or processes the undertaking has in place that are based on affected consumers and/or
+end-users’ needs and their level of implementation, the undertaking may disclose:
+(a) information about whether and how consumers and/or end-users and legitimate representatives or their
+credible proxies play a role in decisions regarding the design and implementation of these programmes or
+processes; and
+(b) information about the intended or achieved positive outcomes for consumers and/or end- users of these programmes or processes.
+AR 34. The undertaking may disclose whether any initiatives or processes whose primary aim is to deliver positive impacts for consumers and/or end-users are designed to also support the achievement of one or more of the UN
+Sustainable Development Goals (SDGs). For example, through a commitment to advance UN SDG 3 to “ensure
+healthy lives and promote well-being for all at all ages” the undertaking may be actively working to make its
+products less addictive and harmful to physical and psychological health.
+AR 35. When disclosing the intended positive outcomes of its actions for consumers and/or end-users a distinction is to
+be made between evidence of certain activities having occurred (for example, that x number of consumers have

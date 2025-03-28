@@ -1,0 +1,68 @@
+File Name: 2_E1-6_2014-01-01_G_GHG-Agri_WRI&WBCSD.pdf
+Converted on: 2025-03-28 03:20:54
+Original Size: 1.75 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 28 of 65
+--------------------------------------------------------------------------------
+
+operational control over the contracted produc tion and should therefore account for 100 % of the associated emissions under scope 1 or 2 using the operationa l control approach . The accounting under financial or equity share a pproaches may differ . In particular , if the integrator has established multi - year contra cts with individual growers and provides extensive inputs , the integrators and grower s should each then account for a portion of the emissions according to their share of investments in the production process . Figure 5 - 2 . Primary sales routes for agricultural products
+
+2. Other forms of agric ultural contracting   
+While companies can enter into production cont racts that require them to raise livestock
+or grow crops for third parties,  they may enter into other ty pes of contracts that require 
+third parties to perform agricultural activiti es on their own behalf . These activities may
+take place either on or off the reporting companies’ farmland.   
+
+--- Page 39 of 103 ---
+
+GHG Protocol Agricultural Guidance
+
+39
+ On-farm activities:  Companies may contract third partie s to perform a subset of farming 
+activities, such as harvesting or fertilizer application (s ee the example of service co-
+operatives below). At the other end of the spectrum, landowners may enter into custom
+farming contracts  under which contract operators supply all the labor and equipment 
+needed to perform tillage, planting, pest contro l, harvesting, crop storage, and other farm
+functions. With the exception of  contractor-owned equipmen t, the on-farm sources are 
+scope 3 for the contractor and scope 1 for the producer/landowner, under both the
+operational and financial control approaches.   
+Off-farm activities:  Many different arrangements exist for the grazing or feeding of a 
+company’s livestock on a third party’s land. Examples include feedlots and ajistments6.
+While the livestock are on the third party’ s land, the agricultural emissions (e.g., CH 4
+emissions from enteric fermentation and ma nure management) are scope 1 for the third
+party and scope 3 for the producer, under both the operational a nd financial control
+approaches.   
+
+3. Leases for land and equipment  
+The Corporate Standard ( Appendix F ) distinguishes between two general types of leases:  
+ Capital (or financial) leases: This type of lease enables the lessee to operate an asset
+and also gives the lessee all the risks and re wards of owning that asset. In a capital
+lease the lessee has use of the asset over most  of its useful life. Assets leased under a 
+capital or financial lease ar e considered wholly-owned a ssets in financial accounting
+and are recorded as such on the balance sheet.  
+ Operational leases: This type of lease enable s the lessee to operate an asset, such as a
+building or a vehicle, but does not give th e lessee any of the risks or rewards of
+owning that asset. In an operating lease the lessee only has use of the asset for some
+of its useful life. Any lease th at is not a capital or financia l lease is an operating lease.
+
+Whether leased assets are scope 1 or 3 for the reporting company depends on the
+approach chosen to set organizational boundari es and on the type of  leasing arrangement 
+(see Table 5-3 and Table 5-4).   
+Land leases and operational control
+For the purposes of reporting under this Gu idance, the reporting company is considered
+to exert operational control of any land it leases  (Table 5-3). This is true, regardless of the 
+form of rent payment (cash, crops, or both) , the amount of resour ces contributed by the
+landlord, or the extent to which the landlor d is involved in management decisions. For
+instance, permits for the lease of nationa l-owned grazing lands from governments might
+contain requirements related to resting periods and reseeding.  The lessee retains 
+operational control of th e land in these cases.  
+
+6 Ajistments are typically defined for a shorter period  of time than pasture or grazing leases, which are 
+considered separately in “Leases for land and equipment”  
+
+--- Page 40 of 103 ---
+
+GHG Protocol Agricultural Guidance

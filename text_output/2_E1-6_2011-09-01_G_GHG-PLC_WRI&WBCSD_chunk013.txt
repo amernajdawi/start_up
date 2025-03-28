@@ -1,0 +1,63 @@
+File Name: 2_E1-6_2011-09-01_G_GHG-PLC_WRI&WBCSD.pdf
+Converted on: 2025-03-28 03:20:53
+Original Size: 3.27 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 13 of 116
+--------------------------------------------------------------------------------
+
+[16]   Product Life Cycle Accounting and Reporting Standard
+Table [3.1] Summary of requirements (continued)
+Chapter Requirements
+12. Assurance • The product GHG inventory shall be assured by a first or third party
+• Companies shall choose assurance providers that are independent of,  
+and have no conflicts of interest with, the product GHG inventory process
+• Companies shall report the assurance statement in the inventory report  
+The statement shall include:
+•The level of assurance achieved (limited or reasonable) including assurance
+opinion or the critical review findings
+•Whether the assurance was performed by a first or third party
+•A summary of the assurance process
+•The relevant competencies of the assurance providers
+•How any potential conflicts of interest were avoided for first party assurance
+13. Reporting Companies shall publicly report the following information to be in conformance with
+the GHG Protocol Product Standard :
+General Information and Scope
+• Contact information
+• Studied product name and description
+• The unit of analysis and reference flow
+• Type of inventory: cradle-to-grave or cradle-to-gate
+• Additional GHGs included in the inventory
+• Any product rules or sector-specific guidance used
+• Inventory date and version
+• For subsequent inventories, a link to previous inventory reports and description of
+any methodological changes
+• A disclaimer stating the limitations of various potential uses of the report
+including product comparison
+Boundary Setting
+• Life cycle-stage definitions and descriptions
+• A process map including attributable processes in the inventory
+• Non-attributable processes included in the inventory
+• Excluded attributable processes and justification for their exclusion
+• Justification of a cradle-to-gate boundary, when applicable
+• The time period
+• The method used to calculate land-use change impacts, when applicable
+Allocation
+• Disclosure and justification of the methods used to avoid or perform allocation
+due to co-products or recycling
+• When using the closed loop approximation method, any displaced emissions and
+removals separately from the end-of-life stage
+Data Collection and Quality
+• For significant processes, a descriptive statement on the data sources, data
+quality, and any efforts taken to improve data quality
+Uncertainty
+• A qualitative statement on inventory uncertainty and methodological choices.
+Methodological choices include:
+•Use and end-of-life profile
+•Allocation methods, including allocation due to recycling
+•Source of global warming potential (GWP) factors used
+•Calculation modelsrequirements
+
+--- Page 19 of 148 ---

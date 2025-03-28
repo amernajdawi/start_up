@@ -1,0 +1,42 @@
+File Name: 1_2022-12-14_RL_2022_2464_CSRD_EU.pdf
+Converted on: 2025-03-28 03:18:06
+Original Size: 1.12 MB
+Chunk Size: 500 tokens with 50 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 169 of 204
+--------------------------------------------------------------------------------
+
+(e) paragraph 6 is replaced by the followi ng:
+‘The statutor y auditor or the audit firm shall keep records of any complaints made in writing about the
+performa nce of the statutor y audits carried out and about the performa nce of assurance enga gements
+concer ning sustainability repor ting carried out.’;
+(13) Article 25 is replaced by the following:
+‘Article 25
+Audit and assurance fees
+Member States shall ensure that adequate rules are in place which provid e that fees for statut ory audits and the
+assurance of sustainability repor ting:
+(a) are not influenced or determined by the provi sion of additional services to the entity that is the subject of the
+statutor y audit or the assurance of sustainability repor ting; and
+(b) cannot be based on any form of continge ncy.’;
+(14) the follo wing Articles are inser ted:
+‘Article 25b
+Professiona l ethics, independence, objectivity , conf identiality and prof essional secrecy as regards the
+assurance of sust ainability repor ting
+The requirements in Articles 21 to 24a as regards the statutor y audit of financia l statements shall apply mutatis
+mutandis to the assurance of sustainability repor ting.
+Article 25c
+Prohibited non-audit services in cases where the statut ory audito r carries out the assurance of sust ainability
+repor ting of a public-interest entity
+1. A statutor y auditor or an audit firm carrying out the assurance of sustainability repor ting of a public-interest
+entity , or any member of the netw ork to which the statut ory auditor or the audit firm belongs, shall not directly or
+indirectly provide to the public-interest entity that is the subject of the assurance of sustainability repor ting, to its
+parent under taking or to its controlled under takings within the Union the prohibited non-audit services referred to
+in points (b) and (c) and points (e) to (k) of the second subparagraph of Article 5(1) of Regulation (EU) No 537/2014
+in:
+(a) the period between the beginning of the period subject to the assurance of sustainability repor ting and the issuing
+of the assurance repor t on sustainability repor ting; and
+(b) the financial year immediately preceding the period refer red to in point (a) of this paragraph in relation to the
+services referred to in point (e) of the second subparagraph of Article 5(1) of Regulation (EU) No 537/2014.
+2. A statut ory auditor or an audit firm carrying out the assurance of sustainability repor ting of public-interest

@@ -1,0 +1,53 @@
+File Name: 1_2023-07-31_DelVO_2023_2772_ESRS_EU.pdf
+Converted on: 2025-03-28 03:20:41
+Original Size: 5.82 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 113 of 284
+--------------------------------------------------------------------------------
+
+ELI: http://data.europa.eu/eli/reg_del/2023/2772/oj 114/284(c) restore, regenerate and transform ecosystems where pollution has occurred (control of the impacts both from
+regular activities and incidents
+).
+Metrics and targets
+Disclosure Requirement E2-3 – Targets related to pollution
+20. The undertaking shall disclose the pollution-related targets it has set.
+21. The objective of this Disclosure Requirement is to enable an understanding of the targets the undertaking has set to
+support its pollution-related policies and to address its material pollution-related impacts, risks and opportunities.
+22. The description of targets shall contain the information requirements defined in ESRS 2 MDR-T Tracking effectiveness
+of policies and actions through targets.
+23. The disclosure required by paragraph 20 shall indicate whether and how its targets relate to the prevention and
+control of:
+(a) air pollutants and respective specific loads;
+(b) emissions to water and respective specific loads;
+(c) pollution to soil and respective specific loads; and
+(d) substances of concern and substances of very high concern.
+24. In addition to ESRS 2 MDR-T, the undertaking may specify whether ecological thresholds (e.g., the biosphere
+integrity , stratospheric ozone-depletion, atmospheric aerosol loading, soil depletion, ocean acidification) and entity-
+specific allocations were taken into consideration when setting targets. If so, the undertaking may specify:
+(a) the ecological thresholds identified, and the methodology used to identify such thresholds;
+(b) whether or not the thresholds are entity-specific and if so, how they were determined; and
+(c) how responsibility for respecting identified ecological thresholds is allocated in the undertaking.
+25. The undertaking shall specify as part of the contextual information, whether the targets that it has set and presented
+are mandatory (required by legislation) or voluntary.
+Disclosure Requirement E2-4 – Pollution of air, water and soil
+26. The undertaking shall disclose the pollutants that it emits through its own operations, as well as the
+microplastics it generates or uses.
+27. The objective of this Disclosure Requirement is to provide an understanding of the emissions that the undertaking
+generates to air, water and soil in its own operations, and of its generation and use of microplastics.
+28. The undertaking shall disclose the amounts of:
+(a) each pollutant listed in Annex II of Regulation (EC) No 166/2006 of the European Parliament and of the
+Council (57)(European Pollutant Release and Transfer Register “E-PRTR Regulation”)emitted to air, water and soil,
+with the exception of emissions of GHGs which are disclosed in accordance with ESRS E1 Climate Change (58);
+(57)Regulation (EC) No 166/2006 of the European Parliament and of the Council of 18 January 2006 concerning the establishment of a
+European Pollutant Release and Transfer Register and amending Council Directives 91/689/EEC and 96/61/EC (OJ L 033 4.2.2006,
+p. 1)
+(58)This information supports the information needs of financial market participants subject to Regulation (EU) 2019/2088 because it is
+derived from: (a) an additional indicator related to principal adverse impacts as set out by indicator #2 in Table II of Annex I of
+Commission Delegated Regulation (EU) 2022/1288 with regard to disclosure rules on sustainable investments (“Emissions of air
+pollutants”); (b) indicator #8 in Table I of Annex I (“Emissions to water); (c) indicator #1 in Table II of Annex I ( “Emissions of
+inorganic pollutants”); and (d) indicator #3 in Table II of Annex I (“Emissions of ozone- depleting substances”) .OJ L, 22.12.2023 EN  
+
+--- Page 115 of 284 ---

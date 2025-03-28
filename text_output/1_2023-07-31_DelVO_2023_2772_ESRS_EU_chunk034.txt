@@ -1,0 +1,39 @@
+File Name: 1_2023-07-31_DelVO_2023_2772_ESRS_EU.pdf
+Converted on: 2025-03-28 03:20:41
+Original Size: 5.82 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 34 of 284
+--------------------------------------------------------------------------------
+
+ELI: http://data.europa.eu/eli/reg_del/2023/2772/oj 32/284QC 15. Some sustainability information will be in the form of explanations or forward-looking information. Those
+disclosures can be supportable by faithfully representing on a factual basis for example the strategies, plans and
+risk analyses of the undertaking. To help users decide whether to use such information, the undertaking shall
+describe the underlying assumptions and methods of producing the information, as well as other factors that
+provide evidence that it reflects the actual plans or decisions made by the undertaking.
+Understandability
+QC 16. Sustainability information is understandable when it is clear and concise. Understandable information enables any
+reasonably knowledgeable user to readily comprehend the information being communicated.
+QC 17. For sustainability disclosures to be concise, they need to (a) avoid generic “boilerplate” information, which is not
+specific to the undertaking; (b) avoid unnecessary duplication of information, including information also
+provided in financial statements; and (c) use clear language and well-structured sentences and paragraphs. Concise
+disclosures shall only include material information. Complementary information presented pursuant to paragraph
+113 shall be provided in a way that avoids obscuring material information.
+QC 18. Clarity might be enhanced by distinguishing information about developments in the reporting period from “standing” information that remains relatively unchanged from one period to the next. This can be done, for
+example, by separately describing features of the undertaking’s sustainability-related governance and risk
+management processes that have changed since the previous reporting period compared to those that remain
+unchanged.
+QC 19. The completeness, clarity and comparability of sustainability disclosures all rely on information being presented as
+a coherent whole. For sustainability disclosures to be coherent, they shall be presented in a way that explains the
+context and the connections between the related information. Coherence also requires the undertaking to provide
+information in a way that allows users to relate information about its sustainability-related impacts, risks and
+opportunities to information in the undertaking’s financial statements.
+QC 20. If sustainability-related risks and opportunities discussed in the financial statements have implications for
+sustainability reporting, the undertaking shall include in the sustainability statement the information necessary
+for users to assess those implications and present appropriate links to the financial statements (see chapter 9 of
+this Standard). The level of information, granularity and technicality shall be aligned with the needs and
+expectations of users. Abbreviations shall be avoided and the units of measure shall be defined and disclosed.OJ L, 22.12.2023 EN  
+
+--- Page 33 of 284 ---

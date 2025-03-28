@@ -1,0 +1,345 @@
+File Name: CELEX_32010L0075_DE_TXT.pdf
+Converted on: 2025-03-28 03:21:03
+Original Size: 4.18 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 34 of 93
+--------------------------------------------------------------------------------
+
+der Anlage,
+indem
+der nach
+Ziffer i für den  
+betreffenden
+Brennstoff
+bestimmte
+Emissionsgrenzwert
+mit dem Fak ­
+tor
+2 multipliziert wird un d
+von diesem Produk t
+der
+Emissionsgrenzwert
+des verwen deten
+Brennstoffs
+mit
+dem niedrigsten
+Emissionsgrenzwert
+gemäß
+Anhang
+V
+Teil 1 sub trahiert
+wird;
+iii) Bestimmun g
+des gewichteten
+Emissionsgrenzwerts
+für
+jeden
+verwendeten
+Brennstoff,
+indem
+der nach
+den
+Zif­
+fern
+i und
+ii bestimmte
+Emissionsgrenzwert
+mit der
+Wärmeleistun g
+des betreffenden
+Brennstoffs
+multipli­
+ziert wird un d
+dieses Produk t
+durch die Summe der von  
+allen
+Brennstoffen
+zugeführten
+Wärmeleistun g
+dividiert
+wird;
+iv) Aggregation
+der nach
+Ziffer iii b estimmten
+gewichteten
+Emissionsgrenzwerte.
+(3) Im
+Fall von
+Mehrstofffeuerun gsanlagen,
+die unter
+Arti­
+kel
+30 Absatz
+2 fallen un d
+die Destillation s
+- und
+Konversions
+­
+rückstände
+aus der Rohölraffin ierung
+allein
+oder zusammen  
+mit
+anderen
+Brennstoffen
+für den
+Eigenverbrauch
+verfeuern,
+können
+die
+durchschn ittlichen
+Emissionsgrenzwerte
+für Schwefeldioxid
+gemäß
+Anhang
+V Teil 7 an statt
+der gemäß
+Absatz
+1 oder 2 dieses
+Artikels
+festgelegten
+Emissionsgrenzwerte
+angewandt
+werden.
+Artikel
+41
+Durchführungsbestimmungen
+Es
+werden
+Durchführun gsbestimmungen
+erlassen
+für
+a) die Festleg ung
+der Zeitab schnitte
+des An-
+und
+Abfahrens
+gemäß
+Artikel
+3 Nummer 27 un d
+Anh
+ang
+V Teil 4 Num­
+mer 1; un d
+b) die
+nationalen
+Übergangspläne
+gemäß
+Artikel
+32 und
+insbe­
+sondere
+die Festleg ung
+von Emissionsobergrenzen
+und
+die
+dazugehörige
+Überwachung
+und
+Berichterstattun g.Diese  Durchführun gsbestimmungen  werden n ach  dem in Arti­
+kel
+75 Absatz
+2 genannten
+Regelungsverfahren
+erlassen.
+Die
+Kommission
+unterbreitet
+spätestens
+zum 7. Juli 2011 ein en
+geeig­
+neten
+Vorschlag .
+KAPITEL IV
+SONDERVORSCHRIFTEN
+FÜR
+ABFALLVERBRENNUNGSANLAGEN
+UND
+ABFALLMITVERBRENNUNGSANLAGEN
+Artikel 42
+Anwendu ngsbereich
+(1)
+Dieses Kapitel
+gilt
+für Abfallverbrennungsanlagen
+und
+
+Abfallmitverbrennungsanlagen,
+die feste oder flüssig e
+Abfälle ver­
+brennen
+oder mitverb rennen.
+Dieses
+Kapitel
+gilt
+nicht
+für Vergasungs-
+oder Pyrolysean lagen,
+
+wenn
+die Gase, die b ei
+dieser thermischen  
+Behandlung
+der Abfälle
+entstehen,
+vor ihrer Verb rennung
+so weit gereinigt
+werden,
+dass
+sie nicht
+mehr als Ab fall
+gelten
+und
+keine
+höheren
+Emissionen
+verursachen  
+können,
+als bei
+der Verbrennung
+von
+Erdgas
+anfallen.
+Für
+die Zweck e
+dieses Kapitels
+umfassen
+Abfallverbrennungsan­
+lagen
+und
+Abfallmitverbrennungsanlagen
+alle Verbrennung
+slinien
+
+oder Mitverb rennungslinien,
+die Annahme
+und
+Lagerung
+des
+Abfalls,
+die auf dem Gelän de
+befindlichen
+Vorbehandlungsan
+­
+lagen,
+das Abfall-,
+Brennstoff-
+und
+Luftzufuhrsystem, die K essel,
+die
+Abgasbehandlungsanlagen,
+die auf dem Gelän de
+befindlichen
+Anlagen
+zur Behan dlung
+und
+Lagerung
+von Rück s
+tänd
+en und
+
+Abwasser,
+die Schorn steine,
+die Vorrichtun gen
+und
+Systeme zur
+Kontrolle
+der Verbrennungs-
+oder Mitverb rennungsvorgänge,
+zur
+Aufzeichn ung
+und
+Überwachung
+der Verb rennung
+s- oder
+Mitverbrennungsbedingungen.
+Werden
+für die thermische Behan dlung
+von
+Abfällen
+andere
+Pro­
+zesse als die Oxidation  
+wie z. B. Pyrolyse, Verg asung
+oder Plasma­
+verfahren durchg eführt,
+so muss die Ab fallverbrennungsanlage
+
+oder Abfallmitverbrennungsanlage
+sowohl den  
+Prozess der ther­
+mischen
+Behandlung
+als auch den  
+anschließenden
+Verbrennun
+gs­
+prozess
+einschließen.
+Falls
+die Mitverb rennung
+in solch ein er
+Weise erfolg t,
+dass der
+Hauptzweck  
+der Anlage
+nicht
+in
+der Energieerzeugung
+oder der
+Produktion
+stofflicher E rzeugnisse,
+sondern
+in der thermischen
+Behandlung
+von Ab fällen
+besteht,
+gilt
+die An lage
+als
+Abfallverbrennungsanlage.
+(2) Dieses
+Kapitel
+gilt
+nicht
+für folgende
+Anlagen:
+a) Anlagen,
+in
+denen
+ausschließlich folg ende
+Abfälle
+behandelt
+werden:
+i) Abfälle
+gemäß
+Artikel
+3 Nummer 31 Buchstab e
+b,
+ii) radioaktive
+Abfälle,
+iii)
+Tierkörper
+im Sin ne
+der Verordn ung
+(EG)
+
+Nr. 1774/2002 des E uropäischen
+Parlaments
+und
+des
+Rates vom 3. Oktober
+2002 mit Hyg ienevorschriften
+für
+nicht
+für den
+menschlichen
+Verzehr b estimmte
+tierische
+Nebenprodukte
+(1) ABl. L 273 vom 10.10.2002, S. 1.,
+
+--- Page 24 of 103 ---

@@ -1,0 +1,42 @@
+File Name: 1_2023-07-31_DelVO_2023_2772_ESRS_EU.pdf
+Converted on: 2025-03-28 03:20:41
+Original Size: 5.82 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 52 of 284
+--------------------------------------------------------------------------------
+
+ELI: http://data.europa.eu/eli/reg_del/2023/2772/oj 52/284(c) an overview of the process used to identify, assess, prioritise and monitor risks and opportunities that have or
+may have financial effects. The disclosure shall include:
+i. how the undertaking has considered the connections of its impacts and dependencies with the risks and
+opportunities that may arise from those impacts and dependencies;
+ii. how the undertaking assesses the likelihood, magnitude, and nature of effects of the identified risk and opportunities (such as the qualitative or quantitative thresholds and other criteria used as prescribed by
+ESRS 1 section 3.3 Financial materiality);
+iii. how the undertaking prioritises sustainability-related risks relative to other types of risks, including its use of risk-assessment tools;
+(d) a description of the decision-making process and the related internal control procedures;
+(e) the extent to which and how the process to identify, assess and manage impacts and risks is integrated into the undertaking’s overall risk management process and used to evaluate the undertaking’s overall risk profile and
+risk management processes;
+(f) the extent to which and how the process to identify, assess and manage opportunities is integrated into the undertaking’s overall management process where applicable;
+(g) the input parameters it uses (for example, data sources, the scope of operations covered and the detail used in assumptions); and
+(h) whether and how the process has changed compared to the prior reporting period, when the process was modified for the last time and future revision dates of the materiality assessment.
+Disclosure Requirement IRO-2 – Disclosure Requirements in ESRS covered by the undertaking’s sustainability
+statement
+54. The undertaking shall report on the Disclosure Requirements complied with in its sustainability statements.
+55. The objective of this Disclosure Requirement is to provide an understanding of the Disclosure Requirements included
+in the undertaking’s sustainability statement and of the topics that have been omitted as not material, as a result of
+the materiality assessment.
+56. The undertaking shall include a list of the Disclosure Requirements complied with in preparing the sustainability
+statement, following the outcome of the materiality assessment (see ESRS 1 chapter 3), including the page
+numbers and/or paragraphs where the related disclosures are located in the sustainability statement. This may be presented as a content index. The undertaking shall also include a table of all the datapoints that derive from other
+EU legislation as listed in Appendix B of this standard, indicating where they can be found in the sustainability
+statement and including those that the undertaking has assessed as not material, in which case the undertaking shall
+indicate “Not material” in the table in accordance with ESRS 1 paragraph 35.
+57. If the undertaking concludes that climate change is not material and therefore omits all disclosure requirements in ESRS E1 Climate change, it shall disclose a detailed explanation of the conclusions of its materiality assessment with
+regard to climate change (see ESRS 2 IRO-2 Disclosure Requirements in ESRS covered by the undertaking’s sustainability
+statement), including a forward-looking analysis of the conditions that could lead the undertaking to conclude that climate change is material in the future.
+58. If the undertaking concludes that a topic other than climate change is not material and therefore omits all the Disclosure Requirements in the corresponding topical ESRS, it may provide a brief explanation of the conclusions of
+its materiality assessment for that topic.OJ L, 22.12.2023 EN  
+
+--- Page 53 of 284 ---

@@ -1,0 +1,37 @@
+File Name: 1_2023-07-31_DelVO_2023_2772_ESRS_EU.pdf
+Converted on: 2025-03-28 03:18:14
+Original Size: 5.82 MB
+Chunk Size: 500 tokens with 50 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 556 of 686
+--------------------------------------------------------------------------------
+
+ELI: http://data.europa.eu/eli/reg_del/2023/2772/oj 233/284Objective
+1. The objective of this Standard is to specify disclosure requirements which will enable users of the sustainability
+statement to understand material impacts on consumers and end-users connected with the undertaking’s own
+operations and value chain, including through its products or services, as well as through its business relationships,
+and its related material risks and opportunities, including:
+(a) how the undertaking affects the consumers and/or end-users of its products and/or services (referred to in this
+Standard as “consumers and end-users”), in terms of material positive and negative actual or potential impacts;
+(b) any actions taken, and the result of such actions, to prevent, mitigate or remediate actual or potential negative
+impacts, and to address risks and opportunities;
+(c) the nature, type and extent of the undertaking’s material risks and opportunities related to its impacts and
+dependencies on consumers and end-users, and how the undertaking manages such risks and opportunities; and
+(d) the financial effects on the undertaking over the short-, medium- and long-term of material risks and
+opportunities arising from the undertaking’s impacts and dependencies on consumers and/or end-users.
+2. In order to meet the objective, this Standard requires an explanation of the general approach the undertaking takes to
+identify and manage any material actual and potential impacts on the consumers and/or end-users related to its
+products and/or services in relation to:
+(a) information-related impacts on consumers and/or end-users (for example, privacy, freedom of expression and
+access to (quality) information;
+(b) personal safety of consumers and/or end-users (for example, health and safety, security of a person and
+protection of children);
+(c) social inclusion of consumers and/or end-users (for example, non-discrimination, access to products and services
+and responsible marketing practices).
+3. This Standard also requires an explanation of how such impacts, as well as the undertaking’s dependencies on
+consumers and/or end-users, can create material risks or opportunities for the undertaking. For example, negative
+impacts on the reputation of the undertaking’s products and/or services can be detrimental to its business
+performance, while trust in products and/or services can bring business benefits, such as increased sales or widening
+of the future consumer base.

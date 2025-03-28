@@ -1,0 +1,26 @@
+File Name: 2_E1-6_2004-03_G_GHG-Prot_WRI&WBCSD.pdf
+Converted on: 2025-03-28 03:20:43
+Original Size: 3.51 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 23 of 104
+--------------------------------------------------------------------------------
+
+This approach ensures that there is no double counting
+within scope 2 since only the T&D utility company willaccount for indirect emissions associated with T&Dlosses in scope 2. Another advantage of this approach isthat it adds simplicity to the reporting of scope 2 emis-sions by allowing the use of commonly available emissionfactors that in most cases do not include T&D losses.End consumers may, however, report their indirect emis-sions associated with T&D losses in scope 3 under thecategory “generation of electricity consumed in a T&D
+system.” Appendix A provides more guidance onaccounting for emissions associated with T&D losses.
+OTHER ELECTRICITY-RELATED INDIRECT EMISSIONS
+Indirect emissions from activities upstream of acompany’s electricity provider (e.g., exploration, drilling,flaring, transportation) are reported under scope 3.Emissions from the generation of electricity that has beenpurchased for resale to end-users are reported in scope 3under the category “generation of electricity that ispurchased and then resold to end users.” Emissions fromthe generation of purchased electricity for resale to non-end-users (e.g., electricity traders) may be reported sepa-rately from scope 3 in “optional information.”
+The following two examples illustrate how GHG emissions
+are accounted for from the generation, sale, and
+purchase of electricity.Example one (Figure 4): Company A is an independent
+power generator that owns a power generation plant.The power plant produces 100 MWh of electricity andreleases 20 tonnes of emissions per year. Company B is an electricity trader and has a supply contract withcompany A to purchase all its electricity. Company B re-sells the purchased electricity (100 MWh) to company C,a utility company that owns / controls the T&D system.Company C consumes 5 MWh of electricity in its T&Dsystem and sells the remaining 95 MWh to company D.Company D is an end user who consumes the purchasedelectricity (95 MWh) in its own operations. Company Areports its direct emissions from power generation under scope 1. Company B reports emissions from thepurchased electricity sold to a non-end-user as optionalinformation separately from scope 3. Company C reportsthe indirect emissions from the generation of the part ofthe purchased electricity that is sold to the end-userunder scope 3 and the part of the purchased electricitythat it consumes in its T&D system under scope 2. End-user D reports the indirect emissions associated with itsown consumption of purchased electricity under scope 2and can optionally report emissions associated withupstream T&D losses in scope 3. Figure 4 shows theaccounting of emissions associated with these transactions.
+Example two: Company D installs a co-generation unit
+and sells surplus electricity to a neighboring company Efor its consumption. Company D reports all direct emis-sions from the co-generation unit under scope 1. Indirectemissions from the generation of electricity for export toE are reported by D under optional information separatelyGUIDANCESetting Operational Boundaries
+CHAPTER 4 28Seattle City Light (SCL), Seattle’s municipal utility company, sellselectricity to its end-use customers that is either produced at itsown hydropower facilities, purchased through long-term contracts,or purchased on the short-term market. SCL used the first edition oftheGHG Protocol Corporate Standard to estimate its year 2000 and
+year 2002 GHG emissions, and emissions associated with genera-tion of net purchased electricity sold to end-users was an importantcomponent of that inventory. SCL tracks and reports the amount ofelectricity sold to end-users on a monthly and annual basis.
+SCL calculates net purchases from the market (brokers and other
+utility companies) by subtracting sales to the market frompurchases from the market, measured in MWh. This allows acomplete accounting of all emissions impacts from its entire oper-ation, including interactions with the market and end-users. On anannual basis, SCL produces more electricity than there is end-usedemand, but the production does not match load in all months. So
+SCL accounts for both purchases from the market and sales into themarket. SCL also includes the scope 3 upstream emissions fromnatural gas production and delivery, operation of SCL facilities,vehicle fuel use, and airline travel.

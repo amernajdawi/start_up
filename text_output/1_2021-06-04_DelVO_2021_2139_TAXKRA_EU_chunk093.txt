@@ -1,0 +1,55 @@
+File Name: 1_2021-06-04_DelVO_2021_2139_TAXKRA_EU.pdf
+Converted on: 2025-03-28 03:20:30
+Original Size: 2.76 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 93 of 447
+--------------------------------------------------------------------------------
+
+The economic activities in this category could be associated with several NACE codes, in particular C24.10,
+C24.20, C24.31, C24.32, C24.33, C24.34, C24.51 and C24.52 in accordance with the statistical classification
+of economic activities established by Regulation (EC) No 1893/2006.  
+An economic activity in this category is a transitional activity as referred to in Article 10(2) of Regulation (EU)
+2020/852 where it complies with the technical screening criteria set out in this Section.  
+Technical screening criteria  
+Substantial contribution to climate change mitigation  
+The activity manufactures one of the following:
+(a) iron and steel where GHG emissions (  111  ), reduced by the amount of emissions assigned to the production of 
+waste gases in accordance with point 10.1.5(a) of Annex VII to Regulation (EU) 2019/331 do not exceed the
+following values applied to the different manufacturing process steps:
+(i) hot metal = 1,331 (  112  ) tCO  2 e/t product; 
+(ii) sintered ore = 0,163 (  113  ) tCO  2 e/t product; 
+(iii) coke (excluding lignite coke) = 0,144 (  114  ) tCO  2 e/t product; 
+(iv) iron casting = 0,299 (  115  ) tCO  2 e/t product; 
+(v) electric Arc Furnace (EAF) high alloy steel = 0,266 (  116  ) tCO  2 e/t product; 
+(vi) electric Arc Furnace (EAF) carbon steel = 0,209 (  117  ) tCO  2 e/t product. 
+(b) steel in electric arc furnaces (EAFs) producing EAF carbon steel or EAF high alloy steel, as defined in
+Commission Delegated Regulation (EU) 2019/331 and where the steel scrap input relative to product
+output is not lower than:
+(i) 70 % for the production of high alloy steel;
+(ii) 90 % for the production of carbon steel.
+Where the CO  2 that would otherwise be emitted from the manufacturing process is captured for the purpose of 
+underground storage, the CO  2 is transported and stored underground, in accordance with the technical screening 
+criteria set out in Sections 5.11 and 5.12 of this Annex.  
+Do no significant harm (‘DNSH’)  
+(2) Climate change adaptation  The activity complies with the criteria set out in Appendix A to this 
+Annex.  
+(3) Sustainable use and protection of
+water and marine resources  The activity complies with the criteria set out in Appendix B to this 
+Annex.  
+(4) Transition to a circular economy  N/A  
+_____________
+( 111  ) Calculated in accordance with Regulation (EU) 2019/331. 
+( 112  ) Reflecting the average value of the 10 % most efficient installations in 2016 and 2017 (t CO  2 equivalents/t) as set out in the 
+Annex to the Implementing Regulation (EU) 2021/447.
+( 113  ) Reflecting the average value of the 10 % most efficient installations in 2016 and 2017 (t CO  2 equivalents/t) as set out in the 
+Annex to the Implementing Regulation (EU) 2021/447.
+( 114  ) Reflecting the average value of the 10 % most efficient installations in 2016 and 2017 (t CO  2 equivalents/t) as set out in the 
+Annex to the Implementing Regulation (EU) 2021/447.
+( 115  ) Reflecting the average value of the 10 % most efficient installations in 2016 and 2017 (t CO  2 equivalents/t) as set out in the 
+Annex to the Implementing Regulation (EU) 2021/447.
+( 116  ) Reflecting the average value of the 10 % most efficient installations in 2016 and 2017 (t CO  2 equivalents/t) as set out in the 
+Annex to the Implementing Regulation (EU) 2021/447.
+( 117  ) Reflecting the average value of the 10 % most efficient installations in 2016 and 2017 (t CO  2 equivalents/t) as set out in the

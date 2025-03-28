@@ -1,0 +1,39 @@
+File Name: 2_E1-6_2011-09-01_G_GHG-PLC_WRI&WBCSD.pdf
+Converted on: 2025-03-28 01:56:27
+Original Size: 3.27 MB
+Chunk Size: 400 tokens with 50 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 255 of 270
+--------------------------------------------------------------------------------
+
+[138]   Product Life Cycle Accounting and Reporting Standard
+Endnotes
+1 Adapted from ISO 14044:2006.
+2 Adapted from UNEP and SETAC, Global Guidance Principles for Life Cycle Assessment Databases. 2011.
+3 Adapted from British Standards Institution et al. PAS 2050:2008: Specification for the assessment of life
+cycle greenhouse gas emissions of goods and services.
+4 IPCC, 2006 IPCC Guidelines for National GHG Inventories, Volume 4: Agriculture, Forestry, and Other
+Land Use.
+5 International Organization of Standardization, ISO 14044:2006, Life Cycle Assessment: Requirements
+and Guidelines.
+6 Adapted from UNEP and SETAC, Global Guidance Principles for Life Cycle Assessment Databases. 2011.
+7 Adapted from British Standards Institution et al. PAS 2050:2008: Specification for the assessment of life
+cycle greenhouse gas emissions of goods and services.
+8 Adapted from British Standards Institution et al. PAS 2050:2008: Specification for the assessment of life
+cycle greenhouse gas emissions of goods and services.
+9 Adapted from ISO 14044:2006.
+10 Adapted from IPCC, IPCC Fourth Assessment Report, 2007.
+11 IPCC, 2006, Guidelines for National GHG Inventories, Volume 4: Agriculture, Forestry, and Other Land Use.
+12 International Organization of Standardization, ISO 14044:2006, Life Cycle Assessment: Requirements
+and Guidelines.
+13 International Organization for Standardization, ISO 14025:2006, Environmental labels and declarations--  
+Type III environmental declarations -- Principles and procedures.
+14 Adapted from ISO 14044:2006.
+15 International Organization for Standardization, 1995, ISO/IEC Guide 98:1995. Guide to the expression of
+uncertainty in measurement (GUM).
+16 Adapted from British Standards Institution et al. PAS 2050:2008: Specification for the assessment of life
+cycle greenhouse gas emissions of goods and services.
+
+--- Page 141 of 148 ---

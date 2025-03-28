@@ -1,0 +1,58 @@
+File Name: 1_2021-06-04_DelVO_2021_2139_TAXKRA_EU.pdf
+Converted on: 2025-03-28 03:20:30
+Original Size: 2.76 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 167 of 447
+--------------------------------------------------------------------------------
+
+(6) Protection and restoration of
+biodiversity and ecosystems  The activity complies with the criteria set out in Appendix D to this 
+Annex.  
+6.17.  Low carbon airport infrastructure  
+Description of the activity  
+Construction, modernisation, maintenance and operation of infrastructure that is required for zero tailpipe CO  2 
+operation of aircraft or the airport’s own operations, as well as for provision of fixed electrical ground power and
+preconditioned air to stationary aircraft.  
+The economic activities in this category could be associated with several NACE codes, in particular F41.20 and
+F42.99 in accordance with the statistical classification of economic activities established by Regulation (EC)
+No 1893/2006.  
+An economic activity is an enabling activity as referred to in Article 10(1) point (i), of Regulation (EU) 2020/852
+where it complies with the technical screening criteria set out in this Section.  
+Technical screening criteria  
+Substantial contribution to climate change mitigation  
+1. The activity complies with one or more of the following criteria:
+(a) the infrastructure is dedicated to the operation of aircraft with zero tailpipe CO  2 emissions: electricity 
+charging and hydrogen refuelling;
+(b) the infrastructure is dedicated to the provision of fixed electrical ground power and preconditioned air to
+stationary aircrafts;
+(c) the infrastructure is dedicated to the zero direct emissions performance of the airport’s own operations:
+electric charging points, electricity grid connection upgrades, hydrogen refuelling stations.
+2. The infrastructure is not dedicated to the transport or storage of fossil fuels.  
+Do no significant harm (‘DNSH’)  
+(2) Climate change adaptation  The activity complies with the criteria set out in Appendix A to this 
+Annex.  
+(3) Sustainable use and protection of
+water and marine resources  The activity complies with the criteria set out in Appendix B to this 
+Annex.  
+(4) Transition to a circular economy  At least 70 % (by weight) of the non-hazardous construction and 
+demolition waste (excluding naturally occurring material defined in
+category 17 05 04 in the European List of Waste established by
+Decision 2000/532/EC) generated on the construction site is prepared
+for reuse, recycling and other material recovery, including backfilling oper ­
+ations using waste to substitute other materials, in accordance with the
+waste hierarchy and the EU Construction and Demolition Waste
+Management Protocol (  280  ). Operators limit waste generation in processes 
+related to construction and demolition, in accordance with the EU
+Construction and Demolition Waste Management Protocol and taking
+into account best available techniques and using selective demolition to
+enable removal and safe handling of hazardous substances and facilitate
+reuse and high-quality recycling by selective removal of materials, using
+available sorting systems for construction and demolition waste.  
+_____________
+( 280  ) EU Construction and Demolition Waste Protocol (https://ec.europa.eu/growth/content/eu-construction-and-demolition-waste- 
+protocol-0_en).EN  9.12.2021 Official Journal of the European Union L 442/123
+
+--- Page 124 of 349 ---

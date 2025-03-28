@@ -1,0 +1,43 @@
+File Name: 1_2021-06-04_DelVO_2021_2139_TAXKRA_EU.pdf
+Converted on: 2025-03-28 01:55:25
+Original Size: 2.76 MB
+Chunk Size: 400 tokens with 50 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 1040 of 1091
+--------------------------------------------------------------------------------
+
+(4) Transition to a circular economy  N/A  
+(5) Pollution prevention and control  N/A  
+(6) Protection and restoration of
+biodiversity and ecosystems  N/A  
+9.  PROFESSIONAL, SCIENTIFIC AND TECHNICAL ACTIVITIES  
+9.1.  Engineering activities and related technical consultancy dedicated to adaptation to climate change  
+Description of the activity  
+Engineering activities and related technical consultancy dedicated to adaptation to climate change.  
+The economic activities in this category could be associated with NACE code M71.12 in accordance with the
+statistical classification of economic activities established by Regulation (EC) No 1893/20061.  
+An economic activity in this category is an enabling activity as referred to in Article 11(1), point (b), of Regulation
+(EU) 2020/852 where it meets the technical screening criteria specified this section  
+Technical screening criteria  
+Substantial contribution to climate change adaptation  
+The economic activity is predominantly aimed at the provision of consultancy that helps one or more economic
+activities for which the technical screening criteria have been set out in this Annex to meet those respective criteria
+for substantial contribution to climate change adaptation, while respecting the relevant criteria for doing no
+significant harm to other environmental objectives.
+The economic activity complies with one the following criteria:
+(a) it uses state-of-the-art modelling techniques that:
+(i) properly reflect climate change risks;
+(ii) do not rely only on historical trends;
+(iii) integrate forward-looking scenarios;
+(b) it develops climate models and projections, services and assessment of impacts, the best available science for
+vulnerability and risk analysis and related methodologies line with the most recent Intergovernmental Panel on
+Climate Change reports and scientific peer-reviewed publications.
+The economic activity removes information, financial, technological and capacity barriers to adaptation.
+The potential to reduce material impacts due to climate risks is mapped through a robust climate risk assessment
+in the target economic activity.
+Activities in architectural design take into account climate proofing guidelines, climate-related hazards modelling
+and enable the adaptation of construction and infrastructure, including building codes and integrated management
+systems.
+The adaptation solutions implemented:

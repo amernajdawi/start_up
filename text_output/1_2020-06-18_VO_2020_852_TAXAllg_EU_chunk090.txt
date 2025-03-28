@@ -1,0 +1,26 @@
+File Name: 1_2020-06-18_VO_2020_852_TAXAllg_EU.pdf
+Converted on: 2025-03-28 03:17:58
+Original Size: 0.73 MB
+Chunk Size: 500 tokens with 50 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 90 of 97
+--------------------------------------------------------------------------------
+
+(b) in respect of the environmental objectives referred to in points (c) to (f) of Article 9 of Regulation (EU)
+2020/852, by 1 June 2022.
+Power is delegat ed to the Commission to supplement this Regulation by adopting the regulatory technical
+standards refer red to in the first subparagraph of this paragraph in accordance with Articles 10 to 14 of
+Regulations (EU) No 1093/2010, (EU) No 1094/2010 and (EU) No 1095/2010.’;
+(3) Article 9 is amended as follows:
+(a) the follo wing paragraph is inser ted:
+‘4a. Financial mark et participants shall include in the information to be disclosed pursuant to Article 6(1)
+and (3) of this Regulation the information required under Article 5 of Regulation (EU) 2020/852.’;
+(b) in paragraph 5, the first subparagraph is replaced by the followi ng:
+‘5. The ESAs shall, through the Joint Committee, develop draf t regulatory technical standards to specify the
+details of the cont ent and presentation of the information to be disclosed pursuant to paragraphs 1 to 4 of this
+Article.’;
+(c) the follo wing paragraph is added:
+‘6. The ESAs shall, through the Joint Committee, develop draf t regulatory technical standards to specify the
+details of the cont ent and presentation of the information referred to in paragraph 4a of this Article. EN Offi cial Jour nal of the European Union L 198/40                                                                                                                                         22.6.2020

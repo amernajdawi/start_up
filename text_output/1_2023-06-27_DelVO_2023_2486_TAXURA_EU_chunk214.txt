@@ -1,0 +1,28 @@
+File Name: 1_2023-06-27_DelVO_2023_2486_TAXURA_EU.pdf
+Converted on: 2025-03-28 03:18:09
+Original Size: 8.44 MB
+Chunk Size: 500 tokens with 50 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 214 of 380
+--------------------------------------------------------------------------------
+
+management plan that ensures that the product’s materials and components that have not been reused in the same
+product, are reused elsewhere, or where reuse is not possible (for example due to damage, degradation or hazardous
+substances), are recycled, or, only where reuse and recycling are not viable, are disposed of. For remanufacturing, the waste
+management plan is accessible to the public.
+4.Where the economic activity involves delivery of packaged products to customers (physical person or legal person)
+including when the activity is operated as an e-commerce (175), the primary and secondary packaging of the product
+complies with one of the following criteria:
+(a) the packaging is made of at least 65 % recycled material. Where the packaging is made from paper or cardboard, the
+remaining primary raw material are certified by the Forest Stewardship Council (FSC), the Programme for the
+Endorsement of Forest Certification Schemes (PEFC International), or equivalent recognised schemes. Coatings with
+plastics or metals are not used. For plastic packaging only mono-materials without coatings are used, halogen-
+containing polymers are not used. A declaration of compliance is provided specifying the material composition of the
+packaging and the shares of recycled and primary raw material;
+(174)The conformity of the product and the period of liability of the seller are set in accordance with the relevant provisions of Directive
+(EU) 2019/771.
+(175)‘E-commerce’ can be defined generally as the sale or purchase of goods or services, whether between businesses, households, individuals or private organisations, through electronic transactions conducted via the internet or other computer-mediated (online
+communication) networks, see Eurostat Statistics Explained Glossary, available at: https://ec.europa.eu/eurostat/statistics-explained/
+index.php?title=Category:Glossary .OJ L, 21.11.2023 EN

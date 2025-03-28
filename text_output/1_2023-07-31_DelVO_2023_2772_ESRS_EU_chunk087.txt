@@ -1,0 +1,52 @@
+File Name: 1_2023-07-31_DelVO_2023_2772_ESRS_EU.pdf
+Converted on: 2025-03-28 03:20:41
+Original Size: 5.82 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 87 of 284
+--------------------------------------------------------------------------------
+
+ELI: http://data.europa.eu/eli/reg_del/2023/2772/oj 90/284Mandates on and regulation
+of existing production
+processesNegative stakeholder
+feedback
+Exposure to litigation
+Climate-related scenario analysis
+AR 13. When disclosing the information required under paragraphs 19, 20, 21, AR 10 and AR 11, the undertaking shall
+explain how it has used climate-related scenario analysis that is commensurate to its circumstances to inform the
+identification and assessment of physical and transition risks and opportunities over the short-, medium- and
+long-term, including:
+(a) which scenarios were used, their sources and alignment with state-of-the-art science;
+(b) narratives, time horizons, and endpoints used with a discussion of why it believes the range of scenarios used covers its plausible risks and uncertainties;
+(c) the key forces and drivers taken into consideration in each scenario and why these are relevant to the
+undertaking, for example, policy assumptions, macroeconomic trends, energy usage and mix, and technology
+assumptions; and
+(d) key inputs and constraints of the scenarios, including their level of detail (e.g., whether the analysis of physical
+climate-related risks is based on geospatial coordinates specific to the undertaking’s locations or national- or
+regional-level broad data).
+AR 14. When conducting scenario analysis, the undertaking may consider the following guidance: TCFD Technical
+Supplement on “The Use of Scenario Analysis in Disclosure of Climate-Related Risks and Opportunities” (2017);
+TCFD “Guidance on Scenario Analysis for Non-Financial Companies” (2020); ISO 14091:2021 “Adaptation to
+climate change — Guidelines on vulnerability, impacts and risk assessment”; any other recognised industry
+standards such as NGFS (Network for Greening the Financial System); and EU, national, regional and local
+regulations.
+AR 15. The undertaking shall briefly explain how the climate scenarios used are compatible with the critical climate-
+related assumptions made in the financial statements.
+Disclosure Requirement E1-2 – Policies related to climate change mitigation and adaptation
+AR 16. Policies related to either climate change mitigation or climate adaptation may be disclosed separately as their
+objectives, people involved, actions and resources needed to implement them are different.
+AR 17. Policies related to climate change mitigation address the management of the undertaking’s GHG emissions, GHG
+removals and transition risks over different time horizons, in its own operations and/or in the upstream and
+downstream value chain. The requirement under paragraph 14 may relate to stand-alone climate change
+mitigation policies as well as relevant policies on other matters that indirectly support climate change mitigation
+including training policies, procurement or supply chain policies, investment policies or product development
+policies.
+AR 18. Policies related to climate change adaptation address the management of the undertaking’s physical climate risks
+and of its transition risks related to climate change adaptation. The requirement under paragraphs 22 and 25
+may relate to stand-alone climate change adaptation policies as well as relevant policies on other matters that
+indirectly support climate change adaptation including training policies, and emergency or health and safety
+policies.OJ L, 22.12.2023 EN  
+
+--- Page 91 of 284 ---

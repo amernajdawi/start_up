@@ -1,0 +1,19 @@
+File Name: CELEX_32010L0075_DE_TXT.pdf
+Converted on: 2025-03-28 03:18:33
+Original Size: 4.18 MB
+Chunk Size: 500 tokens with 50 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 121 of 163
+--------------------------------------------------------------------------------
+
+in
+einem
+Endlosverfahren
+entweder
+mit einer
+filmbildenden
+Schicht oder einem Lamin at
+überzogen
+werden.

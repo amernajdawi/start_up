@@ -1,0 +1,87 @@
+File Name: CELEX_32010L0075_DE_TXT.pdf
+Converted on: 2025-03-28 03:18:33
+Original Size: 4.18 MB
+Chunk Size: 500 tokens with 50 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 100 of 163
+--------------------------------------------------------------------------------
+
+Stickstoffoxide 20
+%
+Staub 30 %
+10. Die validierten  
+Stunden-
+und
+Tagesmittelwerte
+werden
+aufgrund
+der ge
+messenen
+geltenden
+Stundenmittelwerte
+und
+nach
+Abzug
+des Wertes des un ter
+Nummer 9 g enannten
+Konfidenzintervalls
+be
+stimmt.
+Jeder Tag,
+an
+dem mehr als drei Stun denmittelwerte
+wegen
+Störung
+oder Wartun g
+des automatisierten  
+Messsystems
+ungültig
+sind,
+wird für un gültig
+erklärt.
+Werden
+mehr als zehn  
+Tage
+im Jahr weg en
+solcher Situation en
+für ungültig
+erklärt,
+verpflichtet die zustän dige
+Behörde den  
+Betreiber,
+geeignete
+Maßnahmen
+einzuleiten,
+um die Zuverlässig keit
+des
+automatisierten  
+Messsystems zu verb essern.
+11. Bei
+Anlagen,
+für die der Schwefelab scheidegrad
+nach
+Artikel
+31 gilt,
+ist auch der Schwefelg ehalt
+des in
+der Feuerun gs­
+anlage
+verfeuerten  
+Brennstoffs
+regelmäßig
+zu überwachen.
+Die zustän dig
+en
+Behörden  
+sind
+über
+wesentliche
+Änderun­
+gen
+in
+Bezug
+auf die Art des verwen deten
+Brennstoffs
+zu unterrichten.

@@ -1,0 +1,81 @@
+File Name: 2_E1-6_2014-01-01_G_GHG-Agri_WRI&WBCSD.pdf
+Converted on: 2025-03-28 03:20:54
+Original Size: 1.75 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 25 of 65
+--------------------------------------------------------------------------------
+
+Feed production Globally , feed production accounts for 45 % of the product - level GHG emissions across all types of livestock ( Gerbe r et al . , 2013 ) . It is more important in the life cycle inventories of egg , chicken and pork , compared to those of milk and beef , where enteric fermentation dominates . Feed production em issions come from many of the sources described in Chapter 4 . 2 ; particularly , soil management , LUC , and fertilizer production , as well as electricity use dur ing drying and processing .
+
+Refrigeration
+Refrigeration is the major GHG-intensive co mponent of the downstream supply chain.
+Refrigeration emissions occur during initial chilling, transport, storage, catering and
+retail. Limited data are available, but th is “cold chain” coul d account for about one
+percent of global GHG emissions (James and James, 2010).  
+
+--- Page 33 of 103 ---
+
+GHG Protocol Agricultural Guidance
+
+33
+
+Part 2: DEVELOPING CORPORATE
+INVENTORIES
+
+--- Page 34 of 103 ---
+
+GHG Protocol Agricultural Guidance
+
+34
+ Chapter 5: Setting Inventory Boundaries  
+Agricultural companies vary tremendously in terms of their organizational structures and
+business operations. Common examples include the degree of vertical integration, the
+types of leases entered into for land and equipment, and the manner in which agricultural
+products are sold off the farm. This variation poses a challenge to ensuring that emissions sources are included in inventories in a cons istent way over time, both within and across
+companies. Fortunately, specific approaches are available to help companies determine
+which sources should be included – th ese approaches relate to setting inventory
+boundaries .  
+This chapter:
+ Describes approaches for setting orga nizational boundaries to determine which
+business operations should be included in an inventory.
+ Describes approaches for se tting operational boundaries that define whether and
+how emissions sources associated with these operations should be reported in
+inventories.
+
+Summary of requirements and main recommendations:
+ Companies shall separately account fo r and report on scope 1 and 2 at a
+minimum.
+ When setting operational boundaries, compan ies should take appropriate account
+of production contracts and other forms of agricultural contracting, land and
+equipment leases, and membership of co-operatives.
+
+5.1 Setting organizational boundaries  
+Organizational boundaries determine which land and operating facilities, such as barns
+and processing plants (collectively termed ‘operations’ in this Guidance), shall be
+included in an inventory. Three ‘consolid ation’ approaches can be used to set
+organizational boundaries: 1. Operational control . A company accounts for 100% of the GHG fluxes to/from an
+operation over which it has the authority  to introduce and implement its own 
+operating policies.
+2. Financial control . A company accounts for 100% of the fluxes to/from an operation
+over which it has the ability to direct fina ncial and operating polic ies with a view to
+gaining economic benefits.
+3. Equity-share approach . A company accounts for the fluxes to/from an operation
+according to its share of equity (or percenta ge of economic interest) in that operation.
+Various criteria can be used by companies to determine if they exert operational control
+of an operation. For instance, operati onal control would be held if:  
+• The operation is operated by the reporti ng company, whether for itself or under a
+contractual obligati on to other owners or partic ipants in the operation.  
+
+--- Page 35 of 103 ---
+
+GHG Protocol Agricultural Guidance
+
+35
+• The operation is operated by a joint venture (or equivalent), in respect of which the
+reporting company has the ability to de termine management and board-level
+decisions of the joint venture.
+• The reporting company holds an operating license.
+• The reporting company sets environmen tal, health and safety policies.

@@ -1,0 +1,34 @@
+File Name: 2_ESRS2_SBM1_2006-12-20_VO_NACER2_EU.pdf
+Converted on: 2025-03-28 03:20:56
+Original Size: 0.17 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 40 of 45
+--------------------------------------------------------------------------------
+
+6. The new orders variables (Nos 130, 131, 132) are to be transmitted for total manufacturing, Section C of NACE
+Rev. 2 and a reduced set of MIGs calculated from covering the list of NACE Rev. 2 Divisions defined inparagraph 8 under heading (c) (“List of variables”) of this Annex.
+7. The import price variable (No 340) is to be transmitted for total industrial products, Sections B to E of CPA and
+MIGs defined in accordance with Regulation (EC) No 586/2001 from product groups of the CPA. This variabledoes not need to be transmitted by those Member States that have not adopted the euro as their currency.’.
+1.7. In Annex A, point (f) (‘Level of detail’), paragraphs 9 and 10 shall be replaced by the following:
+‘9. The variables on the non-domestic markets (Nos 122, 132 and 312) are to be transmitted according to the
+distinction into euro-zone and non-euro-zone. The distinction is to be applied to the total industry defined asNACE Rev. 2 Sections B to E, the MIGs, the Section (1 letter) and Division 2-digit level of NACE Rev. 2. The
+information on NACE Rev. 2 D and E is not required for variable 122. In addition, the import price variable
+(No 340) is to be transmitted according to the distinction into euro-zone and non-euro-zone. The distinction isto be applied to the total industry defined as CPA Sections B to E, the MIGs, the Section (1 letter) and Division 2-digit level of CPA. For the distinction into the euro-zone and non-euro-zone, the Commission may determine, inaccordance with the procedure laid down in Article 18, the terms for applying European sample schemes asdefined in point (d) of the first subparagraph of Article 4(2). The European sample scheme may limit the scopeof the import price variable to the import of products from non-euro-zone countries. The distinction into the
+euro-zone and non-euro-zone for the variables 122, 132, 312 and 340 does not need to be transmitted by those
+Member States that have not adopted the euro as their currency.
+10. Those Member States whose value added in Sections B, C, D and E of NACE Rev. 2 in a given base year
+represents less than 1 % of the European Community total only need to transmit data for total industry, MIGs,and NACE Rev. 2 Section level, or CPA Section level.’.
+1.8. In Annex A, point (g) (‘Deadlines for data transmission’), paragraph 2 shall be replaced by the following:
+‘2. The deadline may be up to 15 calendar days longer for data on the NACE Rev. 2 Group and Class levels or the
+CPA Group and Class levels. For those Member States whose value added in Sections B, C, D and E of NACE Rev.2 in a given base year represents less than 3 % of the European Community total, the deadline may be up to 15calendar days longer for data on total industry, MIGs, NACE Rev. 2 Section and Division level or CPA Sectionand Division level.’ .
+1.9. The following paragraph shall be added to Annex A, point (i) (‘First reference period’):
+‘The first reference period for which all variables are to be transmitted in NACE Rev. 2 is January 2009 for monthly
+data and the first quarter 2009 for quarterly data.’.
+2. Annex B
+2.1. In Annex B, point (a) (‘Scope’) shall be replaced by the following:
+‘(a) Scope
+This Annex applies to all activities listed in Section F of NACE Rev. 2.’.
+2.2. In Annex B, point (e) (‘Reference period’), ‘NACE’ shall be replaced by ‘NACE Rev. 2’.

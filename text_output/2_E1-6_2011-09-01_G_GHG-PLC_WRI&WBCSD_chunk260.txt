@@ -1,0 +1,32 @@
+File Name: 2_E1-6_2011-09-01_G_GHG-PLC_WRI&WBCSD.pdf
+Converted on: 2025-03-28 01:56:27
+Original Size: 3.27 MB
+Chunk Size: 400 tokens with 50 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 260 of 270
+--------------------------------------------------------------------------------
+
+Sabine Deimling, PE INTERNATIONAL
+Harald Florin, PE INTERNATIONAL
+Hannes Partl, PE INTERNATIONAL
+Julia Pflieger, PE INTERNATIONAL
+Michael Spielmann, PE INTERNATIONAL
+Liila Woods, PE INTERNATIONAL
+Haixiao Zhang, PE INTERNATIONAL
+Duncan Noble, PE INTERNATIONAL, Inc. & Five Winds
+Strategic Consulting
+Robert ter Kuile, PepsiCo
+Stephanie Adda, PricewaterhouseCoopers, LLP
+Helen Slinger, PricewaterhouseCoopers, LLP
+Getachew Assefa, Royal Institute  
+of Technology – Stockholm
+Jonas Dennler, SAP
+Jim Sullivan, SAP
+Kevin Ramm, SAP AG
+Andreas Vogel, SAP Labs
+Chris Librie, SC Johnson
+Valerie A Slomczewski, SC Johnson
+Lisa Brough, SGS
+Jan Minx, Stockholm Environment InstituteProduct Standard Technical Working Group Members (continued)

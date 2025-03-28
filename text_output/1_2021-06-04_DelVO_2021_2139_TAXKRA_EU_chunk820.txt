@@ -1,0 +1,49 @@
+File Name: 1_2021-06-04_DelVO_2021_2139_TAXKRA_EU.pdf
+Converted on: 2025-03-28 03:18:03
+Original Size: 2.76 MB
+Chunk Size: 500 tokens with 50 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 820 of 966
+--------------------------------------------------------------------------------
+
+(c) are consistent with local, sectoral, regional or national adaptation plans and strategies;
+(d) are monitored and measured against pre-defined indicators and remedial action is considered where those
+indicators are not met;
+(e) where the solution implemented is physical and consists in an activity for which technical screening criteria
+have been specified in this Annex, the solution complies with the do no significant harm technical screening
+criteria for that activity.  
+Do no significant harm (‘DNSH’)  
+(1) Climate change mitigation  N/A  
+(3) Sustainable use and protection of
+water and marine resources  The activity complies with the criteria set out in Appendix B to this 
+Annex.  
+(4) Transition to a circular economy  Measures are in place to manage waste, both in the use phase and in the 
+end-of-life of the vessel, in accordance with the waste hierarchy.
+For battery-operated vessels, those measures include reuse and recycling of
+batteries and electronics, including critical raw materials therein.
+For existing ships above 500 gross tonnage and the new-built ones
+replacing them, the activity complies with the requirement of Regulation
+(EU) No 1257/2013 relating to the inventory of hazardous materials. The
+scrap ships are recycled in facilities included on the European List of ship
+recycling facilities as laid down in Commission Decision 2016/2323.
+The activity complies with Directive (EU) 2019/883 as regards the
+protection of the marine environment against the negative effects from
+discharges of waste from ships
+The ship is operated in accordance with Annex V to the IMO MARPOL
+Convention, in particular with a view to producing reduced quantities of
+waste and to reducing legal discharges, by managing its waste in a
+sustainable and environmentally sound manner.  
+(5) Pollution prevention and control  As regards the reduction of sulphur oxides emissions and particulate 
+matters, vessels comply with Directive (EU) 2016/802 and with Regulation
+14 of Annex VI to the IMO MARPOL Convention. Sulphur in fuel content
+does not exceed 0,5 % in mass (the global sulphur limit) and 0,1 % in
+mass in emission control area (ECA) designated in the North and Baltic
+Seas by the IMO (  522  ). 
+As regards nitrogen oxides (NO  x ) emissions, vessels comply with Regu ­
+lation 13 of Annex VI to the IMO MARPOL Convention. Tier II NO  x 
+requirement applies to ships constructed after 2011. Only while
+operating in NO  x emission control areas established under IMO rules, 
+ships constructed after 1 January 2016 comply with stricter engine
+requirements (Tier III) reducing NO  x emissions (  523  ).

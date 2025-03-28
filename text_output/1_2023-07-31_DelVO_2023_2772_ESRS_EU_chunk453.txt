@@ -1,0 +1,34 @@
+File Name: 1_2023-07-31_DelVO_2023_2772_ESRS_EU.pdf
+Converted on: 2025-03-28 03:18:14
+Original Size: 5.82 MB
+Chunk Size: 500 tokens with 50 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 453 of 686
+--------------------------------------------------------------------------------
+
+ELI: http://data.europa.eu/eli/reg_del/2023/2772/oj 191/284undertaking’s own workforce and reported under the scope of ESRS S2) include: workers for a supplier
+contracted by the undertaking who work on the supplier’s premises using the supplier’s work methods; workers
+for a ‘downstream’ entity which purchases goods or services from the undertaking; and workers of an equipment
+supplier to the undertaking who, at one or more of the undertaking’s workplaces, perform regular maintenance on the supplier’s equipment (for example, photocopier) as stipulated in the contract between the equipment
+supplier and the undertaking.
+AR 63. If the undertaking cannot report exact figures, it shall use estimates according to the provisions in ESRS 1 to
+disclose the number of people in its own workforce who are not employees to the nearest ten or, where the
+number of people in its own workforce who are not employees is greater than 1 000, to the nearest 100, and
+explain this. In addition, it shall clearly identify the information that derives from actual data and estimates.
+AR 64. Disclosing the number of people in the undertaking’s own workforce who are not employees at the end of the
+reporting period provides information for that point in time without capturing fluctuations during the reporting period. Disclosing this number as an average across the reporting period considers fluctuations during the
+reporting period and can provide more insightful and relevant information for users.
+AR 65. The information disclosed by the undertaking allows users to understand how the number of non-employees in
+the undertaking’s own workforce varies during the reporting period or compared to the previous reporting
+period (i.e., whether the numbers have increased or decreased). The undertaking may also disclose the reasons
+for the fluctuations. For example, an increase in the number of non-employees during the reporting period could be due to a seasonal event. Conversely, a decrease in the number of non-employees compared to the
+previous reporting period could be due to the completion of a temporary project. If the undertaking discloses
+fluctuations, it shall also explain the criteria used to determine which fluctuations it discloses. If there are no
+significant fluctuations in the number of non-employees during the reporting period or between the current and
+previous reporting period, the undertaking may disclose this information.
+Disclosure Requirement S1-8 – Collective bargaining coverage and social dialogue
+Collective bargaining coverage
+AR 66. The percentage of employees covered by collective bargaining agreements is calculated using the following
+formula:

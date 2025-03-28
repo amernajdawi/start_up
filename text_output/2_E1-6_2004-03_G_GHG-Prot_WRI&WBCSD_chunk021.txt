@@ -1,0 +1,49 @@
+File Name: 2_E1-6_2004-03_G_GHG-Prot_WRI&WBCSD.pdf
+Converted on: 2025-03-28 03:20:43
+Original Size: 3.51 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 21 of 104
+--------------------------------------------------------------------------------
+
+n operational boundary defines the scope of direct
+and indirect emissions for operations that fall withina company’s established organizational boundary.
+The operational boundary (scope 1, scope 2, scope 3) isdecided at the corporate level after setting the organiza-tional boundary. The selected operational boundary is thenuniformly applied to identify and categorize direct andindirect emissions at each operational level (see Box 2).The established organizational and operational bound-aries together constitute a company’s inventory boundary.Accounting and reporting on scopes
+Companies account for and report emissions from scope 1 and 2 separately. Companies may furthersubdivide emissions data within scopes where this aidstransparency or facilitates comparability over time. For example, they may subdivide data by businessunit/facility, country, source type (stationary combustion,process, fugitive, etc.), and activity type (production of electricity, consumption of electricity, generation orpurchased electricity that is sold to end users, etc.).
+In addition to the six Kyoto gases, companies may also
+provide emissions data for other GHGs (e.g., MontrealProtocol gases) to give context to changes in emissionlevels of Kyoto Protocol gases. Switching from a CFCto HFC, for example, will increase emissions of KyotoProtocol gases. Information on emissions of GHGs otherthan the six Kyoto gases may be reported separatelyfrom the scopes in a GHG public report.
+Together the three scopes provide a comprehensive
+accounting framework for managing and reducingdirect and indirect emissions. Figure 3 provides anoverview of the relationship between the scopes and the activities that generate direct and indirect emissionsalong a company’s value chain.
+A company can benefit from efficiency gains throughout
+the value chain. Even without any policy drivers,accounting for GHG emissions along the value chain mayreveal potential for greater efficiency and lower costs(e.g., the use of fly ash as a clinker substitute in themanufacture of cement that reduces downstream emis-sions from processing of waste fly ash, and upstream
+26Setting Operational Boundaries
+CHAPTER 4GUIDANCEBOX 2. Organizational and operational boundaries
+Organization X is a parent company that has full ownership andfinancial control of operations A and B, but only a 30% non-operated interest and no financial control in operation C.
+Setting Organizational Boundary: X would decide whether to
+account for GHG emissions by equity share or financial control. Ifthe choice is equity share, X would include A and B, as well as 30%of C’s emissions. If the approach chosen is financial control, Xwould count only A and B’s emissions as relevant and subject toconsolidation. Once this has been decided, the organizationalboundary has been defined.
+Setting Operational Boundary: Once the organizational boundary
+is set, X then needs to decide, on the basis of its business goals,whether to account only for scope 1 and scope 2, or whether toinclude relevant scope 3 categories for its operations.
+Operations A, B and C (if the equity approach is selected) account
+for the GHG emissions in the scopes chosen by X, i.e., they apply thecorporate policy in drawing up their operational boundaries.
+FIGURE 3. Overview of scopes and emissions across a value chain
+SCOPE 2
+INDIRECTCO2 SF6 N2O CH4 PFCs HFCs
+SCOPE 1
+DIRECT
+SCOPE 3
+INDIRECT
+PURCHASED ELECTRICITY
+FOR OWN USE
+COMPANY OWNED
+VEHICLES
+FUEL COMBUSTIONPRODUCT
+USE
+OUTSOURCED ACTIVITIESCONTRACTOR OWNED
+VEHICLESWASTE DISPOSALEMPLOYEE BUSINESS TRAVEL
+PRODUCTION OF
+PURCHASED MATERIALSA
+Adopted from NZBCSD, 2002
+
+--- Page 29 of 116 ---

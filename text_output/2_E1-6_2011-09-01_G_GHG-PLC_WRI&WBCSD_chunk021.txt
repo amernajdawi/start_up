@@ -1,0 +1,102 @@
+File Name: 2_E1-6_2011-09-01_G_GHG-PLC_WRI&WBCSD.pdf
+Converted on: 2025-03-28 03:20:53
+Original Size: 3.27 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 21 of 116
+--------------------------------------------------------------------------------
+
+[29]
+guidanceCHAPTER 06 establishing the scope of a product inventory
+6.3 Guidance
+6.3.1 Choosing the studied product
+A review or screening exercise of all the products a
+company produces, distributes, buys, or sells3 is the
+first step to identifying an individual product to study.
+Companies should pick a product that is GHG intensive
+as well as strategically important and aligned with their
+business goals.
+The results of a corporate GHG inventory following the
+Corporate and Scope 3 Standard s can be used to easily
+identify products or product categories that are GHG
+intensive. If this inventory is not available, companies
+may use environmentally extended input-output (EEIO)
+tables to estimate the GHG intensity of products based
+on economic transactions. (See chapter 8 for more
+information on EEIO tables.) If neither is available,
+companies may use physical or economic factors to rank
+products by mass, volume, or spend. This option is least
+preferred because physical or economic factors alone may
+not correlate with GHG intensity.
+Companies may decide to further evaluate a group
+of products in more detail. This further evaluation
+may include looking deeper into where reductions
+could occur along the product’s life cycle, evaluating
+the company’s potential influence on suppliers and
+customers, researching
+supplier relationships
+and potential for
+engagement, and
+ranking products
+based on the ability
+for marketplace
+differential. Companies
+may consult with their
+product design and/or research and development teams
+to choose a product for which potential reductions
+could be met through innovation such as design,
+material, or manufacturing advancements. Or they may
+choose a new or emerging product still in prototype
+or conceptual stage where GHG reductions could be
+achieved during the product design and implementation
+stages of development. If it is still unclear through screening exercises and further
+evaluation which product to choose, companies should
+opt for a product with the largest anticipated strategic
+impact and GHG reduction potential in the life cycle.
+6.3.2	 Defining	the	unit	of	analysis
+Defining the unit of analysis is a critical step in completing
+a GHG inventory because it directly influences the
+subsequent steps and results of the inventory. For example:
+•The duration/service life is the basis for the product’s
+use profile during boundary setting (chapter  7)
+•The reference flow is the basis for all data collection
+since it defines the magnitude of material or energy
+inputs and outputs (chapter  8)
+•A well-defined unit of analysis can avoid allocation
+by including the studied product and co-products
+together (chapter 9)
+•The unit of analysis is the basis on which the inventory
+results are reported, and therefore a transparent unit
+of analysis is important to ensure inventory results are
+interpreted and used correctly (chapters 11 and 13)
+The following sections provide guidance on defining a
+product’s function, functional unit, and reference flow,
+as well as defining the unit of analysis for intermediate
+products and services.
+Identifying the function
+The function is the service a product provides. When
+the function is known (i.e., for final products and some
+intermediate products), the unit of analysis is the
+functional unit. Some questions a company may ask to
+help identify a product’s function include:
+•Why is the product created?
+•What purpose does the product serve?
+•What defining characteristics or expected level of
+quality does the product have?
+For example, if the studied product is a light bulb, the
+product is created for the purpose of providing light.
+The amount of service (e.g., light) that the light bulb
+provides depends on characteristics such as the amount
+of luminance and spectrum. In many cases, a product can
+have several functions; in this step, companies should
+identify all functions before selecting one to serve as the
+basis of the functional unit. Companies should pick
+a product that is GHG
+intensive as well as
+strategically important
+and aligned with their
+business goals.
+
+--- Page 32 of 148 ---

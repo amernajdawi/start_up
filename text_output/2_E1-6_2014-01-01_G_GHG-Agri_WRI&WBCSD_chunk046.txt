@@ -1,0 +1,81 @@
+File Name: 2_E1-6_2014-01-01_G_GHG-Agri_WRI&WBCSD.pdf
+Converted on: 2025-03-28 03:20:54
+Original Size: 1.75 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 46 of 65
+--------------------------------------------------------------------------------
+
+disturbance em issions , they may assume that all post - disturbance emissions occur in the year of the disturbance even t . That is , the CO 2 emissions from the long - term decay of DOM created during an event ( e . g . , downed trees from a windstorm ) can be reported in the year of the event . Alternatively , these emissions can be amortized ( see Chapter 8 . 3 ) . 8 . 3 Amortizing changes in carbon stocks over time What is ‘ amortizing ’ and when is it necessary ?
+
+Shifts in management practices during the reporting period will often have long-lasting
+effects on C stocks that may persist for d ecades. For instance, following a change in
+management practices (e.g., adoption of no-til l practices) soil C stocks may take 15 - 60
+years to reach equilibrium, depending on the type of tillage and crop rotation regimes.
+Following LUC (e.g., conversion of cropland to  grassland), the transition period will 
+often exceed 100 years (e.g., Figure 8-1). Also, as Figure 8-1 demonstrates, the rate of
+change in C stocks will vary over time. Amortizing the CO 2 fluxes from changes in C
+stocks involves allocating these fluxes across time (and therefore multiple inventories) to
+ensure the more consistent acc ounting of C stock impacts.   
+
+--- Page 65 of 103 ---
+
+GHG Protocol Agricultural Guidance
+
+65
+
+ Figure 8-1.  Illustration of land use change  between grassland and cropland 
+
+Source: To be provided
+
+Whether amortization is needed depends on the calculation approach  
+As discussed in Chapter 7.3, a variety of methods can be used to quantify CO 2 fluxes. If a
+method is used that directly estimates the amount of GHG flux (or stock change) within
+the reporting period, amortizat ion is not needed. Conversely,  if the estimated data are 
+generated for the transition period as a whole, rather than just for the reporting period,
+amortization is needed (Table 8-1).  
+  Table 8-1.  Examples of calculation approaches that  will and will not require amortization 
+of the calculated CO
+2 fluxes.  
+Calculation approach Examples Is amortization
+required?
+Directly provides an estimate of the amount of CO
+2 flux or stock
+change that occurred in the
+reporting period, rather than in the transition period as a whole • A process model that estimates the
+cumulative net CO
+2 flux over the
+reporting period
+• An emission factor that has a time
+dependence of only one year (e.g.,
+tonnes C sequestered per hectare per
+year of practice) No
+Estimates the total amount of
+CO 2 flux or stock change over
+the entire transition period, under permanent adoption of the practice concerned Reference stock sizes for the amount of
+carbon stored in the biomass of grassland and woodland that are used to quantify the stock change associated with LUC Yes
+
+--- Page 66 of 103 ---
+
+GHG Protocol Agricultural Guidance
+
+66
+Certain CO 2 fluxes should never be amortized
+Irrespective of the quantification approach, certain CO 2 fluxes should never be amortized
+and should always be reported in the year of the management pr actice. These are:  
+ The CO 2 emissions from bioma ss and DOM combustion  
+ The CO 2 emissions from the organic car bon stocks of organic soils.   
+
+Amortizing the CO 2 emissions from DOM stocks is optional  
+Some management practices ma y move C to DOM stocks that is not then emitted in the
+year of the intervention. For inst ance, much of the C in biomass killed in a fire is added to
+dead wood, litter and soil pools from where th e C will be emitted over years to decades,
+as the DOM decomposes. Quantifying the emissions from these DOM stock changes can
+be very challenging; for instance, DOM decay rates differ greatly between regions,
+depending on temperature and moisture regimes. Consequently, companies may either assume that the total CO
+2 emissions from DOM stocks occur in the year of the
+intervention, or, should capacity and data ex ist, they may amortize these emissions over
+time.   Table 8-2 summarizes when it is and is not appropriate to amortize CO
+2 fluxes.

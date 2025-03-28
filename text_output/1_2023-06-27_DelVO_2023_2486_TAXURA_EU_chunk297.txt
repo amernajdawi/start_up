@@ -1,0 +1,39 @@
+File Name: 1_2023-06-27_DelVO_2023_2486_TAXURA_EU.pdf
+Converted on: 2025-03-28 03:18:09
+Original Size: 8.44 MB
+Chunk Size: 500 tokens with 50 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 297 of 380
+--------------------------------------------------------------------------------
+
+ELI: http://data.europa.eu/eli/reg_del/2023/2486/oj 109/164(iii) installation, operation and maintenance of monitoring facilities and equipment such as observation wells in and
+outside the perimeter of the remediation site;
+(c) demolition of contaminated buildings or other structures, dismantling large-scale machinery and equipment (i.e.
+decommissioning) and removal of surface sealing and concreting;
+(d) earth moving or dredging, including excavation, landfilling, levelling, construction or reinforcement of perimeter walls
+or fences, primary access and internal roads and any other activities necessary to operate the decontamination;
+(e) implementation of other environmental protection and pollution prevention and control measures to comply with the
+conditions imposed in the environmental permit for the remediation project, including measures for safeguarding
+safety of operations on-site and health of workers (such as for fire control, flood protection, hazardous waste
+management), protection of workers, site access control, management of invasive species before or during
+decontamination or remediation, reinforcement operations carried out prior to or during decontamination.
+This economic activity does not include:
+(a) pest control in agriculture;
+(b) purification of water for water supply purposes;
+(c) decontamination or remediation of nuclear plants and sites;
+(d) treatment and disposal of hazardous or non-hazardous waste unrelated to the site contamination problem;
+(e) morphological remediation;
+(f) remediation of legally non-conforming landfills and abandoned or illegal waste dumps unrelated to the site under
+remediation (See Section 2.3 of this Annex);
+(g) emergency services (see Section 14.1 of Annex II to Delegated Regulation (EU) 2021/2139);
+(h) outdoor sweeping and watering of streets.
+The economic activities in this category could be associated with several NACE codes, in particular 39, 33.20, 43.11, 43.12,
+71.12, 71.20, 74.90, 81.30 in accordance with the statistical classification of economic activities established by Regulation
+(EC) No 1893/2006.
+Technical screening criteria
+Substantial contribution to pollution prevention and control
+1.Remediation activities are not carried out by the operator (68)that caused the pollution or a person acting on behalf of
+that operator in order to comply with the requirements of Directive 2004/35/CE or, for activities located in third
+countries, with environmental liability provisions based on the ‘polluter-pays’ principle according to national law.

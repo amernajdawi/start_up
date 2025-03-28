@@ -1,0 +1,48 @@
+File Name: 1_2023-06-27_DelVO_2023_2486_TAXURA_EU.pdf
+Converted on: 2025-03-28 03:20:36
+Original Size: 8.44 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 50 of 199
+--------------------------------------------------------------------------------
+
+ELI: http://data.europa.eu/eli/reg_del/2023/2486/oj 32/164(f) the Best Available Techniques Reference Document (BREF) for Manufacture of
+Organic Fine Chemicals (19);
+(g) the Best Available Techniques Reference Document (BREF) for the production of
+speciality inorganic chemicals (SIC) (20).
+No significant cross-media effects occur.
+(6) Protection and restoration of biodiversity and ecosys
+­
+temsThe activity complies with criteria set out in Appendix D to this Annex.
+1.2. Manufacture of electrical and electronic equipment
+Description of the activity
+Manufacturing of electrical and electronic equipment for industrial, professional and consumer use.This activity includes manufacturing of rechargeable and non-rechargeable portable batteries (
+21). The activity does not
+include manufacturing of other battery categories.The economic activities in this category could be associated with several NACE codes, in particular C26 and C27 in
+accordance with the statistical classification of economic activities established by Regulation (EC) No 1893/2006.
+Technical screening criteria
+Substantial contribution to the transition to a circular economy
+1.Where the economic activity manufactures electrical and electronic equipment complying with all EU Ecolabel criteria
+applicable to that specific product category, in accordance with Regulation (EC) No 66/2010 of the European Parliament
+and of the Council (
+22), the operator of the activity provides the proof of compliance with all requirements listed, in
+accordance with the verification criteria foreseen by the EU Ecolabel criteria.
+2.Where no product-specific EU Ecolabel criteria exist, or the operator of the activity has not used them, the economic
+activity manufacturing electrical and electronic equipment complies with all of the following criteria applicable to a
+relevant product:
+2.1. Design for long lifetime
+2.1.1. Where the product contains software that requires updates, all versions of software components, software support
+and software/firmware, including updates, are made available to users for the lifetime of an item as defined under Directive
+2009/125/EC and implementing acts adopted under that Directive. Where the availability of software updates is not
+regulated, the availability is at least eight years. Functionality and lifetime of the product are not reduced through software
+updates or lack of software updates.
+(19)The Best Available Techniques Reference Document (BREF) for Manufacture of Organic Fine Chemicals (version of 27.6.2023: https://
+eippcb.jrc.ec.europa.eu/sites/default/files/2019-11/ofc_bref_0806.pdf).
+(20)The Best Available Techniques Reference Document (BREF) for the production of speciality inorganic chemicals (SIC) (version of
+27.6.2023: https://eippcb.jrc.ec.europa.eu/reference/production-speciality-inorganic-chemicals).
+(21)‘Portable battery’ means any battery that is sealed and weighs less than or equal to 5 kg and it is not designed for industrial purposes. Portable battery is neither an electric vehicle battery nor an automotive battery.
+(22)Regulation (EC) No 66/2010 of the European Parliament and of the Council of 25 November 2009 on the EU Ecolabel (OJ L 27, 30.1.2010, p. 1).OJ L, 21.11.2023 EN  
+
+--- Page 33 of 164 ---

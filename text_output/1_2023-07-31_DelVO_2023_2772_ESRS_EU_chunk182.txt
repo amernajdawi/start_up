@@ -1,0 +1,47 @@
+File Name: 1_2023-07-31_DelVO_2023_2772_ESRS_EU.pdf
+Converted on: 2025-03-28 03:20:41
+Original Size: 5.82 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 182 of 284
+--------------------------------------------------------------------------------
+
+ELI: http://data.europa.eu/eli/reg_del/2023/2772/oj 183/284(f) keeps up-to-date records on recruitment, training and promotion that provide a transparent view of
+opportunities for employees and their progression within the undertaking;
+(g) puts in place grievance procedures to address complaints, handle appeals and provide recourse for employees
+(especially in the context of negotiations and collective agreements) when discrimination is identified, and is
+alert to formal structures and informal cultural issues that can prevent employees from raising concerns and
+grievances; and
+(h) has programs to promote access to skills development.
+Disclosure Requirement S1-2 – Processes for engaging with own workforce and workers' representatives about impacts
+AR 18. When describing what function or role has operational responsibility for such engagement and/or ultimate
+accountability, the undertaking may disclose whether this is a dedicated role or function or part of a broader role
+or function, and whether any capacity building activities have been offered to support the staff to undertake
+engagement. If it cannot identify such a position or function, it may state that this is the case. This disclosure
+could also be fulfilled by making reference to information disclosed according to ESRS 2 GOV-1 The role of the
+administrative, management and supervisory bodies.
+AR 19. When preparing the disclosures described in paragraph 27 b) and c), the following illustrations may be
+considered:
+(a) examples of stages at which engagement occurs are i) determining the approach to mitigation and ii)
+evaluating the effectiveness of mitigation;
+(b) for type of engagement, these could be participation, consultation and/or information;
+(c) for the frequency of the engagement, information may be provided on whether engagement occurs on a regular basis, at certain points in a project or business process, (for example, when a new harvest season
+begins or a new production line is opened), as well as whether it occurs in response to legal requirements and/or in response to stakeholder requests and whether the result of the engagement is being
+integrated into the undertaking's decision-making processes; and
+(d) for the role with operational responsibility, whether the undertaking requires relevant staff to have certain skills, or whether it provides training or capacity building to relevant staff to undertake engagement.
+AR 20. Global Framework Agreements (GFA) serve to establish an ongoing relationship between a multinational enterprise and a Global Union Federation to ensure that the undertaking adheres to the same standards in every country in which it operates.
+AR 21. To illustrate how the perspectives of its own workforce have informed specific decisions or activities, the
+undertaking may provide examples from the current reporting period.
+AR 22. Where the undertaking has agreements with national, European or international trade unions or works councils
+related to the rights of people its own workforce, this can be disclosed to illustrate how the agreement enables
+the undertaking to gain insight into the perspectives of such people.
+AR 23. Where possible, the undertaking may disclose examples from the reporting period to illustrate how the
+perspectives of its own workforce and workers' representatives have informed specific decisions or activities of
+the undertaking.
+AR 24. The undertaking shall consider the following aspects when fulfilling this Disclosure Requirement:
+(a) The type of engagement (for example, information, consultation or participation) and its frequency (for
+example, ongoing, quarterly, annually);OJ L, 22.12.2023 EN  
+
+--- Page 184 of 284 ---

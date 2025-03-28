@@ -1,0 +1,53 @@
+File Name: 1_2023-07-31_DelVO_2023_2772_ESRS_EU.pdf
+Converted on: 2025-03-28 03:20:41
+Original Size: 5.82 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 51 of 284
+--------------------------------------------------------------------------------
+
+ELI: http://data.europa.eu/eli/reg_del/2023/2772/oj 51/284(f) information about the resilience of the undertaking's strategy and business model regarding its capacity to
+address its material impacts and risks and to take advantage of its material opportunities. The undertaking shall
+disclose a qualitative and, when applicable, a quantitative analysis of the resilience, including how the analysis
+was conducted and the time horizons that were applied as defined in ESRS 1 (see ESRS 1 chapter 6 Time
+horizons). When providing quantitative information, the undertaking may disclose single amounts or ranges;
+(g) changes to the material impacts, risks and opportunities compared to the previous reporting period; and
+(h) a specification of those impacts, risks and opportunities that are covered by ESRS Disclosure Requirements as
+opposed to those covered by the undertaking using additional entity-specific disclosures.
+49. The undertaking may disclose the descriptive information required in paragraph 46 alongside the disclosures
+provided under the corresponding topical ESRS, in which case it shall still present a statement of its material
+impacts, risks and opportunities alongside its disclosures prepared under this chapter of ESRS 2.
+4. Impact, risk and opportunity management
+4.1 Disclosures on the materiality assessment process
+50. This chapter sets disclosure requirements that enable an understanding of:
+(a) the process to identify material impacts, risks and opportunities; and
+(b) the information that, as a result of its materiality assessment, the undertaking has included in its sustainability
+statement.
+Disclosure Requirement IRO-1 - Description of the process to identify and assess material impacts, risks and
+opportunities
+51. The undertaking shall disclose its process to identify its impacts, risks and opportunities and to assess
+which ones are material.
+52. The objective of this Disclosure Requirement is to provide an understanding of the process through which the
+undertaking identifies impacts, risks and opportunities and assesses their materiality, as the basis for determining
+the disclosures in its sustainability statement (see ESRS 1 chapter 3 and its related Application Requirements, which
+set out requirements and principles regarding the process to identify and assess material impacts, risks and
+opportunities based on the principle of double materiality).
+53. The undertaking shall disclose the following information:
+(a) a description of the methodologies and assumptions applied in the described process;
+(b) an overview of the process to identify, assess, prioritise and monitor the undertaking’s potential and actual
+impacts on people and the environment, informed by the undertaking’s due diligence process, including an
+explanation of whether and how the process:
+i. focusses on specific activities, business relationships, geographies or other factors that give rise to heightened
+risk of adverse impacts;
+ii. considers the impacts with which the undertaking is involved through its own operations or as a result of its
+business relationships;
+iii. includes consultation with affected stakeholders to understand how they may be impacted and with external
+experts;
+iv. prioritises negative impacts based on their relative severity and likelihood, (see ESRS 1 section 3.4 Impact
+materiality) and, if applicable, positive impacts on their relative scale, scope and likelihood, and determines
+which sustainability matters are material for reporting purposes, including the qualitative or quantitative
+thresholds and other criteria used as prescribed by ESRS 1 section 3.4 Impact materiality ;OJ L, 22.12.2023 EN  
+
+--- Page 52 of 284 ---

@@ -1,0 +1,44 @@
+File Name: 1_2021-06-04_DelVO_2021_2139_TAXKRA_EU.pdf
+Converted on: 2025-03-28 03:18:03
+Original Size: 2.76 MB
+Chunk Size: 500 tokens with 50 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 934 of 966
+--------------------------------------------------------------------------------
+
+(5) Pollution prevention and control  N/A  
+(6) Protection and restoration of
+biodiversity and ecosystems  N/A  
+10.2.  Reinsurance  
+Description of the activity  
+Coverage of risks stemming from climate-related perils set out in Appendix A to this Annex ceded by the insurer
+to the reinsurer. The coverage is set out in an agreement between insurer and reinsurer specifying the insurers’
+products (‘underlying product’) from which the ceded risks originate. A reinsurance intermediary (  643  ) may be 
+involved in the preparation or conclusion of the contractual agreement between the insurer and the reinsurer.  
+The economic activities in this category could be associated with NACE code K65.20 in accordance with to the
+statistical classification of economic activities established by Regulation (EC) No 1893/2006.  
+An economic activity in this category is an enabling activity as referred to in Article 11(1) point (b) of Regulation
+(EU) 2020/852 where it meets the technical screening criteria set out this section.  
+Technical screening criteria  
+Substantial contribution to climate change adaptation  
+1. Leadership in modelling and pricing of climate risks:  
+1.1. The reinsurance activity uses state-of-the-art modelling techniques that:
+(a) are used to properly reflect in the premium level the exposure, hazard and vulnerability to climate change risks
+as well as actions taken by the policyholder of the insurer to protect the insured asset or activity against those
+risks, where such information is provided by the insurer to the reinsurer;
+(b) do not only rely on historical trends;
+(c) integrate forward-looking scenarios.
+1.2. The reinsurer discloses publicly how the risks stemming from climate-related perils are considered in the
+reinsurance activity.
+2. Supporting development and supply of enabling non-life reinsurance products:  
+2.1. The reinsurance activity’s underlying products cover risks stemming from climate-related perils and reward,
+in a risk-based manner and without prejudice to legal restrictions on contractual conditions and insurance
+premiums, preventive actions taken by the insurer’s policyholders.
+2.2. The reinsurance activity complies with one or more of the following criteria:
+(a) where desired by the insurer, the reinsurer engages with the insurer, either directly or via a reinsurance
+intermediary, during the development of the underlying product by:
+(i) discussing possible reinsurance solutions that the reinsurer is willing to offer in relation to that product.
+The final product is brought to market using one of the reinsurance solutions that were discussed with the
+reinsurer during the product development phase;

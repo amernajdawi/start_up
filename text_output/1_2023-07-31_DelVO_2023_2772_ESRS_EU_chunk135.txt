@@ -1,0 +1,55 @@
+File Name: 1_2023-07-31_DelVO_2023_2772_ESRS_EU.pdf
+Converted on: 2025-03-28 03:20:41
+Original Size: 5.82 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 135 of 284
+--------------------------------------------------------------------------------
+
+ELI: http://data.europa.eu/eli/reg_del/2023/2772/oj 138/28423. In addition to the provisions of ESRS 2 MDR-P the undertaking shall describe whether and how its biodiversity and
+ecosystems
+-related policies:
+(a) relate to the matters specified in ESRS E4 AR 4;
+(b) relate to its material biodiversity and ecosystems-related impacts;
+(c) relate to material dependencies and material physical and transition risks and opportunities;
+(d) support traceability of products, components and raw materials with material actual or potential impacts on
+biodiversity and ecosystems along the value chain;
+(e) address production, sourcing or consumption from ecosystems that are managed to maintain or enhance conditions for biodiversity, as demonstrated by regular monitoring and reporting of biodiversity status and gains
+or losses; and
+(f) address social consequences of biodiversity and ecosystems-related impacts.
+24. The undertaking shall specifically disclose whether it has adopted:
+(a) biodiversity and ecosystem protection policy covering operational sites owned, leased, or managed in or near a
+biodiversity sensitive area;
+(b) sustainable land / agriculture practices or policies (
+77);
+(c) sustainable oceans / seas practices or policies (78); and
+(d) policies to address deforestation (79).
+Disclosure Requirement E4-3 – Actions and resources related to biodiversity and ecosystems
+25. The undertaking shall disclose its biodiversity and ecosystems-related actions and the resources allocated to their
+implementation.
+26. The objective of this Disclosure Requirement is to enable an understanding of the key actions taken and planned that
+significantly contribute to the achievement of biodiversity and ecosystems -related policy objectives and targets.
+27. The description of key actions and resources shall follow the mandatory content defined in ESRS 2 MDR-A Actions
+and resources in relation to material sustainability matters.
+28. In addition, the undertaking :
+(a) may disclose how it has applied the mitigation hierarchy with regard to its actions (avoidance, minimisation,
+restoration/rehabilitation, and compensation or offsets);
+(b) shall disclose whether it used biodiversity offsets in its action plans. If the actions contain biodiversity offsets, the
+undertaking shall include the following information:
+i. the aim of the offset and key performance indicators used;
+ii. the financing effects (direct and indirect costs) of biodiversity offsets in monetary terms; and;
+iii. a description of offsets including area, type, the quality criteria applied and the standards that the biodiversity
+offsets comply with;
+(77)This information supports the information needs of financial market participants subject to Regulation (EU) 2019/2088 because it is
+derived from an additional indicator related to principal adverse impact as set out by indicator #11 in Table II of Annex I of
+Commission Delegated Regulation (EU) 2022/1288 with regard to disclosure rules on sustainable investments (“Investments in companies without sustainable land/agriculture practices”).
+(78)This information supports the information needs of financial market participants subject to Regulation (EU) 2019/2088 because it is
+derived from an additional indicator related to principal adverse impact as set out by indicator #12 in Table II of Annex I of
+Commission Delegated Regulation (EU) 2022/1288 with regard to disclosure rules on sustainable investments (“Investments in companies without sustainable oceans/seas practices”).
+(79)This information supports the information needs of financial market participants subject to Regulation (EU) 2019/2088 because it is
+derived from an additional indicator related to principal adverse impact as set out by indicator #15 in Table II of Annex I of
+Commission Delegated Regulation (EU) 2022/1288 with regard to disclosure rules on sustainable investments (“Deforestation”).OJ L, 22.12.2023 EN  
+
+--- Page 139 of 284 ---

@@ -1,0 +1,75 @@
+File Name: 2_E1-6_2004-03_G_GHG-Prot_WRI&WBCSD.pdf
+Converted on: 2025-03-28 03:18:16
+Original Size: 3.51 MB
+Chunk Size: 500 tokens with 50 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 190 of 225
+--------------------------------------------------------------------------------
+
+92Industry Sectors and ScopesAPPENDIXD
+SCOPE 1 EMISSION SOURCES
+•Stationary combustion (boilers and turbines used
+in the production of electricity, heat or  steam, fuelpumps, fuel cells, flaring)
+•Mobile combustion (trucks, barges and trains for
+transportation of fuels)
+•Fugitive emissions (CH
+4leakage from transmission
+and storage facilities, HFC emissions from LPG storagefacilities, SF
+6emissions from transmission and distri-
+bution equipment)
+•Stationary combustion (process heaters, engines,
+turbines, flares, incinerators, oxidizers, production ofelectricity, heat and steam)
+•Process emissions (process vents, equipment vents,
+maintenance/turnaround activities, non-routine activities)
+•Mobile combustion (transportation of raw
+materials/products/waste; company owned vehicles)
+•Fugitive emissions (leaks from pressurized equipment,
+wastewater treatment, surface impoundments)
+•Stationary combustion (methane flaring and use, use
+of explosives, mine  fires)
+•Mobile combustion (mining equipment, transportation
+of coal)
+•Fugitive emissions (CH
+4emissions from coal mines
+and coal piles)
+•Stationary combustion (bauxite to aluminum processing,
+coke baking, lime, soda ash and fuel use, on-site CHP)
+•Process emissions (carbon anode oxidation, electrol-
+ysis, PFC)
+•Mobile combustion (pre- and post-smelting trans-
+portation, ore haulers)
+•Fugitive emissions (fuel line CH4, HFC and PFC, SF6
+cover gas)
+•Stationary combustion (coke, coal and carbonate
+fluxes, boilers, flares)
+•Process emissions (crude iron oxidation, consumption of
+reducing agent, carbon content of crude iron/ferroalloys)
+•Mobile combustion (on-site transportation)
+•Fugitive emission (CH4, N2O)
+•Stationary combustion (boilers, flaring, reductive
+furnaces, flame reactors, steam reformers)
+•Process emissions (oxidation/reduction of substrates,
+impurity removal, N2O byproducts, catalytic cracking,
+myriad other emissions individual to each process)
+•Mobile combustion (transportation of raw
+materials/products/waste)
+•Fugitive emissions (HFC use, storage tank leakage)SCOPE 2
+EMISSION SOURCES
+•Stationary combustion
+(consumption ofpurchased electricity,heat or  steam) 
+•Stationary combustion
+(consumption ofpurchased electricity,heat or  steam)
+•Stationary combustion
+(consumption ofpurchased electricity,heat or  steam)
+•Stationary combustion
+(consumption ofpurchased electricity,heat or  steam)
+•Stationary combustion
+(consumption ofpurchased electricity,heat or  steam)
+•Stationary combustion
+(consumption ofpurchased electricity,heat or  steam)SCOPE 3 EMISSION SOURCES
+1
+•Stationary combustion (mining and extraction of fuels,
+energy for refining or processing fuels)
+•Process emissions (production of fuels, SF6emissions2)

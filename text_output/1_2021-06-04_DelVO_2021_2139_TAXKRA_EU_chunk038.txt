@@ -1,0 +1,23 @@
+File Name: 1_2021-06-04_DelVO_2021_2139_TAXKRA_EU.pdf
+Converted on: 2025-03-28 03:20:30
+Original Size: 2.76 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 38 of 447
+--------------------------------------------------------------------------------
+
+6. Transport . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 101  
+6.1. Passenger interurban rail transport . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 101  
+6.2. Freight rail transport . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  . . . . . . . . . . . . . . . . 102  
+6.3. Urban and suburban transport, road passenger transport . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  . . . . . . 103  
+6.4. Operation of personal mobility devices, cycle logistics . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 104  
+6.5. Transport by motorbikes, passenger cars and light commercial vehicles . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 105  
+6.6. Freight transport services by road . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  . . . . . . . . . . . . . 107  
+6.7. Inland passenger water transport . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  . . . . . . . . . . . . 108  
+6.8. Inland freight water transport . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  . . . . . . . . . . . . . . 109  
+6.9. Retrofitting of inland water passenger and freight transport . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  . . . . . . 110  
+6.10. Sea and coastal freight water transport, vessels for port operations and auxiliary activities . . . . . . . . . . . . . .  . 111  
+6.11. Sea and coastal passenger water transport . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  . . . . . . . . . . 114  
+6.12. Retrofitting of sea and coastal freight and passenger water transport . . . . . . . . . . . . . . . . . . . . . . . . . .  . . . . . 116

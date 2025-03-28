@@ -1,0 +1,52 @@
+File Name: 2_E1-6_2014-01-01_G_GHG-Agri_WRI&WBCSD.pdf
+Converted on: 2025-03-28 03:20:54
+Original Size: 1.75 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 36 of 65
+--------------------------------------------------------------------------------
+
+51
+ using industry-average data, LCA studies of  different food or bi ofuel products, or 
+rough estimates).
+2. Rank all sources from largest to smallest according to their estimated GHG
+fluxes. Removals should be listed as abso lute values (i.e. no negative sign) to
+allow the proper identification of significant sinks.
+3. Apply a pre-determined, percentage cumu lative threshold. Key sources are then
+those that together add up to a certai n percentage of the overall emissions (e.g.,
+key sources are cumulatively respon sible for 70% of GHG fluxes).  
+Trends in magnitude are also us eful for identifying key sources In addition to ranking
+sources for a given inventory period, it may al so be useful to rank sources based on the
+percentage change in fluxes over time (e .g., between the base period and the latest
+inventory period), if da ta are available.  
+
+Percentage	change		in	GHG	flux
+ൌlatest inventory estimat eെbase period estimate
+absolute	value	of	base	period	estimateݔ100%  
+
+This analysis is helpful because it can identify  sources whose trend is different from that 
+of the overall inventory. Companies may choos e not to invest addi tional resources in
+estimating emissions that show a declini ng trend (or sequestra tion that shows an
+increasing trend), especially if these trends result from the introduction of mitigation
+measures. However, prioritizing these sour ces is still recommended to help ensure
+inventories reflect mitigation efforts as much as possible. Companies may likewise chose to invest more in categories whose fluxes show large increases.     
+
+Companies  should not exclude small or highly uncertain emissions sources  
+In general, companies should not exclude required emissions sources from their
+inventories as a result of uncertainty. Instea d, to ensure the relevance and completeness
+of the inventory, companies may decide to use a less accurate approach for emissions
+sources that are expected to be relatively less significant, as long as the inventory is
+transparent about the limitations  of the calculation approach es used (see Chapter 9). For 
+instance, while fuel use will often comprise a small share of the inventory of a ranching operation, it should still be in cluded in the inventory, but  may be estimated based on 
+simplified assumptions.   Can ‘materiality thresholds’ be used? Th ese are minimum GHG accounting thresholds 
+that state that when a given source is sma ller than the threshold size it can be omitted
+from the inventory. Although it appears useful in theory, the practic al implementation of
+such a threshold is not compatible with the completeness principle of this Guidance. In order to use a materiality threshold, the emi ssions from a particular source or activity
+would have to be quantified to ensure th ey were under the threshold. However, once
+emissions are quantified, mo st of the benefit of ha ving a threshold is lost.
+
+--- Page 52 of 103 ---
+
+GHG Protocol Agricultural Guidance

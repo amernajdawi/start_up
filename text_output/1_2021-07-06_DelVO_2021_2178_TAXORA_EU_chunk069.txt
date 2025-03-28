@@ -1,0 +1,40 @@
+File Name: 1_2021-07-06_DelVO_2021_2178_TAXORA_EU.pdf
+Converted on: 2025-03-28 03:18:05
+Original Size: 10.30 MB
+Chunk Size: 500 tokens with 50 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 69 of 90
+--------------------------------------------------------------------------------
+
+1.2.2. KPIs for off-balance sheet exposures
+Credit institutions shall disclose a complementary ratio on the level of association with Taxonomy-aligned economic
+activities of off-balance sheet exposures that credit institutions manage and channel or contribute to channel capital flows
+towards economic activities whose environmental sustainability can be assessed in accordance with Regulation (EU)
+2020/852:
+(a) financial guarantees backing loans and advances and other debt instruments towards undertakings; and
+(b) assets under management.
+1.2.2.1. Green ratio for financial guarantees to financial and non-financial undertakings (FinGuar KPI)
+The green ratio for financial guarantees to undertakings shall be defined as a proportion of financial guarantees supporting
+debt instruments financing Taxonomy-aligned economic activities compared to all financial guarantees supporting debt
+securities to undertakings. This shall include disclosures of stock and flow. For climate change mitigation, this shall also
+include disclosures of which are enabling and transitional activities. For climate change adaptation, this shall include
+disclosures of which are enabling and adaptation activities.
+The methodology for the computation of the KPI on financial guarantees shall be the same as the methodology specified for
+the KPIs on loans and advances and/or debt securities towards undertakings, but applied to the underlying loans and
+advances/debt securities that the credit institution supports.
+1.2.2.2. Green ratio for assets under management (AuM KPI)
+The green ratio for assets under management shall be the proportion of assets under management (equity and debt
+instruments) from undertakings financing Taxonomy-aligned economic activities, compared to total assets under
+management (equity and debt instruments). This shall include disclosures of stock and flow. For climate change mitigation,
+this shall also include disclosures of which are enabling and transitional activities. For climate change adaptation, this shall
+include disclosures of which are enabling and adaptation activities.
+The methodology for the computation of the AuM KPI shall be the same as the methodology for asset managers in
+accordance with Annex III of this Regulation.
+1.2.3. KPIs on services other than lending – Fees and Commissions (F&C KPI)
+The KPI for fees and commission income linked to services associated with Taxonomy-aligned economic activities of
+undertakings, shall be defined as a proportion of the credit institution’s fees and commission income from undertakings,
+derived from products or services other than lending associated with Taxonomy-aligned economic activities, compared to
+the total fees and commission income from undertakings from products or services other than lending.
+Credit institutions shall disclose the fees and commission income linked to services provided other than lending and asset

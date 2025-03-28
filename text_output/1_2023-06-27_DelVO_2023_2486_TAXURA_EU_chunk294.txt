@@ -1,0 +1,42 @@
+File Name: 1_2023-06-27_DelVO_2023_2486_TAXURA_EU.pdf
+Converted on: 2025-03-28 03:18:09
+Original Size: 8.44 MB
+Chunk Size: 500 tokens with 50 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 294 of 380
+--------------------------------------------------------------------------------
+
+ELI: http://data.europa.eu/eli/reg_del/2023/2486/oj 107/164(i) a control and monitoring plan is implemented, including measures to control the impacts of the remediation activities
+and to verify the achievement of the remediation objectives and targets, for at least 10 years in case of excavation and
+removal of the landfill or dumpsite and for at least 30 years in case of environmental isolation of the landfill or
+dumpsite, unless a different duration sufficient to guarantee long-term risk control is defined in national legislation or
+by the competent regulatory authority for the specific remediation project.
+Do no significant harm (‘DNSH’)
+(1) Climate change mitigation Where the landfill body contains significant amounts of biodegradable waste, a system
+for landfill gas capture and abatement and a monitoring plan for landfill gas leakage is in
+place in accordance with operational and technical requirements of Directive
+1999/31/EC, or for activities located in third countries in accordance with equivalent
+national law or commonly accepted international industry standards (66).
+(2) Climate change adaptation The activity complies with the criteria set out in Appendix A to this Annex.
+(3) Sustainable use and protec ­
+tion of water and marine resourcesThe activity complies with the criteria set out in Appendix B to this Annex.
+Remedial measures are protective of water and marine resources and apply best industry
+practices and technology (67)with the aim of:
+(a) reducing the generation of leachates from the landfill and avoiding outflow or infiltration of leachates into the surrounding soil and any potential hazard to
+groundwater and surface water;
+(b) separately collecting and appropriately treating run-off water and leachates before
+discharge;
+(c) tracking and analysing leachate generation rates and leachate concentration and
+composition in the after-care period through appropriate control and monitoring
+systems and processes;
+(d) separately collecting and appropriately treating polluted soil in and around the
+landfill in order to block the pathway from the landfill to waterbodies through
+heavily soaked soil.
+(4) Transition to a circular economyWhere the remediation project foresees the excavation and removal of the existing landfill or dumpsite, the excavated waste is managed in accordance with the waste
+hierarchy principle, prioritising recycling over other types of material recovery, over
+incineration and disposal, to the extent that this is technically feasible and does not
+increase risks for the environmental or human health.
+(66)For remediation activities outside the EU, reference is made to the UNEP Guidance on the management of contaminated sites and the
+standards and guidance documents for landfill management published by the International Solid Waste Association, including

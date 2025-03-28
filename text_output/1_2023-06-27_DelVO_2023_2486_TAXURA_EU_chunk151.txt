@@ -1,0 +1,51 @@
+File Name: 1_2023-06-27_DelVO_2023_2486_TAXURA_EU.pdf
+Converted on: 2025-03-28 03:20:36
+Original Size: 8.44 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 151 of 199
+--------------------------------------------------------------------------------
+
+ELI: http://data.europa.eu/eli/reg_del/2023/2486/oj 111/164Do no significant harm (‘DNSH’)
+(1) Climate change mitigation The activity does not involve the degradation of land with high carbon stock (72).
+Measures to reduce scope 1 and scope 2 GHG emissions (73)of the full removal or
+treatment process are included in the remediation plan.
+(2) Climate change adaptation The activity complies with the criteria set out in Appendix A to this Annex.
+(3) Sustainable use and protec ­
+tion of water and marine
+resourcesThe activity complies with the criteria set out in Appendix B to this Annex.
+(4) Transition to a circular
+economyAt least 70 % (by weight) of the non-hazardous construction, demolition or other waste materials (excluding naturally occurring material defined in category 17 05 04 in the
+European List of Waste established by Decision 2000/532/EC) generated on the site
+under remediation is prepared for reuse, recycling and other material recovery,
+including backfilling operations using waste to substitute other materials, in
+accordance with the waste hierarchy and the EU Construction and Demolition Waste
+Management Protocol (
+74), unless a clear justification is given in the approved
+Remediation Plan based on technical or environmental reasons, other than cost
+considerations.
+(6) Protection and restoration
+of biodiversity and ecosys ­
+temsThe activity complies with the criteria set out in Appendix D to this Annex.
+The following is to be ensured:
+(a) in the Union, in relation with Natura 2000 sites: the activity does not have
+significant effects on Natura 2000 sites in view of their conservation objectives on
+the basis of an appropriate assessment carried out in accordance with Article 6(3) of
+Directive 92/43/EEC;
+(b) in the Union, in any area: the activity is not detrimental to the recovery or
+maintenance of the populations of species protected under Directives 92/43/EEC
+and 2009/147/EC at a favourable conservation status. The activity is also not
+detrimental to the recovery or maintenance of the habitat types concerned and
+protected under Directive 92/43/EEC at a favourable conservation status;
+(c) the introduction of invasive alien species is prevented, or their spread is managed in
+accordance with Regulation (EU) No 1143/2014.
+(72)Land with high-carbon stock means wetlands, including peatland, and continuously forested areas grasslands, mangroves and seagrass
+meadows within the meaning of Article 29(4)(a), (b) and (c) of Directive (EU) 2018/2001.
+(73)‘Scope 1 GHG emissions’ means the direct greenhouse gas emissions occurring from sources that are owned or controlled by the
+operator. ‘Scope 2 GHG emissions’ means the indirect greenhouse gas emissions from the generation of the electricity consumed by
+the operator.
+(74)EU Construction & Demolition Waste Management Protocol, September 2016: https://ec.europa.eu/docsroom/documents/20509/.OJ L, 21.11.2023 EN  
+
+--- Page 112 of 164 ---

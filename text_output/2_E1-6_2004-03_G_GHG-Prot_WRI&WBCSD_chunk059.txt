@@ -1,0 +1,26 @@
+File Name: 2_E1-6_2004-03_G_GHG-Prot_WRI&WBCSD.pdf
+Converted on: 2025-03-28 03:20:43
+Original Size: 3.51 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 59 of 104
+--------------------------------------------------------------------------------
+
+Information on the causes of emissions changes that
+did not trigger a base year emissions recalculation(e.g., process changes, efficiency improvements, plant closures).
+GHG emissions data for all years between the base
+year and the reporting year (including details of andreasons for recalculations, if appropriate)
+Information on the quality of the inventory (e.g., infor-
+mation on the causes and magnitude of uncertaintiesin emission estimates) and an outline of policies inplace to improve inventory quality. (see chapter 7).
+Information on any GHG sequestration.
+A list of facilities included in the inventory.
+A contact person.INFORMATION ON OFFSETS
+Information on offsets that have been purchased or
+developed outside the inventory boundary, subdividedby GHG storage/removals and emissions reductionprojects. Specify if the offsets are verified/certified(see chapter 8) and/or approved by an external GHGprogram (e.g., the Clean Development Mechanism,Joint Implementation).
+Information on reductions at sources inside the inven-
+tory boundary that have been sold/transferred asoffsets to a third party. Specify if the reduction hasbeen verified/certified and/or approved by an externalGHG program (see chapter 8). STANDARDReporting GHG Emissions
+CHAPTER 9 64
+
+--- Page 67 of 116 ---

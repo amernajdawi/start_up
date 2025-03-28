@@ -1,0 +1,47 @@
+File Name: 1_2023-07-31_DelVO_2023_2772_ESRS_EU.pdf
+Converted on: 2025-03-28 03:20:41
+Original Size: 5.82 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 272 of 284
+--------------------------------------------------------------------------------
+
+ELI: http://data.europa.eu/eli/reg_del/2023/2772/oj 272/284combines land-use (the activities, arrangements and inputs associated with
+land-use) with land cover (the ensemble of physical characteristics of land
+discernible by Earth Observation).
+Land-use (change) The human use of a specific area for a certain purpose (such as residential; agriculture; recreation; industrial, etc.). Influenced by, but not synonymous
+with, land cover. Land-use change refers to a change in the use or
+management of land by humans, which may lead to a change in land cover.
+Legitimate representatives Individuals recognised as legitimate under law or practice, such as elected trade union representatives in the case of workers, or other similarly freely
+chosen representatives of affected stakeholders.
+Leverage The ability of the undertaking to effect a change in the wrongful practices of another party that is connected with a negative sustainability-related impact.
+Lobbying activities Activities carried out with the objective of influencing the formulation or implementation of policy or legislation, or the decision-making processes
+of governments, governmental institutions, regulators, European Union
+institutions, bodies, offices and agencies or standard setters. Such activities
+include (non-exhaustive list):
+i. organising or participating in meetings, conferences, events;
+ii. contributing to/participating in public consultations, hearings or other similar initiatives;
+iii. organising communication campaigns, platforms, networks, grassroots initiatives;
+iv. preparing/commissioning policy and position papers, opinion polls, surveys, open letters, research work as per the activities covered by
+transparency register rules.
+Locked-in GHG emissions Estimates of future GHG emissions that are likely to be caused by an
+undertaking’s key assets or products sold within their operating lifetime.
+Longevity Designed for maintenance and durability in such a way that encourages
+longer use than the industry standard in practice and at scale and in such a way that does not compromise circular treatment at the end of functional
+life.
+Marine resources Biological and non-biological resources found in the seas and oceans.
+Examples include but are not limited to deep sea minerals, gravels, and
+seafood products
+Material opportunities Sustainability related opportunities with positive financial effects that
+materially affect, (or could reasonably be expected to affect) the
+undertaking’s cash flows, access to finance, or cost of capital over the
+short, medium or long term.
+Material risks Sustainability related risks with negative financial effects that materially
+affect (or could reasonably be expected to affect) the undertaking’s cash flows, access to finance, or cost of capital over the short, medium or long
+term.
+Materiality A sustainability matter is material if it meets the definition of impact
+materiality , financial materiality , or both.OJ L, 22.12.2023 EN  
+
+--- Page 273 of 284 ---

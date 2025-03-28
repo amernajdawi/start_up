@@ -1,0 +1,44 @@
+File Name: 1_2023-07-31_DelVO_2023_2772_ESRS_EU.pdf
+Converted on: 2025-03-28 03:20:41
+Original Size: 5.82 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 158 of 284
+--------------------------------------------------------------------------------
+
+ELI: http://data.europa.eu/eli/reg_del/2023/2772/oj 161/284(b) the prioritisation of the avoidance or minimisation waste (Re-use, Repair, Refurbish, Remanufacture and
+Repurpose) over waste treatment (Recycling). The concepts of eco-design (86), waste as a resource or post-
+consumer waste (at the end of a consumer -product lifecycle), should also be taken into consideration.
+AR 10. When defining its policies, the undertaking may consider the Paper on “Categorisation system for the circular economy”, which describes circular design and production models, circular use models, circular value recovery
+models and circular support along the principles of the nine circular economy “R” strategies or principles: refuse,
+rethink, reduce, re-use, repair, refurbish, remanufacture, repurpose and recycle.
+Disclosure Requirement E5-2 – Actions and resources in relation to resource use and circular economy
+AR 11. When providing information under paragraph 17 and considering that resources are shared and that circular
+economy strategies may require collective actions, the undertaking may specify the actions taken to engage with
+its upstream and downstream value chain and/or its local network on the development of collaborations or
+initiatives increasing the circularity of products and materials.
+AR 12. In particular, the undertaking may specify the following:
+(a) how it contributes to circular economy, including for instance smart waste collection systems;
+(b) the other stakeholders involved in the collective actions: competitors, suppliers, retailers, customers, other
+business partners, local communities and authorities, government agencies;
+(c) a description of the organisation of the collaboration or initiative, including the specific contribution of the
+undertaking and the roles of the different stakeholders in the project.
+AR 13. The actions may cover the undertaking’s own operations and/or its upstream and downstream value chain.
+Metrics and targets
+Disclosure Requirement E5-3 - Targets related to resource use and circular economy
+AR 14. If the undertaking refers to ecological thresholds to set targets, it may refer to the guidance provided by the
+Science-Based Targets Initiative for Nature (SBTN) in its interim guidance (Initial Guidance for Business, September
+2020) or any other guidance with a scientifically acknowledged methodology that allows to set science-based
+targets by identifying ecological thresholds and, if applicable, organisation-specific allocations. Ecological
+thresholds can be local, national and/or global.
+AR 15. When providing information on targets, the undertaking shall prioritise targets in absolute value.
+AR 16. When providing information targets according to paragraph 24, the undertaking shall consider the production
+phase, the use phase, and the end of functional life of products and materials.
+AR 17. When providing information on targets related to virgin renewable raw material under paragraph 24(c), the
+undertaking shall consider how those targets may impact biodiversity loss, also in light of ESRS E4.
+(86)As established by Directive 2009/125/EC.Directive 2009/125/EC of the European Parliament and of the Council of 21 October 2009
+establishing a framework for the setting of ecodesign requirements for energy-related products (OJ L 285, 31.10.2009, p. 10).OJ L, 22.12.2023 EN  
+
+--- Page 162 of 284 ---

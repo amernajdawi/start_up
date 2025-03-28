@@ -1,0 +1,65 @@
+File Name: 2_ESRS2_SBM1_2006-12-20_VO_NACER2_EU.pdf
+Converted on: 2025-03-28 03:20:56
+Original Size: 0.17 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 2 of 45
+--------------------------------------------------------------------------------
+
+(10) Council Regulation (EEC) No 2186/93 (1) established a
+common framework for setting up statistical business
+registers with harmonised definitions, characteristics, scopeand updating procedures.
+(11) The establishment of a revised statistical classification of
+economic activities makes it necessary to modify specific-
+ally various references to NACE Rev. 1 as well as to amend anumber of relevant instruments. It is therefore necessary toamend the following instruments: Regulation (EEC)No 3037/90; Council Regulation (EEC) No 3924/91 of19 December 1991 on the establishment of a Communitysurvey of industrial production (
+2); Council Regulation (EC,
+Euratom) No 58/97 of 20 December 1996 concerningstructural business statistics (
+3); Council Regulation (EC)
+No 1165/98 of 19 May 1998 concerning short termstatistics (
+4); Council Regulation (EC) No 1172/98 of
+25 May 1998 on statistical returns in respect of thecarriage of goods by road (
+5); Council Regulation (EC)
+No 530/1999 of 9 March 1999 concerning structuralstatistics on earnings and on labour costs (
+6); Regulation
+(EC) No 2150/2002 of the European Parliament and of theCouncil of 25 November 2002 on waste statistics (
+7);
+Regulation (EC) No 450/2003 of the European Parliamentand of the Council of 27 February 2003 concerning thelabour cost index (
+8); Regulation (EC) No 48/2004 of the
+European Parliament and of the Council of 5 December2003 on the production of annual Community statistics onthe steel industry for the reference years 2003-2009 (
+9);
+Regulation (EC) No 808/2004 of the European Parliamentand of the Council of 21 April 2004 concerningCommunity statistics on the information society (
+10); and,
+Regulation (EC) No 1552/2005 of the European Parliamentand of the Council of 7 September 2005 on statisticsrelating to vocational training in enterprises (
+11).
+(12) A number of Community instruments need to be amended,
+according to the specific procedures applicable to them,
+before transition to NACE Rev. 2, namely: CouncilRegulation (EC) No 2223/96 of 25 June 1996 on theEuropean system of national and regional accounts in the
+Community (
+12); Regulation (EC) No 138/2004 of the
+European Parliament and of the Council of 5 December2003 on the economic accounts for agriculture in theCommunity (
+13); and Regulation (EC) No 184/2005 of the
+European Parliament and the Council of 12 January 2005on Community statistics concerning balance of payments,international trade in services and foreign direct invest-ment (
+14).
+(13) The measures necessary for the implementation of this
+Regulation should be adopted in accordance with Council
+Decision 1999/468/EC of 28 June 1999 laying down theprocedures for the exercise of implementing powers
+conferred on the Commission (
+15).
+(14) In particular, power should be conferred on the Commis-
+sion to amend or supplement NACE Rev. 2 in order to take
+account of technological or economic developments or toalign it with other economic and social classifications. Sincethese measures are of general scope and designed to amendnon-essential elements of this Regulation or to supplementthis Regulation by the addition of new non-essentialelements, they should be adopted in accordance with theregulatory procedure with scrutiny provided for inArticle 5a of Decision 1999/468/EC.
+(15) Since the objective of this Regulation, namely the creation
+of common statistical standards that permit the production
+of harmonised data, cannot be sufficiently achieved by theMember States and can therefore be better achieved atCommunity level, the Community may adopt measures,
+in accordance with the principle of subsidiarity as set out in
+Article 5 of the Treaty. In accordance with the principle ofproportionality, as set out in that Article, this Regulationdoes not go beyond what is necessary to achieve thatobjective.
+(16) The Statistical Programme Committee has been consulted,
+HAVE ADOPTED THIS REGULATION:
+SECTION I
+GENERAL PROVISIONS
+Article 1
+Subject matter and scope
+1. This Regulation establishes a common statistical classifica-
+tion of economic activities in the European Community,hereinafter referred to as ‘NACE Rev. 2’ . This classification

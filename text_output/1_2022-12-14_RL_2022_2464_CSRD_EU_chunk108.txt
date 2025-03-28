@@ -1,0 +1,52 @@
+File Name: 1_2022-12-14_RL_2022_2464_CSRD_EU.pdf
+Converted on: 2025-03-28 03:20:33
+Original Size: 1.12 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 108 of 140
+--------------------------------------------------------------------------------
+
+Until 6 Januar y 2030 , Member States shall permit the consolidated sustainability repor ting refer red to in the first
+subparagraph of this paragraph to include the disclosures laid down in Article 8 of Regulation (EU) 2020/852,
+covering the activities carried out by all Union subsidiar y under takings of the parent under taking refer red to in the
+first subparagraph of this paragraph that are subject to Article 19a or 29a of this Directive.
+2. The Union subsidiar y under taking referred to in paragraph 1 shall be one of the Union subsidiar y under takings
+of the group that generat ed the greates t turnover in the Union in at least one of the preceding five financial years, on a
+consolidate d basis where applicable.
+3. The consolidated sustainability repor ting referred to in paragraph 1 of this Article shall be published in
+accordance with Article 30.
+4. For the purpose of the exem ption laid down in Article 19a(9) and Article 29a(8), repor ting in accordance with
+paragraph 1 of this Article shall be considered to be repor ting by a parent under taking at group level with respect to
+the under takings included in the consolidation. Repor ting in accordance with the second subparagraph of paragraph
+1 of this Article shall be considered to fulfil the conditions referred to in point (c) of the second subparagraph of
+Article 19a(9) and point (c) of the second subparagraph of Article 29a(8), respectively .’;
+(17) Article 49 is amended as follows :
+(a) paragraphs 2 and 3 are replaced by the followi ng:
+‘2. The power to adopt delegat ed acts refer red to in Article 1(2), Article 3(13), Articles 29b, 29c and 40b, and
+Article 46(2) shall be conferr ed on the Commission for a period of 5 years from 5 Januar y 2023 . The
+Commission shall draw up a repor t in respect of the delega tion of power not later than nine months before the
+end of the 5-year period. The delegatio n of power shall be tacitly exte nded for periods of an identical duration,
+unless the European Parliament or the Council opposes such exte nsion not later than three months before the
+end of each period.
+3. The delegatio n of power referred to in Article 1(2), Article 3(13), Articles 29b, 29c and 40b, and Article
+46(2) may be revoked at any time by the European Parliament or by the Council. A decision to revok e shall put
+an end to the delegatio n of the power specified in that decision. It shall take effect the day following the
+publication of that decision in the Official Journal of the Europ ean Union or at a later date specifi ed therein. It shall
+not affect the validity of any delegat ed acts already in force.’;
+(b) the followi ng paragraph is inser ted:
+‘3b. When adopting delegat ed acts pursuant to Articles 29b and 29c, the Commission shall take into
+consideration technical advice from EFRA G, provided that:
+(a) such advice has been developed with proper due process, public oversight and transparency , with the
+exper tise and balanced participation of relevant stak eholders, and with suffi cient public funding to ensure its
+independence, and on the basis of a work programme on which the Commission has been consult ed;
+(b) such advice is accompanied by cost-benefit analyses that include analyses of the impacts of the technical
+advice on sustainability matt ers;
+(c) such advice is accompanied by an explanation of how it takes account of the elements listed in Article 29b(5);
+(d) participation in EFRA G’s work at technical level is based on exper tise in sustainability repor ting and is not
+conditional on a financial contr ibution.
+Points (a) and (d) are without prejudice to the participation of public bodies and national standard-setting
+organisati ons in the technical work of EFRA G.
+The accompan ying documents for the EFRA G technical advice shall be submitte d together with that technical
+advice.

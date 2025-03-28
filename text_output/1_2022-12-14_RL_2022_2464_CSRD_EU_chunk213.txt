@@ -1,0 +1,36 @@
+File Name: 1_2022-12-14_RL_2022_2464_CSRD_EU.pdf
+Converted on: 2025-03-28 01:55:36
+Original Size: 1.12 MB
+Chunk Size: 400 tokens with 50 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 213 of 237
+--------------------------------------------------------------------------------
+
+(21) in Article 30a(1), the followi ng point is inser ted:
+‘(ca) a temporar y prohibition, of up to three years’ duration, banning the statut ory auditor , the audit firm or the key
+sustainability partner from carrying out the assurance of sustainability repor ting and/or signing assurance
+repor ts on sustainability repor ting;’;
+(22) in Article 30a(1), the followi ng point is inser ted:
+‘(da) a declaration that the assurance repor t on sustainability repor ting does not meet the requirements of Article 28a
+of this Directive;’;
+(23) Article 32 is amended as follows :
+(a) in paragraph 3, the first subparagraph is replaced by the followi ng:
+‘3. The compet ent author ity shall be governed by non-practitioners who are knowledg eable in the areas
+relevant to statutor y audit and, where applicable, to the assurance of sustainability repor ting. They shall be
+selected in accordance with an independent and transparent nomination procedure.’;
+(b) in paragraph 4, point (b) is replaced by the follo wing:
+‘(b) the adoption of standards on professional ethics, internal quality control of audit firms, auditing and the
+assurance of sustainability repor ting, exce pt where those standards are adopt ed or approved by other
+Member State author ities;’;
+(24) the follo wing Article is inser ted:
+‘Article 36a
+Regulatory arrangements betw een Member States as regards the assurance of sust ainability repor ting
+The requirements of Articles 34 and 36 as regards the statut ory audit of financial state ments shall apply mutatis
+mutandis to the assurance of sustainability repor ting.’;
+(25) Article 37 is amended as follows :
+(a) in paragraph 1, the followi ng subparagraph is added:
+‘The first subparagraph shall apply to the appointment of the statutor y auditor or audit firm for the purpose of
+the assurance of sustainability repor ting.’;
+(b) in paragraph 2, the followi ng subparagraph is added:

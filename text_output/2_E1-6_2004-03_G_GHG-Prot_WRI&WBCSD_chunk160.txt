@@ -1,0 +1,28 @@
+File Name: 2_E1-6_2004-03_G_GHG-Prot_WRI&WBCSD.pdf
+Converted on: 2025-03-28 03:18:16
+Original Size: 3.51 MB
+Chunk Size: 500 tokens with 50 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 160 of 225
+--------------------------------------------------------------------------------
+
+what is owned/controlled by the companyin the target completion year.
+Emissions are recalculated for all years
+back to the fixed target base year
+If a company with a target acquires a
+company that did not have reliable GHGdata in the target base year; back-casting of emissions becomes necessary,reducing the reliability of the base year ROLLING TARGET BASE YEAR
+A target might take the form of “over the next Xyears we will reduce emissions every year by Y%compared to the previous year”
+5
+The previous year
+If there have been significant structural changes the
+time series of absolute emissions will not comparelike with like over more than two years at a time
+The comparison over time is based on what was
+owned/controlled by the company in the years theinformation was reported
+6
+Emissions are recalculated only for the year prior to the structural change, or ex-post for the year of the structural change which then becomes thebase year.
+Data from an acquired company’s GHG emissions
+are only necessary for the year before the acquisi-tion (or even only from the acquisition onwards),reducing or eliminating the need for back-casting
+The circumstances which trigger recalculations for structural changes etc. (see chapter 5) are
+the same under both approaches

@@ -1,0 +1,70 @@
+File Name: 2_E1-6_2011-09-01_G_GHG-PLC_WRI&WBCSD.pdf
+Converted on: 2025-03-28 03:18:25
+Original Size: 3.27 MB
+Chunk Size: 500 tokens with 50 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 153 of 226
+--------------------------------------------------------------------------------
+
+--- Page 100 of 148 ---
+
+[98]   Product Life Cycle Accounting and Reporting StandardTable [12.3]  Key assurance concepts
+Assurance  
+conceptDescription Examples
+Assertion A statement by the reporting company  
+on the inventory results. The assertion is
+presented to the assurer. • The studied product’s emissions
+are 23 kilograms of CO2e. They are
+calculated in accordance with the
+Product Standard  and supplemented 
+by our company-specific policies
+and methodologies described in the
+inventory report
+Subject matter The inventory results and supporting
+information included in the inventory  
+report. The type of assurance performed  
+will determine which subject matter(s)  
+should be assessed. • Inventory results
+• Other information presented in the
+inventory report (See chapter 13 for
+more information on reporting)
+Criteria The benchmarks used to evaluate or  
+measure the subject matter. • Requirements of the standard
+• Methodological choices
+• Data quality and uncertainty (assessed
+for appropriateness for a public report)
+• Others determined to be suitable by
+the reporting company and assurer
+Evidence Data sources and documentation used  
+to calculate emissions and support the  
+subject matter of the reporting company’s
+assertion. Evidence should be sufficient in
+quantity and appropriate in quality.• Physical observations, such as site
+tours to confirm the existence and
+completeness of the sources
+• Assurer’s calculations
+• Statements by independent parties
+and/or the reporting company, such
+as an interview with the production
+manager about production capacity
+• Documents prepared by an
+independent party and/or the
+reporting company, such as invoices
+Assurance  
+standardsStandards, used by assurers, which set
+requirements on how the assurance  
+process is performed.• ISO 14064-3 Specification with
+Guidance for the Validation and
+Verification of Greenhouse Gas
+Assertions
+Assurance  
+opinionThe results of the assurer’s assessment
+of the reporting company’s assertion (i.e.,
+inventory results).  If the assurer determines 
+that a conclusion cannot be expressed, the
+statement should cite the reason.• See table 12.2 for examples of limited
+and reasonable assurance opinionsguidance
+
+--- Page 101 of 148 ---

@@ -1,0 +1,26 @@
+File Name: 1_2021-06-04_DelVO_2021_2139_TAXKRA_EU.pdf
+Converted on: 2025-03-28 01:55:25
+Original Size: 2.76 MB
+Chunk Size: 400 tokens with 50 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 987 of 1091
+--------------------------------------------------------------------------------
+
+The climate risk and vulnerability assessment is proportionate to the scale of the activity and its expected lifespan,
+such that:
+(a) for activities with an expected lifespan of less than 10 years, the assessment is performed, at least by using
+climate projections at the smallest appropriate scale;
+(b) for all other activities, the assessment is performed using the highest available resolution, state-of-the-art
+climate projections across the existing range of future scenarios (  583  ) consistent with the expected lifetime 
+of the activity, including, at least, 10 to 30 year climate projections scenarios for major investments.  
+_____________
+( 579  ) JRC ESDCA, LUCAS: Land Use and Coverage Area frame Survey (version of 4.6.2021: https://esdac.jrc.ec.europa.eu/projects/lucas ). 
+( 580  ) IUCN,  The IUCN European Red List of Threatened Species (version of 4.6.2021:  https://www.iucn.org/regions/europe/our-work/ 
+biodiversity-conservation/european-red-list-threatened-species).
+( 581  ) IUCN,  The IUCN Red List of Threatened Species (version of 4.6.2021:  https://www.iucnredlist.org). 
+( 582  ) Land spanning more than 0,5 hectares with trees higher than five meters and a canopy cover of more than 10 %, or trees able t o 
+reach those thresholds  in situ . It does not include land that is predominantly under agricultural or urban land use. 
+( 583  ) Future scenarios include Intergovernmental Panel on Climate Change representative concentration pathways RCP2.6, RCP4.5, 
+RCP6.0 and RCP8.5.EN  L 442/314 Official Journal of the European Union 9.12.2021

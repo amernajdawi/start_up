@@ -1,0 +1,31 @@
+File Name: 2_E1-6_2004-03_G_GHG-Prot_WRI&WBCSD.pdf
+Converted on: 2025-03-28 03:20:43
+Original Size: 3.51 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 67 of 104
+--------------------------------------------------------------------------------
+
+Other information:
+Selected consolidation approach as defined in
+chapter 3
+list of (and access to) persons responsible forcollecting GHG emissions data at each site and atthe corporate level (name, title, e-mail, and tele-phone numbers)
+information on uncertainties, qualitative and ifavailable, quantitative.
+Appropriate documentation needs to be available to
+support the GHG inventory being subjected to externalverification. Statements made by management for whichthere is no available supporting documentation cannot beverified. Where a reporting com pany has not yet imple-
+mented systems for routinely accounting and recordingGHG emissions data, an external verification will bedifficult and may result in the verifier being unable toissue an opinion. Under these circumstances, the veri-fiers may make recommendations on how current datacollection and collation process should be improved sothat an opinion can be obtained in future years.
+Companies are responsible for ensuring the existence,
+quality and retention of documentation so as to createan audit trail of how the inventory was compiled. If a company issues a specific base year against which itassesses its GHG performance, it should retain all relevant historical records to support the base year data.These issues should be born in mind when designing andimplementing GHG data processes and procedures.
+Using the verification findings
+Before the verifiers will verify that an inventory has metthe relevant quality standard, they may require thecompany to adjust any material errors that they identi-fied during the course of the verification. If the verifiersand the company cannot come to an agreementregarding adjustments, then the verifier may not be ableto provide the company with an unqualified opinion. Allmaterial errors (individually or in aggregate) need to beamended prior to the final verification sign off.As well as issuing an opinion on whether the reported
+information is free from material discrepancy, the veri-fiers may, depending on the agreed scope of work, alsoissue a verification report containing a number of recom-mendations for future improvements. The process ofverification should be viewed as a valuable input to theprocess of continual improvement. Whether verificationis undertaken for the purposes of internal review, publicreporting or to certify compliance with a particularGHG program, it will likely contain useful informationand guidance on how to improve and enhance acompany’s GHG accounting and reporting system.
+Similar to the process of selecting a verifier, those
+selected to be responsible for assessing and imple-menting responses to the verification findings shouldalso have the appropriate skills and understanding ofGHG accounting and reporting issues. CHAPTER 10 Verification of GHG Emissions 73GUIDANCE
+
+--- Page 76 of 116 ---
+
+GUIDANCE 74 etting targets is a routine business practice that helps ensure that an issue is kept on senior management’s “radar screen” and factored into relevant decisions about what products and services to provide and whatmaterials and technologies to use. Often, a corporate GHG emission reductiontarget is the logical follow-up to developing a GHG inventory. S11Setting a GHG Target GUIDANCE
+
+--- Page 77 of 116 ---

@@ -1,0 +1,72 @@
+File Name: CELEX_32010L0075_DE_TXT.pdf
+Converted on: 2025-03-28 03:18:33
+Original Size: 4.18 MB
+Chunk Size: 500 tokens with 50 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 111 of 163
+--------------------------------------------------------------------------------
+
+--- Page 55 of 103 ---
+
+17.12.2010 DE Amtsblattder Europäischen Union L 334/71
+CVerfahren für feste Bren nstoffe ausgenommen Biomasse (O2-Gehalt 6 %):
+Schadstoff < 50 MW 50 bis  100 MW 100 bis  300 MW > 300 MW
+SO2 — 850 200 200
+NOx — 400 200 200
+Staub 50 50 30 30
+CVerfahren für Biomasse (O2-Gehalt 6 %):
+Schadstoff < 50 MW 50 bis  100 MW 100 bis  300 MW > 300 MW
+SO2 — 200 200 200
+NOx — 350 300 200
+Staub 50 50 30 30
+CVerfahren für flüssig e Brennstoffe (O2-Gehalt 3 %):
+Schadstoff < 50 MW 50 bis 100 MW 100 bis 300 MW > 300 MW
+SO2 — 850 400 bis 200
+(lineare
+Abnahme
+von
+100 bis
+300 MWth)200
+NOx — 400 200 200
+Staub 50 50 30 30
+3.2. CVerfahren, ausgedrückt als Tagesmittelwerte (in mg/Nm3) (gültig ab dem in Artikel 82 Absatz 6 genannten Datum)
+Für
+die Ermittlung
+der thermischen Nen nleistung
+der Feuerun gsanlagen
+sind
+die Aggregationsregeln
+gemäß
+Arti­
+kel
+29 anzuwenden.
+Halbstundenmittelwerte
+sind
+nur
+zur Berechn ung
+der Tagesmittelwerte
+erforderlich.
+3.2.1. CVerfahren für Feuerun gsanlagen gemäß Artikel  30 Absatz  2 mit Ausn ahme von Gasturbin en und Gasmotoren  
+CVerfahren für feste Bren nstoffe (ausgenommen Biomasse) (O2-Gehalt 6 %):
+Schadstoff < 50 MW 50 bis 100 MW100 bis
+300 MW> 300 MW
+SO2 — 400 für Torf: 300 200 200
+NOx — 300
+für Braunkohlestaub:
+400200 200
+Staub 50 30 25
+für Torf: 2020
+CVerfahren für Biomasse (O2-Gehalt 6 %):
+Schadstoff < 50 MW 50 bis  100 MW 100 bis  300 MW > 300 MW
+SO2 — 200 200 200
+NOx — 300 250 200
+Staub 50 30 20 20
+CVerfahren für flüssig e Brennstoffe (O2-Gehalt 3 %):
+Schadstoff < 50 MW 50 bis  100 MW 100 bis  300 MW > 300 MW
+SO2 — 350 250 200
+NOx — 400 200 150
+Staub 50 30 25 20
+
+--- Page 56 of 103 ---

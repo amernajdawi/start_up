@@ -1,0 +1,45 @@
+File Name: 1_2021-06-04_DelVO_2021_2139_TAXKRA_EU.pdf
+Converted on: 2025-03-28 03:20:30
+Original Size: 2.76 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 82 of 447
+--------------------------------------------------------------------------------
+
+(d) until 31 December 2025, vehicles designated as categories M2 and M3 (  75 ) that have a type of bodywork 
+classified as ‘CA’ (single-deck vehicle), ‘CB’ (double-deck vehicle), ‘CC’ (single-deck articulated vehicle) or ‘CD’
+(double-deck articulated vehicle) (  76 ), and comply with the latest EURO VI standard, i.e. both with the 
+requirements of Regulation (EC) No 595/2009 of the European Parliament and of the Council (  77 ) and, 
+from the time of the entry into force of amendments to that Regulation, in those amending acts, even
+before they become applicable, and with the latest step of the Euro VI standard set out in Table 1 of
+Appendix 9 to Annex I to Commission Regulation (EU) No 582/2011 (  78 ) where the provisions governing 
+that step have entered into force but have not yet become applicable for this type of vehicle (  79 ). Where such 
+standard is not available, the direct CO  2 emissions of the vehicles are zero; 
+(e) personal mobility devices with a propulsion that comes from the physical activity of the user, from a zero-
+emissions motor, or a mix of zero-emissions motor and physical activity;
+(f) vehicles of category M  1 and N  1 classified as light-duty vehicles (  80 ) with: 
+(i) until 31 December 2025: specific emissions of CO  2 , as defined in Article 3(1), point (h), of Regulation 
+(EU) 2019/631 of the European Parliament and of the Council (  81 ), lower than 50 g CO  2 /km (low- and 
+zero-emission light-duty vehicles);
+(ii) from 1 January 2026: specific emissions of CO  2 , as defined in Article 3(1), point (h), of Regulation (EU) 
+2019/631, are zero;
+(g) vehicles of category L (  82 ) with tailpipe CO  2 emissions equal to 0 g CO  2 e/km calculated in accordance with the 
+emission test laid down in Regulation (EU) 168/2013 of the European Parliament and of the Council (  83 ); 
+(h) vehicles of categories N2 and N3, and N1 classified as heavy-duty vehicles, not dedicated to transporting fossil
+fuels with a technically permissible maximum laden mass not exceeding 7,5 tonnes that are ‘zero-emission
+heavy-duty vehicles’ as defined in Article 3, point (11), of Regulation (EU) 2019/1242 of the European
+Parliament and of the Council (  84 ); 
+(i) vehicles of categories N2 and N3 not dedicated to transporting fossil fuels with a technically permissible
+maximum laden mass exceeding 7,5 tonnes that are zero-emission heavy-duty vehicles’, as defined in Article 3,
+point (11), of Regulation (EU) 2019/1242 or ‘low-emission heavy-duty vehicles’ as defined in Article 3, point
+(12) of that Regulation;  
+_____________
+( 75 ) As referred to in Article 4(1), point (a), of Regulation (EU) 2018/858 of the European Parliament and of the Council of 30 Ma y
+2018 on the approval and market surveillance of motor vehicles and their trailers, and of systems, components and separate
+technical units intended for such vehicles, amending Regulations (EC) No 715/2007 and (EC) No 595/2009 and repealing Directive
+2007/46/EC (OJ L 151, 14.06.2018, p. 1).
+( 76 ) As set out in point 3 of part C of Annex I to Regulation (EU) 2018/858.
+( 77 ) Regulation (EC) No 595/2009 of the European Parliament and of the Council of 18 June 2009 on type-approval of motor vehicles
+and engines with respect to emissions from heavy duty vehicles (Euro VI) and on access to vehicle repair and maintenance

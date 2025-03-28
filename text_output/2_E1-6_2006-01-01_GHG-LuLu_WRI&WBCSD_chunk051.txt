@@ -1,0 +1,94 @@
+File Name: 2_E1-6_2006-01-01_GHG-LuLu_WRI&WBCSD.pdf
+Converted on: 2025-03-28 03:18:22
+Original Size: 6.41 MB
+Chunk Size: 500 tokens with 50 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 51 of 88
+--------------------------------------------------------------------------------
+
+riumcarbonstocktogetthetotalcarbonstockforcommer -
+cialcropland(seetableE.8).Thetotalbaselinecarbon
+stocks(tC)isthecarbonstocksperhectaremultipliedby
+thelandbase(i.e.,30,000ha).
+Chapter7:Estim atingtheChange
+inBasel ineGHGRemovals—
+Perfor mance StandardProce dure
+7 . 1 T I M E - B A S E D P E R F O R M A N C E S TA N D A R D
+7.1.1 SPECIFYTHEAPPROPRIA TEPERFORM ANCE METRIC
+Theperformance metric:
+GHGremovals t
+unitareaofland
+7.1.2 CALCULATEGHG REMOVAL SFOREACH
+BASELINECANDIDATEINEACH TIMEPERIOD
+IdentifyingTotalHectares
+Fortheperformancestandard,baselinecandidatesarethe
+individualhectaresofeachtypeofbaselinecandidate.Data
+frombothStatisticsCanada (2001)andSoilLandscapes of
+CanadaWorkingGroup(2006)areusedtodefinethe
+hectaresattributabletoeachbaselinecandidatetype.•Commercialcropland:In2001,cropsweregrownon
+64percentofagriculturalland(seetableE.4).The
+project’sgeographicareacontains14,026,492haof
+arable,commercialcropland(StatisticsCanada2001).
+•Tamepastureland:Thegeographicareaalsocontains
+approximately1,753,311haoftamepastureland,based
+ontheareaofpasturelandlocatedintherelevant(i.e.,
+DarkGrayandBlacksoilzones)CensusAgricultural
+Regions(StatisticsCanada2001).
+•Hybridpoplarforest: Thegeographicareacontainsonly
+3000haofhybridpoplarforest,theAl-Pacplantation.9
+Thisplantationisnewandhasbeenconvertingcropland
+toforestsince2001.
+•Development: Thisbaselinecandidaterepresentssucha
+smallnumberofhectaresinthegeographicareathatit
+cannothaveasignificantimpactonthecalculationofthe
+performancestandardandthereforeisnotquantified.
+Thetotalgeographicareafortheperformancestandardis
+15,782,803ha.
+BaselineCarbonStockChangesandGHGRemovals
+Defaultcarbonstockdatawereusedtoestimatetheannual
+baselinecarbonstockschangesforthecommercialcropland
+andtamepastureland.Thegrowthcurveforhybridpoplar,
+thetotalrootbiomasspredictionequation(Lietal.2003),
+anddefaultcarbonstockdatawereusedtoestimatethe
+annualbaselinecarbonstockchangesfromthehybrid
+poplarforestbaselinecandidates.
+Whenusingdefaultdata,itisnotpossibletoestimatethe
+specificcarbonstockchangesforeachbaselinecandidate.
+Therefore,representativecarbonstockchangeswerederived
+foreachtypeofbaselinecandidate,andthisvaluewas
+extrapolatedtoallindividualbaselinecandidates.
+Thecarbonpoolsincludedinthecarbonstockchanges
+estimatewerelivingbiomass(above-andbelowground
+biomass)andsoilcarbon.Bothpoolsincreaseasaresultof
+afforestation.Becausedeadbiomassdoesnotappreciably
+increaseoncommercialcropland,pastureland,orhybrid
+poplarforestland,itwasexcluded.EXAMPLE:NipawinAfforestationProject
+69
+B A R R I E R 5 :
+C U LT U R A L /
+S O C I A L / E T C. ( H )
+Notpresent
+Notpresent
+High
+Low B A R R I E R 6 :
+R E S O U R C E AVA I L A B I L I T Y ( M )
+Notpresent
+Notpresent
+Medium
+Notpresent R A N K B Y
+C U M U L AT I V E
+I M P A C T
+Nobarriers
+Lowbarriers
+Highestbarriers
+Mediumbarriers TA B L E E . 7 ResultsofComparativeAssessmentofBarriers
+BaselineCandidate 1:Commercialcropland Nobarriers Acceptasbaselinescenario
+(continuationofcurrentactivities)
+BaselineCandidate 2:Tamepastureland Lowbarriers Rejectasbaselinescenario
+BaselineCandidate 3:HybridpoplarforestHighestbarriers Rejectasbaselinescenario
+(projectactivity)
+BaselineCandidate 4:Development Mediumbarriers Rejectasbaselinescenario BASELINESCENARIOALTERNATIVES RANKBYCUMULATIV EIMPA CTOFBARRIERS CONCL USION
+
+--- Page 72 of 100 ---

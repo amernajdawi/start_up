@@ -1,0 +1,34 @@
+File Name: 1_2024-02-28_RL_2024_825_GCD_EU.pdf
+Converted on: 2025-03-28 03:18:15
+Original Size: 0.61 MB
+Chunk Size: 500 tokens with 50 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 37 of 49
+--------------------------------------------------------------------------------
+
+ELI: http://data.europa.eu/eli/dir/2024/825/oj 11/16(iii) the scheme sets out procedures for dealing with non-compliance with the scheme’s requirements and
+provides for the withdra wal or suspension of the use of the sustainability label by the trader in case of
+non-compliance with the sche me’s requirements; and
+(iv) the monitoring of a trader ’s compliance with the scheme’s requirements is subject to an objective
+procedure and is carried out by a third party whose compet ence and independence from both the
+scheme owner and the trader are based on internati onal, Union or national standards and procedures;
+(s) “recognised excellent environmental performance” means envi ronmental performa nce compl iant with
+Regulation (EC) No 66/2010 of the European Parliament and of the Council (*) or with national or regional
+EN ISO 14024 type I ecolabelling schemes officiall y recognised in the Member States, or top envi ronmental
+performa nce in accordance with other applicable Union law;
+(t) “durability” means durability as defined in Article 2, point (13), of Directive (EU) 2019/771;
+(u) “sof tware updat e” means an updat e that is necessar y to keep goods with digital elements, digital cont ent and
+digital services in conf ormity in accordance with Directive (EU) 2019/770 of the European Parliament and of
+the Council (**) and Directive (EU) 2019/771, including a secur ity updat e, or a functionality update ;
+(v) “consumable” means any compo nent of a good that is used up recur rently and that needs to be replaced or
+replenished for the good to function as intende d;
+(w) “functionality” means functionality as defined in Article 2, point (9), of Directive (EU) 2019/771.
+_____________
+(*) Regulation (EC) No 66/2010 of the European Parliament and of the Council of 25 November 2009 on the EU
+Ecolabel (OJ L 27, 30.1.2010, p. 1).
+(**) Directive (EU) 2019/770 of the European Parliament and of the Council of 20 May 2019 on certain aspects
+concer ning contracts for the supply of digital content and digital services (OJ L 136, 22.5.2019, p. 1).’;
+(2) Article 6 is amended as follows:
+(a) in paragraph 1, point (b) is replaced by the following:

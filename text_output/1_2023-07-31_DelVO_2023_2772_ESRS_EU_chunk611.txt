@@ -1,0 +1,48 @@
+File Name: 1_2023-07-31_DelVO_2023_2772_ESRS_EU.pdf
+Converted on: 2025-03-28 03:18:14
+Original Size: 5.82 MB
+Chunk Size: 500 tokens with 50 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 611 of 686
+--------------------------------------------------------------------------------
+
+ELI: http://data.europa.eu/eli/reg_del/2023/2772/oj 256/284DR SBM-1 Disclosure Requirement - Market position, strategy, business model(s) and value chain
+DR SBM-2 Disclosure Requirement - Interests and views of stakeholders
+DR SBM-3 Disclosure Requirement - Material impacts, risks and opportunities and their interaction
+with strategy and business model(s)
+DR IRO-1 Disclosure Requirement - Description of the processes to identify and assess material
+impacts, risks and opportunities
+DR IRO-2 Disclosure Requirements in ESRS covered by the undertaking’s sustainability statements
+DNSH Do No Significant Harm
+DR Disclosure Requirements
+EBA European Banking Authority
+EC European Commission
+EEA European Economic Area
+EFRAG European Financial Reporting Advisory Group
+EFRAG SRB European Financial Reporting Advisory Group Sustainability
+Reporting Board
+EIA Environmental Impact Assessment
+EMAS Eco-Management and Audit Scheme
+EPC Energy Performance Certificate
+E-PRTR European Pollutant Release and Transfer Register
+ESA European Supervisory Authorities
+ESMA European Securities and Markets Authority
+ESRS European Sustainability Reporting Standards
+ESRS 1 European Sustainability Reporting Standard 1 General requirements
+ESRS 2 European Sustainability Reporting Standard 2 General disclosures
+ESRS E1 European Sustainability Reporting Standard E1 Climate change
+ESRS E2 European Sustainability Reporting Standard E2 Pollution
+ESRS E3 European Sustainability Reporting Standard E3 Water and marine resources
+ESRS E4 European Sustainability Reporting Standard E4 Biodiversity and ecosystems
+ESRS E5 European Sustainability Reporting Standard E5 Resource use and circular economy
+ESRS G1 European Sustainability Reporting Standard G1 Business conduct
+ESRS S1 European Sustainability Reporting Standard S1 Own workforce
+ESRS S2 European Sustainability Reporting Standard S2 Workers in the value chain
+ESRS S3 European Sustainability Reporting Standard S3 Affected communities
+ESRS S4 European Sustainability Reporting Standard S4 Consumers & end-users
+EU European Union
+EU ETS European Union Emissions Trading SystemOJ L, 22.12.2023 EN  
+
+--- Page 257 of 284 ---

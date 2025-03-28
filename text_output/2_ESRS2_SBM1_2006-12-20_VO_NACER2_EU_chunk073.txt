@@ -1,0 +1,18 @@
+File Name: 2_ESRS2_SBM1_2006-12-20_VO_NACER2_EU.pdf
+Converted on: 2025-03-28 03:18:28
+Original Size: 0.17 MB
+Chunk Size: 500 tokens with 50 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 73 of 78
+--------------------------------------------------------------------------------
+
+‘1. The turnover variable (No 120) is to be transmitted according to the following groupings of NACE Rev. 2:
+46 at three-digit;45, 45.2, 49, 50, 51, 52, 53, 58, 59, 60, 61, 62, 63, 71, 73, 74, 78, 79, 80, 81.2, 82;sum of (45.1, 45.3 and 45.4);sum of (55 and 56);sum of (69 and 70.2).
+2. The persons employed variable (No 210) is to be transmitted according to the following groupings of NACE Rev.
+2:
+Divisions 45, 46, 49, 50, 51, 52, 53, 58, 59, 60, 61, 62, 63;
+sum of (69, 70.2, 71, 73 and 74);sum of (55 and 56);sum of (78, 79, 80, 81.2 and 82).
+3. For Divisions 45 and 46 of NACE Rev. 2, the turnover variable need only be transmitted at the 2 digit level by
+those Member States whose turnover in those Divisions of NACE Rev. 2 in a given base year represents less than4 % of the European Community total.30.12.2006 EN Official Journal of the European Union L 393/35

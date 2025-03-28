@@ -1,0 +1,65 @@
+File Name: 1_2021-06-04_DelVO_2021_2139_TAXKRA_EU.pdf
+Converted on: 2025-03-28 03:20:30
+Original Size: 2.76 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 383 of 447
+--------------------------------------------------------------------------------
+
+(6) Protection and restoration of
+biodiversity and ecosystems  Releases of ballast water containing non-indigenous species are prevented 
+in line with the International Convention for the Control and Management
+of Ships' Ballast Water and Sediments (BWM).
+Measures are in place to prevent the introduction of non-indigenous
+species by biofouling of hull and niche areas of ships taking into
+account the IMO Biofouling Guidelines (  524  ). 
+Noise and vibrations are limited by using noise reducing propellers, hull
+design or on-board machinery in line with the guidance given in the IMO
+Guidelines for the Reduction of Underwater Noise (  525  ). 
+In the Union, the activity does not hamper the achievement of good
+environmental status, as set out in Directive 2008/56/EC, requiring that
+the appropriate measures are taken to prevent or mitigate impacts in
+relation to that Directive’s Descriptors 1 (biodiversity), 2 (non-indigenous
+species), 6 (seabed integrity), 8 (contaminants), 10 (marine litter), 11
+(Noise/Energy) and as set out in Commission Decision (EU) 2017/848
+in relation to the relevant criteria and methodological standards for
+those descriptors, as applicable.  
+6.12.  Retrofitting of sea and coastal freight and passenger water transport  
+Description of the activity  
+Retrofit and upgrade of vessels designed and equipped for the transport of freight or passengers on sea or coastal
+waters, and of vessels required for port operations and auxiliary activities, such as tugboats, mooring vessels, pilot
+vessels, salvage vessels and ice-breakers.  
+The economic activities in this category could be associated with NACE codes H50.10, H50.2, H52.22, C33.15,
+N77.21 and N.77.34 in accordance with the statistical classification of economic activities established by
+Regulation (EC) No 1893/2006.  
+Technical screening criteria  
+Substantial contribution to climate change mitigation  
+1. The economic activity has implemented physical and non-physical solutions (‘adaptation solutions’) that
+substantially reduce the most important physical climate risks that are material to that activity.
+2. The physical climate risks that are material to the activity have been identified from those listed in
+Appendix A to this Annex by performing a robust climate risk and vulnerability assessment with the
+following steps:
+(a) screening of the activity to identify which physical climate risks from the list in Appendix A to this Annex
+may affect the performance of the economic activity during its expected lifetime;
+(b) where the activity is assessed to be at risk from one or more of the physical climate risks listed in Appendix A
+to this Annex, a climate risk and vulnerability assessment to assess the materiality of the physical climate risks
+on the economic activity;
+(c) an assessment of adaptation solutions that can reduce the identified physical climate risk.
+The climate risk and vulnerability assessment is proportionate to the scale of the activity and its expected lifespan,
+such that:
+(a) for activities with an expected lifespan of less than 10 years, the assessment is performed, at least by using
+climate projections at the smallest appropriate scale;
+(b) for all other activities, the assessment is performed using the highest available resolution, state-of-the-art
+climate projections across the existing range of future scenarios (  526  ) consistent with the expected lifetime 
+of the activity, including, at least, 10 to 30 year climate projections scenarios for major investments.  
+_____________
+( 524  ) IMO Guidelines for the control and management of ships' biofouling to minimize the transfer of invasive aquatic species 
+resolution MEPC.207(62).
+( 525  ) IMO Guidelines for the Reduction of Underwater Noise from Commercial Shipping to Address Adverse Impacts on Marine Life, 
+(MEPC.1/Circ.833).
+( 526  ) Future scenarios include Intergovernmental Panel on Climate Change representative concentration pathways RCP2.6, RCP4.5, 
+RCP6.0 and RCP8.5.EN  L 442/298 Official Journal of the European Union 9.12.2021
+
+--- Page 299 of 349 ---

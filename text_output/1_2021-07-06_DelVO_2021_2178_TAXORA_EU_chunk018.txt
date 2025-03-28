@@ -1,0 +1,48 @@
+File Name: 1_2021-07-06_DelVO_2021_2178_TAXORA_EU.pdf
+Converted on: 2025-03-28 03:20:32
+Original Size: 10.30 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 18 of 47
+--------------------------------------------------------------------------------
+
+1.2.2. Assessment of compliance with Regulation (EU) 2020/852
+1.2.2.1. Information on assessment of compliance with Regulation (EU) 2020/852:
+Non-financial undertakings shall:
+(a) describe the nature of their Taxonomy-eligible and Taxonomy-aligned economic activities, by referring to the delegated
+acts adopted pursuant to Article 10(3), Article 11(3), Article 12(2), Article 13(2), Article 14(2) and Article 15(2) of
+Regulation (EU) 2020/852;
+(b) explain how they assessed compliance with the criteria set out in Article 3 of Regulation (EU) 2020/852 and the associatedtechnical screening criteria included in the delegated acts referred to in point (a);
+(c) explain how they avoided any double counting in the allocation in the numerator of turnover, CapEx, and OpEx KPIs
+across economic activities.
+1.2.2.2. Contribution to multiple objectives
+Where an economic activity contributes to several environmental objectives, non-financial undertakings shall:
+(a) demonstrate compliance with the criteria set out in Article 3 of Regulation (EU) 2020/852, in particular with the
+technical screening criteria with respect to several environmental objectives;
+(b) disclose the turnover, CapEx and OpEx from that activity as contributing to several environmental objectives;
+(c) only count once the turnover from that activity in the numerator of the KPIs in point 1.1 of this Annex to avoid double
+counting.
+1.2.2.3. Disaggregation of KPIs
+Where the KPIs for an economic activity are to be disaggregated, in particular where production facilities are used in an integrated manner, non-financial undertakings shall ensure that:
+(a) any disaggregation is based on criteria that are appropriate for the production process being implemented and reflects
+the technical specificities of that process;
+(b) appropriate information accompanying the KPIs about the basis of such disaggregation is provided.
+1.2.3. Contextual information
+Non-financial undertakings shall explain the figures of each KPI and the reasons for any changes in those figures in the
+reporting period.
+Non-financial undertakings may disclose additional KPIs based on turnover, Capex, Opex) that include investments in
+equity accounted in joint ventures, pursuant to IFRS 11 or IAS28, on a pro rata basis corresponding to their share in the
+equity of the joint venture.
+1.2.3.1. Contextual information about turnover KPI
+Non-financial undertakings shall provide all of the following:
+(a) a quantitative breakdown of the numerator in order to illustrate the key drivers of change in the turnover KPI during
+the reporting period, such as revenue from contracts with customers, lease revenue, or other sources of income;
+(b) information about the amounts related to Taxonomy-aligned activities pursued for non-financial undertakings’ own internal consumption;
+(c) a qualitative explanation of key elements of change in the turnover KPI during the reporting period.
+Non-financial undertakings that have issued environmentally sustainable bonds or debt securities with the purpose of
+financing specific identified Taxonomy-aligned activities shall also disclose the turnover KPI adjusted to avoid double
+counting.EN Official Journal of the European Union L 443/20 10.12.2021  
+
+--- Page 13 of 59 ---

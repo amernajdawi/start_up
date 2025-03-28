@@ -1,0 +1,54 @@
+File Name: 1_2021-06-04_DelVO_2021_2139_TAXKRA_EU.pdf
+Converted on: 2025-03-28 03:20:30
+Original Size: 2.76 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 182 of 447
+--------------------------------------------------------------------------------
+
+2. The results of the research, development and innovation enable one or more of those economic activities to
+meet the respective criteria for substantial contribution to climate change mitigation, while respecting the
+relevant criteria for doing no significant harm to other environmental objectives.
+3. The economic activity aims at bringing to market a solution that is not yet in the market and is expected to
+have a better performance in terms of life-cycle GHG emissions than best commercially available technologies
+based on public or market information. The implementation of the technologies, products or other solutions
+being researched results in overall net GHG emissions reductions over their life cycle.
+4. Where the researched, developed or innovated technology, product or other solution already enables an
+activity or several activities addressed in this Annex to meet the technical screening criteria specified in the
+applicable Section of this Annex, or where that technology, product or other solution already enables one or
+more economic activities considered as enabling or transitional to meet the requirements specified in points 5
+and 6 respectively, the research, development and innovation activity focuses on the development of equally low-
+or lower-emission technologies, products or other solutions with new significant advantages, such as lower cost.
+5. Where a research activity is dedicated to one or more economic activities considered as enabling activities
+in accordance with Article 10(1), point (i), of Regulation EU 2020/852 for which the technical screening criteria
+are set out in this Annex, the results of the research deliver innovative technologies, processes or products that
+allow those enabling activities and the activities that they ultimately enable to substantially reduce their GHG
+emissions or substantially improve their technological and economic feasibility in order to facilitate their scaling
+up.
+6. Where a research activity is dedicated to one or more economic activities considered as transitional
+activities in accordance with Article 10(2) of Regulation EU 2020/852 for which the technical screening
+criteria are set out in this Annex, the technologies, products or other solutions researched enable the target
+activities to be carried out with substantially lower projected emissions compared to the technical screening
+criteria for substantial contribution to climate change mitigation set out in this Annex.
+Where a research activity is dedicated to one or more economic activities specified in Sections 3.7, 3.8, 3.9, 3.11,
+3.12, 3.13, 3.14 and 3.16 of this Annex, the technologies, products or other solutions either enable the target
+activities to be carried out with substantially lower GHG emission, which aim at a 30 % reduction compared to
+the relevant EU ETS benchmark or benchmarks (  315  ) or are dedicated to the widely accepted relevant low carbon 
+technologies or processes in these sectors, notably electrification, in particular of heating and cooling, hydrogen
+as fuel or feedstock, CCS, CCU and biomass as fuel or feedstock, where biomass complies with the relevant
+requirements set out in Sections 4.8, 4.20, 4.24 in this Annex.
+7. Where the researched, developed or innovated technology, product or other solution is at TRL 6 or 7, life-
+cycle GHG emissions are evaluated in simplified form by the entity carrying out the research. The entity
+demonstrates one of the following, where applicable:
+(a) a patent not older than 10 years associated with the technology, product or other solution, where
+information on its GHG emission reduction potential has been provided;
+(b) a permit obtained from a competent authority for operating the demonstration site associated with the
+innovative technology, product or other solution for the duration of the demonstration project, where
+information on its GHG emission reduction potential has been provided.  
+_____________
+( 315  ) Reflecting the average value of the 10 % most efficient installations in 2016 and 2017 (t CO  2 equivalents/t) as set out in the 
+Annex to the Implementing Regulation (EU) 2021/447.EN  L 442/136 Official Journal of the European Union 9.12.2021
+
+--- Page 137 of 349 ---

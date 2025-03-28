@@ -1,0 +1,52 @@
+File Name: 1_2022-12-14_RL_2022_2464_CSRD_EU.pdf
+Converted on: 2025-03-28 03:20:33
+Original Size: 1.12 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 135 of 140
+--------------------------------------------------------------------------------
+
+5a. A Member State may register a third-countr y auditor for the purpose of the audit of financial statements
+only if he or she meets the requirements set out in points (b), (c) and (d) of the first subparagraph of paragraph 5
+of this Article.
+A Member State may registe r a third-countr y auditor for the purpose of the assurance for sustainability repor ting
+only if he or she meets the requirements set out in points (b), (c) and (d) of the second subparagraph of paragraph
+5 of this Article.
+6. In order to ensure unif orm conditions for the application of point (c) of the first subparagraph of paragraph
+5 and point (c) of the second subparagraph of paragraph 5 of this Article, the Commission shall be emp owered to
+decide upon the equivalence refer red to therein by means of implementing acts. Those implementing acts shall be
+adopt ed in accordance with the examination procedure referred to in Article 48(2).
+Member States may assess the equivalence referred to point (c) of the first subparagraph of paragraph 5 and point
+(c) of the second subparagraph of paragraph 5 of this Article, as long as the Commission has not taken any such
+decision.
+The Commission shall be empowered to adop t delegat ed acts in accordance with Article 48a supplementing this
+Directive for the purpose of establishing the general equivalence criteria to be used in assessing whether the audits
+of the financial state ments and, where applicable, the assurance of sustainability repor ting refer red to in
+paragraph 1 of this Article are carried out in accordance with internati onal auditing standards as defined in
+Article 26 and with assurance standards for sustainability repor ting referred to in Article 26a, respectively , and
+with the requirements laid down in Articles 22, 24 and 25. Such criteria, which are applicable to all third
+countr ies, shall be used by Member States when assessing equivalence at national level.’;
+(29) Article 48a is amended as follo ws:
+(a) in paragraph 2, the followi ng subparagraph is added:
+‘The power to adopt delega ted acts refer red to in Article 26a(2) shall be confe rred on the Commission for an
+indetermi nate period of time.’;
+(b) paragraph 3 is replaced by the followi ng:
+‘3. The delegatio n of power refer red to in Article 26(3), Article 26a(3), Article 45(6), Article 46(2) and Article
+47(3) may be revok ed at any time by the European Parliament or by the Council. A decision to revok e shall put an
+end to the delegatio n of the power specified in that decision. It shall take effect the day follo wing the publication
+of the decision in the Official Journal of the European Union or at a later date specifi ed therein. It shall not affect the
+validity of any delegat ed acts already in force.’;
+(c) paragraph 5 is replaced by the followi ng:
+‘5. A delegat ed act adopt ed pursuant to Article 26(3), Article 26a(3), Article 45(6), Article 46(2) or Article
+47(3) shall enter into force only if no objection has been expressed either by the European Parliament or the
+Council within a period of four months of notifi cation of that act to the European Parliament and the Council or
+if, before the expir y of that period, the European Parliament and the Council have both informed the Commission
+that they will not object. That period shall be extended by two months at the initiative of the European Parliament
+or of the Council.’.
+Article 4
+Amendments to Regulation (EU) No 537/2014
+Regulation (EU) No 537/2014 is amended as follows:
+(1) in Article 4(2), the second subparagraph is replaced by the follo wing:
+‘For the purposes of the limits specified in the first subparagraph of this paragraph, the assurance of sustainability

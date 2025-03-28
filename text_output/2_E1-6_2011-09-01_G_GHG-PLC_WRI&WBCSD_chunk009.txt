@@ -1,0 +1,106 @@
+File Name: 2_E1-6_2011-09-01_G_GHG-PLC_WRI&WBCSD.pdf
+Converted on: 2025-03-28 03:20:53
+Original Size: 3.27 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 9 of 116
+--------------------------------------------------------------------------------
+
+[11]
+CHAPTER 02 Defining Business Goals
+guidance[11]stronger supply chain relationships, and uncover
+valuable information that can be shared to help build
+positive relationships with product users. For example,
+a product GHG inventory of a home appliance may show
+that much of the emissions occur in the use stage. This
+information can provide a platform for the manufacturer
+to communicate and collaborate with their customers
+(e.g., the users of the appliance) to achieve lower product
+life cycle emissions.  If customers then reduced emissions 
+by reducing electricity use, they would also reap benefits
+in the form of electricity cost savings. Another example is
+a product inventory of a beverage which shows significant
+emissions from packaging. These results may lead to a
+partnership with packaging suppliers to reduce packaging
+materials or replace them with less GHG-intensive
+content. Reporting on these types of efforts and the
+progress of a company’s engagement with its suppliers
+can be useful information for stakeholders both external
+and internal to the reporting company. 2.4	 Product	differentiation
+Product differentiation is a broad term, encompassing
+all the specific end uses of product GHG inventories
+that may help a company distinguish its products in the
+marketplace and create competitive advantage. For
+example, a company may realize product differentiation
+simply by conducting and publicizing a product GHG
+inventory that demonstrates to stakeholders that
+the brand is concerned with environmental impacts.
+With consumers increasingly concerned about the
+environmental impacts of their product choices, product
+GHG inventories enable companies to communicate
+with customers about their efforts to assess and reduce
+their product-related impacts. Products may also be
+differentiated by advertising that their use can lower
+consumers’ own GHG emissions (and related energy
+expenses). Company efforts to address product emissions
+can also be an effective message to communicate to
+employees in order to enhance pride in the company’s
+product stewardship and can have positive impacts on
+employee retention and recruitment.
+As one of the Coca-Cola anchor bottlers, Swire Beverages
+undertakes the manufacture, sale, and distribution of
+Coca-Cola products. The company conducted life cycle
+GHG studies for nine of the Coca-Cola branded products
+produced in mainland China.
+The results showed that packaging and refrigeration by
+retailers were the processes that contributed the most
+significant GHG emissions and risks, especially for small-
+and medium-sized products. Swire Beverages either
+leases or sells refrigerators at a discount to retailers.
+Following completion of the inventory and evaluation
+of reduction opportunities, the company installed
+energy-efficient refrigerator equipment and aggressively
+pursued hydrofluorocarbon (HFC) recovery and HFC-free
+technologies. The new equipment uses 35 - 40 percent
+less electricity while reducing the usage of HFC-134a, a
+refrigerant with high global warming potential. Swire
+also calculated that if all retailers installed the new refrigerators, it would
+save 5 -16 percent
+of the life cycle GHG
+emissions of drinking
+products depending
+on their size.
+Swire Beverages
+and Coca-Cola also
+identified packaging
+reduction as a key
+climate mitigation
+strategy and rolled out a new packaging design for a
+bottled water product in China. The new plastic bottle
+design reduces packaging material weight by 34 percent
+and is estimated to reduce GHG emissions by 11 percent
+over the product life cycle. The new design also helps
+Swire Beverages to save on the procurement cost of
+packaging materials.Swire Beverages
+if all retailers installed
+the new refrigerators,
+it would save   
+5 - 16%  
+of the life cycle
+GHG emissions
+of drinking
+products1 2 3
+4 5 6
+7 8 9
+10 11 12
+13 14 15
+16 171. wheat
+2. tree3. mountains4. glass bottle5. plastic bottle6. aluminium can7. factory8. lorry9. cloud10. recycling bin11. recycling bin (colours         reversed)12. wind turbines13. chicken14. cow 115. cow 216. shop17. factory showing carbon       emissions (carbon          emissions are shown in       orange) 
+
+--- Page 14 of 148 ---
+
+[12] Product Life Cycle Accounting and Reporting Standard guidance 03 Summary of Steps and Requirements
+
+--- Page 15 of 148 ---

@@ -1,0 +1,45 @@
+File Name: 2_ESRS2_SBM1_2006-12-20_VO_NACER2_EU.pdf
+Converted on: 2025-03-28 03:20:56
+Original Size: 0.17 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 18 of 45
+--------------------------------------------------------------------------------
+
+n.e.c. : not elsewhere classified * part of
+Division Group ClassISIC
+Rev. 4
+23.2 Manufacture of refractory products
+23.20 Manufacture of refractory products 2391
+23.3 Manufacture of clay building materials
+23.31 Manufacture of ceramic tiles and flags 2392*23.32 Manufacture of bricks, tiles and construction products, in baked clay 2392*
+23.4 Manufacture of other porcelain and ceramic products
+23.41 Manufacture of ceramic household and ornamental articles 2393*23.42 Manufacture of ceramic sanitary fixtures 2393*23.43 Manufacture of ceramic insulators and insulating fittings 2393*23.44 Manufacture of other technical ceramic products 2393*23.49 Manufacture of other ceramic products 2393*
+23.5 Manufacture of cement, lime and plaster
+23.51 Manufacture of cement 2394*23.52 Manufacture of lime and plaster 2394*
+23.6 Manufacture of articles of concrete, cement and plaster
+23.61 Manufacture of concrete products for construction purposes 2395*23.62 Manufacture of plaster products for construction purposes 2395*23.63 Manufacture of ready-mixed concrete 2395*23.64 Manufacture of mortars 2395*23.65 Manufacture of fibre cement 2395*23.69 Manufacture of other articles of concrete, plaster and cement 2395*
+23.7 Cutting, shaping and finishing of stone
+23.70 Cutting, shaping and finishing of stone 2396
+23.9 Manufacture of abrasive products and non-metallic mineral products
+n.e.c.
+23.91 Production of abrasive products 2399*23.99 Manufacture of other non-metallic mineral products n.e.c. 2399*
+24 Manufacture of basic metals
+24.1 Manufacture of basic iron and steel and of ferro-alloys
+24.10 Manufacture of basic iron and steel and of ferro-alloys 2410*
+24.2 Manufacture of tubes, pipes, hollow profiles and related fittings, of
+steel
+24.20 Manufacture of tubes, pipes, hollow profiles and related fittings, of
+steel2410*
+24.3 Manufacture of other products of first processing of steel
+24.31 Cold drawing of bars 2410*
+24.32 Cold rolling of narrow strip 2410*
+24.33 Cold forming or folding 2410*24.34 Cold drawing of wire 2410*
+24.4 Manufacture of basic precious and other non-ferrous metals
+24.41 Precious metals production 2420*24.42 Aluminium production 2420*24.43 Lead, zinc and tin production 2420*24.44 Copper production 2420*24.45 Other non-ferrous metal production 2420*24.46 Processing of nuclear fuel 2420*
+24.5 Casting of metals
+24.51 Casting of iron 2431*24.52 Casting of steel 2431*24.53 Casting of light metals 2432*24.54 Casting of other non-ferrous metals 2432*L 393/12 EN Official Journal of the European Union 30.12.2006
+
+--- Page 13 of 39 ---

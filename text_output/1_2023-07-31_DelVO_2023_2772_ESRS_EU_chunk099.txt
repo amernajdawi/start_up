@@ -1,0 +1,88 @@
+File Name: 1_2023-07-31_DelVO_2023_2772_ESRS_EU.pdf
+Converted on: 2025-03-28 03:20:41
+Original Size: 5.82 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 99 of 284
+--------------------------------------------------------------------------------
+
+--- Page 100 of 284 ---
+
+ELI: http://data.europa.eu/eli/reg_del/2023/2772/oj 100/284(g) disclose the extent to which the undertaking’s Scope 3 GHG emissions are measured using inputs from specific
+activities within the entity’s upstream and downstream value chain, and disclose the percentage of emissions
+calculated using primary data obtained from suppliers or other value chain partners.
+(h) for each significant Scope 3 GHG category, disclose the reporting boundaries considered, the calculation
+methods for estimating the GHG emissions as well as if and which calculation tools were applied. The Scope
+3 categories should be consistent with the GHGP and include:
+i. indirect Scope 3 GHG emissions from the consolidated accounting group (the parent and its subsidiaries),
+ii. indirect Scope 3 GHG emissions from associates, joint ventures, and unconsolidated subsidiaries for which
+the undertaking has the ability to control the operational activities and relationships (i.e., operational
+control),
+iii. Scope 1, 2 and 3 GHG emissions from associates, joint ventures, unconsolidated subsidiaries (investment
+entities) and joint arrangements for which the undertaking does not have operational control and when
+these entities are part of the undertaking’s upstream and dopwnstream value chain.
+(i) disclose a list of Scope 3 GHG emissions categories included in and excluded from the inventory with a
+justification for excluded Scope 3 categories;
+(j) disclose biogenic emissions of CO 2 from the combustion or biodegradation of biomass that occur in its
+upstream and downstream value chain separately from the gross Scope 3 GHG emissions, and include
+emissions of other types of GHG (such as CH 4 and N2O), and emissions of CO2 that occur in the life cycle of
+biomass other than from combustion or biodegradation (such as GHG emissions from processing or
+transporting biomass) in the calculation of Scope 3 GHG emissions;
+(k) not include any removals, or any purchased, sold or transferred carbon credits or GHG allowances in the
+calculation of Scope 3 GHG emissions;
+AR 47. When preparing the information on the total GHG emissions required under paragraph 52, the undertaking shall:
+(a) apply the following formulas to calculate the total GHG emissions:
+(b) disclose total GHG emissions with a distinction between emissions derived from the location-based and
+market-based methods applied while measuring the underlying Scope 2 GHG emissions.
+AR 48. The undertaking shall disclose its total GHG emissions disaggregated by Scopes 1 and 2 and significant Scope 3 in
+accordance with the table below.
+Retrospective Milestones and target years
+Base
+yearCompa-
+rativeN% N /
+N-12025 2030 (2050)Annual %
+target / Base
+year
+Scope 1 GHG emissions
+Gross Scope 1 GHG emissions
+(tCO2eq)
+Percentage of Scope 1
+GHG emissions from regulated
+emission trading schemes (%)OJ L, 22.12.2023 EN  
+
+--- Page 101 of 284 ---
+
+ELI: http://data.europa.eu/eli/reg_del/2023/2772/oj 101/284Scope 2 GHG emissions
+Gross location-based Scope 2
+GHG emissions (tCO2eq)
+Gross market-based Scope 2 GHG
+emissions (tCO2eq)
+Significant scope 3 GHG emissions
+Total Gross indirect (Scope 3)
+GHG emissions (tCO2eq)
+1 Purchased goods and services
+[Optional sub-category: Cloud
+computing and data centre
+services
+2 Capital goods
+3 Fuel and energy-related
+Activities (not included in Scope1
+or Scope 2)
+4 Upstream transportation and
+distribution
+5 Waste generated in opera ­
+tions
+6 Business travelng
+7 Employee commuting
+8 Upstream leased assets
+9 Downstream transportation
+10 Processing of sold products
+11 Use of sold products
+12 End-of-life treatment of sold products
+13 Downstream leased assets
+14 Franchises
+15 InvestmentsOJ L, 22.12.2023 EN  
+
+--- Page 102 of 284 ---

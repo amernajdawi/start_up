@@ -1,0 +1,56 @@
+File Name: 1_2021-06-04_DelVO_2021_2139_TAXKRA_EU.pdf
+Converted on: 2025-03-28 03:20:30
+Original Size: 2.76 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 147 of 447
+--------------------------------------------------------------------------------
+
+(b) until 31 December 2025, the activity provides interurban passenger road transport using vehicles designated
+as categories M2 and M3 (  228  ) that have a type of bodywork classified as ‘CA’ (single-deck vehicle), ‘CB’ 
+(double-deck vehicle), ‘CC’ (single-deck articulated vehicle) or ‘CD’ (double-deck articulated vehicle) (  229  ), and 
+comply with the latest EURO VI standard, i.e. both with the requirements of Regulation (EC) No 595/2009
+and, from the time of the entry into force of amendments to that Regulation, in those amending acts, even
+before they become applicable, and with the latest step of the Euro VI standard set out in Table 1 of
+Appendix 9 to Annex I to Regulation (EU) No 582/2011 where the provisions governing that step have
+entered into force but have not yet become applicable for this type of vehicle (  230  ). Where such standard is 
+not available, the direct CO  2 emissions of the vehicles are zero.  
+Do no significant harm (‘DNSH’)  
+(2) Climate change adaptation  The activity complies with the criteria set out in Appendix A to this 
+Annex.  
+(3) Sustainable use and protection of
+water and marine resources  N/A  
+(4) Transition to a circular economy  Measures are in place to manage waste, in accordance with the waste 
+hierarchy, both in the use phase (maintenance) and the end-of-life of
+the fleet, including through reuse and recycling of batteries and electronics
+(in particular critical raw materials therein).  
+(5) Pollution prevention and control  For road vehicles of categories M, tyres comply with external rolling noise 
+requirements in the highest populated class and with Rolling Resistance
+Coefficient (influencing the vehicle energy efficiency) in the two highest
+populated classes as set out in Regulation (EU) 2020/740 of the European
+Parliament and of the Council (  231  ) and as can be verified from the 
+European Product Registry for Energy Labelling (EPREL).
+Where applicable, vehicles comply with the requirements of the most
+recent applicable stage of the Euro VI heavy duty emission type-
+approval set out in accordance with Regulation (EC) No 595/2009.  
+(6) Protection and restoration of
+biodiversity and ecosystems  N/A  
+6.4.  Operation of personal mobility devices, cycle logistics  
+Description of the activity  
+Selling, purchasing, financing, leasing, renting and operation of personal mobility or transport devices where the
+propulsion comes from the physical activity of the user, from a zero-emissions motor, or a mix of zero-emissions
+motor and physical activity. This includes the provision of freight transport services by (cargo) bicycles.  
+The economic activities in this category could be associated with several NACE codes, in particular N77.11 and
+N77.21 in accordance with the statistical classification of economic activities established by Regulation (EC)
+No 1893/2006.  
+___________  
+( 228  ) As referred to in Article 4(1), point (a), of Regulation (EU) 2018/858.  
+( 229  ) As set out in point 3 of part C of Annex I to Regulation (EU) 2018/858.  
+( 230  ) Until 31/12/2021, the EURO VI, step E as set out in Regulation (EC) No 595/2009.  
+( 231  ) Regulation (EU) 2020/740 of the European Parliament and of the Council of 25 May 2020 on the labelling of tyres with respect to 
+fuel efficiency and other parameters, amending Regulation (EU) 2017/1369 and repealing Regulation (EC) No 1222/2009
+(OJ L 177, 5.6.2020, p. 1).EN  L 442/104 Official Journal of the European Union 9.12.2021
+
+--- Page 105 of 349 ---

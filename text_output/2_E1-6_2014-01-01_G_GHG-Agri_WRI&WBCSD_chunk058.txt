@@ -1,0 +1,110 @@
+File Name: 2_E1-6_2014-01-01_G_GHG-Agri_WRI&WBCSD.pdf
+Converted on: 2025-03-28 03:20:54
+Original Size: 1.75 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 58 of 65
+--------------------------------------------------------------------------------
+
+, it only revises its inventories to report the CO 2 fluxes that occurred during years 20 – 25 . This is because year 20 was established as its base pe riod . Table II - 4 describes how the changes in C stocks are amor tized by the reporting company . Figure II - 2 . The reporting company purchases land that is undergoing changes in C stocks because of a shift in land use made by a prior owner ( Case C ) - - - Page 87 of 103 - - - GHG Protocol Agricultural Guidance 87
+
+Table II-4.  The amortization schedule for Case C. 
+
+--- Page 88 of 103 ---
+
+GHG Protocol Agricultural Guidance
+
+88
+Appendix III: Tools for calculating agricultural GHG fluxes
+
+Overview
+This Appendix lists some of the most widely used  tools (spreadsheets, so ftware and protocols) 
+for calculating GHG fluxes in agriculture. Thr ee broad classes of tools are covered:
+ Tools suitable for farm managers. These are ge nerally web- or Excel-based calculators that
+can be used with commonly available types of activity data. They tend to implement a
+variety of the calculation appr oaches described in Table 7- 1; namely, emission factors,
+empirical or process models, or some combination of these approaches.
+ General catalogues of calculation methodologi es. These describe formulae and default
+emission factors that can be used to calculate flux data for an extens ive range of emissions
+sources. They do not provide an interface for performing calculations.
+ Tools suitable for academic use. These are primarily process-based models intended for
+academic research. They have extensive requirements in terms of data inputs, labor and expertise, and would not be recommended fo r use by farm managers. They are described
+here because they underpin many of  the more accessible resources.  
+
+Table III-1 lists the GHGs and operations covered by each tool , while Table III-2 provides
+further information on each tool, such as its geographic focus and type of interface.  
+Notes and Caveats
+ These tools typically generate GHG flux data in  a format that is not automatically in 
+conformance with this Guidance. Users will of ten therefore need to reformat these data
+(e.g., to divide them by scopes) for the purpos e of developing a cor porate GHG inventory.   
+ This Appendix does not attempt to provide an exhaustive list of t ools, but is merely
+intended as an illustrative gui de. The tools listed here may change over time and companies
+are encouraged to check the corresponding websites for updated information.
+ Many different combinations of environmental and management factors will affect
+agricultural GHG fluxes. For exampl e, even if a tool is rele vant to, say, ‘cropland’ or
+‘livestock’ operations, as indicated in Table III-1, it may not cover the specific
+combinations of interest.  
+ The tools’ coverage of specialty crops and more complex livestock systems is less
+comprehensive than that for commodity crops and relatively simple livestock systems.  
+ The tools may employ different definitions fo r the same management practices and land
+use categories. Companies should ensure that co nsistent definitions are applied when using
+multiple tools for a single inventory.  
+ This Appendix focuses on non-mechanical sour ces, although many of the tools listed will
+also cover mechanical sources, mostly  fuel use and fertilizer production. 
+ Tools for product-, project- and natio nal-level assessments are excluded.
+
+--- Page 89 of 103 ---
+
+GHG Protocol Agricultural Guidance
+
+89
+
+Table III-1.  Publicly available tools for calculating agricultural GHG fluxes1 
+Tool GHG Operation  CO 2 
+N2O
+CH 4
+Cropland
+Horticulture
+Grazing land
+Grassland
+Agroforestry
+Wineyards /
+Orchards
+Livestock
+Forest
+Land use
+change
+Rice
+production
+Wetlands
+Energy use
+Tools suitable for farm managers
+Brazil GHG Protocol
+Program calculation
+tool      
+
+Carbon Accounting for
+Land Managers
+(CALM)    
+
+Carbon calculator for
+New Zealand
+Agriculture and
+Horticulture                  
+Climate Friendly Food
+(CFF) Carbon
+Calculator                  
+COLE-EZ 1605b
+Forest Carbon
+Reporting Tool                            
+COMET-Farm:
+CarbOn Management
+Evaluation Tool for
+whole FARM GHG
+accounting          
+
+--- Page 90 of 103 ---
+
+GHG Protocol Agricultural Guidance

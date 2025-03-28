@@ -1,0 +1,47 @@
+File Name: 1_2023-06-27_DelVO_2023_2486_TAXURA_EU.pdf
+Converted on: 2025-03-28 03:20:36
+Original Size: 8.44 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 30 of 199
+--------------------------------------------------------------------------------
+
+ELI: http://data.europa.eu/eli/reg_del/2023/2486/oj 19/164The activity does not include small-scale nature-based solutions to reduce flood and drought, including green and blue
+solutions applied in an urban setting, such as green roofs, swales, permeable surfaces and infiltration basins for urban
+storm water management purposes or Sustainable Urban Drainage Systems (see Section 2.3 of this Annex).
+The economic activities in this category could be associated with NACE code F42.91 in accordance with the statistical
+classification of economic activities established by Regulation (EC) No 1893/2006.
+Technical screening criteria
+Substantial contribution to the sustainable use and protection of water and marine resources
+1.The activity is a quantifiable and time bound measure to achieve the objectives for flood risk reduction in accordance
+with a flood risk management plan coordinated at river basin scale and developed under Directive 2007/60/EC of the
+European Parliament and of the Council (14). In relation to drought risk reduction, the activity is a quantifiable and time
+bound measure to achieve the objectives of Directive 2000/60/EC in accordance with a river basin management plan, or a drought management plan which is part of a river basin management plan.
+For activities in third countries, the activity is identified as a flood risk reduction or a drought risk reduction measure either
+in a water use and protection management plan at river basin scale or in an integrated coastal zone management plan along
+a coast. Those plans pursue the objectives for the management of flood and drought risks to reduce adverse consequences,
+where applicable for human health, the environment, cultural heritage and economic activity.
+2.Environmental degradation risks related to preserving water quality and avoiding water stress and preventing
+deterioration of the status of the affected water bodies are identified and addressed to achieve good water status and good
+ecological potential as defined in Article 2, points (22) and (23), of Regulation (EU) 2020/852, in accordance with
+Directive 2000/60/EC, and in line with a river basin management plan, developed thereunder for the potentially affected
+water body or bodies, in consultation with relevant stakeholders.
+Environmental degradation risks related to preserving marine environment are identified and addressed with the aim of
+achieving or maintaining good environmental status as defined in point 5 of Article 3 of Directive 2008/56/EC.
+3.The activity includes nature restoration or conservation actions that demonstrate specific ecosystem co-benefits, which
+contribute to achieving good water status or potential in accordance with Directive 2000/60/EC, good environmental
+status in accordance with Directive 2008/56/EC, and the nature restoration and conservation targets specified in the
+Communication from the Commission of 20 May 2020 on ‘EU Biodiversity Strategy for 2030’ (
+15). The activity contains
+clear and binding targets on nature restoration or conservation over a clearly defined timeframe and describes measures to achieve those targets. Local stakeholders are involved from the outset in the planning and design phase. The activity is based
+on the principles outlined by the IUCN Global Standard for nature-based solutions.
+For activities in third countries, the activity takes into account National Biodiversity Strategies and Action Plans for the
+setting of nature conservation and restoration targets and for the description of the measures to achieve these targets.
+4.A monitoring programme is in place to evaluate the effectiveness of a nature-based solution scheme in improving the
+status of the affected water body, achieving the conservation and restoration targets and in adapting to changing climate
+conditions. The programme is reviewed following the periodic approach of the river basin management plans (including
+drought management plans, where relevant) and the flood risk management plans.
+(14)Directive 2007/60/EC of the European Parliament and of the Council of 23 October 2007 on the assessment and management of
+flood risks (OJ L 288, 6.11.2007, p. 27).

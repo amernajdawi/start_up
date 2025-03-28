@@ -1,0 +1,36 @@
+File Name: 2_ESRS2_SBM1_2006-12-20_VO_NACER2_EU.pdf
+Converted on: 2025-03-28 01:56:34
+Original Size: 0.17 MB
+Chunk Size: 400 tokens with 50 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 87 of 109
+--------------------------------------------------------------------------------
+
+3. Annex 3 (A detailed module for structural statistics on distributive trades) is amended as follows:
+3.1. Section 3 paragraph 1 shall be replaced by the following:
+‘1. The statistics are to be compiled for all activities within the coverage of Section G of NACE Rev. 2. This sector
+covers the activities of wholesale and retail trade; repair of motor vehicles and motorcycles. Enterprise statisticsrefer to the population of all enterprises whose main activity is classified in Section G.’ .
+3.2. Throughout the text the following replacements shall be made:
+Former wording Amended wording
+Division 50 of NACE Rev. 1 Division 45 of NACE Rev. 2
+Division 51 of NACE Rev. 1 Division 46 of NACE Rev. 2
+Division 52 of NACE Rev. 1 Division 47 of NACE Rev. 2
+In Section 5 ‘First reference year ’and Section 9 ‘Reports and pilot studies’ the reference to NACE Rev. 1 divisions 50,
+51 and 52 is maintained.
+4. Annex 4 (A detailed module for structural statistics in construction) shall be amended as follows:
+Throughout the text the following replacement shall be made:
+Former wording Amended wording
+Groups 451 and 452 of NACE Rev. 1 Divisions 41 and 42 and Groups 43.1 and 43.9 of NACE
+Rev. 2
+5. Annex 5 (A detailed module for structural statistics in insurance) is amended as follows:
+Throughout the text the following replacement shall be made:
+Former wording Amended wording
+Division 66 except for class 66.02 of NACE Rev. 1 Divisions 65 except for group 65.3 of NACE Rev. 2
+6. Annex 6 (A detailed module for structural statistics on credit institutions) is amended as follows:
+Throughout the text the following replacement shall be made:
+Former wording Amended wording
+Classes 65.12 and 65.22 of NACE Rev. 1 Classes 64.19 and 64.92 of NACE Rev. 2
+7. Annex 7 (A detailed module for structural statistics on pension funds) is amended as follows:
+Throughout the text the following replacement shall be made:

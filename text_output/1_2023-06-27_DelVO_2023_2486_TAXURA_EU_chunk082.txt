@@ -1,0 +1,45 @@
+File Name: 1_2023-06-27_DelVO_2023_2486_TAXURA_EU.pdf
+Converted on: 2025-03-28 03:20:36
+Original Size: 8.44 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 82 of 199
+--------------------------------------------------------------------------------
+
+ELI: http://data.europa.eu/eli/reg_del/2023/2486/oj 57/1644.At least 50 % of the original building is retained. This is to be calculated based on the gross external floor area retained
+from the original building using the applicable national or regional measurement methodology, alternatively using the
+definition of ‘IPMS 1’ contained in the International Property Measurement Standards (106).
+5.The use of primary raw material in the renovation of the building is minimised through the use of secondary raw
+materials (107). The operator of the activity ensures that the three heaviest material categories that have been newly added
+to the building in the renovation of the building, measured by mass in kilogrammes, comply with the following thresholds regarding the maximum amount of primary raw material used:
+(a) for the combined total of concrete (
+108), natural or agglomerated stone, a maximum of 85 % of the material comes from
+primary raw material;
+(b) for the combined total of brick, tile, ceramic, a maximum of 85 % of the material comes from primary raw material;
+(c) for bio-based materials (109), a maximum of 90 % of the material comes from primary raw material;
+(d) for the combined total of glass, mineral insulation, a maximum of 85 % of the material comes from primary raw
+material;
+(e) for non-biobased plastic, a maximum of 75 % of the material comes from primary raw material;
+(f) for metals, a maximum of 65 % of the material comes from primary raw material;
+(g) for gypsum, a maximum of 83 % of the material comes from primary raw material.
+The thresholds are calculated by subtracting the secondary raw material from the total amount of each material category used in the works measured by mass in kilogrammes. Where the information on the recycled content of the construction
+product is not available, it is to be counted as comprising 100 % primary raw material. In order to respect the Waste
+Hierarchy and thereby favour re-use over recycling, re-used construction products, including those containing non-waste
+materials reprocessed on site, are to be counted as comprising zero primary raw material. Compliance with this criterion is
+demonstrated by reporting in accordance with the Level(s) indicator 2.1 (
+110).
+(106)International Property Measurement Standards: All Buildings. Published by the International Property Measurement Standards
+Coalition (IPMSC), https://ipmsc.org/.
+(107)For the purposes of the Delegated Act, ‘secondary raw materials’ means materials that have been prepared for re-use or recycled in accordance with Article 3 of the Waste Framework Directive and have ceased to be waste under Article 6 of that Directive.
+(108)This concerns the material concrete, including its constituent ingredients (for example, aggregates). Any steel reinforcement is
+excluded since this is a different material which can be accounted for under metals.
+(109)Bio-based materials are made using biological resources (animals, plants, micro-organisms and derived biomass, including organic
+waste), as defined in COM(2018) 673. They include conventional bio-based materials made traditionally from biomass (such as
+wood, cork, natural rubber, paper, textiles, wooden construction materials) and more recently developed materials such as bio-based
+chemicals or bio-based plastics.
+(110)See Level(s) indicator 2.1: Bill of Quantities, materials and lifespans, user manual: introductory briefing, instructions and guidance
+(Publication version 1.1), https://susproc.jrc.ec.europa.eu/product-bureau//sites/default/files/2021-01/
+UM3_Indicator_2.1_v1.1_34pp.pdf. For reporting, the Excel spreadsheet available on the Commission website is to be used: Bill of
+Quantities, materials and lifespans Excel template: for estimating (Level 2) and recording (Level 3) purchases of material quantities

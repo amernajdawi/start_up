@@ -1,0 +1,68 @@
+File Name: 2_E1-6_2011-09-01_G_GHG-PLC_WRI&WBCSD.pdf
+Converted on: 2025-03-28 03:18:25
+Original Size: 3.27 MB
+Chunk Size: 500 tokens with 50 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 173 of 226
+--------------------------------------------------------------------------------
+
+[116]   Product Life Cycle Accounting and Reporting Standard
+See chapter 14 for more information on performance
+tracking and setting reduction targets.
+Consumer and business purchasing decisions, quantitative
+product labeling, and performance claims:
+•The unit of analysis should be identical
+•The system boundaries and temporal boundary should
+be equivalent
+•The same allocation methods should be used for
+similar processes
+•The data types used and the data quality and
+uncertainty of data should be reported and assessed to
+determine if a fair comparison can be made
+•The temporal and geographical representativeness of
+the inventories should be assessed to determine if a
+fair comparison can be made
+•Third party assurance should be performed
+ISO labels and declarations:
+•Environmental Labels (Type I)1, Self-declared
+Environmental Claims (Type II)2, Environmental Product
+Declarations (Type III)3, and comparative assertions4
+should meet the accounting and communication
+requirements of the respective standardsA.1 Role of product rules
+Product rules provide additional specifications that enable
+valid comparisons of two or more products. Product rules
+may vary in quality. When developing a new product
+rule or evaluating the quality of an existing product rule
+before use, criteria to consider include whether:
+•The rule is developed by a diverse group of
+stakeholders with relevant subject matter expertise
+•The rule is peer-reviewed by qualified experts
+ •There are safeguards in place to prevent conflict  
+of interest
+•The rules apply internationally so they can be adopted
+by other programs and policies
+•A policy is in place to determine when product rules
+are updated
+Endnotes
+1  International Organization for Standardization, ISO 14024:1999, 
+Environmental labels and declarations -- Type I environmental
+labeling -- Principles and procedures. Geneva.
+2 International Organization for Standardization, ISO 14021:1999,
+Environmental labels and declarations -- Self-declared
+environmental claims (Type II environmental labeling). Geneva.
+3 International Organization for Standardization, ISO 14025:2006,
+Environmental labels and declarations -- Type III environmental
+declarations -- Principles and procedures. Geneva.
+4 International Organization for Standardization, ISO 14044:2006,
+Life Cycle Assessment: Requirements and Guidelines.Table [A.2] The use of Product Standard  for product comparisons
+Supported by the Product  
+Standard  “as-is” Supported by the  Product Standard with additional GHG 
+program specifications or product specific guidance
+Performance tracking
+Consumer and business purchasing decisions
+Product labels
+Performance claims
+
+--- Page 119 of 148 ---

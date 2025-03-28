@@ -1,0 +1,34 @@
+File Name: 1_2022-12-14_RL_2022_2464_CSRD_EU.pdf
+Converted on: 2025-03-28 03:18:06
+Original Size: 1.12 MB
+Chunk Size: 500 tokens with 50 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 178 of 204
+--------------------------------------------------------------------------------
+
+By way of derog ation from the third subparagraph, where any independent assurance services provider(s), third-
+countr y auditor(s) or audit entity(ies) that have no working arrangements carried out the assurance of sustainability
+repor ting of a parent under taking or a subsidiar y under taking of a group of under takings, the group auditor shall,
+when requested, also be responsible for ensur ing proper deliver y of the additional documentation on the assurance
+work performed by such independent assurance services provid er(s), third-countr y auditor(s) or audit entity(ies),
+including the working papers relevant to the assurance of consolidat ed sustainability repor ting. In order to ensure
+such deliver y, the group auditor shall retain a copy of such documentation, or alternatively agree with the
+independent assurance services provid er(s), third-countr y auditor(s) or audit entity(ies) that he, she or it is to be given
+unrestr icted access to such documentation upon request, or take any other appropr iate action. Where assurance
+working papers cannot, for legal or other reasons, be passed from a third countr y to the group auditor , the
+documentation retained by the group auditor shall include evidence that he, she or it has under taken the appropr iate
+procedures in order to gain access to the assurance documentation, and in the case of impediments other than legal
+ones arising from the legislation of the third countr y concer ned, evidence suppor ting the existen ce of such
+impediments.’;
+(17) in Article 28(2), point (e) is replaced by the follo wing:
+‘(e) include an opinion and a statement, both of which shall be based on the work under taken in the course of the
+audit, pursuant to points (a) and (b) of the second subparagraph of Article 34(1) of Directive 2013/34/EU;’;
+(18) the follo wing Article is inser ted:
+‘Article 28a
+Assurance repor t on sust ainability repor ting
+1. The statutor y auditor(s) or the audit firm(s) shall present the results of the assurance of sustainability repor ting
+in an assurance repor t on sustainability repor ting. That repor t shall be prepared in accordance with the requirements
+of assurance standards adopt ed by the Commission by means of the delegat ed acts adopt ed pursuant to Article 26a(3),
+or, pending adop tion by the Commission of those assurance standards, in accordance with national assurance

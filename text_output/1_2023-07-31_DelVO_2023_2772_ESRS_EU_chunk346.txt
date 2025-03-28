@@ -1,0 +1,43 @@
+File Name: 1_2023-07-31_DelVO_2023_2772_ESRS_EU.pdf
+Converted on: 2025-03-28 03:18:14
+Original Size: 5.82 MB
+Chunk Size: 500 tokens with 50 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 346 of 686
+--------------------------------------------------------------------------------
+
+ELI: http://data.europa.eu/eli/reg_del/2023/2772/oj 149/284AR 25. The targets related to the potentially material sustainability matters listed in paragraph AR 4 of this Standard, may
+be presented in a table as illustrated below:
+Type of target
+according to
+sustainability matterBaseline value and
+base yearTarget value and geographical scopeConnected policy or legislation if relevant2025 2030 Up to 2050
+AR 26. Measurable targets related to biodiversity and ecosystems may be expressed as:
+(a) size and location of all habitat areas protected or restored, whether directly or indirectly controlled by the
+undertaking, and whether the success of the restoration measure was or is approved by independent external
+professionals;
+(b) recreated surfaces (environments in which management initiatives are implemented so as to create a habitat on
+a site where it did not exist initially); or
+(c) number or percentage of projects / sites whose ecological integrity was improved (e.g., installation of fish
+passes, wildlife corridors).
+Disclosure Requirement E4-5 – Impact metrics related to biodiversity and ecosystems change
+AR 27. When preparing the information required under this Disclosure Requirement, the undertaking shall consider and
+may describe:
+(a) the methodologies and metrics used and an explanation for why these methodologies and metrics are selected,
+as well as their assumptions, limitations and uncertainties, and any changes in methodologies made over time
+and why they occurred;
+(b) the scope of the metrics and methodologies, for example:
+i.undertaking, site, brand, commodity, corporate business unit, activity;
+ii.aspects (as set out in paragraph AR 4) covered.
+(c) the biodiversity components of the metrics: species specific, ecosystem specific;
+(d) the geographies covered by the methodology and an explanation of why any relevant geographies were omitted;
+(e) how the metrics integrate ecological thresholds (e.g., the biosphere integrity and land-system change,
+planetary boundaries) and allocations;
+(f) the frequency of monitoring, key metrics being monitored, and the baseline condition/value and
+baseline year/period, as well as the reference period;
+(g) whether these metrics rely on primary data, secondary data, modelled data or on expert judgement, or a mixture of these;
+(h) an indication of which action is measured and monitored via the metrics and how they relate to the
+achievement of targets;
+(i) whether metrics are mandatory (required by legislation) or voluntary. If they are mandatory, the undertaking

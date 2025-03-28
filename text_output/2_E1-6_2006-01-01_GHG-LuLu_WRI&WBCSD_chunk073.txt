@@ -1,0 +1,75 @@
+File Name: 2_E1-6_2006-01-01_GHG-LuLu_WRI&WBCSD.pdf
+Converted on: 2025-03-28 03:18:22
+Original Size: 6.41 MB
+Chunk Size: 500 tokens with 50 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 73 of 88
+--------------------------------------------------------------------------------
+
+AnnexB
+ForestandProjectActivity Definitions
+B . 1 F O R E S T D E F I N I T I O N S
+Becauseofdifferencesamongprogramdefinitions,data
+collectionparameters,nationalregulations, andenvironmen -
+talconditions,theLULUCFGuidancedoesnotofferanexact
+definitionofforest.Therefore,whendecidingwhatdefinition
+touse,projectdevelopersshouldbeawareofthefollowing:
+•Programregulations.SomeGHGinitiativeshavea
+specificdefinitionof‘forest,’andothersuselessprecise
+definitions,leavingroomforinterpretationandregional
+conditions.Forexample,theNewSouthWales
+GreenhouseGasAbatementSchemedefinesaforestas
+landwithaminimumsizeof0.2hectaresinarea,20
+percentcrowncover,and2metersoftreeheight.In
+contrast,theCaliforniaClimateActionRegistrydefinesa
+forestaslandthatsupports,orcansupport,atleast10
+percenttreecanopycoverandthatallowsforthemanage -
+mentofoneormoreforestresources.Dependingonthe
+program,projectdevelopersmayberequiredtousea
+specificdefinition.•Nationalregulations.Bytheendof2006,partiestothe
+KyotoProtocolmustdecideontheirdefinitionsofforest,
+choosingaminimumarea(0.05to1.0ha),aminimum
+crowncoveratmaturity(10to30%),andaminimum
+treeheightatmaturity(2to5m).Thesenationaldefini-
+tionsshouldbenotedandmaybeadoptedbyproject
+developersorfutureprograms.
+•Dataparameters.Thedefinitionusedtogatherand
+organizeforestrydatamaydeterminewhichdefinitiona
+projectdevelopershoulduse.Forexample,Australiahas
+traditionallycompiledNationalForestInventorydatafor
+theUNFoodandAgricultureOrganization(UNFAO)
+usingminimumparametersof1.0hectares,20percent
+crowncover,and2metersinheight.Accordingly,project
+developersusingthesedatamaywanttousethesame
+definitiontoavoidcomplications.
+Whenpossible,useadefinitionthatisrelevanttoregional
+orlocalenvironmentalconditions.Iftheydonothavea
+specificorsetGHGprogramdefinition,developersshould
+usetheUNFAOdefinitions.
+B . 2 A F F O R E S TAT I O N / R E F O R E S TAT I O N
+TheLULUCFGuidanceusesthetermreforestationbroadly
+torefertotheestablishmentofforestcoveronclearedland
+thatwaspreviouslyforest(ineithertheshorterorlonger
+term).Inmostcases,reforestationisdifferentiatedfrom
+afforestationbythetimeperiodinwhichforestlastexisted
+ontheland.Forreforestation,thetimeperiodisusually
+shorterthanforafforestation,forexample,reforestedland
+mayhavebeeninforestjustfiveyearspreviously,whereas
+afforestationisthecreationofforestonlandconsiderednot
+tohavebeenforestforalongerterm(e.g.,fiftyyears).
+ThereasonthattheLULUCFGuidancereferstoreforesta -
+tionratherthanafforestationisthateventhoughtheGHG
+accountingforbothactivitiesisthesame,determining
+afforestationefficientlyandconsistentlycanbedifficult.
+GHGprogramsallowingreforestationprojectsmayuseaset
+baseyear(e.g.,1990)ormaydetermineaminimumperiod
+duringwhichthelandmusthavebeenoutofforest(e.g.,ten
+years),whichcanbeshownrelativelysimplyusingremotely
+senseddata.Showingthatlandhasnotbeenunderforest
+coverforlongerperiodsoftimemaybemoredifficult.The
+LULUCFGuidanceisnot,however,tryingtospecifically
+defineeitherafforestationorreforestation.
+
+--- Page 87 of 100 ---

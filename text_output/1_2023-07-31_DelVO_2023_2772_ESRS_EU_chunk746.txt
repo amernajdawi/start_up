@@ -1,0 +1,37 @@
+File Name: 1_2023-07-31_DelVO_2023_2772_ESRS_EU.pdf
+Converted on: 2025-03-28 01:55:56
+Original Size: 5.82 MB
+Chunk Size: 400 tokens with 50 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 746 of 768
+--------------------------------------------------------------------------------
+
+ELI: http://data.europa.eu/eli/reg_del/2023/2772/oj 277/284Scenario A plausible description of how the future may develop based on a coherent
+and internally consistent set of assumptions about key driving forces (e.g.,
+rate of technological change, prices) and relationships. Note that scenarios
+are neither predictions nor forecasts but are used to provide a view of the implications of developments and actions.
+Scenario analysis A process for identifying and assessing a potential range of outcomes of
+future events under conditions of uncertainty.
+Scope 1 GHG emissions Direct GHG emissions from sources that are owned or controlled by the
+undertaking.
+Scope 2 GHG emissions Indirect emissions from the generation of purchased or acquired electricity,
+steam, heat or cooling consumed by the undertaking.
+Scope 3 GHG emissions All indirect GHG emissions (not included in scope 2 GHG emissions) that
+occur in the value chain of the reporting undertaking, including both
+upstream and downstream emissions. Scope 3 GHG emissions can be
+broken down into scope 3 categories.
+Scope 3 category One of the 15 types of Scope 3 GHG emissions identified by the GHG
+Protocol Corporate Standard and detailed by the GHG Protocol Corporate
+Value Chain (Scope 3) Accounting and Reporting Standard (adapted from GHG Protocol Corporate Value Chain (Scope 3) Accounting and
+Reporting Standard, Glossary (Version 2011). Undertakings that choose to account for their Scope 3 emissions based on the indirect GHG emissions
+categories of ISO 14064-1:2018 may also refer to the category defined in clause 5.2.4 (excluding indirect GHG emissions from imported energy) of
+ISO 14064-1:2018.
+Sensitive information Sensitive information as defined in Regulation (EU) 2021/697 of the
+European Parliament and of the Council (
+27)establishing the European
+Defence Fund.
+Site The location of one or more physical installations. If there is more than one
+physical installation from the same or different owners or operators and
+certain infrastructure and facilities are shared, the entire area where the physical installation are located may constitute a site.

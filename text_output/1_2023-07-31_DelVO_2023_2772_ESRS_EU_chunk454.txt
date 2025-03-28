@@ -1,0 +1,22 @@
+File Name: 1_2023-07-31_DelVO_2023_2772_ESRS_EU.pdf
+Converted on: 2025-03-28 03:18:14
+Original Size: 5.82 MB
+Chunk Size: 500 tokens with 50 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 454 of 686
+--------------------------------------------------------------------------------
+
+AR 67. The employees in the undertaking’s own workforce covered by collective bargaining agreements are those
+individuals to whom the undertaking is obliged to apply the agreement. This means that if none of the
+employees are covered by a collective bargaining agreement, the percentage reported is zero. An employee in the
+undertaking’s own workforce covered by more than one collective bargaining agreement only needs to be
+counted once.
+AR 68. This requirement is not aimed at obtaining the percentage of employees represented by a works council or
+belonging to trade unions, which can be different. The percentage of employees covered by collective bargaining
+agreements can be higher than the percentage of unionised employees when the collective bargaining agreements
+apply to both union and non-union members. Alternatively, the percentage of employees covered by collective
+bargaining agreements can be lower than the percentage of unionised employees. This may be the case when
+there are no collective bargaining agreements available or when the collective bargaining agreements do not
+cover all unionised employees.OJ L, 22.12.2023 EN

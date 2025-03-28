@@ -1,0 +1,54 @@
+File Name: 1_2023-06-27_DelVO_2023_2486_TAXURA_EU.pdf
+Converted on: 2025-03-28 03:20:36
+Original Size: 8.44 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 54 of 199
+--------------------------------------------------------------------------------
+
+--- Page 35 of 164 ---
+
+ELI: http://data.europa.eu/eli/reg_del/2023/2486/oj 35/1642.4.3. The activity provides tracking information on substances identified as substance of very high concern (SVHC) and
+for substances meeting the criteria for substance of very high concern (SVHC), by complying with at least one of the two
+disclosure frameworks listed below:
+(a) product information on substances is available publicly, in SCIP database (31)for products that contain > 0,1 % (w/w) of
+an identified substance of very high concern or in a specific public tool provided by company;
+(b) product information on substances is available publicly, following IEC62474 (32)(for electrical and electronic
+equipment) and future IEC82474-1 (33)(dual logo project).
+2.5. Design for recyclability
+The economic activity manufactures products with demonstrated superior recyclability. Assessment of recyclability relies
+on EN 45555:2019 (34)or on any product-specific EN standard relying on EN 45555:2019. The economic activity
+complies with the following requirements:
+(a) single polymer or recyclable polymer blends are used;
+(b) plastic enclosures do not contain moulded-in or glue-on metal;
+(c) materials which cannot be recycled together are easy to access and have the ability to be separated;
+(d) improving recyclability does not harm the durability of the system itself;
+(e) parts of the product containing substances, mixtures and components that are to be removed during depollution are
+easy to identify, such as through marking for sorting provided by the manufacturer, and visible on the product;
+(f) printed circuit boards, hard disc drives (HDDs), electric motors, permanent magnets, batteries, fluorescent powders, or
+any other components identified in Union legislation to be of high critical raw materials recovery potential are easy to
+access and to remove from the product;
+(g) parts that reduce the recyclability according to the reference scenario for the end-of-life treatment of products, such as
+plastic using certain fillers or certain flame retardants, are easy to access and remove;
+(h) joining, fastening or sealing techniques do not prevent the safe and readily achievable removal of the components
+specified in Directive 2012/19/EU or in Regulation (EU) 2023/1542 of the European Parliament and of the Council
+on batteries and waste batteries (35), where present.
+2.6. Proactive substitution of hazardous substances
+2.6.1. The economic activity manufactures products which demonstrate proactive substitution of hazardous substances.
+2.6.2. The product does not contain substances of very high concern included in Annex XIV to Regulation (EC)
+No 1907/2006.
+2.6.3. Exemptions to Restrictions of Hazardous Substances are limited to the following cases:
+(a) lead in high melting temperature type solders covered by the exemption entry 7(a) in Annex III to Directive
+2011/65/EU;
+(b) electrical and electronic components containing lead in a glass or ceramic covered by the exemption entries under 7(c)
+in Annex III to Directive 2011/65/EU.
+(31)Version of 16 June 2023; available at: https://echa.europa.eu/scip-database.
+(32)IEC 62474 – Material Declaration for Products of and for the Electrotechnical Industry.
+(33)IEC 82474 – Material declaration – Part 1: General requirements.
+(34)EN 45555:2019 General methods for assessing the recyclability and recoverability of energy-related products.
+(35)Regulation (EU) 2023/1542 of the European Parliament and of the Council of 12 July 2023 concerning batteries and waste batteries,
+amending Directive 2008/98/EC and Regulation (EU) 2019/1020 and repealing Directive 2006/66/EC (OJ L 191, 28.7.2023, p. 1).OJ L, 21.11.2023 EN  
+
+--- Page 36 of 164 ---

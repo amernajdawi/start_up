@@ -1,0 +1,60 @@
+File Name: 2_ESRS2_SBM1_2006-12-20_VO_NACER2_EU.pdf
+Converted on: 2025-03-28 03:20:56
+Original Size: 0.17 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 25 of 45
+--------------------------------------------------------------------------------
+
+n.e.c. : not elsewhere classified * part of
+Division Group ClassISIC
+Rev. 4
+46.9 Non-specialised wholesale trade
+46.90 Non-specialised wholesale trade 4690
+47 Retail trade, except of motor vehicles and motorcycles
+47.1 Retail sale in non-specialised stores
+47.11 Retail sale in non-specialised stores with food, beverages or tobacco
+predominating4711
+47.19 Other retail sale in non-specialised stores 4719
+47.2 Retail sale of food, beverages and tobacco in specialised stores
+47.21 Retail sale of fruit and vegetables in specialised stores 4721*47.22 Retail sale of meat and meat products in specialised stores 4721*
+47.23 Retail sale of fish, crustaceans and molluscs in specialised stores 4721*
+47.24 Retail sale of bread, cakes, flour confectionery and sugar confectionery
+in specialised stores4721*
+47.25 Retail sale of beverages in specialised stores 4722
+47.26 Retail sale of tobacco products in specialised stores 4723
+47.29 Other retail sale of food in specialised stores 4721*
+47.3 Retail sale of automotive fuel in specialised stores
+47.30 Retail sale of automotive fuel in specialised stores 4730
+47.4 Retail sale of information and communication equipment in
+specialised stores
+47.41 Retail sale of computers, peripheral units and software in specialised
+stores4741*
+47.42 Retail sale of telecommunications equipment in specialised stores 4741*
+47.43 Retail sale of audio and video equipment in specialised stores 4742
+47.5 Retail sale of other household equipment in specialised stores
+47.51 Retail sale of textiles in specialised stores 4751
+47.52 Retail sale of hardware, paints and glass in specialised stores 475247.53 Retail sale of carpets, rugs, wall and floor coverings in specialised
+stores4753
+47.54 Retail sale of electrical household appliances in specialised stores 4759*
+47.59 Retail sale of furniture, lighting equipment and other household
+articles in specialised stores4759*
+47.6 Retail sale of cultural and recreation goods in specialised stores
+47.61 Retail sale of books in specialised stores 4761*47.62 Retail sale of newspapers and stationery in specialised stores 4761*
+47.63 Retail sale of music and video recordings in specialised stores 4762
+47.64 Retail sale of sporting equipment in specialised stores 476347.65 Retail sale of games and toys in specialised stores 4764
+47.7 Retail sale of other goods in specialised stores
+47.71 Retail sale of clothing in specialised stores 4771*47.72 Retail sale of footwear and leather goods in specialised stores 4771*47.73 Dispensing chemist in specialised stores 4772*47.74 Retail sale of medical and orthopaedic goods in specialised stores 4772*
+47.75 Retail sale of cosmetic and toilet articles in specialised stores 4772*
+47.76 Retail sale of flowers, plants, seeds, fertilisers, pet animals and pet food
+in specialised stores4773*
+47.77 Retail sale of watches and jewellery in specialised stores 4773*
+47.78 Other retail sale of new goods in specialised stores 4773*
+47.79 Retail sale of second-hand goods in stores 4774
+47.8 Retail sale via stalls and markets
+47.81 Retail sale via stalls and markets of food, beverages and tobacco
+products478130.12.2006 EN Official Journal of the European Union L 393/19
+
+--- Page 20 of 39 ---

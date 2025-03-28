@@ -1,0 +1,52 @@
+File Name: 1_2020-06-18_VO_2020_852_TAXAllg_EU.pdf
+Converted on: 2025-03-28 03:20:25
+Original Size: 0.73 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 9 of 54
+--------------------------------------------------------------------------------
+
+(20) To ensure the reliability , consist ency and compara bility of sustainability-related disclosures in the financial services
+sector , disclosures pursuant to this Regulation should use existing sustainability indicators to the exte nt feasible as
+proposed by the European Parliament in its resolution of 29 May 2018 on sustainable finance (7). In that cont ext,
+the technical screening criteria should, to the extent feasible, be based on the sustainability indicators refer red to in
+Regulation (EU) 2019/2088.
+(21) Regarding economic activities carried out by under takings that are not required to disclose information under this
+Regulation, there could be excep tional cases where financial mark et participants cannot reasonably obtain the
+relevant information to reliably determine the alignment with the technical screening criteria established pursuant
+to this Regulation. In such excep tional cases and only for those economic activities for which complet e, reliable and
+timely information could not be obtained, financial market participants should be allowed to make compl ementar y
+assessments and estimates on the basis of information from other sources. Such assessments and estimat es should
+only compe nsate for limited and specifi c parts of the desired data elements, and produce a prudent outcome. In
+order to ensure that the disclosure to investors is clear and not misleading, financia l mark et participants should
+clearly explain the basis for their conclusions as well as the reasons for having to make such compl ementar y
+assessments and estimat es for the purposes of disclosure to end invest ors.
+(22) In its communication of 20 June 2019 on ‘Guidelines on non-fi nancial repor ting: Supplement on repor ting climat e-
+relat ed information’, the Commission recommends that certain large compan ies repor t on certain climat e-related
+key performa nce indicators (KPIs) that are based on the framew ork established by this Regulation. In particular ,
+information on the propor tion of the turnover , capital expenditure (CapEx) or operating expenditure (OpEx) of
+such large non-fi nancial companies that is associated with environmentally sustainable economic activities, as well
+as KPIs that are tailored for large financial compan ies, is useful to investors who are interested in compan ies whose
+products and services contr ibut e substantially to any one of the environmental objectives set out in this Regulation.
+It is theref ore appropr iate to require the annual publication of such KPIs by such large compan ies and to further
+define that requirement in delegat ed acts, in particular with regard to large financial compan ies. While it would be
+dispropor tionat ely burdensome to extend such a requirement to smaller companies, smaller companies may
+volun tarily decide to publish such information.
+(23) For the purpose of deter mining the environmental sustainability of a given economic activity , an exhaustive list of
+environmental objectives should be laid down . The six envi ronmental objectives that this Regulation should cover
+are: climat e chang e mitig ation; climat e change adapt ation; the sustainable use and protect ion of water and mar ine
+resources; the transition to a circular economy ; pollution prevention and control; and the protection and
+restoration of biodiversity and ecosystems.
+(24) An economic activity that pursues the environmental objective of climat e chang e mitig ation should contr ibute
+substantially to the stabilisation of greenhouse gas emissions by avoiding or reducing them or by enhancing
+greenhouse gas remo vals. The economic activity should be consist ent with the long-t erm temperature goal of the
+Paris Agreement. That envi ronmental objective should be interpreted in accordance with relevant Union law,
+including Directive 2009/31/EC of the European Parliament and of the Council (8).
+(25) An economic activity that pursues the environmental objective of climat e chang e adap tation should contr ibute
+substantially to reducing or preventing the adverse impact of the current or expect ed future climat e, or the risks of
+such adverse impa ct, whether on that activity itself or on people, nature or assets. That envi ronmental objective
+should be interpr eted in accordance with relevant Union law and the Sendai Framew ork for Disaster Risk Reduction
+2015–2030.
+(7)OJ C 76, 9.3.2020, p. 23.

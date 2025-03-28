@@ -1,0 +1,30 @@
+File Name: 1_2023-06-27_DelVO_2023_2486_TAXURA_EU.pdf
+Converted on: 2025-03-28 01:55:43
+Original Size: 8.44 MB
+Chunk Size: 400 tokens with 50 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 385 of 447
+--------------------------------------------------------------------------------
+
+ELI: http://data.europa.eu/eli/reg_del/2023/2486/oj 124/164The activity does not have significant adverse effects on protected areas (UNESCO World Heritage sites, Key Biodiversity
+Areas, as well as other protected areas than Natura 2000 sites) and protected species, based on an assessment of its impact
+that takes into account the best available knowledge (32). The activity is not detrimental to the recovery or maintenance of
+the populations of the species and of the habitat types protected under national law at a favourable conservation status.
+In the Union, in relation to Natura 2000 sites, the activity does not have significant effects on Natura 2000 sites in view of
+their conservation objectives on the basis of an appropriate assessment carried out in accordance with Article 6(3) of
+Directive 92/43/EEC.
+In the Union, in any area, the activity is not detrimental to the recovery or maintenance of the populations of the species
+protected under Directives 92/43/EEC and 2009/147/EC at a favourable conservation status. The activity is also not
+detrimental to the recovery or maintenance of the habitat types protected under Directive 92/43/EEC at a favourable
+conservation status.
+4.2. The introduction of invasive alien species is prevented or their spread is managed in accordance with Regulation (EU)
+No 1143/2014.4.3. Recreational hunting and fishing activities are allowed only where they are explicitly included as part of the
+conservation or management plan of the conservation area as established by the management entity and carried out in
+accordance with applicable Union and national law.
+5.Audit
+At the beginning of the activity and at least every five years thereafter, the compliance with the technical screening criteria is
+controlled by the relevant national competent authorities or by an independent third-party certifier, such as a dedicated
+certification or accreditation scheme, at the request of national authorities or the operator of the activity.
+The independent third-party certifier may not have any conflict of interest, in particular with the owner or the funder, and

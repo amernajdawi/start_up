@@ -1,0 +1,19 @@
+File Name: 2_E1-6_2004-03_G_GHG-Prot_WRI&WBCSD.pdf
+Converted on: 2025-03-28 03:20:43
+Original Size: 3.51 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 62 of 104
+--------------------------------------------------------------------------------
+
+its megawatt production . The combinedemissions from the new coal - and gas - fired plants will be addedto the GHG intensity indicator ’ s numerator , while the megawattproduction data from all three facilities will be added to the indi - cator ’ s denominator . More importantly , and the ratio indicatorillustrates this , over time MidAmerican ’ s GHG intensity willdecline as more efficient generation is brought online and olderpower plants are used less or retired altogether . MidAmerican : Setting ratio indicators for a utility company - - - Page 69 of 116 - - -
+
+INTENSITY RATIOS. Intensity ratios express GHG impact per unit of physical activity or unit of economicoutput. A physical intensity ratio is suitable when aggre-gating or comparing across businesses that have similarproducts. An economic intensity ratio is suitable whenaggregating or comparing across businesses thatproduce different products. A declining intensity ratioreflects a positive performance improvement. Manycompanies historically tracked environmental perform-ance with intensity ratios. Intensity ratios are oftencalled “normalized” environmental impact data.Examples of intensity ratios include product emissionintensity (e.g., tonnes of CO 2emissions per electricity generated); service intensity (e.g., GHG emissions perfunction or per service); and sales intensity (e.g., emis-sions per sales). PERCENTAGES. A percentage indicator is a ratio between two similar issues (with the same physical unitin the numerator and the denominator). Examples ofpercentages that can be meaningful in performancereports include current GHG emissions expressed as apercentage of base year GHG emissions. For further guidance on ratio indicators refer to CCAR, 2003; GRI, 2002; Verfaillie and Bidwell, 2000. CHAPTER 9 Reporting GHG Emissions 67GUIDANCE
+
+--- Page 70 of 116 ---
+
+GUIDANCE 68 erification is an objective assessment of the accuracy and completeness of reported GHG information and the conformity of this information to pre-established GHG accounting and reporting principles. Although the practiceof verifying corporate GHG inventories is still evolving the emergence of widelyaccepted standards, such as the GHG Protocol Corporate Standard and the forth- coming GHG Protocol Project Quantification Standard , should help GHG verification become more uniform, credible, and widely accepted. V10 Verification of GHG Emissions GUIDANCE
+
+--- Page 71 of 116 ---

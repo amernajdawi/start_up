@@ -1,0 +1,48 @@
+File Name: 1_2023-07-31_DelVO_2023_2772_ESRS_EU.pdf
+Converted on: 2025-03-28 03:20:41
+Original Size: 5.82 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 169 of 284
+--------------------------------------------------------------------------------
+
+ELI: http://data.europa.eu/eli/reg_del/2023/2772/oj 172/284(d) how it tracks and assesses the effectiveness of these actions and initiatives in delivering outcomes for its own
+workforce.
+39. In relation to paragraph 36, the undertaking shall describe the processes through which it identifies what action is
+needed and appropriate in response to a particular actual or potential negative impact on its own workforce.
+40. In relation to material risks and opportunities, the undertaking shall describe:
+(a) what action is planned or underway to mitigate material risks for the undertaking arising from its impacts and
+dependencies on its own workforce and how it tracks effectiveness in practice; and
+(b) what action is planned or underway to pursue material opportunities for the undertaking in relation to its own
+workforce.
+41. The undertaking shall disclose whether and how it ensures that its own practices do not cause or contribute to
+material negative impacts on own workforce, including, where relevant, its practices in relation to procurement,
+sales and data use. This may include disclosing what approach is taken when tensions arise between the prevention or mitigation of material negative impacts and other business pressures.
+42. When disclosing the information required under paragraph 40, the undertaking shall consider ESRS 2 MDR-T
+Tracking effectiveness of policies and actions through targets if it evaluates the effectiveness of an action by setting a target.
+43. The undertaking shall disclose what resources are allocated to the management of its material impacts, with
+information that allows users to gain an understanding of how the material impacts are managed.
+Metrics and targets
+Disclosure Requirement S1-5 – Targets related to managing material negative impacts, advancing positive impacts, and
+managing material risks and opportunities
+44. The undertaking shall disclose the time-bound and outcome-oriented targets it may have set related to:
+(a) reducing negative impacts on its own workforce; and/or
+(b) advancing positive impacts on its own workforce; and/or
+(c) managing material risks and opportunities related to its own workforce.
+45. The objective of this Disclosure Requirement is to enable an understanding of the extent to which the undertaking is
+using outcome-oriented targets to drive and measure its progress in addressing its material negative impacts and/or
+advancing positive impacts on its own workforce, and/or in managing material risks and opportunities related to its
+own workforce.
+46. The summarised description of the targets set to manage its material impacts, risks and opportunities related to the
+undertaking’s own workforce shall contain the information requirements defined in ESRS 2 MDR-T.
+47. The undertaking shall disclose the process for setting the targets, including whether and how the undertaking
+engaged directly with its own workforce or workers’ representatives in:
+(a) setting any such targets;
+(b) tracking the undertaking’s performance against them; and
+(c) identifying any lessons or improvements as a result of the undertaking’s performance.
+Disclosure Requirement S1-6 – Characteristics of the undertaking’s employees
+48. The undertaking shall describe key characteristics of employees in its own workforce.OJ L, 22.12.2023 EN  
+
+--- Page 173 of 284 ---

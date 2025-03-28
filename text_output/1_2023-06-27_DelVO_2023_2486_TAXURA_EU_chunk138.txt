@@ -1,0 +1,48 @@
+File Name: 1_2023-06-27_DelVO_2023_2486_TAXURA_EU.pdf
+Converted on: 2025-03-28 03:20:36
+Original Size: 8.44 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 138 of 199
+--------------------------------------------------------------------------------
+
+ELI: http://data.europa.eu/eli/reg_del/2023/2486/oj 99/1644. The activity complies with the criteria set out in Appendix B to this Annex.
+(4) Transition to a circular
+economyThe activity assesses the availability of and, where feasible, adopts techniques that support:
+(a) reuse and use of secondary raw materials and reused components in products
+manufactured;
+(b) design for high durability, recyclability, easy disassembly and adaptability of products manufactured;
+(c) waste management that prioritises recycling over disposal, in the manufacturing
+process;
+(d) information on product ingredients along the supply chain.
+(6)
+Protection and restoration
+of biodiversity and ecosys ­
+temsThe activity complies with the criteria set out in Appendix D to this Annex.
+2. Water supply, sewerage, waste management and remediation activities
+2.1. Collection and transport of hazardous waste
+Description of the activity
+Separate collection and transport of hazardous waste (39)prior to treatment, material recovery or disposal, including the
+construction, operation and upgrade of facilities involved in the collection and transport of such waste, such as hazardous
+waste transfer stations, as a means for appropriate treatment.
+The economic activities in this category could be associated with several NACE codes, in particular E38.12 and F42.9 in
+accordance with the statistical classification of economic activities established by Regulation (EC) No 1893/2006.
+Technical screening criteria
+Substantial contribution to pollution prevention and control
+1.Hazardous waste is source segregated and collected separately from non-hazardous waste to prevent cross-
+contamination. Appropriate measures are taken to ensure that during separate collection and transport, hazardous waste
+is not mixed nor diluted either with other categories of hazardous waste or with other waste, substances or materials.
+2.Proper collection and handling prevent leakage of hazardous waste during collection, transport, storage and delivery to
+the treatment facility, which is permitted to treat hazardous waste, according to national legislation.
+3.Where a given waste classified as hazardous has also a transport status of dangerous goods under the Agreement
+concerning the International Carriage of Dangerous Goods by Road (ADR) (40), the transport complies with the relevant
+requirements set by the ADR.
+(39)Hazardous waste is waste which displays one or more of the hazardous properties listed in Annex III of Directive 2008/98/EC. It
+includes streams such as hazardous waste fractions produced by households, waste oils, batteries, non-depolluted waste from
+electrical and electronic equipment (WEEE), non-depolluted end-of-life vehicle, certain healthcare waste, such as infectious and cytotoxic waste, etc. A comprehensive classification of hazardous waste can be found in the European List of Waste (established by Commission Decision 2000/532/EC).
+(40)Version of 27.6.2023, available at: https://unece.org/transport/standards/transport/dangerous-goods/adr-2023-agreement-
+concerning-international-carriage.OJ L, 21.11.2023 EN  
+
+--- Page 100 of 164 ---

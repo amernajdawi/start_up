@@ -1,0 +1,53 @@
+File Name: 1_2023-07-31_DelVO_2023_2772_ESRS_EU.pdf
+Converted on: 2025-03-28 03:20:41
+Original Size: 5.82 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 225 of 284
+--------------------------------------------------------------------------------
+
+ELI: http://data.europa.eu/eli/reg_del/2023/2772/oj 226/284AR 7. Examples of particular characteristics of affected communities that may be considered by the undertaking when
+responding to paragraph 10 may be an affected community that is physically or economically isolated and is
+particularly susceptible to introduced diseases or has limited access to social services and therefore relies on
+infrastructure set up by the undertaking. It may be because where land worked by women is purchased by the
+undertaking and payments go to male heads of households, women become further disenfranchised in the
+community. It may also be because the community is indigenous, and its members seek to exercise cultural or
+economic rights to the land owned or used by the undertaking – or by one of the entities with which it has a
+business relationship – in a context where their rights are not protected by the state. In addition, the undertaking shall consider whether different characteristics overlap. For example, characteristics such as ethnicity,
+socioeconomic status, migrant status and gender may create overlapping risks of harm for certain affected
+communities, or for distinct parts of those affected communities, since affected communities are often
+heterogeneous in nature.
+AR 8. With regard to paragraph 11, material risks could also arise because of the undertaking’s dependency on affected
+communities where low likelihood but high impact events may trigger financial effects; for example, where a
+natural disaster leads to a catastrophic industrial accident involving the undertaking’s operations, resulting in severe harm to affected communities.
+Impact, risk and opportunity management
+Disclosure Requirement S3-1 – Policies related to affected communities
+AR 9. The description shall include the key information necessary to ensure a faithful representation of the policies in
+relation to affected communities and, therefore, the undertaking shall consider explanations of significant
+changes to the policies adopted during the reporting year (for example, new or additional approaches to
+engagement, due diligence and remedy).
+AR 10. When disclosing the alignment of its policies with the UN Guiding Principles on Business and Human Rights, the
+undertaking shall consider that the Guiding Principles refer to the International Bill of Rights, which consists of
+the Universal Declaration of Human Rights and the two Covenants that implement it, as well as the UN
+Declaration on the Rights of Indigenous Peoples, the International Labour Organisation’s Convention concerning
+Indigenous and Tribal Peoples (ILO No. 169) and the core conventions that underpin it, and may disclose its
+alignment with these instruments.
+AR 11. The undertaking may provide an illustration of the types of communication of its policies to those individuals,
+group of individuals or entities for whom they are relevant, either because they are expected to implement them
+(for example, the undertaking’s employees , contractors and suppliers), or because they have a direct interest in
+their implementation (for example, own workers, investors). It may disclose communication tools and channels
+(for example, flyers, newsletters, dedicated websites, social media, face to face interactions, workers’
+representatives), aimed at ensuring that the policy is accessible and that different audiences understand its
+implications. The undertaking may also explain how it identifies and removes potential barriers for dissemination,
+such as through translation into relevant languages or the use of graphic depictions.
+AR 12. When disclosing severe human rights issues and incidents connected to affected communities, the undertaking
+shall consider any legal disputes related to land rights and to the free, prior and informed consent of indigenous
+peoples.
+Disclosure Requirement S3-2 – Processes for engaging with affected communities about impacts
+AR 13. Explanations of how the undertaking takes into account and ensures respect of the right of indigenous peoples to
+free, prior and informed consent may include information about processes to consult with indigenous peoples to
+obtain such consent. The undertaking shall consider how the consultation includes a good faith negotiation with affected indigenous peoples to obtain their free, prior and informed consent where the undertaking affects the
+lands, territories or resources that indigenous peoples customarily own, occupy or otherwise use; or relocates
+them from land or territories subject to traditional ownership or under customary use or occupation; or affects or

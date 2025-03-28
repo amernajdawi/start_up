@@ -1,0 +1,245 @@
+File Name: 2_E1-6_2006-01-01_GHG-LuLu_WRI&WBCSD.pdf
+Converted on: 2025-03-28 03:20:49
+Original Size: 6.41 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 5 of 50
+--------------------------------------------------------------------------------
+
+CHAPTER2:KeyLULUCFAccounting Concepts andPrinciples
+11
+2 . 1 . 4 L A N D - U S E O R M A N A G E M E N T
+T R E N D FA C T O R S
+Aland-useormanagementtrendfactor(abbreviatedinthis
+documenttoland-usetrendfactor)estimatestherateat
+whichland-useormanagemen tchangesareoccurring
+withinthegeographicareaduringthetemporalrange(both
+identifiedinchapter5).Theland-usetrendfactorisapplied
+tothebaselineGHGremovalstoadjusttheGHGremovals
+toreflectthechangingland-useormanagementpracticesin
+anarea.
+Whetheritisappropriatetoapplyaland-usetrendfactor
+dependsonthenatureofthebaselinecandidatesandthe
+amountofrigorousdataavailabletodeveloparelevant
+factor.Ifthebaselinecandidatesrepresentdiscreteland
+usesortypesofmanagementpractices,aland-usetrend factorshouldbeconsidered.Butiftheprojectactivityrepre -
+sentsachangeinthelevelorintensityofamanagement
+practiceorlanduse,thentheland-usetrendfactorismost
+likelynotapplicable.
+ReforestationProjectActivities
+Typicalbaselinecandidatesinreforestationprojectsare
+discretelanduses,forexample,forest,cropland,orpasture.
+Therefore,aland-usetrendfactorcouldbeusedforall
+reforestationprojectactivities.
+ForestManagementProjectActivities
+Theprojectactivityformanyforestmanagementprojects
+representsachangeinthelevelorintensityofamanage -
+mentpractice,forexample,lengtheningtheharvestrotation
+orchangingthedegreeofforestthinning.Inthesesitua -F I G U R E 2 . 2 RelationshipbetweenBaselineCandidatesandBaselineProcedures
+Afterlookingatthebiophysicalconditions
+oftheprojectsiteandtheregulatoryfactors
+inthearea,thefollowingalternativeland
+useswereidentifiedinthegeographicarea:
+•Pasture
+•Plantationforestry
+•Drylandcerealcrops
+•Irrigatedcerealcrops Intheproject-specificprocedure ,the
+baselinecandidatesare:
+•Baselinecandidate1:Pasture
+•Baselinecandidate2:Plantationforestry
+•Baselinecandidate3:Dryland
+cerealcrops
+•Baselinecandidate4:Irrigated
+cerealcropsUsingtheperformancestandard
+procedure ,eachhectareoflandinthe
+geographicarearepresentsabaseline
+candidate.Inthiscase,thebaseline
+candidatesare:
+•Baselinecandidates1to500:Pasture
+•Baselinecandidates501to1023:
+Plantationforestry
+•Baselinecandidates1024to6073:
+Drylandcerealcrops
+•Baselinecandidates6074to8109:
+Irrigatedcerealcrops TypesandQuantityofLandUseinArea
+T Y P E S Q U A N T I T Y
+p=pasture 500hectares
+f=plantationforestry 523hectares
+d=drylandcerealcrops 5050hectares
+i=irrigatedcerealcrops 2036hectares
+Geographicarea
+River
+Theshadedareaistheprojectsite. Thefollowingisadiagramofageographicareawhoseidentifiedlanduseshaveremainedthesameoverthelasttwenty-five years:
+pp
+dddddd d
+i
+ip
+ii
+ii
+ff
+dd
+d
+
+--- Page 14 of 100 ---
+
+CHAPTER2:KeyLULUCFAccounting ConceptsandPrinciples 12 tions,identifyingdiscretepracticesacrossthelandscape
+maynotbepossible,andthereforeestimatingaland-use
+trendfactormaynotbeappropriate.
+Iftheprojectactivityrepresentsachangeinthetypeof
+managementpracticeprovidingagivenserviceorproduct,
+thentheland-usetrendfactorshouldbeconsidered.
+Mechanical weeding,chemicalweeding,andthinningforest
+managementpracticesareexamplesofdiscreteforest
+managementpracticestoenhancethegrowthofdesirable
+woodfiberspeciesinaforest.Itmaybepossibletodeter -
+minetherateatwhichlandownersaremovingfromprevious
+practicestopracticesincreasingtheGHGremovalsoutside
+aspecificclimatechangeorotherincentiveprogram.For
+moreinformationaboutwhenandhowtoapplytheland-use
+trendfactor,seechapter8.
+2 . 1 . 5 VA R I A B I L I T Y
+Carbonstockaccountingusestwotypesof“variability”:
+1 . Thevariabilityofcarbonstocksand/orchangesincarbon
+stockswithin atypeofbaselinecandidateorgroupof
+similarbaselinecandidates.Forexample,onecategoryof
+baselinecandidateencompasses 1000hectares,andthe
+soilcarbonhasbeenmeasuredfiftytimesoverthisarea.
+Thesoilcarbonmeasurementsrangebetween20and
+100tC/hainagivenyearandrepresentsthevariability
+withinagiventypeofbaselinecandidate.Thesamecould
+occurwhenmeasuringthechangeincarbonstocks.
+2 . Thevariabilityofcarbonstocksandchangeincarbon
+stocksacrossdifferentbaselinecandidates.Forexample,
+onetypeofbaselinecandidatehaslowcarbonstocks
+(e.g.,50tC/hainagivenyear),andanothertypeof
+baselinecandidatehashighercarbonstocks(e.g.,300t
+C/hainthesameyear).
+Thequestionofvariabilitybecomesimportantatseveral
+stagesintheaccountingprocess.Manyofthecriteriaused
+todefinethegeographicareashouldhelpminimizethe variabilitywithin atypeofbaselinecandidate,forexample,
+climaticandsoilconditions.Characterizingthedistinctions
+amongsimilartypesofbaselinecandidatesmayalsohelp
+reducethevariability,forexample,distinguishinglanduses
+usingdifferenttillagepracticesasdifferenttypesofbaseline
+candidates,ordistinguishingforesttrackswithdifferent
+previousforestdisturbancesasdifferenttypesofbaseline
+candidates.Determiningthedegreeofvariabilitywithin
+baselinecandidatesisimportantwhenquantifyingthe
+baselinecarbonstocksandchangesincarbonstocksand
+shouldbeconsideredwhenaddressingissuesofaccuracy,
+precision,andconservatism.Highvariabilitywithinbaseline
+candidatesmayresultinhighuncertaintylevelsinthe
+quantifiedbaselinecarbonstocksorcarbonstockchanges.
+Formoreinformation,seechapter9.
+Thevariabilityofthechangeincarbonstocksacrossthe
+differenttypesofbaselinecandidatesisimportanttothe
+performancestandardwhendecidingwhichstringencylevel
+toapply.Whenbaselinecandidateshaveverysimilarcarbon
+stockchanges,itmaybedifficulttoselectastringencylevel
+thatdifferentiatesvariouslanduseormanagementpractices.
+TheNipawinAfforestationexampleillustratesthissituation.
+2 . 1 . 6 U N C E R TA I N T Y
+Uncertainty intheestimationorquantificationoftheGHG
+reductionscanlowertheirperceivedvaluetobuyersor
+otherstakeholders.Uncertaintyisencounteredatmany
+stagesintheaccountingprocess,fromthemeasurementor
+estimationofcarboninvariouscarbonpoolsandthe
+changeincarbonstocksexpectedineachpool,tothe
+longevityofthecarbonstockstorage(permanence).Clearly
+indicatingwheretheuncertaintyexistsandhowithasbeen
+addressed—forexample,bymakingconservativeestimates
+orcreatingamanagementplantominimizeunintentional
+releasesofcarbondioxidetotheatmosphere—helpsassure
+buyers,investors,andotherstakeholdersoftheLULUCF
+project’sintegrity.Uncertainty,however,isnotlimitedto
+LULUCFprojects.
+
+--- Page 15 of 100 ---
+
+CHAPTER2:KeyLULUCFAccounting Concepts andPrinciples
+13 2 . 1 . 7 P E R M A N E N C E
+Permanencereferstothelongevityofacarbonpoolandthe
+stabilityofitsstocksovertime.HowaparticularGHG
+programaddressespermanence isapolicydecisionandthere -
+foreisnotcoveredindetailinthisdocument.Chapter11,
+however,offersacarbonreversibilitymanagementplan
+showingprojectdevelopershowtodocumenttheriskstothe
+carbonstoredinthedifferentpoolsandhowtheycanmitigate
+andmonitorthoserisks.TheLULUCFGuidancealso
+describeshowtotrackboththetotalcarbonstocksandthe
+GHGremovalsovertime,therebyallowingstakeholdersto
+seehowthenetstorageofcarbononthelandisprogressing.
+2 . 1 . 8 A D D I T I O N A L I T Y
+Project-basedGHGreductionsarequantifiedrelativeto
+baselineGHGremovals,whicharederivedeitherfroman
+identifiedbaselinescenarioorbyusingaperformance
+standardthatservesthesamefunctionasabaseline
+scenario.Althoughaprojectactivityisgenerallyassumedto
+differfromitsbaselinescenario,aprojectactivity(orthe
+sameland-useorforestmanagementpracticeitemploys)
+sometimesmayhavebeenimplemented“anyway.”Inthese
+cases,theprojectactivityanditsbaselinescenarioareeffec -
+tivelyidentical.Suchaprojectactivitymayappearto
+increaseGHGremovalsrelativetohistoricalremovalrates.
+Butcomparedwithitsbaselinescenario,theprojectactivity
+doesnotgenerateGHGreductions.GHGprogramsshould
+countonlyGHGreductionsfromprojectactivitiesthatdiffer
+from—orareadditionalto—theirbaselinescenarios.
+Differentiatingaprojectactivityfromitsbaselinescenario
+isoftenreferredtoasdeterminingadditionality. Even
+thoughthebasicconceptofadditionalitymaybeeasyto
+understand,thereisnocommonagreementonhowtoprove
+thataprojectactivityanditsbaselinescenarioaredifferent.
+Thetwobaselineprocedures(project-specificandperform -
+ancestandard)reflecttwodifferentmethodological
+approachestoadditionality.2.2 Principles
+Thefollowingprinciplesweretakenfrom,andaredescribed
+morethoroughlyin,theProjectProtocol.Theyunderpinall
+aspectsoftheaccounting,quantification,andreportingof
+project-basedGHGreductions.Theirpurposeistoguide
+decisionswhentheProjectProtocolandtheLULUCF
+Guidanceaffordflexibilityordiscretionorwhentherequire -
+mentsand/orguidanceareambiguouswithrespecttoa
+particularsituation.Theapplicationoftheseprincipleswill
+helpensurethecredibilityandconsistencyofeffortsto
+quantifyandreportproject-basedGHGreductionsaccording
+totheProjectProtocolandtheLULUCFGuidance.
+Theprinciplesarederivedinpartfromacceptedfinancial
+accountingandreportingprinciples.
+Relevance:Usedata,methods,criteria,andassumptions
+appropriatetotheintendeduseofthereportedinformation.
+Completeness:Considerallrelevantinformationthatmay
+affecttheaccountingandquantificationofGHGreductions,
+andcompleteallrequirements.
+Consistency:Usedata,methods,criteria,andassumptions
+thatallowmeaningfulandvalidcomparisons.
+Transparency:Provideclearandsufficientinformationfor
+reviewerstoassessthecredibilityandreliabilityofGHG
+reductionclaims.
+Accuracy:Reduceuncertaintiesasmuchasispractical.
+Conservativeness:Useconservativeassumptions,values,
+andprocedureswhenuncertaintyishigh,anddonotoveres -
+timateGHGreductions.
+N O T E S
+1Thisdiscussionisnotmeanttoreplacechapter2,KeyGHGProject
+AccountingConcepts,oftheProjectProtocol,whichcontainsa
+completedescriptionoftheconceptsusedinthisdocument.
+2Carbonstockreferstoallcarbonstoredinthemeasuredcarbonpools.
+
+--- Page 16 of 100 ---
+
+14
+PARTII:GHGReductionAccountingandReporting
+heGHGassessmentboundaryencompasses allGHGsourcesorsinksassociatedwithallprimary
+effectsandanysignificantsecondaryeffectsarisingfromeachprojectactivityintheGHGproject.
+DefiningtheGHGassessmentboundaryallowstheprojectdevelopertodecidewhichcarbonpools
+andotherpotentialsourcesorsinkstoincludeinthequantificationoftheGHGreductions.
+WhendefiningaGHGassessment boundary,
+•IdentifytheGHGprojectactivity(oractivities).
+•Identifytheprimaryandsecondaryeffectsassociatedwitheachprojectactivity.
+•Analyzethosesecondaryeffectstodeterminewhicharerelevanttoestimatingandquantifying
+theGHGreductions.Definingthe
+GHGAssessmentBoundary
+T3

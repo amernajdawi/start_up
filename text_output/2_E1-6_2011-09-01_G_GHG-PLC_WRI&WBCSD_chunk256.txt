@@ -1,0 +1,56 @@
+File Name: 2_E1-6_2011-09-01_G_GHG-PLC_WRI&WBCSD.pdf
+Converted on: 2025-03-28 01:56:27
+Original Size: 3.27 MB
+Chunk Size: 400 tokens with 50 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 256 of 270
+--------------------------------------------------------------------------------
+
+[139]
+Atherton, John. “Declaration by the Metals Industry on
+Recycling Principles.” International Journal of Life Cycle
+Assessment,  12 no. 1 (2007):59-60.
+British Standards Institution et al. PAS 2050:2008:
+Specification for the assessment of life cycle greenhouse
+gas emissions of goods and services.
+European Commission - Joint Research Centre - Institute
+for Environment and Sustainability. “International
+Reference Life Cycle Data System (ILCD) Handbook
+- General guide for Life Cycle Assessment  - Detailed 
+guidance.” First edition, March 2010. Luxembourg:
+Publications Office of the European Union, 2010.
+FAO. FAOSTAT. Available from http://faostat.fao.org/
+site/567/default.aspx#ancor, 2011.
+Greenhouse Gas Protocol. Corporate Accounting and
+Reporting Standard. 2004.
+Huijbregts, Mark A. J. “Application of uncertainty
+and variability in LCA. Part I: A General Framework
+for the Analysis of Uncertainty and Variability in Life
+Cycle Assessment.” International Journal of Life Cycle
+Assessment,  3 no. 5 (1998):273 – 280.
+International Working Group. Life Cycle Inventory Analysis:
+Enhanced Methods and Applications for the Products of
+the Forest Industry.  Washington DC: American Forest and 
+Paper Association, 1996.
+International Organization for Standardization. ISO
+14021:1999, Environmental labels and declarations --
+Self-declared environmental claims (Type II environmental
+labeling). Geneva.
+International Organization for Standardization. ISO
+14024:1999, Environmental labels and declarations —  
+Type I environmental labeling — Principles and
+procedures. Geneva.
+International Organization for Standardization. ISO
+14025:2006, Environmental labels and declarations —
+Type III environmental declarations — Principles and
+procedures. Geneva.International Organization for Standardization. ISO
+14044:2006, Life Cycle Assessment: Requirements and
+Guidelines. Geneva.
+International Organization for Standardization. ISO
+14049:2000, Environmental management — Life cycle
+assessment — Examples of application of ISO 14041 to
+goal and scope definition and inventory analysis. Geneva.
+International Organization for Standardization. ISO
+14064-3: 2006, Greenhouse gases - Part 3: Specification

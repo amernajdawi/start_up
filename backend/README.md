@@ -1,54 +1,76 @@
-# Backend for AI Chat Assistant
+# PDF Text Extraction Tools
 
-This is a lightweight backend that provides a direct connection between the frontend and OpenAI's API.
+This repository contains two Python scripts for converting PDF files to text:
 
-## Features
+1. **pdf_to_text.py** - Converts PDFs to text files (one file per PDF)
+2. **pdf_to_text_chunked.py** - Converts PDFs to chunked text files (multiple files per PDF)
 
-- Simple FastAPI app that forwards requests to OpenAI
-- Poetry for dependency management
-- Docker support for easy deployment
-- Async API for improved performance
+Both scripts preserve the original naming convention of the PDF files and add helpful metadata.
 
-## Setup
+## Usage Instructions
 
-### Using Poetry (Recommended)
+### Basic Text Extraction
 
-```bash
-# Install Poetry (if needed)
-pip install poetry
-
-# Install dependencies
-poetry install
-
-# Run the server
-poetry run uvicorn app:app --reload
-```
-
-### Environment Variables
-
-Create a `.env` file in the root directory with:
-
-```
-OPENAI_API_KEY=your-api-key-here
-OPENAI_MODEL=gpt-4o-mini
-```
-
-## API Endpoints
-
-- `GET /health` - Health check endpoint
-- `POST /api/chat` - Chat endpoint that forwards messages to OpenAI
-
-## Docker
-
-The backend can be built and run as a Docker container:
+To convert PDFs to full text files:
 
 ```bash
-docker build -t ai-chat-backend .
-docker run -p 8000:8000 --env-file ../.env ai-chat-backend
+cd /app/backend
+poetry run python pdf_to_text.py
 ```
 
-Or preferably, use Docker Compose from the project root:
+Output will be saved to `/app/data/text_output` with each PDF converted to a single text file.
+
+### Chunked Text Extraction
+
+To convert PDFs to chunked text files (better for processing with AI models):
 
 ```bash
-docker-compose up --build
-``` 
+cd /app/backend
+# Default settings (500 tokens per chunk, 50 tokens overlap)
+poetry run python pdf_to_text_chunked.py
+
+# Custom settings
+poetry run python pdf_to_text_chunked.py --chunk-size 800 --overlap 100
+```
+
+Output will be saved to `/app/text_output` with each PDF split into multiple chunks.
+
+## File Naming Convention
+
+Both scripts preserve the original filename pattern:
+
+- Hierarchy Level (e.g., 1, 2)
+- Date (e.g., 2020-06-18)
+- Document Type (e.g., VO, DelVO, RL, G, REP, E)
+- Official EU Designation (e.g., 2020/852)
+- Abbreviation (e.g., TAXAllg, ESRS, CSRD)
+- Publisher (e.g., EU, WRI&WBCSD)
+
+For example:
+- `1_2020-06-18_VO_2020_852_TAXAllg_EU.pdf` → `1_2020-06-18_VO_2020_852_TAXAllg_EU.txt`
+- Chunked version: `1_2020-06-18_VO_2020_852_TAXAllg_EU_chunk001.txt`, `1_2020-06-18_VO_2020_852_TAXAllg_EU_chunk002.txt`, etc.
+
+## Features Comparison
+
+| Feature | pdf_to_text.py | pdf_to_text_chunked.py |
+|---------|---------------|-----------------------|
+| Output format | One text file per PDF | Multiple chunk files per PDF |
+| Output location | `/app/data/text_output` | `/app/text_output` |
+| Page numbers | Yes | Yes |
+| File metadata | Yes | Yes |
+| Token chunking | No | Yes (customizable) |
+| Chunk overlap | No | Yes (customizable) |
+| CLI parameters | No | Yes |
+
+## Requirements
+
+Both scripts require:
+- Python 3.9+
+- PyPDF2 library (installed via Poetry)
+
+## Detailed Documentation
+
+For more detailed information about each script, please refer to:
+
+- [PDF to Text README](pdf_to_text_README.md)
+- [PDF to Text Chunked README](pdf_to_text_chunked_README.md) 

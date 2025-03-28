@@ -1,0 +1,72 @@
+File Name: 1_2023-07-31_DelVO_2023_2772_ESRS_EU.pdf
+Converted on: 2025-03-28 03:20:41
+Original Size: 5.82 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 160 of 284
+--------------------------------------------------------------------------------
+
+ELI: http://data.europa.eu/eli/reg_del/2023/2772/oj 163/284AR 33. When providing contextual information under paragraph 40 the undertaking may:
+(a) explain the reasons for high weights of waste directed to disposal (e.g., local regulations that prohibit landfill of
+specific types of waste);
+(b) describe sector practices, sector standards, or external regulations that mandate a specific disposal operation;
+and
+(c) specify whether the data has been modelled or sourced from direct measurements, such as waste transfer notes
+from contracted waste collectors.
+Disclosure Requirement E5-6 – Anticipated financial effects from material resource use and circular economy-related
+risks and opportunities
+AR 34. When providing information under paragraph 42(b), the undertaking may illustrate and describe how it intends to
+strengthen value retention.
+AR 35. The undertaking may include an assessment of its related products and services at risk over the short-, medium-
+and long-term, explaining how these are defined, how financial amounts are estimated, and which critical
+assumptions are made.
+AR 36. The quantification of the anticipated financial effects in monetary terms under paragraph 43(a) may be a range.OJ L, 22.12.2023 EN  
+
+--- Page 164 of 284 ---
+
+ELI: http://data.europa.eu/eli/reg_del/2023/2772/oj 164/284ESRS S1
+OWN WORKFORCE
+TABLE OF CONTENTS
+Objective
+Interaction with other ESRS
+Disclosure requirements
+– ESRS 2 General disclosures
+Strategy
+— Disclosure Requirement related to ESRS 2 SBM-2 – Interests and views of stakeholders
+— Disclosure Requirement related to ESRS 2 SBM-3 – Material impacts, risks and opportunities and their
+interaction with strategy and business model
+Impacts, risks and opportunities management
+— Disclosure Requirement S1-1 – Policies related to own workforce
+— Disclosure Requirement S1-2 – Processes for engaging with own workers and workers’ representatives about
+impacts
+— Disclosure Requirement S1-3 – Processes to remediate negative impacts and channels for own workers to raise concerns
+— Disclosure Requirement S1-4 – Taking action on material impacts on own workforce, and approaches to
+mitigating material risks and pursuing material opportunities related to own workforce, and effectiveness of
+those actions
+Metrics and targets
+— Disclosure Requirement S1-5 – Targets related to managing material negative impacts, advancing positive
+impacts, and managing material risks and opportunities
+— Disclosure Requirement S1-6 – Characteristics of the undertaking’s employees
+— Disclosure Requirement S1-7 – Characteristics of non-employee workers in the undertaking’s own
+workforce
+— Disclosure Requirement S1-8 – Collective bargaining coverage and social dialogue
+— Disclosure Requirement S1-9 – Diversity metrics
+— Disclosure Requirement S1-10 – Adequate wages
+— Disclosure Requirement S1-11 – Social protection
+— Disclosure Requirement S1-12– Persons with disabilities
+— Disclosure Requirement S1-13 – Training and skills development metrics
+— Disclosure Requirement S1-14 – Health and safety metrics
+— Disclosure Requirement S1-15 – Work-life balance metrics
+— Disclosure Requirement S1-16 – Compensation metrics (pay gap and total compensation)
+— Disclosure Requirement S1-17 – Incidents, complaints and severe human rights impacts
+Appendix A: Application Requirements
+– Objective
+– ESRS 2 General Disclosures
+Strategy
+— Disclosure Requirement related to ESRS 2 SBM-2 – Interests and views of stakeholders
+— Disclosure Requirement related to ESRS 2 SBM-3 – Material impacts, risks and opportunities and their
+interaction of with strategy and business modelOJ L, 22.12.2023 EN  
+
+--- Page 165 of 284 ---

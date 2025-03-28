@@ -1,0 +1,48 @@
+File Name: 1_2022-12-14_RL_2022_2464_CSRD_EU.pdf
+Converted on: 2025-03-28 03:20:33
+Original Size: 1.12 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 26 of 140
+--------------------------------------------------------------------------------
+
+the definition of the term ‘sustainability factors’ laid down in Regulation (EU) 2019/2088 does not explicitly include
+governance matters. The definit ion of the term ‘sustainability matte rs’ in Directive 2013/34/EU as amended by this
+amending Directive should theref ore cover envi ronmental, social and human rights, and governance factors, and
+incor porate the definition of the term ‘sustainability factors’ laid down in Regulation (EU) 2019/2088. The
+repor ting requirements of Directive 2013/34/EU should be without prejudice to national repor ting obligations.
+(29) Article 19a(1) and Article 29a(1) of Directive 2013/34/EU require repor ting not only on information to the extent
+necessar y for an understanding of the under taking’s development, performa nce and position, but also on
+information necessar y for an understanding of the impact of the under taking’s activities on environmental, social
+and employee matt ers, respect for human rights, anti-cor rupti on and briber y matters. Those Articles theref ore
+require under takings to repor t both on the impa cts of the activities of the under taking on people and the
+environment, and on how sustainability matt ers affect the under taking. That is refer red to as the double mat eriality
+perspective, in which the risks to the under taking and the impacts of the under taking each represent one mater iality
+perspective. The fitness check on corporate repor ting shows that those two perspectives are often not well
+underst ood or applied. It is theref ore necessar y to clarify that under takings should consider each mat eriality
+perspective in its own right, and should disclose information that is mate rial from both perspectives as well as
+information that is mate rial from only one perspective.
+(30) Article 19a(1) and Article 29a(1) of Directive 2013/34/EU require under takings to disclose information about five
+repor ting areas: business model; policies, including due dilig ence processes implement ed; the outcome of those
+policies; risks and risk manag ement ; and key performa nce indicator s relevant to the business. Article 19a(1) of
+Directive 2013/34/EU does not contain explicit references to other repor ting areas that users of information
+consider relevant, some of which align with disclosures included in internatio nal framew orks, including the
+recommendations of the Task Force on Climate-relat ed Financial Disclosures. Disclosure requirements should be
+specifi ed in sufficient detail to ensure that under takings repor t information on their resilience in relation to risks
+relat ed to sustainability matt ers. In addition to the repor ting areas identif ied in Article 19a(1) and Article 29a(1) of
+Directive 2013/34/EU, under takings should be required to disclose information about their business strategy and
+the resilience of the business model and strateg y in relation to risks related to sustainability matt ers. They should
+also be required to disclose any plans they may have to ensure that their business model and strategy are compati ble
+with the transition to a sustainable econom y and with the objectives of limiting global warming to 1,5 °C in line with
+the Paris Agreement and achi eving climate neutrality by 2050, as established in Regulation (EU) 2021/1119, with no
+or limited overshoot.
+It is especially important that plans relat ed to the climat e be based on the latest science, including Intergo vernmental
+Panel on Climate Change (IPCC) repor ts and repor ts by the European Scientifi c Advisor y Board on Climate Change.
+Information disclosed in accordance with Article 8 of Regulation (EU) 2020/852 about the amount of capital
+expenditure (CapEx) or operating expenditure (OpEx) associated with taxonomy-al igned activities could suppor t
+financial and inve stment plans related to such plans where appropr iate. Under takings should also be required to
+disclose whether and how their business model and strateg y take account of the interests of stakeholders; any
+oppor tunities for the under taking arising from sustainability matters; the implementation of the aspects of the
+business strategy which affect, or are affected by, sustainability matt ers; any sustainability targe ts set by the

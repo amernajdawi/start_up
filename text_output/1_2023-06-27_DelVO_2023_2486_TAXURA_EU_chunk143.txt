@@ -1,0 +1,50 @@
+File Name: 1_2023-06-27_DelVO_2023_2486_TAXURA_EU.pdf
+Converted on: 2025-03-28 03:20:36
+Original Size: 8.44 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 143 of 199
+--------------------------------------------------------------------------------
+
+--- Page 103 of 164 ---
+
+ELI: http://data.europa.eu/eli/reg_del/2023/2486/oj 103/164The tracking system in place in the installations based on the best practices referred to above allows the monitoring of:
+(a) the effective separation of each part of a product or waste such as waste equipment, containing or contaminated with
+POP above the levels defined in Annex IV to Regulation (EU) 2019/1021;
+(b) the effective destruction or irreversible transformation of the POP waste in compliance with Articles 7(2) – 7(4) and
+Annex V to Regulation (EU) 2019/1021.
+6.For the treatment of mercury-containing waste (54), all installations likely to treat waste consisting of, containing or
+contaminated with mercury or mercury compounds (as defined in Article 11 of the Minamata Convention), implement
+the traceability system set out in Article 14 of Regulation (EU) 2017/852 or a similar traceability system. Based on this
+tracking system, the installations treating mercury-containing waste monitor the effective safe fate of mercury and
+mercury compounds in appropriate final destination.
+7.For the (non-combustion) treatment of healthcare waste, the installation implements the best practices set out in the
+WHO handbook on safe management of wastes from healthcare activities (55).
+A non-combustion healthcare waste installation has specific acceptance procedure, monitors and can prove that the
+following types of healthcare waste are not accepted for treatment:
+(a) cytotoxic waste;
+(b) pharmaceutical waste;
+(c) chemical waste;
+(d) radioactive waste.
+The technologies used are certified by an independent certification body.
+Do no significant harm (‘DNSH’)
+(1) Climate change mitigation N/A
+(2) Climate change adaptation The activity complies with the criteria set out in Appendix A to this Annex.
+(3) Sustainable use and protec ­
+tion of water and marine
+resourcesThe activity complies with the criteria set out in Appendix B to this Annex.
+Relevant techniques are deployed for the protection of water and marine resources, as set
+out in the best available techniques (BAT) conclusions for waste treatment (56).
+(4) Transition to a circular
+economyN/A
+(6) Protection and restoration
+of biodiversity and ecosys ­
+temsThe activity complies with the criteria set out in Appendix D to this Annex.
+(54)Mercury-containing waste means waste consisting of, containing or contaminated with mercury or mercury compounds.
+(55)WHO, Safe management of wastes from health-care activities, 2nd edition, 2014 (version of 27.6.2023 available at: https://www.euro.
+who.int/__data/assets/pdf_file/0012/268779/Safe-management-of-wastes-from-health-care-activities-Eng.pdf).
+(56)Implementing Decision (EU) 2018/1147.OJ L, 21.11.2023 EN  
+
+--- Page 104 of 164 ---

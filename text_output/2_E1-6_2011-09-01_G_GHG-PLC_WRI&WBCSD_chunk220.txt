@@ -1,0 +1,96 @@
+File Name: 2_E1-6_2011-09-01_G_GHG-PLC_WRI&WBCSD.pdf
+Converted on: 2025-03-28 03:18:25
+Original Size: 3.27 MB
+Chunk Size: 500 tokens with 50 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 220 of 226
+--------------------------------------------------------------------------------
+
+--- Page 144 of 148 ---
+
+[142]   Product Life Cycle Accounting and Reporting Standard
+Evan Andrews, Sylvatica
+Pascal Lesage, Sylvatica/CIRAIG
+Wilhelm Wang, Transreg, LLC
+Henry King, Unilever
+Sarah Sim, Unilever
+Bhawan Singh, Université de Montréal
+David Guernsey, United Parcel Service
+John Kimball, United States Department of Energy
+Vince Camobreco, United States Environmental
+Protection AgencyVerena Radulovic, United States Environmental
+Protection Agency
+Kathleen Vokes, United States Environmental  
+Protection Agency
+Sarah Froman, United States Environmental  
+Protection Agency
+Wayne Wnuck, United Technologies Corporation
+Sangwon Suh, University of California Santa Barbara
+Craig Liska, Verso Paper
+Jeffrey Rice, Walmart Stores, Inc.
+Contributors
+Stefanie Giese-Bogdan, 3M
+Sam Lin, Acer
+Fiona van den Brink, AkzoNobel
+Marc Luijten, AkzoNobel
+Sara Tollin, AkzoNobel
+Johan Widheden, AkzoNobel
+Paola Kistler, Alcan
+Tony Christopher, Alcoa
+Casey Wagner, Alcoa
+Fabio Peyer, Amcor Ltd.
+Gerald Rebitzer, Amcor Ltd.
+Caterina A. Conti, Anvil Knitwear
+Arturo Cepeda, Artequim
+Shuichiro Sugimoto, Asahi Glass Co., Ltd.
+Hiroo Takahashi, Asahi Glass Co., Ltd.
+Tao Liu, Baosteel Group Corporation
+Yinghao Liu, Baosteel Group Corporation
+Hongzhi Shi, Baosteel Group Corporation
+Giuliana Angonoa-Doehnert, BASF
+Nicola Paczkowski, BASF
+Anthony Edwards, Belkin International, Inc.
+Gregory LeMay, Beverage Industry  
+Environmental Roundtable
+Hans Blonk, Blonk Milieu Advies
+Lee Ballin, Bloomberg LP
+Gabrielle Ginér, BT plc
+Glyn Stacey, BT Group plc
+Ryan Schuchard, Business for Social Responsibility
+Annalisa Schilla, California Air Resources Board
+Ian Lipton, The Carbon Accounting Company
+James Leaton, Carbon Tracker InitiativePatricia Ludewig, Caterpillar
+Claude Loréa, CEMBUREAU
+Thomas Wiedmann, Centre for Sustainability Accounting Ltd.
+Meg Crawford, CERES
+Jianhua Chen, China National Institute of Standardization
+Liang Chen, China National Institute of Standardization
+Mei Liu, China National Institute of Standardization
+Corinne Reich-Weiser, Climate Earth
+Christopher Gleadle, The CMG Consultancy
+Christoph Meinrenken, Columbia University
+Tony Siantonas, dcarbon8 Ltd.
+Steven Moore, Deloitte Touche Tohmatsu Limited
+Björn Hannappel, Deutsche Post DHL
+Klaus Hufschlag, Deutsche Post DHL
+Markus Igel, Deutsche Post DHL
+Mathis Lapenküpper, Deutsche Post DHL
+Patric Pütz, Deutsche Post DHL
+Stephan Schlabinski, Deutsche Post DHL
+Hans-Jürgen Gerhardy, Deutsche Telekom AG
+Reiner Lemke, Deutsche Telekom AG
+Michael Zalan, Deutsche Telekom AG
+Daniel A. Daggett, Diversey
+Carina Alles, DuPont
+Dawn Rittenhouse, DuPont
+Susanne Veith, DuPont
+Bo Weidema, Ecoinvent
+Matt Molinaro, Ecolab, Inc.
+Ali Rivers, Ecometrica
+Marc Zanter, Edelweiss
+Nigel Carter, En-Venture
+Lixiao Hu, Energy Systems International Product Standard Technical Working Group Members (continued)
+
+--- Page 145 of 148 ---

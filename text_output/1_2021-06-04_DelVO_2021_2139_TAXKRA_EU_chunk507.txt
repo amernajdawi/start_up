@@ -1,0 +1,18 @@
+File Name: 1_2021-06-04_DelVO_2021_2139_TAXKRA_EU.pdf
+Converted on: 2025-03-28 03:18:03
+Original Size: 2.76 MB
+Chunk Size: 500 tokens with 50 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 507 of 966
+--------------------------------------------------------------------------------
+
+of the activity, including, at least, 10 to 30 year climate projections scenarios for major investments.  
+_____________
+( 115  ) ISO standard 14067:2018, Greenhouse gases — Carbon footprint of products — Requirements and guidelines for quantification 
+(https://www.iso.org/standard/71206.html).
+( 116  ) ISO standard 14064-1:2018, Greenhouse gases — Part 1: Specification with guidance at the organization level for quantificatio n 
+and reporting of greenhouse gas emissions and removals (version of 4.6.2021: https://www.iso.org/standard/66453.html).
+( 117  ) Future scenarios include Intergovernmental Panel on Climate Change representative concentration pathways RCP2.6, RCP4.5, 
+RCP6.0 and RCP8.5.EN  L 442/188 Official Journal of the European Union 9.12.2021

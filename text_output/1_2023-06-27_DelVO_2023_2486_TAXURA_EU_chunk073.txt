@@ -1,0 +1,18 @@
+File Name: 1_2023-06-27_DelVO_2023_2486_TAXURA_EU.pdf
+Converted on: 2025-03-28 03:20:36
+Original Size: 8.44 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 73 of 199
+--------------------------------------------------------------------------------
+
+in accordance with EN 15978 (BS EN 15978:2011). The scope of building elements and technical equipment is as defined in the Level(s) common EU framework for indicator 1.2. Following the Level(s) indicator 1.2 reporting format, the indicator is communicated as GWP fossil, GWP biogenic, GWP land use and land use change, as well as the sum of these (GWP overall). Where a
+national calculation tool exists or is required for making disclosures or for obtaining building permits, the respective tool may be
+used to provide the required disclosure. Other calculation tools may be used if they fulfil the minimum criteria laid down by the Level(s) common EU framework, see Level(s) indicator 1.2: Lifecycle Global Warming Potential (GWP), user manual: introductory briefing, instructions and guidance (Publication version 1.1), https://susproc.jrc.ec.europa.eu/product-bureau/sites/default/files/2021-
+01/UM3_Indicator_1.2_v1.1_37pp.pdf.
+(80)See Level(s) indicator 2.3: Design for adaptability and renovation, user manual: introductory briefing, instruction and guidance
+(Publication version 1.1), https://susproc.jrc.ec.europa.eu/product-bureau//sites/default/files/2021-01/
+UM3_Indicator_2.3_v1.1_23pp.pdf.
+(81)See Level(s) indicator 2.4: Design for deconstruction user manual: introductory briefing, instructions and guidance (Publication version 1.1), https://susproc.jrc.ec.europa.eu/product-bureau/sites/default/files/2021-01/UM3_Indicator_2.4_v1.1_18pp.pdf.OJ L, 21.11.2023 EN

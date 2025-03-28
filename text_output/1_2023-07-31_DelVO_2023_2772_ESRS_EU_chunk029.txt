@@ -1,0 +1,56 @@
+File Name: 1_2023-07-31_DelVO_2023_2772_ESRS_EU.pdf
+Converted on: 2025-03-28 03:20:41
+Original Size: 5.82 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 29 of 284
+--------------------------------------------------------------------------------
+
+ELI: http://data.europa.eu/eli/reg_del/2023/2772/oj 26/284Assessment of financial materiality
+AR 13. The following are examples of how impacts and dependencies are sources of risks or opportunities:
+(a) when the undertaking’s business model depends on a natural resource – for example water – it is likely to be
+affected by changes in the quality, availability and pricing of that resource;
+(b) when the undertaking’s activities result in negative impacts, e.g., on local communities, the activities could
+become subject to stricter government regulation and/or the impact could trigger consequences of a
+reputational nature. These might have negative effects on the undertaking’s brand and higher recruitment
+costs might arise; and
+(c) when the undertaking’s business partners face material sustainability-related risks, the undertaking could be
+exposed to related consequences as well.
+AR 14. The identification of risks and opportunities that affect or could reasonably be expected to affect the undertaking’s
+financial position, financial performance, cash flows, access to finance or cost of capital over the short-, medium-
+or long-term is the starting point for financial materiality assessment. In this context, the undertaking shall
+consider:
+(a) the existence of dependencies on natural and social resources as sources of financial effects (see paragraph 50);
+(b) their classification as sources of:
+i.risks (contributing to negative deviation in future expected cash inflows or increase in deviation in future
+expected cash outflows and/or negative deviation from an expected change in capitals not recognised in
+the financial statements); or
+ii.opportunities (contributing to positive deviation in future expected cash inflows or decrease in deviation in
+future cash outflows and/or positive deviation from expected change in capitals not recognised in financial
+statements).
+AR 15. Once the undertaking has identified its risks and opportunities, it shall determine which of them are material for
+reporting. This shall be based on a combination of (i) the likelihood of occurrence and (ii) the potential magnitude
+of financial effects determined on the basis of appropriate thresholds. In this step it shall consider the
+contribution of those risks and opportunities to financial effects in the short-, medium- and long-term based on:
+(a) scenarios/forecasts that are deemed likely to materialise; and
+(b) potential financial effects related to sustainability matters deriving either from situations with a below the
+“more likely than not” threshold or assets/liabilities not, or not yet, reflected in financial statements. This includes:
+i. potential situations that following the occurrence of future events may affect cash flow generation
+potential;
+ii. capitals that are not recognised as assets from an accounting and financial reporting perspective but have a
+significant influence on financial performance, such as natural, intellectual (organisational), human, social
+and relationship capitals; and
+iii. possible future events that may have an influence on the evolution of such capitals.
+Sustainability matters to be included in the materiality assessment
+AR 16. When performing its materiality assessment, the undertaking shall consider the following list of sustainability
+matters covered in the topical ESRS. When, as a result of the undertaking’s materiality assessment (see ESRS 2
+IRO-1), a given sustainability matter in this list is assessed to be material, the undertaking shall report according
+to the corresponding Disclosure Requirements of the relevant topical ESRS. Using this list is not a substitute for
+the process of determining material matters. This list is a tool to support the undertaking’s materiality assessment.
+The undertaking still needs to consider its own specific circumstances when determining its material matters. The
+undertaking, where necessary, also shall develop entity-specific disclosures on material impacts, risks and
+opportunities not covered by ESRS as described in paragraph 11 of this Standard.OJ L, 22.12.2023 EN  
+
+--- Page 27 of 284 ---

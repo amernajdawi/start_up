@@ -1,0 +1,40 @@
+File Name: 2_E1-6_2004-03_G_GHG-Prot_WRI&WBCSD.pdf
+Converted on: 2025-03-28 03:20:43
+Original Size: 3.51 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 83 of 104
+--------------------------------------------------------------------------------
+
+included in the analysis, which are not, and the
+rationale for the selections. Until consensus methodsare developed for characterizing impacts onsequestered atmospheric carbon along the value chain,this information can be included in the “optionalinformation” section of a GHG inventory compiledusing the
+GHG Protocol Corporate Standard.
+TRACKING REMOVALS OVER TIME
+As is sometimes the case with accounting for GHG emis-sions, base year data for impacts on sequestered carbonmay need to be averaged over multiple years to accom-modate the year-to-year variability expected of thesesystems. The temporal scale used in sequestered carbonaccounting will often be closely tied to the spatial scaleover which the accounting is done. The question of howto recalculate base years to account for land acquisitionand divestment, land use changes, and other activitiesalso needs to be addressed.
+IDENTIFYING AND CALCULATING GHG REMOVALS
+The GHG Protocol Corporate Standard does not include
+consensus methods for sequestered carbon quantifica-tion. Companies should, therefore, explain the methodsused. In some instances, quantification methods usedin national inventories can be adapted for corporate-level quantification of sequestered carbon. IPCC(1997; 2000b) provides useful information on how todo this.  In 2004, IPCC is expected to issue GoodPractice Guidance for Land Use, Land Use Changeand Forestry, with information on methods for quan-tification of sequestered carbon in forests and forestproducts.  Companies may also find it useful to consultthe methods used to prepare national inventories forthose countries where significant parts of theircompany’s value chain reside. 
+In addition, although corporate inventory accounting
+differs from project-based accounting (as discussedbelow), it may be possible to use some of the calculationand monitoring methods derived from project levelaccounting of sequestration projects.
+ACCOUNTING FOR REMOVAL ENHANCEMENTS
+A corporate inventory can be used to account for yearlyremovals within the corporate inventory boundary. In contrast, the forthcoming
+GHG Protocol Project Quantification Standard is designed to calculate project
+reductions that will be used as offsets, relative to a hypo-
+thetical baseline scenario for what would have happenedwithout the project. In the forestry sector, projects take theform of removal enhancements.
+Chapter 8 in this document addresses some of the issues
+that must be addressed when accounting for offsetsfrom GHG reduction projects. Much of this guidance isalso applicable to removal enhancement projects. One
+example is the issue of reversibility of removals — also
+briefly described in chapter 8.
+REPORTING GHG REMOVALS
+Until consensus methods are developed for character-
+izing impacts on sequestered atmospheric carbon alongthe value chain, this information can be included in the “optional information” section of the inventory (Seechapter 9). Information on sequestered carbon in thecompany’s inventory boundary should be kept separatefrom project-based reductions at sources that are not inthe inventory boundary. Where removal enhancementprojects take place within a company’s inventoryboundary they would normally show up as an increase incarbon removals over time, but can also be reported inoptional information. However, they should also be iden-tified separately to ensure that they are not doublecounted. This is especially important when they are soldas offsets or credits to a third party.
+As companies develop experience using various
+methods for characterizing impacts on sequesteredcarbon, more information will become available on thelevel of accuracy to expect from these methods. In theearly stages of developing this experience, however,companies may find it difficult to assess the uncer-tainty associated with the estimates and therefore mayneed to give special care to how the estimates arerepresented to stakeholders. 89 APPENDIX B
+NOTES
+1In this Appendix, “value chain” means a series of operations and
+entities, starting with the forest and extending through end-of-lifemanagement, that (a) supply or add value to raw materials and inter-mediate products to produce final products for the marketplace and (b)are involved in the use and end-of-life management of these products.
+2In this Appendix the term “sequestered atmospheric carbon” refersexclusively to sequestration by biological sinks.
+
+--- Page 92 of 116 ---

@@ -1,0 +1,50 @@
+File Name: 1_2023-07-31_DelVO_2023_2772_ESRS_EU.pdf
+Converted on: 2025-03-28 03:18:14
+Original Size: 5.82 MB
+Chunk Size: 500 tokens with 50 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 474 of 686
+--------------------------------------------------------------------------------
+
+ELI: http://data.europa.eu/eli/reg_del/2023/2772/oj 199/284Appendix A.2
+Application Requirements for ESRS S1-1 Policies related to own workforce
+This appendix is an integral part of the ESRS S1 Own workforce and has the same authority as the other parts of this
+Standard. It supports the application of the requirements for Disclosure Requirement ESRS S1-1 for social and human
+rights matters with examples of disclosures.
+Social and human rights matters Examples of policies:
+Secure employment No-layoff policy, limits on renewing temporary contracts, employer
+provision of social protection where state provision is lacking
+Working time Limitations on overtime, long and split shifts, and night and weekend work,
+adequate scheduling of lead times
+Adequate wages Policy to ensure all people in own workforce receive an adequate wage
+Social dialogue / existence of work
+councils / information, consultation and
+participation rights of workersPolicy to encourage institutions for social dialogue, regular information and
+consultation with worker representatives, consultation before final decisions
+on employment-related issues are reached
+Freedom of association/Collective
+bargaining including the rate of workers
+covered by collective agreementsNon-interference in trade union formation and recruitment (including trade
+union access to undertakings), bargaining in good faith, adequate time off
+for workers’ representatives to carry out their duties, facilities and dismissal
+protection for workers' representatives, no discrimination of trade union
+members and workers' representatives
+Work-life balance Provision of family leave, flexible working time, access to day care facilities
+for all employees
+Health and safety Coverage of all own workforce in H&S management system
+Gender equality and equal work for equal payPolicy for gender equality and equal pay for equal work
+Training and skills development Policy for enhancing skills and career prospects for employees
+The employment and inclusion of people
+with disabilitiesPolicy for making workplaces accessible to persons with disabilities
+Measures against violence and harassment
+in the workplaceZero tolerance policy for violence and harassment at workplace
+Diversity Policy for inclusiveness (i.e., ethnic diversity or minority groups) and
+positive action.
+Child labour Policy for identifying where child labour occurs, identifying where exposure
+of young workers to hazardous work occurs and preventing risk of exposure
+Forced labour Policy for identifying where forced labour occurs and reducing risk of forced
+labourOJ L, 22.12.2023 EN  
+
+--- Page 200 of 284 ---

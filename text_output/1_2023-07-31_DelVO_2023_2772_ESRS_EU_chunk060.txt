@@ -1,0 +1,50 @@
+File Name: 1_2023-07-31_DelVO_2023_2772_ESRS_EU.pdf
+Converted on: 2025-03-28 03:20:41
+Original Size: 5.82 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 60 of 284
+--------------------------------------------------------------------------------
+
+ELI: http://data.europa.eu/eli/reg_del/2023/2772/oj 60/284AR 18. This disclosure may be expressed in terms of a single impact, risk or opportunity or by aggregating groups of
+material impacts, risks and opportunities, when this provides more relevant information and does not obscure
+material information.
+4. Impact, risk and opportunity management
+Disclosure Requirement IRO-2 – Disclosure Requirements in ESRS covered by the undertaking’s sustainability
+statement
+AR 19. Notwithstanding the basis for the presentation of the information about sustainability matters included in ESRS 1
+chapter 8 Structure of sustainability statement, the undertaking may disclose the list of the Disclosure Requirements
+complied with in preparing the sustainability statement (see paragraph 54) in the general information part or in
+other parts of the sustainability statement as it deems appropriate. The undertaking may use a content index, i.e.,
+a tabular list of the Disclosure Requirements included in the sustainability statement, with the indication of where
+they are located (page/paragraphs).
+Minimum Disclosure Requirement – Policies MDR-P – Policies adopted to manage material sustainability matters
+AR 20. Due to the interdependency between impacts on people and the environment, risks and opportunities, a single
+policy may apply to several material sustainability matters, including matters addressed by more than one topical
+ESRS. For example, if a single policy covers both an environmental matter and a social matter, the undertaking may
+report on the policy in the environmental section of its sustainability statement. In this case, it should include in
+the social section a cross-reference to the environmental section where the policy is reported. Equally a policy may
+be reported in the social section with a cross-reference to it in the environmental section.
+AR 21. The description of the scope of the policy may explain which activities and/or segments of the undertaking’s own
+operations or upstream and downstream value chain it concerns. The description may also explain further
+boundaries relevant to the specific topic or the undertaking’s circumstances, which may include geographies, life
+cycles, etc. In certain cases, such as if the policy does not cover the full value chain, the undertaking may provide
+clear information regarding the extent of the value chain covered by the policy.
+Minimum disclosure requirement – Actions MDR-A – Actions and resources in relation to material sustainability
+matters
+AR 22. Key actions in the context of this Minimum Disclosure Requirement are those actions that materially contribute
+to achieving the undertaking’s objectives in addressing material impacts, risks and opportunities. For reasons of
+understandability, key actions may be aggregated where appropriate.
+AR 23. Information on resource allocation may be presented in the form of a table and broken down between capital
+expenditure and operating expenditure, and across the relevant time horizons, and between resources applied in
+the current reporting year and the planned allocation of resources over specific time horizons.
+5. Metrics and targets
+Minimum Disclosure Requirement – Targets MDR-T – Tracking effectiveness of policies and actions through targets
+AR 24. When disclosing targets related to the prevention or mitigation of environmental impacts, the undertaking shall
+prioritise targets related to the reduction of the impacts in absolute terms rather than in relative terms. When
+targets address the prevention or mitigation of social impacts, they may be specified in terms of the effects on
+human rights, welfare or positive outcomes for affected stakeholders.OJ L, 22.12.2023 EN  
+
+--- Page 61 of 284 ---

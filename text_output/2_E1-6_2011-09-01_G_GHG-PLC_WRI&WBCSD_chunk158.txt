@@ -1,0 +1,48 @@
+File Name: 2_E1-6_2011-09-01_G_GHG-PLC_WRI&WBCSD.pdf
+Converted on: 2025-03-28 03:18:25
+Original Size: 3.27 MB
+Chunk Size: 500 tokens with 50 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 158 of 226
+--------------------------------------------------------------------------------
+
+[103]CHAPTER 13 Reporting
+requirementsAssurance
+The assurance statement including:
+• Whether the assurance was performed
+by	a	first	or	third	party; 	
+• Level of assurance achieved (limited or
+reasonable) and assurance opinion or the
+critical review findings;
+•A summary of the assurance process;
+• The relevant competencies of the
+assurance providers; and
+ •  An explanation of how any potential 
+conflicts	of	interest	were	avoided	for 	
+first party assurance.
+Setting reduction targets and tracking
+inventory changes
+Companies that report a reduction target
+and/or track performance over time shall
+report the following:
+• The base inventory and current inventory
+results in the updated inventory report;
+• The reduction target, if established;
+• Changes made to the inventory, if the
+base inventory was recalculated;
+• The threshold used to determine when
+recalculation is needed;
+• Appropriate context identifying and
+describing	significant	changes	that 	
+trigger base inventory recalculation;
+• The change in inventory results as a
+percentage change over time between
+the two inventories on the unit of
+analysis basis; and
+ • An explanation of the steps taken  
+to reduce emissions based on the
+inventory results.
+
+--- Page 106 of 148 ---

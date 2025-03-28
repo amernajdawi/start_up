@@ -1,0 +1,91 @@
+File Name: 2_E1-6_2011-09-01_G_GHG-PLC_WRI&WBCSD.pdf
+Converted on: 2025-03-28 03:20:53
+Original Size: 3.27 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 23 of 116
+--------------------------------------------------------------------------------
+
+[31]
+guidance
+CHAPTER 06 Establishing the Scope of a Product Inventory
+In some cases, a company produces one product in
+multiple varieties (e.g., different flavors or colors). When
+the variation does not have an impact on GHG inventory
+results (chapter 11), companies may define the functional
+unit broadly enough so that the GHG inventory report
+is applicable to all product variations. If the functional
+unit and subsequent inventory results are applicable to
+several product variations, this should be noted in the
+inventory report.
+6.3.3			Defining	the	unit	of	analysis	for	
+intermediate products
+Intermediate products are used as inputs into final
+products, and the company performing the GHG
+inventory on an intermediate product may or may not
+know the function of the final product. For example, a
+steel bar has many uses and therefore the specific end
+use may be unknown to a steel producing company. On
+the other hand, a producer of a specialized intermediate
+product that is manufactured for a specific use will likely
+know the function of the final product. When the function
+of the final product is known, companies should define
+the unit of analysis as a functional unit.
+For intermediate products where the function of the final
+product is unknown, the unit of analysis is the reference
+flow. A general rule of thumb when defining a reference
+flow without a functional unit is to use a value that provides meaningful GHG inventory results. This could
+be a single product or the amount or weight of a typical
+shipment of product (for example, a box of 50 units or
+a slab of 100 kilograms) depending on the size of the
+product and the relative GHG emissions and removals
+associated with its acquisition and production.
+6.3.4	 Defining	the	unit	of	analysis	for	services
+Defining the unit of analysis for a service should follow the
+same general procedure outlined in this chapter. As with
+a good, the magnitude, duration, and quality parameters
+may be based on sector or product rules, industry average
+data, or a company-specific reference flow. For example, a
+home insurance company may define their functional unit
+as the provision of premium home insurance coverage for
+one year. The magnitude and quality of the insurance is
+specific to the definition of “premium.”
+Endnotes
+1 The product inventory scope is different from the concept of
+scopes as used in the Corporate and Scope 3 Standards .
+2 A full list of long-lived GHGs is available in table 2.14 of the IPCC
+Fourth Assessment Report, 2007.
+3  Whether the studied product is produced, distributed, or sold 
+by the reporting company depends on the company’s position in
+the product’s life cycle. For example, a manufacturing company
+screens products they produce, while a retail company screens
+products they buy and sell. More guidance is available in chapter 7.
+
+--- Page 34 of 148 ---
+
+07Boundary Setting
+
+--- Page 35 of 148 ---
+
+guidance[33]
+guidance7.1 Introduction
+The next step in the inventory process is to define the boundary. The boundary identifies
+which emissions and removals are included in the GHG inventory. During boundary
+setting, companies should complete the following steps:
+•Identify the attributable processes along the life cycle that are directly connected to
+the studied product and its ability to perform its function
+•Group the attributable processes into life cycle stages
+•Identify the service, material, and energy flows needed for each attributable process
+•Illustrate the product’s life cycle processes through a process map
+The following sections include requirements and guidance to help companies define the boundary of the inventory.
+7.2 Requirements
+The boundary of the product GHG inventory
+shall include all attributable processes.
+An inventory consists of service, material, and energy
+flows that become the product, make the product, and
+carry the product through its life cycle. These are defined
+as attributable processes. Examples include the studied
+product’s components and packaging, processes that
+create the product, materials used to improve its quality

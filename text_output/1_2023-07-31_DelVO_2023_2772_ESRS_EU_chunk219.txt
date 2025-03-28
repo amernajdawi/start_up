@@ -1,0 +1,53 @@
+File Name: 1_2023-07-31_DelVO_2023_2772_ESRS_EU.pdf
+Converted on: 2025-03-28 03:20:41
+Original Size: 5.82 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 219 of 284
+--------------------------------------------------------------------------------
+
+ELI: http://data.europa.eu/eli/reg_del/2023/2772/oj 220/28410. In describing the main types of communities who are or could be negatively affected, based on the materiality
+assessment set out in Disclosure Requirement ESRS 2 IRO-1
+, the undertaking shall disclose whether and how it has
+developed an understanding of how affected communities with particular characteristics or those living in particular
+contexts, or those undertaking particular activities may be at greater risk of harm.
+11. The undertaking shall disclose which, if any, of its material risks and opportunities arising from impacts and
+dependencies on affected communities relate to specific groups of affected communities rather than to all affected
+communities.
+Impact, risk and opportunity management
+Disclosure Requirement S3-1 – Policies related to affected communities
+12. The undertaking shall describe its policies adopted to manage its material impacts on affected communities,
+as well as associated material risks and opportunities.
+13. The objective of this Disclosure Requirement is to enable an understanding of the extent to which the undertaking has policies that address the identification, assessment, management and/or remediation of material impacts on
+affected communities specifically, as well as policies that cover material risks or opportunities related to affected
+communities.
+14. The disclosure required by paragraph 12 shall contain the information on the undertaking’s policies to manage its material impacts, risks and opportunities related to affected communities in accordance with ESRS 2 MDR-P Policies
+adopted to manage material sustainability matters. In addition, the undertaking shall specify if such policies cover specific affected communities or all affected communities.
+15. The undertaking shall disclose any particular policy provisions for preventing and addressing impacts on indigenous
+peoples.
+16. The undertaking shall describe its human rights policy commitments (
+112)that are relevant to affected communities,
+including those processes and mechanisms to monitor compliance with the UN Guiding Principles on Business and
+Human Rights, ILO Declaration on Fundamental Principles and Rights at Work or OECD Guidelines for
+Multinational Enterprises. In its disclosure it shall focus on those matters that are material in relation to (113), as well
+as its general approach to:
+(a) respect for the human rights of communities, and indigenous peoples specifically;
+(b) engagement with affected communities; and
+(c) measures to provide and/or enable remedy for human rights impacts.
+17. The undertaking shall disclose whether and how its policies with regard to affected communities are aligned with
+internationally recognised standards relevant to communities and indigenous peoples specifically, including the
+United Nations (UN) Guiding Principles on Business and Human Rights. The undertaking shall also disclose the
+extent to which cases of non-respect of the UN Guiding Principles on Business and Human Rights, ILO Declaration
+(112)This information supports the information needs of financial market participants subject to Regulation (EU) 2019/2088 because it is
+derived from an additional indicator related to principal adverse impacts as set out by indicator #9 in Table III of Annex I of
+Commission Delegated Regulation (EU) 2022/1288 with regard to disclosure rules on sustainable investments (“Lack of a human
+rights policy”).
+(113)This information supports the information needs of financial market participants subject to Regulation (EU) 2019/2088 because it is
+derived from a mandatory indicator related to principal adverse impacts as set out by indicator #11 in Table I of Annex I of
+Commission Delegated Regulation (EU) 2022/1288 with regard to disclosure rules on sustainable investments (“Lack of processes
+and compliance mechanisms to monitor compliance with UN Global Compact principles and OECD Guidelines for Multinational
+Enterprises”).OJ L, 22.12.2023 EN  
+
+--- Page 221 of 284 ---

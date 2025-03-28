@@ -1,0 +1,22 @@
+File Name: 1_2021-06-04_DelVO_2021_2139_TAXKRA_EU.pdf
+Converted on: 2025-03-28 03:20:30
+Original Size: 2.76 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 30 of 447
+--------------------------------------------------------------------------------
+
+3.3. Manufacture of low carbon technologies for transport . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  . . . . . . 42  
+3.4. Manufacture of batteries . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  . . . . . . . . . . . . . . . 45  
+3.5. Manufacture of energy efficiency equipment for buildings . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  . . . . . . 46  
+3.6. Manufacture of other low carbon technologies . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  . . . . . . . . 48  
+3.7. Manufacture of cement . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 49  
+3.8. Manufacture of aluminium . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  . . . . . . . . . . . . . 50  
+3.9. Manufacture of iron and steel . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 51  
+3.10. Manufacture of hydrogen . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  . . . . . . . . . . . . . . 53  
+3.11. Manufacture of carbon black . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  . . . . . . . . . . . . . 54  
+3.12. Manufacture of soda ash . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  . . . . . . . . . . . . . . 55  
+3.13. Manufacture of chlorine . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  . . . . . . . . . . . . . . . 56  
+3.14. Manufacture of organic basic chemicals . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 57

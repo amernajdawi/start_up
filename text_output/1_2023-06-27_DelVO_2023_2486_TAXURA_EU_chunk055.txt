@@ -1,0 +1,51 @@
+File Name: 1_2023-06-27_DelVO_2023_2486_TAXURA_EU.pdf
+Converted on: 2025-03-28 03:20:36
+Original Size: 8.44 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 55 of 199
+--------------------------------------------------------------------------------
+
+ELI: http://data.europa.eu/eli/reg_del/2023/2486/oj 36/1642.6.4. The hazardous substances specified in table below are not introduced to or formed in the specified sub-assemblies
+and component parts at or above the specified concentration limit.
+Substance group Scope of restriction Concentration limits (where applicable)
+(i)Polymer stabilisers,
+colourants and con ­
+taminantThe following organotin stabiliser compounds are not present in external cables:
+Dibutyltin oxide
+Dibutyltin diacetate
+Dibutyltin dilaurate
+Dibutyltin maleateDioctyl tin oxideDioctyl tin dilaurate
+External housing do not contain the following col ­
+ourants: Azo dyes that may cleave to the carcino ­
+genic aryl amines listed in Appendix 8 of the Reg ­
+ulation (EC) No 1907/2006, or Colourant
+compounds included in the IEC 62474 declarable
+substances list.N/A
+(ii) Polymer stabilisers,
+colourants and con ­
+taminantPolycyclic Aromatic Hydrocarbons (PAHs) are not present at concentrations greater than or equal to
+individual and sum total concentration limits in
+any external plastic or man-made rubber surfaces.
+The presence and concentration of the following
+PAHs is verified:
+PAHs restricted by the Regulation (EC)
+No 1907/2006:
+Benzo[a]pyrene Benzo[e]pyrene
+Benzo[a]anthracene
+Chrysen
+Benzo[b]fluoranthene
+Benzo[j]fluoranthene
+Benzo[k]fluorantheneDibenzo[a,h]anthraceneAdditional PAHs subject to restriction:
+Acenaphthene
+AcenaphthyleneAnthraceneBenzo[ghi]perylene
+Fluoranthene
+FluoreneThe individual concentration limits for
+PAHs restricted under Regulation (EC)
+No 1907/2006 is 1 mg/kg
+The sum total concentration limit for the
+18 listed PAHs is not greater than 10 mg/kgOJ L, 21.11.2023 EN  
+
+--- Page 37 of 164 ---

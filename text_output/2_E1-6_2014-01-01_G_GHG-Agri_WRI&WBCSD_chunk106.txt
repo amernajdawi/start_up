@@ -1,0 +1,31 @@
+File Name: 2_E1-6_2014-01-01_G_GHG-Agri_WRI&WBCSD.pdf
+Converted on: 2025-03-28 03:18:26
+Original Size: 1.75 MB
+Chunk Size: 500 tokens with 50 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 106 of 108
+--------------------------------------------------------------------------------
+
+102
+References
+Colomb, V., O. Touchemoulin, L. Bockel, J-L. Chotte, S. Martin, M. Tinlot and M. Bernoux.
+2013. Selection of appropriate calculators for landscape-scale greenhouse gas assessment for
+agriculture and forestry. Environm ental Research Letters 8 015029.  
+Denef, K., K. Paustian, S. Archibeque, S. Bi ggar, D. Pape, 2012. Report of Greenhouse Gas Acc
+ounting Tools for Agriculture and Forestry Sector s.  Interim report to USDA under Contract No. 
+GS-23F-8182H. http://www.usda.gov/oce/climate_ch ange/techguide/Denef_et_al_2012_GHG_
+Accounting_Tools_v1.pdf .  
+Easterling, W.E., P.K. Aggarwal, P.  Batima, K.M. Brander, L. Er da, S.M. Howden, A. Kirilenko, 
+J. Morton, J.-F. Soussana, J. Schmidhuber a nd F.N. Tubiello, 2007: Food, fibre and forest
+products. Climate Change 2007: Impacts, Adap tation and Vulnerability. Contribution of
+Working Group II to the Fourth Assessment Report  of the Intergovernmental Panel on Climate 
+Change, M.L. Parry, O.F. Canziani, J.P. Palutik of, P.J. van der Linden and C.E. Hanson, Eds.,
+Cambridge University Press, Cambridge, UK, 273-313.  Gerber, P.J., Steinfeld, H., Henderson, B., Motte t, A., Opio, C., Dijkman, J., Falcucci, A. & 
+Tempio, G. 2013. Tackling climate change through livestock – A global assessment of emissions
+and mitigation opportunities. Food and Agricultur e Organization of the United Nations (FAO),
+Rome. www.fao.org/docrep/ 018/i3437e/i3437e.pdf  
+Havemann, T. 2009. Measuring and Monitoring Terrest rial Carbon: The State of the Science and
+Implications for Policy Makers. Available at: http://www.terrestrialcarbon.org/ Terrestrial_Carbon_Group__soil_ %26_vegetation_in_climate_s
+olution/Reports_files/TCG%20Measuri ng%20and%20Monitori ng%20Report%20090922.pdf

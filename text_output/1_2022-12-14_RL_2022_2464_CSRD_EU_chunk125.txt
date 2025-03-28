@@ -1,0 +1,49 @@
+File Name: 1_2022-12-14_RL_2022_2464_CSRD_EU.pdf
+Converted on: 2025-03-28 03:20:33
+Original Size: 1.12 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 125 of 140
+--------------------------------------------------------------------------------
+
+By way of derog ation from the third subparagraph, where any independent assurance services provider(s), third-
+countr y auditor(s) or audit entity(ies) that have no working arrangements carried out the assurance of sustainability
+repor ting of a parent under taking or a subsidiar y under taking of a group of under takings, the group auditor shall,
+when requested, also be responsible for ensur ing proper deliver y of the additional documentation on the assurance
+work performed by such independent assurance services provid er(s), third-countr y auditor(s) or audit entity(ies),
+including the working papers relevant to the assurance of consolidat ed sustainability repor ting. In order to ensure
+such deliver y, the group auditor shall retain a copy of such documentation, or alternatively agree with the
+independent assurance services provid er(s), third-countr y auditor(s) or audit entity(ies) that he, she or it is to be given
+unrestr icted access to such documentation upon request, or take any other appropr iate action. Where assurance
+working papers cannot, for legal or other reasons, be passed from a third countr y to the group auditor , the
+documentation retained by the group auditor shall include evidence that he, she or it has under taken the appropr iate
+procedures in order to gain access to the assurance documentation, and in the case of impediments other than legal
+ones arising from the legislation of the third countr y concer ned, evidence suppor ting the existen ce of such
+impediments.’;
+(17) in Article 28(2), point (e) is replaced by the follo wing:
+‘(e) include an opinion and a statement, both of which shall be based on the work under taken in the course of the
+audit, pursuant to points (a) and (b) of the second subparagraph of Article 34(1) of Directive 2013/34/EU;’;
+(18) the follo wing Article is inser ted:
+‘Article 28a
+Assurance repor t on sust ainability repor ting
+1. The statutor y auditor(s) or the audit firm(s) shall present the results of the assurance of sustainability repor ting
+in an assurance repor t on sustainability repor ting. That repor t shall be prepared in accordance with the requirements
+of assurance standards adopt ed by the Commission by means of the delegat ed acts adopt ed pursuant to Article 26a(3),
+or, pending adop tion by the Commission of those assurance standards, in accordance with national assurance
+standards, as refer red to in Article 26a(2).
+2. The assurance repor t on sustainability repor ting shall be in writing and shall:
+(a) identify the entity whose annual or consolidated sustainability repor ting is the subject of the assurance
+engag ement ; specify the annual or consolidat ed sustainability repor ting and the date and period it covers; and
+identify the sustainability repor ting framewor k that has been applied in its preparation;
+(b) include a descr iption of the scope of the assurance of sustainability repor ting whic h shall, as a minimum, identify
+the assurance standards in accordance with whic h the assurance of sustainability repor ting was conducted;
+(c) include the opinion referred to in point (aa) of the second subparagraph of Article 34(1) of Directive 2013/34/EU.
+3. Where the assurance of sustainability repor ting was carried out by more than one statutor y auditor or audit
+firm, the statut ory auditor (s) or the audit firm(s) shall agree on the results of the assurance of sustainability repor ting
+and submit a joint repor t and opinion. In the case of disagreement, each statutor y auditor or audit firm shall submit
+his, her or its opinion in a separate paragraph of the assurance repor t on sustainability repor ting and shall state the
+reason for the disagreement.
+4. The assurance repor t on sustainability repor ting shall be signed and date d by the statut ory auditor carrying out
+the assurance of sustainability repor ting. Where an audit firm carries out the assurance of sustainability repor ting, the

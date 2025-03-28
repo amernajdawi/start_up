@@ -1,0 +1,73 @@
+File Name: 2_E1-6_2006-01-01_GHG-LuLu_WRI&WBCSD.pdf
+Converted on: 2025-03-28 03:18:22
+Original Size: 6.41 MB
+Chunk Size: 500 tokens with 50 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 64 of 88
+--------------------------------------------------------------------------------
+
+EXAMPLE:NipawinAfforestationProject
+77
+Abovegroundbiomass
+=sumofcarbonsequesteredinabovegroundbiomassbyfive1500-haparcelsthatwereafforested
+=(17.34tCha/yr •1500ha)+(10.74tC/ha/yr •1500ha)+(5.52tC/ha/yr •1500ha)+(2.00tC/ha/yr •1500ha)
++(0.31tC/ha/yr•1500ha)
+=53,865tCinyear5
+Theabovegroundbiomassperhectareinyear5isfoundbydividing53,865tCby30,000.B O X E.2 CalculatingtheAbovegr oundBiomassforYear5oftheNipawinAfforestationProject TA B L E E . 1 6 FindingtheHectaresbywhichtoWeighttheBaselineCarbonStocks
+C O M M E R C I A L C R O P L A N D P A S T U R E L A N D H Y B R I D P O P L A R F O R E S T
+Percentofgeographi carea 88.5 11 .5
+Projectsitehectares 26,550 3,300 150
+Y E A R
+1
+2345678910
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21 TA B L E E . 1 7 TotalBaseline CarbonStockforthePerfor manceStandard
+T O TA L C A R B O N S T O C K S
+tC
+1,385,798
+1,386,136.5
+1,386,754.5
+1,387,630.5
+1,388,709
+1,389,928.5
+1,391,229
+1,392,553.5
+1,393,869
+1,395,142.5
+1,396,354.5
+1,397,491.5
+1,398,548
+1,399,516.5
+1,400,403
+1,401,208.5
+1,401,937.5
+1,402,594.5
+1,403,187
+1,403,718
+1,403,718 P A S T U R E L A N D
+tC / h a
+55
+55 55 55 55 55 55 55 55 55 55 55 55 55 55 55 55 55 55 55 55 C O M M E R C I A L C R O P L A N D
+tC / h a
+45.1
+45.1 45.1 45.1 45.1 45.1 45.1 45.1 45.1 45.1 45.1 45.1 45.1 45.1 45.1 45.1 45.1 45.1 45.1 45.1 45.1 H Y B R I D P O P L A R F O R E S T
+tC / h a
+45.95
+48.21
+52.33
+58.17
+65.36
+73.49
+82.16
+90.99

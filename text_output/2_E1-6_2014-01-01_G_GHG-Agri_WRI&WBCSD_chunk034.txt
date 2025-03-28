@@ -1,0 +1,82 @@
+File Name: 2_E1-6_2014-01-01_G_GHG-Agri_WRI&WBCSD.pdf
+Converted on: 2025-03-28 03:20:54
+Original Size: 1.75 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 34 of 65
+--------------------------------------------------------------------------------
+
+48
+ Table 7-1.  Types of activity data that may be needed to calculat e GHG fluxes to/from on-
+farm sources. Note that some calculation tool s may have data requirements that are not
+reflected here and that not all types of activ ity data may be required for a given source.  
+Source Common types of activity data needed
+General  Soil texture, moisture, drainage and pH
+ Temperature
+ Area of different types of crops harvested and crop yield by crop
+ Location (e.g., state or biome)
+Enteric fermentation  Livestock numbers by age and type (e.g., calves, bulls, heifers, cows),
+disaggregated by season or month
+ Length of juvenile, adult productio n and adult non-production phases
+ Number of livestock managed off-site (e.g., off-site wintering, feedlots,
+ajistments)
+ Sales and purchases of animals  
+ Amount, type  and digestibility of feed  
+ Quality of forage in pastures or open grazing systems
+ Amount of time livestock were grazed
+ Dry matter intake per head  
+ Type and amount of feed additives
+Manure management  Type of management system  
+ Amount of manure managed in this system
+ Number of days system used
+Application of
+synthetic fertilizers, livestock waste and
+crop residues to soils  Type of fertilizer/farm waste and N content (e.g., %N/kg or liter)
+ Application rate (e.g., kg/ha)
+ Application method (e.g., broadcast, incorporated, etc.)
+ Dates of applications
+ Amount of crop residue returned to soil (including from crop rotations)
+ Amounts of exported/imported manure
+Drainage and tillage
+of managed soils  Types of tilling practices  
+ Years tilling practices were changed
+ Area of cropland for which tilling practices were changed
+ Area of organic soil (e.g., peat, fen) drained to different depths
+ Soil organic matter (SOM) content
+Rice cultivation  Crop acreage
+Open burning of
+crop residues  Acres burnt  
+ Amount of crop residue left on field per acre
+Land use change  Land types and species concerned (e.g., type of woodland)
+ Area of land concerned
+ Year land use change occurred   
+Woodland
+management (e.g.,
+short-rotation woody
+crop plantations)  Volume of harvested wood  
+ Volume of woody detritus left on-site
+
+--- Page 49 of 103 ---
+
+GHG Protocol Agricultural Guidance
+
+49
+Fuel use in mobile
+and stationary
+equipment   Amounts of different types of fuels used, or 
+
+ Starting and ending volumes of different fuel stocks, and
+ Amounts of different types of fuels purchased
+For contractor operations:
+ Hours of different types of machinery operated by contractors (e.g.,
+<150 hp, 150-200 hp, etc.)  
+ Acres of cropland contracted  
+Electricity use  Amount of purchased electricity
+ Amount of electricity from on-farm renewable energy sources, used on-
+farm or sold to the grid
+Refrigeration or air-
+conditioning  Amount of products refrigerated  
+ Starting and ending volumes of different refrigerant stocks
+ Amounts of different types of refrigerants purchased

@@ -1,0 +1,51 @@
+File Name: 1_2023-07-31_DelVO_2023_2772_ESRS_EU.pdf
+Converted on: 2025-03-28 03:20:41
+Original Size: 5.82 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 45 of 284
+--------------------------------------------------------------------------------
+
+ELI: http://data.europa.eu/eli/reg_del/2023/2772/oj 46/284Disclosure Requirement GOV-2 – Information provided to and sustainability matters addressed by the undertaking’s
+administrative, management and supervisory bodies
+24. The undertaking shall disclose how the administrative, management and supervisory bodies are informed
+about sustainability matters and how these matters were addressed during the reporting period.
+25. The objective of this Disclosure Requirement is to provide an understanding of how administrative, management
+and supervisory bodies are informed about sustainability matters, as well as what information and matters they
+addressed during the reporting period. This in turn allows an understanding of whether the members of these
+bodies were adequately informed and whether they were able to fulfil their roles.
+26. The undertaking shall disclose the following information:
+(a) whether, by whom and how frequently the administrative, management and supervisory bodies, including their
+relevant committees, are informed about material impacts, risks and opportunities (see Disclosure Requirement
+IRO–1 - Description of the processes to identify and assess material impacts, risks and opportunities of this Standard), the
+implementation of due diligence, and the results and effectiveness of policies, actions, metrics and targets
+adopted to address them;
+(b) how the administrative, management and supervisory bodies consider impacts, risks and opportunities when
+overseeing the undertaking’s strategy, its decisions on major transactions, and its risk management process,
+including whether they have considered trade-offs associated with those impacts, risks and opportunities; and
+(c) a list of the material impacts, risks and opportunities addressed by the administrative, management and
+supervisory bodies, or their relevant committees during the reporting period.
+Disclosure Requirement GOV-3 – Integration of sustainability-related performance in incentive schemes
+27. The undertaking shall disclose information about the integration of its sustainability-related performance in
+incentive schemes.
+28. The objective of this Disclosure Requirement is to provide an understanding of whether incentive schemes are offered
+to members of the administrative, management and supervisory bodies that are linked to sustainability matters.
+29. The undertaking shall disclose the following information about the incentive schemes and remuneration policies
+linked to sustainability matters for members of the undertaking's administrative, management and supervisory
+bodies, where they exist:
+(a) a description of the key characteristics of the incentive schemes;
+(b) whether performance is being assessed against specific sustainability-related targets and/or impacts, and if so,
+which ones;
+(c) whether and how sustainability-related performance metrics are considered as performance benchmarks or
+included in remuneration policies;
+(d) the proportion of variable remuneration dependent on sustainability-related targets and/or impacts; and
+(e) the level in the undertaking at which the terms of incentive schemes are approved and updated.
+Disclosure Requirement GOV–4 - Statement on due diligence
+30. The undertaking shall disclose a mapping of the information provided in its sustainability statement about
+the due diligence process.
+31. The objective of this Disclosure Requirement is to facilitate an understanding of the undertaking’s due diligence
+process with regard to sustainability matters.OJ L, 22.12.2023 EN  
+
+--- Page 47 of 284 ---

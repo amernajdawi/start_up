@@ -1,0 +1,36 @@
+File Name: 1_2023-07-31_DelVO_2023_2772_ESRS_EU.pdf
+Converted on: 2025-03-28 01:55:56
+Original Size: 5.82 MB
+Chunk Size: 400 tokens with 50 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 718 of 768
+--------------------------------------------------------------------------------
+
+ELI: http://data.europa.eu/eli/reg_del/2023/2772/oj 268/284combined with bioenergy production (Bioenergy with Carbon Capture &
+Storage - BECCS). Removals can be subject to reversals, which are any
+movement of stored GHG out of the intended storage that re-enters the
+atmosphere. For example, if a forest that was grown to remove a specific amount of CO2 is subject to a wildfire, the emissions captured in the trees
+are reversed.
+Global warming potential (GWP) A factor describing the radiative forcing impact (degree of harm to the
+atmosphere) of one unit of a given GHG relative to one unit of CO2.
+Greenhouse Gases (GHG) The gases listed in Part 2 of Annex V of Regulation (EU) 2018/1999 of the
+European Parliament and of the Council (
+13). These include Carbon dioxide
+(CO2), Methane (CH4), Nitrous Oxide (N2O), Sulphur hexafluoride (SF6),
+Nitrogen trifluoride (NF3), Hydrofluorocarbons (HFCs), Perfluorocarbons
+(PFCs).
+Grievance mechanism Any routinized, state-based or non-state-based, judicial or non-judicial processes through which stakeholders can raise grievances and seek
+remedy . Examples of state-based judicial and non-judicial grievance
+mechanisms include courts, labour tribunals, national human rights
+institutions, National Contact Points under the OECD Guidelines for Multinational Enterprises, ombudsperson offices, consumer protection
+agencies, regulatory oversight bodies, and government-run complaints
+offices. Non-state-based grievance mechanisms include those administered
+by the undertaking, either alone or together with stakeholders, such as
+operational-level grievance mechanisms and collective bargaining,
+including the mechanisms established by collective bargaining. They also
+include mechanisms administered by industry associations, international
+organisations, civil society organisations, or multi-stakeholder groups.
+Operational-level grievance mechanisms are administered by the
+organisation either alone or in collaboration with other parties and are directly accessible by the organisation’s stakeholders. They allow for

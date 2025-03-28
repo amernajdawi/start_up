@@ -1,0 +1,56 @@
+File Name: 1_2021-06-04_DelVO_2021_2139_TAXKRA_EU.pdf
+Converted on: 2025-03-28 03:20:30
+Original Size: 2.76 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 92 of 447
+--------------------------------------------------------------------------------
+
+Technical screening criteria  
+Substantial contribution to climate change mitigation  
+The activity manufactures one of the following:
+(a) primary aluminium where the economic activity complies with two of the following criteria until 2025 and
+with all of the following criteria (  105  ) after 2025: 
+(i) the GHG emissions (  106  ) do not exceed 1,484 (  107  ) tCO  2 e per ton of aluminium manufactured (  108  ): 
+(ii) the average carbon intensity for the indirect GHG emissions (  109  ) does not exceed 100 g CO  2 e/kWh; 
+(iii) the electricity consumption for the manufacturing process does not exceed 15,5 MWh/t Al.
+(b) secondary aluminium.  
+Do no significant harm (‘DNSH’)  
+(2) Climate change adaptation  The activity complies with the criteria set out in Appendix A to this 
+Annex.  
+(3) Sustainable use and protection of
+water and marine resources  The activity complies with the criteria set out in Appendix B to this 
+Annex.  
+(4) Transition to a circular economy  N/A  
+(5) Pollution prevention and control  The activity complies with the criteria set out in Appendix C to this 
+Annex.
+Emissions are within or lower than the emission levels associated with the
+best available techniques (BAT-AEL) ranges set out in the latest relevant
+best available techniques (BAT) conclusions, including the best available
+techniques (BAT) conclusions for the non-ferrous metals industries (  110  ). 
+No significant cross-media effects occur.  
+(6) Protection and restoration of
+biodiversity and ecosystems  The activity complies with the criteria set out in Appendix D to this 
+Annex.  
+3.9.  Manufacture of iron and steel  
+Description of the activity  
+Manufacture of iron and steel.  
+___________  
+( 105  ) Combined to a single threshold resulting in the sum of direct and indirect emissions, calculated as the average value of the top 10 % 
+of installations based on the data collected in the context of establishing the EU ETS industrial benchmarks for the period of 2021-
+2026 and calculated in accordance with the methodology for setting the benchmarks set out in Directive 2003/87/EC plus the
+substantial contribution to climate change mitigation criterion for electricity generation (100 g CO  2 e/kWh) multiplied by the 
+average energy efficiency of aluminium manufacturing (15,5 MWh/t Al).  
+( 106  ) Calculated in accordance with Regulation (EU) 2019/331.  
+( 107  ) Reflecting the average value of the 10 % most efficient installations in 2016 and 2017 (t CO  2 equivalents/t) as set out in the Annex 
+to the Implementing Regulation (EU) 2021/447.  
+( 108  ) The aluminium manufactured is the unwrought non alloy liquid aluminium produced from electrolysis.  
+( 109  ) Indirect greenhouse gas emissions are the life-cycle greenhouse gas emissions produced from the generation of the electricity  used 
+for the manufacturing of primary aluminium.  
+( 110  ) Commission Implementing Decision (EU) 2016/1032 of 13 June 2016 establishing best available techniques (BAT) conclusions, 
+under Directive 2010/75/EU of the European Parliament and of the Council, for the non-ferrous metals industries (OJ L 174,
+30.6.2016, p. 32).EN  9.12.2021 Official Journal of the European Union L 442/51
+
+--- Page 52 of 349 ---

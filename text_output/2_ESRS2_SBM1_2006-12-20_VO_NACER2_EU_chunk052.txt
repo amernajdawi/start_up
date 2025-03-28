@@ -1,0 +1,56 @@
+File Name: 2_ESRS2_SBM1_2006-12-20_VO_NACER2_EU.pdf
+Converted on: 2025-03-28 03:18:28
+Original Size: 0.17 MB
+Chunk Size: 500 tokens with 50 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 52 of 78
+--------------------------------------------------------------------------------
+
+n.e.c. : not elsewhere classified * part of
+Division Group ClassISIC
+Rev. 4
+63 Information service activities
+63.1 Data processing, hosting and related activities; web portals
+63.11 Data processing, hosting and related activities 631163.12 Web portals 6312
+63.9 Other information service activities
+63.91 News agency activities 639163.99 Other information service activities n.e.c. 6399
+SECTION K —FINANCIAL AND INSURANCE ACTIVITIES
+64 Financial service activities, except insurance and pension funding
+64.1 Monetary intermediation
+64.11 Central banking 641164.19 Other monetary intermediation 6419
+64.2 Activities of holding companies
+64.20 Activities of holding companies 6420
+64.3 Trusts, funds and similar financial entities
+64.30 Trusts, funds and similar financial entities 6430
+64.9 Other financial service activities, except insurance and pension funding
+64.91 Financial leasing 649164.92 Other credit granting 649264.99 Other financial service activities, except insurance and pension funding
+n.e.c.6499
+65 Insurance, reinsurance and pension funding, except compulsory social
+security
+65.1 Insurance
+65.11 Life insurance 651165.12 Non-life insurance 6512
+65.2 Reinsurance
+65.20 Reinsurance 6520
+65.3 Pension funding
+65.30 Pension funding 6530
+66 Activities auxiliary to financial services and insurance activities
+66.1 Activities auxiliary to financial services, except insurance and pension
+funding
+66.11 Administration of financial markets 661166.12 Security and commodity contracts brokerage 661266.19 Other activities auxiliary to financial services, except insurance and
+pension funding6619
+66.2 Activities auxiliary to insurance and pension funding
+66.21 Risk and damage evaluation 662166.22 Activities of insurance agents and brokers 662266.29 Other activities auxiliary to insurance and pension funding 6629
+66.3 Fund management activities
+66.30 Fund management activities 6630
+SECTION L —REAL ESTATE ACTIVITIES
+68 Real estate activities
+68.1 Buying and selling of own real estate
+68.10 Buying and selling of own real estate 6810*
+68.2 Renting and operating of own or leased real estate
+68.20 Renting and operating of own or leased real estate 6810*
+68.3 Real estate activities on a fee or contract basis
+68.31 Real estate agencies 6820*L 393/22 EN Official Journal of the European Union 30.12.2006
+
+--- Page 23 of 39 ---

@@ -1,0 +1,23 @@
+File Name: 1_2023-07-31_DelVO_2023_2772_ESRS_EU.pdf
+Converted on: 2025-03-28 03:18:14
+Original Size: 5.82 MB
+Chunk Size: 500 tokens with 50 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 460 of 686
+--------------------------------------------------------------------------------
+
+AR 77. A regular performance review is defined as a review based on criteria known to the employee and his or her
+superior undertaken with the knowledge of the employee at least once per year. The review can include an
+evaluation by the worker’s direct superior, peers, or a wider range of employees. The review can also involve the
+human resources department. In order to disclose the information required by paragraph 83 (a), the undertaking
+shall use the employee headcount figures provided in Disclosure Requirement ESRS S1-6 in the denominator to
+calculate the:
+(a) number/proportion of performance reviews per employee; and
+(b) number of reviews in proportion to the agreed number of reviews by the management.
+AR 78. To disclose the average required per paragraph 83 (b), the undertaking shall perform the following calculation:
+total number of training hours offered to and completed by employees per gender category divided by the total
+number of employees per gender category. For the total training average and the average by gender, the head
+count figures for total employment and employment by gender reported in Disclosure Requirement ESRS S1-6
+shall be used.OJ L, 22.12.2023 EN

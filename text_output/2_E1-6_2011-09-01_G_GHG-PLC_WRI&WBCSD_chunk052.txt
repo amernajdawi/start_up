@@ -1,0 +1,47 @@
+File Name: 2_E1-6_2011-09-01_G_GHG-PLC_WRI&WBCSD.pdf
+Converted on: 2025-03-28 03:20:53
+Original Size: 3.27 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 52 of 116
+--------------------------------------------------------------------------------
+
+[66]   Product Life Cycle Accounting and Reporting Standard
+guidanceStep 1:   Avoid allocation if possible
+Step 2:   If allocation is necessary, determine if a physical relationship exists
+Step 3:  If a physical relationship cannot be established or is not applicable,  
+use economic allocation or other relationshipsFigure [9.2] Steps to select an allocation method4
+is the process output  
+a waste (of no  
+economic value)?
+no need to allocate
+use physical allocation
+use economic allocation use other relationshipsuse process subdivisionredefine	the 	 
+functional unituse system expansion
+is there an underlying physical relationship between  
+the studied product, co-product(s)  
+and their emissions contributions?
+are the market values of the studied product and  
+co-product(s)	free	of	significant	market	effects	on	their 	
+valuation (e.g. brand value, constrained supply, etc.)?are there other relationships between  
+the studied product and co-product(s)  
+that can be established?can the common process
+be divided  
+and evaluated  
+as separate processes?is it practical to combine
+the studied product  
+and co-product(s) into one
+single functional unit?can the co-product’s
+emissions be modeled
+using a similar process or
+product, and do you have
+direct knowledge  
+about  the eventual use of 
+the co-product(s)?
+yes yes yes yes
+yes
+yes yes
+
+--- Page 69 of 148 ---

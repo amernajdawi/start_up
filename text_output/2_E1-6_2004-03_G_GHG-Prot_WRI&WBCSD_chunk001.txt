@@ -1,0 +1,52 @@
+File Name: 2_E1-6_2004-03_G_GHG-Prot_WRI&WBCSD.pdf
+Converted on: 2025-03-28 03:20:43
+Original Size: 3.51 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 1 of 104
+--------------------------------------------------------------------------------
+
+--- Page 1 of 116 ---
+
+A Corporate Accounting and Reporting Standard
+REVISED EDITION
+The Greenhouse Gas Protocol
+— 390
+— 370
+— 350
+— 330
+— 310
+— 290
+— 270 ppm
+1000 1500 2000
+Year:
+WORLD
+RESOURCESINSTITUTE
+
+--- Page 2 of 116 ---
+
+GHG Protocol Initiative Team Janet Ranganathan World Resources Institute Laurent Corbier World Business Council for Sustainable Development Pankaj Bhatia World Resources InstituteSimon Schmitz World Business Council for Sustainable Development Peter Gage World Resources InstituteKjell Oren World Business Council for Sustainable Development Revision Working Group Brian Dawson & Matt Spannagle Australian Greenhouse OfficeMike McMahon BPPierre Boileau Environment CanadaRob Frederick Ford Motor Company Bruno Vanderborght HolcimFraser Thomson International Aluminum InstituteKoichi Kitamura Kansai Electric Power CompanyChi Mun Woo & Naseem Pankhida KPMGReid Miner National Council for Air and Stream ImprovementLaurent Segalen PricewaterhouseCoopers Jasper Koch Shell Global Solutions International B.V. Somnath Bhattacharjee The Energy Research InstituteCynthia Cummis US Environmental Protection AgencyClare Breidenich UNFCCCRebecca Eaton World Wildlife Fund Core Advisors Michael Gillenwater Independent ExpertMelanie Eddis KPMGMarie Marache PricewaterhouseCoopersRoberto Acosta UNFCCCVincent Camobreco US Environmental Protection AgencyElizabeth Cook World Resources Institute
+
+--- Page 3 of 116 ---
+
+2
+6
+10162434404858626874868890929596
+103104Table of Contents
+GUIDANCE STANDARD
+GUIDANCE STANDARD
+GUIDANCE STANDARD
+GUIDANCE STANDARD
+GUIDANCE STANDARD GUIDANCEGUIDANCE
+GUIDANCEGUIDANCEGUIDANCEGUIDANCEGUIDANCE
+GUIDANCESTANDARDIntroduction The Greenhouse Gas Protocol Initiative
+Chapter 1 GHG Accounting and Reporting PrinciplesChapter 2 Business Goals and Inventory DesignChapter 3 Setting Organizational BoundariesChapter 4 Setting Operational BoundariesChapter 5 Tracking Emissions Over TimeChapter 6 Identifying and Calculating GHG EmissionsChapter 7 Managing Inventory QualityChapter 8 Accounting for GHG ReductionsChapter 9 Reporting GHG EmissionsChapter 10 Verification of GHG EmissionsChapter 11 Setting GHG TargetsAppendix A Accounting for Indirect Emissions from Electricity
+Appendix B Accounting for Sequestered Atmospheric CarbonAppendix C Overview of GHG ProgramsAppendix D Industry Sectors and Scopes AcronymsGlossaryReferencesContributors
+
+--- Page 4 of 116 ---
+
+he Greenhouse Gas Protocol Initiative is a multi-stakeholder partnership of businesses, non-governmental organizations (NGOs), governments, and othersconvened by the World Resources Institute (WRI), a U.S.-based environmental NGO, and the World Business Council for Sustainable Development (WBCSD), aGeneva-based coalition of 170 international companies. Launched in 1998, theInitiative’s mission is to develop internationally accepted greenhouse gas (GHG)accounting and reporting standards for business and to promote their broad adoption. The GHG Protocol Initiative comprises two separate but linked standards: •GHG Protocol Corporate Accounting and Reporting Standard (this document, which provides a step-by-step guide for companies to use in quantifying and reporting theirGHG emissions) •GHG Protocol Project Quantification Standard (forthcoming; a guide for quantifying reductions from GHG mitigation projects) 2TIntroduction
+
+--- Page 5 of 116 ---

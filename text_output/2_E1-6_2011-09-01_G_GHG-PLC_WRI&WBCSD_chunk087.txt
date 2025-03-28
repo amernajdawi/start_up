@@ -1,0 +1,64 @@
+File Name: 2_E1-6_2011-09-01_G_GHG-PLC_WRI&WBCSD.pdf
+Converted on: 2025-03-28 03:20:53
+Original Size: 3.27 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 87 of 116
+--------------------------------------------------------------------------------
+
+[113]
+CHAPTER 14 Setting Reduction Targets and Tracking Inventory Changes
+guidance14.3.2	 Using	offsets	to	achieve	reduction	targets
+Companies should strive to achieve their reduction
+targets entirely from emission sources within the
+inventory boundary. If the company is unable to meet
+the target through those reductions, it can use offsets
+that are generated from sources external to its inventory
+boundary. Any purchased, sold, or banked offsets relevant
+to the inventory results are subject to the same reporting
+requirements as defined in chapter 13 and therefore are
+reported separately from the inventory results.
+Although the inventory results are presented on a unit of
+analysis basis, companies that purchase offsets for their
+products should do so for all products sold in a particular
+time frame (e.g., a year). For example, a company
+produces a million products a year at 50 kg CO2e per unit
+of analysis. To meet a zero-carbon reduction target for
+this product, the company needs to purchase 50,000
+tons of offsets each year. In this case, the company would
+report the inventory results per unit of analysis and the
+total amount of products that are offset over the selected
+time frame. Companies should also disclose information
+on the credibility of the offset, including:
+•The type of project
+•Geographical and organizational origin
+•How offsets have been quantified
+•How double counting of offsets has been avoided
+•Whether the offsets have been certified or recognized
+by external programsIt is important to ensure the offsets used to meet a
+reduction target are based on credible accounting
+standards. In addition, companies should ensure steps to
+avoid double counting of reductions by multiple entities
+or in multiple targets. For example, if a company sells
+offsets that occur at sources included in its inventory
+boundary, these reductions should not be included in
+tracking performance towards a reduction target that is
+applicable to the same sources.
+For additional guidance on using offsets that are based
+on credible accounting methodologies and standards
+see GHG Protocol Guideline for Project Accounting  and 
+to avoid double counting in achieving targets see the
+Corporate Standard  (chapter 11, pp 81-83).
+Endnote
+1  If a change in emission factor represents an actual change in 
+emissions, then the base inventory does not need to be updated.
+However, if an emission factor is updated to be more complete or
+have less uncertainty, this may warrant a base inventory recalculation.
+
+--- Page 116 of 148 ---
+
+Appendices
+
+--- Page 117 of 148 ---

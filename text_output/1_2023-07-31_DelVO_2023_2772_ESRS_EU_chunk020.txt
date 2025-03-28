@@ -1,0 +1,52 @@
+File Name: 1_2023-07-31_DelVO_2023_2772_ESRS_EU.pdf
+Converted on: 2025-03-28 03:20:41
+Original Size: 5.82 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 20 of 284
+--------------------------------------------------------------------------------
+
+ELI: http://data.europa.eu/eli/reg_del/2023/2772/oj 18/284101. Corrections of errors are distinguished from changes in estimates. Estimates may need to be revised as additional
+information becomes known (see ESRS 2 BP-2).
+7.6 Consolidated reporting and subsidiary exemption
+102. When the undertaking is reporting at a consolidated level, it shall perform its assessment of material impacts, risks
+and opportunities for the entire consolidated group, regardless of its group legal structure. It shall ensure that all
+subsidiaries are covered in a way that allows for the unbiased identification of material impacts, risks and opportunities. Criteria and thresholds for assessing an impact, risk or opportunity as material shall be determined
+based on chapter 3 of this Standard.
+103. Where the undertaking identifies significant differences between material impacts, risks or opportunities at group
+level and material impacts, risks or opportunities of one or more of its subsidiaries, the undertaking shall provide an
+adequate description of the impacts, risks and opportunities, as appropriate, of the subsidiary or subsidiaries
+concerned.
+104. When assessing whether the differences between material impacts, risks or opportunities at group level and material
+impacts, risks or opportunities of one or more of its subsidiaries are significant, the undertaking may consider
+different circumstances, such as whether the subsidiary or subsidiaries operate in a different sector than the rest of
+the group or the circumstances reflected in section 3.7 Level of disaggregation.
+7.7 Classified and sensitive information, and information on intellectual property, know-how or results of innovation
+105. The undertaking is not required to disclose classified information or sensitive information, even if such information
+is considered material.
+106. When disclosing information about its strategy, plans and actions, where a specific piece of information
+corresponding to intellectual property, know-how or the results of innovation is relevant to meet the objective of a
+Disclosure Requirement, the undertaking may nevertheless omit that specific piece of information if it:
+(a) is secret in the sense that it is not, as a body or in the precise configuration and assembly of its components,
+generally known among or readily accessible to persons within the circles that normally deal with the kind of
+information in question;
+(b) has commercial value because it is secret; and
+(c) has been subject to reasonable steps by the undertaking to keep it secret.
+107. If the undertaking omits classified information or sensitive information, or a specific piece of information
+corresponding to intellectual property, know-how or the results of innovation because it meets the criteria
+established in the previous paragraph, it shall comply with the disclosure requirement in question by disclosing all
+other required information.
+108. The undertaking shall make every reasonable effort to ensure that beyond the omission of the classified information
+or sensitive information, or of the specific piece of information corresponding to intellectual property, know-how or
+the results of innovation, the overall relevance of the disclosure in question is not impaired.
+7.8 Reporting on opportunities
+109. When reporting on opportunities, the disclosure should consist of descriptive information allowing the reader to
+understand the opportunity for the undertaking or the entire sector. When reporting on opportunities, the
+undertaking shall consider the materiality of the information to be disclosed. In this context, it shall consider,
+among other factors:
+(a) whether the opportunity is currently being pursued and is incorporated in its general strategy, as opposed to a
+general opportunity for the undertaking or the sector; andOJ L, 22.12.2023 EN  
+
+--- Page 19 of 284 ---

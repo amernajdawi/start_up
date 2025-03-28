@@ -1,0 +1,49 @@
+File Name: 1_2023-07-31_DelVO_2023_2772_ESRS_EU.pdf
+Converted on: 2025-03-28 03:18:14
+Original Size: 5.82 MB
+Chunk Size: 500 tokens with 50 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 381 of 686
+--------------------------------------------------------------------------------
+
+ELI: http://data.europa.eu/eli/reg_del/2023/2772/oj 165/284Impacts, risks and opportunities management
+— Disclosure Requirement S1-1 – Policies related to own workforce
+— Disclosure Requirement S1-2 – Processes for engaging with own workers and workers' representatives about
+impacts
+— Disclosure Requirement S1- 3 – Processes to remediate negative impacts and channels for own workers to
+raise concerns
+— Disclosure Requirement S1-4 – Taking action on material impacts and approaches to mitigating material risks and pursuing material opportunities related to own workforce, and effectiveness of those actions and
+approaches
+Metrics and targets
+— Disclosure Requirement S1-5 – Targets related to managing material impacts, advancing positive impacts, as
+well as to risks and opportunities
+— Disclosure Requirement S1-6 – Characteristics of the Undertaking’s Employees
+— Disclosure Requirement S1-7 – Characteristics of non-employee workers in the undertaking’s own
+workforce
+— Disclosure Requirement S1-8 – Collective bargaining coverage and social dialogue
+— Disclosure Requirement S1-9 – Diversity metrics
+— Disclosure Requirement S1-10 – Adequate Wages
+— Disclosure Requirement S1-11 – Social protection
+— Disclosure Requirement S1-12 – Persons with disabilities
+— Disclosure Requirement S1-13 – Training and Skills Development metrics
+— Disclosure Requirement S1-14 – Health and safety metrics
+— Disclosure Requirement S1-15 – Work-life balance
+— Disclosure Requirement S1-16 – Remuneration metrics (pay gap and total remuneration)
+— Disclosure Requirement S1-17 – Incidents, complaints and severe human rights impacts
+Appendix A.1: Application Requirements for ESRS 2 related disclosures
+Appendix A.2: Application Requirements for ESRS S1-1 Policies related to own workforce
+Appendix A.3: Application Requirements for ESRS S1–4 Taking action on material impacts on own workforce, and
+approaches to mitigating material risks and pursuing material opportunities related to own workforce, and
+effectiveness of those actions
+Appendix A.4: Application Requirements for ESRS S1–5 Targets related to managing material negative impacts, advancing
+positive impacts, and managing material risks and opportunities
+Objective
+1. The objective of this Standard is to specify disclosure requirements which will enable users of the sustainability
+statement to understand the undertaking’s material impacts on its own workforce, as well as related material risks
+and opportunities, including:
+(a) how the undertaking affects its own workforce, in terms of material positive and negative actual or potential
+impacts;
+(b) any actions taken, and the result of such actions, to prevent, mitigate or remediate actual or potential negative
+impacts, and to address risks and opportunities;

@@ -1,0 +1,48 @@
+File Name: 1_2023-06-27_DelVO_2023_2486_TAXURA_EU.pdf
+Converted on: 2025-03-28 03:20:36
+Original Size: 8.44 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 56 of 199
+--------------------------------------------------------------------------------
+
+ELI: http://data.europa.eu/eli/reg_del/2023/2486/oj 37/164Indeno[1,2,3-cd]pyrene
+Naphthalene
+PhenanthrenePyrene
+(iii) Biocidal products Biocidal products intended to provide an anti-
+bacterial function
+Derogation for materials sold in hospitals and for
+healthcare applicationsN/A
+(v) Glass fining agents Arsenic and its compounds is not used in the manufacturing of LCD display unit glass and
+screen cover glass.0,0050 % w/w
+(vi) Chlorine-based
+plasticsPlastic parts > 25 g do not contain chlorinated polymers.
+Note: For this specific sub-requirement, plastic
+cable housing is not considered as a ‘plastic part’.N/A
+2.6.5. The products do not contain halogen beyond the limits which can be detected in line with the measurement
+specified in existing standards for all its components: cables (EN IEC 60754-3), plastic parts (EN50642), electronic
+components (EN IEC 61249-2-21 or JS709C), consumables (EN IEC 61249-2-21 and IPC J-STD-004B).
+2.6.6. The products do not contain fluor gas.
+2.6.7. Use of Tetrabromobisphenol A (TBBPA) is allowed as reactive component for Printed Circuit Boards only.
+2.7. Information to customers:
+2.7.1. The operator of the activity provides information to customers regarding options to use the product considering the
+environmental benefits, in particular the lifetime extension of the products associated with the different modes of the
+product.
+2.7.2. The operator of the activity provides information to customers regarding the buy-back, sell-back and take-back
+options for the product, information on separate collection and collection points for waste electrical and electronic
+equipment (WEEE), as well as information on re-use options. For portable batteries, information is provided on separate
+collection and collection points for waste batteries.
+2.7.3. For electrical and electronic equipment, the operator of the activity appropriately marks the product with the
+symbol indicating separate collection for waste electrical and electronic equipment as set out in Annex IX to the Directive
+2012/19/EU. The operator of the activity provides the consumer with relevant information on costs of collection,
+treatment and disposal of the product in an environmentally sound way as set out in Article 14(1) of that Directive.
+2.8. Producer responsibility:
+2.8.1. The operator of the activity, when placing electrical and electronic equipment on the market of the Member States,
+establishes an individual extended producer responsibility scheme or participates in collective extended producer
+responsibility schemes in all the Member States in which the product is placed on the market, in line with Directive
+2012/19/EU. The financial contributions to the collective schemes are based on eco modulation and cover the costs of
+separate collection and treatment of WEEE.OJ L, 21.11.2023 EN  
+
+--- Page 38 of 164 ---

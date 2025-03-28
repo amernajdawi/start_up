@@ -1,0 +1,78 @@
+File Name: 2_E1-6_2011-09-01_G_GHG-PLC_WRI&WBCSD.pdf
+Converted on: 2025-03-28 03:20:53
+Original Size: 3.27 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 29 of 116
+--------------------------------------------------------------------------------
+
+[39]
+CHAPTER 07 Boundary Setting
+guidance •Mining and extraction of materials or fossil fuels
+•Photosynthesis (e.g., removal of CO2 from the
+atmosphere) for biogenic materials
+•Cultivation and harvesting of trees or crops
+•Application of fertilizer
+•Preprocessing of material inputs to the studied
+product, such as:
+•Chipping wood
+•Forming metals into ingots
+•Cleaning coal
+•Conversion of recycled material
+•Preprocessing of intermediate material inputs
+•Transportation to the production facility and within
+extraction and preprocessing facilities
+Production
+The production stage starts when the product
+components enter the production site of the studied product and ends when the finished studied product
+leaves the production gate. Site and gate are figurative
+terms, as a product may go through many processes
+and corresponding intermediate facilities before exiting
+the production stage as a finished product. Processes
+associated with co-products or the treatment of wastes
+formed during production may also be included in this
+stage. Examples of attributable processes may include:
+•Physical or chemical processing
+•Manufacturing
+•Transport of semi-finished products between
+manufacturing processes
+•Assembly of material components
+•Preparation for distribution, e.g., packaging
+•Treatment of waste created during production
+Product distribution and storage
+The product distribution and storage stage  starts when 
+the finished studied product leaves the gate of the
+production facility and ends when the consumer takes
+possession of the product. Several legs of distribution
+and storage may occur for one product, such as storage
+at a distribution center and a retail location. Examples of
+attributable processes may include:
+•Distribution center or retail location operations
+including:
+•Receipt
+•Put away
+•Heating/refrigeration
+•Shipping transportation
+•Transportation between storage locations
+Product use
+The use stage begins when the consumer takes possession
+of the product and ends when the product is discarded
+for transport to a waste treatment location. The type
+Figure [7.4] Perspective of a company producing an intermediate product
+
+material
+acquisiton
+widget
+production
+widget
+distribution
+widget  
+use
+widget  
+disposalmaterial  
+pre-
+processing
+
+--- Page 42 of 148 ---

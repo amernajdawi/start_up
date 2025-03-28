@@ -1,0 +1,54 @@
+File Name: 1_2023-07-31_DelVO_2023_2772_ESRS_EU.pdf
+Converted on: 2025-03-28 03:20:41
+Original Size: 5.82 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 79 of 284
+--------------------------------------------------------------------------------
+
+ELI: http://data.europa.eu/eli/reg_del/2023/2772/oj 81/28446. When disclosing the information on GHG emissions required under paragraph 44, the undertaking shall refer to
+ESRS 1 paragraphs from 62 to 67. In principle, the data on GHG emissions of its associates or joint ventures that are
+part of the undertaking’s upstream and downstream value chain (ESRS 1 Paragraph 67) are not limited to the share of
+equity held. For its associates, joint ventures, unconsolidated subsidiaries (investment entities) and contractual
+arrangements that are joint arrangements not structured through an entity (i.e., jointly controlled operations and
+assets), the undertaking shall include the GHG emissions in accordance with the extent of the undertaking’s
+operational control over them.
+47. In case of significant changes in the definition of what constitutes the reporting undertaking and its upstream and
+downstream value chain
+, the undertaking shall disclose these changes and explain their effect on the year-to-year
+comparability of its reported GHG emissions (i.e., the effect on the comparability of current versus previous
+reporting period GHG emissions).
+48. The disclosure on gross Scope 1 GHG emissions required by paragraph 44 (a) shall include:
+(a) the gross Scope 1 GHG emissions in metric tonnes of CO2eq; and
+(b) the percentage of Scope 1 GHG emissions from regulated emission trading schemes.
+49. The disclosure on gross Scope 2 GHG emissions required by paragraph 44 (b) shall include:
+(a) the gross location-based Scope 2 GHG emissions in metric tonnes of CO2eq; and
+(b) the gross market-based Scope 2 GHG emissions in metric tonnes of CO2eq.
+50. For Scope 1 and Scope 2 emissions disclosed as required by paragraphs 44 (a) and (b) the undertaking shall
+disaggregate the information, separately disclosing emissions from:
+(a) the consolidated accounting group (the parent and subsidiaries); and
+(b) investees such as associates, joint ventures, or unconsolidated subsidiaries that are not fully consolidated in the
+financial statements of the consolidated accounting group, as well as contractual arrangements that are joint
+arrangements not structured through an entity (i.e., jointly controlled operations and assets), for which it has
+operational control.
+51. The disclosure of gross Scope 3 GHG emissions required by paragraph 44 (c) shall include GHG emissions in metric
+tonnes of CO2eq from each significant Scope 3 category (i.e. each Scope 3 category that is a priority for the
+undertaking) .
+52. The disclosure of total GHG emissions required by paragraph 44 (d) shall be the sum of Scope 1, 2 and 3 GHG
+emissions required by paragraphs 44 (a) to (c). The total GHG emissions shall be disclosed with a disaggregation that
+makes a distinction of:
+(a) the total GHG emissions derived from the underlying Scope 2 GHG emissions being measured using the
+location-based method; and
+(b) the total GHG emissions derived from the underlying Scope 2 GHG emissions being measured using the market- based method.
+GHG Intensity based on net revenue (
+39)
+53. The undertaking shall disclose its GHG emissions intensity (total GHG emissions per net revenue).
+(39)This information supports the information needs of financial market participants subject to Regulation (EU) 2019/2088 because it is
+derived from a mandatory indicator related to principal adverse impacts as set out by indicator #3 in Table I of Annex I of
+Commission Delegated Regulation (EU) 2022/1288 with regard to disclosure rules on sustainable investments (“GHG intensity of
+investee companies”). This information is aligned with Commission Delegated Regulation (EU) 2020/1818 (Climate Benchmark
+Regulation), Article 8 (1).OJ L, 22.12.2023 EN  
+
+--- Page 82 of 284 ---

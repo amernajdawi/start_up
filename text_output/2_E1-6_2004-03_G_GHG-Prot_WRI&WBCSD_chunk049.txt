@@ -1,0 +1,32 @@
+File Name: 2_E1-6_2004-03_G_GHG-Prot_WRI&WBCSD.pdf
+Converted on: 2025-03-28 03:20:43
+Original Size: 3.51 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 49 of 104
+--------------------------------------------------------------------------------
+
+Investigate whether biases or other characteristics that
+could affect data quality have been previously identi-fied (e.g., by communicating with experts at aparticular facility or elsewhere). For example, a biascould be the unintentional exclusion of operations atsmaller facilities or data that do not correspondexactly with the company’s organizational boundaries.
+Extend quality management measures to cover any
+additional data (sales, production, etc.) used to esti-mate emission intensities or other ratios.
+EMISSION ESTIMATES
+Estimated emissions for a source category can becompared with historical data or other estimates toensure they fall within a reasonable range. Potentiallyunreasonable estimates provide cause for checkingemission factors or activity data and determiningwhether changes in methodology, market forces, orother events are sufficient reasons for the change. Insituations where actual emission monitoring occurs(e.g., power plant CO
+2emissions), the data from moni-
+tors can be compared with calculated emissions usingactivity data and emission factors.
+If any of the above emission factor, activity data, emis-
+sion estimate, or other parameter checks indicate aproblem, more detailed investigations into the accuracyof the data or appropriateness of the methods may berequired. These more detailed investigations can also be utilized to better assess the quality of data. Onepotential measure of data quality is a quantitative andqualitative assessment of their uncertainty.Inventory quality and inventory uncertainty
+Preparing a GHG inventory is inherently both anaccounting and a scientific exercise. Most applicationsfor company-level emissions and removal estimatesrequire that these data be reported in a format similar tofinancial accounting data. In financial accounting, it isstandard practice to report individual point estimates(i.e., single value versus a range of possible values). Incontrast, the standard practice for most scientific studiesof GHG and other emissions is to report quantitativedata with estimated error bounds (i.e., uncertainty). Justlike financial figures in a profit and loss or bank accountstatement, point estimates in a corporate emission inven-tory have obvious uses. However, how would or shouldthe addition of some quantitative measure of uncertaintyto an emission inventory be used?
+In an ideal situation, in which a company had perfect
+quantitative information on the uncertainty of its emis-sion estimates at all levels, the primary use of thisinformation would almost certainly be comparative.Such comparisons might be made across companies,across business units, across source categories, orthrough time. In this situation, inventory estimates couldeven be rated or discounted based on their qualitybefore they were used, with uncertainty being the objec-tive quantitative metric for quality. Unfortunately, suchobjective uncertainty estimates rarely exist.
+TYPES OF UNCERTAINTIES
+Uncertainties associated with GHG inventories can be broadly categorized into
+scientific uncertainty and
+estimation uncertainty .Scientific uncertainty arises
+when the science of the actual emission and/or removalprocess is not completely understood. For example, many direct and indirect factors associated with globalwarming potential (GWP) values that are used tocombine emission estimates for various GHGs involvesignificant scientific uncertainty. Analyzing and quanti-fying such scientific uncertainty is extremely problematicand is likely to be beyond the capacity of most companyinventory programs.GUIDANCEManaging Inventory Quality
+CHAPTER 7 54The experience of the U.K. automotive manufacturer VauxhalMotors illustrates the importance of attention to detail insetting up GHG information collection systems. The companywished to calculate GHG emissions from staff air travel.However, when determining the impact of flight travel, it isimportant to make sure that the round trip distance is usedwhen calculating emissions. Fortunately, Vauxhall’s review ofits assumptions and calculation methodologies revealed thisfact and avoided reporting emissions that were 50 percentlower than the actual value.Vauxhall Motors:
+The importance of accuracy checks
+
+--- Page 57 of 116 ---

@@ -1,0 +1,45 @@
+File Name: 2_E1-6_2004-03_G_GHG-Prot_WRI&WBCSD.pdf
+Converted on: 2025-03-28 03:18:16
+Original Size: 3.51 MB
+Chunk Size: 500 tokens with 50 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 143 of 225
+--------------------------------------------------------------------------------
+
+Selecting a verifier
+Some factors to consider when selecting a verifier
+include their:
+previous experience and competence in undertaking
+GHG verifications
+understanding of GHG issues including calculation
+methodologies
+understanding of the company’s operations and
+industry
+objectivity, credibility, and independence.
+It is important to recognize that the knowledge and qual-
+ifications of the individual(s) conducting the verificationcan be more important than those of the organization(s)they come from. Companies should select organizationsbased on the knowledge and qualifications of their actualverifiers and ensure that the lead verifier assigned tothem is appropriately experienced. Effective verificationof GHG inventories often requires a mix of specializedskills, not only at a technical level (e.g., engineeringexperience, industry specialists) but also at a businesslevel (e.g., verification and industry specialists).
+Preparing for a GHG verification
+The internal processes described in chapter 7 are likelyto be similar to those followed by an independent veri-fier. Therefore, the materials that the verifiers need aresimilar. Information required by an external verifier islikely to include the following:
+Information about the company's main activities and
+GHG emissions (types of GHG produced, descriptionof activity that causes GHG emissions)
+Information about the company/groups/organiza-
+tion (list of subsidiaries and their geographiclocation, ownership structure, financial entitieswithin the organization)
+Details of any changes to the company’s organiza-
+tional boundaries or processes during the period,including justification for the effects of these changeson emissions dataDetails of joint venture agreements, outsourcing and
+contractor agreements, production sharing agree-ments, emissions rights and other legal or contractualdocuments that determine the organizational andoperational boundaries
+Docum ented procedures for identifying sources of
+emissions within the organizational and operationalboundaries
+Information on other assurance processes to which the
+systems and data are subjected (e.g. internal audit,external reviews and certifications)
+Data used for calculating GHG emissions. This might,
+for example, include:
+Energy consumption data (invoices, delivery notes,weigh-bridge tickets, meter readings:  electricity,gas pipes, steam, and hot water, etc.)
+Production data (tonnes of material produced, kWhof electricity produced, etc.)
+Raw material consumption data for mass balancecalculations (invoices, delivery notes, weighbridgetickets, etc.)
+Emission factors (laboratory analysis etc.).
+Description of how GHG emissions data have
+been calculated:
+Emission factors and other parameters used andtheir justification
+Assumptions on which estimations are based

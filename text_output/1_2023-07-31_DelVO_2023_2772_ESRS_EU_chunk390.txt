@@ -1,0 +1,35 @@
+File Name: 1_2023-07-31_DelVO_2023_2772_ESRS_EU.pdf
+Converted on: 2025-03-28 03:18:14
+Original Size: 5.82 MB
+Chunk Size: 500 tokens with 50 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 390 of 686
+--------------------------------------------------------------------------------
+
+ELI: http://data.europa.eu/eli/reg_del/2023/2772/oj 168/284(b) in the case of material negative impacts, whether they are either (i) widespread or systemic in contexts where the
+undertaking operates (for example, child labour or forced labour or compulsory labour in specific countries or
+regions outside the EU), or (ii) related to individual incidents (for example, an industrial accident or an oil spill);
+(c) in the case of material positive impacts, a brief description of the activities that result in the positive impacts, the types of employees and non-employees in its own workforce that are positively affected or could be positively affected; the undertaking may also disclose whether the positive impacts occur in specific countries or regions;
+(d) any material risks and opportunities for the undertaking arising from impacts and dependencies on its own
+workforce;
+(e) any material impacts on its own workforce that may arise from transition plans for reducing negative impacts on
+the environment and achieving greener and climate- neutral operations, including information on the impacts on
+own workforce caused by the undertaking’s plans and actions to reduce carbon emissions in line with
+international agreements. Impacts, risks and opportunities include restructuring and employment loss as well as
+opportunities arising from job creation and reskilling or upskilling;
+(f) operations at significant risk of incidents of forced labour or compulsory labour (
+87)either in terms of:
+i.type of operation (such as manufacturing plant); or
+ii.countries or geographic areas with operations considered at risk;
+(g) operations at significant risk of incidents of child labour (88)either in terms of:
+i.type of operation (such as manufacturing plant); or
+ii.countries or geographic areas with operations considered at risk.
+15. In describing the main types of people in its own workforce who are or could be negatively affected, based on the
+materiality assessment set out in ESRS 2 IRO 1, the undertaking shall disclose whether and how it has developed an
+understanding of how people with particular characteristics, those working in particular contexts, or those
+undertaking particular activities may be at greater risk of harm.
+16. The undertaking shall disclose which, if any, of its material risks and opportunities arising from impacts and
+dependencies on people in its own workforce relate to specific groups of people (for example, particular age groups,
+or people working in a particular factory or country) rather than to all of its own workforce (for example, a general

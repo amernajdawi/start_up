@@ -1,0 +1,38 @@
+File Name: 2_E1-6_2011-09-01_G_GHG-PLC_WRI&WBCSD.pdf
+Converted on: 2025-03-28 03:18:25
+Original Size: 3.27 MB
+Chunk Size: 500 tokens with 50 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 167 of 226
+--------------------------------------------------------------------------------
+
+and suppliers. For the latter, the first step is to set up a
+strategy for supplier and customer engagement (See
+www.ghgprotocol.org  for further guidance). Companies 
+should work with partners along the product’s life cycle
+to identify emissions reduction opportunities. This may
+include working with a supplier to help them manage
+and reduce their corporate (scope 1, 2, and 3) emissions.
+Other opportunities can include working with suppliers
+to come up with substitute materials that are less GHG
+intensive during production and/or reduce GHG impacts
+further upstream (e.g., a lighter car panel that reduces
+fuel use in the product use stage).
+To account for reductions in emissions, companies
+are referred to the data collection requirements of
+this standard (chapter 8). Any reductions should be
+assessed using collected direct measurement data,
+activity data, or emission factors that abide by the
+attributional approach of the standard (i.e., historical,
+fact-based, and measurable) and have occurred prior
+to the updated inventory.
+One limitation of a GHG product inventory is that it
+focuses on a single environmental impact. Before
+making a decision to reduce GHG emissions by
+making changes in the product life cycle, companies
+should consider whether any environmental trade-
+offs could occur as a result of that change - for
+example, switching from a GHG intensive processing
+step to one that uses more water resources. Box [14.1]  Trade-offs between environmental impacts

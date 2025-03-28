@@ -1,0 +1,87 @@
+File Name: 2_E1-6_2011-09-01_G_GHG-PLC_WRI&WBCSD.pdf
+Converted on: 2025-03-28 03:20:53
+Original Size: 3.27 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 46 of 116
+--------------------------------------------------------------------------------
+
+[57]
+CHAPTER 08 Collecting Data and Assessing Data Quality
+guidancecriteria results as a basis for collecting new data or when
+using the results in an uncertainty assessment. (See
+chapter 10 for requirements and guidance on uncertainty.)
+When companies do not know the uncertainty of
+individual data points in the inventory they may use the
+data quality indicator scores to estimate the level of
+uncertainty. For information on this approach see chapter
+10. Additional uncertainty calculation guidance and tools
+are available at ( www.ghgprotocol.org ).
+8.3.8  Reporting on data quality  
+for significant processes
+Companies are required to report on the data sources,
+data quality, and efforts to improve data quality for
+significant processes. Table 8.3 provides an example  
+of reporting on data sources, quality, and improvement
+efforts for a significant process. The criteria included  
+in the screening steps can be helpful to identify
+significant processes.
+8.3.9 Additional data quality considerations
+In addition to the data quality indicators in table 8.1,
+companies should consider the following quality
+considerations:Allocated data
+Data that has been collected to avoid allocation are
+preferable to data that require allocation. For example,
+with other data quality indicators being roughly equal,
+data gathered at the process level that does not need
+to be allocated is preferable to facility-level data that
+needs to be allocated between the studied product and
+other facility outputs. For requirements and guidance on
+performing allocation see chapter 9.
+Data transparency
+Companies should have enough information to assess
+the data with the data quality indicators. If there is not
+enough information on the collection procedures, quality
+controls, and relevant data assumptions, companies
+should use that data only if no other data of sufficient
+quality is available.
+Uncertainty
+Data with high uncertainty can negatively impact the
+overall quality of the inventory. More information on
+uncertainty is available in chapter 10.Table [8.3] Example of reporting on data sources, quality, and improvement efforts for a significant process
+Significant
+process nameData sources Data quality Efforts	to	improve 	
+data quality
+Fruit product transport
+from distribution  
+center to retail store Activity Data: Average
+kilometers traveled for
+produce in Germany
+Source: Trucking  
+Association
+Emission Factor: U.K.  
+Defra’s Freight TransportThe activity data
+does not reflect the
+product’s actual
+transport distance or
+our company’s shipping
+efficiency practices.
+The transport emis -
+sion factor is specific to
+United Kingdom trans -
+port operations and not
+specific to Germany’s
+transportation system
+(poor geographic  
+indicator score).We are working to
+improve our internal
+data collection efforts
+on product distance
+traveled to obtain
+country-specific
+emission factors for
+truck transport.
+
+--- Page 60 of 148 ---

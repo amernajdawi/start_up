@@ -1,0 +1,46 @@
+File Name: 2_E1-6_2011-09-01_G_GHG-PLC_WRI&WBCSD.pdf
+Converted on: 2025-03-28 03:20:53
+Original Size: 3.27 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 54 of 116
+--------------------------------------------------------------------------------
+
+[68]   Product Life Cycle Accounting and Reporting Standard
+guidanceBox [9.1]  Using physical relationships to allocate emissions from transportation
+Figure [9.3]   Allocating emissions based on a mass physical factor
+Figure [9.4]  Allocating emissions based on a volume physical factorfruits
+60% load massfuel
+vegetables
+40% load mass60%
+emissionsfruits
+vegetables 40%
+emissions
+fruits
+30% load volumefuel
+vegetables
+70% load volume30%
+emissionsfruits
+vegetables 70%
+emissions30%
+emissionstransportation
+transportationIn fi gure 9.3 , the amount of fruits and vegetables the truck transports are limited by the mass of the products.
+However, if the fruits and vegetables are transported by rail and the limiting factor is the volume of products, the
+most appropriate allocation factor would be volume.
+Figure 9.4  shows how the emissions would be allocated using a volume allocation factor.Allocating emissions from transportation is necessary 
+when one or more products are transported but a
+company only knows the total emissions for the transport
+mode (e.g., a truck, train, aircraft, or vessel).
+Transportation example
+A truck transports two products: fruits and vegetables.  
+There is a clear physical relationship between the two products and their emissions contributions because
+the fuel use per unit of product in a transport vessel
+is dependent on the mass or volume of their load. To
+determine which physical allocation factor best describes
+this relationship, a company should determine the
+limiting factor of the transportation mode (typically mass
+or volume).
+
+--- Page 71 of 148 ---

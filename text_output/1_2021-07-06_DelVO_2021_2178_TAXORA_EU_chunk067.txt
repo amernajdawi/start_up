@@ -1,0 +1,24 @@
+File Name: 1_2021-07-06_DelVO_2021_2178_TAXORA_EU.pdf
+Converted on: 2025-03-28 03:18:05
+Original Size: 10.30 MB
+Chunk Size: 500 tokens with 50 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 67 of 90
+--------------------------------------------------------------------------------
+
+Credit institutions shall disclose information for the stock of loans as of the disclosure reference date, and information on
+the flows of new lending during the disclosure period.
+1.2.1.6. Total GAR
+Credit institutions shall disclose information on the Total GAR. This shall reflect the cumulative value of the exposure-
+based KPIs, by including in the denominator the total on-balance assets without exposures referred to in Article 7(1) and
+by adding in the total numerator the numerators of environmentally sustainable exposures of the exposure-based KPIs:
+(a) total GAR for financing activities directed at financial undertakings, for all the environmental objectives.
+(b) total GAR for financing activities directed at non-financial undertakings, for all the environmental objectives.
+(c) GAR for residential real estate exposures, including house renovation loans, for the objective of climate change
+mitigation.
+(d) GAR for retail car loans, for the objective of climate change mitigation.
+(e) GAR for loans to local governments for house financing and other specialised lending.
+(f) GAR for commercial and residential repossessed real estate collateral held for sale.
+Together with the total GAR, credit institutions shall disclose the percentage of assets that are excluded from the numerator of the GAR in accordance with Article 7(2) and (3) and Section 1.1.2 of this Annex.EN Official Journal of the European Union L 443/44 10.12.2021

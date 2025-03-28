@@ -1,0 +1,15 @@
+File Name: 1_2023-07-31_DelVO_2023_2772_ESRS_EU.pdf
+Converted on: 2025-03-28 03:20:41
+Original Size: 5.82 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 115 of 284
+--------------------------------------------------------------------------------
+
+understanding of : ( a ) anticipated financial effects due to material risks arising from pollution - related impacts and dependencies and how these risks have ( or could reasonably be expected to have ) a material influence on the undertaking ’ s , financial position financial performance and cash flows , over the short - , medium - and long - term . ( b ) anticipated financial effects due to material opportunities related to pollution prevention and control . OJ L , 22 . 12 . 2023 EN - - - Page 116 of 284 - - -
+
+ELI: http://data.europa.eu/eli/reg_del/2023/2772/oj 116/28439. The disclosure shall include: (a) a quantification of the anticipated financial effects in monetary terms before considering pollution-related actions, or where not possible without undue cost or effort, qualitative information. For financial effects arising from opportunities, a quantification is not required if it would result in disclosure that does not meet the qualitative characteristics of information (see ESRS 1 Appendix B Qualitative characteristics of information); (b) a description of the effects considered, the related impacts and the time horizons in which they are likely to materialise; and (c) the critical assumptions used to quantify the anticipated financial effects, as well as the sources and level of uncertainty of those assumptions. 40. The information provided under paragraph 38(a) shall include: (a) the share of net revenue made with products and services that are or that contain substances of concern, and the share of net revenue made with products and services that are or that contain substances of very high concern; (b) the operating and capital expenditures incurred in the reporting period in conjunction with major incidents and deposits; (c) the provisions for environmental protection and remediation costs, e.g., for rehabilitating contaminated sites, recultivating landfills, removal of environmental contamination at existing production or storage sites and similar measures. 41. The undertaking shall disclose any relevant contextual information including a description of material incidents and deposits whereby pollution had negative impacts on the environment and/or is expected to have negative effects on the undertaking’s financial cash flows, financial position and financial performance with short-, medium- and long- term time horizons.OJ L, 22.12.2023 EN 
+
+--- Page 117 of 284 ---

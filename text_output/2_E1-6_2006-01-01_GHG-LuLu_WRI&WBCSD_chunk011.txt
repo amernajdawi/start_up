@@ -1,0 +1,139 @@
+File Name: 2_E1-6_2006-01-01_GHG-LuLu_WRI&WBCSD.pdf
+Converted on: 2025-03-28 03:20:49
+Original Size: 6.41 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 11 of 50
+--------------------------------------------------------------------------------
+
+Forexample , afterasevereflood , ifthe landownersswitchedfromagriculturalcropstoshort - rotationforestsonriverfloodplains , thenthefloodwould markthebeginningofthetemporalrange . Similarly , if regulationswereintroducedthatrequiredcertain changesinforestmanagementpractices , thentheintro - ductionoftheregulationwouldbethebeginningofthe temporalrange . CHAPTER5 : IdentifyingtheBaseline Candidates 27 Projectdevelopersmaybeabletoexcludecertainbaselinecandidates iftheycanshowthatnolandsunderthesamehistoricland - useor managementpracticeastheprojectsitehaveeverchangedtothat particularbaselinecandidatewithinthetemporalrange . Forexample , aprojectdeveloperhasidentifiedfourbaseline candidatesafterdefiningthegeographicarea : cropland ( the projectsite ’ shistoricaluse ) , pastureland , abandonedland , and landbeingdevelopedforresidentialuses . Afterlookingattwo geographicinformationsystem ( GIS ) datasetsfromthebeginning andtheendofthetemporalrange , theprojectdeveloperfindsthat duringthetemporalrange , thecroplandinthegeographicarea hasneverbeenabandonedandsoabandonedlandisnota baselinecandidate . However , iftheprojectdeveloperdoesnothave datatodeterminespecificland - useormanagementchangesfor eachlandunitorcannotfindthedataforasufficientlylongor representativetemporalrange , thenbaselinecandidatescannot beexcludedusingthisapproach . B O X 5 . 2 IdentifyingBaselineCandidates UsingtheTemporalRange - - - Page 30 of 100 - - -
+
+•Trendsorpatternsinproductioncyclesorland-use
+changes.Thetemporalrangeshouldincludeatleastone
+fullcycleofthelongesttrendorpattern.Forexample,if
+thebaselinecandidatesrepresentdifferentharvesting
+rotations,thelongestrotationshoulddefinethetemporal
+range,orifagriculturalland-usedecisionsarecyclical,
+reflectingchangingcommodityprices,thenthetemporal
+rangewouldreflectonecycleofcommoditypriceschanges
+(i.e.,fromthehighpricesthroughthelowpricestothe
+highpricesagain).
+Ifthereisnotrendorpatterninproductioncyclesorland-
+usechangesandnodistincteventsmarkingachangein
+land-useormanagementpractices,thenatemporalrangeof
+atleasttenyearsshouldbeused.Ifreliabledatathatfar
+backarenotavailable,thenthetemporalrangeshouldbe
+basedontheavailabledata,withsomeexplanationofwhy
+lessthantenyearswasused(seebox5.3).Regardlessofthecriteriausedtodefinethegeographicarea
+andtemporalrange,makesuretopresentallthecriteria
+andinformationclearlyandtransparently.
+5.4 DefiningOtherCriteriaUsedtoIdentify
+theTypesofBaselineCandidates
+Commonpracticeandlegalrequirementsaretwoother
+factorsthatusuallycanbeusedtorefinethelistofbaseline
+candidates.Othercriteriamaybeimportantaswelland
+shouldbeclearlyandtransparentlydocumented.
+ReforestationProjectActivities
+Legalrequirementsaffectinglandusemaybequitediverse,
+suchasprotectingwaterwaysandrestrictinglanduseon
+differentslopeclasses.Theselegalrequirementscanbeused
+tonarrowthelistofbaselinecandidates.Forexample,
+annualcroppingmaynotbepermittedonlandwithaslope
+greaterthan8percent.Therefore,iftheprojectsitehas
+suchaslope,annualcroppingwouldbeexcludedasapossi-
+blebaselinecandidate.
+ForestManagementProjectActivities
+Theforestmanagementlegislationformanyregionseither
+prescribesorrequirescertainactivities(e.g.,reforestationis
+requiredafterharvesting).Theseregulations,whichmay
+havebeenusedtoeliminateregionsfromthegeographic
+area,canalsobeusedtoexcludethosebaselinecandidates
+thatdonotsatisfythem.Forexample,replantingafter
+harvestisaforestmanagementrequirementinCalifornia,
+U.S.,soanybaselinecandidatethatdoesnotmeetthis
+requirementwouldbeexcludedfromaforestmanagement
+projectinthisstate.
+Asalways,whentakingintoaccountlegalrequirements,the
+levelofenforcementshouldbeconsidered.Formoreinfor -
+mation,seeannexAoftheProjectProtocol.
+5.5 IdentifyingtheFinalList
+ofBaselineCandidates
+Oncethegeographicarea,temporalrange,andanyother
+criteriaforidentifyingthebaselinecandidateshavebeen
+decided,drawupthefinallistofbaselinecandidates.The
+landusesormanagementpracticesinthelistdefinethe
+finalgeographicareaandtemporalrange.Inaddition,for
+theperformancestandardprocedure,besidesthebaseline
+candidatesthelistshouldspecifytheindividualunitsofland
+area(e.g.,hectares)foreachland-useormanagement
+practiceinthegeographicarea.
+CHAPTER5:IdentifyingtheBaselineCandidates
+
+--- Page 31 of 100 ---
+
+5.6 IdentifyingTypesofBaseline Candidates
+ThatRepresentCommon Practice
+Fromthefinallist,choosethebaselinecandidate(s)that
+representwhatcouldbeconsideredcommonpractice(for
+guidanceondefiningcommon-practicelandusesor
+practices,seechapter7(section7.4.2)intheProject
+Protocol).ForLULUCFprojectactivities,commonpractice
+usuallyisrepresentedbythepredominantlanduseforrefor -
+estationprojectactivitiesorthepredominantforest
+managementpracticeforforestmanagementprojectactivi-
+tiesinthegeographicarea.Anexplanationshould
+accompanyanycommonpracticethatcannotbedefined.
+N O T E S
+1Projectdevelopersshouldnotethatwhenbaselinecandidatesare
+merged,thepotentialvariabilityinthecarbonstocksmay
+increase,makingtheestimateoftheGHGremovalslessaccurate.
+CHAPTER5:IdentifyingtheBaseline Candidates
+Withinagiventemporalrange,land-useormanagementpractices
+oncertainareasoflandmayhavechangedmanytimes.Depending
+onthenatureofthesechanges,itmaybenecessarytoredefine
+thebaselinecandidate orextendthetemporalrangetofindout
+whetherthesechangesshowaconsistentpattern.Thebaseline
+candidateshouldberedefinedwhen:
+•Theland-useormanagement changesonagivenlandarea
+followapattern.Inthiscase,thebaselinecandidateshould
+representthepattern.Forexample,ifthelandusechanges
+regularlybetweengrowingcornandsoybeans,thenthebaseline
+candidatewouldbeacorn/soybeanrotation.
+•Oneland-useormanagement practicepredominatesonagiven
+landarea.Inthiscase,thepredominantland-useormanage -
+mentpracticeattheendofthetemporalrangeshouldbeused.
+Theprojectdevelopershouldalsodeterminewherethetrend
+appearstosolidifyandusethispointtoresetthebeginningofB O X 5 . 3 MultipleChanges inLand-UseorManagementPracticesontheSameLandAreaoverTime
+th etemporalrange.Forexample,ifthetemporalrangeoriginally
+wastwentyyearsbutinthetenthyearaspecificlandusebegan
+appearingmoreoftenthanothers,thetemporalrangeshouldbe
+limitedtotenyearsunlessotherbaselinecandidatesrequirea
+longertemporalrange.
+Ifitisnotpossibletoredefinethebaselinecandidates inthismanner,
+theprojectdevelopercouldalsoredefinethebaselinecandidatesmore
+broadly(e.g.,classifyingallcroppingbaselinecandidatesascash
+cropsorsubsistencecrops)toseewhetherapatternemerges.1
+Redefiningbaselinecandidatesmayrequiresignificantdataresources,
+whichmaynot,inallcases,beavailable.Iftheprojectdeveloper
+cannotfindsufficientdata,definingthebaselinecandidatesbased
+onthecurrentdataisacceptable.Althoughitmaynotcaptureallthe
+fluctuationsoflandusesovertime,mostoftheappropriatecandidates
+shouldbecaptured,givenalargeenoughgeographicarea.
+
+--- Page 32 of 100 ---
+
+30
+PARTII:GHGReductionAccountingandReporting
+henusingtheproject-specificprocedure,estimatebaselineGHGremovalsbyidenti-
+fyingthebaselinescenarioandaccountingforthecarbonstocks,thechangein
+carbonstocksandtheGHGremovalsassociatedwiththatbaselinescenario.Chapter
+8andannexCoftheProjectProtocoldescribeindetailthecomponentsoftheproject-specific
+procedure. ThefollowingguidanceofferssupplementaryinformationforLULUCFprojectactivities,
+particularly reforestation andforestmanageme nt.Thischapterisbestusedinconjunctionwith
+chapter8oftheProjectProtocol.EstimatingtheBaselineGHG
+Removals—P roject-SpecificProcedure
+W6
+
+--- Page 33 of 100 ---

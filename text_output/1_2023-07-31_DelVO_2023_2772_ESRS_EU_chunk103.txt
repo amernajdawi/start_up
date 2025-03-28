@@ -1,0 +1,52 @@
+File Name: 1_2023-07-31_DelVO_2023_2772_ESRS_EU.pdf
+Converted on: 2025-03-28 03:20:41
+Original Size: 5.82 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 103 of 284
+--------------------------------------------------------------------------------
+
+ELI: http://data.europa.eu/eli/reg_del/2023/2772/oj 105/284GHG mitigation projects financed through carbon credits
+AR 61. Financing GHG emission reduction projects outside the undertaking’s value chain through purchasing carbon
+credits that fulfil high-quality standards can be a useful contribution towards mitigating climate change. This
+Standard requires the undertaking to disclose whether it uses carbon credits separately from the GHG emissions
+(paragraphs 56 (b) and 59) and GHG emission reduction targets (Disclosure Requirement E1-4). It also requires
+the undertaking to show the extent of use and which quality criteria it uses for those carbon credits.
+AR 62. When disclosing the information on carbon credits required under paragraphs 56 (b) and 59, the undertaking shall
+disclose the following disaggregation as applicable:
+(a) the share (percentage of volume) of reduction projects and removal projects;
+(b) for carbon credits from removal projects, an explanation whether they are from biogenic or technological
+sinks;
+(c) the share (percentage of volume) for each recognised quality standard;
+(d) the share (percentage of volume) issued from projects in the EU; and
+(e) the share (percentage of volume) that qualifies as a corresponding adjustment under Article. 6 of the Paris
+Agreement.
+Calculation guidance
+AR 63. When preparing the information on carbon credits required under paragraphs 56 (b) and 59, the undertaking
+shall:
+(a) Consider recognised quality standards;.
+(b) if applicable, explain the role of carbon credits in its climate change mitigation policy ;
+(c) not include carbon credits issued from GHG emission reduction projects within its value chain as the
+respective GHG emission reductions shall already be disclosed under Disclosure Requirement E1-6 (Scope 2
+or Scope 3) at the time they occur (i.e., double counting is avoided);
+(d) not include carbon credits from GHG removal projects within its value chain as the respective GHG removals
+may already be accounted for under Disclosure Requirement E1-7 at the time they occur (i.e., double counting
+is avoided);
+(e) not disclose carbon credits as an offset for its GHG emissions under Disclosure Requirement E1-6 on GHG
+emissions;
+(f) not disclose carbon credits as a means to reach the GHG emission reduction targets disclosed under Disclosure
+Requirement E1-4; and
+(g) calculate the amount of carbon credits to be cancelled in the future, as the sum of carbon credits in metric
+tonnes of CO2eq over the duration of existing contractual agreements.
+AR 64. The information on carbon credits cancelled in the reporting year and planned to be cancelled in the future may be
+presented using the following tabular formats.
+Carbon credits cancelled in the reporting
+yearComparative N
+Total (tCO2eq)
+Share from removal projects (%)
+Share from reduction projects (%)Recognised quality standard 1 (%)
+Recognised quality standard 2 (%)OJ L, 22.12.2023 EN  
+
+--- Page 106 of 284 ---

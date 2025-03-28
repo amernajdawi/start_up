@@ -1,0 +1,133 @@
+File Name: 2_E1-6_2006-01-01_GHG-LuLu_WRI&WBCSD.pdf
+Converted on: 2025-03-28 03:20:49
+Original Size: 6.41 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 20 of 50
+--------------------------------------------------------------------------------
+
+CHAPTER9:EstimatingandQuantifying CarbonStocks 48
+Modelscanprovidereasonableestimatesofcarbonstocksif
+•Themodelisacceptedinthescientificcommunity.
+•Theappropriateinputdataareavailableandhavebeen
+used,forexample,soils,climate,andvegetationgrowth.
+•Themodel’sparametervaluesreflectlocalconditions.
+•Themodel’sresultshavebeentestedagainstindependent
+datarepresentinglocalconditions.
+Dataforvalidationandcalibrationmaybedifficultto
+obtain,dependingontheregionandalsoonthemodel’s
+sophistication.Iftherequireddataareavailable,models
+mayprovidereasonablevaluesforcarbonstocks.But
+rememberthatmodelresults,atbest,areonlyestimatesand
+cannotsubstituteforrealdata.
+Oneadvantageofmodelsisthatthecarbonstockchanges
+andGHGremovalsoftencanbeautomaticallycalculated
+fromthecarbonstockdatageneratedbythemodel.9.4 AccountingforUncertainty
+UncertaintyshouldbeconsideredforthefollowingLULUCF
+projectactivities:
+•EstimationofthebaselineGHGremovalsand
+secondaryeffects.
+•Estimationoftheprojectactivity’sGHGremovalsand
+secondaryeffects.
+•Riskofcarbonstocksbeingreversedthroughanthro -
+pogenicornaturalevents.Thisisdiscussedinchapter11,
+CarbonReversibilityManagementPlan.
+Whenestimatingormeasuringbaselineorprojectactivity
+GHGremovalsandsecondaryeffects,uncertaintycan
+arisefrom
+•Scientificuncertainty,causedbyinsufficientknowledgeof
+theprocessessequesteringcarbonoremittingGHGs.
+•Estimationuncertainty,causedbyeither(1)modeluncer -
+tainty,whenthereisuncertaintyaroundthemathematical
+equationsusedtocharacterizetherelationshipsamong
+variousprocessesorvariables,or(2)parameteruncer -
+tainty,whenthereisuncertaintyaroundthequantification
+oftheparametersusedasinputs(e.g.,activitydata,
+emissionfactors,fieldmeasurements).
+Whenpossible,theprojectdevelopershouldassessboth
+estimationandparameteruncertaintyrelatedtotheGHG
+project.Thetwotypesofparameteruncertaintyaresystem -
+aticuncertaintyandstatisticaluncertainty.
+Systematicparameteruncertaintyresultswhenthedataare
+systematicallybiased.Inotherwords,theaveragemeasured
+orestimatedvalueisalwaysgreaterthanorlessthanthe
+truevalue.Forexample,abiasmayresultiftheemission
+factorsaredevelopedfromunrepresentativesamples,notall
+therelevantemissionsourcesorsinkshavebeenidentified,
+orincorrectorincompleteestimationmethodsorfaulty
+measurementequipmenthasbeenused.
+Sourcesofsystematicparameteruncertaintyshouldalways
+beidentifiedandreportedqualitatively.Ifpossible,the
+directionofbiasanditsmagnitudeshouldbedocumented,
+aswellasanymitigationoptionstoreducetheuncertainty.
+Statisticalparameteruncertaintyisrandomandpertainsto
+discrepanciesinthedatausedtoquantifytheGHGreduc -
+tions.Itresultsfromhumanerror,fluctuationinthe
+measurementequipment,andsoforth.
+Randomuncertaintycanbedetectedbydiscrepanciesin
+repeatedsamplesormeasurementsofthesamecarbonpool.
+Ideally,randomuncertaintiesshouldbestatisticallyestimated
+usingavailableempiricaldata,forexample,fromrepeated
+sampling.Butifnotenoughsampledataareavailableto
+developvalidstatistics,statisticalparameteruncertainties
+canbeestimatedusingmethodslikethosedescribedinIPCC
+2001ortheGHGProtocolUncertaintyTool.
+
+--- Page 51 of 100 ---
+
+Manytoolsandguidancedocumentshavebeendeveloped
+toestimatetheuncertaintylevelsassociatedwithcarbon
+stocks.Thesetoolsanddocumentstypicallyalsodescribe
+mitigationoptionstoreducethelevelofuncertaintyaround
+carbonstockestimatesormeasurements.Sometoolsand
+guidanceresourcestouseare:
+•MacDicken (1997),AGuidetoMonitoringCarbon
+StorageinForestryandAgroforestryProjects.
+•IPCC(2001),GoodPracticeGuidanceandUncertainty
+ManagementinNationalGreenhouseGasInventories.
+•IPCC(2003),section5.2ofGoodPracticeGuidancefor
+Land-Use,Land-UseChangeandForestry.
+•Pearson,Walker,andBrown(2005),Sourcebookfor
+Land-Use,Land-UseChangeandForestryProjects.
+•WRI/WBCSD Uncertainty ToolforCorporateInventories
+(www.ghgprotocol .org).
+Althoughsomeoftheseresourcesarenotspecificallyfor
+project-levelaccounting,theystillcanbeusedtoassessa
+project’suncertaintylevels.Whenameasurement,calculation,orestimationcontinues
+toproduceahighlevelofuncertainty,theprojectdeveloper
+shouldapplytheconservativenessprincipleandusethemost
+conservativevaluewithintheuncertaintyrangeorconfi-
+denceintervalbeingconsidered.Thisisespeciallyimportant
+whenestimatingthebaselinecarbonstocks,forwhichdirect
+measurementand/orrepeatedsamplingtodefineaccuracy
+andprecisionmaynotbepossible.Becauseprojectactivity
+carbonstocksaremonitoredmorefrequently,theuncer -
+taintyaroundthesemeasurementsshouldbesmaller.
+N O T E S
+1ThelifeofaprojectisgenerallysetbytheGHGprogram’sliability
+period.Forexample,theGHGprogrammaysetitsliabilityperiod
+forLULUCFprojectsastwentyyears,whichalsowillbethelength
+oftheprojectlife.
+2Formoreinformationaboutaccuracy,precision,andconservative -
+ness,seePearson,Walker,andBrown2005.
+3GHGprogramsusuallyhavespecificquantificationrulesforeach
+projecttype.
+CHAPTER9:EstimatingandQuantifying CarbonStocks
+49
+Photo:TimMcCabe,USDANRCS
+
+--- Page 52 of 100 ---
+
+50
+PARTII:GHGReductionAccountingandReporting
+onitoringensuresthattheestimatedemissionreductionsorcarbonenhancements
+areactuallytakingplaceasprojectedandthatthebaselineassumptions underlying
+theestimations remainrelevantovertheproject’slifetime.Amonitoringplanisa
+workingdocumentthatdescribestheproceduresforcollectingdatarelatedtotheprojectactivity
+andbaselineparameters andcontrolsthequalityofthecollecteddata.Monitoringand
+QuantifyingGHGReductions
+M10
+
+--- Page 53 of 100 ---

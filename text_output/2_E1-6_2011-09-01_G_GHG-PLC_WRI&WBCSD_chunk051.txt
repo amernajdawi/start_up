@@ -1,0 +1,97 @@
+File Name: 2_E1-6_2011-09-01_G_GHG-PLC_WRI&WBCSD.pdf
+Converted on: 2025-03-28 03:20:53
+Original Size: 3.27 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 51 of 116
+--------------------------------------------------------------------------------
+
+[65]
+CHAPTER 09 Allocation
+guidance9.3 Guidance
+9.3.1 Choosing an appropriate allocation method
+This standard provides six valid methods for avoiding
+allocation or for allocating emissions from a common
+process, each suited to different scenarios.
+Figure 9.2 presents a decision process for selecting the
+best method for avoiding or performing allocation for a
+given common process in various situations. As shown in
+figure 9.2, if the output is a waste no allocation is needed.
+In this case, all emissions are allocated to the studied-
+product, and the waste treatment is also included as an
+attributable process. This is because waste without value
+is not subsequently used. In the situation where waste
+is subsequently used, that output would have some
+economic value and is no longer classified as “waste.”
+9.3.2 Avoiding allocation
+Process subdivision
+Process subdivision is used to avoid allocation when it is
+possible to divide the common process into two or more
+distinct processes. Process subdivision may be done
+through sub-metering specific process lines and/or using
+engineering models to model the process inputs and
+outputs.  The common process is disaggregated into  
+sub-processes that separately produce the studied
+product and co-products. The common process needs
+to be sub-divided only to the point at which the studied
+product and its function is isolated, not to the point that
+every co-product has a unique and distinct process.
+Process subdivision should be considered first and is
+often used together with other methods to avoid or
+perform allocation, particularly when a single material
+input is transformed into more than one product. In this
+case, process subdivision is not possible for all common
+processes because there is a physical, chemical, or
+biological separation of the material input. However,
+process subdivision may only be useful in a limited capacity
+for less technical common processes if transparent data
+are not available for all process steps.
+EXAMPLE  
+A petroleum refinery produces many outputs including, but
+not limited to, gasoline, diesel fuel, heavy oil, petrol, coke,
+and bitumen. If the studied product is diesel fuel, then only a part of the refinery’s total emissions should be allocated to
+the diesel product. Therefore, the refinery process should be
+subdivided as much as possible into processes that include
+only diesel fuel.
+However, because diesel fuel comes from one material
+input (crude oil) which is chemically separated into many
+different products, process subdivision cannot be used for
+all allocations. After considering process subdivision and
+simplifying the common processes as much as possible, a
+company should allocate or avoid allocation of the remaining
+common processes using one of the other recommended
+allocation methods.
+Redefining the unit of analysis
+Another method to avoid allocation is to redefine the unit
+of analysis to include the functions of both the studied
+product and the co-product. For guidance on defining the
+unit of analysis, see chapter 6.
+EXAMPLE  
+A company produces a PET bottle designed to contain
+beverages. The company defines the functional unit (unit of
+analysis) and inventory boundary to include only the processes
+attributable to producing, using, and disposing of the bottle.
+The production, use, and disposal processes of the beverage
+are excluded. However, many processes within the inventory
+boundary affect both the bottle and the beverage. To avoid
+allocation the company decides to redefine the functional unit
+to include the function of the beverage (to be consumed by
+customers). The functional unit is now defined as one bottle
+containing one liter of beverage consumed.
+System expansion
+The system expansion method estimates the emissions and
+removals contribution of the co-products to the common
+process by substituting the emissions and removals of a
+similar or equivalent product or the same product produced
+by a different product system.3
+Some life cycle assessment practitioners consider system
+expansion as a consequential approach to allocation. (See
+chapter  5 for more information on consequential and 
+attributional approaches to life cycle assessment.) This is
+true if marginal data or market trends are used to identify
+the substituted co-product. To ensure the attributional
+approach is used when performing system expansion, the
+
+--- Page 68 of 148 ---

@@ -1,0 +1,38 @@
+File Name: 2_E1-6_2014-01-01_G_GHG-Agri_WRI&WBCSD.pdf
+Converted on: 2025-03-28 03:18:26
+Original Size: 1.75 MB
+Chunk Size: 500 tokens with 50 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 72 of 108
+--------------------------------------------------------------------------------
+
+GHG fluxes attributable to disturbances m ay also be reported in a separate line
+item   
+Companies may separately estimate the amount  of GHG fluxes that they consider 
+attributable to natural distur bances and report this amount out side of the scopes in a line
+item that is separate from the scopes and the Biogenic Carbon category. This reporting is
+additional to the report ing of these same fluxes within the scopes or the Biogenic Carbon
+category. Estimating the specific GHG effects of individual disturbances is challenging
+because:
+1. Ambiguity often exists around whether an event is a ‘disturbance’ or simply
+within the bounds of ‘normal’ envi ronmental variation. Companies might
+therefore have to establish criteria for consistently recognizing disturbances.  
+2. Natural disturbances may be rare events, in which case the effects on estimated
+CO 2 fluxes may be small when averaged over large areas or long periods of time
+and therefore difficult to accurately quan tify. For instance, the effects of a one-
+year period of insect defoliation might be  difficult to distinguish from background 
+fluxes over a three-year peri od. In contrast, catastrophi c disturbances such as
+wind storms may cause obvious and easil y estimated changes in C stocks.  
+
+Because of these challenges, companies should evaluate the likely size of a disturbance
+before committing the resources to quantifyi ng it. For the sake of practicality, if
+companies do choose to report disturbance em issions, they may assume that all post-
+disturbance emissions occur in the year of  the disturbance even t. That is, the CO 2 
+emissions from the long-term decay of DOM created during an event (e.g., downed trees
+from a windstorm) can be reported in the year  of the event. Alternatively, these emissions 
+can be amortized (see Chapter 8.3).  
+
+8.3 Amortizing changes in carbon stocks over time
+What is ‘amortizing’ and when is it necessary?

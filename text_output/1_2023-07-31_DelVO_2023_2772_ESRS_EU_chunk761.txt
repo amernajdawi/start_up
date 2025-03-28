@@ -1,0 +1,38 @@
+File Name: 1_2023-07-31_DelVO_2023_2772_ESRS_EU.pdf
+Converted on: 2025-03-28 01:55:56
+Original Size: 5.82 MB
+Chunk Size: 400 tokens with 50 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 761 of 768
+--------------------------------------------------------------------------------
+
+ELI: http://data.europa.eu/eli/reg_del/2023/2772/oj 282/284A value chain encompasses the activities, resources and relationships the
+undertaking uses and relies on to create its products or services from
+conception to delivery, consumption and end-of- life. Relevant activities,
+resources and relationships include:
+i. those in the undertaking’s own operations, such as human resources;
+ii. those along its supply, marketing and distribution channels, such as materials and service sourcing and product and service sale and
+delivery; and
+iii. the financing, geographical, geopolitical and regulatory environments in which the undertaking operates.
+Value chain includes actors upstream and downstream from the
+undertaking. Actors upstream from the undertaking (e.g., suppliers)
+provide products or services that are used in the development of the undertaking’s products or services. Entities downstream from the
+undertaking (e.g., distributors, customers) receive products or services
+from the undertaking.
+ESRS use the term “value chain” in the singular, although it is recognised that
+undertakings may have multiple value chains.
+Value chain worker An individual performing work in the value chain of the undertaking,
+regardless of the existence or nature of any contractual relationship with
+the undertaking. In the ESRS, the scope of workers in the value chain
+include all workers in the undertaking’s upstream and downstream value
+chain who are or can be materially impacted by the undertaking. This
+includes impacts that are connected to the undertaking’s own operations,
+and value chain, including through its products or services, as well as
+through its business relationships. This includes all workers who are not
+in the scope of ‘Own Workforce ’ (‘Own Workforce ’ includes people who
+are in an employment relationship with the undertaking (‘employees ’) and
+non-employees who are either individual contractors supplying labour to
+the undertaking (‘self-employed people’) or people provided by undertakings primarily engaged in employment activities. (NACE Code N78)
+Wage Gross wage, excluding variable components such as overtime and incentive

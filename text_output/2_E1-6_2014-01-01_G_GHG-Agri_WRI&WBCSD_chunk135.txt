@@ -1,0 +1,55 @@
+File Name: 2_E1-6_2014-01-01_G_GHG-Agri_WRI&WBCSD.pdf
+Converted on: 2025-03-28 01:56:31
+Original Size: 1.75 MB
+Chunk Size: 400 tokens with 50 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 135 of 150
+--------------------------------------------------------------------------------
+
+95
+Tool Geographic focus Methodology Interface Uncertainty
+analysis
+Dia’terre  France Unknown Unknown Unknown  
+DNDC NUGGET  US Online interface to DNDC model Web-based  
+FarmGas   Australia Based on Australian nati onal inventory - combination of 
+country-specific and IPCC me thodologies and emission
+factors.  Web-based  
+Farming enterprise Greenhouse
+Gas Emissions Calculator  Australia Combination of SOCRATE S, IPCC and Australia national 
+inventory emission factors Web-based  
+Field to Market Fieldprint
+Calculator  US Based on methodologies in  academic literature. Only 
+outputs intensity metrics (per acre), so not useful for farm-
+level accounting Web-based  
+Full Carbon Accounting Model
+(FullCAM)  Australa Based on Australian national inventory - combination of 
+country-specific and IPCC me thodologies and emission
+factors. Software
+application  
+Greenhouse in Agriculture tools
+for Dairy, Sheep, Beef or Grain
+Farms  Australia Emission factors from Australia’s national inventory 
+practices Excel-based  
+Holos  Canada Methodology is IPCC, but customized to Canada Software 
+application   
+Illinois Farm Sustainability
+Calculator  US - Illinois  Excel-based  
+International Wine Carbon
+Calculator  International Tier 1 emission factors and academic literature Excel-based  
+Live Swine Carbon Footprint
+Calculator  US Unknown Software 
+application  
+Livestock Analysis Model  US Specific to cattle and buffalo Software 
+application  
+Manure and Nutrient Reduction
+Estimator (MANURE) TOOL  US IPCC methodology and emission factors from IPCC, EPA, 
+and USDA Web-based  
+OVERSEER  New Zealand Emission factors from New Zealand’s national inventory 
+practices Web-based  and 
+software  
+
+--- Page 96 of 103 ---
+
+GHG Protocol Agricultural Guidance

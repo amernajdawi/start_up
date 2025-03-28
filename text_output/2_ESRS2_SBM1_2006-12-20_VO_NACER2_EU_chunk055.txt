@@ -1,0 +1,65 @@
+File Name: 2_ESRS2_SBM1_2006-12-20_VO_NACER2_EU.pdf
+Converted on: 2025-03-28 03:18:28
+Original Size: 0.17 MB
+Chunk Size: 500 tokens with 50 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 55 of 78
+--------------------------------------------------------------------------------
+
+n.e.c. : not elsewhere classified * part of
+Division Group ClassISIC
+Rev. 4
+82.3 Organisation of conventions and trade shows
+82.30 Organisation of conventions and trade shows 8230
+82.9 Business support service activities n.e.c.
+82.91 Activities of collection agencies and credit bureaus 8291
+82.92 Packaging activities 829282.99 Other business support service activities n.e.c. 8299
+SECTION O —PUBLIC ADMINISTRATION AND DEFENCE;
+COMPULSORY SOCIAL SECURITY
+84 Public administration and defence; compulsory social security
+84.1 Administration of the State and the economic and social policy of the
+community
+84.11 General public administration activities 841184.12 Regulation of the activities of providing health care, education, cultural
+services and other social services, excluding social security8412
+84.13 Regulation of and contribution to more efficient operation of
+businesses8413
+84.2 Provision of services to the community as a whole
+84.21 Foreign affairs 8421
+84.22 Defence activities 8422
+84.23 Justice and judicial activities 8423*
+84.24 Public order and safety activities 8423*84.25 Fire service activities 8423*
+84.3 Compulsory social security activities
+84.30 Compulsory social security activities 8430
+SECTION P —EDUCATION
+85 Education
+85.1 Pre-primary education
+85.10 Pre-primary education 8510*
+85.2 Primary education
+85.20 Primary education 8510*
+85.3 Secondary education
+85.31 General secondary education 8521
+85.32 Technical and vocational secondary education 8522
+85.4 Higher education
+85.41 Post-secondary non-tertiary education 8530*
+85.42 Tertiary education 8530*
+85.5 Other education
+85.51 Sports and recreation education 8541
+85.52 Cultural education 854285.53 Driving school activities 8549*
+85.59 Other education n.e.c. 8549*
+85.6 Educational support activities
+85.60 Educational support activities 8550
+SECTION Q —HUMAN HEALTH AND SOCIAL WORK ACTIVITIES
+86 Human health activities
+86.1 Hospital activities
+86.10 Hospital activities 8610
+86.2 Medical and dental practice activities
+86.21 General medical practice activities 8620*86.22 Specialist medical practice activities 8620*
+86.23 Dental practice activities 8620*
+86.9 Other human health activities
+86.90 Other human health activities 8690
+87 Residential care activities
+87.1 Residential nursing care activities30.12.2006 EN Official Journal of the European Union L 393/25
+
+--- Page 26 of 39 ---

@@ -1,0 +1,39 @@
+File Name: 2_E1-6_2004-03_G_GHG-Prot_WRI&WBCSD.pdf
+Converted on: 2025-03-28 03:20:43
+Original Size: 3.51 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 63 of 104
+--------------------------------------------------------------------------------
+
+This chapter provides an overview of the key elements of
+a GHG verification process. It is relevant to companieswho are developing GHG inventories and have plannedfor, or are considering, obtaining an independent verifi-cation of their results and systems. Furthermore, as theprocess of developing a verifiable inventory is largely thesame as that for obtaining reliable and defensible data,this chapter is also relevant to all companies regardlessof any intention to commission a GHG verification.
+Verification involves an assessment of the risks of mate-
+rial discrepancies in reported data. Discrepancies relateto differences between reported data and data generatedfrom the proper application of the relevant standardsand methodologies. In practice, verification involves theprioritization of effort by the verifier towards the dataand associated systems that have the greatest impact onoverall data quality.
+Relevance of GHG principles
+The primary aim of verification is to provide confidenceto users that the reported information and associatedstatements represent a faithful, true, and fair account ofa company’s GHG emissions. Ensuring transparency andverifiability of the inventory data is crucial for verifica-tion. The more transparent, well controlled and welldocumented a company’s emissions data and systemsare, the more efficient it will be to verify. As outlined inchapter 1, there are a number of GHG accounting andreporting principles that need to be adhered to whencompiling a GHG inventory. Adherence to these princi-ples and the presence of a transparent, well-documentedsystem (sometimes referred to as an audit trail) is thebasis of a successful verification.
+Goals
+Before commissioning an independent verification, acompany should clearly define its goals and decidewhether they are best met by an external verification.Common reasons for undertaking a verification include:
+Increased credibility of publicly reported emissions
+information and progress towards GHG targets,leading to enhanced stakeholder trust
+Increased senior management confidence in reported
+information on which to base investment and target-setting decisionsImprovement of internal accounting and reporting
+practices (e.g., calculation, recording and internalreporting systems, and the application of GHGaccounting and reporting principles), and facilitatinglearning and knowledge transfer within the company
+Preparation for mandatory verification requirements
+of GHG programs.
+Internal assurance
+While verification is often undertaken by an independent,external third party, this may not always be the case.Many companies interested in improving their GHGinventories may subject their information to internalverification by personnel who are independent of the GHG accounting and reporting process. Bothinternal and external verification should follow similar procedures and processes. For external stakeholders,external third part verification is likely to significantlyincrease the credibility of the GHG inventory. However,independent internal verifications can also providevaluable assurance over the reliability of information.
+Internal verification can be a worthwhile learning expe-
+rience for a company prior to commissioning an externalverification by a third party. It can also provide externalverifiers with useful information to begin their work.
+The concept of materiality
+The concept of “materiality” is essential to understandingthe process of verification. Chapter 1 provides a usefulinterpretation of the relationship between the principle ofcompleteness and the concept of materiality. Informationis considered to be material if, by its inclusion or exclu-sion, it can be seen to influence any decisions or actionstaken by users of it. A
+material discrepancy is an error
+(for example, from an oversight, omission or miscalcula-tion) that results in a reported quantity or statementbeing significantly different to the true value or meaning.In order to express an opinion on data or information, averifier would need to form a view on the materiality ofall identified errors or uncertainties.
+While the concept of materiality involves a value judg-
+ment, the point at which a discrepancy becomes material(
+materiality threshold ) is usually pre-defined. As a rule of
+thumb, an error is considered to be materially misleading CHAPTER 10 Verification of GHG Emissions 69GUIDANCE
+
+--- Page 72 of 116 ---

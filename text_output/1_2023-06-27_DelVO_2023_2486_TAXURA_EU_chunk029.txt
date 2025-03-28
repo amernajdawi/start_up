@@ -1,0 +1,51 @@
+File Name: 1_2023-06-27_DelVO_2023_2486_TAXURA_EU.pdf
+Converted on: 2025-03-28 03:20:36
+Original Size: 8.44 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 29 of 199
+--------------------------------------------------------------------------------
+
+ELI: http://data.europa.eu/eli/reg_del/2023/2486/oj 18/1643. Disaster risk management
+3.1. Nature-based solutions for flood and drought risk prevention and protection
+Description of the activity
+Planning, construction, extension, and operation of large-scale nature-based flood or drought management and coastal,
+transitional or inland aquatic ecosystem restoration measures contributing to preventing and protecting against flooding or droughts, and enhancing natural water retention, biodiversity and water quality.
+These large-scale nature-based flood or drought management measures are applied in peri-urban, rural and coastal areas
+and are coordinated at river basin, regional or local, such as municipal, scale.
+The economic activity includes:
+(a) river or lake related measures, including:
+(i) riparian or floodplain vegetation development or floodplain restoration, including re-connection of a river or lake
+with its floodplain or off-channel/lateral connectivity improvement to restore the retention capacity of the
+floodplain and its ecosystem’s function;
+(ii) re-meandering river courses by creating a new meandering course or reconnecting cut-off meanders or reconnecting a lake or group of lakes to a river;
+(iii) restoration of the longitudinal and lateral connectivity of a river (including oxbow lakes) by removing obsolete barriers, including dams and weirs or small barriers across or along the river;
+(iv) substitution of artificial riverbank or lake shore protection with nature-based solutions for bank or bed
+stabilisation as measures for river or lake restoration;
+(v) measures aimed to improve the diversification of river or lake depth and width to increase habitat variety;
+(b) wetland measures, including:
+(i) installation of ditches for rewetting, removal of drainage installations, replacement with installations that control
+the discharge, or setting back of dykes to enable flooding;
+(ii) implementation of constructed wetlands for water retention and treatment, both on land and along unvegetated
+water bodies, in rural and urban contexts;
+(iii) detention basins and retention ponds;
+(c) coastal measures, including:
+(i) conservation or restoration of coastal wetlands including mangrove forests or seagrass beds, which operate as a
+natural barrier;
+(ii) measures consisting of morphological changes and the removal of barriers to minimise the need of artificial beach
+nourishment and enhance the conditions of coastal ecosystems, justified on the basis of a sediment balance study;
+(iii) dune reinforcement and restoration, including the planting of dune vegetation;
+(iv) coastal reef conservation or restoration;
+(v) sand nourishments in the coastal zone;
+(d) river basin-wide management measures, including:
+(i) land management measures, including afforestation of reservoir catchments areas, spring or wellhead protection
+areas and river basin headwaters in general;
+(ii) restoration of natural infiltration for groundwater recharge by facilitating or augmenting soil retention capacity and infiltration;
+(iii) managed aquifer recharge (MAR) (
+13).
+(13)Managed aquifer recharge is ‘the process of intentionally recharging an aquifer with water from a different place for subsequent
+recovery or for environmental benefits’.OJ L, 21.11.2023 EN  
+
+--- Page 19 of 164 ---

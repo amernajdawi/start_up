@@ -1,0 +1,208 @@
+File Name: CELEX_32010L0075_DE_TXT.pdf
+Converted on: 2025-03-28 03:21:03
+Original Size: 4.18 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 64 of 93
+--------------------------------------------------------------------------------
+
+L 334/68 DE Amtsblattder Europäischen Union 17.12.2010
+TEIL 3
+Für
+Abfallverbrennungsanlagen geltende Grenzwerte für Emissionen in die Luft
+1. Alle Emissionsgrenzwerte
+werden
+bei
+einer
+Temperatur von  
+273,15 K,
+einem Druck  
+von
+101,3 kPa
+und
+nach
+Abzug
+des
+Wasserdampfg ehalts
+des Abgases
+berechnet.
+Sie
+beziehen
+sich auf ein en
+Sauerstoffg ehalt
+im Abgas
+von
+11 %, ausg enomme
+n
+im Falle der Verb rennung
+von
+Altöl
+im Sinne
+von
+Artikel
+3 Absatz
+3 der Richtlin ie
+2008/98/E G,
+in
+dem sie sich auf ein en
+Sauerstoffg ehalt
+von
+3 % bezie­
+hen,
+und
+in
+den
+in
+Teil 6 Nummer 2.7 g enannten
+Fällen.
+1.1. Emissionsgrenzwerte
+im Tagesmittel
+für folgende
+Schadstoffe (in  
+mg/Nm3)
+Gesamtstaub 10
+Gas- oder dampfförmig e
+organische
+Stoffe, gemessen
+als organisch
+gebund
+ener
+Gesamtkohlenstoff
+(TOC)10
+Chlorwasserstoff
+(HCl) 10
+Fluorwasserstoff (HF) 1
+Schwefeldioxid (SO2) 50
+Stickstoffmonoxid
+(NO) un d
+Stickstoffdioxid
+ (NO2), gemessen als NO2 für bestehende  Abfall ­
+verbrennungsanlagen
+mit einer
+Nennkapazität
+von
+mehr als 6 t/h oder n eue
+Abfallverbrennungs­
+anlagen200
+Stickstoffmonoxid
+(NO) un d
+Stickstoffdioxid
+ (NO2), gemessen als NO2 für bestehende  Abfall ­
+verbrennungsanlagen
+mit einer
+Nennkapazität
+von  ≤  6  t / h400
+1.2. Emissionsgrenzwerte
+im Halbstundenmittel
+für folgende
+Schadstoffe (in  
+mg/Nm3)
+(100 %) A (97 %) B
+Gesamtstaub 30 10
+Gas- oder dampfförmig e
+organische
+Stoffe, gemessen
+als organisch
+
+gebundener
+Gesamtkohlenstoff
+(TOC)20 10
+Chlorwasserstoff (HCl) 60 10
+Fluorwasserstoff (HF) 4 2
+Schwefeldioxid (SO2) 200 50
+Stickstoffmonoxid
+(NO) und
+Stickstoffdioxid
+(NO2), gemessen als
+NO2 für bestehende Abfallverbrennungsanlagen mit einer Nennkapa­
+zität
+> 6 t/h oder n eue
+Abfallverbrennungsanlagen400 200
+1.3. Emissionsgrenzwerte
+im Mittel (in  
+mg/Nm3) für folgende Schwermetalle b ei einer Probenahmedauer von mindestens
+30
+Minuten
+und
+höchstens
+8 Stunden
+Cadmium
+und
+Cadmiumverb indungen,
+gemessen
+als Cadmium (Cd) Insgesamt:
+0,05
+Thallium un d
+Thalliumverb indungen,
+gemessen
+als Thallium (Tl)
+Quecksilber
+und
+Quecksilberverbindungen,
+gemessen
+als Queck silber
+(Hg) 0,05
+Antimon
+und
+Antimonverbindungen,
+gemessen
+als Antimon
+(Sb) Insgesamt:
+0,5
+Arsen
+und
+Arsenverbindungen,
+gemessen
+als Arsen
+(As)
+Blei und
+Bleiverbindungen,
+gemessen
+als Blei (Pb )
+Chrom
+und
+Chromverb indungen,
+gemessen
+als Chrom (Cr)
+Cobalt
+und
+Cobaltverbindungen,
+gemessen
+als Cobalt
+(Co)
+Kupfer
+und
+Kupferverbindungen,
+gemessen
+als Kupfer
+(Cu)
+Mangan
+und
+Manganverbindungen,
+gemessen
+als Mangan
+(Mn)
+Nickel
+und
+Nickelverbindungen,
+gemessen
+als Nickel
+(Ni)
+Vanadium
+und
+Vanadiumverbindungen,
+gemessen
+als Vanadium
+(V)
+Die Mittelwerte g elten
+auch für die g as-
+und
+dampfförmig en
+Emissionen
+der betreffenden
+Schwermetalle un d
+Schwermetallverb indungen.
+
+--- Page 53 of 103 ---

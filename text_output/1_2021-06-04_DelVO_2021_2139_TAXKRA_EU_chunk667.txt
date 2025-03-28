@@ -1,0 +1,47 @@
+File Name: 1_2021-06-04_DelVO_2021_2139_TAXKRA_EU.pdf
+Converted on: 2025-03-28 03:18:03
+Original Size: 2.76 MB
+Chunk Size: 500 tokens with 50 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 667 of 966
+--------------------------------------------------------------------------------
+
+(e) where the solution implemented is physical and consists in an activity for which technical screening criteria
+have been specified in this Annex, the solution complies with the do no significant harm technical screening
+criteria for that activity.  
+Do no significant harm (‘DNSH’)  
+(1) Climate change mitigation  The direct GHG emissions of the activity are lower than 270 g CO  2 e/kWh.  
+(3) Sustainable use and protection of
+water and marine resources  The activity complies with the criteria set out in Appendix B to this 
+Annex.  
+(4) Transition to a circular economy  N/A  
+(5) Pollution prevention and control  For the operation of high-enthalpy geothermal energy systems, adequate 
+abatement systems are in place to reduce emission levels in order not to
+hamper the achievement of air quality limit values set out in Directives
+2004/107/EC and 2008/50/EC.  
+(6) Protection and restoration of
+biodiversity and ecosystems  The activity complies with the criteria set out in Appendix D to this 
+Annex.  
+4.19.  Cogeneration of heat/cool and power from renewable non-fossil gaseous and liquid fuels  
+Description of the activity  
+Construction and operation of combined heat/cool and power generation facilities using gaseous and liquid fuels of
+renewable origin. This activity does not include cogeneration of heat/cool and power from the exclusive use of
+biogas and bio-liquid fuels (see Section 4.20 of this Annex).  
+The economic activities in this category could be associated with several NACE codes, in particular D35.11 and
+D35.30 in accordance with the statistical classification of economic activities established by Regulation (EC)
+No 1893/2006.  
+Technical screening criteria  
+Substantial contribution to climate change adaptation  
+1. The economic activity has implemented physical and non-physical solutions (‘adaptation solutions’) that
+substantially reduce the most important physical climate risks that are material to that activity.
+2. The physical climate risks that are material to the activity have been identified from those listed in
+Appendix A to this Annex by performing a robust climate risk and vulnerability assessment with the
+following steps:
+(a) screening of the activity to identify which physical climate risks from the list in Appendix A to this Annex
+may affect the performance of the economic activity during its expected lifetime;
+(b) where the activity is assessed to be at risk from one or more of the physical climate risks listed in Appendix A
+to this Annex, a climate risk and vulnerability assessment to assess the materiality of the physical climate risks
+on the economic activity;
+(c) an assessment of adaptation solutions that can reduce the identified physical climate risk.

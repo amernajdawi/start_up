@@ -1,0 +1,55 @@
+File Name: 1_2023-07-31_DelVO_2023_2772_ESRS_EU.pdf
+Converted on: 2025-03-28 03:20:41
+Original Size: 5.82 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 49 of 284
+--------------------------------------------------------------------------------
+
+--- Page 49 of 284 ---
+
+ELI: http://data.europa.eu/eli/reg_del/2023/2772/oj 49/284iv. the cultivation and production of tobacco (21);
+(e) its sustainability-related goals in terms of significant groups of products and services, customer categories,
+geographical areas and relationships with stakeholders;
+(f) an assessment of its current significant products and/or services, and significant markets and customer groups, in
+relation to its sustainability-related goals; and
+(g) the elements of the undertaking’s strategy that relate to or impact sustainability matters, including the main
+challenges ahead, critical solutions or projects to be put in place, when relevant for sustainability reporting.
+41. If the undertaking is based in an EU Member State that allows for an exemption from the disclosure of the
+information referred to in Article 18, paragraph 1, sub-point (a) of Directive 2013/34/EU (22), and if the undertaking
+has made use of that exemption, it may omit the breakdown of revenue by significant ESRS sector required by
+paragraph 40(b). In this case the undertaking shall nevertheless disclose the list of ESRS sectors that are significant
+for the undertaking.
+42. The undertaking shall disclose a description of its business model and value chain, including:
+(a) its inputs and its approach to gathering, developing and securing those inputs;
+(b) its outputs and outcomes in terms of current and expected benefits for customers, investors and other
+stakeholders; and
+(c) the main features of its upstream and downstream value chain and the undertaking’s position in its value chain,
+including a description of the main business actors (such as key suppliers, customers, distribution channels and
+end-users) and their relationship to the undertaking. When the undertaking has multiple value chains, the
+disclosure shall cover the key value chains.
+Disclosure Requirement SBM-2 – Interests and views of stakeholders
+43. The undertaking shall disclose how the interests and views of its stakeholders are taken into account by the
+undertaking’s strategy and business model.
+44. The objective of this Disclosure Requirement is to provide an understanding of how stakeholders’ interests and views
+inform the undertaking’s strategy and business model.
+45. The undertaking shall disclose a summarised description of:
+(a) its stakeholder engagement, including:i. the undertaking’s key stakeholders;
+ii. whether engagement with them occurs and for which categories of stakeholders;
+iii. how it is organised;
+iv. its purpose; and
+v. how its outcome is taken into account by the undertaking;
+(b) the undertaking’s understanding of the interests and views of its key stakeholders as they relate to the
+undertaking’s strategy and business model, to the extent that these were analysed during the undertaking’s due
+diligence process and/or materiality assessment process (see Disclosure Requirement IRO-1 of this Standard);
+(c) where applicable, amendments to its strategy and/or business model, including:i. how the undertaking has amended or expects to amend its strategy and/or business model to address the
+interests and views of its stakeholders;
+(21)This information supports the needs of benchmark administrators to disclose ESG factors subject to Regulation (EU) 2020/1818 as set
+out by paragraph b) of article 12.1.
+(22)Article 18, paragraph 1, sub-point (a) of Directive 2013/34/EU: “the net turnover broken down by categories of activity and into geographical
+markets, in so far as those categories and markets differ substantially from one another, taking account of the manner in which the sale of products
+and the provision of services are organised.”OJ L, 22.12.2023 EN  
+
+--- Page 50 of 284 ---

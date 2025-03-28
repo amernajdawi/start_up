@@ -1,0 +1,57 @@
+File Name: 1_2023-07-31_DelVO_2023_2772_ESRS_EU.pdf
+Converted on: 2025-03-28 03:20:41
+Original Size: 5.82 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 259 of 284
+--------------------------------------------------------------------------------
+
+ELI: http://data.europa.eu/eli/reg_del/2023/2772/oj 260/284Area at water risk A water catchment, where several physical aspects related to water:
+i.lead to one or more water bodies to be in less than good status and / or
+deteriorate in status (as defined in Directive 2000/60/EC of the European
+Parliament and of the Council (4)), thus pointing to significant issues as
+regards water availability, quality, quantity (including high water-stress);
+and/or
+ii.lead to issues as regards accessibility of water, regulatory or reputational issues (including the shared use of water with communities and
+affordability of water) for its facilities and for the facilities of key
+supplier(s).
+Area of high-water stress Regions where the percentage of total water withdrawn is high (40-80%) or extremely high (greater than 80%) in the Aqueduct Water Risk Atlas tool of
+the World Resources Institute (WRI). See also water scarcity .
+Associated process materials Materials that are needed for the manufacturing process but are not part of the final product, such as lubricants for manufacturing machinery.
+Best Available Techniques (BAT)
+conclusionsA document containing the parts of a BAT reference document laying down
+the conclusions on best available techniques, their description, information
+to assess their applicability, the emission levels associated with the best
+available techniques, the environmental performance levels associated with the best available techniques, the minimum content of an
+environmental management system including benchmarks associated with the best available techniques, associated monitoring, associated
+consumption levels and, where appropriate, relevant site remediation
+measures (
+5).
+Best Available Technique-Associated Emission Level (BAT-AEL)The range of emission levels obtained under normal operating conditions
+using a best available technique or a combination of best available
+techniques, as described in BAT conclusions, expressed as an average over
+a given period of time, under specified reference conditions, i.e., the
+emission level that is associated with a BAT .
+Best Available Technique-Associated Environmental Performance Level (BAT-
+AEPL)The range of environmental performance levels, except emission levels,
+obtained under normal operating conditions using a BAT or a
+combination of BAT s(
+6).
+Best Available Techniques (BAT) (7) The most effective and advanced stage in the development of activities and
+their methods of operation which indicates the practical suitability of
+particular techniques for providing the basis for emission limit values and
+other permit conditions designed to prevent and, where that is not practicable, to reduce emissions and the impact on the environment as a
+whole:i. “techniques” includes both the technology used and the way in which the
+installation is designed, built, maintained, operated and
+decommissioned;
+(4)Directive 2000/60/EC of the European Parliament and of the Council of 23 October 2000 establishing a framework for Community
+action in the field of water policy (OJ L 327, 22.12.2000, p. 1).
+(5)Directive 2010/75/EU on industrial emissions (IED).
+(6)Commission Implementing Decision of 10 February 2012 laying down rules concerning guidance on the collection of data and on the
+drawing up of BAT reference documents and on their quality assurance referred to in Directive 2010/75/EU of the European
+Parliament and of the Council on industrial emissions (OJ L 63, 2.3.2012, p. 1).
+(7)Article 3 point 10 of Directive 2010/75/EU on industrial emissions (IED).OJ L, 22.12.2023 EN  
+
+--- Page 261 of 284 ---

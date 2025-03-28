@@ -1,0 +1,48 @@
+File Name: 1_2023-06-27_DelVO_2023_2486_TAXURA_EU.pdf
+Converted on: 2025-03-28 03:20:36
+Original Size: 8.44 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 66 of 199
+--------------------------------------------------------------------------------
+
+ELI: http://data.europa.eu/eli/reg_del/2023/2486/oj 46/1642.5. Recovery of bio-waste by anaerobic digestion or composting
+Description of the activity
+Construction and operation of facilities for the treatment of separately collected bio-waste through anaerobic digestion or
+composting with the resulting production and utilisation of biogas, biomethane, digestate, compost or chemicals.
+The economic activities in this category could be associated with several NACE codes, in particular E38.21 and F42.9 in
+accordance with the statistical classification of economic activities established by Regulation (EC) No 1893/2006.
+Technical screening criteria
+Substantial contribution to the transition to circular economy
+1.The bio-waste that is used for anaerobic digestion or composting is source segregated and collected separately. Where
+bio-waste is collected in biodegradable bags, the bags have the appropriate compostable certification standard EN
+13432:2000 (58).
+2.In these anaerobic digestion plants, source segregated bio-waste from separate collection constitutes at least 70 % of the
+input feedstock, measured in weight, as an annual average. Co-digestion may cover up to 30 % of the input feedstock of
+advanced bioenergy feedstock listed in Annex IX to Directive (EU) 2018/2001, which may not include contaminated
+feedstock coming from biomass fraction of mixed municipal and industrial waste. The input does not include feedstock
+excluded in Part II of Annex II to Regulation (EU) 2019/1009, for Component Material Category (CMC) 3 (Compost) in
+accordance with point (c) of that category and for Component Material Category (CMC) 5 (Digestate other than fresh crop
+digestate) in accordance with point (c) of that category.
+3.The activity produces one of the following:
+(a) compost or digestate complying with Regulation (EU) 2019/1009, in particular with requirements of Annex II on the
+Component Material Categories (CMC), referring specifically to CMC 3 (Compost) and CMC 5 (Digestate other than
+fresh crop digestate) or with national rules on fertilisers or soil improvers, with equal or stricter requirements
+compared to those of Regulation 2019/1009;
+(b) chemicals through the conversion of organic waste to carboxylates, carboxylic acids or polymers by fermentation with mixed cultures.
+4. Quality assurance of the production process is performed using Module D1 set out in Regulation (EU) 2019/1009.
+5.Compost and digestate complying with Regulation (EU) 2019/1009 or equivalent national rules is not landfilled.
+The digestate is preferably composted after anaerobic digestion to maximise benefits to the soil it is applied to afterwards,
+and minimises some potential agro-environmental issues such as release of ammonia and nitrates.
+6.Where anaerobic digestion is installed, the produced biogas is used directly for the generation of electricity or heat,
+upgraded to bio-methane for use as a fuel, directly injected in the gas grid and further used for energy purposes by
+replacing natural gas, used as industry feedstock to produce other chemicals or converted into hydrogen for use as a fuel.
+Do no significant harm (‘DNSH’)
+(1) Climate change mitigation A monitoring and contingency plan is in place to minimise methane leakage at the
+facility.
+(58)EN 13432:2000 Packaging – Requirements for packaging recoverable through composting and biodegradation – Test scheme and
+evaluation criteria for the final acceptance of packaging.OJ L, 21.11.2023 EN  
+
+--- Page 47 of 164 ---

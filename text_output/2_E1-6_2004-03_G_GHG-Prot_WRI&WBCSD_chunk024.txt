@@ -1,0 +1,14 @@
+File Name: 2_E1-6_2004-03_G_GHG-Prot_WRI&WBCSD.pdf
+Converted on: 2025-03-28 03:20:43
+Original Size: 3.51 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 24 of 104
+--------------------------------------------------------------------------------
+
+SCL believes that sales to end-users are a critical part of the emis-
+sions profile for an electric utility company. Utility companies needto provide information on their emissions profile to educate end-users and adequately represent the impact of their business, theproviding of electricity. End-use customers need to rely on theirutility company to provide electricity, and except in some instances(green power programs), do not have a choice in where their elec-tricity is purchased. SCL meets a customer need by providingemissions information to customers who are doing their own emis-sions inventory.
+Seattle City Light: Accounting for the
+purchase of electricity sold to end users

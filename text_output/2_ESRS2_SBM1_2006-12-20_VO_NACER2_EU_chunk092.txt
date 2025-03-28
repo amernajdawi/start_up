@@ -1,0 +1,18 @@
+File Name: 2_ESRS2_SBM1_2006-12-20_VO_NACER2_EU.pdf
+Converted on: 2025-03-28 01:56:34
+Original Size: 0.17 MB
+Chunk Size: 400 tokens with 50 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 92 of 109
+--------------------------------------------------------------------------------
+
+1.6. In Annex A, point (f) (‘Level of detail’), paragraphs 4, 5, 6 and 7 shall be replaced by the following:
+‘4. In addition, all variables except for the turnover and new orders variables (No 120, 121, 122, 130, 131, 132) are
+to be transmitted for total industry defined as NACE Rev. 2 Sections B to E and the main industrial groupings
+(MIGs) as defined in Commission Regulation (EC) No 586/2001 (
+1).
+5. The turnover variables (No 120, 121, 122) are to be transmitted for total industry defined as NACE Rev. 2
+Sections B and C and the MIGs with the exception of the main industrial grouping defined for energy-relatedactivities.L 393/32 EN Official Journal of the European Union 30.12.2006
+(1) OJ L 86, 27.3.2001, p. 11.

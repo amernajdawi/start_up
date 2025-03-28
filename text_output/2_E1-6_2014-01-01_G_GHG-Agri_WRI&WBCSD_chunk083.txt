@@ -1,0 +1,25 @@
+File Name: 2_E1-6_2014-01-01_G_GHG-Agri_WRI&WBCSD.pdf
+Converted on: 2025-03-28 03:18:26
+Original Size: 1.75 MB
+Chunk Size: 500 tokens with 50 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 83 of 108
+--------------------------------------------------------------------------------
+
+ Using solar panels Such projects are a potential s ource of offset credits . Other offset projects could be based on the reforestation or rest oration of degraded lands and changes in fertilizer management . - - - Page 75 of 103 - - - GHG Protocol Agricultural Guidance
+
+75
+Accounting for renewable energy projects
+The impact of many of these projects on a company’s inventory will depend on whether
+any of the energy that is generated is cons umed on-site by the company or sent to the
+grid. If the energy is consumed on-site, the project may reduce the amount of electricity
+or fuel consumed, resulting in  a reduction in scope 1 or sc ope 2 emissions that will be 
+evident when comparing inventories over time . On the other hand, if the energy is sent
+off-site, it shall not be used to lower scope 1 or scope 2 em issions. This is necessary to
+prevent double counting of the emissions be nefits of that energy. This requirement
+extends to the calculation of performance metrics, which should not include the
+emissions benefits of sold energy. The GHG Protocol Guidelines for Grid-Connected
+Electricity Projects  – a supplement to the Project Pr otocol (Chapter 1.2) - provide 
+guidance on quantifying the emission s reductions from sold energy.

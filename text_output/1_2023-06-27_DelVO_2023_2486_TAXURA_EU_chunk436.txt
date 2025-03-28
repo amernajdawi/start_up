@@ -1,0 +1,34 @@
+File Name: 1_2023-06-27_DelVO_2023_2486_TAXURA_EU.pdf
+Converted on: 2025-03-28 01:55:43
+Original Size: 8.44 MB
+Chunk Size: 400 tokens with 50 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 436 of 447
+--------------------------------------------------------------------------------
+
+institutions shall provide information on the type of economic activity that is funded. Double counting shall
+not be allowed. Where the same specialised lending exposure is relevant for two environmental objectives,
+credit institutions shall allocate it to the most relevant objective.’;
+(o) Section 1.2.1.6. is replaced by the following:
+‘1.2.1.6. Total GAR
+Credit institutions shall disclose information on the total GAR. This shall reflect the cumulative value of the
+exposure-based KPIs, by including in the denominator the total on-balance sheet assets without exposures
+referred to in Article 7(1) and by adding in the total numerator the numerators of environmentally sustainable
+exposures of the exposure-based KPIs:
+(a) total GAR for financing activities directed at financial undertakings, for all the environmental objectives;
+(b) total GAR for financing activities directed at non-financial undertakings, for all the environmental
+objectives;
+(c) GAR for residential real estate exposures, including house renovation loans, for the objectives of climate
+change mitigation, climate change adaptation, and circular economy;
+(d) GAR for retail car loans, for the objective of climate change mitigation;
+(e) GAR for use of proceeds financing local governments, for all the environmental objectives;
+(f) GAR for commercial and residential repossessed real estate collateral held for sale, for climate change
+objectives.
+Together with the total GAR, credit institutions shall disclose the percentage of assets that are excluded
+from the numerator of the GAR in accordance with Article 7 (2) and (3) and Section 1.1.2 of this Annex.’;
+(p) in Section 1.2.2.1, the first paragraph is replaced by the following:
+‘The green ratio for financial guarantees to undertakings shall be defined as a proportion of financial guarantees
+supporting loans and advances and debt securities financing Taxonomy-aligned economic activities compared
+to all financial guarantees supporting loans and advances and debt securities to undertakings. This shall

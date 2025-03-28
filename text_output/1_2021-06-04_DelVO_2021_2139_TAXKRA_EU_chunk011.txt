@@ -1,0 +1,54 @@
+File Name: 1_2021-06-04_DelVO_2021_2139_TAXKRA_EU.pdf
+Converted on: 2025-03-28 03:20:30
+Original Size: 2.76 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 11 of 447
+--------------------------------------------------------------------------------
+
+(21)  In order to ensure that transitional manufacturing activities as referred to in Article 10(2) of Regulation (EU) 
+2020/852 remain on a credible pathway to decarbonisation and in accordance with Article 19(5) of that Regu ­
+lation, the technical screening criteria for those economic activities should be reviewed at a minimum, every three
+years. That review should include an analysis of whether the technical screening criteria are underpinned by the
+most relevant standards and whether life-cycle emissions from those activities are sufficiently taken into account.
+That review should also assess the potential use of captured carbon, in the light of technology development. For
+manufacturing of iron and steel, new data and evidences from low-carbon steel pilot production processes using
+hydrogen should be further considered and the use of EU emissions trading scheme and of other possible
+benchmarks in the technical screening criteria should be further assessed.  
+(22)  For manufacturing activities that are to be considered to be the enabling activities referred to in Article 10(1), 
+point (i), of Regulation (EU) 2020/852, the technical screening criteria should be based predominantly on the
+nature of the manufactured products, combined, where appropriate, with additional quantitative thresholds to
+ensure that those products can make a substantial contribution to avoidance or reduction of greenhouse gas
+emissions in other sectors. In order to reflect the fact that priority is given to activities that have the greatest
+potential to avoid producing greenhouse gas emissions, to reduce such emissions or to increase greenhouse gas
+removals and long-term carbon storage, the enabling manufacturing activities should focus on the manufacturing
+of products that are necessary for those economic activities to be carried out.  
+(23)  The manufacturing of electrical equipment for electricity plays an important role for the upgrade, uptake and 
+compensation of fluctuations of the electricity provided by the renewable sources of energy in the Union electric
+grids, the recharging of the zero emissions vehicles and deployment of smart, green house applications. At the
+same time, manufacturing of electrical equipment for electricity might enable the development of the smart
+housing concept with the objective of further promoting the use of renewable sources of energy and the good
+management of home equipment. It might therefore be necessary to complement the technical screening criteria in
+the manufacturing sector and to assess the potential of the manufacture of electrical equipment to make a
+substantial contribution to the climate change mitigation and climate change adaptation.  
+(24)  Energy efficiency measures and other climate change mitigation measures, such as deployment of on-site renewable 
+energy technologies, and existing state-of-the-art technologies can lead to significant greenhouse gas emission
+reductions in the manufacturing sector. Therefore, those measures can play an important role to help economic
+activities in the manufacturing sector for which technical screening criteria should be established, to reach their
+respective performance standards and thresholds for substantial contribution to climate change mitigation.  
+(25)  The energy sector accounts for approximately 22 % of direct greenhouse gas emissions in the Union and for 
+approximately 75 % of those emissions when taking into account the use of energy in other sectors. It thus plays a
+key role in climate change mitigation. The energy sector has significant potential to reduce greenhouse gas
+emissions, and several activities in that sector act as enabling activities that facilitate the transition of the
+energy sector towards renewable or low-carbon electricity or heat. It is therefore appropriate to establish
+technical screening criteria for a wide range of activities related to the energy supply chain, ranging from electricity
+or heat generation from different sources, through transmission and distribution networks to storage, as well as
+heat pumps and the manufacture of biogas and biofuels.  
+(26)  The technical screening criteria for determining whether electricity or heat generation activities, including cogen ­
+eration activities, contribute substantially to climate change mitigation should ensure that greenhouse gas emissions
+are reduced or avoided. Technical screening criteria based on greenhouse gas emissions should signal the decarbon ­
+isation pathway for those activities. The technical screening criteria for enabling activities that facilitate the long-
+term decarbonisation should predominantly be based on the nature of the activity or on the best available
+technologies.

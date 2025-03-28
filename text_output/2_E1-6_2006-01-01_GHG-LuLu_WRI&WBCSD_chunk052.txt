@@ -1,0 +1,91 @@
+File Name: 2_E1-6_2006-01-01_GHG-LuLu_WRI&WBCSD.pdf
+Converted on: 2025-03-28 03:18:22
+Original Size: 6.41 MB
+Chunk Size: 500 tokens with 50 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 52 of 88
+--------------------------------------------------------------------------------
+
+BaselineCandidate1:CommercialCropland
+ThecommercialcroplandGHGremovalsandcarbonstocks
+wereestimatedaspartoftheproject-specificprocedure,
+withtableE.8showingthetotalcarbonstocks.
+BaselineCandidate2:TamePastureland
+BaselineCarbonStockChangesandGHGRemovals
+LivingBiomass
+Theabovegroundcomponentofthelivingbiomasscarbon
+poolissmall,andboththeabove-andbelowgroundcompo -
+nentsarerelativelyinsensitivetomanagement(IPCC2003).
+Therefore,itisassumedthattherewillbenochangesin
+livingbiomasscarbonstocksovertime(IPCC2003).Soils
+Thecarbonstockforsoilwithimprovedgrazingmanage -
+mentintheAspenParklandEcoregionis0.09tC/ha/yrfor
+tamepastureland(Boehmetal.2004).Soilorganiccarbon
+levelsreachequilibriumafterabouttwentyyears,andthe
+soilsareassumedtobeinequilibrium.
+Thereforeassumingthesoilsareinequilibrium,thechange
+insoilcarbonovertimeis0tC/ha/yr.
+Thechangeincarbonstocksontamepastureland
+=c hangeinlivingbiomass+changeinsoilcarbon
+=0tC/ha/yr+0tC/ha/yr
+=0tC/ha/yr
+ThebaselineGHGremovalsfromtamepastureland
+=changeincarbonstocks •44—12 tCO 2/tcarbon
+=0tCO 2/ha/yr
+TotalBaselineCarbonStocks
+Toestimatethetotalcarbonstocksfortamepastureland,
+thecarbonstockchangesareaddedtotheequilibrium
+carbonstocks.
+Becauselivingbiomassdoesnotaccumulateonpastureland
+(i.e.,carbonaccumulationthroughplantgrowthisoffsetby
+lossesthroughfireanddecomposition),onlysoilcarbonis
+includedintheequilibriumcarbonstocks.10
+Theequilibriumsoilcarbonstockswereestimatedusingthe
+IPCC’smethodsforcalculatingsoilorganiccarbon(SOC)at
+thebeginningoftheinventoryperiod(IPCC2003).
+SOC=SOC REF •FLU •FMG •FI
+where
+SOC=soilorganiccarbonintheinventoryyear
+given,tC/ha
+SOC REF =thereferencesoilcarbonstock,tC/ha
+FLU =carbonstockchangefactorforlanduseor
+land-usechangetype,dimensionless 11
+FMG =carbonstockchangefactorformanagement
+regime,dimensionless
+FI=carbonstockchangefactorforinputoforganic
+matter,dimensionless
+ForaChernozem(Blacksoilzone)oraLuvisol(DarkGray
+soilzone)inacold,drytemperateclimate,SOC REF is50t
+C/ha.Basedononehectareoflandinimprovedgrassland
+withnominalinputs,thesoilorganiccarbonatthebegin -
+ningoftheinventoryperiodis
+SOC=50tC/ha •1.0 •1.1 •1.0 12
+=55.0tC/ha
+Therefore,theequilibriumcarbonstock=55.0tC/ha
+EXAMPLE :NipawinAfforestationProject 70 TA B L E E . 8 TotalCarbonStocks
+forCommercialCropland
+tC / h a tC
+45.10 1,353,000
+1 45.10 1,353,000
+2 45.10 1,353,000
+3 45.10 1,353,000
+4 45.10 1,353,000
+5 45.10 1,353,000
+6 45.10 1,353,000
+7 45.10 1,353,000
+8 45.10 1,353,000
+9 45.10 1,353,000
+10 45.10 1,353,000
+11 45.10 1,353,000
+12 45.10 1,353,000
+13 45.10 1,353,000
+14 45.10 1,353,000
+15 45.10 1,353,000
+16 45.10 1,353,000
+17 45.10 1,353,000
+18 45.10 1,353,000
+19 45.10 1,353,000
+20 45.10 1,353,000
+21 45.10 1,353,000 Y E A R C A R B O N S T O C K S T O TA L B A S E L I N E

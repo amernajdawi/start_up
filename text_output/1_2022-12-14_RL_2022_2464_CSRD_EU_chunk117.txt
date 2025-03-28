@@ -1,0 +1,54 @@
+File Name: 1_2022-12-14_RL_2022_2464_CSRD_EU.pdf
+Converted on: 2025-03-28 03:20:33
+Original Size: 1.12 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 117 of 140
+--------------------------------------------------------------------------------
+
+(b) the followi ng point is inser ted:
+‘16a. “key sustainability partner(s)” means:
+(a) the statut ory auditor(s) designate d by an audit firm for a particular assurance engag ement concer ning
+sustainability repor ting as being primar ily responsible for carrying out the assurance of sustainability
+repor ting on behalf of the audit firm; or
+(b) in the case of the assurance of consolidate d sustainability repor ting at least the statutor y auditor(s)
+designate d by an audit firm as being primar ily responsible for carrying out the assurance of
+sustainability repor ting at the level of the group and the statutor y auditor(s) designat ed as being
+primar ily responsible at the level of mater ial subsidiar ies; or
+(c) the statut ory auditor(s) who sign(s) the assurance repor t on sustainability repor ting referred to in
+Article 28a;’;
+(c) the followi ng points are added:
+‘21. “sustainability repor ting” means sustainability repor ting as defined in point (18) of Article 2 of Directive
+2013/34/EU;
+22. “assurance of sustainability repor ting” means the perf ormance of procedures resulting in the opinion
+expressed by the statutor y auditor or audit firm in accordance with point (aa) of the second subparagraph
+of Article 34(1) and Article 34(2) of Directive 2013/34/EU;
+23. “independent assurance services provider” means a conf ormity assessment body accredit ed in accordance
+with Regulation (EC) No 765/2008 of the European Parliament and of the Council (*) for the specifi c
+conf ormity assessment activity referred to in point (aa) of the second subparagraph of Article 34(1) of
+Directive 2013/34/EU.
+_____________
+(*) Regulation (EC) No 765/2008 of the European Parliament and of the Council of 9 July 2008 setting out the
+requirements for accreditation and repealing Regulation (EEC) No 339/93 (OJ L 218, 13.8.2008, p. 30).’;
+(3) Article 6 is replaced by the followi ng:
+‘Article 6
+Educational qualif ications
+1. Without prejudice to Article 11, a natural person may be approved to carry out a statutor y audit only after
+having attained university entrance or equivalent level, then compl eted a course of theoretical instr uction, undergone
+practical training and passed an examination of profe ssional compet ence of university final or equivalent examination
+level, organised or recognised by the Member State concer ned.
+2. A natural person may, in addition to the approval to carry out statutor y audits provid ed for in paragraph 1 of
+this Article, be appro ved to carry out the assurance of sustainability repor ting when the additional specifi c
+requirements of Article 7(2), Article 8(3), the second subparagraph of Article 10(1) and the fourth subparagraph of
+Article 14(2) of this Directive are met.
+3. The compe tent author ities refer red to in Article 32 shall cooperate with each other with a view to achi eving a
+conver gence of the requirements set out in this Article. When engaging in such cooperation, those compet ent
+author ities shall take into account developments in auditing and in the audit profes sion and, in particular ,
+conver gence that has already been achieve d by the profess ion. They shall cooperate with the Committ ee of European
+Aud iting Oversight Bodies (CEA OB) and the compe tent author ities referred to in Article 20 of Regulation (EU)
+No 537/2014 in so far as such converg ence relates to the statut ory audit and assurance of sustainability repor ting of
+public-inte rest entities.’;EN Offi cial Jour nal of the European Union L 322/64 16.12.2022  
+
+--- Page 51 of 66 ---

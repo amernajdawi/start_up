@@ -1,0 +1,58 @@
+File Name: 1_2021-06-04_DelVO_2021_2139_TAXKRA_EU.pdf
+Converted on: 2025-03-28 03:20:30
+Original Size: 2.76 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 104 of 447
+--------------------------------------------------------------------------------
+
+Emissions are within or lower than the emission levels associated with the
+best available techniques (BAT-AEL) ranges set out in the latest relevant
+best available techniques (BAT) conclusions, including:
+(a) the Best Available Techniques Reference Document (BREF) for the
+manufacture of Large Volume Inorganic Chemicals - Ammonia,
+Acids and Fertilisers (  151  ); 
+(b) the best available techniques (BAT) conclusions for common waste
+water and waste gas treatment/management systems in the chemical
+sector (  152  ). 
+No significant cross-media effects occur.  
+(6) Protection and restoration of
+biodiversity and ecosystems  The activity complies with the criteria set out in Appendix D to this 
+Annex.  
+3.17.  Manufacture of plastics in primary form  
+Description of the activity  
+Manufacture resins, plastics materials and non-vulcanisable thermoplastic elastomers, the mixing and blending of
+resins on a custom basis, as well as the manufacture of non-customised synthetic resins.  
+The economic activities in this category could be associated with NACE code C20.16 in accordance with the
+statistical classification of economic activities established by Regulation (EC) No 1893/2006.  
+An economic activity in this category is a transitional activity as referred to in Article 10(2) of Regulation (EU)
+2020/852 where it complies with the technical screening criteria set out in this Section.  
+Technical screening criteria  
+Substantial contribution to climate change mitigation  
+The activity complies with one of the following criteria:
+(a) the plastic in primary form is fully manufactured by mechanical recycling of plastic waste;
+(b) where mechanical recycling is not technically feasible or economically viable, the plastic in primary form is
+fully manufactured by chemical recycling of plastic waste and the life-cycle GHG emissions of the manu ­
+factured plastic, excluding any calculated credits from the production of fuels, are lower than the life-cycle
+GHG emissions of the equivalent plastic in primary form manufactured from fossil fuel feedstock. Life-cycle
+GHG emissions are calculated using Recommendation 2013/179/EU or, alternatively, using
+ISO 14067:2018 (  153  ) or ISO 14064-1:2018 (  154  ). Quantified life-cycle GHG emissions are verified by an 
+independent third party.
+(c) derived wholly or partially from renewable feedstock (  155  ) and its life-cycle GHG emissions are lower than the 
+life-cycle GHG emissions of the equivalent plastics in primary form manufactured from fossil fuel feedstock.
+Life-cycle GHG emissions are calculated using Recommendation 2013/179/EU or, alternatively, using
+ISO 14067:2018 or ISO 14064-1:2018. Quantified life-cycle GHG emissions are verified by an independent
+third party.  
+_____________
+( 151  ) Best Available Techniques (BAT) Reference Document for the manufacture of Large Volume Inorganic Chemicals - Ammonia, 
+Acids and Fertilisers (version of 4.6.2021: https://eippcb.jrc.ec.europa.eu/sites/default/files/2019-11/lvic_aaf.pdf).
+( 152  ) Implementing Decision (EU) 2016/902. 
+( 153  ) ISO standard 14067:2018, Greenhouse gases — Carbon footprint of products — Requirements and guidelines for quantification 
+(version of 4.6.2021: https://www.iso.org/standard/71206.html).
+( 154  ) ISO standard 14064-1:2018, Greenhouse gases — Part 1: Specification with guidance at the organization level for quantificatio n 
+and reporting of greenhouse gas emissions and removals (version of 4.6.2021: https://www.iso.org/standard/66453.html).
+( 155  ) Renewable feedstock refers to biomass, industrial bio-waste or municipal bio-waste.EN  9.12.2021 Official Journal of the European Union L 442/61
+
+--- Page 62 of 349 ---

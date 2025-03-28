@@ -1,0 +1,47 @@
+File Name: 1_2023-06-27_DelVO_2023_2486_TAXURA_EU.pdf
+Converted on: 2025-03-28 03:20:36
+Original Size: 8.44 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 125 of 199
+--------------------------------------------------------------------------------
+
+ELI: http://data.europa.eu/eli/reg_del/2023/2486/oj 90/164(b) where the API does not comply with the requirements specified in point (a), the API, its key human metabolites and its
+key transformation products in the environment comply with one of the following:
+(i) are classified as readily biodegradable based on at least one of the test methods from the OECD Guidelines for the
+Testing of Chemicals, Test 301 (A-F), Ready Biodegradability (3), in accordance with the pass value for ready
+biodegradability as defined in that guideline;
+(ii) can be concluded to be mineralised based on a specific Test No 308: Aerobic and Anaerobic Transformation in Aquatic Sediment Systems (OECD 308) (
+4)of the OECD Guidelines for the Testing of Chemicals (5)compared to
+persistence criteria as defined in the EMA ERA guideline.
+1.2. The API qualifies as an appropriate substitute to another API, within the same therapeutic area or the substance class,
+that is available in the market or was available during last 5 years and that does not comply with the requirements described in point 1.1.
+Compliance with this requirement is demonstrated through a publicly available analysis verified by an independent third
+party.
+1.3. The manufacturing process of the API does not involve the use of substances, whether on their own or in mixtures,
+that meet the criteria set out in Article 57 of Regulation (EC) No 1907/2006 except where it is assessed and documented
+by the operator that no other suitable alternative substances or technologies are available on the market, and that they are
+used under controlled conditions (
+6).
+2.The activity complies with the following requirements regarding the emission of pollutants:
+2.1. Where the activity falls within its scope, the emission limit values are lower than the mid-point of the BAT-AEL
+ranges (7)set out in:
+(a) the best available techniques (BAT) conclusions for common waste gas management and treatment systems in the chemical sector for emissions to air of new installations (or for existing installations within 4 years of the BATC
+publication) where relevant conditions apply (
+8);
+(b) the Best Available Techniques Reference Document (BREF) for Manufacture of Organic Fine Chemicals (OFC) (9)for the
+manufacturing activity under conditions not covered by the BATC mentioned above;
+(3)OECD Guidelines for the Testing of Chemicals, Test 301 (A-F), Ready Biodegradability, version of 27.6.2023 available at: https://www.
+oecd.org/chemicalsafety/risk-assessment/1948209.pdf. OECD 301 (A-F) test is used to identify substances which are assumed to
+rapidly and ultimately biodegrade, i.e. mineralised under aerobic environmental conditions.
+(4)Higher-tier studies (OECD 308) result with so-called half-lives indicating the time after which 50 % biodegradation of the API is
+achieved. Half-lives acceptable to demonstrate sufficiently quick biodegradation, i.e. non-persistence, according to the Regulation (EC)
+No 1907/2006, Annex XIII, which is also referenced in the EMA ERA guideline, apply.
+(5)OECD Guidelines for the Testing of Chemicals, Test No 308: Aerobic and Anaerobic Transformation in Aquatic Sediment Systems,
+version of 27.6.2023 available at: https://www.oecd-ilibrary.org/environment/test-no-308-aerobic-and-anaerobic-transformation-in-
+aquatic-sediment-systems_9789264070523-en.
+(6)The Commission will review the exceptions from the prohibition from manufacturing, placing on the market or use of the substances referred to in points (f) and (g) once it will have published horizontal principles on essential use of chemicals.
+(7)The requirements under this point tackle the pollutants identified under the key environmental issues of each BREF document or the
+BAT-AEL of the relevant BAT conclusions Commission Implementing Decisions. Where BAT-AEL differentiate between ‘existing’ and

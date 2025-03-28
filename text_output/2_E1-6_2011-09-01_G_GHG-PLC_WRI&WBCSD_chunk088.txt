@@ -1,0 +1,61 @@
+File Name: 2_E1-6_2011-09-01_G_GHG-PLC_WRI&WBCSD.pdf
+Converted on: 2025-03-28 03:20:53
+Original Size: 3.27 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 88 of 116
+--------------------------------------------------------------------------------
+
+[115]The quantification of GHG emissions and removals across a product’s life cycle is complex
+and the results are highly dependent on methodological choices and assumptions. Valid
+product comparison requires the use of equivalent methodologies that minimize the
+methodological variability. In order to compare products on a fair and valid basis, companies
+need to supplement use of the Product Standard .
+As stated in chapter 1, this standard is intended to support
+performance tracking of one product over time.  For 
+other types of product comparison – including consumer
+and business purchasing decisions, product labels, and
+performance claims – additional specifications are needed.  
+Claims regarding the overall environmental superiority or
+equivalence of one product versus a competing product,
+referred to in ISO 14044 as comparative assertions, are
+not supported by the  Product Standard . Table A.1 provides 
+descriptions and examples of types of product comparison, and table A.2 illustrates the applicability of
+this standard for each comparison type.
+For companies and stakeholders that choose to
+perform product comparison, the following additional
+specifications are recommended.
+Performance tracking:  
+•The unit of analysis should be identical
+•If the parameters and methodologies change, the
+previous inventory shall be adjusted to permit
+comparison on the same basisAppendix A.  Guidance on Product Comparison 
+Comparison type Description Example
+Performance tracking Comparing the performance of the same
+product over time.Product X emits 8 lbs. of CO2e per unit
+of analysis in 2010 compared with a
+2005 base inventory of 10 lbs. CO2e
+per unit of analysis, demonstrating a
+20-percent improvement.
+Consumer and business
+purchasing decisionsA consumer or business changes  
+purchasing habits based on the GHG
+performance of one product compared
+with a competing product. A retailer increases milk purchases from
+the milk producer with the lowest GHG
+product inventory.
+Product labels A label printed on a product making a  
+claim (either quantitative or qualitative)
+about the life cycle performance of  
+the product.  A label on a bag of popcorn states the 
+product GHG emissions are 7 grams.
+Performance claims Advertising the GHG benefits of a  
+product by the company performing  
+the inventory or a third party.A consumer group advertises on  
+their website a list of products they
+claim emit less GHG emissions than
+competing products.  Table [A.1] Types of comparisons that can be made using a product GHG inventory
+
+--- Page 118 of 148 ---

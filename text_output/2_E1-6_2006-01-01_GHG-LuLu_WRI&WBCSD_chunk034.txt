@@ -1,0 +1,195 @@
+File Name: 2_E1-6_2006-01-01_GHG-LuLu_WRI&WBCSD.pdf
+Converted on: 2025-03-28 03:20:49
+Original Size: 6.41 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 34 of 50
+--------------------------------------------------------------------------------
+
+7.1.3 CALCULATE THEGHG REMOVALS
+FORDIFFERENTSTRINGENCY LEVEL S
+Thetime-basedperformancestandardstringencylevelrefers
+tohowhighthebaselineGHGremovalsarerelativetothe
+GHGremovalsofallthebaselinecandidates.Thestringency
+levelischosenbycomparingthe
+•MoststringentGHGremovals.
+•WeightedmeanGHGremovals.
+•MedianGHGremovals.
+•GHGremovalsrelatingtotwodifferentpercentilesthat
+areatleastbetterthanaverage.
+MostStringentGHGRemovals
+Becauseneitherthecommercialcroplandnorthepasture -
+landhasanychangeinitsGHGremovalsovertime,the
+moststringentGHGremovalsarethoseforhybridpoplar
+forest(seetableE.12).WeightedMeanGHGRemovals
+WeightedmeanGHGremovals jt =
+where
+GHGremovals jt=GHGremovalsforbaseline
+candidate jintimeperiodt
+area j=areaencompassedbybaselinecandidate j
+(e.g.,1hectare)
+n=totalnumberofbaselinecandidates
+j=individualbaselinecandidate
+Theformulawasappliedtothethreebaselinecandidates—
+commercialcropland,pastureland,andhybridpoplar
+forest—tocalculatetheweightedmeanGHGremovalsfor
+years1to21(tableE.13).
+EXAMPLE :NipawinAfforestationProject 72 Y E A R
+1
+2345678910 11 12 13 14 15 16 17 18 19 20 21 TA B L E E . 1 0 BaselineCarbonStocks andGHGRemovals forHybridPoplarForest
+C U M U L AT I V E
+I N C R E A S E I N
+S O I L C A R B O N
+S T O C K S
+tC / h a
+0.5
+1.0
+1.5
+2.0
+2.5
+3.0
+3.5
+4.0
+4.5
+5.0
+5.5
+6.0
+6.5
+7.0
+7.5
+8.0
+8.5
+9.0
+9.5
+10.0
+10.0 T O TA L C U M U L AT I V E
+I N C R E A S E I N
+C A R B O N S T O C K S
+F R O M A L L P O O L S
+tC / h a
+0.85
+3.11
+7.23
+13.07
+20.26
+28.39
+37.06
+45.89
+54.66
+63.15
+71.23
+78.81
+85.85
+92.31
+98.22
+103.58
+108.45
+112.83
+116.78
+120.32
+120.32 C H A N G E
+I N C A R B O N
+S T O C K S
+tC / h a
+0.85
+2.26
+4.12
+5.84
+7.19
+8.13
+8.67
+8.83
+8.77
+8.49
+8.08
+7.58
+7.04
+6.46
+5.91
+5.36
+4.87
+4.38
+3.95
+3.54
+0G H G
+R E M O VA L S
+tC O 2/h a
+3.12
+8.29
+15.11
+21.41
+26.36
+29.81
+31.79
+32.38
+32.16
+31.13
+29.63
+27.79
+25.81
+23.69
+21.67
+19.65
+17.86
+16.06
+14.48
+12.98
+0C U M U L AT I V E
+I N C R E A S E I N
+A B O V E G R O U N D
+C A R B O N S T O C K S
+tC / h a
+0.31
+2.00
+5.52
+10.76
+17.34
+24.87
+32.93
+41.18
+49.37
+57.28
+64.79
+71.81
+78.29
+84.21
+89.57
+94.40
+98.73
+102.58
+106.01
+109.03
+109.03 C U M U L AT I V E
+I N C R E A S E I N
+B E L O W G R O U N D
+C A R B O N S T O C K S
+tC / h a
+0.04
+0.11
+0.21
+0.31
+0.42
+0.52
+0.63
+0.71
+0.79
+0.87
+0.94
+1.00
+1.06
+1.10
+1.15
+1.18
+1.22
+1.25
+1.27
+1.29
+1.29
+j=1n
+(CO 2removals jt •area j)
+j=1n
+(area j)
+
+--- Page 75 of 100 ---

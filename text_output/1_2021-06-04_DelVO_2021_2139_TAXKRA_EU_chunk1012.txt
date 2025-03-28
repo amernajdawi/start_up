@@ -1,0 +1,36 @@
+File Name: 1_2021-06-04_DelVO_2021_2139_TAXKRA_EU.pdf
+Converted on: 2025-03-28 01:55:25
+Original Size: 2.76 MB
+Chunk Size: 400 tokens with 50 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 1012 of 1091
+--------------------------------------------------------------------------------
+
+(c) installation, maintenance, repair and upgrade of heat pumps contributing to the targets for renewable energy in
+heat and cool in accordance with Directive (EU) 2018/2001 and the ancillary technical equipment;  
+(d) installation, maintenance and repair of wind turbines and the ancillary technical equipment;  
+(e) installation, maintenance and repair of solar transpired collectors and the ancillary technical equipment;  
+(f) installation, maintenance and repair of thermal or electric energy storage units and the ancillary technical
+equipment;  
+(g) installation, maintenance and repair of high efficiency micro CHP (combined heat and power) plant;  
+(h) installation, maintenance and repair of heat exchanger/recovery systems.  
+The economic activities in this category could be associated with several NACE codes, in particular F42, F43, M71,
+C16, C17, C22, C23, C25, C27 or C28, in accordance with the statistical classification of economic activities
+established by Regulation (EC) No 1893/2006.  
+Technical screening criteria  
+Substantial contribution to climate change adaptation  
+1. The economic activity has implemented physical and non-physical solutions (‘adaptation solutions’) that
+substantially reduce the most important physical climate risks that are material to that activity.
+2. The physical climate risks that are material to the activity have been identified from those listed in
+Appendix A to this Annex by performing a robust climate risk and vulnerability assessment with the
+following steps:
+(a) screening of the activity to identify which physical climate risks from the list in Appendix A to this Annex
+may affect the performance of the economic activity during its expected lifetime;
+(b) where the activity is assessed to be at risk from one or more of the physical climate risks listed in Appendix A
+to this Annex, a climate risk and vulnerability assessment to assess the materiality of the physical climate risks
+on the economic activity;
+(c) an assessment of adaptation solutions that can reduce the identified physical climate risk.
+The climate risk and vulnerability assessment is proportionate to the scale of the activity and its expected lifespan,
+such that:

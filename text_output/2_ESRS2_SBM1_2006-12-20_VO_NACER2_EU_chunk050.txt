@@ -1,0 +1,69 @@
+File Name: 2_ESRS2_SBM1_2006-12-20_VO_NACER2_EU.pdf
+Converted on: 2025-03-28 03:18:28
+Original Size: 0.17 MB
+Chunk Size: 500 tokens with 50 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 50 of 78
+--------------------------------------------------------------------------------
+
+--- Page 20 of 39 ---
+
+n.e.c. : not elsewhere classified * part of
+Division Group ClassISIC
+Rev. 4
+47.82 Retail sale via stalls and markets of textiles, clothing and footwear 4782
+47.89 Retail sale via stalls and markets of other goods 4789
+47.9 Retail trade not in stores, stalls or markets
+47.91 Retail sale via mail order houses or via Internet 4791
+47.99 Other retail sale not in stores, stalls or markets 4799
+SECTION H —TRANSPORTATION AND STORAGE
+49 Land transport and transport via pipelines
+49.1 Passenger rail transport, interurban
+49.10 Passenger rail transport, interurban 4911
+49.2 Freight rail transport
+49.20 Freight rail transport 4912
+49.3 Other passenger land transport
+49.31 Urban and suburban passenger land transport 492149.32 Taxi operation 4922*
+49.39 Other passenger land transport n.e.c. 4922*
+49.4 Freight transport by road and removal services
+49.41 Freight transport by road 4923*
+49.42 Removal services 4923*
+49.5 Transport via pipeline
+49.50 Transport via pipeline 4930
+50 Water transport
+50.1 Sea and coastal passenger water transport
+50.10 Sea and coastal passenger water transport 5011
+50.2 Sea and coastal freight water transport
+50.20 Sea and coastal freight water transport 5012
+50.3 Inland passenger water transport
+50.30 Inland passenger water transport 5021
+50.4 Inland freight water transport
+50.40 Inland freight water transport 5022
+51 Air transport
+51.1 Passenger air transport
+51.10 Passenger air transport 5110
+51.2 Freight air transport and space transport
+51.21 Freight air transport 5120*
+51.22 Space transport 5120*
+52 Warehousing and support activities for transportation
+52.1 Warehousing and storage
+52.10 Warehousing and storage 5210
+52.2 Support activities for transportation
+52.21 Service activities incidental to land transportation 5221
+52.22 Service activities incidental to water transportation 5222
+52.23 Service activities incidental to air transportation 5223
+52.24 Cargo handling 522452.29 Other transportation support activities 5229
+53 Postal and courier activities
+53.1 Postal activities under universal service obligation
+53.10 Postal activities under universal service obligation 5310
+53.2 Other postal and courier activities
+53.20 Other postal and courier activities 5320
+SECTION I —ACCOMMODATION AND FOOD SERVICE ACTIV-
+ITIES
+55 Accommodation
+55.1 Hotels and similar accommodation
+55.10 Hotels and similar accommodation 5510*L 393/20 EN Official Journal of the European Union 30.12.2006
+
+--- Page 21 of 39 ---

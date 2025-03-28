@@ -1,0 +1,42 @@
+File Name: 1_2023-06-27_DelVO_2023_2486_TAXURA_EU.pdf
+Converted on: 2025-03-28 03:20:36
+Original Size: 8.44 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 78 of 199
+--------------------------------------------------------------------------------
+
+ELI: http://data.europa.eu/eli/reg_del/2023/2486/oj 55/164Where the new construction is located on a potentially contaminated site (brownfield
+site), the site has been subject to an investigation for potential contaminants, for
+example using standard ISO 18400 (93).
+Measures are taken to reduce noise, dust and pollutant emissions during construction or
+maintenance works.
+(6) Protection and restoration
+of biodiversity and ecosys ­
+temsThe activity complies with the criteria set out in Appendix D to this Annex.
+The new construction is not built on one of the following:(a) arable land and crop land with a moderate to high level of soil fertility and below
+ground biodiversity as referred to the EU LUCAS survey (
+94);
+(b) greenfield land of recognised high biodiversity value and land that serves as habitat
+of endangered species (flora and fauna) listed on the European Red List (95)or the
+IUCN Red List (96);
+(c) land matching the definition of forest as set out in national law used in the national
+greenhouse gas inventory, or where not available, is in accordance with the FAO
+definition of forest (97).
+3.2. Renovation of existing buildings
+Description of the activity
+Construction and civil engineering works or preparation thereof.
+The economic activities in this category could be associated with several NACE codes, in particular F41 and F43 in
+accordance with the statistical classification of economic activities established by Regulation (EC) No 1893/2006.
+(93)ISO 18400 series on Soil quality – Sampling.
+(94)JRC ESDCA, LUCAS: Land Use and Coverage Area frame Survey (version of 27.6.2023: https://esdac.jrc.ec.europa.eu/projects/lucas).
+(95)IUCN, The IUCN European Red List of Threatened Species (version of 27.6.2023: https://www.iucn.org/regions/europe/our-work/
+biodiversity-conservation/european-red-list-threatened-species).
+(96)IUCN, The IUCN Red List of Threatened Species (version of 27.6.2023: https://www.iucnredlist.org).
+(97)Land spanning more than 0,5 hectares with trees higher than five metres and a canopy cover of more than 10 %, or trees able to reach
+those thresholds in situ. It does not include land that is predominantly under agricultural or urban land use, FAO Global Resources
+Assessment 2020. Terms and definitions (version of 27.6.2023: http://www.fao.org/3/I8661EN/i8661en.pdf).OJ L, 21.11.2023 EN  
+
+--- Page 56 of 164 ---

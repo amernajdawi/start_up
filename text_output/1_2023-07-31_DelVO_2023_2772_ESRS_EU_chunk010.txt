@@ -1,0 +1,48 @@
+File Name: 1_2023-07-31_DelVO_2023_2772_ESRS_EU.pdf
+Converted on: 2025-03-28 03:20:41
+Original Size: 5.82 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 10 of 284
+--------------------------------------------------------------------------------
+
+ELI: http://data.europa.eu/eli/reg_del/2023/2772/oj 9/28432. If the undertaking concludes that climate change is not material and therefore omits all disclosure requirements in
+ESRS E1 Climate change, it shall disclose a detailed explanation of the conclusions of its materiality assessment with
+regard to climate change (see ESRS 2 IRO-2 Disclosure Requirements in ESRS covered by the undertaking’s sustainability
+statement), including a forward-looking analysis of the conditions that could lead the undertaking to conclude that
+climate change is material in the future. If the undertaking concludes that a topic other than climate change is not
+material and therefore it omits all the Disclosure Requirements in the corresponding topical ESRS, it may briefly explain the conclusions of its materiality assessment for that topic.
+33. When disclosing information on policies, actions and targets in relation to a sustainability matter that has been
+assessed to be material, the undertaking shall include the information prescribed by all the Disclosure Requirements and datapoints in the topical and sector-specific ESRS related to that matter and in the corresponding Minimum
+Disclosure Requirement on policies, actions, and targets required under ESRS 2. If the undertaking cannot disclose
+the information prescribed by either the Disclosure Requirements and datapoints in the topical or sector-specific ESRS, or the Minimum Disclosure Requirements in ESRS 2 on policies, actions and targets, because it has not
+adopted the respective policies, implemented the respective actions or set the respective targets, it shall disclose this
+to be the case and it may report a timeframe in which it aims to have these in place.
+34. When disclosing information on metrics for a material sustainability matter according to the Metrics and Targets
+section of the relevant topical ESRS, the undertaking:
+(a) shall include the information prescribed by a Disclosure Requirement if it assesses such information to be
+material; and
+(b) may omit the information prescribed by a datapoint of a Disclosure Requirement if it assesses such information to be not material and concludes that such information is not needed to meet the objective of the Disclosure
+Requirement.
+35. If the undertaking omits the information prescribed by a datapoint that derives from other EU legislation listed in Appendix B of ESRS 2, it shall explicitly state that the information in question is “not material”.
+36. The undertaking shall establish how it applies criteria, including appropriate thresholds, to determine:
+(a) the information it discloses on metrics for a material sustainability matter according to the Metrics and Targets
+section of the relevant topical ESRS, in accordance with paragraph 34; and
+(b) the information to be disclosed as entity-specific disclosures.
+3.3 Double materiality
+37. Double materiality has two dimensions, namely: impact materiality and financial materiality . Unless specified
+otherwise, the terms “material” and “materiality” are used throughout ESRS to refer to double materiality.
+38. Impact materiality and financial materiality assessments are inter-related and the interdependencies between these
+two dimensions shall be considered. In general, the starting point is the assessment of impacts, although there may
+also be material risks and opportunities that are not related to the undertaking’s impacts. A sustainability impact
+may be financially material from inception or become financially material, when it could reasonably be expected to
+affect the undertaking’s financial position, financial performance, cash flows, its access to finance or cost of capital
+over the short-, medium- or long-term. Impacts are captured by the impact materiality perspective irrespective of
+whether or not they are financially material.
+39. In identifying and assessing the impacts, risks and opportunities in the undertaking’s value chain to determine their
+materiality , the undertaking shall focus on areas where impacts, risks and opportunities are deemed likely to arise,
+based on the nature of the activities, business relationships, geographies or other factors concerned.OJ L, 22.12.2023 EN  
+
+--- Page 10 of 284 ---

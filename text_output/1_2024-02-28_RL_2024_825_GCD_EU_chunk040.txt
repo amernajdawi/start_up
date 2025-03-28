@@ -1,0 +1,36 @@
+File Name: 1_2024-02-28_RL_2024_825_GCD_EU.pdf
+Converted on: 2025-03-28 03:18:15
+Original Size: 0.61 MB
+Chunk Size: 500 tokens with 50 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 40 of 49
+--------------------------------------------------------------------------------
+
+ELI: http://data.europa.eu/eli/dir/2024/825/oj 12/16(4) Annex I is amended in accordance with the Annex to this Directive.
+Article 2
+Amendments to Directiv e 2011/83/EU
+Directive 2011/83/EU is amended as follows :
+(1) in Article 2, the follo wing points are inser ted:
+‘(14a) “commercial guarant ee of durability” means a producer ’s commercial guarant ee of durability as refer red to in
+Article 17 of Directive (EU) 2019/771, under which the producer is directly liable to the consumer during the
+entire period of the commercial guarantee of durability for repair or replacement of the goods in accordance
+with Article 14 of Directive (EU) 2019/771, whenever the goods do not maintain their durability ;
+(14b) “durability” means durability as defined in Article 2, point (13), of Directive (EU) 2019/771;
+(14c) “producer” means producer as defined in Article 2, point (4), of Directive (EU) 2019/771;
+(14d) “reparability score” means a score expressing the capacity of a good to be repaired, based on harmonised
+requirements established at Union level;
+(14e) “sof tware updat e” means a free updat e, including a secur ity update , that is necessar y to keep goods with digital
+elements, digital conte nt and digital services in conf ormity in accordance with Directives (EU) 2019/770 and
+(EU) 2019/771;’;
+(2) in Article 5, paragraph 1 is amended as follows:
+(a) point (e) is replaced by the following:
+‘(e) a reminder of the existen ce of the legal guarant ee of conf ormity for goods and its main elements, including its
+minimum duration of two years as provid ed in Directive (EU) 2019/771, in a prominent manner , using the
+harmonised notice refer red to in Article 22a of this Directive;’;
+(b) the follo wing points are inser ted:
+‘(ea) where the producer offers the consumer a commercial guarant ee of durability at no additional cost, covering
+the entire good and with a duration of more than two years and make s that information available to the
+trader , the information that that good benefi ts from such a guarantee, its duration and a reminder of the
+existence of the legal guarant ee of conf ormity , in a prominent manner , using the harmonised label refer red

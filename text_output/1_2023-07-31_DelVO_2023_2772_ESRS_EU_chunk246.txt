@@ -1,0 +1,42 @@
+File Name: 1_2023-07-31_DelVO_2023_2772_ESRS_EU.pdf
+Converted on: 2025-03-28 03:20:41
+Original Size: 5.82 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 246 of 284
+--------------------------------------------------------------------------------
+
+ELI: http://data.europa.eu/eli/reg_del/2023/2772/oj 245/284(c) business opportunities related to the undertaking’s impacts on consumers and/or end- users may include
+market differentiation and greater customer appeal from offering safe products or privacy-respecting services;
+and
+(d) business opportunities related to the undertaking’s dependencies on consumers and/or end-users may include
+the achievement of a loyal future consumer base by ensuring, for example, that LGBTQI people are respected and that the undertaking’s selling practices do not exclude such people from the products or services it offers.
+AR 38. When disclosing whether dependencies turn into risks, the undertaking shall consider external developments.
+AR 39. When disclosing policies, action and resources and targets related to the management of material risks and
+opportunities, in cases where risks and opportunities arise from a material impact, the undertaking may cross- reference its disclosures on policies, action and resources and targets in relation to that impact.
+AR 40. The undertaking shall consider the extent to which its processes to manage material risks related to consumers
+and/or end-users are integrated into its existing risk management processes and how.
+AR 41. When disclosing the resources allocated to the management of material impacts, the undertaking may disclose
+which internal functions are involved in managing the impacts and what types of action they take to address
+negative and advance positive impacts.
+Metrics and targets
+Disclosure Requirement S4-5 – Targets related to managing material negative impacts, advancing positive impacts, and
+managing material risks and opportunities
+AR 42. When disclosing targets in relation to consumers and/or end-users, the undertaking may disclose:
+(a) the intended outcomes to be achieved in the lives of consumers and/or end-users, being as specific as possible;
+(b) their stability over time in terms of definitions and methodologies to enable comparability; and/or
+(c) references standards or commitments on which the targets are based are to be clearly defined in the reporting
+(for instance codes of conduct, sourcing policies, global frameworks or industry codes).
+AR 43. Targets related to material risks and opportunities may be the same as or distinct from targets tied to material
+impacts. For example, a target to ensure equal access to finance for underserved consumers could both reduce
+discrimination impacts on those consumers and enlarge the undertaking’s pool of customers.
+AR 44. The undertaking may also distinguish between short, medium and long-term targets covering the same policy
+commitment. For example, the undertaking may have as a main objective to make its online services accessible to
+people with disabilities, with the long-term goal of having adapted 100% of its online services by 2025, and with
+the short-term objective of adding x number of accessible features every year up and until 2025.
+AR 45. When modifying or replacing a target in the reporting period, the undertaking may explain the change by cross- referencing it to significant changes in the business model or to broader changes in the accepted standard or legislation from which the target is derived to provide contextual information as per ESRS 2 BP-2 Disclosures in
+relation to specific circumstances.OJ L, 22.12.2023 EN  
+
+--- Page 246 of 284 ---

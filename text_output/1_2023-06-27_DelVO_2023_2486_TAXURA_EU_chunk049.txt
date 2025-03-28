@@ -1,0 +1,54 @@
+File Name: 1_2023-06-27_DelVO_2023_2486_TAXURA_EU.pdf
+Converted on: 2025-03-28 03:20:36
+Original Size: 8.44 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 49 of 199
+--------------------------------------------------------------------------------
+
+ELI: http://data.europa.eu/eli/reg_del/2023/2486/oj 31/164Life-cycle GHG emissions of plastic manufactured from sustainable bio-waste feedstock
+are lower than the life-cycle GHG emissions of the equivalent plastics in primary form
+manufactured from fossil fuel feedstock. Life-cycle GHG emissions are calculated using
+Commission Recommendation 2013/179/EU (13)or, alternatively, using ISO
+14067:2018 or ISO 14064-1:2018. Quantified life-cycle GHG emissions are verified
+by an independent third party.
+(2) Climate change adaptation The activity complies with criteria set out in Appendix A to this Annex.
+(3) Sustainable use and protec ­
+tion of water and marine resourcesThe activity complies with criteria set out in Appendix B to this Annex.
+(5) Pollution prevention and controlThe activity complies with criteria set out in Appendix C to this Annex.
+For the products manufactured from plastic materials in primary form, emissions from
+the manufacturing of those plastic materials are within or lower than the emission levels
+associated with the best available techniques (BAT-AEL) ranges set out in the relevant
+best available techniques (BAT) conclusions, including:
+(a) the best available techniques (BAT) conclusions for common waste water and waste
+gas treatment/management systems in the chemical sector (
+14), for emissions to
+water where relevant emission thresholds apply;
+(b) the best available techniques (BAT) conclusions for common waste gas management
+and treatment systems in the chemical sector (15)for emissions to air of new
+installations (or for existing installations within 4 years of the BATC publication)
+where relevant conditions apply;
+(c) the Best Available Techniques Reference Document (BREF) for the Production of Polymers (
+16)for the production processes under conditions not covered by the
+BATC mentioned above;
+(d) the Best Available Techniques Reference Document (BREF) for the Large Volume
+Inorganic Chemicals – Solids and Others industry (17);
+(e) the Best Available Techniques Reference Document (BREF) for the manufacture of
+Large Volume Inorganic Chemicals – Ammonia, Acids and Fertilisers (18);
+(13)Commission Recommendation of 9 April 2013 on the use of common methods to measure and communicate the life cycle
+environmental performance of products and organisations (OJ L 124, 4.5.2013, p. 1).
+(14)Commission Implementing Decision (EU) 2016/902 of 30 May 2016 establishing best available techniques (BAT) conclusions, under
+Directive 2010/75/EU of the European Parliament and of the Council, for common waste water and waste gas treatment/management
+systems in the chemical sector (OJ L 152, 9.6.2016, p. 23).
+(15)Commission Implementing Decision (EU) 2022/2427 of 6 December 2022 establishing the best available techniques (BAT)
+conclusions, under Directive 2010/75/EU of the European Parliament and of the Council on industrial emissions, for common waste
+gas management and treatment systems in the chemical sector (OJ L 318, 12.12.2022, p. 157).
+(16)Best Available Techniques (BAT) Reference Document for the Production of Polymers (version of 27.6.2023: https://eippcb.jrc.ec.
+europa.eu/sites/default/files/2019-11/pol_bref_0807.pdf).
+(17)Best Available Techniques (BAT) Reference Document for the Large Volumes Inorganic Chemicals- Solids and Others industry (version
+of 27.6.2023: https://eippcb.jrc.ec.europa.eu/sites/default/files/2019-11/lvic-s_bref_0907.pdf).
+(18)Best Available Techniques (BAT) Reference Document for the manufacture of Large Volume Inorganic Chemicals – Ammonia, Acids and Fertilisers (version of 27.6.2023: https://eippcb.jrc.ec.europa.eu/sites/default/files/2019-11/lvic_aaf.pdf).OJ L, 21.11.2023 EN  
+
+--- Page 32 of 164 ---

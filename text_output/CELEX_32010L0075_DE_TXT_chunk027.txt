@@ -1,0 +1,397 @@
+File Name: CELEX_32010L0075_DE_TXT.pdf
+Converted on: 2025-03-28 03:21:03
+Original Size: 4.18 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 27 of 93
+--------------------------------------------------------------------------------
+
+erhebliche
+nachteilige
+Auswirkungen
+auf die Umwelt ein es
+ande­
+ren
+Mitgliedstaats
+haben
+könnte,
+oder stellt ein  
+Mitgliedstaat,
+der
+möglicherweise
+davon erheb lich
+berührt
+wird, ein en tsprechen
+­
+des Ersuchen,
+so teilt der Mitg liedstaat,
+in
+dessen
+Hoheitsgebiet
+die
+Genehmigung
+nach
+Artikel
+4 oder Artik el
+20 Absatz
+2 beantragt
+wurde,
+dem anderen
+Mitgliedstaat
+die nach
+Anhang
+IV
+erforder­
+lichen
+oder bereitgestellten
+Angaben
+zum gleichen
+Zeitpunkt mit,
+zu dem er sie der Öffen tlichkeit
+zur Verfüg ung
+stellt.
+Diese Angaben
+dienen
+als Grundlage
+für notwendige
+Konsultati­
+onen
+im Rahmen  
+der bilateralen
+Beziehunge
+n beider Mitg liedstaa­
+ten
+auf der Basis von  
+Gegenseitigkeit
+und
+Gleichwertig keit.
+(2) Die
+Mitgliedstaaten
+sorgen
+im Rahmen  
+ihrer bilateralen
+Beziehungen
+dafür, dass in  
+den
+in
+Absatz
+1 genannten
+Fällen
+die
+Anträge
+auch der Öffen tlichkeit
+des möglicherweise
+betroffenen
+Mitgliedstaats
+während
+eines
+angemessenen
+Zeitraums zug änglich
+gemacht
+werden,
+damit sie dazu Stellun g
+nehmen
+kann,
+bevor
+die
+zuständige
+Behörde ihre E ntscheidung
+trifft.
+(3) Die zustän dige
+Behörde b erücksichtigt
+die Ergebnis
+se der
+Konsultationen
+nach
+den Absätzen
+1 und
+2, wenn sie üb er
+den
+Antrag
+entscheidet.
+(4) Die
+zuständige
+Behörde setzt alle n ach
+Absatz 1 k onsultier­
+ten
+Mitgliedstaaten
+von
+der Entscheidung
+über
+den
+Antrag
+in
+Kenntnis
+und
+übermittelt
+ihnen
+die in
+Artikel
+24 Absatz
+2 genann­
+ten
+Informationen.
+Jeder konsultierte
+Mitgliedstaat
+ergreift
+die
+erforderlichen  
+Maßnahmen
+um sicherzustellen ,
+dass diese I nfor­
+mationen
+der betroffenen
+Öffentlichkeit
+in
+seinem
+Hoheitsgebiet
+in
+geeigneter
+Weise zug änglich
+sind.
+Artikel
+27
+Zukunftstechniken
+(1) Die
+Mitgliedstaaten
+fördern
+gegebenenfalls
+die Entwicklung
+und
+Anwendung
+von Zuk unftstechniken;
+dies gilt
+insbesondere
+
+für die in
+den
+BVT-Merk blättern
+bestimmten
+Zukunftstechniken.
+(2) Die
+Kommission
+legt
+Leitlinien
+zur Unterstützung
+der Mit­
+gliedstaaten
+bei
+der Förderun g
+der Entwicklung
+und
+Anwendung
+von
+Zukunftstechniken
+gemäß
+Absatz
+1 fest.
+KAPITEL III
+SONDERVORSCHRIFTEN
+FÜR
+FEUERUNGSANLAGEN
+Artikel 28
+Geltungsbereich
+Dieses
+Kapitel
+gilt
+für Feuerun gsanlagen,
+deren
+Feuerungswärme­
+leistung
+50 MW oder mehr b eträgt,
+unabhängig
+davon,
+welche
+Art von
+Brennstoff
+verwendet
+wird.Dieses Kapitel
+gilt
+nicht
+für folgende
+Feuerungsanlagen:
+a)
+Anlagen,
+in denen
+die Verb rennungsprodukte
+unmittelbar
+
+zum Erwärmen,
+zum Trock nen
+oder zu ein er
+anderweitigen
+Behandlung
+von Gegenständen
+oder Materialien verwen det
+
+werden;
+b)
+Nachverb rennungsanlagen,
+die dafür ausg elegt
+sind,
+die
+Abgase
+durch Verb rennung
+zu reinigen,
+und
+die nicht
+als
+unabhängige
+Feuerungsanlagen
+betrieben
+werden;
+c) Einrichtungen
+zum Regenerieren
+von
+Katalysatoren
+für kata­
+lytisches
+Kracken;
+d) Einrichtungen
+für die Umwan dlung
+von
+Schwefelwasserstoff
+in
+Schwefel;
+e) in
+der chemischen  
+Industrie
+verwendete
+Reaktoren;
+f) Koksöfen;
+g) Winderhitzer
+(cowpers);
+h) technische
+Geräte, die zum An trieb
+von Fahrzeug e
+n, Schif­
+fen
+oder Flugzeugen
+eingesetzt
+werden;
+i) Gasturbinen
+und
+Gasmotoren ,
+die auf Offshore-Plattformen  
+eingesetzt
+werden;
+j) Anlagen,
+die als Bren nstoff
+andere
+feste oder flüssig e
+Abfälle
+als
+die gemäß
+Artikel
+3 Nummer 31 Buchstab e
+b
+verwenden.
+Artikel
+29
+Aggregationsregeln
+(1) Werden
+die Abgase
+von
+zwei oder mehreren  
+gesonderten
+Feuerungsanlagen
+über
+einen
+gemeinsamen
+Schornstein
+abgelei­
+tet,
+so gilt
+die von solchen An lagen
+gebildete
+Kombination
+als
+eine
+einzige
+Feuerun gsanlage
+und
+für die Berechn ung
+der
+Feuerungswärmeleistung
+werden
+ihre Kapazitäten
+addiert.
+(2) Werden
+zwei oder mehrere g esonderte
+Feuerungsanlagen,
+für
+die am oder n ach
+ dem 1. Juli 1987  erstmals ein e
+Genehmi
+­
+gung
+erteilt oder durch deren  
+Betreiber
+zu diesem Zeitpun kt
+oder
+danach
+ein vollstän diger
+Antrag
+auf eine
+Genehmigung
+einge
+­
+reicht wurde, derart errichtet, dass ihre Ab gase
+unter
+Berücksich­
+tigung
+technischer
+und
+wirtschaftlicher Fak toren
+nach
+dem Urteil
+der zustän digen
+Behörde üb er
+einen
+gemeinsamen
+Schornstein
+
+abgeleitet
+werden
+könnten,
+so gilt
+die von
+solchen
+Anlagen
+gebil­
+dete
+Kombination
+als eine
+einzige
+Feuerungsanlage
+und
+für die
+Berechnung
+der Feuerun gswärmeleistung
+werden ihre K apazitä
+­
+ten addiert.
+(3) Für die Berechn ung
+der Feuerun gswärmeleistung
+einer
+in
+den Absätzen
+1 und
+2 beschriebenen
+Kombination
+gesonderter
+
+Feuerungsanlagen
+werden ein zelne
+Feuerungsanlagen
+mit eine
+r
+Feuerungswärmeleistung
+von wen iger
+als 15 MW n icht
+
+berücksichtigt.
+
+--- Page 19 of 103 ---

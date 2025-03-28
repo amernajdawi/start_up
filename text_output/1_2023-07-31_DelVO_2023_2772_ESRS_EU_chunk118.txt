@@ -1,0 +1,50 @@
+File Name: 1_2023-07-31_DelVO_2023_2772_ESRS_EU.pdf
+Converted on: 2025-03-28 03:20:41
+Original Size: 5.82 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 118 of 284
+--------------------------------------------------------------------------------
+
+ELI: http://data.europa.eu/eli/reg_del/2023/2772/oj 119/284AR 15. Where relevant to achieve its pollution
+-related policy objectives and targets, the undertaking may provide
+information on site-level action plans.
+Metrics and targets
+Disclosure Requirement E2-3 – Targets related to pollution
+AR 16. If the undertaking refers to ecological thresholds when setting targets, it may refer to the guidance provided by the
+Science-Based Targets Initiative for Nature (SBTN) in its interim guidance (Initial Guidance for Business, September
+2020), or any other guidance with a scientifically acknowledged methodology that allows setting of science-based
+targets by identifying ecological thresholds and, if applicable, entity-specific allocations. Ecological thresholds can
+be local, national and/or global.
+AR 17. The undertaking may specify whether the target addresses shortcomings related to the Substantial Contribution
+criteria for Pollution Prevention and Control as defined in delegated acts adopted pursuant to Article 14(2) of
+Regulation (EU) 2020/852. Where the Do No Significant Harm (DNSH) criteria for Pollution Prevention and
+Control as defined in delegated acts adopted pursuant to Article 10(3), Article 11(3), Article 12(2), Article 13(2), and Article 15(2) of Regulation (EU) 2020/852 are not met, the undertaking may specify whether the target
+addresses shortcomings related those DNSH critera.
+AR 18. Where relevant to support the policies it has adopted, the undertaking may provide information on the targets set
+at site level.
+AR 19. The targets may cover the undertaking’s own operations and/or the value chain.
+Disclosure Requirement E2-4 – Pollution of air, water and soil
+AR 20. The information to be provided on microplastics under paragraph 28(b) shall include microplastics that have been
+generated or used during production processes or that are procured, and that leave the undertaking’s facilities as
+emissions, as products, or as part of products or services. Microplastics may be unintentionally produced when
+larger pieces of plastics like car tires or synthetic textiles wear and tear or may be deliberately manufactured and
+added to products for specific purposes (e.g., exfoliating beads in facial or body scrubs).
+AR 21. The volume of pollutants shall be presented in appropriate mass units, for example tonnes or kilogrammes.
+AR 22. The information required under this Disclosure Requirement shall be provided at the level of the reporting
+undertaking. However, the undertaking may disclose additional breakdown including information at site level or a
+breakdown of its emissions by type of source, by sector or by geographical area.
+AR 23. When providing contextual information on the emissions, the undertaking may consider:
+(a) the local air quality indices (AQI) for the area where the undertaking’s air pollution occurs;
+(b) the degree of urbanisation (DEGURBA) (
+59)for the area where air pollution occurs; and
+(c) the undertaking’s percentage of the total emissions of pollutants to water and soil occurring in areas at water
+risk, including areas of high-water stress.
+(59)According to Eurostat, the Degree of urbanisation (DEGURBA) is a classification that indicates the character of an area. Based on the
+share of local population living in urban clusters and in urban centres, it classifies Local Administrative Units (LAU or communes)
+into three types of area: i) Cities (densely populated areas), ii) Towns and suburbs (intermediate density areas), and iii) Rural areas
+(thinly populated areas).OJ L, 22.12.2023 EN  
+
+--- Page 120 of 284 ---

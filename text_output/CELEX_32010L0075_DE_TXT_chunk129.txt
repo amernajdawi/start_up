@@ -1,0 +1,54 @@
+File Name: CELEX_32010L0075_DE_TXT.pdf
+Converted on: 2025-03-28 03:18:33
+Original Size: 4.18 MB
+Chunk Size: 500 tokens with 50 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 129 of 163
+--------------------------------------------------------------------------------
+
+Tätigkeit
+(Schwellenwert für den Lösungsmittelverbrauch
+in Tonnen/Jahr)Schwellenwert
+(Schwellenwert für
+den
+Lösungsmittel-
+verbrauch in
+Tonnen/Jahr)Emissions-
+grenzwerte für
+Abgase (mg
+C/Nm3)Grenzwerte für diffuse Emissionen (in %
+der eingesetzten Lösungsmittel)Gesamtemissionsgrenzwerte
+Besondere Bestimmungen
+Neue
+AnlagenBestehende
+AnlagenNeue
+AnlagenBestehende
+Anlagen17.12.2010 DE Amtsblattder Europäischen Union L 334/8319Extraktion von Pflanzenöl und tierischem
+Fett sowie Raffination von Pflanzenöl
+(> 10)Tierisches Fett: 1,5 kg/tRizinus: 3 kg/tRapssamen: 1 kg/tSonnenblumensamen: 1 kg/tSojabohnen (normal gemahlen):
+0,8 kg/t
+Sojabohnen (weiße Flocken):
+1,2 kg/t
+Sonstige Samen und sonstiges
+pflanzliches Material: 3 kg/t (
+1)
+1,5 kg/t (2) 4 kg/t (3)(1) Grenzwerte für Gesamtemissionen von
+Anlagen, die einzelne Chargen von Samen und sonstiges pflanzliches Material verarbei­ten, sollten einzelfallbezogen von der zustän­digen Behörde nach der besten verfügbaren Technik festgelegt werden.
+(
+2) Gilt für alle Verfahren zur Fraktionierung
+mit Ausnahme der Entschleimung (Reini­
+gung von Ölen).
+(3) Gilt für Entschleimung.
+20Herstellung von Arzneimitteln(> 50)20 (
+1)5  (2)1 5 (2)5 % der einge­
+setzten Lösungsmittel15 % der einge­setzten Lösungsmittel(
+1) Falls Techniken eingesetzt werden, die die
+Wiederverwendung zurückgewonnener Lösungsmittel ermöglichen, gilt für Abgase ein Emissionsgrenzwert von 150.
+(
+2) Der Grenzwert für diffuse Emissionen
+bezieht sich nicht auf Lösungsmittel, die als
+Teil von Erzeugnissen oder Mischungen in einem geschlossenen Behälter verkauft wer­den.  
+
+--- Page 68 of 103 ---

@@ -1,0 +1,78 @@
+File Name: 2_E1-6_2011-09-01_G_GHG-PLC_WRI&WBCSD.pdf
+Converted on: 2025-03-28 03:20:53
+Original Size: 3.27 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 93 of 116
+--------------------------------------------------------------------------------
+
+--- Page 121 of 148 ---
+
+[119]
+Appendix	B.	 Land-Use Change Impacts  
+wood is harvested from a forest that is not converted
+(forest remaining forest), a carbon stock change can
+be calculated based on the change in forest density.
+To complete the land-use change impact calculation,
+companies need to consider what emissions may have
+occurred as a result of the carbon stock or land-use
+change unless these are already included in the default
+emission factors.  
+B.1.3	 Distribution	of	land-use	change	impacts
+Once land-use change impacts are deemed attributable
+and impacts are identified, a company needs to distribute
+those impacts between the studied product and other
+co-products that are outputs of the land.  This is because, 
+in most cases, land-use change occurs on land that
+produces products over many years, and therefore it is
+not appropriate to apply all the land-use change impacts
+to the first products generated within the area.  Using the 
+example from figure B.1 above, a company has calculated
+a carbon stock change associated with the product (in this
+example, a crop) of 150 tons. The next question is how
+to distribute those emissions to the products that are
+harvested from that land. Figure B.2 illustrates three ways
+land-use change impacts can be distributed over time:  
+A) single year, B) 20 year constant, or C) 20 year decline.  
+In this standard, land-use change impacts are distributed
+using option B: evenly over an amortization period of
+either 20 years or the length of one harvest (whichever  
+is longer).  This option was chosen as the most consistent 
+way to distribute impacts for use in a GHG inventory,
+as both option A and option C create an incentive for companies to delay inventory reporting in an effort to
+reduce land-use change impacts. It is recognized that
+applying any time period to amortize emissions creates
+an arbitrary cut off after which companies are free to
+grow products on the land without a land-use change
+burden. However, identifying no time period would create
+additional uncertainties and inconsistent inventories.
+There are several ways a company may distribute land-use
+change impacts using the amortization period depending
+on the harvested product:
+1. For an annually harvested crop, a company applies
+1/20th of the impacts to the products produced from
+each yearly harvest
+2. For a semi-annual crop or herbaceous plant, a company
+may estimate the production of the land over 20 years
+and then apply the impacts to each ton of harvested
+biomass
+3. For biomass with an extended harvest period (greater
+than 20 years) or where additional cultivation of the
+land is not planned, all of the land-use change impacts
+are applied to the harvested products from the first
+harvest period
+Methods 1 and 2 can be used for both annual and semi-
+annual crops depending on the preference of  
+the company.
+B.1.4	 Forestry	and	wood	products
+Some forest products are grown on managed forest
+plantations that are harvested over relatively short time Figure [B.1] Simplified illustration of a carbon stock change calculation
+200
+15050 tons Ctotal carbon
+tons C
+tons Cforest st ock crop st ock
+20 years (or length of harvest)stock change
+
+--- Page 122 of 148 ---

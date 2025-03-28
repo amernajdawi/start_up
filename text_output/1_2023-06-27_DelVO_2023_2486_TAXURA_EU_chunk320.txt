@@ -1,0 +1,42 @@
+File Name: 1_2023-06-27_DelVO_2023_2486_TAXURA_EU.pdf
+Converted on: 2025-03-28 03:18:09
+Original Size: 8.44 MB
+Chunk Size: 500 tokens with 50 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 320 of 380
+--------------------------------------------------------------------------------
+
+ELI: http://data.europa.eu/eli/reg_del/2023/2486/oj 119/164(b) the area is destined to restoration or conservation in a statutory land, freshwater or maritime use plan approved by the
+competent authorities;
+(c) the area is the subject to a public or private contractual arrangement that can ensure that the conservation objectives
+can be achieved and maintained.
+5.2. The operator of the area where the conservation activity takes place commits that a new management plan or
+equivalent instrument in line with the conservation objectives will be produced before the end of the previous plan.
+6.Additional minimum requirements
+6.1. The offsetting of the impacts of another economic activity is excluded under this activity (10). Only net biodiversity
+gains resulting from conservation/restoration can be accounted for as substantial contribution under this activity (11).
+6.2. The introduction of invasive alien species is prevented or their spread is managed in accordance with Regulation (EU)
+No 1143/2014.
+Do no significant harm (‘DNSH’)
+(1) Climate change mitigation The activity does not involve the degradation of land with high carbon stock (12)nor the
+degradation of marine environment with high carbon stock.
+(2) Climate change adaptation The activity complies with the criteria set out in Appendix A to this Annex.
+(3) Sustainable use and protec ­
+tion of water and marine
+resourcesThe activity complies with the criteria set out in Appendix B to this Annex.
+(4) Transition to a circular
+economyN/A
+(5) Pollution prevention and controlThe use of pesticides is minimised and alternative approaches or techniques, which may include non-chemical alternatives to pesticides are favoured, in accordance with
+Directive 2009/128/EC, with exception of occasions where the use of pesticides is
+needed to control outbreaks of pest and diseases.
+The activity minimises the use of fertilisers, including manure, to ensure it does not go
+beyond what is necessary to achieve the conservation and restoration objectives of the
+area and complies with the Codes of Good Agricultural Practices and with the Nitrates
+Action Plans in Nitrates Vulnerable Zones established in accordance with Council
+Directive 91/676/EEC (
+13). The activity complies with Regulation (EU) 2019/1009 or
+national rules on fertilisers or soil improvers for agricultural use.
+(10)Biodiversity offsets are measurable conservation outcomes resulting from measures designed to compensate for residual, unavoidable,
+adverse biodiversity impacts arising from an activity or project after appropriate prevention and mitigation measures have been taken.

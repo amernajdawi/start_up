@@ -1,0 +1,70 @@
+File Name: 2_E1-6_2011-09-01_G_GHG-PLC_WRI&WBCSD.pdf
+Converted on: 2025-03-28 03:20:53
+Original Size: 3.27 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 24 of 116
+--------------------------------------------------------------------------------
+
+life cycle processes through a process map The following sections include requirements and guidance to help companies define the boundary of the inventory . 7 . 2 Requirements The boundary of the product GHG inventory shall include all attributable processes . An inventory consists of service , material , and energy flows that become the product , make the product , and carry the product through its life cycle . These are defined as attributable processes . Examples include the studied product ’ s components and packaging , processes that create the product , materials used to improve its quality
+
+(e.g., fertilizers and lubricants), and energy used to move,
+create, or store the product.
+Companies shall report the life cycle stage
+definitions and descriptions.
+Interconnected stages make up a product’s life cycle,
+and these are a useful way to organize processes, data
+collection, and inventory results. The standard identifies
+requirements
+
+--- Page 36 of 148 ---
+
+[34]   Product Life Cycle Accounting and Reporting Standard
+ [34]   Product Life Cycle Accounting and Reporting Standard
+requirements
+five general life cycle stages, which are illustrated in
+figure 7.1 and referred to throughout the standard.
+Companies may elaborate or classify the stages differently to
+better reflect a specific product’s life cycle. For example,  
+a company may want to disaggregate into more stages (such
+as separating distribution from storage) or use a term that
+better describes the processes taking place within the stage,
+such as service delivery when the studied product is a service.
+All stages should have clear and logical boundaries and be
+consecutive and interlinked throughout the life cycle.
+Companies shall disclose and justify any
+exclusions of attributable processes in the
+inventory report. Attributable processes may be excluded from the
+inventory if all of the following are true:
+• A data gap exists because primary or secondary data
+cannot be collected
+• Extrapolated and proxy data cannot be determined to
+fill the data gap
+• An estimation determines the data are insignificant
+Definitions of data types and guidance on filling data gaps
+are included in chapter 8.
+Companies shall disclose and justify any exclusions of
+attributable processes in the inventory report. This should
+include a description of the estimation technique used
+and the insignificance threshold defined. end of lifeFigure [7.1]  The five stages of a product life cycle (simplified for illustrative purposes)
+recycled/reused into  
+another product life cyclereturned to
+naturenatur e
+use
+
+end-of-lifematerial acquisition  
+& pre-processing
+production
+  distribution  
+& storagenatur e
+use
+
+end-of-lifematerial acquisition  
+& pre-processing
+production
+  distribution  
+& storage
+
+--- Page 37 of 148 ---

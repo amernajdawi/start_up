@@ -1,0 +1,15 @@
+File Name: 2_ESRS2_SBM1_2006-12-20_VO_NACER2_EU.pdf
+Converted on: 2025-03-28 01:56:34
+Original Size: 0.17 MB
+Chunk Size: 400 tokens with 50 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 99 of 109
+--------------------------------------------------------------------------------
+
+sum of Class and Group (47.11 and 47.2);sum of Groups and Classes (47.19, 47.4, 47.5, 47.6, 47.7, 47.8 and 47.9);Division 47Division 47 without 47.3
+4. Division 47
+Division 47 without 47.3
+5. Those Member States whose turnover in Division 47 of NACE Rev. 2 in a given base year represents less than
+1 % of the European Community total, need only transmit the turnover variable (No 120) and the deflator ofsales/volume of sales variables (No 330/123) according to the levels of detail defined in paragraph 3.’.L 393/34 EN Official Journal of the European Union 30.12.2006

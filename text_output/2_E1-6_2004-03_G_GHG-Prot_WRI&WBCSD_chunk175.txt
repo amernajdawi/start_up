@@ -1,0 +1,20 @@
+File Name: 2_E1-6_2004-03_G_GHG-Prot_WRI&WBCSD.pdf
+Converted on: 2025-03-28 03:18:16
+Original Size: 3.51 MB
+Chunk Size: 500 tokens with 50 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 175 of 225
+--------------------------------------------------------------------------------
+
+4It is possible to use an interval other than one year. However, the longer
+the interval at which the base year rolls forward, the more this approachbecomes like a fixed target base year. This discussion is based on arolling target base year that moves forward at annual intervals.
+5Note that simply adding the yearly emissions changes under the rollingbase year yields a different result from the comparison over time madewith a fixed base year, even without structural changes. In absoluteterms, an X% reduction every year over 5 years (compared to theprevious year) is not the same as an (X times 5) reduction in year 5compared to year 1.
+6Depending on which recalculation methodology is used when applyingthe rolling base year, the comparison over time can include emissionsthat occurred when the company did not own or control the emissionsources. However, the inclusion of this type of information is mini-mized. See also the guidance document “Base year recalculationmethodologies for structural changes” on the GHG Protocol website(www.ghgprotocol.org).7For further details on different recalculation methodologies, see theguidance document “Base year recalculation methodologies for struc-tural changes” on the GHG Protocol website (www.ghgprotocol.org).
+8As noted in chapter 8, offsets can be converted to credits. Credits arethus understood to be a subset of offsets. This chapter uses the termoffsets as a generic term.
+9For the purposes of this chapter, the terms “internal” and “external”refer to whether the reductions occur at sources inside (internal) oroutside (external) the target boundary.
+10This equivalence is sometimes referred to as “fungibility.” However,“fungibility” can also refer to equivalence in terms of the value inmeeting a target (two fungible offsets have the same value in meetinga target, i.e., they can both be applied to the same target).
+11Overlap here refers to a situation when two or more targets include thesame sources in their target boundaries.
+12Similarly, company A in this example could be subject to a mandatorycap on its direct emissions under a trading program and engage intrading allowances covering the common sources it shares withcompany B.  In this case, the example in the section “Double countingof allowances traded in external programs” is more relevant.
+13The energy efficiency measures implemented by company C may notalways result in an actual reduction of company B’s emissions. Seechapter 8 for further details on reductions in indirect emissions. NOTES

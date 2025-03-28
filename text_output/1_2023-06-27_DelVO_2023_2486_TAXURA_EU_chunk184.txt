@@ -1,0 +1,47 @@
+File Name: 1_2023-06-27_DelVO_2023_2486_TAXURA_EU.pdf
+Converted on: 2025-03-28 03:20:36
+Original Size: 8.44 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 184 of 199
+--------------------------------------------------------------------------------
+
+ELI: http://data.europa.eu/eli/reg_del/2023/2486/oj 140/164(3) In Annex III, Section 1.1, the following fourth paragraph is added:
+‘By way of derogation from the first subparagraph of this Section, investments in real estate shall be included in the
+numerator to the extent and in the proportion in which they finance Taxonomy-aligned economic activities.’;
+(4) Annex IV is amended as follows:
+(a) in section ‘Breakdown of the numerator of the KPI per environmental objective’ the words ‘Transitional
+activities: A % (Turnover; CapEx)’ are deleted from lines (2) to (6);
+(b) the eighth row is replaced by the following:
+‘The proportion of exposures to other
+counterparties and assets over total assets covered by
+the KPI:
+X %Value of exposures to other counterparties and
+assets:
+[monetary amount]’
+(c) the thirteenth row is replaced by the following:
+‘The proportion of Taxonomy-aligned exposures to
+other counterparties and assets over total assets
+covered by the KPI:
+Turnover-based: %
+Capital expenditures-based: %Value of Taxonomy-aligned exposures to other
+counterparties and assets:Turnover-based: [monetary amount]
+Capital expenditures-based: [monetary amount]’
+(5) Annex V is amended as follows:
+(a) in Section 1.1.2, the third paragraph is replaced by the following:
+‘The following assets shall be excluded from the numerator of the GAR:
+(a) financial assets held for trading;
+(b) on-demand interbank loans;
+(c) exposures to undertakings that are not obliged to publish non-financial information pursuant to
+Article 19a or 29a of Directive 2013/34/EU;
+(d) derivatives;
+(e) cash and cash-related assets;
+(f) other categories of assets (such as goodwill, commodities, etc.).’;
+(b) in Section 1.2.1, the fifth paragraph is replaced by the following:
+‘In addition to GAR, credit institutions shall disclose the percentage of their total assets that are excluded from
+the numerator of the GAR in accordance with Article 7(2) and (3) of this Regulation and point 1.1.2 of this
+Annex.’;OJ L, 21.11.2023 EN  
+
+--- Page 141 of 164 ---

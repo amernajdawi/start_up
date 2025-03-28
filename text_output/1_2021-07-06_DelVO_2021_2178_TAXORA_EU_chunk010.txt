@@ -1,0 +1,48 @@
+File Name: 1_2021-07-06_DelVO_2021_2178_TAXORA_EU.pdf
+Converted on: 2025-03-28 03:20:32
+Original Size: 10.30 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 10 of 47
+--------------------------------------------------------------------------------
+
+--- Page 5 of 59 ---
+
+Article 3
+Disclosures by asset managers
+1. Asset managers shall disclose the information referred to in Article 8(1) of Regulation (EU) 2020/852 as specified in
+Annexes III and XI to this Regulation.
+2. The information referred to in paragraph 1 shall be presented in tabular form by using the template set out in Annex
+IV to this Regulation.
+Article 4
+Disclosures by credit institutions
+1. Credit institutions shall disclose the information referred to in Article 8(1) of Regulation (EU) 2020/852 as specified
+in Annexes V and XI to this Regulation.
+2. The information referred to in paragraph 1 shall be presented in tabular form by using the template set out in Annex
+VI to this Regulation.
+Article 5
+Disclosures by investment firms
+1. Investment firms shall disclose the information referred to in Article 8(1) of Regulation (EU) 2020/852 as specified in
+Annexes VII and XI to this Regulation.
+2. The information referred to in paragraph 1 shall be presented in tabular form by using the template set out in Annex
+VIII to this Regulation.
+Article 6
+Disclosures by insurance and reinsurance undertakings
+1. Insurance and reinsurance shall disclose the information referred to in Article 8(1) of Regulation (EU) 2020/852 as
+specified in Annexes IX and XI to this Regulation.
+2. The information referred to in paragraph 1 shall be presented in tabular form by using the templates set out in Annex
+X to this Regulation.
+Article 7
+Disclosure rules common to all financial undertakings
+1. The exposures to central governments, central banks and supranational issuers shall be excluded from the calculation
+of the numerator and denominator of key performance indicators of financial undertakings.
+2. Derivatives shall be excluded from the numerator of key performance indicators of financial undertakings.
+3. Exposures to undertakings that are not obliged to publish non-financial information pursuant to Article 19a or 29a
+of Directive 2013/34/EU shall be excluded from the numerator of key performance indicators of financial undertakings.4. Without prejudice to paragraph 1, environmentally sustainable bonds or debt securities with the purpose of financing
+specific identified activities that are issued by an investee undertaking shall be included in the numerator of key
+performance indicators up to the full value of Taxonomy-aligned economic activities that the proceeds of those bonds and
+debt securities finance, on the basis of information provided by the investee undertaking.EN Official Journal of the European Union 10.12.2021 L 443/13  
+
+--- Page 6 of 59 ---

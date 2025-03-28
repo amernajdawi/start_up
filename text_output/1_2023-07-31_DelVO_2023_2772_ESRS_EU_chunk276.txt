@@ -1,0 +1,56 @@
+File Name: 1_2023-07-31_DelVO_2023_2772_ESRS_EU.pdf
+Converted on: 2025-03-28 03:20:41
+Original Size: 5.82 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 276 of 284
+--------------------------------------------------------------------------------
+
+ELI: http://data.europa.eu/eli/reg_del/2023/2772/oj 276/284Recovery Any operation the principal result of which is waste serving a useful purpose
+by replacing other materials which would otherwise have been used to fulfil
+a particular function, or waste being prepared to fulfil that function, in the
+plant or in the wider economy (25).
+Recycling Any recovery operation by which waste materials are reprocessed into
+products, materials or substances whether for the original or other
+purposes. It includes the reprocessing of organic material but does not
+include energy recovery and the reprocessing into materials that are to be
+used as fuels or for backfilling operations.
+Resource regeneration Promotion of self-renewal capacity of natural systems with the aim of
+reactivating ecological processes damaged or over-exploited by human
+action.
+Remedy/remediation To counteract or make good a negative impact. Examples: apologies,
+financial or non-financial compensation, prevention of harm through
+injunctions or guarantees of non-repetition, punitive sanctions (whether
+criminal or administrative, such as fines), restitution, restoration,
+rehabilitation.
+Renewable energy Energy from renewable non-fossil sources, namely wind, solar (solar
+thermal and solar photovoltaic) and geothermal energy, ambient energy,
+tide, wave and other ocean energy, hydropower, biomass, landfill gas,
+sewage treatment plant gas, and biogas (26).
+Renewable materials Materials that are derived from resources that are quickly replenished by
+ecological cycles or agricultural processes, so that the services provided by
+these and other linked resources are not endangered and remain available for
+the next generation.
+Resource inflows Resource that enters the undertaking’s facilities.
+Resource outflows Resource that leaves the undertaking’s facilities.
+Resource use optimisation The design, production and distribution of materials and products with the
+objective to keep them in use at their highest value. Eco-design and design
+for longevity , repair, reuse, repurposing, disassembly, remanufacturing are
+examples of tools to optimise resource use.
+Reuse Any operation by which products and components that are not waste are
+used again for the same purpose for which they were conceived. This may
+involve cleaning or small adjustments so it is ready for the next use without
+significant modification.
+River basin The area of land from which all surface run-off flows through a sequence of
+streams, rivers and, possibly, lakes into the sea at a single river mouth,
+estuary or delta.
+Risks Sustainability-related risks with negative financial effects arising from
+environmental, social or governance matters that may negatively affect the undertaking's financial position, financial performance, cash flows, access to
+finance or cost of capital in the short, medium or long term.
+(25)Article 3(15) of Directive 2008/98/EC on waste.
+(26)Article 2(1) Directive (EU) 2018/2001 of the European Parliament and of the Council of 11 December 2018 on the promotion of the
+use of energy from renewable sources (OJ L 328, 21.12.2018, p. 82).OJ L, 22.12.2023 EN  
+
+--- Page 277 of 284 ---

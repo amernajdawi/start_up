@@ -1,0 +1,47 @@
+File Name: 1_2023-07-31_DelVO_2023_2772_ESRS_EU.pdf
+Converted on: 2025-03-28 03:20:41
+Original Size: 5.82 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 104 of 284
+--------------------------------------------------------------------------------
+
+ELI: http://data.europa.eu/eli/reg_del/2023/2772/oj 106/284Recognised quality standard 3 (%)
+…
+Share from projects within the EU (%)Share of carbon credits that qualify as
+corresponding adjustments (%)
+Carbon credits planned to be cancelled
+in the futureAmount until [period]
+Total (tCO2eq)
+Disclosure Requirement E1-8 – Internal carbon pricing
+AR 65. When disclosing the information required under paragraphs 62 and 63, if applicable, the undertaking shall briefly
+explain whether and how the carbon prices used in internal carbon pricing schemes are consistent with those used
+in financial statements. This shall be done in respect of the internal carbon prices used for,
+(a) the assessment of the useful life and residual value of its assets (intangibles, property, plant and equipment);
+(b) the impairment of assets; and
+(c) the fair value measurement of assets acquired through business acquisitions.
+AR 66. The information may be presented by using the following table:
+Types of internal carbon pricesVolume at stake
+(tCO2eq)Prices applied
+(€/tCO2eq)Perimeter
+description
+CapEx shadow price
+Research and Development (R&D) investment shadow
+price
+Internal carbon fee or fund
+Carbon prices for impairment testing
+Etc.
+Disclosure Requirement E1-9 – Anticipated financial effects from material physical and transition risks and potential
+climate-related opportunities
+Anticipated financial effects from material physical and transition risks
+AR 67. Material climate-related physical risks and transition risks may affect the undertaking’s financial position (e.g.,
+owned assets, financially-controlled leased assets, and liabilities), performance (e.g., potential
+future increase/decrease in net revenue and costs due to business interruptions, increased supply prices resulting
+in potential margin erosions), and cash flows. The low probability, high severity and long-term time horizons of
+some climate- related physical risk exposures and the uncertainty arising from the transition to a sustainable
+economy mean that there will be associated material anticipated financial effects that are outside the scope of
+the requirements of applicable accounting standards.OJ L, 22.12.2023 EN  
+
+--- Page 107 of 284 ---

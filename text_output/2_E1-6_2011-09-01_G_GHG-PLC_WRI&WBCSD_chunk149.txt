@@ -1,0 +1,23 @@
+File Name: 2_E1-6_2011-09-01_G_GHG-PLC_WRI&WBCSD.pdf
+Converted on: 2025-03-28 03:18:25
+Original Size: 3.27 MB
+Chunk Size: 500 tokens with 50 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 149 of 226
+--------------------------------------------------------------------------------
+
+the information in the inventory report. There are two
+levels of assurance: limited and reasonable. The level
+of assurance requested by the reporting company will
+determine the rigor of the verification process and
+the amount of evidence required. The highest level of
+assurance that can be provided is a reasonable level of
+assurance. Absolute assurance is never provided as 100
+percent of the inputs to the GHG Inventory are not tested
+due to practicality and feasibility limitations.
+The thoroughness with which the assurance evidence is
+obtained is less rigorous in limited assurance. Table 12.2
+provides examples of limited and reasonable assurance
+opinions for an assertion of product inventory emissions.

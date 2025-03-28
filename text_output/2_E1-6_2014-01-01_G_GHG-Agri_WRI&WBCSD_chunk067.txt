@@ -1,0 +1,50 @@
+File Name: 2_E1-6_2014-01-01_G_GHG-Agri_WRI&WBCSD.pdf
+Converted on: 2025-03-28 03:18:26
+Original Size: 1.75 MB
+Chunk Size: 500 tokens with 50 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 67 of 108
+--------------------------------------------------------------------------------
+
+rating individual data points against a range of quality criteria , such as precision and geographical representativeness . 9 http : / / www . ghgprotocol . org / calculation - tools / all - tools - - - Page 60 of 103 - - - GHG Protocol Agricultural Guidance
+
+60
+Chapter 8: Accounting for Carbon Stocks
+Agricultural systems contain C in above-g round and below-ground biomass, dead organic
+matter (DOM), soil organic matter, and harv ested products (Chapter 4.2). These C stocks
+are reversible - any C sequestered in C stocks will eventually be emitted to the atmosphere. Also, changes in C stocks can ta ke decades to reach equilibrium following a
+change in farm management or land use. Th ese special features of agriculture have
+important implications for whether and how C stocks should be included within GHG
+inventories.  
+
+This chapter:
+ Describes how changes in C stocks should be reported in terms of CO
+2 fluxes.
+ Describes the types of CO 2 fluxes that should / s hould not be included in
+inventories.
+ Describes how the CO 2 fluxes from long-term changes in C stocks can be spread
+over multiple reporting periods.
+
+Summary of requirements and main recommendations:
+ Companies should report the net CO 2 fluxes (in tonnes CO 2) to/from organic C
+stocks in mineral/organic soils and above-ground and below-ground woody
+biomass, as well as the CO 2 emissions from DOM and biomass combustion.
+ Natural disturbances, Payments for Environmental Services (PESs), and
+conservation areas should be accounted fo r equivalently to other agricultural
+activities.
+ Companies should use peer -reviewed methods for CO 2 flux calculations.
+ When relevant, companies should amortize changes in C stocks evenly over time
+using a fixed-rate approach.
+ Companies should account for historical changes in land use or management
+occurring on or afte r the base period.
+8.1 Including flux and stock data in inventories  
+
+Companies  should report net CO 2 flux data 
+Because of the reversibility of C stocks, cha nges to C stocks can be quantified using data
+on:
+ Stock size, when measured in units of mass of C (e.g., metric tonnes C/ha) at two
+points in time; or
+ The net balance of CO 2 emissions and CO 2 removals (‘net fluxes’) to or from a
+stock, measured in units of mass of CO 2.

@@ -1,0 +1,89 @@
+File Name: 2_E1-6_2011-09-01_G_GHG-PLC_WRI&WBCSD.pdf
+Converted on: 2025-03-28 03:20:53
+Original Size: 3.27 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 79 of 116
+--------------------------------------------------------------------------------
+
+[99]CHAPTER 12 Assurance
+Timing of the critical review process
+Critical review may be performed during the inventory
+process (known as an interactive review) or at the end  
+(a posteriori). An interactive critical review may be useful
+in correcting any problems with the inventory before
+the inventory’s completion, and it can reduce delays
+in publishing the inventory report. A posteriori review
+allows the panel members to have a fresh perspective
+when reviewing the inventory results. It is important
+that the critical review expert(s) remains objective and
+independent from the inventory development process
+during interactive reviews, and that the critical review
+findings are based on the final product inventory report.
+12.3.5 Assurance challenges
+There are several challenges in assuring product
+inventories. Emissions calculations rely on a mixture of
+data sources and assumptions. Inventory uncertainty,
+especially scenario uncertainty related to use and end-
+of-life stage emissions, may affect the quality of the
+inventory. It is important to consider the state of data
+collection systems and the integrity of the data and
+methodological choices for assurance.
+One of the primary challenges is that the majority of
+emission sources are usually outside the reporting
+company’s control and the assurer’s ability to obtain
+sufficient appropriate evidence.
+Three approaches to addressing this diminished  
+control are:
+1.  Change the level of assurance i.e., reasonable to 
+limited (for verification)
+2. Change from verification to critical review
+3.  Rely on the assurance statement of another assurer 
+for emission and removal sources outside of the
+company’s control (i.e., assurance over a supplier’s
+emission sources by a different assurance firm)12.3.6 Assurance statement
+The assurance statement conveys the assurer’s
+conclusion about the inventory results, and it may take
+different forms depending on whether the company is
+conducting critical review or verification, as well as if the
+assurance was performed by a first or third party. The
+required contents of an assurance statement are listed
+in the requirements section. An assurance statement
+should also include the following:
+Introduction
+•A description of the studied product
+•A reference to the reporting company’s assertion
+included in the inventory report
+•Description of assurance process
+•List of the assurance criteria
+ •Description of the reporting company’s and  
+assurer’s responsibilities
+•The assurance standard or type of critical review
+process used to perform the assurance
+•A summary of the work performed
+•The materiality threshold or benchmark, if set
+Conclusion
+•Any additional details regarding the assurer’s
+conclusion, including details regarding any exceptions
+noted or issues encountered in performing the
+assurance
+•When there are material departures in the assertion
+from the assurance criteria, the reporting company
+should report the effect of the departures
+Endnotes
+1  Adapted from ISO 14064:3:2006, Greenhouse gases - Part 3: 
+Specification with guidance for the validation and verification of
+greenhouse gas assertions.
+2  Adapted from the GHG Protocol Corporate Standard.
+3  Adapted from ISO 14040:2006, Environmental Management –Life 
+Cycle Assessment –Principles and framework.
+4  Adapted from ISO 14044:2006, 6.1
+guidance
+
+--- Page 102 of 148 ---
+
+Reporting 13
+
+--- Page 103 of 148 ---

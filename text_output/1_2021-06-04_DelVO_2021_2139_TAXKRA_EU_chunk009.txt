@@ -1,0 +1,27 @@
+File Name: 1_2021-06-04_DelVO_2021_2139_TAXKRA_EU.pdf
+Converted on: 2025-03-28 03:20:30
+Original Size: 2.76 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 9 of 447
+--------------------------------------------------------------------------------
+
+( 4 ) The EX-Ante Carbon-balance Tool (EX-ACT) (version of 4.6.2021: http://www.fao.org/in-action/epic/ex-act-tool/suite-of-tools/e x-act/
+en/).  
+( 5 ) Communication from the Commission to the European Parliament, the European Council, the Council, the European Economic and
+Social Committee and the Committee of the Regions: The European Green Deal (COM(2019) 640 final).  
+( 6 ) Communication from the Commission to the European Parliament, the European Council, the Council, the European Economic and
+Social Committee and the Committee of the Regions: EU Biodiversity Strategy for 2030 Bringing nature back into our lives
+(COM(2020) 380 final).  
+( 7 ) Communication from the Commission to the European Parliament, the Council, the European Economic and Social Committee and
+the Committee of the Regions: Stepping up Europe’s 2030 climate ambition Investing in a climate-neutral future for the benefit of
+our people (COM(2020) 562 final).  
+( 8 ) Communication from the Commission to the European Parliament, the Council, the European Economic and Social Committee and
+the Committee of the Regions: Forging a climate-resilient Europe - the new EU Strategy on Adaptation to Climate Change
+(COM(2021) 82 final).  
+( 9 ) Shares of emissions per sector representing direct emissions and based on Eurostat data from 2018 and 2019 (NACE level 2), ex cept
+for the construction sector that has no associated NACE code and therefore its emissions are considered across various sectors
+(version of 4.6.2021: https://ec.europa.eu/info/news/new-rules-greener-and-smarter-buildings-will-increase-quality-life-all-eur opeans-
+2019-apr-15_en).

@@ -1,0 +1,62 @@
+File Name: 1_2021-07-06_DelVO_2021_2178_TAXORA_EU.pdf
+Converted on: 2025-03-28 03:20:32
+Original Size: 10.30 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 45 of 47
+--------------------------------------------------------------------------------
+
+Where a reinsurance activities of an undertaking comprises products applying at the level of a portfolio of underlying direct
+insurance products and the undertaking assesses the compliance of the activity with the technical screening criteria and the
+do no significant harm criteria for a proportion of the reinsurance activity’s underlying products pursuant to Climate Delegated Act, Annex II, point 10.2, paragraph 2.3 (“pro-rata approach”), the pro-rata approach should be applied consistently for the information reported in all columns of row A.1.2.
+Template: The proportion of the insurance or reinsurance undertaking’s investments that are directed at funding, or are associated
+with, Taxonomy-aligned in relation to total investments
+The weighted average value of all the investments of insurance or
+reinsurance undertakings that are directed at funding, or are
+associated with Taxonomy-aligned economic activities relative to
+the value of total assets covered by the KPI, with following weights for investments in undertakings per below:
+Turnover-based: %
+Capital expenditures-based: %The weighted average value of all the investments of
+insurance or reinsurance undertakings that are directed
+at funding, or are associated with Taxonomy-aligned
+economic activities, with following weights for
+investments in undertakings per below:
+Turnover-based: [monetary amount]
+Capital expenditures-based: [monetary amount]
+The percentage of assets covered by the KPI relative to total investments of insurance or reinsurance undertakings (total AuM).
+Excluding investments in sovereign entities.
+Coverage ratio: %The monetary value of assets covered by the KPI.
+Excluding investments in sovereign entities.
+Coverage: [monetary amount]
+Additional, complementary disclosures: breakdown of denominator of the KPI
+The percentage of derivatives relative to total assets covered by the KPI.
+X %The value in monetary amounts of derivatives.[monetary amount]
+The proportion of exposures to financial and non-financial
+undertakings not subject to Articles 19a and 29a of Directive  2013/34/EU over total assets covered by the KPI:
+For non-financial undertakings:For financial undertakings:Value of exposures to financial and non-financial
+undertakings not subject to Articles 19a and 29a of Directive 2013/34/EU:
+For non-financial undertakings: [monetary amount]
+For financial undertakings: [monetary amount]
+The proportion of exposures to financial and non-financial
+undertakings from non-EU countries not subject to Articles
+19a and 29a of Directive 2013/34/EU over total assets covered
+by the KPI:For non-financial undertakings:
+For financial undertakings:Value of exposures to financial and non-financial
+undertakings from non-EU countries not subject to
+Articles 19a and 29a of Directive 2013/34/EU:
+For non-financial undertakings: [monetary amount]
+For financial undertakings: [monetary amount]
+The proportion of exposures to financial and non-financial
+undertakings subject to Articles 19a and 29a of Directive  2013/34/EU over total assets covered by the KPI:
+For non-financial undertakings: X %For financial undertakings: X %Value of exposures to financial and non-financial
+undertakings subject to Articles 19a and 29a of Directive 2013/34/EU:
+For non-financial undertakings: [monetary amount]
+For financial undertakings: [monetary amount]
+The proportion of exposures to other counterparties over total
+assets covered by the KPI:
+X %Value of exposures to other counterparties:
+[monetary amount]EN Official Journal of the European Union L 443/64 10.12.2021  
+
+--- Page 57 of 59 ---

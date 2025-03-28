@@ -1,0 +1,60 @@
+File Name: 1_2021-06-04_DelVO_2021_2139_TAXKRA_EU.pdf
+Converted on: 2025-03-28 03:20:30
+Original Size: 2.76 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 434 of 447
+--------------------------------------------------------------------------------
+
+4. The adaptation solutions implemented:
+(a) do not adversely affect the adaptation efforts or the level of resilience to physical climate risks of other people,
+of nature, of cultural heritage, of assets and of other economic activities;
+(b) favour nature-based solutions (  647  ) or rely on blue or green infrastructure (  648  ) to the extent possible; 
+(c) are consistent with local, sectoral, regional or national adaptation plans and strategies;
+(d) are monitored and measured against pre-defined indicators and remedial action is considered where those
+indicators are not met;
+(e) where the solution implemented is physical and consists in an activity for which technical screening criteria
+have been specified in this Annex, the solution complies with the do no significant harm technical screening
+criteria for that activity.
+5. In order for an activity to be considered as an enabling activity as referred to in Article 11(1), point (b), of
+Regulation (EU) 2020/852, the economic operator demonstrates, through an assessment of current and future
+climate risks, including uncertainty and based on robust data, that the activity provides a technology, product,
+service, information, or practice, or promotes their uses with one of the following primary objectives:
+(a) increasing the level of resilience to physical climate risks of other people, of nature, of cultural heritage, of
+assets and of other economic activities;
+(b) contributing to adaptation efforts of other people, of nature, of cultural heritage, of assets and of other
+economic activities.  
+Do no significant harm (‘DNSH’)  
+(1) Climate change mitigation  N/A  
+(3) Sustainable use and protection of
+water and marine resources  N/A  
+(4) Transition to a circular economy  N/A  
+(5) Pollution prevention and control  N/A  
+(6) Protection and restoration of
+biodiversity and ecosystems  N/A  
+12.  HUMAN HEALTH AND SOCIAL WORK ACTIVITIES  
+12.1.  Residential care activities  
+Description of the activity  
+Provision of residential care combined with either nursing, supervisory or other types of care as required by the
+residents. Facilities are a significant part of the production process and the care provided is a mix of health and
+social services with the health services being largely some level of nursing services.  
+The economic activities in this category could be associated with NACE code Q87 in accordance with the statistical
+classification of economic activities established by Regulation (EC) No 1893/2006.  
+Technical screening criteria  
+Substantial contribution to climate change adaptation  
+1. The economic activity has implemented physical and non-physical solutions (‘adaptation solutions’) that
+substantially reduce the most important physical climate risks that are material to that activity.  
+_____________
+( 647  ) Nature-based solutions are defined as ‘solutions that are inspired and supported by nature, which are cost-effective, simulta neously 
+provide environmental, social and economic benefits and help build resilience. Such solutions bring more, and more diverse,
+nature and natural features and processes into cities, landscapes and seascapes, through locally adapted, resource-efficient an d
+systemic interventions’. Therefore, nature-based solutions benefit biodiversity and support the delivery of a range of ecosyste m
+services (version of 4.6.2021: https://ec.europa.eu/info/research-and-innovation/research-area/environment/nature-based-solutio ns_
+en/).
+( 648  ) See Communication from the Commission to the European Parliament, the Council, the European Economic and Social 
+Committee and the Committee of the Regions: Green Infrastructure (GI) — Enhancing Europe’s Natural Capital (COM/2013/0249
+final).EN  L 442/338 Official Journal of the European Union 9.12.2021
+
+--- Page 339 of 349 ---

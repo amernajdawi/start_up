@@ -1,0 +1,38 @@
+File Name: 1_2023-07-31_DelVO_2023_2772_ESRS_EU.pdf
+Converted on: 2025-03-28 03:18:14
+Original Size: 5.82 MB
+Chunk Size: 500 tokens with 50 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 583 of 686
+--------------------------------------------------------------------------------
+
+ELI: http://data.europa.eu/eli/reg_del/2023/2772/oj 243/284consumers and/or end-users that have used such channels and their levels of satisfaction with the process and
+outcomes. To illustrate the usage level of such channels, the undertaking may disclose the number of complaints
+received from consumers and/or end-users during the reporting period.
+AR 24. In describing the effectiveness of channels for consumers and/or end-users to raise concerns, the undertaking may
+be guided by the following questions, based on the “effectiveness criteria for nonjudicial grievance mechanisms”,
+as laid out in the UN Guiding Principles on Business and Human Rights. The below considerations may be applied
+on an individual channel basis or for the collective system of channels:
+(a) do the channels hold legitimacy by providing appropriate accountability for their fair conduct and building
+stakeholder trust?
+(b) are the channels known and accessible to stakeholders?
+(c) do the channels have known procedures, set timeframes and clarity on the processes?
+(d) do the channels ensure reasonable access to sources of information, advice and expertise?
+(e) do the channels offer transparency by providing sufficient information both to complainants and where applicable, to meet any public interest at stake?
+(f) do the outcomes achieved from the channels accord with internationally recognised human rights?
+(g) does the undertaking identify insights from the channels that support continuous learning in both improving the channels and preventing future impacts?
+(h) does the undertaking focus on dialogue with complainants as the means to reach agreed solutions, rather than
+seeking to unilaterally determine the outcome?
+For more information, see Principle 31 of the UN Guiding Principles on Business and Human Rights.
+Disclosure Requirement S4-4 – Taking action on material impacts on consumers and end- users, and approaches to managing material risks and pursuing material opportunities related to consumers and end-users, and effectiveness of
+those actions
+AR 25. It may take time to understand negative impacts and how the undertaking may be involved with them through its
+downstream value chain, as well as to identify appropriate responses and put them into practice). Therefore, the
+undertaking shall consider:
+(a) Its general and specific approaches to addressing material negative impacts;
+(b) its initiatives aimed at contributing to additional material positive impacts;
+(c) how far it has progressed in its efforts during the reporting period; and
+(d) its aims for continued improvement.
+AR 26. Appropriate action can vary according to whether the undertaking causes or contributes to a material impact, or

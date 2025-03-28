@@ -1,0 +1,50 @@
+File Name: 1_2023-07-31_DelVO_2023_2772_ESRS_EU.pdf
+Converted on: 2025-03-28 03:20:41
+Original Size: 5.82 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 88 of 284
+--------------------------------------------------------------------------------
+
+ELI: http://data.europa.eu/eli/reg_del/2023/2772/oj 91/284Disclosure Requirements E1-3 – Actions and resources in relation to climate change policies
+AR 19. When disclosing the information on actions as required under paragraphs 29 (a) and 29 (b), the undertaking may:
+(a) disclose its key actions taken and/or plans to implement climate change mitigation and adaptation policies in
+its single or separate actions;
+(b) aggregate types of mitigation actions (decarbonisation levers) such as energy efficiency, electrification, fuel
+switching, use of renewable energy , products change, and supply-chain decarbonisation that fit the
+undertakings' specific actions;
+(c) disclose the list of key mitigation actions alongside the measurable targets (as required by Disclosure
+Requirement E1-4) with disaggregation by decarbonisation levers; and
+(d) disclose the climate change adaptation actions by type of adaptation solution such as nature-based
+adaptation, engineering, or technological solutions.
+AR 20. When disclosing the information on resources as required under paragraph 29 (c), the undertaking shall only disclose the significant OpEx and CapEx amounts required for the implementation of the actions as the purpose
+of this information is to demonstrate the credibility of its actions rather than to reconcile the disclosed amounts to the financial statements. The disclosed CapEx and OpEx amounts shall be the additions made to both tangible
+and intangible assets during the current financial year as well as the planned additions for future periods of
+implementing the actions. The disclosed amounts shall only be the incremental financial investments directly
+contributing to the achievement of the undertaking’s targets.
+AR 21. In line with the requirements of ESRS 2 MDR-A, the undertaking shall explain if and to what extent its ability to
+implement the actions depends on the availability and allocation of resources. Ongoing access to finance at an
+affordable cost of capital can be critical for the implementation of the undertaking’s actions, which include its
+adjustments to supply/demand changes or its related acquisitions and significant research and development (R&D)
+investments.
+AR 22. The amounts of OpEx and CapEx required for the implementation of the actions disclosed under paragraph 29 (c)
+shall be consistent with the key performance indicators (CapEx and OpEx key performance indicators) and, if
+applicable, the CapEx plan required by Commission Delegated Regulation (EU) 2021/2178. The undertaking shall
+explain any potential differences between the significant OpEx and CapEx amounts disclosed under this Standard
+and the key performance indicators disclosed under Commission Delegated Regulation (EU) 2021/2178 due to,
+for instance, the disclosure of non-eligible economic activities as defined in that delegated regulation. The
+undertaking may structure its actions by economic activity to compare its OpEx and CapEx, and if applicable its
+OpEx and/or CapEx plans to its Taxonomy-aligned key performance indicators.
+Metrics and targets
+Disclosure Requirement E1-4 – Targets related to climate change mitigation and adaptation
+AR 23. Under paragraph 34 (a), the undertaking may disclose GHG emission reduction targets in intensity value. Intensity
+targets are formulated as ratios of GHG emissions relative to a unit of physical activity or economic output.
+Relevant units of activity or output are referred to in ESRS sector-specific standards. In cases where the
+undertaking has only set a GHG intensity reduction target, it shall nevertheless disclose the associated absolute
+values for the target year and interim target year(s). This may result in a situation where an undertaking is required
+to disclose an increase of absolute GHG emissions for the target year and interim target year(s), for example
+because it anticipates organic growth of its business.OJ L, 22.12.2023 EN  
+
+--- Page 92 of 284 ---

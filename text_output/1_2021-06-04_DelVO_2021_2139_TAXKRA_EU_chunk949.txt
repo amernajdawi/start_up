@@ -1,0 +1,45 @@
+File Name: 1_2021-06-04_DelVO_2021_2139_TAXKRA_EU.pdf
+Converted on: 2025-03-28 03:18:03
+Original Size: 2.76 MB
+Chunk Size: 500 tokens with 50 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 949 of 966
+--------------------------------------------------------------------------------
+
+(4) Transition to a circular economy  N/A  
+(5) Pollution prevention and control  A waste management plan is in place and ensures (1) the safe and envi ­
+ronmentally-sound handling of hazardous waste (in particular toxic or
+infectious waste) and pharmaceuticals and (2) maximal re-use or
+recycling of non-hazardous waste, including through contractual
+agreements with waste management partners.  
+(6) Protection and restoration of
+biodiversity and ecosystems  N/A  
+13.  ARTS, ENTERTAINMENT AND RECREATION  
+13.1.  Creative, arts and entertainment activities  
+Description of the activity  
+Creating, arts and entertainment activities include the provision of services to meet the cultural and entertainment
+interests of their customers. This includes the production and promotion of, and participation in, live perform ­
+ances, events or exhibits intended for public viewing and the provision of artistic, creative or technical skills for the
+production of artistic products and live performances. These activities exclude the operation of museums of all
+kinds, botanical and zoological gardens, the preservation of historical sites and nature reserves activities, gambling
+and betting activities as well as sports and amusement and recreation activities.  
+The economic activities in this category could be associated with NACE code R90 in accordance with the statistical
+classification of economic activities established by Regulation (EC) No 1893/2006.  
+Where an economic activity in this category complies with the substantial contribution criterion specified in
+point 5, the activity is an enabling activity as referred to in Article 11(1), point (b), of Regulation (EU)
+2020/852, provided that it meets the technical screening criteria set out in this Section.  
+Technical screening criteria  
+Substantial contribution to climate change adaptation  
+1. The economic activity has implemented physical and non-physical solutions (‘adaptation solutions’) that
+substantially reduce the most important physical climate risks that are material to that activity.
+2. The physical climate risks that are material to the activity have been identified from those listed in
+Appendix A to this Annex by performing a robust climate risk and vulnerability assessment with the
+following steps:
+(a) screening of the activity to identify which physical climate risks from the list in Appendix A to this Annex
+may affect the performance of the economic activity during its expected lifetime;
+(b) where the activity is assessed to be at risk from one or more of the physical climate risks listed in Appendix A
+to this Annex, a climate risk and vulnerability assessment to assess the materiality of the physical climate risks
+on the economic activity;
+(c) an assessment of adaptation solutions that can reduce the identified physical climate risk.

@@ -1,0 +1,44 @@
+File Name: 1_2023-07-31_DelVO_2023_2772_ESRS_EU.pdf
+Converted on: 2025-03-28 03:18:14
+Original Size: 5.82 MB
+Chunk Size: 500 tokens with 50 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 645 of 686
+--------------------------------------------------------------------------------
+
+ELI: http://data.europa.eu/eli/reg_del/2023/2772/oj 270/284Indirect impact drivers operate diffusely by altering and influencing direct
+drivers (by affecting their level, direction or rate) as well as other indirect
+drivers. Interactions between indirect and direct drivers create different
+chains of relationship, attribution, and impacts, which may vary according
+to type, intensity, duration, and distance. These relationships can also lead to different types of spill-over effects. Global indirect drivers include economic,
+demographic, governance, technological and cultural ones. Special attention
+is given, among indirect drivers, to the role of institutions (both formal and
+informal) and impacts of the patterns of production, supply and
+consumption on nature, nature’s contributions to people and good quality of life.
+Impact materiality A sustainability matter is material from an impact perspective when it pertains to the undertaking’s material actual or potential, positive or
+negative impacts on people or the environment over the short-, medium-
+and long-term. A material sustainability matter from an impact perspective includes impacts connected with the undertaking’s own operations and
+upstream and downstream value chain, including through its products and
+services, as well as through its business relationships.
+Incident A legal action or complaint registered with the undertaking or competent authorities through a formal process, or an instance of non-compliance
+identified by the undertaking through established procedures. Established
+procedures to identify instances of non-compliance can include
+management system audits, formal monitoring programs, or grievance
+mechanisms.
+Incineration The controlled burning of waste at high temperature with or without energy
+recovery.
+Independent board member Board members that exercise independent judgment free from any external influence or conflicts of interest. Independence generally means the exercise
+of objective, unfettered judgement. When used as the measure by which to
+judge the appearance of independence, or to categorise a non-executive
+member of the administrative, management and supervisory bodies or
+their committees as independent, it means the absence of an interest, position, association or relationship which, when judged from the
+perspective of a reasonable and informed third party, is likely to influence
+unduly or cause bias in decision-making.
+Indigenous peoples There is no single definition for indigenous peoples agreed on at the
+international level. In practice, there is convergence among international
+agencies on what groups can be considered indigenous peoples and should
+enjoy special protection as such. An important criteria for defining
+indigenous people is related to their connection to a traditional area, as
+defined in ILO Convention No. 169, Article 1, which states that the

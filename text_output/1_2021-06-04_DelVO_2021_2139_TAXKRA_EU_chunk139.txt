@@ -1,0 +1,52 @@
+File Name: 1_2021-06-04_DelVO_2021_2139_TAXKRA_EU.pdf
+Converted on: 2025-03-28 03:20:30
+Original Size: 2.76 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 139 of 447
+--------------------------------------------------------------------------------
+
+Do no significant harm (‘DNSH’)  
+(2) Climate change adaptation  The activity complies with the criteria set out in Appendix A to this 
+Annex.  
+(3) Sustainable use and protection of
+water and marine resources  The activity complies with the criteria set out in Appendix B to this 
+Annex.  
+(4) Transition to a circular economy  N/A  
+(5) Pollution prevention and control  Emissions are within or lower than the emission levels associated with the 
+best available techniques (BAT-AEL) ranges set for anaerobic treatment of
+waste in the latest relevant best available techniques (BAT) conclusions,
+including the best available techniques (BAT) conclusions for waste treat ­
+ment (  214  ). No significant cross-media effects occur. 
+Where the resulting digestate is intended for use as fertiliser or soil
+improver, its nitrogen content (with tolerance level ± 25 %) is
+communicated to the buyer or the entity in charge of taking off the
+digestate.  
+(6) Protection and restoration of
+biodiversity and ecosystems  The activity complies with the criteria set out in Appendix D to this 
+Annex.  
+5.7.  Anaerobic digestion of bio-waste  
+Description of the activity  
+Construction and operation of dedicated facilities for the treatment of separately collected bio-waste (  215  ) through 
+anaerobic digestion with the resulting production and utilisation of biogas and digestate and/or chemicals.  
+The economic activities in this category could be associated with several NACE codes, in particular E38.21 and
+F42.99 in accordance with the statistical classification of economic activities established by Regulation (EC)
+No 1893/2006.  
+Technical screening criteria  
+Substantial contribution to climate change mitigation  
+1. A monitoring and contingency plan is in place in order to minimise methane leakage at the facility.
+2. The produced biogas is used directly for the generation of electricity or heat, or upgraded to bio-methane
+for injection in the natural gas grid, or used as vehicle fuel or as feedstock in chemical industry.
+3. The bio-waste that is used for anaerobic digestion is source segregated and collected separately.
+4. The produced digestate is used as fertiliser or soil improver, either directly or after composting or any other
+treatment.
+5. In the dedicated bio-waste treatment plants, the share of food and feed crops (  216  ) used as input feedstock, 
+measured in weight, as an annual average, is less than or equal to 10 % of the input feedstock.  
+_____________
+( 214  ) Implementing Decision (EU) 2018/1147. 
+( 215  ) As defined in Article 3, point 4, of Directive 2008/98/EC. 
+( 216  ) As defined in Article 2, point (40), of Directive (EU) 2018/2001.EN  L 442/96 Official Journal of the European Union 9.12.2021
+
+--- Page 97 of 349 ---

@@ -1,0 +1,59 @@
+File Name: 1_2021-06-04_DelVO_2021_2139_TAXKRA_EU.pdf
+Converted on: 2025-03-28 03:20:30
+Original Size: 2.76 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 171 of 447
+--------------------------------------------------------------------------------
+
+Building components and materials used in the construction that may
+come into contact with occupiers (  289  ) emit less than 0,06 mg of formal ­
+dehyde per m  3 of material or component upon testing in accordance with 
+the conditions specified in Annex XVII to Regulation (EC) No 1907/2006
+and less than 0,001 mg of other categories 1A and 1B carcinogenic
+volatile organic compounds per m  3 of material or component, upon 
+testing in accordance with CEN/EN 16516 (  290  ) or ISO 16000-3:2011 (  291  ) 
+or other equivalent standardised test conditions and determination
+methods (  292  ). 
+Where the new construction is located on a potentially contaminated site
+(brownfield site), the site has been subject to an investigation for potential
+contaminants, for example using standard ISO 18400 (  293  ). 
+Measures are taken to reduce noise, dust and pollutant emissions during
+construction or maintenance works.  
+(6) Protection and restoration of
+biodiversity and ecosystems  The activity complies with the criteria set out in Appendix D to this 
+Annex.
+The new construction is not built on one of the following:
+(a) arable land and crop land with a moderate to high level of soil fertility
+and below ground biodiversity as referred to the EU LUCAS
+survey (  294  ); 
+(b) greenfield land of recognised high biodiversity value and land that
+serves as habitat of endangered species (flora and fauna) listed on
+the European Red List (  295  ) or the IUCN Red List (  296  ); 
+(c) land matching the definition of forest as set out in national law used
+in the national greenhouse gas inventory, or where not available, is in
+accordance with the FAO definition of forest (  297  ). 
+7.2.  Renovation of existing buildings  
+Description of the activity  
+Construction and civil engineering works or preparation thereof.  
+The economic activities in this category could be associated with several NACE codes, in particular F41 and F43 in
+accordance with the statistical classification of economic activities established by Regulation (EC) No 1893/2006.  
+An economic activity in this category is a transitional activity as referred to in Article 10(2) of Regulation (EU)
+2020/852 where it complies with the technical screening criteria set out in this Section.  
+___________  
+( 289  ) Applying to paints and varnishes, ceiling tiles, floor coverings, including associated adhesives and sealants, internal insul ation and 
+interior surface treatments, such as those to treat damp and mould.  
+( 290  ) CEN/TS 16516: 2013, Construction products - Assessment of release of dangerous substances - Determination of emissions into 
+indoor air.  
+( 291  ) ISO 16000-3:2011, Indoor air — Part 3: Determination of formaldehyde and other carbonyl compounds in indoor air and test 
+chamber air — Active sampling method (version of 4.6.2021: https://www.iso.org/standard/51812.html).  
+( 292  ) The emissions thresholds for carcinogenic volatile organic compounds relate to a 28-day test period.  
+( 293  ) ISO 18400 series on Soil quality — Sampling  
+( 294  ) JRC ESDCA, LUCAS: Land Use and Coverage Area frame Survey version of 4.6.2021: https://esdac.jrc.ec.europa.eu/projects/lucas  
+( 295  ) IUCN,  The IUCN European Red List of Threatened Species (version of 4.6.2021:  https://www.iucn.org/regions/europe/our-work/ 
+biodiversity-conservation/european-red-list-threatened-species).  
+( 296  ) IUCN,  The IUCN Red List of Threatened Species (version of 4.6.2021:  https://www.iucnredlist.org).  
+( 297  ) Land spanning more than 0,5 hectares with trees higher than five meters and a canopy cover of more than 10 %, or trees able t o 
+reach those thresholds in situ. It does not include land that is predominantly under agricultural or urban land use, FAO Global

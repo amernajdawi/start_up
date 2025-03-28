@@ -1,0 +1,37 @@
+File Name: 2_E1-6_2011-09-01_G_GHG-PLC_WRI&WBCSD.pdf
+Converted on: 2025-03-28 03:18:25
+Original Size: 3.27 MB
+Chunk Size: 500 tokens with 50 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 130 of 226
+--------------------------------------------------------------------------------
+
+Quantitative uncertainty assessment is not required,
+but such an assessment is desirable since it can provide
+a more robust result that can identify specific areas of
+high uncertainty to track over time. Companies may wish
+to present both qualitative and quantitative uncertainty
+information in the inventory report. Companies may
+also describe their efforts to reduce uncertainty in
+future revisions of the inventory. Table 10.2 includes the
+required qualitative uncertainty sources to report.
+10.3.4 Uncertainty in comparisons
+Comparative uncertainty differs from the various types
+of uncertainty previously mentioned in that more than
+one product or system is considered. This standard is
+not intended to support product comparison beyond
+performance tracking (as described in chapter 1).
+However, even within a product inventory, comparative
+uncertainty may arise, such as when comparing the
+impact of one process or stage to another process or
+stage in the product’s life cycle.
+Whenever considering uncertainty in comparisons, the
+uncertainty ranges of each process, life cycle stage, or
+product should not be directly compared; instead, the
+uncertainty in the comparison itself should be assessed.
+That is, rather than comparing the distribution of A
+and the distribution of B, companies may assess the
+distribution of A divided by B.  This can be done for both 
+parameter uncertainty and scenario uncertainty.

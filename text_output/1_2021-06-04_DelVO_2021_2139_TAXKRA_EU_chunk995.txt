@@ -1,0 +1,35 @@
+File Name: 1_2021-06-04_DelVO_2021_2139_TAXKRA_EU.pdf
+Converted on: 2025-03-28 01:55:25
+Original Size: 2.76 MB
+Chunk Size: 400 tokens with 50 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 995 of 1091
+--------------------------------------------------------------------------------
+
+(b) replacement of existing windows with new energy efficient windows;  
+(c) replacement of existing external doors with new energy efficient doors;  
+(d) installation and replacement of energy efficient light sources;  
+(e) installation, replacement, maintenance and repair of heating, ventilation and air-conditioning (HVAC) and water
+heating systems, including equipment related to district heating services, with highly efficient technologies;  
+(f) installation of low water and energy using kitchen and sanitary water fittings which comply with technical
+specifications set out in Appendix A to Annex I to this Regulation and in case of shower solutions, mixer
+showers, shower outlets and taps have a max water flow of 6 L/min or less attested by an existing label in the
+Union market.  
+The economic activities in this category could be associated with several NACE codes, in particular F42, F43, M71,
+C16, C17, C22, C23, C25, C27, C28, S95.21, S95.22, C33.12 in accordance with the statistical classification of
+economic activities established by Regulation (EC) No 1893/2006.  
+Technical screening criteria  
+Substantial contribution to climate change adaptation  
+1. The economic activity has implemented physical and non-physical solutions (‘adaptation solutions’) that
+substantially reduce the most important physical climate risks that are material to that activity.
+2. The physical climate risks that are material to the activity have been identified from those listed in
+Appendix A to this Annex by performing a robust climate risk and vulnerability assessment with the
+following steps:
+(a) screening of the activity to identify which physical climate risks from the list in Appendix A to this Annex
+may affect the performance of the economic activity during its expected lifetime;
+(b) where the activity is assessed to be at risk from one or more of the physical climate risks listed in Appendix A
+to this Annex, a climate risk and vulnerability assessment to assess the materiality of the physical climate risks
+on the economic activity;
+(c) an assessment of adaptation solutions that can reduce the identified physical climate risk.

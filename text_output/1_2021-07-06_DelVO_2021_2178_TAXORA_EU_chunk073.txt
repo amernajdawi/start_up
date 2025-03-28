@@ -1,0 +1,17 @@
+File Name: 1_2021-07-06_DelVO_2021_2178_TAXORA_EU.pdf
+Converted on: 2025-03-28 03:18:05
+Original Size: 10.30 MB
+Chunk Size: 500 tokens with 50 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 73 of 90
+--------------------------------------------------------------------------------
+
+securities shall be included in the denominator of the GAR for the trading Portfolio.
+The part of the GAR numerator for trading portfolio shall be estimated by weighting the gross carrying amount of debt
+securities and equity instruments purchased and/or sold from each counterparty with the proportion of turnover and
+CapEx associated with Taxonomy-aligned economic activities of the undertaking contributing to the relevant
+environmental objective as disclosed by that undertaking in accordance with Article 8 of Regulation (EU) 2020/852 and
+this Regulation. For financial undertakings, the ratio for the counterparty to be applied shall be the same as for the
+relevant KPIs for these counterparties.EN Official Journal of the European Union L 443/46 10.12.2021

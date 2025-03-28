@@ -1,0 +1,50 @@
+File Name: 1_2023-07-31_DelVO_2023_2772_ESRS_EU.pdf
+Converted on: 2025-03-28 03:20:41
+Original Size: 5.82 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 117 of 284
+--------------------------------------------------------------------------------
+
+ELI: http://data.europa.eu/eli/reg_del/2023/2772/oj 118/284ii. technology: e.g., substitution of products or services by products or services with a lower impact,
+transition away from substances of concern;
+iii. market: e.g., shifting supply, demand and financing, volatility or increased costs of some substances; and
+iv. reputation: e.g., changing societal, customer or community perceptions as a result of an organisation’s role
+in pollution prevention and control;
+(b) identify physical risks, e.g., sudden interruption of access to clean water, acid rain, or other pollution incidents
+that are likely to lead to or that have led to pollution with subsequent effects on the environment and society;
+(c) identify opportunities related to pollution prevention and control categorised by:
+i. resource efficiency: decrease quantities of substances used or improve efficiency of production process to
+minimise impacts;
+ii. markets: e.g., diversification of business activities;
+iii. financing: e.g., access to green funds, bonds or loans;
+iv. resilience: e.g., diversification of substances used and control of emissions through innovation or
+technology; and
+v. reputation: positive stakeholder relations as a result of a proactive stance on managing risks.
+AR 8. In order to assess materiality , the undertaking may consider Commission Recommendation (EU) 2021/2279 on
+the use of the Environmental Footprint methods to measure and communicate the life cycle environmental
+performance of products and organisations.
+AR 9. When providing information on the outcome of its materiality assessment, the undertaking shall consider:
+(a) a list of site locations where pollution is a material issue for the undertaking’s own operations and its upstream
+and downstream value chain; and
+(b) a list of business activities associated with pollution material impacts, risks and opportunities.
+Disclosure Requirement E2-1 – Policies related to pollution
+AR 10. The policies described under this Disclosure Requirement may be integrated in broader environmental or
+sustainability policies covering different subtopics.
+AR 11. The description of the policies shall include information on the pollutant(s) or substance(s) covered.
+AR 12. When disclosing information under paragraph 11, the undertaking may include contextual information on the
+relations between its policies implemented and how they may contribute to the EU Action Plan “Towards a Zero
+Pollution for Air, Water and Soil” with for instance elements on:
+(a) how it is or may be affected by the targets and measures of the EU Action Plan and the revision of existing
+directives (e.g., the Industrial Emissions Directive);
+(b) how it intends to reduce its pollution footprint to contribute to these targets.
+Disclosure Requirement E2-2 – Actions and resources related to pollution
+AR 13. Where actions extend to upstream or downstream value chain engagements, the undertaking shall provide
+information on the types of actions reflecting these engagements.
+AR 14. When considering resources, examples of operational expenditures could be investments in research and
+development to innovate and develop safe and sustainable alternatives to the use of substances of concern or to
+decrease emissions in a production process.OJ L, 22.12.2023 EN  
+
+--- Page 119 of 284 ---

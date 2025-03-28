@@ -1,0 +1,48 @@
+File Name: 2_E1-6_2011-09-01_G_GHG-PLC_WRI&WBCSD.pdf
+Converted on: 2025-03-28 03:18:25
+Original Size: 3.27 MB
+Chunk Size: 500 tokens with 50 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 156 of 226
+--------------------------------------------------------------------------------
+
+--- Page 102 of 148 ---
+
+Reporting 13
+
+--- Page 103 of 148 ---
+
+[101]
+guidancerequirements
+13.1 Introduction
+Reporting is crucial to ensure accountability and effective engagement with
+stakeholders. This chapter summarizes the various reporting requirements
+specified in other chapters and identifies additional reporting considerations
+that together  provide a credible reporting framework and enable users of reported data 
+to make informed decisions. It is essential that the reported information is based on the key
+accounting principles (relevance, accuracy, completeness, consistency, and transparency).
+13.2 Requirements
+Companies shall publicly report the
+following information to be in conformance
+with the GHG Protocol Product Standard:
+General information and scope
+• Contact information;
+• Studied product name and description;
+• The unit of analysis and reference flow;
+ •Type of inventory, cradle-to-grave or  
+    cradle-to-gate;   • Additional GHGs included in the 
+inventory;
+ •	Any	product	rules	or	sector-specific 	
+guidance used;
+•Inventory date and version;
+• For subsequent inventories, a link
+to previous inventory reports and
+description of any methodological
+changes; and
+ • A disclaimer stating the limitations  
+of various potential uses of the report
+including product comparison.
+
+--- Page 104 of 148 ---

@@ -1,0 +1,45 @@
+File Name: 1_2023-07-31_DelVO_2023_2772_ESRS_EU.pdf
+Converted on: 2025-03-28 03:18:14
+Original Size: 5.82 MB
+Chunk Size: 500 tokens with 50 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 592 of 686
+--------------------------------------------------------------------------------
+
+ELI: http://data.europa.eu/eli/reg_del/2023/2772/oj 247/284Interaction with other ESRS
+3. The content of this Standard on general disclosures as well as impact, risk and opportunity management and metrics
+and targets shall be read in conjunction respectively with ESRS 1 General principles and ESRS 2 General requirements.
+Disclosure Requirements
+ESRS 2 General disclosures
+4. The requirements of this section should be read in conjunction with and reported alongside the disclosures required
+by ESRS 2 on Governance (GOV), Strategy (SBM) and Management of impacts, risks and opportunities (IRO).
+Governance
+Disclosure Requirement related to ESRS 2 GOV-1 – The role of the administrative, management and supervisory bodies
+5. When disclosing information about the role of the administrative, management and supervisory bodies, the
+undertaking shall cover the following aspects:
+(a) the role of the administrative, management and supervisory bodies related to business conduct; and
+(b) the expertise of the administrative, management and supervisory bodies on business conduct matters.
+Impact, risk and opportunity management
+Disclosure Requirement related to ESRS 2 IRO-1 – Description of the processes to identify and assess material impacts,
+risks and opportunities
+6. When describing the process to identify material impacts, risks and opportunities in relation to business conduct
+matters, the undertaking shall disclose all relevant criteria used in the process, including location, activity, sector and
+the structure of the transaction.
+Disclosure Requirement G1-1– Business conduct policies and corporate culture
+7. The undertaking shall disclose its policies with respect to business conduct matters and how it fosters its corporate
+culture.
+8. The objective of this Disclosure Requirement is to enable an understanding of the extent to which the undertaking
+has policies that address the identification, assessment, management and/or remediation of its material impacts,
+risks and opportunities related to business conduct matters. It also aims to provide an understanding of the
+undertaking’s approach to corporate culture.
+9. The disclosures required under paragraph 7 shall include how the undertaking establishes, develops, promotes and
+evaluates its corporate culture.
+10. The disclosures in paragraph 7 shall cover the following aspects related to the undertaking’s policies on business
+conduct matters:
+(a) a description of the mechanisms for identifying, reporting and investigating concerns about unlawful behaviour
+or behaviour in contradiction of its code of conduct or similar internal rules; and whether it accommodates
+reporting from internal and/or external stakeholders;OJ L, 22.12.2023 EN  
+
+--- Page 248 of 284 ---

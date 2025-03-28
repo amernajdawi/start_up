@@ -1,0 +1,41 @@
+File Name: 2_E1-6_2014-01-01_G_GHG-Agri_WRI&WBCSD.pdf
+Converted on: 2025-03-28 01:56:31
+Original Size: 1.75 MB
+Chunk Size: 400 tokens with 50 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 145 of 150
+--------------------------------------------------------------------------------
+
+--- Page 101 of 103 ---
+
+GHG Protocol Agricultural Guidance
+
+101
+functionally more useful. On-farm product processing is product
+processing done on the farm with produce from the farm.
+Rolling base period Base periods that move forward in time with each reporting period.
+Ruminants Mammals that digest plant-based f ood by softening it within a first
+stomach (the ‘rumen’), then regurgitating the semi-digested mass (the
+‘cud’) for further chewing. Enteric fermentation  results from the 
+microbial fermentation of food in the rumen. Examples of ruminants
+include cattle, goats, sheep, bison,  yaks, water buffalo, and deer. 
+Scope Defines the operational boundaries  in relation to direct  and indirect  
+GHG emissions.
+   Scope 1 Direct  GHG emissions from sources owned or controlled by the 
+reporting company.
+   Scope 2 Emissions associated with the generation of electricity, heating/ 
+cooling, or steam purchased for the reporting company’s own
+consumption.
+   Scope 3 Indirect  emissions other than those covered in scope 2 . 
+Timberbelt Multiple row field windbreaks that are planted with commercially
+valuable, fast-growing trees (such as hybrid poplar or hybrid willow) to provide conservation benefits, improve adjacent crop yields, diversify on-farm income sources, and produce commercially valuable
+wood products.  
+Volatilization of soil
+nitrogen The vaporization of soil NH 3 and NO X and their subsequent release
+into the atmosphere.
+
+--- Page 102 of 103 ---
+
+GHG Protocol Agricultural Guidance

@@ -1,0 +1,17 @@
+File Name: 1_2023-07-31_DelVO_2023_2772_ESRS_EU.pdf
+Converted on: 2025-03-28 03:18:14
+Original Size: 5.82 MB
+Chunk Size: 500 tokens with 50 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 294 of 686
+--------------------------------------------------------------------------------
+
+AR 6. The undertaking shall consider river basins as the relevant level for assessment of locations and combine that
+approach with an operational risk assessment of its facilities and the facilities of suppliers with material impacts
+and risks.
+AR 7. The undertaking shall consider the criteria for defining the status of water bodies according to the relevant
+Annexes of Directive 2000/60/EC (Water Framework Directive) as well as the guidance documents provided for
+implementation of the Water Framework Directive. The list of guidance documents can be accessed under the
+European Commission’s Environment home page.OJ L, 22.12.2023 EN

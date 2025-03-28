@@ -1,0 +1,47 @@
+File Name: 2_E1-6_2011-09-01_G_GHG-PLC_WRI&WBCSD.pdf
+Converted on: 2025-03-28 03:18:25
+Original Size: 3.27 MB
+Chunk Size: 500 tokens with 50 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 150 of 226
+--------------------------------------------------------------------------------
+
+--- Page 98 of 148 ---
+
+[96]   Product Life Cycle Accounting and Reporting Standardrequirements
+Critical review findings
+The critical review findings include whether the product
+inventory is in conformance with the Product Standard  
+and the methodological choices and assumptions made
+are reasonable for public reporting.For more information on critical review, companies should
+refer to the following texts:
+1. ISO 14040, section 7
+2. ISO 14044, section 6
+3.  The Society of Environmental Toxicology and 
+Chemistry’s (SETAC) Guidelines for Life Cycle
+Assessment: A ‘Code of Practice’
+Table [12.2] Examples of limited and reasonable assurance opinions
+Assurance opinion Limited assurance Reasonable assurance
+Nature of opinion Negative opinion Positive opinion
+Example wording  
+of opinion" Based on our review, we are not aware
+of any material modifications that
+should be made to the company’s
+assertion that the inventory product’s
+emissions are 23 kilograms CO2e and  
+are in conformance with the
+requirements of the GHG Protocol
+Product Life Cycle Accounting and
+Reporting Standard .”" In our opinion the reporting
+company’s assertion that the
+inventory product’s emissions
+are 23 kilograms CO2e is fairly
+stated, in all material respects,
+and is in conformance with
+the GHG Protocol Product Life
+Cycle Accounting and Reporting
+Standard ."
+
+--- Page 99 of 148 ---

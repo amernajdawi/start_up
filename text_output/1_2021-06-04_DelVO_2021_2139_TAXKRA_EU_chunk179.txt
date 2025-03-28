@@ -1,0 +1,56 @@
+File Name: 1_2021-06-04_DelVO_2021_2139_TAXKRA_EU.pdf
+Converted on: 2025-03-28 03:20:30
+Original Size: 2.76 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 179 of 447
+--------------------------------------------------------------------------------
+
+The economic activities in this category could be associated with NACE code J63.11 in accordance with the
+statistical classification of economic activities established by Regulation (EC) No 1893/2006.  
+An economic activity in this category is a transitional activity as referred to in Article 10(2) of Regulation (EU)
+2020/852 where it complies with the technical screening criteria set out in this Section.  
+Technical screening criteria  
+Substantial contribution to climate change mitigation  
+1. The activity has implemented all relevant practices listed as ‘expected practices’ in the most recent version
+of the European Code of Conduct on Data Centre Energy Efficiency (  307  ), or in CEN-CENELEC document CLC 
+TR50600-99-1 ‘Data centre facilities and infrastructures - Part 99-1: Recommended practices for energy manage ­
+ment’ (  308  ). 
+The implementation of those practices is verified by an independent third-party and audited at least every three
+years.
+2. Where an expected practice is not considered relevant due to physical, logistical, planning or other
+constraints, an explanation of why the expected practice is not applicable or practical is provided. Alternative
+best practices from the European Code of Conduct on Data Centre Energy Efficiency or other equivalent sources
+may be identified as direct replacements if they result in similar energy savings.
+3. The global warming potential (GWP) of refrigerants used in the data centre cooling system does not exceed
+675.  
+Do no significant harm (‘DNSH’)  
+(2) Climate change adaptation  The activity complies with the criteria set out in Appendix A to this 
+Annex.  
+(3) Sustainable use and protection of
+water and marine resources  The activity complies with the criteria set out in Appendix B to this 
+Annex.  
+(4) Transition to a circular economy  The equipment used meets the requirements laid down in Directive 
+2009/125/EC for servers and data storage products.
+The equipment used does not contain the restricted substances listed in
+Annex II to Directive 2011/65/EU of the European Parliament and of the
+Council (  309  ), except where the concentration values by weight in homo ­
+geneous materials do not exceed the maximum values listed in that Annex.
+A waste management plan is in place and ensures maximal recycling at
+end of life of electrical and electronic equipment, including through
+contractual agreements with recycling partners, reflection in financial
+projections or official project documentation.  
+_____________
+( 307  ) The most recent version of the European Code of Conduct on Data Centre Energy Efficiency is the latest version published at t he 
+Joint Research Centre European Energy Efficiency Platform (E3P) website, https://e3p.jrc.ec.europa.eu/communities/data-centres-  
+code-conduct, with a transition period of six months starting from the day of its publication (the 2021 version is available at  
+https://e3p.jrc.ec.europa.eu/publications/2021-best-practice-guidelines-eu-code-conduct-data-centre-energy-efficiency).
+( 308  ) Issued on 1 July 2019 by the European Committee for Standardization (CEN) and the European Committee for Electrotechnical 
+Standardization (CENELEC), (version of 4.6.2021: https://www.cenelec.eu/dyn/www/f?p=104:110:50822740405550 1::::FSP_
+ORG_ID,FSP_PROJECT,FSP_LANG_ID:1258297,65095,25).
+( 309  ) Directive 2011/65/EU of the European Parliament and of the Council of 8 June 2011 on the restriction of the use of certain 
+hazardous substances in electrical and electronic equipment (OJ L 174, 1.7.2011, p. 88).EN  9.12.2021 Official Journal of the European Union L 442/133
+
+--- Page 134 of 349 ---

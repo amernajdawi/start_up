@@ -1,0 +1,68 @@
+File Name: 2_E1-6_2011-09-01_G_GHG-PLC_WRI&WBCSD.pdf
+Converted on: 2025-03-28 03:20:53
+Original Size: 3.27 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 109 of 116
+--------------------------------------------------------------------------------
+
+[136]   Product Life Cycle Accounting and Reporting Standard
+Primary data  Data from specific processes in the studied product’s life cycle.
+Process activity data  Physical measures of a process that result in GHG emissions or removals.
+Product  Any good or service. 
+Product category  Group of products that can fulfill equivalent functions.13
+Product distribution  A life cycle stage that begins when the finished studied product leaves the gate of the  
+ and storage stage  production facility and ends when the consumer takes possession of the product.
+Product GHG inventory  Compilation and evaluation of the inputs, outputs, and the potential GHG impacts of  
+a product system throughout its life cycle.
+Product rule  A document containing additional specifications needed to enable comparisons or 
+declarations about a product or product category.
+Production stage  A life cycle stage that begins when the product components enter the production 
+site for the studied product and ends when the finished studied product leaves the
+production gate.
+Proxy data  Data from a similar activity that is used as a stand-in for the given activity. Proxy data can 
+be extrapolated, scaled up, or customized to represent the given activity.
+Recycling processes  Processes that occur as a result of a product or material being reused or recycled as a 
+material input into another product’s life cycle.
+Reference flow The amount of studied product needed to fulfill the function defined in the unit of analysis.14
+Removal  The sequestration or absorption of GHG emissions from the atmosphere, which most 
+typically occurs when CO2 is absorbed by biogenic materials during photosynthesis.
+Reporting company  The company performing the product GHG inventory in conformance with the  
+Product Standard.
+Same inherent properties  When a recycled material has maintained its properties (e.g., chemical, physical) such that  
+ (recycling)  it can be used as a direct replacement of virgin material.
+Scope 3 inventory  A reporting organization’s indirect emissions other than those covered in scope 2.  
+A company’s scope 3 inventory includes the upstream and downstream emissions of the
+reporting company.
+Secondary data  Process data that are not from specific processes in the studied product’s life cycle.
+Sector guidance  A document or tool that provides guidance for performing a product GHG inventory 
+within a given sector.
+
+--- Page 139 of 148 ---
+
+Glossary
+[137]Service life  The amount of time needed for a product to fulfill the function defined in the unit of 
+analysis.
+Studied product  The product for which the GHG inventory is performed.
+Third party (external) Assurance performed by a person(s) from an organization independent of the product  
+ assurance  GHG inventory determination process.
+Time period  The period of time when attributable processes occur during the studied product’s life 
+cycle, from when materials are extracted from nature until they are returned to nature at
+the end-of-life (e.g., incinerated) or leave the studied product’s life cycle (e.g., recycled).
+Qualitative uncertainty  A general and imprecise term which refers to the lack of certainty in data and 
+methodology choices, such as the application of non-representative factors or methods,
+incomplete data on sources and sinks, lack of transparency, etc.
+Quantitative uncertainty  Measurement that characterizes the dispersion of values that could reasonably be 
+attributed to a parameter (adapted from ISO 1995).15
+Unit of analysis  The basis on which the inventory results are calculated; the unit of analysis is defined as 
+the functional unit for final products and the reference flow for intermediate products.
+Upstream  GHG emissions or removals associated with processes that occur in the life cycle of a 
+product prior to the processes owned or controlled by the reporting company.16
+Use stage  A life cycle stage that begins when the consumer takes possession of the product and 
+ends when the used product is discarded for transport to a waste treatment location or
+recycled into another product’s life cycle.
+Waste  An output of a process that has no market value.
+
+--- Page 140 of 148 ---

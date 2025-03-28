@@ -1,0 +1,53 @@
+File Name: 1_2023-07-31_DelVO_2023_2772_ESRS_EU.pdf
+Converted on: 2025-03-28 03:20:41
+Original Size: 5.82 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 218 of 284
+--------------------------------------------------------------------------------
+
+ELI: http://data.europa.eu/eli/reg_del/2023/2772/oj 219/284Strategy
+Disclosure Requirement related to ESRS 2 SBM-2 – Interests and views of stakeholders
+7. When responding to ESRS 2 SBM-2, paragraph 43, the undertaking shall disclose how the views, interests, and rights
+of affected communities, including respect for their human rights (and their rights as indigenous peoples, where
+applicable), inform its strategy and business model. Affected communities are a key group of affected stakeholders.
+Disclosure Requirement related to ESRS 2 SBM-3 – Material impacts, risks and opportunities and their interaction with strategy and business model
+8. When responding to ESRS 2 SBM-3 paragraph 48, the undertaking shall disclose:
+(a) whether and how actual and potential impacts on affected communities as identified in ESRS 2 IRO-1 Description
+of the processes to identify and assess material impacts, risks and opportunities: (i) originate from or are connected to the
+undertaking’s strategy and business models, and (ii) inform and contribute to adapting the undertaking’s strategy
+and business model; and
+(b) the relationship between its material risks and opportunities arising from impacts and dependencies on affected
+communities and its strategy and business model.
+9. When fulfilling the requirements of paragraph 48, the undertaking shall disclose whether all affected communities
+who are likely to be materially impacted by the undertaking, including impacts that are connected with the
+undertaking’s own operations and value chain, including through its products or services, as well as through its
+business relationships, are included in the scope of its disclosure under ESRS 2. In addition, the undertaking shall provide the following information:
+(a) a brief description of the types of communities subject to material impacts by its own operations or through its
+upstream and downstream value chain, and specify whether they are:
+i. communities living or working around the undertaking’s operating sites, factories, facilities or other physical
+operations, or more remote communities affected by activities at those sites (for example by downstream
+water pollution);
+ii. communities along the undertaking’s value chain (for example, those affected by the operations of suppliers ’
+facilities or by the activities of logistics or distribution providers);
+iii. communities at one or both endpoints of the value chain (for example, at the point of extraction of metals or
+minerals or harvesting of commodities, or communities around waste or recycling sites);
+iv. communities of indigenous peoples.
+(b) in the case of material negative impacts, whether they are either (i) widespread or systemic in contexts where the
+undertaking operates or has sourcing or other business relationships (for example, marginalised populations
+suffering impacts on their health and quality of life in a highly industrialised area), or (ii) related to individual
+incidents in the undertaking’s own operations (e.g., a toxic waste spill affecting a community’s access to clean
+drinking water) or in a specific business relationship (e.g., a peaceful protest by communities against business operations that was met with a violent response from the undertaking’s security services). This includes consideration of impacts on affected communities that may arise from the transition to greener and climate-
+neutral operations. Potential impacts include impacts associated with innovation and restructuring, closure of
+mines, increased mining of minerals needed for the transition to a sustainable economy and solar panel
+production;
+(c) in the case of material positive impacts, a brief description of the activities that result in the positive impacts (for
+example, capacity-building to support more and new forms of local livelihoods) and the types of communities
+that are positively affected or could be positively affected; the undertaking may also disclose whether the
+positive impacts occur in specific countries or regions; and
+(d) any material risks and opportunities for the business arising from impacts and dependencies on affected
+communities.OJ L, 22.12.2023 EN  
+
+--- Page 220 of 284 ---

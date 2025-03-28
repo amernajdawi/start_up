@@ -1,0 +1,50 @@
+File Name: 2_E1-6_2014-01-01_G_GHG-Agri_WRI&WBCSD.pdf
+Converted on: 2025-03-28 01:56:31
+Original Size: 1.75 MB
+Chunk Size: 400 tokens with 50 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 116 of 150
+--------------------------------------------------------------------------------
+
+Accounting for ‘avoided’ emissions
+Many renewable energy projects may have GHG impacts that extend beyond the farm
+gate – they may help to di splace (or ‘avoid’) the emissi ons from fossil fuel-based
+electricity generation elsewhere on the grid that would have occurred in the absence of
+the project. Importantly, renewa ble energy generation projects  do not always result in a 
+physical reduction in emissions from fossil fuel consumption. For example:
+ On-site renewable energy that is sold to th e grid: the total emissions of a fossil-fuel
+plant are affected by the aggregate demand of all consumers connected to the grid,
+such that the sale of renewable energy may be balanced by an increased demand for
+electricity amongst other grid consumers, w ith no net change in absolute emissions
+from the fossil-fuel plant.   
+ Switching from residual fuel to wood wast e produced on a farm: such switching may
+lead to emissions reductions from crude oil refining and waste fuel disposal, but
+whether these reductions are actually realized depends on the demand for fuel oil by
+other organizations.  
+In these cases, the behavior of other consumer s – which is outside of the control of the
+reporting company – means avoided emissions do not necessarily occur. As a result,
+avoided emissions shall not be reported within the scopes and they shall not be used to
+‘net’ emissions14. However, estimates of avoided emissions may be reported as a memo
+item, as long as the underlying assumptions  and appropriate cal culation methodologies 
+are also described. The Project Protocol pr ovides guidance releva nt for calculating
+avoided emissions.  
+Accounting for transactions in offset credits
+Should a company sell an offset that has been generated within its organizational
+boundaries, it shall remove the associated emissions reduc tions from its corporate
+inventory to prevent double count ing. It should also disclose the protocol used to verify
+the emissions reductions.    
+
+14 Avoided emissions are also not quantified as part of product life cycle inventories under the GHG
+Protocol Product Standard.  
+
+--- Page 76 of 103 ---
+
+GHG Protocol Agricultural Guidance
+
+76
+
+Appendices 	
+
+--- Page 77 of 103 ---

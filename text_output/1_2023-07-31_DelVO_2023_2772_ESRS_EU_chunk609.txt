@@ -1,0 +1,14 @@
+File Name: 1_2023-07-31_DelVO_2023_2772_ESRS_EU.pdf
+Converted on: 2025-03-28 03:18:14
+Original Size: 5.82 MB
+Chunk Size: 500 tokens with 50 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 609 of 686
+--------------------------------------------------------------------------------
+
+ABC’s standard contract payment terms are payment on receipt of invoice for wholesalers which encompass approximately 80%
+of its annual invoices by value. It pays for services received within 30 days after receipt of the invoice which are about 5% of its
+annual invoices. The remainder of its invoices are paid within 60 days of receipt except for those in country X which in
+accordance with the marketplace standards are paid within 90 days of receipt.OJ L, 22.12.2023 EN

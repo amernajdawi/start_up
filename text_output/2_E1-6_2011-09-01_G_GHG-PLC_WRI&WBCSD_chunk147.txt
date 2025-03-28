@@ -1,0 +1,40 @@
+File Name: 2_E1-6_2011-09-01_G_GHG-PLC_WRI&WBCSD.pdf
+Converted on: 2025-03-28 03:18:25
+Original Size: 3.27 MB
+Chunk Size: 500 tokens with 50 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 147 of 226
+--------------------------------------------------------------------------------
+
+Assurers are defined as person(s) providing assurance
+over the product inventory and shall be independent
+of any involvement in the determination of the product
+inventory or development of any declaration. Assurers
+shall have no conflicts of interests, such that they can
+exercise objective and impartial judgment. Inherently, assurance provided by a third party offers
+a higher degree of objectivity and independence.
+Companies receiving first party assurance are required
+to report how potential conflicts of interests were
+avoided during the assurance process (see the assurance
+statement reporting requirement below for more
+information). Typical threats to independence may
+include financial and other conflicts of interest between
+the reporting company and the assurer. These threats
+should be assessed throughout the assurance process.
+Companies shall report the assurance
+statement in the inventory report. The
+statement shall include:
+ • Whether the assurance was performed  
+by	a	first	or	third	party 	
+• The level of assurance achieved (limited
+or reasonable) including assurance
+opinion or the critical review findings
+•A summary of the assurance process
+ • The relevant competencies of  
+the assurers
+ •	How	any	potential	conflicts	of	interest 	
+were avoided for first party assurance
+
+--- Page 97 of 148 ---

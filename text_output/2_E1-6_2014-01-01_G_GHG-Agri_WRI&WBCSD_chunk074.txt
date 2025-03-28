@@ -1,0 +1,67 @@
+File Name: 2_E1-6_2014-01-01_G_GHG-Agri_WRI&WBCSD.pdf
+Converted on: 2025-03-28 03:18:26
+Original Size: 1.75 MB
+Chunk Size: 500 tokens with 50 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 74 of 108
+--------------------------------------------------------------------------------
+
+total amount of CO 2 flux or stock change over the entire transition period , under permanent adoption of the practice concerned Reference stock sizes for the amount of carbon stored in the biomass of grassland and woodland that are used to quantify the stock change associated with LUC Yes
+
+--- Page 66 of 103 ---
+
+GHG Protocol Agricultural Guidance
+
+66
+Certain CO 2 fluxes should never be amortized
+Irrespective of the quantification approach, certain CO 2 fluxes should never be amortized
+and should always be reported in the year of the management pr actice. These are:  
+ The CO 2 emissions from bioma ss and DOM combustion  
+ The CO 2 emissions from the organic car bon stocks of organic soils.   
+
+Amortizing the CO 2 emissions from DOM stocks is optional  
+Some management practices ma y move C to DOM stocks that is not then emitted in the
+year of the intervention. For inst ance, much of the C in biomass killed in a fire is added to
+dead wood, litter and soil pools from where th e C will be emitted over years to decades,
+as the DOM decomposes. Quantifying the emissions from these DOM stock changes can
+be very challenging; for instance, DOM decay rates differ greatly between regions,
+depending on temperature and moisture regimes. Consequently, companies may either assume that the total CO
+2 emissions from DOM stocks occur in the year of the
+intervention, or, should capacity and data ex ist, they may amortize these emissions over
+time.   Table 8-2 summarizes when it is and is not appropriate to amortize CO
+2 fluxes.  
+
+Table 8-2. When CO 2 fluxes can be amortized
+CO 2 flux Time reporting requirement
+ Sequestration in woody biomass
+stocks  
+ Sequestration in organic C stocks
+of mineral soils  Amortize if the time interval of the
+quantification approach exceeds one year
+ Otherwise, report all the estimated
+sequestration in the reporting period
+Emissions from woody biomass
+stocks Biomass combustion emissions should be
+reported in the year of the intervention
+Emissions from dead organic matter
+(DOM) From the decomposition of DOM:
+ Amortize, should capacity and data exist;
+or
+ Report in the year of intervention
+
+From the combustion of DOM:
+ Report in the year of intervention
+Emissions from organic C stocks of
+mineral soils  Amortize if the time interval of the
+quantification approach exceeds one year
+ Otherwise, report all the estimated
+emissions in the year of the intervention
+Emissions from organic soils Do not amortize – report losses as they occur
+Sequestration in organic soils Do not amortize - report sequestration as it
+occurs
+
+--- Page 67 of 103 ---
+
+GHG Protocol Agricultural Guidance

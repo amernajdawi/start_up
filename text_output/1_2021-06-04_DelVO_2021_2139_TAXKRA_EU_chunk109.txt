@@ -1,0 +1,53 @@
+File Name: 1_2021-06-04_DelVO_2021_2139_TAXKRA_EU.pdf
+Converted on: 2025-03-28 03:20:30
+Original Size: 2.76 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 109 of 447
+--------------------------------------------------------------------------------
+
+Technical screening criteria  
+Substantial contribution to climate change mitigation  
+The activity complies with either of the following criteria:
+(a) the electricity generation facility is a run-of-river plant and does not have an artificial reservoir;
+(b) the power density of the electricity generation facility is above 5 W/m  2 ; 
+(c) the life-cycle GHG emissions from the generation of electricity from hydropower, are lower than
+100 g CO  2 e/kWh. The life-cycle GHG emissions are calculated using Recommendation 2013/179/EU or, 
+alternatively, using ISO 14067:2018 (  162  ), ISO 14064-1:2018 (  163  ) or the G-res tool (  164  ). Quantified life- 
+cycle GHG emissions are verified by an independent third party.  
+Do no significant harm (‘DNSH’)  
+(2) Climate change adaptation  The activity complies with the criteria set out in Appendix A to this 
+Annex.  
+(3) Sustainable use and protection of
+water and marine resources  1. The activity complies with the provisions of Directive 2000/60/EC, 
+in particular with all the requirements laid down in Article 4 of the
+Directive.
+2. For operation of existing hydropower plants, including refurbishment
+activities to enhance renewable energy or energy storage potential, the
+activity complies with the following criteria:
+2.1. In accordance with Directive 2000/60/EC and in particular Articles
+4 and 11 of that Directive, all technically feasible and ecologically relevant
+mitigation measures have been implemented to reduce adverse impacts on
+water as well as on protected habitats and species directly dependent on
+water.
+2.2. Measures include, where relevant and depending on the ecosystems
+naturally present in the affected water bodies:
+(a) measures to ensure downstream and upstream fish migration (such as
+fish friendly turbines, fish guidance structures, state-of-the-art fully
+functional fish passes, measures to stop or minimise operation and
+discharges during migration or spawning);
+(b) measures to ensure minimum ecological flow (including mitigation of
+rapid, short-term variations in flow or hydro-peaking operations) and
+sediment flow;
+(c) measures to protect or enhance habitats.  
+_____________
+( 162  ) ISO standard 14067:2018, Greenhouse gases — Carbon footprint of products — Requirements and guidelines for quantification 
+(version of 4.6.2021: https://www.iso.org/standard/71206.html).
+( 163  ) ISO standard 14064-1:2018, Greenhouse gases — Part 1: Specification with guidance at the organization level for quantificatio n 
+and reporting of greenhouse gas emissions and removals (version of 4.6.2021: https://www.iso.org/standard/66453.html).
+( 164  ) Publicly available online tool developed by the International Hydropower Association (IHA) in collaboration with the UNESCO 
+Chair for Global Environmental Change (version of 4.6.2021: https://www.hydropower.org/gres).EN  L 442/66 Official Journal of the European Union 9.12.2021
+
+--- Page 67 of 349 ---

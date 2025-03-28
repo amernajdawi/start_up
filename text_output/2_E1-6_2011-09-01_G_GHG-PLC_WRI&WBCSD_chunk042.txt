@@ -1,0 +1,88 @@
+File Name: 2_E1-6_2011-09-01_G_GHG-PLC_WRI&WBCSD.pdf
+Converted on: 2025-03-28 03:20:53
+Original Size: 3.27 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 42 of 116
+--------------------------------------------------------------------------------
+
+[52]   Product Life Cycle Accounting and Reporting Standard
+guidancea company that knows the cost of the fuel consumed in
+a process and the cost per liter of fuel can easily convert
+the fuel value into the physical amount of litres consumed
+in the process.
+Emission factors
+Emission factors are the GHG emissions per unit of activity
+data, and they are multiplied by activity data to calculate
+GHG emissions. Emission factors may cover one type of
+GHG (for example, CH4/liter of fuel) or they may include
+many gases in units of CO2 equivalents (CO2e). Emission
+factors can include a single process in a product’s life
+cycle, or they can include multiple processes aggregated
+together. Life cycle emission factors that include
+emissions from all attributable upstream processes of a
+product are often called cradle-to-gate emission factors.
+Companies should understand which processes are
+included in the inventory’s emission factors to ensure that
+all processes in the product’s life cycle are accounted for
+in the data collection process.
+The types of emission factors needed depend on the
+types of activity data collected. For example, if companies
+collect financial activity data on a material input to a
+process, they can select an EEIO emission factor to
+calculate the upstream emissions. Conversely, a company
+may first collect available emission factors and then
+decide which type(s) of activity data to collect.
+Examples of emission factor sources include life cycle
+databases, published product inventory reports,
+government agencies, industry associations, company-
+developed factors, and peer reviewed literature. A list of databases is available at ( www.ghgprotocol.org ). More
+information on calculating emissions and inventory results
+is available in chapter 11.
+8.3.5 Collecting primary data
+To achieve conformance with this standard, primary
+data are collected for all processes2 under the ownership
+or control of the reporting company. Primary data are
+defined as data from specific processes in the studied
+product’s life cycle. Direct emissions data and process
+activity data can both be classified as primary data if they
+meet the definition.
+Examples of primary data include:
+•Liters of fuel consumed by a process in the product’s
+life cycle, either from a specific site or an average
+across all production sites
+•Kilowatt-hours consumed by a process from an
+individual site or an average across sites
+•Kilograms of material added to a process
+•GHG emissions from the chemical reaction of a process
+Companies typically do not have control over the source
+of emission factors used to calculate the GHG emissions
+associated with process activity data, even if the activity
+data is primary. Therefore, the source of emission factor
+has no bearing on the classification to meet the primary
+As with data from other emission sources, companies
+should select electricity emission factors that are
+geographically specific to the electricity sources used
+in the product inventory. When an electricity supplier
+can deliver a supplier-specific emission factor and
+these emissions are excluded from the regional
+emission factor, the supplier’s electricity data should
+be used. Otherwise, companies should use a regional
+average emission factor for electricity to avoid
+double counting.Box [8.3] Selecting electricity emission factorsQuality data are important to develop a useful
+inventory report and to track reductions over time.
+Therefore, the best type of data from suppliers:
+•Are based on process-specific information, not
+disaggregated site information from a corporate
+inventory; and
+•Provide sufficient supporting information to enable
+users to understand how the data were gathered,
+what calculation methodologies were used, and the
+quality of inventory.
+Guidance on how to collect supplier data and
+develop a data collection strategy is available at
+(www.ghgprotocol.org ).  Box [8.4]  Collecting supplier data
+
+--- Page 55 of 148 ---

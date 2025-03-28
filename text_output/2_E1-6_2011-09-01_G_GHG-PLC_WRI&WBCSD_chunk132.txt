@@ -1,0 +1,55 @@
+File Name: 2_E1-6_2011-09-01_G_GHG-PLC_WRI&WBCSD.pdf
+Converted on: 2025-03-28 03:18:25
+Original Size: 3.27 MB
+Chunk Size: 500 tokens with 50 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 132 of 226
+--------------------------------------------------------------------------------
+
+[83]
+CHAPTER 10 Assessing Uncertainty
+guidanceWhen comparing the uncertainties between two or more
+processes, stages, or products, it is important to track any
+common inputs, outputs, and/or processes. When the
+two items being compared share common elements their
+uncertainties are likely correlated, which should not be
+included in the uncertainty comparison result. Because
+of correlation, a comparison of two relatively uncertain
+results could have relatively high certainty. Identifying
+correlations is important in tracking any changes in the
+product’s inventory over time.
+EXAMPLE
+The manufacturer of the toner cartridge determines the
+product inventory’s parameter uncertainty is +/- 20 percent.
+The company develops a lighter weight cartridge body,
+reducing 30 percent of the weight of that component and
+3 percent of the total product inventory result. Besides the
+difference in weight, the processes in the two inventories are
+the same and the data sources are also consistent.  Therefore, 
+while both the original and revised inventories each have a
+parameter uncertainty of +/- 20 percent and the difference in
+their results is 3 percent, the company can be confident that
+the new design has a lower GHG impact. Endnotes
+1 Parameter refers to the value(s) assigned to processes, inputs,
+outputs, within the product’s life cycle.
+2 In some cases, such as in the use of log-normal distributions,
+the distribution around the mean is not symmetrical and the
+upper and lower confidence levels might need to be specified
+separately (e.g., “-10, +20”, rather than “+/- 15).
+3 Mark A. J. Huijbregts, “Application of uncertainty and variability  
+in LCA. Part I: A General Framework for the Analysis of
+Uncertainty and Variability in Life Cycle Assessment.”International
+Journal of Life Cycle Assessment, 3 no. 5 (1998):273 – 280.
+4 For cradle-to-grave inventories.
+5 The description of single parameter uncertainty is included in the
+data quality reporting requirements (see chapter 7).Table [10.2] Qualitative description of required uncertainty sources
+Source of uncertainty Qualitative description
+Scenario uncertainty
+• Use profile4Describe the use profile of the product. If more than one use profile
+was applicable, disclose which method was used and justify the choice.
+• End-of-life profile4 Describe the end-of-life profile of the product. If more than one end-
+of-life profile was applicable, disclose which method was used and
+justify the choice.
+• Allocation method(s) Describe any allocation problems in the inventory and which

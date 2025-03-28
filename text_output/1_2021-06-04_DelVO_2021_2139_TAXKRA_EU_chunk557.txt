@@ -1,0 +1,46 @@
+File Name: 1_2021-06-04_DelVO_2021_2139_TAXKRA_EU.pdf
+Converted on: 2025-03-28 03:18:03
+Original Size: 2.76 MB
+Chunk Size: 500 tokens with 50 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 557 of 966
+--------------------------------------------------------------------------------
+
+Do no significant harm (‘DNSH’)  
+(1) Climate change mitigation  GHG emissions (  195  ) from the organic chemicals production processes are 
+lower than:
+(a) for HVC: [0,851 (  196  )] tCO  2 e/t of HVC; 
+(b) for aromatics: 0,0300 (  197  ) tCO  2 e/t of complex weighted throughput; 
+(c) for vinyl chloride: [0,268 (  198  ) tCO  2 e/t of vinyl chloride; 
+(d) for styrene: 0,564 (  199  ) tCO  2 e/t of styrene; 
+(e) for ethylene oxide/ethylene glycols: 0,489 (  200  ) tCO  2 e/t of ethylene 
+oxide/glycol;
+(f) for adipic acid: 0,76 (  201  ) tCO  2 e/t of adipic acid. 
+Where the organic chemicals in scope are produced wholly or partially
+from renewable feedstock, the life-cycle GHG emissions of the manu ­
+factured chemical, manufactured wholly or partially from renewable feed ­
+stock, are lower than the life-cycle GHG emissions of the equivalent
+chemical manufactured from fossil fuel feedstock
+Agricultural biomass used for the manufacture of organic basic chemicals
+in its primary form complies with the criteria laid down in Article 29,
+paragraphs 2 to 5, of Directive (EU) 2018/2001. Forest biomass used for
+the manufacture of organic basic chemicals complies with the criteria laid
+down in Article 29, paragraphs 6 and 7, of that Directive.  
+(3) Sustainable use and protection of
+water and marine resources  The activity complies with the criteria set out in Appendix B to this 
+Annex.  
+(4) Transition to a circular economy  N/A  
+(5) Pollution prevention and control  The activity complies with the criteria set out in Appendix C to this 
+Annex.
+Emissions are within or lower than the emission levels associated with the
+best available techniques (BAT-AEL) ranges set out in relevant best
+available techniques (BAT) conclusions, including:
+(a) the best available techniques (BAT) conclusions for the production of
+large volumes organic chemicals (  202  ); 
+_____________
+( 195  ) Calculated in accordance with Regulation (EU) 2019/331. 
+( 196  ) Reflecting the median value of the installations in 2016 and 2017 (t CO  2 equivalents/t) of the data collected in the context of 
+establishing the Commission Implementing Regulation (EU) 2021/447, determined on the basis of verified information on the
+greenhouse gas efficiency of installations reported pursuant to Article 11 of Directive 2003/87/EC.

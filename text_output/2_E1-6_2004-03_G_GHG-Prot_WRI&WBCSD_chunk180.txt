@@ -1,0 +1,40 @@
+File Name: 2_E1-6_2004-03_G_GHG-Prot_WRI&WBCSD.pdf
+Converted on: 2025-03-28 03:18:16
+Original Size: 3.51 MB
+Chunk Size: 500 tokens with 50 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 180 of 225
+--------------------------------------------------------------------------------
+
+APPENDIX A 87
+GHG emissions upstream
+of the generation of electricity
+Emissions associated with the extraction and production
+of fuels consumed in the generation of purchased electricity may be reported in scope 3 under the cate-gory “extraction, production, and transportation offuels consumed in the generation of electricity.” These emissions occur upstream of the generation of electricity.Examples include emissions from mining of coal,refining of gasoline, extraction of natural gas, andproduction of hydrogen (if used as a fuel).
+Choosing electricity emission factors
+To quantify scope 2 emissions, the GHG Protocol
+Corporate Standard recommends that companies obtain
+source/supplier specific emission factors for the elec-tricity purchased. If these are not available, regional or grid emission factors should be used. For moreinformation on choosing emission factors, see the relevant GHG Protocol calculation tools available on the GHG Protocol website (www.ghgprotocol.org).
+GHG emissions associated
+with the consumption of electricity in T&D
+Emissions from the generation of electricity that is
+consumed in a T&D system may be reported in scope 3under the category “generation of electricity that isconsumed in a T&D system” by end-users. Publishedelectricity grid emission factors do not usually includeT&D losses. To calculate these emissions, it may benecessary to apply supplier or location specific T&D lossfactors. Companies that purchase electricity and trans-port it in their own T&D systems would report theportion of electricity consumed in T&D under scope 2.
+Accounting for indirect emissions
+associated with T&D losses
+There are two types of electricity emission factors:
+Emission factor at generation (EFG) and Emissionsfactor at consumption (EFC). EFG is calculated fromCO
+2emissions from generation of electricity divided
+by amount of electricity generated. EFC is calculatedfrom CO
+2emissions from generation divided by amount
+of electricity consumed. EFC and EFG are related as shown below.
+As these equations indicate, EFC multiplied by the amount
+of consumed electricity yields the sum of emissions attrib-utable to electricity consumed during end use andtransmission and distribution. In contrast, EFG multipliedby the amount of consumed electricity yields emissionsattributable to electricity consumed during end use only.
+Consistent with the scope 2 definition (see chapter 4),
+the
+GHG Protocol Corporate Standard requires the use
+of EFG to calculate scope 2 emissions. The use ofEFG ensures internal consistency in the treatment ofelectricity related upstream emissions categories andavoids double counting in scope 2. Additionally, thereare several other advantages in using EFG:
+1)  It is simpler to calculate and widely available in
+published regional, national, and international sources.
+2)  It is based on a commonly used approach to calculate

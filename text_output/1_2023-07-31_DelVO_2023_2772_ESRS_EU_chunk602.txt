@@ -1,0 +1,42 @@
+File Name: 1_2023-07-31_DelVO_2023_2772_ESRS_EU.pdf
+Converted on: 2025-03-28 03:18:14
+Original Size: 5.82 MB
+Chunk Size: 500 tokens with 50 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 602 of 686
+--------------------------------------------------------------------------------
+
+ELI: http://data.europa.eu/eli/reg_del/2023/2772/oj 252/284Appendix A
+Application Requirements
+This appendix is an integral part of the ESRS G1 Business conduct. It supports the application of the disclosure requirements
+set out in this standard and has the same authority as the other parts of the Standard.
+Impact, risk and opportunity management
+Disclosure Requirement G1-1 – Business conduct policies and corporate culture
+AR 1. The undertaking may consider the following aspects when determining its disclosure under paragraph 7:
+(a) the aspects of corporate culture that are taken into consideration and discussed by the administrative,
+management and supervisory bodies and with which frequency;
+(b) the principal themes that are promoted and communicated as part of the corporate culture;
+(c) how the members of the undertaking’s administrative, management and supervisory bodies provide direction
+to promote a corporate culture; and
+(d) specific incentives or tools for its own workers to foster and encourage its corporate culture.
+Disclosure Requirement G1-2 – Management of relationships with suppliers
+AR 2. For purposes of this standard, management of relationships with the undertaking’s suppliers may include the
+following:
+(a) how the undertaking’s practices, including activities to avoid or minimise the impacts of disruptions to its
+supply chain, support its strategy and risk management;
+(b) training of the undertaking’s procurement/supply chain workforce on engagement and dialogue with suppliers
+as well as incentives of its procurement workforce including whether such incentives refer to price, quality or sustainability factors;
+(c) the screening and evaluation of social and environmental performance of suppliers;
+(d) the inclusion of locally based suppliers in its supply chain and/or suppliers with certification;
+(e) how the undertaking’s practices deal with vulnerable suppliers;
+(f) the undertaking’s targets and actions with regard to communication and management of relationships with
+suppliers; and
+(g) how the outcomes of these practices are evaluated, including supplier visits, audits or surveys.
+AR 3. 'Vulnerable suppliers’ includes suppliers that are exposed to significant economic, environmental and/or social
+risks.
+Disclosure Requirement G1-3 – Prevention and detection of corruption and bribery
+AR 4. ‘Functions-at-risk’ means those functions deemed to be at risk of corruption and bribery as a result of its tasks and
+responsibilities.
+AR 5. Disclosures may include details about the risk assessments and/or mapping, as well as monitoring

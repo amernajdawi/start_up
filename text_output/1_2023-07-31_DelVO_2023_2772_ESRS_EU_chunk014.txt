@@ -1,0 +1,51 @@
+File Name: 1_2023-07-31_DelVO_2023_2772_ESRS_EU.pdf
+Converted on: 2025-03-28 03:20:41
+Original Size: 5.82 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 14 of 284
+--------------------------------------------------------------------------------
+
+ELI: http://data.europa.eu/eli/reg_del/2023/2772/oj 13/284(b) engaging with affected stakeholders (4). This is addressed under:
+i. ESRS 2 GOV-2;
+ii. ESRS 2 SBM-2: Interests and views of stakeholders;
+iii. ESRS 2 IRO-1;
+iv. ESRS 2 MDR-P; and
+v. Topical ESRS: reflecting the different stages and purposes of stakeholder engagement throughout the due
+diligence process.
+(c) identifying and assessing negative impacts on people and the environment (5). This is addressed under:
+i.ESRS 2 IRO-1 (including Application Requirements related to specific sustainability matters in the relevant
+ESRS); and
+ii.ESRS 2 SBM-3;
+(d) taking action to address negative impacts on people and the environment (6). This is addressed under:
+i.ESRS 2 MDR-A; and
+ii.Topical ESRS: reflecting the range of actions, including transition plans, through which impacts are
+addressed.
+(e) tracking the effectiveness of these efforts (7). This is addressed under:
+i. ESRS 2 MDR-M;
+ii. ESRS 2 MDR-T; and
+iii. Topical ESRS: regarding metrics and targets.
+5. Value chain
+5.1 Reporting undertaking and value chain
+62. The sustainability statement shall be for the same reporting undertaking as the financial statements. For example, if
+the reporting undertaking is a parent company required to prepare consolidated financial statements, the
+sustainability statement will be for the group. This requirement does not apply where the reporting undertaking is
+not required to draw-up financial statements or where the reporting undertaking is preparing consolidated
+sustainability reporting pursuant to Article 48i of Directive 2013/34/EU.
+63. The information about the reporting undertaking provided in the sustainability statement shall be extended to
+include information on the material impacts, risks and opportunities connected with the undertaking through its
+direct and indirect business relationships in the upstream and/or downstream value chain (“value chain
+information”). In extending the information about the reporting undertaking, the undertaking shall include material
+impacts, risks and opportunities connected with its upstream and downstream value chain:
+(a) following the outcome of its due diligence process and of its materiality assessment; and
+(4)UN Guiding Principle 18 and its Commentary, UN Guiding Principle 20, Commentary to UN Guiding Principles 21 and 29, and UN
+Guiding Principle 31(h) and its Commentary; and the UN Interpretive Guide, Questions 30, 33, 42 and 76 as well as OECD
+Guidelines Chapter II on General Policies (paragraph A.14 and paragraph 25 of the Commentary); and OECD Due Diligence Guidance, Section II (2.1.c, 2.3. 2.4.a, 3.1.b and 3.1.f) and Annex Questions 8- 11.
+(5)UN Guiding Principles 17, 18 and 24 and their Commentaries, and the Commentary to UN Guiding Principle 29; and the UN
+Interpretive Guide, Questions 9, 12-13, 27-28, 36-42, and 85-89 and OECD Guidelines Chapter II on General Policies (paragraphs
+A.10-11 and paragraph 14 of the Commentary), and Chapter IV on Human Rights (paragraphs 1-2 and paragraphs 41-43 of the Commentary); and OECD Due Diligence Guidance, Section II (2.1- 2.4) and Annex Questions 3-5, and 19-31).
+(6)UN Guiding Principles 19, 22 and 23 and their Commentaries; and the UN Interpretive Guide, Questions 11, 32, 46-47, 64-68
+and 82-83 and OECD Guidelines Chapter II on General Policies (paragraphs A.12 and paragraphs 18-22 of the Commentary), and
+Chapter IV on Human Rights (paragraphs 3 and 42-43 of the Commentary); and OECD Due Diligence Guidance, Section II (3.1-3.2) and Annex Questions 32-40).

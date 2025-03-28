@@ -1,0 +1,44 @@
+File Name: 2_E1-6_2004-03_G_GHG-Prot_WRI&WBCSD.pdf
+Converted on: 2025-03-28 03:20:43
+Original Size: 3.51 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 74 of 104
+--------------------------------------------------------------------------------
+
+CHAPTER 11 Setting a GHG Target 81GUIDANCEFIGURE 14. Comparing a stabilization target under the fixed and rolling target base year approach
+Company
+B
+Company
+AA aquires B at
+the start of year 3
+123➡
+Company ANO CHANGENO CHANGEINCREASE
+Company A
+Fixed base year
+Rolling base year123
+12 23➡➡
+A stabilization target is one that aims to keep emissions constant over time. In this example, company A acquires company B, wh ich has
+experienced organic GHG growth since the target base year (or “starting” year). Under the rolling approach, emissions growth in  the
+acquired company (B) from year 1 to year 2 does not appear as an emissions increase in relation to the target of the acquiring company
+(A). Thus company A would meet its stabilization target when using the rolling approach but not when using the fixed approach. In parallel
+to the example in chapter 5, past GHG growth or decline in divested facilities (GHG changes before the divestment) would affect  the target
+performance under the rolling approach, while it would not be counted under the fixed approach.
+commitment period). In other words, its average
+emissions over those five years must not exceed 90 percent of year 2000 emissions.
+Target commitment periods longer than one year can
+be used to mitigate the risk of unpredictable events inone particular year influencing performance againstthe target. Figure 15 shows that the length of thetarget commitment period determines how many emis-sions are actually relevant for target performance.
+For a target using a rolling base year, the commitment
+period applies throughout: emission performance iscontinuously being measured against the target everyyear from when the target is set until the targetcompletion date.
+7. Decide on the use of GHG offsets or credits8
+A GHG target can be met entirely from internal reduc-tions at sources included in the target boundary orthrough additionally using offsets that are generatedfrom GHG reduction projects that reduce emissions atsources (or enhance sinks) external to the targetboundary.
+9The use of offsets may be appropriate when FIGURE 15. Short vs. long commitment periods
+1 year
+5 yearsEMISSIONS
+TIME
+TIMEEMISSIONS
+EMISSIONS
+
+--- Page 84 of 116 ---

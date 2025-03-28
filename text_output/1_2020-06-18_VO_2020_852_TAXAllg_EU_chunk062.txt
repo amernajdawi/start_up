@@ -1,0 +1,37 @@
+File Name: 1_2020-06-18_VO_2020_852_TAXAllg_EU.pdf
+Converted on: 2025-03-28 03:17:58
+Original Size: 0.73 MB
+Chunk Size: 500 tokens with 50 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 62 of 97
+--------------------------------------------------------------------------------
+
+2. The adapta tion solutions referred to in point (a) of paragraph 1 shall be assessed and ranked in order of priority using
+the best available climate projections and shall, at a minimum, prevent or reduce:
+(a) the location-specif ic and context-specific adverse impact of climat e change on the economic activity ; or
+(b) the potential adverse imp act of climate change on the environment within which the economic activity takes place.
+3. The Commission shall adop t a delegat ed act in accordance with Article 23 to:
+(a) supplement paragraphs 1 and 2 of this Article by establishing technical screening criteria for deter mining the
+conditions under whic h a specifi c economic activity qualifi es as contr ibuting substantially to climate change
+adaptation; and
+(b) supplement Article 17 by establishing, for each relevant environmental objective, technical screening criteria for
+deter mining whether an economic activity in respect of which technical screening criteria have been established
+pursuant to point (a) of this paragraph causes signif icant harm to one or more of those objectives.
+4. Prior to adopt ing the delegat ed act refer red to in paragraph 3 of this Article, the Commission shall consult the
+Platf orm refer red to in Article 20 regarding the technical screening criteria refer red to in paragraph 3 of this Article.
+5. The Commission shall establish the technical screening criteria refer red to in paragraph 3 of this Article in one
+delegat ed act, taking into account the requirements of Article 19.
+6. The Commission shall adopt the delega ted act refer red to in paragraph 3 by 31 December 2020, with a view to
+ensur ing its application from 1 Januar y 2022.
+Article 12
+Subs tantial contr ibution to the sust ainable use and protection of water and mar ine resources
+1. An economic activity shall qualify as contr ibuting substantially to the sustainable use and prote ction of wate r and
+mar ine resources where that activity either contr ibut es substantially to achieving the good status of bodies of water ,
+including bodies of surface water and groundwater or to preventing the deter ioration of bodies of water that already have
+good status, or contr ibutes substantially to achi eving the good environmental status of mar ine waters or to preventing the
+deterioration of mar ine water s that are already in good environmental status, by:
+(a) protecting the environment from the adverse effects of urban and industr ial waste wate r disc harges, including from
+contaminants of emerging concer n such as phar maceuticals and microplastics, for example by ensur ing the adequate
+collection, treatment and disc harge of urban and industr ial waste water s;

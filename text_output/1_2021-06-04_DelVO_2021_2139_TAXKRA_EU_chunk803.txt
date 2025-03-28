@@ -1,0 +1,28 @@
+File Name: 1_2021-06-04_DelVO_2021_2139_TAXKRA_EU.pdf
+Converted on: 2025-03-28 03:18:03
+Original Size: 2.76 MB
+Chunk Size: 500 tokens with 50 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 803 of 966
+--------------------------------------------------------------------------------
+
+2016/1628 (including vessels meeting those limits without type-approved
+solutions such as through after-treatment).  
+(6) Protection and restoration of
+biodiversity and ecosystems  N/A  
+___________  
+( 496  ) Future scenarios include Intergovernmental Panel on Climate Change representative concentration pathways RCP2.6, RCP4.5, 
+RCP6.0 and RCP8.5.  
+( 497  ) Assessments Reports on Climate Change: Impacts, Adaptation and Vulnerability, published periodically by the Intergovernmental  
+Panel on Climate Change (IPCC), the United Nations body for assessing the science related to climate change produces,
+https://www.ipcc.ch/reports/.  
+( 498  ) Such as Copernicus services managed by the European Commission.  
+( 499  ) Nature-based solutions are defined as ‘solutions that are inspired and supported by nature, which are cost-effective, simulta neously 
+provide environmental, social and economic benefits and help build resilience. Such solutions bring more, and more diverse, nat ure
+and natural features and processes into cities, landscapes and seascapes, through locally adapted, resource-efficient and syste mic
+interventions’. Therefore, nature-based solutions benefit biodiversity and support the delivery of a range of ecosystem service s
+(version of 4.6.2021: https://ec.europa.eu/info/research-and-innovation/research-area/environment/nature-based-solutions_en/).  
+( 500  ) See Communication from the Commission to the European Parliament, the Council, the European Economic and Social Committee 
+and the Committee of the Regions: Green Infrastructure (GI) — Enhancing Europe’s Natural Capital (COM/2013/0249 final).EN  9.12.2021 Official Journal of the European Union L 442/291

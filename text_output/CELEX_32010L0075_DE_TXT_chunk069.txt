@@ -1,0 +1,296 @@
+File Name: CELEX_32010L0075_DE_TXT.pdf
+Converted on: 2025-03-28 03:21:03
+Original Size: 4.18 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 69 of 93
+--------------------------------------------------------------------------------
+
+überschreiten:
+Kohlenmonoxid: 10
+%
+Schwefeldioxid: 20 %
+Stickstoffdioxid: 20
+%
+Gesamtstaub : 30
+%
+Organisch
+gebundener
+Gesamtkohlenstoff: 30
+%
+Chlorwasserstoff: 40 %
+Fluorwasserstoff: 40 %.
+Regelmäßige
+Messungen
+der Emissionen
+in
+die Luft un d
+das Wasser sin d
+gemäß
+den
+Nummern  
+1.1 und
+1.2
+durchzuführen .
+2. Messungen
+in
+Bezug
+auf Luftschadstoffe
+2.1. Folgende
+Messungen
+in
+Bezug
+auf Luftschadstoffe werden  
+durchgeführ
+t:
+a) kontinuierliche
+Messung
+folgender
+ Stoffe: NOx, sofern E missionsgrenzwerte  festgelegt sind, CO, Gesamtstaub , 
+organisch
+gebundener
+Gesamtkohlenstoff
+(TOC), HC1, HF, SO2;
+b) kontinuierliche
+Messung
+folgender
+Betriebskenngrößen:
+Temperatur in  
+der Nähe der I nnenwand
+oder an
+einer
+anderen,
+von der zustän digen
+Behörde g enehmigten
+repräsen tativen
+Stelle des Bren nraums,
+Sauerstoff­
+konzentration,
+Druck,
+Temperatur un d
+Wasserdampfg ehalt
+des Abgases;
+c) mindestens
+zweimal jährlich Messun g
+der Schwermetalle sowie Dioxin e
+und
+Furane;
+jedoch ein e
+Messung
+min­
+destens
+alle drei Mon ate
+während
+der ersten  
+12 Betrieb smonate.
+2.2. Die
+Verweilzeit sowie die Min desttemperatur
+und
+der Sauerstoffg eha
+lt der Abgase
+sind
+in
+geeigneter
+Weise zu üb er­
+prüfen,
+und
+zwar min destens
+einmal
+bei
+der Inbetriebnahme
+der Abfallverb
+rennungs-
+oder Abfallmitverbrennungs­
+anlage
+und
+unter
+den
+voraussichtlich un günstigsten
+Betriebsbedingunge
+n.
+2.3. Die
+kontinuierliche
+Messung
+von
+HF kann
+entfallen,
+wenn
+für HCl Rein i
+gungsstufen
+angewandt
+werden,
+die gewähr­
+leisten,
+dass der E missionsgrenzwert
+für HCl n icht
+überschritten
+wird. In
+diesem Fall sin d
+die HF-Emissionen
+in
+den
+unter
+Nummer 2.1 Buchstab e
+c festgelegten
+Zeitabständen
+zu messen .
+2.4. Die
+kontinuierliche
+Messung
+des Wasserdampfg ehalts
+ist nicht
+notwe
+ndig,
+wenn
+die Abgasprobe
+vor der Emissions­
+analyse
+getrocknet
+wird.
+2.5. Die zustän dige
+Behörde k ann
+beschließen,
+auf kontinuierliche
+Messungen
+von
+HCl, HF und SO2 in Abfallverbrennungs­
+anlagen
+oder Abfallmitverbrennungsanlagen
+zu verzichten un d
+regelmäßi
+ge
+Messungen
+gemäß
+Nummer 2.1 Buch­
+stabe
+c oder keine
+Messung
+vorzuschreib en,
+wenn
+der Betreib er
+nachweisen
+kann,
+dass die E missionen
+dieser
+Schadstoffe un ter
+keinen
+Umständen
+höher sein  
+können
+als die festg elegte
+n
+Emissionsgrenzwerte.
+Die
+zuständige
+Behörde k ann
+beschließen,
+bei
+bestehenden
+Abfallverbren
+nungsanlagen
+mit einer
+Nennkapazität
+von
+weniger
+als sechs Ton nen
+pro Stunde
+oder bestehenden
+Abfallmitverbrennu
+ngsanlagen
+mit einer
+Nennkapazität
+von
+weniger
+als sechs Ton nen
+pro Stunde
+auf kontinuierliche
+Messungen
+von
+NOx zu verzichten  und regelmäßige Mes­
+sungen
+gemäß
+Nummer 2.1 Buchstab e
+c vorzuschreib en,
+wenn
+der Betreib er
+auf der Grun dlage
+von
+Angaben
+über
+die
+Beschaffen heit
+der betreffenden
+Abfälle,
+die eingesetzten
+Technik
+en und
+die Ergebnisse
+der Emissionsüberwachung
+
+nachweisen
+kann,
+ dass die NOx-Emissionen  unter keinen Umständen höher sein k önnen als der vorg eschriebene 
+Emissionsgrenzwert.
+2.6. In
+folgenden
+Fällen
+kann
+die zustän dige
+Behörde b eschließen,
+eine
+Messung
+alle zwei Jahre für Schwermetalle un d
+eine
+Messung
+pro Jahr für Dioxin e
+und
+Furane
+vorzuschreib en:
+a) die
+Emissionen
+aus der Mitverb rennung
+oder Verb rennung
+von
+Abfall
+betr
+agen
+unter
+allen
+Umständen
+weniger
+als
+50 % der E missionsgrenzwerte;
+b)
+die mitzuverb rennenden
+oder zu verb rennenden
+Abfälle
+bestehen
+nur
+aus bestimmten,
+sortierten b rennbaren
+
+Fraktionen
+von
+nicht
+gefährlichen
+Abfällen,
+die zur Verwertun g
+nicht
+geeign
+et sind un d
+bestimmte
+Merkmale
+auf­
+weisen
+und
+die auf der Grun dlage
+der unter
+Buchstabe
+c genannten
+Bewertung
+näher
+spezifiziert werden ;
+
+--- Page 59 of 103 ---

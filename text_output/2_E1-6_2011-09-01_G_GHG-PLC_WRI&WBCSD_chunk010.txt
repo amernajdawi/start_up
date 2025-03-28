@@ -1,0 +1,58 @@
+File Name: 2_E1-6_2011-09-01_G_GHG-PLC_WRI&WBCSD.pdf
+Converted on: 2025-03-28 03:20:53
+Original Size: 3.27 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 10 of 116
+--------------------------------------------------------------------------------
+
+[13]
+guidance
+This chapter provides a summary of the steps involved in product accounting and
+reporting, as well as a list of the requirements that must be followed for a product
+inventory to be in conformance with this standard.
+3.1 Standard terminology
+This standard uses precise language to indicate which
+provisions of the standard are requirements, which
+are recommendations, and which are permissible or
+allowable options that companies may choose to follow.
+The term “shall” is used in this standard to indicate what
+is required for a GHG inventory to conform with the
+Product Standard. The term “should”  is used to indicate 
+a recommendation, but not a requirement. The term “may”  is used to indicate an option that is permissible 
+or allowable. Within the guidance sections, the term
+“required”  is used to refer to  “shall” statements given 
+elsewhere in the standard. Also within the guidance
+sections, “needs,” “can,” or “cannot”  are sometimes used 
+to provide guidance on implementing a requirement or  
+to indicate when an action is or is not possible. Summary of Steps and Requirements
+Figure [3.1] Overview of steps in product accounting and reporting
+Define	 
+business
+goalsReview
+principlesDefine	the 	
+scopeSet the
+boundary Collect data
+and  assess 
+data quality
+ Chapter 2 Chapter 4 Chapter  5 Chapter 6 Chapter 7 Chapter 8
+
+Chapter 10 Chapter 11 Chapter 12 Chapter 13 Chapter 14 Assess
+uncertaintyCalculate
+inventory
+resultsPerform
+assurance Report
+inventory
+resultsSet  
+reduction
+targets Review  
+funda-  
+mentals
+Perform
+allocation  
+(if needed)
+Chapter 9
+
+--- Page 16 of 148 ---

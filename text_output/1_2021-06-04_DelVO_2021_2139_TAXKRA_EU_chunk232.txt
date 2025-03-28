@@ -1,0 +1,62 @@
+File Name: 1_2021-06-04_DelVO_2021_2139_TAXKRA_EU.pdf
+Converted on: 2025-03-28 03:20:30
+Original Size: 2.76 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 232 of 447
+--------------------------------------------------------------------------------
+
+(e) promoting biodiversity-friendly practices that enhance forests’ natural
+processes;
+(f) excluding the conversion of high-biodiverse ecosystems into less
+biodiverse ones;
+(g) ensuring the diversity of associated habitats and species linked to the
+forest;
+(h) ensuring the diversity of stand structures and maintenance or
+enhancing of mature stage stands and dead wood.  
+2.  ENVIRONMENTAL PROTECTION AND RESTORATION ACTIVITIES  
+2.1.  Restoration of wetlands  
+Description of the activity  
+Restoration of wetlands refers to economic activities that promote a return to original conditions of wetlands and
+economic activities that improve wetland functions without necessarily promoting a return to pre-disturbance
+conditions, with wetlands meaning land matching international definition of wetland (  67 ) or of peatland (  68 ) as 
+set out in the Ramsar Convention on Wetlands of International Importance especially as Waterfowl Habitat
+(Ramsar Convention) (  69 ). The concerned area matches the Union definition of wetlands, as provided in the 
+Commission Communication on the wise use and conservation of wetlands (  70 ). 
+The economic activities in this category have no dedicated NACE code as referred to in the statistical classification
+of economic activities established by Regulation (EC) No 1893/2006, but relate to class 6 of the statistical
+classification of environmental protection activities (CEPA) established by Regulation (EU) No 691/2011.  
+Where an economic activity in this category complies with the substantial contribution criterion specified in
+point 5, the activity is an enabling activity as referred to in Article 11(1), point (b), of Regulation (EU)
+2020/852, provided that it meets the technical screening criteria set out in this Section.  
+Technical screening criteria  
+Substantial contribution to climate change adaptation  
+1. The economic activity has implemented physical and non-physical solutions (‘adaptation solutions’) that
+substantially reduce the most important physical climate risks that are material to that activity.
+2. The physical climate risks that are material to the activity have been identified from those listed in
+Appendix A to this Annex by performing a robust climate risk and vulnerability assessment with the
+following steps:
+(a) screening of the activity to identify which physical climate risks from the list in Appendix A to this Annex
+may affect the performance of the economic activity during its expected lifetime;
+(b) where the activity is assessed to be at risk from one or more of the physical climate risks listed in Appendix A
+to this Annex, a climate risk and vulnerability assessment to assess the materiality of the physical climate risks
+on the economic activity;
+(c) an assessment of adaptation solutions that can reduce the identified physical climate risk.  
+_____________
+( 67 ) Wetlands include a wide variety of inland habitats such as marshes, wet grasslands and peatlands, floodplains, rivers and lake s, and coastal
+areas such as saltmarshes, mangroves, intertidal mudflats and seagrass beds, and coral reefs and other marine areas no deeper t han six meters at
+low tide, as well as human-made wetlands such as dams, reservoirs, rice paddies and wastewater treatment ponds and lagoons . An Intro ­
+duction to the Ramsar Convention on Wetlands, 7th ed. (previously The Ramsar Convention Manual). Ramsar Convention
+Secretariat, Gland, Switzerland.
+( 68 ) Peatlands are ecosystems with a peat soil. Peat consists of at least 30 % dead, partially decomposed plant remains that have
+accumulated in situ under waterlogged and often acidic conditions. Resolution XIII.12  Guidance on identifying peatlands as Wetlands 
+of International Importance (Ramsar Sites) for global climate change regulation as an additional argument to existing Ramsar cr iteria , Ramsar
+convention adopted on 21- 29 October 2018.
+( 69 ) The Ramsar Convention on Wetlands of International Importance especially as Waterfowl Habitat (version of 4.6.2021:
+https://www.ramsar.org/sites/default/files/documents/library/current_convention_text_e.pdf).
+( 70 ) Communication from the Commission to the Council and the European Parliament of 29 May 1995 on wise use and conser ­
+vation of wetlands, COM(95) 189 final.EN  9.12.2021 Official Journal of the European Union L 442/173
+
+--- Page 174 of 349 ---

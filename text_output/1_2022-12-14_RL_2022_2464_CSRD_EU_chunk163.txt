@@ -1,0 +1,37 @@
+File Name: 1_2022-12-14_RL_2022_2464_CSRD_EU.pdf
+Converted on: 2025-03-28 03:18:06
+Original Size: 1.12 MB
+Chunk Size: 500 tokens with 50 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 163 of 204
+--------------------------------------------------------------------------------
+
+(9) the follo wing Article is inser ted:
+‘Article 14a
+Statu tory audit ors appro ved or recognised before 1 Januar y 2024 and persons undergoing the appro val
+process for statutory audit ors on 1 Januar y 2024
+Member States shall ensure that statut ory auditors that are appro ved or recognised to carry out statutor y audits before
+1 Januar y 2024 are not subject to the requirements of Article 7(2), Article 8(3), the second subparagraph of Article
+10(1) and the fourth subparagraph of Article 14(2).
+Member States shall ensure that persons that on 1 Januar y 2024 are undergoing the appro val process provided for in
+Articles 6 to 14 are not subject to the requirements of Article 7(2), Article 8(3), the second subparagraph of Article
+10(1) and the fourth subparagraph of Article 14(2), provided they compl ete that process by 1 Januar y 2026 .
+Member States shall ensure that statutor y auditors approved before 1 Januar y 2026 who wish to carry out the
+assurance of sustainability repor ting acquire the necessar y knowledg e of sustainability repor ting and the assurance of
+sustainability repor ting, including of the subjects listed in Article 8(3), via the continuing education refer red to in
+Article 13.’;
+(10) Article 16 is amended as follows :
+(a) paragraph 1 is replaced by the followi ng:
+‘1. As regards statutor y auditors , the public register shall contain at least the following information:
+(a) name, address and registration number;
+(b) if applicable, the name, address, website address and registration number of the audit firm(s) by whic h the
+statut ory auditor is emplo yed, or with whom he or she is associated as a partner or other wise;
+(c) whether the statut ory auditor is also approved for carrying out the assurance of sustainability repor ting;
+(d) all other registration(s) as statut ory auditor with the compet ent author ities of other Member States and as
+auditor with third countr ies, including the name(s) of the registration author ity(ies), and, if applicable, the
+registration number(s), and an indication of whether the registration concer ns the statut ory audit, the
+assurance of sustainability repor ting, or both.’;
+(b) in paragraph 2, the followi ng subparagraph is added:
+‘The register shall indicate whether third-countr y auditors as refer red to in the first subparagraph are register ed for

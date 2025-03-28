@@ -1,0 +1,91 @@
+File Name: 2_E1-6_2011-09-01_G_GHG-PLC_WRI&WBCSD.pdf
+Converted on: 2025-03-28 03:20:53
+Original Size: 3.27 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 4 of 116
+--------------------------------------------------------------------------------
+
+[05]
+CHAPTER 01 Introduction
+guidance •GHG Protocol Land Use, Land-Use Change, and
+Forestry Guidance for GHG Project Accounting  
+(2006):  A guide to quantify and report reductions from 
+land use, land-use change, and forestry, to be used in
+conjunction with the Project Protocol.
+•Measuring to Manage: A Guide to Designing GHG
+Accounting and Reporting Programs (2007): A
+guide for program developers on designing and
+implementing effective GHG programs based on
+accepted standards and methodologies.
+1.2  Purpose of the GHG Protocol  
+Product Life Cycle Accounting and
+Reporting Standard
+The GHG Protocol Product Life Cycle Accounting and
+Reporting Standard (referred to as the Product Standard )
+provides requirements and guidance for companies and
+other organizations to quantify and publicly report an
+inventory of GHG emissions and removals2 associated
+with a specific product. The primary goal of this standard
+is to provide a general framework for companies to make
+informed choices to reduce greenhouse gas emissions
+from the products (goods or services) they design,
+manufacture, sell, purchase, or use. In the context of this
+standard, public reporting refers to product GHG-related
+information reported publicly in accordance with the
+requirements specified in the standard.
+As awareness about climate change increases and
+concerns grow, investors are demanding more
+transparency, and consumers are seeking greater clarity
+and environmental accountability. Companies are
+increasingly receiving requests from stakeholders to
+measure and disclose their corporate GHG inventories,
+and these requests often include a company’s products
+and supply chain emissions. Companies must be able to
+understand and manage their product-related GHG risks
+if they are to ensure long-term success in a competitive
+business environment and be prepared for any future
+product-related programs and policies.
+This standard focuses on emissions and removals
+generated during a product’s life cycle and does not address avoided emissions or actions taken to mitigate
+released emissions. This standard is also not designed to
+be used for quantifying GHG reductions from offsets or
+claims of carbon neutrality.
+Ultimately, this is more than a technical accounting
+standard. It is intended to be tailored to business realities
+and to serve multiple business objectives. Companies may
+find most value in implementing the standard using a
+phased approach, with a focus on improving the quality of
+the GHG inventory over time.
+1.3  How this standard was developed
+In 2008, WRI and WBCSD launched the three-year process
+to develop the Product Standard.  A 25 member Steering 
+Committee of experts provided strategic direction
+throughout the process. The first draft of the  Product 
+Standard was developed in 2009 by Technical Working
+Groups consisting of 112 members representing diverse
+industries, government agencies, academia, and non-
+profit organizations from around the world. In 2010,
+38 companies from a variety of industry sectors “road
+tested” the first draft and provided feedback on its
+practicality and usability, which informed a second draft.
+Members of a Stakeholder Advisory Group (consisting of
+more than 1,600 participants) provided feedback on both
+drafts of the standard.
+1.4 Who should use this standard
+This standard is designed for companies and
+organizations3 of all sizes in all economic sectors
+and in all countries. Companies seeking a better
+understanding of the GHG inventory of products they
+design, manufacture, sell, purchase, or use can benefit
+from the use of this standard. Interested users of the
+standard within companies could include staff from
+product design, procurement, research and development,
+marketing, energy, environment, logistics, and corporate
+sustainability departments. Policy makers and GHG
+programs may also be interested in incorporating the
+standard into their policy or program design.
+
+--- Page 8 of 148 ---

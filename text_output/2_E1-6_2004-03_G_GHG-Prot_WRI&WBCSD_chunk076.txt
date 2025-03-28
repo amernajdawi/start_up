@@ -1,0 +1,37 @@
+File Name: 2_E1-6_2004-03_G_GHG-Prot_WRI&WBCSD.pdf
+Converted on: 2025-03-28 03:20:43
+Original Size: 3.51 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 76 of 104
+--------------------------------------------------------------------------------
+
+Company B has a corporate target to reduce its
+direct emissions from the generation of electricity.12
+Company C who purchases electricity directly fromcompany B also has a corporate target thatincludes indirect emissions from the purchase ofelectricity (scope 2). Company C undertakes energyefficiency measures to reduce its indirect emissionsfrom the use of the electricity. These will usuallyshow up as reductions in both companies’ targets.
+13
+These two examples illustrate that double counting isinherent when the GHG sources where the reductions occurare included in more than one target of the same ordifferent organizations. Without limiting the scope oftargets it may be difficult to avoid this type of doublecounting and it probably does not matter if the doublecounting is restricted to the organizations sharing the samesources in their targets (i.e., when the two targets overlap).
+
+DOUBLE COUNTING OF ALLOWANCES TRADED IN
+EXTERNAL PROGRAMS. This occurs when a corporate
+target overlaps with an external trading program andallowances that cover the common sources are sold inthe trading program for use by another organizationand reconciled with the regulatory target, but notreconciled with the corporate target. This examplediffers from the previous example in that doublecounting occurs across two targets that are not over-lapping (i.e., they do not cover the same sources).This type of double counting could be avoided if thecompany selling the allowances reconciles the tradewith its corporate target (see Holcim case study).Whatever the company decides to do in this situation,in order to maintain credibility, it should addressbuying and selling of allowances in trading programsin a consistent way. For example, if it decides not toreconcile allowances that it sells in a trading programwith its corporate target, it should also not count anyallowances of the same type that it purchases to meetits corporate target.
+Ideally a company should try to avoid double counting in
+its corporate target if this undermines the environmentalintegrity of the target. Also, any prevented doublecounting between two organizations provides an addi-tional incentive for one of these companies to furtherreduce emissions. However, in practice the avoidance ofdouble counting can be quite challenging, particularlyfor companies subject to multiple external programs andwhen indirect GHG emissions are included in the target.Companies should therefore be transparent about theirdouble counting policy and state any reasons for
+choosing not to address some double counting situations.
+The Holcim case study describes how one company has
+chosen to track performance towards its target andaddress double counting issues.
+9. Decide on the target level
+The decision on setting the target level should beinformed by all the previous steps. Other considerationsto take into account include:
+Understanding the key drivers affecting GHG emis-
+sions by examining the relationship between GHGemissions and other business metrics, such as produc-tion, square footage of manufacturing space, numberof employees, sales, revenue, etc.
+Developing different reduction strategies based on the
+major reduction opportunities available and examiningtheir effects on total GHG emissions. Investigate howemissions projections change with different mitigationstrategies.
+Looking at the future of the company as it relates to
+GHG emissions.
+Factoring in relevant growth factors such as production
+plans, revenue or sales targets, and Return on Investment(ROI) of other criteria that drive investment strategy.
+CHAPTER 11 Setting a GHG Target 83GUIDANCE
+
+--- Page 86 of 116 ---

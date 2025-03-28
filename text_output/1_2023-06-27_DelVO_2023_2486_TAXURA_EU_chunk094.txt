@@ -1,0 +1,46 @@
+File Name: 1_2023-06-27_DelVO_2023_2486_TAXURA_EU.pdf
+Converted on: 2025-03-28 03:20:36
+Original Size: 8.44 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 94 of 199
+--------------------------------------------------------------------------------
+
+--- Page 65 of 164 ---
+
+ELI: http://data.europa.eu/eli/reg_del/2023/2486/oj 65/1645.The operator of the activity uses electronic tools to describe the characteristics of the building as built, including the
+materials and components used, for the purpose of future maintenance, recovery, and reuse, for example using EN ISO
+22057:2022 to provide Environmental Product Declarations (140). The information is stored in a digital format and is made
+available to investors and clients on demand. In addition, the operator ensures the long-term preservation of this information beyond the useful life of the building by using the information managing systems provided by national tools,
+such as cadastre or public register.
+6.Bridges, tunnels, dikes and sluices are inspected regularly by a nationally approved inspector and the data is used to
+predict maintenance needs.
+Do no significant harm (‘DNSH’)
+(1) Climate change mitigation The built asset is not dedicated to the extraction, storage, transport or manufacture of
+fossil fuels.
+For the cement used in this activity, the greenhouse gas emissions (
+141)from the
+production processes are:(a) for grey cement clinker, lower than 0,816 (
+142)tCO 2e per tonne of grey cement
+clinker;
+(b) for cement from grey clinker or alternative hydraulic binder, lower than 0,530 (143)
+tCO 2e per tonne of cement or alternative binder manufactured.
+(2) Climate change adaptation The activity complies with the criteria set out in Appendix A to this Annex.
+(3) Sustainable use and protec ­
+tion of water and marine
+resourcesThe activity complies with the criteria set out in Appendix B to this Annex.
+(140)ISO standard 22057:2022, Sustainability in buildings and civil engineering works – Data templates for the use of environmental
+product declarations (EPDs) for construction products in building information modelling (BIM) (version of April 2022), https://www.
+iso.org/standard/72463.html.
+(141)Calculated in accordance with Regulation (EU) 2019/331.
+(142)Reflecting the median value of the installations in 2016 and 2017 (t CO 2 equivalents/t) of the data collected in the context of
+establishing the Commission Implementing Regulation (EU) 2021/447, determined on the basis of verified information on the
+greenhouse gas efficiency of installations reported pursuant to Article 11 of Directive 2003/87/EC.
+(143)Reflecting the median value of the installations in 2016 and 2017 (t CO 2 equivalents/t) of the data collected for grey cement clinker
+in the context of establishing the Commission Implementing Regulation (EU) 2021/447, multiplied by the clinker to cement ratio
+(0,65), determined on the basis of verified information on the greenhouse gas efficiency of installations reported pursuant to
+Article 11 of Directive 2003/87/EC.OJ L, 21.11.2023 EN  
+
+--- Page 66 of 164 ---

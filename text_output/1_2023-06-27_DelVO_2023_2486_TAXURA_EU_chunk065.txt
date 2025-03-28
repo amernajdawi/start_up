@@ -1,0 +1,51 @@
+File Name: 1_2023-06-27_DelVO_2023_2486_TAXURA_EU.pdf
+Converted on: 2025-03-28 03:20:36
+Original Size: 8.44 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 65 of 199
+--------------------------------------------------------------------------------
+
+ELI: http://data.europa.eu/eli/reg_del/2023/2486/oj 45/164Technical screening criteria
+Substantial contribution to the transition to a circular economy
+1.The activities consist of the material recovery of secondary raw materials (including chemical substances and critical raw
+materials) from source segregated hazardous waste.
+2.The recovered materials are substituting primary raw materials, including critical raw materials, or chemicals in
+production processes (53).
+3.The recovered materials comply with the applicable industry specifications, harmonised standards, or end-of-waste
+criteria, as well as relevant applicable Union and national legislation.
+Do no significant harm (‘DNSH’)
+(1) Climate change mitigation The activity, on a life-cycle basis, does not increase GHG emissions as compared to the
+production based on the equivalent primary raw material(s).
+Life-cycle greenhouse gas emissions are calculated using Recommendation
+2013/179/EU or, alternatively, using ISO 14067:2018 (54)or ISO 14064-1:2018 (55).
+Quantified life-cycle GHG emissions are verified by an independent third party.
+(2) Climate change adaptation The activity complies with the criteria set out in Appendix A to this Annex.
+(3) Sustainable use and protec ­
+tion of water and marine
+resourcesThe activity complies with the criteria set out in Appendix B to this Annex.
+Relevant techniques are deployed for the protection of water and marine resources, as set
+out in the best available techniques (BAT) conclusions for waste treatment (56).
+(5) Pollution prevention and
+controlAll substances, and mixtures recovered comply with the applicable relevant legislation, such as Regulation (EC) No 1907/2006, Regulation (EU) 2019/1021, Regulation (EC)
+No 1272/2008 and Directive 2008/98/EC.
+The activity deploys relevant techniques for pollution prevention and control, as set out
+in the best available techniques (BAT) conclusions for waste treatment (
+57). The activity
+meets the relevant associated emission limits (BAT-AELs).
+(6) Protection and restoration of biodiversity and ecosys
+­
+temsThe activity complies with the criteria set out in Appendix D to this Annex.
+(53)Production processes refer to any kind of economic activity that produces a material, product or asset; recovered materials refer to the
+output of the recovery process.
+(54)ISO 14067:2018(en), Greenhouse gases – Carbon footprint of products – Requirements and guidelines for quantification (version of
+27.6.2023: https://www.iso.org/obp/ui#iso:std:iso:14067:ed-1:v1:en).
+(55)ISO 14064-1:2018(en), Greenhouse gases – Part 1: Specification with guidance at the organisation level for quantification and
+reporting of greenhouse gas emissions and removals (version of 27.6.2023: https://www.iso.org/obp/ui/#iso:std:iso:14064:-1:en).
+(56)Commission Implementing Decision (EU) 2018/1147 of 10 August 2018 establishing best available techniques (BAT) conclusions for
+waste treatment, under Directive 2010/75/EU of the European Parliament and of the Council (OJ L 208, 17.8.2018, p. 38).
+(57)Implementing Decision (EU) 2018/1147.OJ L, 21.11.2023 EN  
+
+--- Page 46 of 164 ---

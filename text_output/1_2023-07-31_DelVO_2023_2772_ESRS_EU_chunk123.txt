@@ -1,0 +1,54 @@
+File Name: 1_2023-07-31_DelVO_2023_2772_ESRS_EU.pdf
+Converted on: 2025-03-28 03:20:41
+Original Size: 5.82 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 123 of 284
+--------------------------------------------------------------------------------
+
+ELI: http://data.europa.eu/eli/reg_del/2023/2772/oj 125/284Disclosure Requirement E3-1 – Policies related to water and marine resources
+9. The undertaking shall describe its policies adopted to manage its material impacts, risks and opportunities related to
+water and marine resources (65).
+10. The objective of this Disclosure Requirement is to enable an understanding of the extent to which the undertaking
+has policies that address the identification, assessment, management and/or remediation of its material water and
+marine resources-related impacts, risks and opportunities.
+11. The disclosure required by paragraph 9 shall contain the information on the policies the undertaking has in place to
+manage its material impacts, risks and opportunities related to water and marine resources in accordance with ESRS
+2 MDR-P Policies adopted to manage material sustainability matters.
+12. The undertaking shall indicate whether and how its policies address the following matters where material:
+(a) water management including:
+i. the use and sourcing of water and marine resources in its own operations;
+ii. water treatment as a step towards more sustainable sourcing of water; and
+iii. the prevention and abatement of water pollution resulting from its activities.
+(b) product and service design in view of addressing water-related issues and the preservation of marine resources;
+and
+(c) commitment to reduce material water consumption in areas at water risk in its own operations and along the
+upstream and downstream value chain.
+13. If at least one of the sites of the undertaking is located in an area of high-water stress and it is not covered by a policy ,
+the undertaking shall state this to be the case and provide reasons for not having adopted such a policy. The
+undertaking may disclose a timeframe in which it aims to adopt such a policy. (66)
+14. The undertaking shall specify whether it has adopted policies or practices related to sustainable oceans and seas (67).
+Disclosure Requirement E3-2 – Actions and resources related to water and marine resources
+15. The undertaking shall disclose its water and marine resources-related actions and the resources allocated to
+their implementation.
+16. The objective of this Disclosure Requirement is to enable an understanding of the key actions taken and planned to
+achieve the water and marine resources-related policy objectives and targets.
+17. The description of the actions and resources shall follow the principles defined in ESRS 2 MDR-A Actions and resources
+in relation to material sustainability matters. In addition to ESRS 2 MDR-A, the undertaking may specify to which layer in
+the mitigation hierarchy an action and
+(65)This information supports the information needs of financial market participants subject to Regulation (EU) 2019/2088 because it is
+derived from an additional indicator related to principal adverse impacts as set out by indicator #7 in Table II of Annex I of
+Commission Delegated Regulation (EU) 2022/1288 with regard to disclosure rules on sustainable investments (“Investments in
+companies without water management policies”).
+(66)This information supports the information needs of financial market participants subject to Regulation (EU) 2019/2088 because it is
+derived from an additional indicator related to principal adverse impacts as set out by indicator #8 in Table II of Annex I of
+Commission Delegated Regulation (EU) 2022/1288 with regard to disclosure rules on sustainable investments (“Exposure to areas of
+high water stress”).
+(67)This information supports the information needs of financial market participants subject to Regulation (EU) 2019/2088 because it is
+derived from an additional indicator related to principal adverse impacts as set out by indicator #12 in Table II of Annex I of
+Commission Delegated Regulation (EU) 2022/1288 with regard to disclosure rules on sustainable investments ( “Investments in
+companies without sustainable oceans/seas practices”).OJ L, 22.12.2023 EN  
+
+--- Page 126 of 284 ---

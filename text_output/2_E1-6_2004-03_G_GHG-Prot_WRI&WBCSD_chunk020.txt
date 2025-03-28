@@ -1,0 +1,55 @@
+File Name: 2_E1-6_2004-03_G_GHG-Prot_WRI&WBCSD.pdf
+Converted on: 2025-03-28 03:20:43
+Original Size: 3.51 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 20 of 104
+--------------------------------------------------------------------------------
+
+control 100 % for operational control 100 % for financial control 0 % for operational control 0 % for financial control 0 % for operational control 0 % for financial control - - - Page 26 of 116 - - - STANDARD 24fter a company has determined its organizational boundaries in terms of the operations that it owns or controls , it then sets its operational boundaries . This involves identifying emissions associated with its operations , categorizing them as direct and indirect emissions , and choosing the scope ofaccounting and reporting for indirect emissions . A4Setting Operational Boundaries GUIDANCESTANDARD
+
+--- Page 27 of 116 ---
+
+For effective and innovative GHG management, setting
+operational boundaries that are comprehensive withrespect to direct and indirect emissions will help acompany better manage the full spectrum of GHG risksand opportunities that exist along its value chain.
+Direct GHG emissions are emissions from sources that
+are owned or controlled by the company.1
+Indirect GHG emissions are emissions that are a
+consequence of the activities of the company but occurat sources owned or controlled by another company.
+What is classified as direct and indirect emissions is
+dependent on the consolidation approach (equity shareor control) selected for setting the organizationalboundary (see chapter 3). Figure 2 below shows therelationship between the organizational and operationalboundaries of a company.
+Introducing the concept of “ scope”  
+To help delineate direct and indirect emission sources,improve transparency, and provide utility for differenttypes of organizations and different types of climate poli-cies and business goals, three “scopes” (scope 1, scope2, and scope 3) are defined for GHG accounting andreporting purposes. Scopes 1 and 2 are carefully definedin this standard to ensure that two or more companieswill not account for emissions in the same scope. Thismakes the scopes amenable for use in GHG programswhere double counting matters.
+Companies shall separately account for and report on
+scopes 1 and 2 at a minimum.Scope 1: Direct GHG emissions
+Direct GHG emissions occur from sources that are owned or controlled by the company, for example,emissions from combustion in owned or controlledboilers, fur naces, vehicles, etc.; emissions from chemical
+production in owned or controlled process equipment.
+Direct CO
+2emissions from the combustion of biomass
+shall not be included in scope 1 but reported separately(see chapter 9).
+GHG emissions not covered by the Kyoto Protocol, e.g.
+CFCs, NOx, etc. shall not be included in scope 1 but maybe reported separately (see chapter 9).
+Scope 2: Electricity indirect GHG emissions
+Scope 2 accounts for GHG emissions from the genera-tion of purchased electricity
+2consumed by the company.
+Purchased electricity is defined as electricity that ispurchased or otherwise brought into the organizationalboundary of the company. Scope 2 emissions physicallyoccur at the facility where electricity is generated.
+Scope 3: Other indirect GHG emissions
+Scope 3 is an optional reporting category that allowsfor the treatment of all other indirect emissions. Scope3 emissions are a consequence of the activities of thecompany, but occur from sources not owned orcontrolled by the company. Some examples of scope 3activities are extraction and production of purchasedmaterials; transportation of purchased fuels; and use ofsold products and services. CHAPTER 4 Setting Operational Boundaries 25STANDARD
+FIGURE 2. Organizational and operational boundaries of a company
+Parent Company
+Company A
+Ship fleet
+Leased building Direct and indirect emissionsCar fleet Power
+generation unitLeased factory Owned/
+Controlled
+buildingOwned/
+Controlled
+buildingCompany B Company C Company D
+ORGANIZATIONAL
+BOUNDARIESOPERATIONAL
+BOUNDARIES}
+}
+
+--- Page 28 of 116 ---

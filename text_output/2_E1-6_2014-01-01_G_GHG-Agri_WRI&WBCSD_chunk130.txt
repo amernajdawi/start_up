@@ -1,0 +1,25 @@
+File Name: 2_E1-6_2014-01-01_G_GHG-Agri_WRI&WBCSD.pdf
+Converted on: 2025-03-28 01:56:31
+Original Size: 1.75 MB
+Chunk Size: 400 tokens with 50 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 130 of 150
+--------------------------------------------------------------------------------
+
+- - Page 87 of 103 - - - GHG Protocol Agricultural Guidance 87 Table II - 4 . The amortization schedule for Case C . - - - Page 88 of 103 - - - GHG Protocol Agricultural Guidance 88 Appendix III : Tools for calculating agricultural GHG fluxes
+
+Overview
+This Appendix lists some of the most widely used  tools (spreadsheets, so ftware and protocols) 
+for calculating GHG fluxes in agriculture. Thr ee broad classes of tools are covered:
+ Tools suitable for farm managers. These are ge nerally web- or Excel-based calculators that
+can be used with commonly available types of activity data. They tend to implement a
+variety of the calculation appr oaches described in Table 7- 1; namely, emission factors,
+empirical or process models, or some combination of these approaches.
+ General catalogues of calculation methodologi es. These describe formulae and default
+emission factors that can be used to calculate flux data for an extens ive range of emissions
+sources. They do not provide an interface for performing calculations.
+ Tools suitable for academic use. These are primarily process-based models intended for
+academic research. They have extensive requirements in terms of data inputs, labor and expertise, and would not be recommended fo r use by farm managers. They are described
+here because they underpin many of  the more accessible resources.

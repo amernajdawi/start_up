@@ -1,0 +1,41 @@
+File Name: 2_E1-6_2014-01-01_G_GHG-Agri_WRI&WBCSD.pdf
+Converted on: 2025-03-28 01:56:31
+Original Size: 1.75 MB
+Chunk Size: 400 tokens with 50 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 123 of 150
+--------------------------------------------------------------------------------
+
+- p roducts without economic value are considered wastes and should have no GHG fl uxes allocated to them . Also , if GHG fluxes are allocated , they should sum to the total flux initially calculated . Figure I - 1 . Illustration of a common process requiring allocation
+
+Allocation should be avoided where possible
+If possible, companies should avoid allocati on because allocation adds uncertainty to
+performance metrics. Companies may be able to avoid allocation in  a number of ways: 
+ By dividing the common GHG emitti ng process into sub-processe s that separately produce
+the various products. This approach may be  accomplished by subdividing the farm and 
+providing data on the quantities of inputs going to  each farm enterprise. Mechanical sources 
+will often be the most difficult to allocate because farm records are often on a whole-farm basis. One possible solution may be to se t up energy use accounting on a per product basis
+by, for example, sub-metering individual faciliti es and tracking fuel consumption or the
+number of field passe s by field and date.
+ By redefining the scope of analysis for the perf ormance metric so that the fluxes attributable
+to the various products no longer have to be separated. For instance, by expressing GHG
+emissions on a kg sheep-raised basis as opposed to a kg lamb meat basis, it is no longer
+necessary to separate out the emissi ons attributable to wool production.  
+
+Different allocation approaches exist
+Should allocation be unavoidable, th e following approaches may be used:
+
+--- Page 81 of 103 ---
+
+GHG Protocol Agricultural Guidance
+
+81
+
+Physical allocation: Allocations  are based on an underlying phys ical relationship between the 
+multiple inputs/outputs and the GHG fluxes. For example, if mass is the main causal factor
+driving differences between products, allocations  can be based on the mass of farm outputs: 
+
+Allocated flux ൌ ൬Mass of specific product produced
+Total	mass	of	all	products	produced൰	x	Total	flux

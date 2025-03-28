@@ -1,0 +1,136 @@
+File Name: 2_E1-6_2006-01-01_GHG-LuLu_WRI&WBCSD.pdf
+Converted on: 2025-03-28 03:20:49
+Original Size: 6.41 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 14 of 50
+--------------------------------------------------------------------------------
+
+carbonpoolsshouldbeconsideredforeachbaseline candidate , andifdifferentcarbonpoolsarefoundtobe relevant , thisshouldbenoted ( seebox7 . 2 ) . Moreinforma - tionaboutthecarbonpoolstoassessandtheavailable measurement / estimationmethodscanfoundbeinchapter9 , EstimatingandQuantifyingCarbonStocks , alongwithalist ofresourcesforamoredetaileddiscussionofthedifferent measurementorestimationmethods . CHAPTER7 : EstimatingtheBaselineGHGRemovals — Per formanceStandardProcedure 35 Whendevelopingaperformancestandard , severalpolicy - related decisionsmustbemade , likechoosingtheappropriate stringency level . Suchdecisionscouldenhanceenvironmental integrity , promoteprogramparticipation , ensuremultipleforestuses , increasebiodiversity , andsoforth . Projectdevelopers mustmakesurethatanypolicy - related decisionsmadewithoutanyGHGprogramguidancearereported inatransparentmanner , toenablestakeholdersand / ortheGHG programtodeterminethecredibilityofthesedecisionsandthe GHGreduction . Formoreinformationabouttheperformancestandard , addition - ality , andGHGprograms , seechapter2 , section2 . 14 , andchapter 9 , box9 . 2 , intheProjectProtocol . B O X 7 . 1 PerformanceStandard s andGHGPrograms
+
+--- Page 38 of 100 ---
+
+Whetherthecarbonstocksand/orchangesincarbonstocks
+aremeasureddirectlyfromtheindividualbaselinecandi-
+dates(orsomesubsetofthese)orderivedusingsomeother
+method,besuretonotethetypeanddegreeofvariability
+anduncertaintyoftheseestimates.Similarly,ifexisting
+carbonstockinformationisused,thevariabilityinthe
+valuesandtheirlevelofuncertaintyshouldbenotedaswell.
+Box7.3describestheinitialforestinventoryusedtocalcu -
+latetheGHGremovalsfromvariousmanagementpractices.
+BaselineGHGRemovals
+Oncethebaselinechangeincarbonstocksperunitofland
+areaandtimeperiodhavebeenestimatedormeasuredfor
+eachbaselinecandidate,theGHGremovals(tCO 2/ha)are
+calculatedbymultiplyingthechangeincarbonstocksby44—12 ,
+theratioofthemolecularweightofCO 2tothemolecular
+weightofcarbon.Seebox6.1fortheequationstocalculate
+thebaselineGHGremovalsandtable7.1foranexampleof
+thecalculations.
+7 . 1 . 3 C A L C U L AT E T H E G H G R E M O VA L S
+F O R D I F F E R E N T S T R I N G E N C Y L E V E L S
+Thestringencyofatime-basedperformancestandardfor
+LULUCFprojectactivitiesreferstohowlargethebaseline
+GHGremovalsarerelativetotheGHGremovalsofallthe
+baselinecandidates.Thestringencylevelisessentiallya
+better-than-averageGHGremoval.
+CHAPTER7:EstimatingtheBaselineGHGRemovals—P erformanceStandardProcedure 36 Ideally,therewillbeenoughinformationtocalculatethecarbon
+stocksforeachbaselinecandidate(e.g.,eachhectareofland).
+Butitismorelikelythattherewillnotbedataavailableforeach
+baselinecandidate.Instead,thecarbonwillhavebeenmeasured
+atanumberofsitesforeachtypeofbaselinecandidate.Iftaking
+additionalcarbonstocksamplesoneachhectareorattempting to
+modeleachhectareistooexpensive,extrapolate theavailable
+carbonstockdatatoallhectaresrepresentingthesametypeof
+baselinecandidate.
+Forexample,120samplesmayhavebeentakentomeasuresoil
+carbonona2000-hectarelandareawiththesamesoiltypeand
+underano-tillcornandsoybeanrotationinthegeographicarea.
+Iftakingadditionalcarbonsamplesoneachhectareormodeling
+eachhectareisnotpossible,extrapolatetheavailablecarbon
+stockdatatoall2000hectares,andall2000baselinecandidates
+willhavethesamecarbonstocks.
+Ingeneral,themorespecificthedatacollectedonthedifferent
+baselinecandidatesare,themoreaccuratetheperformance
+standardwillbe,andthemoreexpensivetheperformance
+standardwillbetodevelop.Projectdevelopersshouldusethe
+mostaccurateavailabledataforeachbaselinecandidate.Ifthis
+isnotpossible,theyshouldusetheconservativenessprincipleto
+estimatethecarbonstocksforeachbaselinecandidate.B O X 7 . 2 ExtrapolatingCarbonMeasurements
+acrosstheLandscape
+T I M E
+P E R I O D
+0
+12345678910 B A S E L I N E
+C A R B O N
+S T O C K S , tC/ ha
+854
+764
+754
+746
+739
+733
+728
+723
+720
+716
+714 C H A N G E I N
+C A R B O N
+S T O C K S , tC/ ha
+0
+-90
+-10
+-8
+-7
+-6
+-5
+-5
+-3
+-4
+-2 G H G
+R E M O VA L S
+tCO 2/ha
+0
+-330
+-36.7
+-29.3
+-25.7
+-22
+-18.3
+-18.3
+-11
+-14.7
+-7.3 B A S E L I N E
+C A R B O N
+S T O C K S , tC/ ha
+854
+852
+851
+852
+853
+855
+857
+859
+862
+865
+867 C H A N G E I N
+C A R B O N
+S T O C K S , tC/ ha
+0
+-2 -1 11222332G H G
+R E M O VA L S
+tCO 2/ha
+0
+-7.3
+-3.7
+3.7
+3.7
+7.3
+7.3
+7.3
+11 11 7.3 BaselineCandidate1 BaselineCandidate2 TA B L E 7 . 1 CalculatingGHGRemovals
+
+--- Page 39 of 100 ---

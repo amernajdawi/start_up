@@ -1,0 +1,49 @@
+File Name: 1_2023-07-31_DelVO_2023_2772_ESRS_EU.pdf
+Converted on: 2025-03-28 03:20:41
+Original Size: 5.82 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 106 of 284
+--------------------------------------------------------------------------------
+
+ELI: http://data.europa.eu/eli/reg_del/2023/2772/oj 108/284(b) may include a breakdown of the undertaking’s business activities with the corresponding details of the
+associated percentage of total net revenue, the risk factors (hazards, exposure and sensitivity) and, if possible,
+the magnitude of the anticipated financial effects in terms of margin erosion over the short-, medium- and
+long-term time horizons. The nature of business activities may also be disaggregated by operating segments if
+the undertaking has disclosed the contribution of margins by operational segments in its segment reporting in
+the financial statements.
+Calculation guidance - Anticipated financial effects from transition risk
+AR 72. When disclosing the information required under paragraphs 64 (b) and 67 (a), the undertaking shall explain
+whether and how:
+(a) it has assessed the potential effects on future financial performance and position for assets and business activities at material transition risk, including the scope of application, calculation methodology, critical
+assumptions and parameters, and limitations of the assessment; and
+(b) the assessment of assets and business activities considered to be at material transition risk relies on or is part of
+the process to determine material transition risks as described under paragraphs 20 (c) and AR 11 and to
+determine scenarios as required under paragraphs AR 12 to AR 13. In particular, it shall explain how it has
+defined medium- and long-term time horizons and how these definitions are linked to the expected lifetime
+of the undertaking’s assets, strategic planning horizons and capital allocation plans.
+AR 73. When disclosing the information on assets at material transition risk as required under paragraphs 67 (a) and (b):
+(a) the undertaking shall at the very least include an estimate of the amount of potentially stranded assets (in monetary amounts and as a proportion/percentage) from the reporting year until 2030 and from 2030 to
+2050. Stranded assets are understood as the active or firmly planned key assets of the undertaking with
+significant locked-in GHG emissions over their operating lifetime. Firmly planned key assets are those that
+the undertaking will most likely deploy within the next 5 years. The amount may be expressed as a range of asset values based on different climate and policy scenarios, including a scenario aligned with limiting climate
+change to 1.5°C.
+(b) the undertaking shall disclose a breakdown of the carrying value of its real estate assets, including rights-of-use
+assets, by energy efficiency classes. The energy efficiency shall be represented in terms of either the ranges of
+energy consumption in kWh/m
+2 or the EPC (54)(Energy Performance Certificate) (55)label class. If the
+undertaking cannot obtain this information on a best-effort basis, it shall disclose the total carrying amount of the real estate assets for which the energy consumption is based on internal estimates.
+(c) the undertaking shall calculate the proportion (percentage) of total assets (including finance lease/right-of-use
+assets) at material transition risk addressed by the climate change mitigation actions based on the information
+disclosed under Disclosure Requirement E1-3. The total assets amount is the carrying amount on the balance
+sheet at the reporting date.
+AR 74. When disclosing the information on potential liabilities from material transition risks required under paragraph
+67(d):
+(a) undertakings that operate installations regulated under an emission trading scheme may include a range of
+potential future liabilities originating from these schemes;
+(b) undertakings subject to the EU ETS, may disclose the potential future liabilities that relate to their allocation
+plans for the period before and until 2030. The potential liability may be estimated on the basis of:
+(54)Directive 2010/31/EU of the European Parliament and of the Council of 19 May 2010 on the energy performance of buildings
+(OJ L 153, 18.6.2010, p. 13).

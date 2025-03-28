@@ -1,0 +1,34 @@
+File Name: 1_2023-06-27_DelVO_2023_2486_TAXURA_EU.pdf
+Converted on: 2025-03-28 03:18:09
+Original Size: 8.44 MB
+Chunk Size: 500 tokens with 50 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 326 of 380
+--------------------------------------------------------------------------------
+
+ELI: http://data.europa.eu/eli/reg_del/2023/2486/oj 121/164The economic activities in this category could be associated with several NACE codes, in particular I55.10, I55.20 and
+I55.30 in accordance with the statistical classification of economic activities established by Regulation (EC) No 1893/2006.
+Technical screening criteria
+Substantial contribution to protection and restoration of biodiversity and ecosystems
+1.Contribution to conservation or restoration activities
+1.1. The activity contributes to conservation or restoration measures which comply with the technical screening criteria
+for activity ‘Conservation, including restoration, of habitats, ecosystems and species’ set out in Section 1.1 of this Annex,
+in clearly identified areas, within or in the proximity of the same tourism destination (17)as the accommodation. The area
+can be any type of area with high nature conservation value covered by a management plan or an equivalent instrument such as a restoration plan (referred to ‘conservation area’ below).
+1.2. The activities contributing to conservation or restoration measures as referred to in point 1.1 are defined in a specific
+contractual agreement or equivalent instrument between the operator of the activity and the organisation in charge of the
+conservation or restoration of the area. The agreement covers a minimum of five years and is regularly reviewed, in any
+case at least every five years. It defines clear time-bound targets for contribution to the conservation or restoration area.
+The contribution to conservation or restoration measures as referred to in point 1.1 can be financial or in kind and may
+take one of the following forms:
+(a) offer or organisation of visits to a conservation area where entrance or permit or user fees are applied;
+(b) operation of concessions and leases for services directly related to a conservation area (issued by the organisation in
+charge of the management of the area);
+(c) operation of tourist accommodation establishments within a conservation area but not subject to concession (in
+agreement with the organisation in charge of the management of the area);
+(d) offer or management of volunteers for activities directly related to conservation (in accordance with the conservation
+objectives of the conservation area);
+(e) offer or management of educational opportunities directly related to conservation and appropriate behaviour (in accordance with the conservation objectives of the conservation area);
+(f) purchase of products of any kind, including food, beverages, handcrafts, for re-selling or for direct use, derived from

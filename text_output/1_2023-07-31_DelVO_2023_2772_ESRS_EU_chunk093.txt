@@ -1,0 +1,48 @@
+File Name: 1_2023-07-31_DelVO_2023_2772_ESRS_EU.pdf
+Converted on: 2025-03-28 03:20:41
+Original Size: 5.82 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 93 of 284
+--------------------------------------------------------------------------------
+
+ELI: http://data.europa.eu/eli/reg_del/2023/2772/oj 95/284(h) account for steam, heat or cooling received as “waste energy” from a third party’s industrial processes under
+“purchased or acquired” energy;
+(i) account for renewable hydrogen (49)as a renewable fuel. Hydrogen that is not completely derived from
+renewable sources shall be included under “fuel consumption from other non-renewable sources”; and
+(j) adopt a conservative approach when splitting the electricity, steam, heat or cooling between renewable and
+non-renewable sources based on the approach applied to calculate market-based Scope 2 GHG emissions.
+The undertaking shall only consider these energy consumptions as deriving from renewable sources if the
+origin of the purchased energy is clearly defined in the contractual arrangements with its suppliers
+(renewable power purchasing agreement, standardised green electricity tariff, market instruments like
+Guarantee of Origin from renewable sources in Europe (50)or similar instruments like Renewable Energy
+Certificates in the US and Canada, etc.).
+AR 33. The information required under paragraph 37 (a) is applicable if the undertaking is operating in at least one high
+climate impact sector . The information required under paragraph 38 (a) to (e). shall also include energy from
+fossil sources consumed in operations that are not in high climate impact sectors.
+AR 34. The information on Energy consumption and mix may be presented using the following tabular format for high
+climate impact sectors and for all other sector by omitting rows (1) to (5).
+Energy consumption and mix Comparative Year N
+(1) Fuel consumption from coal and coal products (MWh)
+(2) Fuel consumption from crude oil and petroleum products (MWh)
+(3) Fuel consumption from natural gas (MWh)
+(4) Fuel consumption from other fossil sources (MWh)
+(5) Consumption of purchased or acquired electricity, heat, steam, and
+cooling from fossil sources (MWh)
+(6) Total fossil energy consumption (MWh) (calculated as the sum of lines 1 to 5)
+Share of fossil sources in total  
+energy consumption (%)
+(7) Consumption from nuclear sources (MWh)
+Share of consumption from nuclear  
+sources in total energy consumption (%)
+(49)Compliant with the requirements in delegated acts for hydrogen from renewable sources: Commission delegated regulation of
+10 February 2023 supplementing Directive (EU) 2018/2001 of the European Parliament and of the Council by establishing a Union
+methodology setting out detailed rules for the production of renewable liquid and gaseous transport fuels of non-biological origin;
+and Commission delegated regulation of 10 February 2023 supplementing Directive (EU) 2018/2001 of the European Parliament
+and of the Council by establishing a minimum threshold for greenhouse gas emissions savings of recycled carbon fuels and by specifying a methodology for assessing greenhouse gas emissions savings from renewable liquid and gaseous transport fuels of non- biological origin and from recycled carbon fuel.
+(50)Based on Directive (EU) 2018/2001 of the European Parliament and of the Council of 11 December 2018 on the promotion of the
+use of energy from renewable sources.OJ L, 22.12.2023 EN  
+
+--- Page 96 of 284 ---

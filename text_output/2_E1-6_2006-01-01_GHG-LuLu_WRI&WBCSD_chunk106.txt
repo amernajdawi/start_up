@@ -1,0 +1,47 @@
+File Name: 2_E1-6_2006-01-01_GHG-LuLu_WRI&WBCSD.pdf
+Converted on: 2025-03-28 01:56:20
+Original Size: 6.41 MB
+Chunk Size: 400 tokens with 50 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 106 of 118
+--------------------------------------------------------------------------------
+
+Sohngen,B.,andR.Mendelsohn.2003.AnOptimalControl
+ModelofForestCarbonSequestration.AmericanJournalof
+AgriculturalEconomics 85(2):448–57.
+Sohngen,B.,R.Mendelsohn,andR.Sedjo.1999.Forest
+Management,Conservation,andGlobalTimberMarkets.
+AmericanJournalofAgriculturalEconomics 81(1):1–13.
+Wear,D.N.,andB.C.Murray.2004.FederalTimber
+Restrictions,InterregionalSpillovers,andtheImpacton
+U.S.SoftwoodMarkets.JournalofEnvironmental
+EconomicsandManagement 47:307–30.
+C H A P T E R 5 : I D E N T I F Y I N G T H E
+B A S E L I N E C A N D I D AT E S
+Murtishaw,S.,J.Sathaye,andM.Lefranc.2005."Spatial
+BoundariesandTemporalPeriodsforSettingGreenhouse
+GasPerformanceStandards."EnergyPolicy.
+C H A P T E R 8 : A P P LY I N G A L A N D - U S E
+O R M A N A G E M E N T T R E N D FA C T O R
+Faeth,P.,C.Cort,andR.Livernash.1994.Evaluating
+theCarbonSequestrationBenefitsofForestryProjects
+inDevelopingCountries.Washington,D.C.:World
+ResourcesInstitute.
+Hall,M.H.P,C.A.S.Hall,andM.R.Taylor.2000.
+GeographicalModeling:TheSynthesisofGISand
+SimulationModeling.InQuantifyingSustainable
+Development:TheFutureofTropicalEconomies,editedby
+C.A.S.Hall.SanDiego:AcademicPress.
+Hall,C.A.S.,H.Tian,Y.Qi,G.Pointius,J.Cornell,andJ.
+Uhlig.1995.ModelingSpatialandTemporalPatternsof
+TropicalLand-UseChange.JournalofBiogeography
+22:753–57.
+Scotti,R.2000.DemographicandEcologicalFactorsin
+FAOTropicalDeforestationModeling.InWorldForests
+fromDeforestationtoTransition?editedbyM.PaloandH.
+Vanhanen.Dordrecht:KluwerAcademicPublishing.
+UnitedNationsFoodandAgricultureOrganization(UN
+FAO).1993.ForestResourcesAssessment1990—Tropical
+Countries.ForestryPapers 112,Rome.

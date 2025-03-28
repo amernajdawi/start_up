@@ -1,0 +1,50 @@
+File Name: 1_2021-06-04_DelVO_2021_2139_TAXKRA_EU.pdf
+Converted on: 2025-03-28 03:18:03
+Original Size: 2.76 MB
+Chunk Size: 500 tokens with 50 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 521 of 966
+--------------------------------------------------------------------------------
+
+Do no significant harm (‘DNSH’)  
+(1) Climate change mitigation  The activity manufactures one of the following: 
+(a) primary aluminium where the economic activity complies with two of
+the following criteria until 2025 and with all of the following crite ­
+ria (  137  ) after 2025: 
+(i) the GHG emissions do not exceed 1,604 (  138  ) tCO  2 e per ton of 
+aluminium manufactured (  139  ); 
+(ii) the indirect GHG emissions do not exceed 270 g CO  2 e/kWh; 
+(iii) the electricity consumption for the manufacturing process does
+not exceed 15,5 MWh/t Al;
+(b) secondary aluminium.  
+(3) Sustainable use and protection of
+water and marine resources  The activity complies with the criteria set out in Appendix B to this 
+Annex.  
+(4) Transition to a circular economy  N/A  
+(5) Pollution prevention and control  The activity complies with the criteria set out in Appendix C to this 
+Annex.
+Emissions are within or lower than the emission levels associated with the
+best available techniques (BAT-AEL) ranges set out in the latest relevant
+best available techniques (BAT) conclusions, including the best available
+techniques (BAT) conclusions for the non-ferrous metals industries (  140  ). 
+No significant cross-media effects occur.  
+(6) Protection and restoration of
+biodiversity and ecosystems  The activity complies with the criteria set out in Appendix D to this 
+Annex.  
+3.9.  Manufacture of iron and steel  
+Description of the activity  
+Manufacture of iron and steel.  
+The economic activities in this category could be associated with several NACE codes, in particular C24.10,
+C24.20, C24.31, C24.32, C24.33, C24.34, C24.51 and C24.52 in accordance with the statistical classification
+of economic activities established by Regulation (EC) No 1893/2006.  
+Technical screening criteria  
+Substantial contribution to climate change adaptation  
+1. The economic activity has implemented physical and non-physical solutions (‘adaptation solutions’) that
+substantially reduce the most important physical climate risks that are material to that activity.  
+_____________
+( 137  ) Combined to a single threshold resulting in the sum of direct and indirect emissions, calculated as the median value of the d ata 
+collected in the context of establishing the EU ETS industrial benchmarks for the period of 2021-2026 and calculated in
+accordance with the methodology for setting the benchmarks set out in Directive 2003/87/EC plus the do no significant
+harm to climate change mitigation criterion for electricity generation (270 g CO  2 e/kWh) multiplied by the average energy

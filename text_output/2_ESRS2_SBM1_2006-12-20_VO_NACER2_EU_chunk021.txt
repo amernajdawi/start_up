@@ -1,0 +1,55 @@
+File Name: 2_ESRS2_SBM1_2006-12-20_VO_NACER2_EU.pdf
+Converted on: 2025-03-28 03:20:56
+Original Size: 0.17 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 21 of 45
+--------------------------------------------------------------------------------
+
+n.e.c. : not elsewhere classified * part of
+Division Group ClassISIC
+Rev. 4
+28.96 Manufacture of plastic and rubber machinery 2829*
+28.99 Manufacture of other special-purpose machinery n.e.c. 2829*
+29 Manufacture of motor vehicles, trailers and semi-trailers
+29.1 Manufacture of motor vehicles
+29.10 Manufacture of motor vehicles 2910
+29.2 Manufacture of bodies (coachwork) for motor vehicles; manufacture of
+trailers and semi-trailers
+29.20 Manufacture of bodies (coachwork) for motor vehicles; manufacture of
+trailers and semi-trailers2920
+29.3 Manufacture of parts and accessories for motor vehicles
+29.31 Manufacture of electrical and electronic equipment for motor vehicles 2930*29.32 Manufacture of other parts and accessories for motor vehicles 2930*
+30 Manufacture of other transport equipment
+30.1 Building of ships and boats
+30.11 Building of ships and floating structures 301130.12 Building of pleasure and sporting boats 3012
+30.2 Manufacture of railway locomotives and rolling stock
+30.20 Manufacture of railway locomotives and rolling stock 3020
+30.3 Manufacture of air and spacecraft and related machinery
+30.30 Manufacture of air and spacecraft and related machinery 3030
+30.4 Manufacture of military fighting vehicles
+30.40 Manufacture of military fighting vehicles 3040
+30.9 Manufacture of transport equipment n.e.c.
+30.91 Manufacture of motorcycles 309130.92 Manufacture of bicycles and invalid carriages 3092
+30.99 Manufacture of other transport equipment n.e.c. 3099
+31 Manufacture of furniture
+31.0 Manufacture of furniture
+31.01 Manufacture of office and shop furniture 3100*31.02 Manufacture of kitchen furniture 3100*31.03 Manufacture of mattresses 3100*31.09 Manufacture of other furniture 3100*
+32 Other manufacturing
+32.1 Manufacture of jewellery, bijouterie and related articles
+32.11 Striking of coins 3211*
+32.12 Manufacture of jewellery and related articles 3211*32.13 Manufacture of imitation jewellery and related articles 3212
+32.2 Manufacture of musical instruments
+32.20 Manufacture of musical instruments 3220
+32.3 Manufacture of sports goods
+32.30 Manufacture of sports goods 3230
+32.4 Manufacture of games and toys
+32.40 Manufacture of games and toys 3240
+32.5 Manufacture of medical and dental instruments and supplies
+32.50 Manufacture of medical and dental instruments and supplies 3250
+32.9 Manufacturing n.e.c.
+32.91 Manufacture of brooms and brushes 3290*32.99 Other manufacturing n.e.c. 3290*30.12.2006 EN Official Journal of the European Union L 393/15
+
+--- Page 16 of 39 ---

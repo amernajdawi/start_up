@@ -1,0 +1,52 @@
+File Name: 1_2021-06-04_DelVO_2021_2139_TAXKRA_EU.pdf
+Converted on: 2025-03-28 03:20:30
+Original Size: 2.76 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 348 of 447
+--------------------------------------------------------------------------------
+
+--- Page 275 of 349 ---
+
+Do no significant harm (‘DNSH’)  
+(1) Climate change mitigation  A monitoring plan is in place for methane leakage at the facility.  
+(3) Sustainable use and protection of
+water and marine resources  N/A  
+(4) Transition to a circular economy  N/A  
+(5) Pollution prevention and control  The permanent closure and remediation as well as the after-care of old 
+landfills, where the landfill gas capture system is installed, are carried out
+in accordance with the following rules:
+(a) general requirements set out in Annex I to Directive 1999/31/EC;
+(b) control and monitoring procedures set out in Annex III to that Direc ­
+tive.  
+(6) Protection and restoration of
+biodiversity and ecosystems  The activity complies with the criteria set out in Appendix D to this 
+Annex.  
+5.11.  Transport of CO  2 
+Description of the activity  
+Transport of captured CO  2 via all modes, construction and operation of CO  2 pipelines and retrofit of gas networks 
+where the main purpose is the integration of captured CO  2 and where:  
+(a) the CO  2 transported from the installation where it is captured to the injection point does not lead to CO  2 
+leakages above 0.5 % of the mass of CO  2 transported;  
+(b) the CO  2 is delivered to a permanent CO  2 storage site that meets the criteria for underground geological storage 
+of CO  2 set out in section 5.12 of this Annex; or to other transport modalities, which lead to permanent CO  2 
+storage site that meet those criteria;  
+(c) appropriate leak detection systems are applied and a monitoring plan is in place, with the report verified by an
+independent third party;  
+(d) the activity may include the installation of assets that increase the flexibility and improve the management of
+an existing network.  
+The activity could be associated with several NACE codes, in particular F42.21 and H49.50 in accordance with the
+statistical classification of economic activities established by Regulation (EC) No 1893/2006.  
+Technical screening criteria  
+Substantial contribution to climate change adaptation  
+1. The economic activity has implemented physical and non-physical solutions (‘adaptation solutions’) that
+substantially reduce the most important physical climate risks that are material to that activity.
+2. The physical climate risks that are material to the activity have been identified from those listed in
+Appendix A to this Annex by performing a robust climate risk and vulnerability assessment with the
+following steps:
+(a) screening of the activity to identify which physical climate risks from the list in Appendix A to this Annex
+may affect the performance of the economic activity during its expected lifetime;EN  9.12.2021 Official Journal of the European Union L 442/275
+
+--- Page 276 of 349 ---

@@ -1,0 +1,67 @@
+File Name: 2_E1-6_2014-01-01_G_GHG-Agri_WRI&WBCSD.pdf
+Converted on: 2025-03-28 03:20:54
+Original Size: 1.75 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 20 of 65
+--------------------------------------------------------------------------------
+
+24
+ Chapter 4: Overview of agricultural emission sources  
+Many different types of emission sources are as sociated with agriculture, such as fuel
+use, soils, and manure management.  Unde rstanding the qualitative differences amongst 
+these is crucial to many step s in inventory development, including calculating, reporting,
+and undertaking the quality cont rol of GHG flux data.  
+This chapter:
+ Distinguishes between two types of emissions sources – mechanical  and non-
+mechanical sources  – whose fluxes differ in fundamental ways, with important 
+implications for GHG inventory development.
+ Describes the variety and relative importance of thes e sources along agricultural
+value chains.
+4.1 Overview of agricultural sources
+Figure 4-1 lists the princi pal emission sources found on farmland. An important
+distinction for the agricultura l sector is between mechani cal and non-mechanical sources.
+This is because agriculture re lies on biological systems, whose emissions or removals of
+GHGs generally occur through much more complex mechanisms than the emissions from the mechanical equipment used on farmland.    Non-mechanical sources are either biologi cal processes shaped by climatic and soil 
+conditions (e.g., decomposition) or the bur ning of crop residues. They are often
+connected by complex patterns of N and C fl ows through farms. Non-mechanical sources
+emit CO
+2, CH 4 and N 2O (or precursors of these GHGs) through different routes. CO 2
+fluxes are mostly controlled by uptake thr ough plant photosynthesis and releases via
+respiration, decomposition and the combus tion of organic matter. In turn, N 2O emissions
+result from nitrification  and denitrification (see Box 4-1), and CH 4 emissions result from 
+methanogenesis under anaerobic conditions in  soils and manure storage, enteric 
+fermentation, and the incomplete combustion of organic matter.  
+Mechanical sources are equipment or mach inery operated on farms, such as mobile
+machinery (e.g., harvesters), stationary equi pment (e.g., boilers), and refrigeration and
+air-conditioning equipment.  These sources emit CO
+2, CH 4, and N 2O, or HFCs and PFCs,
+and their emissions are wholly  determined by the properties of the source equipment and 
+material inputs (e.g., fuel composition).    
+
+--- Page 25 of 103 ---
+
+GHG Protocol Agricultural Guidance
+
+25
+ Figure 4-1.  Agricultural emissions sources  
+
+Relative importance of diffe rent agricultural sources
+Globally, non-mechanical sources are larger than mechanical sources (Figure 4-2; U.S.
+EPA, 2006a), with enteric fermentation (CH 4) and soils (N 2O) being the largest sources
+(U.S. EPA, 2006b). The exact contribu tion of agriculture to global CO 2 emissions is hard
+to quantify. This is because the biomass and soil C pools not only emit large amounts of
+CO 2, but also take up CO 2. Nevertheless, additional C sequestration offers most (~89%)
+of the global emissions mitigation potential in agriculture (Smith et al., 2007b). Agriculture-driven LUC is also a globally important source of CO
+2 emissions.  
+At the farm scale, the relative magnitude of different emission sources and of different
+GHGs will vary widely depending on the t ype of farm, management practices, and
+natural factors at play. These factors incl ude original land cove r; farm topography and
+hydrology; soil microbial density and ecology;  soil temperature, moisture, organic 
+content and composition; crop or livestock  type; and land and waste management 
+practices. Few studies have looked at the relati ve contribution of diffe rent sources to the
+whole-farm inventories of diffe rent farming systems using a consistent set of methods. It
+is difficult to accurately predict the relative  magnitude of different sources for a given 
+farm. Nonetheless, certain broad patterns  can be expected (e.g., Figure 4-3).

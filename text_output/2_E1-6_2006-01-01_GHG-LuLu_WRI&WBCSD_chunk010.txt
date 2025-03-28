@@ -1,0 +1,204 @@
+File Name: 2_E1-6_2006-01-01_GHG-LuLu_WRI&WBCSD.pdf
+Converted on: 2025-03-28 03:20:49
+Original Size: 6.41 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 10 of 50
+--------------------------------------------------------------------------------
+
+•Pastureland,whichmaybefurtherdividedintorangeor
+managedpasture,improvedorunimprovedpasture,
+irrigatedornonirrigatedpasture,permanentlyor
+rotationallygrazed,andsoforth.
+•Abandonedland.
+•Unused,degraded,orunproductiveland,forexample,areas
+withseverelyerodedsoilsorareasdisturbedbymining.
+•Forest,whichmaybefurtherdividedintoriparianbuffers,
+varioustypesofplantationforests,naturallyregenerated
+forests,nativeorexoticforests,forestscomposedof
+differenttreespecies,andsoon.
+•Developedland,whichmaybefurtherdividedintohobby
+farm/lifestyleblocks,residential(singleormultifamily),
+commercial,orindustrialdevelopment.
+ForestManagementProjectActivities
+Forestmanagement projectactivitieschangeeithertheinten -
+sityorthetypeofforestmanagement beingpracticed.When
+theprojectactivitychangestheintensity,thebaselinecandi-
+dateswillmostlikelyrepresentthemanagement practices’
+variousintensities.Forexample,iftheprojectactivity
+changesthelengthoftheharvestrotation,thenthebaseline
+candidateswillrepresentallthepossibleharvestrotations.
+Iftheprojectactivitychangesthetypeofforestmanage -
+ment,thenthebaselinecandidatesaretypesofforest
+managementpracticesthatprovidethesameservice.For
+instance,mechanicalweeding,chemicalweeding,and
+thinningforestmanagementpracticesarecomparable,as
+theyallperformthesameservice:reducingtheplantdensity
+andensuringthesurvivalofdesirabletrees.Incontrast,site
+preparationpracticesshouldnotbecomparedwithharvest
+practices,sincethefirsttriestoimproveforestregeneration
+andthesecondtriestoincreasetimbervolume.
+Somequestionsthatmayhelpidentifybaselinecandidates
+forforestmanagement projectactivitieswhentheproject
+activityandbaselinecandidatesofferanidentical(ornearly
+identical)productorserviceare:
+•Whatalternativeneworexistingforestmanagement
+practiceswouldproduceasimilarproductorserviceas
+theprojectactivityontheprojectsite?
+•Whatalternativeneworexistingforestmanagement
+practicesdoothersusetoproduceasimilarproductor
+servicefortheprojectactivity?
+•Whatisthemostcommonforestmanagementpracticeon
+sitesthatproducethesame(orsimilar)productorservice
+astheprojectactivityinthesamemarket?
+•Whatistheexistingforestmanagementpractice? 5.3 DefiningtheGeographicArea
+andtheTemporalRange
+5 . 3 . 1 D E F I N I N G T H E G E O G R A P H I C A R E A
+Thegeographicareaisthelocationofthelandusesor
+managementpracticesofthefinallistofbaselinecandi-
+dates.Thisareashouldbelargerthantheprojectsiteand
+couldincludelandsspanningastateorprovince,agroupof
+statesorprovinces,ormaybeevenacountry.The
+geographicareadoesnotneedtobecontiguousbutincludes
+onlylandssimilartotheprojectsite.Itisusefultothink
+abouttheprojectsite’sinherentproductioncapabilities.For
+instance,iftheprojectsiteissuitedtodrylandpasturebut
+notdrylandcerealproduction,thendrylandcerealproduc -
+tionareasshouldnotbeincludedinthegeographicarea.
+Whendefiningthegeographicareainordertonarrowthe
+listofpossibletypesofbaselinecandidates,considerthe
+followingconstraints:
+•Biophysicalconditionsthatreflectthecharacteristics
+oftheprojectsiteandinfluencebothwhattypeofplant
+speciescouldbegrownandhowwelltheygrow,for
+example,climaticconditions(likeprecipitationand
+temperature)orgeologicalconditions(likesoiltype
+andtopography).
+•Human-influencedfactorsthatmayaffectwhatplant
+specieswouldbegrown,forexample,legal,sociocultural,
+oreconomicfactors.
+•Availabilityofphysicalinfrastructure,forexample,roads
+ormarkets.
+Thereisnohardorfastruleforwhichcriteriaaremost
+importanttodefiningthegeographicareainaLULUCF
+contextorfortheorderinwhichtheyshouldbeapplied.But
+applyingthecriteriainthefollowingordergenerallyhelps
+definethegeographicarea:
+1 . Politicalboundaries:Nationalorsubnationalboundaries
+oftenarethefirstconsiderationfordefiningthe
+geographicarea.Manyland-useregulations,government
+incentiveprograms,andthelikearespecifiedaccording
+topoliticalboundaries,andtheselegalrequirementsor
+programsoftenaffectland-useormanagementpractices.
+2 . Ecologicalzone:Manycountrieshaveclassifiedecologi-
+calzonesthathavebeendeterminedbygovernment
+agencies.Forareasforwhichgovernmentclassifications
+arenotavailable,environmentalorganizationslikethe
+NatureConservancyortheWorldWildlifeFundmay
+havemappedecologicalzones.FormanyLULUCF
+projectactivities,thegeographicareawillbeconstrained
+byanecologicalzone.
+3 . Landcharacteristics:Morespecificlandcharacteristics,
+suchasparticularsoils,topography,orproximityto
+riversandstreams,oftencanbeusedtonarrowthe
+geographicarea.
+CHAPTER5:IdentifyingtheBaselineCandidates 26
+
+--- Page 29 of 100 ---
+
+4 Land-use/management history:Pastlanduseor
+managementcaninfluencetheland’sproductivity.
+Therefore,thegeographicareashouldprobablybe
+restrictedtoareaswithasimilarland-useor
+managementhistory.
+5 . Otherfactors:Othersocial,cultural,oreconomicfactors,
+suchasmarketaccessibilityandinfrastructureavailabil-
+ity,maybeimportanttodefiningthegeographicarea.For
+instance,grain-handlingdepotsandraillinesmaybe
+necessarytotransportcerealgrainfromwhereitisgrown
+tolargermarketsorseaports.Therefore,limitingthe
+geographicareatowherethesedepotsandraillinesare
+locatedmaymakesense.Anotherexampleiscertain
+areasmayberegardedassacredbyindigenouspopula -
+tions,meaningthatcertainlandusesormanagement
+practicesareprohibitedandthusshouldbeexcludedfrom
+thegeographicarea.Inothercases,theGHGprojectmay
+serviceaspecificmarket,suchasfibergrownforethanol
+production,andsoitsproximitytoanethanolplantmay
+beafactorlimitingthegeographicarea.
+WhendefiningthegeographicareaforLULUCFproject
+activities,rememberthat
+•Thegeographicareadoesnotneedtobecontiguous.
+•Thebaselinecandidatesmayneedtobefurtherrefined/
+adjustedatalaterstageaccordingtotheavailabilityof
+land-useormanagementdataorcarbondata.
+Reforestation ProjectActivities
+Biophysicalconditionsareoneofthedeterminingcriteria
+forthegeographicareaofreforestationprojectactivities,as
+theseconditionstypicallydefinethetypeofvegetation,and
+thereforethelandusesuitabletoanarea.Regionalzoning
+regulationsorconservation incentiveprogramsare
+examplesoflegalfactorsthatmayaffectthegeographic
+areafortheseactivities.Theimportanceofothercharacter -
+isticsislikelytodifferbyregionandshouldbeassessedona
+case-by-casebasis.
+ForestManagement ProjectActivities
+Manycountriesalreadyhaveecologicalclassification
+systemsdescribingtheconditionsforforestmanagement.
+Whentheseareashavenotbeenidentified,acoarse-scale
+classification canbecreatedfromairphotosorsatellite
+images.Forestinventorysystemsareoftenstratifiedbytype
+offorestcoverorothervegetativecharacteristicsandcan
+alsobethebasisfordefiningthebiophysicalaspectsofthe
+geographicareaforforestmanagementprojectactivities.
+Howevertheseinventoriesoftenareavailableonlyinareas
+ofcommercialforestry.
+Manyareashaveforestmanagementregulationsthatalso
+canguidethedefinitionofthegeographicarea.For
+instance,Californiahasquitecomprehensiveforestmanage -
+mentlawscomparedwiththoseofotherU.S.states,soif
+theprojectsiteistobelocatedinCalifornia,itwouldmake
+sensetorestrictthegeographicareatothatstateorevena
+smallerareawithinthestate.Aswithreforestationprojectactivities,othercharacteristics
+arelikelytobespecifictoindividualregionsandsoshould
+beassessedassuch.
+5 . 3 . 2 D E F I N I N G T H E T E M P O R A L R A N G E
+Thetemporalrangeisthetimeperiodusedtodeterminethe
+typesofbaselinecandidates(seebox5.2).Thetemporal
+rangeforLULUCFprojectactivitiestendstobelongerthan
+thatofmostemissionreductionprojectactivities.
+TwofactorsfordefiningthetemporalrangeforLULUCF
+projectactivitiesare
+•Aneventthatclearlymarksa“discretepoint”intime
+whenmanagementandland-usedecisionschanged.The
+timingofthateventrepresentsthebeginningofthe
+temporalrange.Forexample,afterasevereflood,ifthe
+landownersswitchedfromagriculturalcropstoshort-
+rotationforestsonriverfloodplains,thenthefloodwould
+markthebeginningofthetemporalrange.Similarly,if
+regulationswereintroducedthatrequiredcertain
+changesinforestmanagementpractices,thentheintro -
+ductionoftheregulationwouldbethebeginningofthe
+temporalrange.CHAPTER5:IdentifyingtheBaseline Candidates
+27 Projectdevelopersmaybeabletoexcludecertainbaselinecandidates
+iftheycanshowthatnolandsunderthesamehistoricland-useor
+managementpracticeastheprojectsitehaveeverchangedtothat
+particularbaselinecandidatewithinthetemporalrange.
+Forexample,aprojectdeveloperhasidentifiedfourbaseline
+candidatesafterdefiningthegeographicarea:cropland(the
+projectsite’shistoricaluse),pastureland,abandonedland,and
+landbeingdevelopedforresidentialuses.Afterlookingattwo
+geographicinformationsystem(GIS)datasetsfromthebeginning
+andtheendofthetemporalrange,theprojectdeveloperfindsthat
+duringthetemporalrange,thecroplandinthegeographicarea
+hasneverbeenabandonedandsoabandonedlandisnota
+baselinecandidate.However,iftheprojectdeveloperdoesnothave
+datatodeterminespecificland-useormanagementchangesfor
+eachlandunitorcannotfindthedataforasufficientlylongor
+representativetemporalrange,thenbaselinecandidatescannot
+beexcludedusingthisapproach.B O X 5 . 2 IdentifyingBaselineCandidates
+UsingtheTemporalRange
+
+--- Page 30 of 100 ---

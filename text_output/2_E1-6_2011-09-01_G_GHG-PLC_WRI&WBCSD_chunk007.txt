@@ -1,0 +1,61 @@
+File Name: 2_E1-6_2011-09-01_G_GHG-PLC_WRI&WBCSD.pdf
+Converted on: 2025-03-28 03:20:53
+Original Size: 3.27 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 7 of 116
+--------------------------------------------------------------------------------
+
+guidance[09]
+guidanceCompanies should first identify their business goals before conducting product
+GHG inventories.  Doing so can bring clarity and assist in selecting the appropriate 
+methodology and data to develop the inventory.  
+This standard has been designed as a comprehensive
+accounting and reporting framework to enable a
+company to gather information to serve all the business
+goals defined below and outlined in table 2.1.
+2.1 Climate change management
+Product GHG inventories, performed according to a
+consistent framework, provide a quantitative tool to help
+understand GHG risks along a product’s life cycle. Product
+inventories also can be used to understand emissions
+reductions and cost savings opportunities, as GHG emissions
+generally relate to energy use and can be a proxy for
+inefficiencies in a product system. The use of product GHG
+inventories can help product manufacturers avoid the pitfall
+of focusing too heavily on the most proximate or obvious
+emission sources associated with a product’s production
+while missing major emission reduction and cost-saving
+opportunities elsewhere in the life cycle.
+Performing a product inventory can also be a proactive
+approach to assessing future risks related to life cycle
+GHG emissions. GHG regulations are already in place
+in a number of countries and may be enacted in many
+more in the future. Energy is becoming a scarcer
+resource, creating price volatility and reduced reliability. Understanding the location and amount of GHGs in a
+product’s life cycle is valuable information when assessing
+a company’s risk exposure from that product. Investors are
+becoming more wary of companies that are not evaluating
+and managing these and other GHG related risks.
+A company can better model potential future costs of
+regulations by using a product inventory to evaluate a
+product’s life cycle GHG risks.  For example, completing a 
+product inventory can increase understanding of where
+there are energy intensive operations in the life cycle.  A 
+company can then use this understanding to inform
+strategies for reducing dependency on fossil fuels, such
+as switching to a less energy intensive product material
+or increasing the use of intermodal transportation for
+product distribution. Stakeholders (e.g., investors) may
+also like to see this risk assessment publicly reported and
+there is growing demand for mandatory disclosure of
+GHG risk in some countries.
+2.2 Performance tracking
+Product inventories provide detailed information on
+the relative size and scale of emission sources within life
+cycle stages and across the entire product system. This
+information may be used to identify the largest emission
+
+--- Page 12 of 148 ---

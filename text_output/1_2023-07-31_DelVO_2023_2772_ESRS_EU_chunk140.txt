@@ -1,0 +1,48 @@
+File Name: 1_2023-07-31_DelVO_2023_2772_ESRS_EU.pdf
+Converted on: 2025-03-28 03:20:41
+Original Size: 5.82 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 140 of 284
+--------------------------------------------------------------------------------
+
+ELI: http://data.europa.eu/eli/reg_del/2023/2772/oj 143/284(c) At least 25% of agricultural land is under organic farming management, and the uptake of agro-ecological
+practices is significantly increased.
+(d) Three billion additional trees are planted in the EU, in full respect of ecological principles.
+(e) Significant progress in the remediation of contaminated soil sites
+.
+(f) At least 25 000 km of free-flowing rivers are restored.
+(g) The losses of nutrients from fertilisers are reduced by 50%, resulting in the reduction of the use of fertilisers by
+at least 20%.
+(h) The negative impacts on sensitive species and habitats, including on the seabed through fishing and extraction
+activities, are substantially reduced to achieve good environmental status.
+AR 3. If disclosing a transition plan, the undertaking may also refer to the Sustainable Development Goals, in particular:
+(a) SDG 2 - End hunger, achieve food security and improved nutrition and promote sustainable agriculture;
+(b) SDG 6 - Ensure availability and sustainable management of water and sanitation for all;
+(c) SDG 14 - Conserve and sustainably use the oceans, seas and marine resources for sustainable development;
+and
+(d) SDG 15 - Protect, restore and promote sustainable use of terrestrial ecosystems, sustainably manage forests,
+combat desertification, and halt and reverse land degradation and halt biodiversity loss.
+Impact, risk and opportunity management
+Disclosure requirements related to ESRS 2 IRO-1 – Description of the processes to identify and assess material
+biodiversity and ecosystem-related impacts, risks and opportunities
+AR 4. The materiality assessment under ESRS E4 includes the undertaking’s:
+(a) contribution to direct impact drivers on biodiversity loss (81):
+i. climate change;
+ii. land-use change (e.g., land artificialisation), freshwater -use change and sea-use change;
+iii. direct exploitation;
+iv. invasive alien species;
+v. pollution; and
+vi. others.
+(b) impacts on the state of species (i.e., species population size, species global extinction risk);
+(c) impacts on the extent and condition of ecosystems including through land degradation, desertification and
+soil sealing); and
+(d) impacts and dependencies on ecosystem services.
+AR 5. When assessing the materiality of impacts, dependencies, risks and opportunities the undertaking shall consider
+the provisions in ESRS 2 IRO-1 and ESRS 1 Chapter 3 Double materiality as the basis for sustainability disclosures and
+describe its considerations.
+(81)The direct driver climate change is to be reported under ESRS E1 Climate Change and pollution under ESRS E2 Pollution.OJ L, 22.12.2023 EN  
+
+--- Page 144 of 284 ---

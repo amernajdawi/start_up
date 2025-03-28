@@ -1,0 +1,26 @@
+File Name: 1_2023-06-27_DelVO_2023_2486_TAXURA_EU.pdf
+Converted on: 2025-03-28 03:18:09
+Original Size: 8.44 MB
+Chunk Size: 500 tokens with 50 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 243 of 380
+--------------------------------------------------------------------------------
+
+(3)OECD Guidelines for the Testing of Chemicals, Test 301 (A-F), Ready Biodegradability, version of 27.6.2023 available at: https://www.
+oecd.org/chemicalsafety/risk-assessment/1948209.pdf. OECD 301 (A-F) test is used to identify substances which are assumed to
+rapidly and ultimately biodegrade, i.e. mineralised under aerobic environmental conditions.
+(4)Higher-tier studies (OECD 308) result with so-called half-lives indicating the time after which 50 % biodegradation of the API is
+achieved. Half-lives acceptable to demonstrate sufficiently quick biodegradation, i.e. non-persistence, according to the Regulation (EC)
+No 1907/2006, Annex XIII, which is also referenced in the EMA ERA guideline, apply.
+(5)OECD Guidelines for the Testing of Chemicals, Test No 308: Aerobic and Anaerobic Transformation in Aquatic Sediment Systems,
+version of 27.6.2023 available at: https://www.oecd-ilibrary.org/environment/test-no-308-aerobic-and-anaerobic-transformation-in-
+aquatic-sediment-systems_9789264070523-en.
+(6)The Commission will review the exceptions from the prohibition from manufacturing, placing on the market or use of the substances referred to in points (f) and (g) once it will have published horizontal principles on essential use of chemicals.
+(7)The requirements under this point tackle the pollutants identified under the key environmental issues of each BREF document or the
+BAT-AEL of the relevant BAT conclusions Commission Implementing Decisions. Where BAT-AEL differentiate between ‘existing’ and
+‘new plants’, operators demonstrate compliance with BAT-AEL for new plants. When there is not a BAT-AEL range but a single value, emission levels are below such value. When the BAT-AEL range is expressed as follows: ‘<x-y unit’ (i.e. the lower-end BAT-AEL of the range is expressed as ‘lower than’), the mid-point is calculated using x and y. Averaging periods are the same as in the BAT-AEL of the
+BREF documents outlined above.
+(8)Commission Implementing Decision (EU) 2022/2427 of 6 December 2022 establishing the best available techniques (BAT)
+conclusions, under Directive 2010/75/EU of the European Parliament and of the Council on industrial emissions, for common waste

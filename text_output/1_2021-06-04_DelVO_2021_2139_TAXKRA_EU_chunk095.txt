@@ -1,0 +1,57 @@
+File Name: 1_2021-06-04_DelVO_2021_2139_TAXKRA_EU.pdf
+Converted on: 2025-03-28 03:20:30
+Original Size: 2.76 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 95 of 447
+--------------------------------------------------------------------------------
+
+--- Page 53 of 349 ---
+
+(5) Pollution prevention and control  The activity complies with the criteria set out in Appendix C to this 
+Annex.
+Emissions are within or lower than the emission levels associated with the
+best available techniques (BAT-AEL) ranges set out in the latest relevant
+best available techniques (BAT) conclusions, including the best available
+techniques (BAT) conclusions for iron and steel production (  118  ). 
+No significant cross-media effects occur.  
+(6) Protection and restoration of
+biodiversity and ecosystems  The activity complies with the criteria set out in Appendix D to this 
+Annex.  
+3.10.  Manufacture of hydrogen  
+Description of the activity  
+Manufacture of hydrogen and hydrogen-based synthetic fuels.  
+The economic activities in this category could be associated with NACE code C20.11 in accordance with the
+statistical classification of economic activities established by Regulation (EC) No 1893/2006.  
+Technical screening criteria  
+Substantial contribution to climate change mitigation  
+The activity complies with the life-cycle GHG emissions savings requirement of 73,4 % for hydrogen [resulting in
+life-cycle GHG emissions lower than 3tCO  2 e/tH  2 ] and 70 % for hydrogen-based synthetic fuels relative to a fossil 
+fuel comparator of 94 g CO  2 e/MJ in analogy to the approach set out in Article 25(2) of and Annex V to 
+Directive (EU) 2018/2001.
+Life-cycle GHG emissions savings are calculated using the methodology referred to in Article 28(5) of Directive
+(EU) 2018/2001 or, alternatively, using ISO 14067:2018 (  119  ) or ISO 14064-1:2018 (  120  ). 
+Quantified life-cycle GHG emission savings are verified in line with Article 30 of Directive (EU) 2018/2001
+where applicable, or by an independent third party.
+Where the CO  2 that would otherwise be emitted from the manufacturing process is captured for the purpose of 
+underground storage, the CO  2 is transported and stored underground, in accordance with the technical screening 
+criteria set out in Sections 5.11 and 5.12, respectively, of this Annex.  
+Do no significant harm (‘DNSH’)  
+(2) Climate change adaptation  The activity complies with the criteria set out in Appendix A to this 
+Annex.  
+(3) Sustainable use and protection of
+water and marine resources  The activity complies with the criteria set out in Appendix B to this 
+Annex.  
+(4) Transition to a circular economy  N/A  
+_____________
+( 118  ) Commission Implementing Decision 2012/135/EU of 28 February 2012 establishing the best available techniques (BAT) 
+conclusions under Directive 2010/75/EU of the European Parliament and of the Council on industrial emissions for iron and
+steel production (OJ L 70, 8.3.2012, p. 63).
+( 119  ) ISO standard 14067:2018, Greenhouse gases — Carbon footprint of products — Requirements and guidelines for quantification 
+(version of 4.6.2021: https://www.iso.org/standard/71206.html).
+( 120  ) ISO standard 14064-1:2018, Greenhouse gases — Part 1: Specification with guidance at the organization level for quantificatio n 
+and reporting of greenhouse gas emissions and removals (version of 4.6.2021: https://www.iso.org/standard/66453.html).EN  9.12.2021 Official Journal of the European Union L 442/53
+
+--- Page 54 of 349 ---

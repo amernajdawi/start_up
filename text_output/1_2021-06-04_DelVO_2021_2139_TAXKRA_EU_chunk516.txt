@@ -1,0 +1,19 @@
+File Name: 1_2021-06-04_DelVO_2021_2139_TAXKRA_EU.pdf
+Converted on: 2025-03-28 03:18:03
+Original Size: 2.76 MB
+Chunk Size: 500 tokens with 50 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 516 of 966
+--------------------------------------------------------------------------------
+
+( 129  ) Reflecting the median value of the installations in 2016 and 2017 (t CO  2 equivalents/t) of the data collected for grey cement clinker 
+in the context of establishing the Commission Implementing Regulation (EU) 2021/447, multiplied by the clinker to cement ratio
+(0.65), determined on the basis of verified information on the greenhouse gas efficiency of installations reported pursuant to
+Article 11 of Directive 2003/87/EC.  
+( 130  ) Commission Implementing Decision 2013/163/EU of 26 March 2013 establishing the best available techniques (BAT) conclusions 
+under Directive 2010/75/EU of the European Parliament and of the Council on industrial emissions for the production of cement,
+lime and magnesium oxide (OJ L 100, 9.4.2013, p. 1).  
+( 131  ) See Best Available Techniques Reference Document (BREF) on Economics and Cross-Media Effects (version of 4.6.2021: 
+https://eippcb.jrc.ec.europa.eu/sites/default/files/2019-11/ecm_bref_0706.pdf).EN  9.12.2021 Official Journal of the European Union L 442/191

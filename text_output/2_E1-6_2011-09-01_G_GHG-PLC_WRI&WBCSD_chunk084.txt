@@ -1,0 +1,73 @@
+File Name: 2_E1-6_2011-09-01_G_GHG-PLC_WRI&WBCSD.pdf
+Converted on: 2025-03-28 03:20:53
+Original Size: 3.27 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 84 of 116
+--------------------------------------------------------------------------------
+
+[109]
+guidancerequirements
+14.1 Introduction
+This standard is designed to help improve the quality and consistency of product
+inventories and public reporting with the ultimate goal of helping companies and
+other stakeholders reduce emissions of the products they design, manufacture, sell,
+purchase, and use. This step in the inventory process allows companies to set and meet
+reduction targets by consistently and accurately tracking inventory changes and identifying
+reduction opportunities.
+14.2 Requirements
+Companies can publicly report a GHG inventory in
+conformance with the Product Standard  without setting a 
+reduction target and tracking inventory changes. However,
+companies that do set reduction targets and track
+inventory changes shall abide by these requirements. To set reduction targets and track inventory changes over time, companies  shall:
+• Develop and report a base inventory that
+conforms with the requirements of this
+standard;
+ • Recalculate the base inventory when  
+significant changes in the inventory
+methodology occur and report those
+changes;  • Complete and disclose an updated 
+inventory report including the updated
+results, the base inventory results, and
+the context for significant changes; and
+ • Use a consistent unit of analysis to  enable 
+comparison and track performance over time.  
+
+--- Page 112 of 148 ---
+
+[110]   Product Life Cycle Accounting and Reporting Standardguidance
+14.3 Guidance
+14.3.1  Steps for setting reduction targets and 
+tracking changes
+Setting reduction targets and tracking changes involves
+the following steps:
+1. Complete and report a base inventory done in
+conformance with the requirements of this standard.
+2. Identify reduction opportunities.
+3. Set a reduction target.
+4. Achieve reductions and account for these by
+performing an updated inventory.
+5. Recalculate the base inventory as needed when
+significant changes in the inventory occur, including,
+but not limited to: changes in the product’s boundary;
+quality of data; and allocation or recycling methods.6. Complete and disclose an updated inventory report
+including the updated results and the base inventory
+results. Companies should report the inventory results
+as a percentage change over time on the unit of
+analysis basis.
+The following section describes each step in more detail.
+Step 1:  Complete and report a base inventory
+The first step is to ensure that a base inventory has been
+completed and publically reported in conformance with
+this standard. The base inventory does not have to be
+the first inventory a company performs on a product; for
+example, companies may want to improve data quality
+before finalizing the base inventory. Once a company has
+identified the base inventory, however, any changes made
+that warrant a recalculation should be done following the
+guidance in step 5.
+
+--- Page 113 of 148 ---

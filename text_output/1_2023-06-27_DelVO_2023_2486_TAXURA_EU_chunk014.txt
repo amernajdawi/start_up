@@ -1,0 +1,36 @@
+File Name: 1_2023-06-27_DelVO_2023_2486_TAXURA_EU.pdf
+Converted on: 2025-03-28 03:20:36
+Original Size: 8.44 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 14 of 199
+--------------------------------------------------------------------------------
+
+ELI: http://data.europa.eu/eli/reg_del/2023/2486/oj 7/164(29) The technical screening criteria for ‘do no significant harm’ to sustainable use and protection of water and marine
+resources should be specified for all activities that may hinder such sustainable use and protection. Those criteria should aim at avoiding that economic activities are detrimental to the good status or the good ecological potential
+of water bodies, including surface water and groundwater, or to the good environmental status of marine waters, by
+requiring that environmental degradation risks are identified and addressed, in accordance with a water use and protection management plan or with the Member States’ marine strategies.
+(30) The technical screening criteria for ‘do no significant harm’ to transition to a circular economy should be tailored to
+specific economic activities to ensure that those activities do not lead to inefficiencies in the use of resources or to
+lock-in linear production models, and that waste is avoided or reduced and, where unavoidable, managed in accordance with the waste hierarchy. Those criteria should also ensure that economic activities do not undermine the objective of transitioning to a circular economy.
+(31) The technical screening criteria for ‘do no significant harm’ to pollution prevention and control should reflect sector specificities to address the relevant sources and types of pollution into air, water or land, referring, where relevant, to best available techniques conclusions established under Directive 2010/75/EU of the European Parliament and of the Council (
+21).
+(32) The criteria for ‘do no significant harm’ to protection and restoration of biodiversity and ecosystems should be specified for all activities that can pose risks to the status or condition of habitats, species or ecosystems and should require that, where relevant, environmental impact assessments or other appropriate assessments are undertaken and the conclusions from such assessments are implemented. Those criteria should ensure that even in the absence
+of a requirement to perform an environmental impact assessment or other appropriate assessment, activities do not
+lead to the disturbance, capturing or killing of legally protected species or the deterioration of legally protected habitats.
+(33) As climate change is likely to affect all sectors of the economy, all sectors of the economy will need to be adapted to
+the adverse impact of the current climate and the expected future climate. Technical screening criteria for substantial
+contribution to climate change adaptation are to be therefore established in the future for all sectors and economic activities that are covered by the technical screening criteria for substantial contribution to the sustainable use and
+protection of water and marine resources, to the transition to a circular economy, to pollution prevention and
+control or to the protection and restoration of biodiversity and ecosystems set out in this Regulation.
+(34) The inclusion of new economic activities contributing to environmental objectives pursuant to Articles 12(2), 13(2),
+14(2), and 15(2) of Regulation (EU) 2020/852 will widen the coverage of disclosures laid down in Article 8 of that Regulation. Commission Delegated Regulation (EU) 2021/2178 (
+22), which was adopted on the basis of Article 8(4)
+of Regulation (EU) 2020/852, should therefore be amended to reflect that widened scope. To address certain technical and legal inconsistencies identified since the application of Delegated Regulation (EU) 2021/2178, targeted amendments should also be introduced to that Regulation.
+(35) Delegated Regulation (EU) 2021/2178 should therefore be amended accordingly.
+(21)Directive 2010/75/EU of the European Parliament and of the Council of 24 November 2010 on industrial emissions (integrated
+pollution prevention and control) (OJ L 334, 17.12.2010, p. 17).
+(22)Commission Delegated Regulation (EU) 2021/2178 of 6 July 2021 supplementing Regulation (EU) 2020/852 of the European Parliament and of the Council by specifying the content and presentation of information to be disclosed by undertakings subject to
+Articles 19a or 29a of Directive 2013/34/EU concerning environmentally sustainable economic activities, and specifying the

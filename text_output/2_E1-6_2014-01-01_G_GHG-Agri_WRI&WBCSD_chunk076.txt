@@ -1,0 +1,30 @@
+File Name: 2_E1-6_2014-01-01_G_GHG-Agri_WRI&WBCSD.pdf
+Converted on: 2025-03-28 03:18:26
+Original Size: 1.75 MB
+Chunk Size: 500 tokens with 50 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 76 of 108
+--------------------------------------------------------------------------------
+
+may be too long for certain stocks ( e . g . , soil stock changes in tropical biomes ) and too short for others ( soil stock changes in boreal biomes ) . Companies may alternatively assume more specific values used by individual countries in their national inventories12 .
+
+Companies  should account for historical LUC  
+Companies should account for historical change s in land use that occur within a certain
+‘look back’ period prior to th e base period. This look back  period should be equal in 
+length to the amortization period for the stoc k concerned (e.g., 20 years if the default
+IPCC amortization period for mineral soil or ganic stocks is used). Thus, if LUC
+happened within the 5 years pr eceding the base period, it is considered best practice to
+reflect it in the inventories for the base pe riod and later re porting periods, as needed.
+Equivalently, if the sh ift occurred more than 20 years be fore the base pe riod, it should not
+be reflected in the base period inventory.   As discussed in Chapter 6.2, the acquisition (o r divestment) of busin ess units that own 
+land can trigger base period recalculations. C stocks may be changing on the newly-
+transferred land as a result of land use ch anges introduced by the prior land-owner.
+
+11 2006 IPCC Guidelines for National Greenhouse Gas Inventories , Volume 4.
+12 See http://unfccc.int/national_reports/annex_i_ghg_inventories/items/2715.php .  
+
+--- Page 68 of 103 ---
+
+GHG Protocol Agricultural Guidance

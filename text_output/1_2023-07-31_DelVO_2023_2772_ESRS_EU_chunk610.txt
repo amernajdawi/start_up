@@ -1,0 +1,51 @@
+File Name: 1_2023-07-31_DelVO_2023_2772_ESRS_EU.pdf
+Converted on: 2025-03-28 03:18:14
+Original Size: 5.82 MB
+Chunk Size: 500 tokens with 50 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 610 of 686
+--------------------------------------------------------------------------------
+
+--- Page 255 of 284 ---
+
+ELI: http://data.europa.eu/eli/reg_del/2023/2772/oj 255/284ANNEX II
+ACRONYMS AND GLOSSARY OF TERMS
+This Annex presents all the acronyms found in the ESRS (Table 1) as well as all terms defined in the ESRS (Table 2).
+Table 1
+Acronyms
+AMS Automated Measuring Systems
+AQI Air Quality Indices
+AR Application Requirements
+AWS Alliance for Water Stewardship
+BAT Best Available Technique
+BAT-AEL Best Available Technique-Associated Emission Level
+BAT-AEPL Best Available Technique-Associated Environmental Performance Level
+BREFs Best Available Techniques Reference Documents
+Btu British Thermal Units
+CapEx Capital Expenditure
+CBD Convention for Biological Diversity
+CDDA Common Database on Designated Areas
+CEN European Committee for Standardization
+CENELEC European Committee for Electrotechnical Standardization
+CH4 Methane
+CICES Common International Classification of Ecosystem Services
+C02 Carbon Dioxide
+CRR Regulation (EU) 757/2013 of the European Parliament and of the Council (1)(Capital
+Requirements Regulation)
+DEGURBA Degree of Urbanisation
+DR BP-1 Disclosure Requirement - General basis for preparation of the sustainability statements
+DR BP-2 Disclosure Requirement - Disclosures in relation to specific circumstances
+DR GOV-1 Disclosure Requirement - The role of the administrative, management and supervisory
+bodies
+DR GOV-2 Disclosure Requirement - Information provided to and sustainability matters addressed by
+the undertaking’s administrative, management and supervisory bodies
+DR GOV-3 Disclosure Requirement - Integration of sustainability- related performance in incentive
+schemes
+DR GOV-4 Disclosure Requirement - Statement on sustainability due diligence
+DR GOV-5 Disclosure Requirement - Risk management and internal controls over sustainability reporting
+(1)Regulation (EU) 757/2013 of the European Parliament and of the Council of 26 June 2013 on prudential requirements for credit
+institutions and investment firms and amending Regulation (EU) 648/2012 (OJ L 176, 27.6.2013, p. 1).OJ L, 22.12.2023 EN  
+
+--- Page 256 of 284 ---

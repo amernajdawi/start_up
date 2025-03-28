@@ -1,0 +1,52 @@
+File Name: 2_E1-6_2006-01-01_GHG-LuLu_WRI&WBCSD.pdf
+Converted on: 2025-03-28 01:56:20
+Original Size: 6.41 MB
+Chunk Size: 400 tokens with 50 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 111 of 118
+--------------------------------------------------------------------------------
+
+PARTIV:References
+93 C H A P T E R 1 0 : M O N I T O R I N G A N D
+Q U A N T I F Y I N G G H G R E D U C T I O N S
+IntergovernmentalPanelonClimateChange(IPCC).2003.
+GoodPracticeGuidanceforLandUse,Land-UseChange
+andForestry,editedbyJ.Penmanetal.Hayama:Institute
+forGlobalEnvironmental Strategies(alsoavailableat
+http://www.ipcc-nggip.iges.or.jp).
+InternationalPanelonClimateChange(IPCC).2006.2006
+IPCCGuidelinesforNationalGreenhouseGasInventories,
+editedbyS.Egglestonetal.Hayama:InstituteforGlobal
+EnvironmentalStrategies.
+MacDicken,K.G.1997.AGuidetoMonitoring Carbon
+StorageinForestryandAgroforestryProjects.Arlington,
+Va.:WinrockInternational (alsoavailableat
+www.winrock.org).
+Pearson,T.,S.Walker,andS.Brown.2005.Sourcebook
+forLandUse,Land-UseChangeandForestryProjects.
+Washington, D.C.:BioCarbonFundandWinrock
+International.
+C H A P T E R 1 1 : C A R B O N R E V E R S I B I L I T Y
+M A N A G E M E N T P L A N
+Subak,S.2003.ReplacingCarbonLostfromForests:An
+AssessmentofInsurance,Reserves,andExpiringCredits.
+ClimatePolicy130:1–17.
+P A R T I I I : E X A M P L E
+NIPAWINAFFORESTATIO NPROJECT
+Boehm,M.,B.Junkins,R.Desjardins,S.Kulshreshtha,and
+W.Lindwall.2004.SinkPotentialofCanadianAgricultural
+Soils.ClimaticChange 65:297–314.
+Campbell,C.A.,R.P.Zenter,S.Gameda,B.Blomert,D.D.
+Wall.2002.ProductionofannualcropsontheCanadian
+prairies:Trendsduring1976-1998.Can.J.SoilSci.82:
+45–57.
+EnvironmentCanada.2004.CanadianClimateNormals
+1971–2000: Nipawin,Saskatchewan. Created6/21/02,
+modifiedandreviewed2/25/04.Availableat
+http://www.climate.weatheroffice.ec.gc.ca/climate_normals/
+results_e.html
+Graham,P.E.2006.OffsetSystemQuantificationProtocol
+forAfforestationProjects.Unpublishedreport.Ottawa:
+NaturalResourcesCanada.

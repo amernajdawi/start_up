@@ -1,0 +1,49 @@
+File Name: 1_2023-07-31_DelVO_2023_2772_ESRS_EU.pdf
+Converted on: 2025-03-28 03:20:41
+Original Size: 5.82 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 83 of 284
+--------------------------------------------------------------------------------
+
+ELI: http://data.europa.eu/eli/reg_del/2023/2772/oj 86/284Appendix A
+Application Requirements
+This Appendix is an integral part of the ESRS E1. It supports the application of the disclosure requirements set out in this
+standard and has the same authority as the other parts of the Standard.
+Strategy
+Disclosure Requirement E1-1 – Transition plan for climate change mitigation
+AR 1. A transition plan relates to the undertaking’s efforts in climate change mitigation. When disclosing its transition
+plan, the undertaking is expected to provide a high-level explanation of how it will adjust its strategy and business
+model to ensure compatibility with the transition to a sustainable economy and with the limiting of global
+warming to 1.5°C in line with the Paris Agreement (or an updated inter national agreement on climate change)
+and the objective of achieving climate neutrality by 2050 with no or limited overshoot as established in
+Regulation (EU) 2021/1119 (European Climate Law), and where applicable, how it will adjust its exposure to coal,
+and oil and gas-related activities.
+AR 2. Sectoral pathways have not yet been defined by the public policies for all sectors. Hence, the disclosure under
+paragraph 16 (a) on the compatibility of the transition plan with the objective of limiting global warming to 1.5°
+C should be understood as the disclosure of the undertaking’s GHG emissions reduction target . The disclosure
+under paragraph 16 (a) shall be benchmarked in relation to a pathway to 1.5°C. This benchmark should be based
+on either a sectoral decarbonisation pathway if available for the undertaking’s sector or an economy-wide
+scenario bearing in mind its limitations (i.e., it is a simple translation of emission reduction objectives from the
+state to undertaking level). This AR should be read also in conjunction with AR 26 and AR 27 and the sectoral decarbonisation pathways they refer to.
+AR 3. When disclosing the information required under paragraph 16(d) the undertaking may consider:
+(a) the cumulative locked-in GHG emissions associated with key assets from the reporting year until 2030
+and 2050 in tCO2eq. This will be assessed as the sum of the estimated Scopes 1 and 2 GHG emissions over the operating lifetime of the active and firmly planned key assets. Key assets are those owned or controlled by
+the undertaking, and they consist of existing or planned assets (such as stationary or mobile installations,
+facilities, and equipment) that are sources of either significant direct or energy-indirect GHG emissions. Firmly
+planned key assets are those that the undertaking will most likely deploy within the next 5 years.
+(b) the cumulative locked-in GHG emissions associated with the direct use-phase GHG emissions of sold products
+in tCO2eq, assessed as the sales volume of products in the reporting year multiplied by the sum of estimated
+direct use-phase GHG emissions over their expected lifetime. This requirement only applies if the undertaking
+has identified the Scope 3 category “use of sold products” as significant under Disclosure Requirement E1-6
+paragraph 51; and
+(c) an explanation of the plans to manage, i.e., to transform, decommission or phase out its GHG-intensive and energy-intensive assets and products.
+AR 4. When disclosing the information required under paragraph 16 (e), the undertaking shall explain how the
+alignment of its economic activities with the provisions of Commission Delegated Regulation (EU) 2021/2139 is
+expected to evolve over time to support its transition to a sustainable economy. In doing so, the undertaking shall
+take account of the key performance indicators required to be disclosed under Article 8 of Regulation
+(EU) 2020/852 (in particular taxonomy-aligned revenue and CapEx and, if applicable, CapEx plans).OJ L, 22.12.2023 EN  
+
+--- Page 87 of 284 ---

@@ -1,0 +1,52 @@
+File Name: 2_E1-6_2011-09-01_G_GHG-PLC_WRI&WBCSD.pdf
+Converted on: 2025-03-28 01:56:27
+Original Size: 3.27 MB
+Chunk Size: 400 tokens with 50 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 227 of 270
+--------------------------------------------------------------------------------
+
+As table B.2 suggests, around 27 percent of the overall
+land-use growth could potentially come from the
+conversion of other cropland where area is decreasing.
+Therefore the company may assume that 72 percent
+of the palm oil produced in Malaysia comes from
+areas converted from a different land category.  This 
+assumption should not be made if the total area of
+cropland is decreasing, or if the country has specific
+efforts in place to convert degraded cropland to pasture
+land or another type of land category. In these cases, the
+decrease in other cropland may be due to those efforts
+and conversion to the studied product.  4500
+4000
+3500
+3000
+2500
+2000
+1500
+1000
+500
+0
+1990
+1995
+2000
+2005
+year710
+700
+690
+680
+670
+660
+650
+640
+630
+620
+610
+1990
+1995
+2000
+2005area harvested (1000 ha)
+area harvested (1000 ha)
+yearAppendix	B.	 Land-Use Change Impacts

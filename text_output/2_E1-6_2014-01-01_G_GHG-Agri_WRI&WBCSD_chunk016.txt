@@ -1,0 +1,75 @@
+File Name: 2_E1-6_2014-01-01_G_GHG-Agri_WRI&WBCSD.pdf
+Converted on: 2025-03-28 03:20:54
+Original Size: 1.75 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 16 of 65
+--------------------------------------------------------------------------------
+
+The revenue from offset credits  is often mentioned as a leading reason for why 
+agricultural companies should become interested in managing their GHG fluxes. Soil C
+sequestration, in particular, is considered an  important potential source of offset credits 
+because it offers most (~89%) of the global potential for reducing the emissions from
+agriculture (Smith et al., 2007b). The Corporat e Standard, and therefore this Guidance,
+do not address the accounting steps needed to cr eate offset credits from soils, biomass or
+other sources located on farms. For exampl e, this Guidance does not consider the
+permanence of C sequestration. Instead, fluxes to/from C stocks are simply reported as
+they occur (or projected to occur5) and there is no considera tion of policy measures to
+ensure the permanence of sequestered C (e.g., insurance mechanisms, project buffers, etc.). For such guidance reader s should instead refer to the Project Protocol and its
+companion document, the Land Use, Land-Use Change, and Forestry Guidance for GHG
+Project Accounting .  
+1.8  How was this Guidance developed?   
+This Guidance is the culmination of an intern ational, three-year st akeholder consultation
+process that involved over 150 Techni cal Working Group (TWG) members from
+businesses, government agencies, NGOs, and acad emic institutions. Milestones include:
+ January, 2011: Publicatio n of WRI Working Paper
+ March, 2011: Formation of TWG
+ January, 2012: First draft of Guidance
+ April, 2012: Stakeholder workshop in Washington, DC
+ August, 2012: Second draft of Guidance
+ September, 2012: TWG workshop in Sao Paulo
+ January, 2013: TWG workshop in Sao Paulo
+ March – August, 2013: Road testin g and public open comment period
+ October, 2013: Third draft of Guidance  
+
+5 Chapter 8 describes how projected changes in C stocks can be calculated and reflected in inventories.    
+
+--- Page 17 of 103 ---
+
+GHG Protocol Agricultural Guidance
+
+17
+ Chapter 2: Business goals  
+The development of a GHG inventory can be a significant undertaking. Companies
+should therefore have clearly defined goals for managing their GHG fluxes and
+understand how inventories will allow them to  meet those goals. Companies generally 
+want their GHG inventories to be capable of  serving multiple goals. It therefore makes 
+sense to design the inventory process from th e outset to provide information for a variety
+of different users and uses – both current and future.  
+
+This chapter:
+ Reviews the various goals that GHG emi ssions inventories can help companies
+meet.  
+ Describes the potential economic and envi ronmental benefits from a range of
+GHG reduction measures.
+
+2.1 Overview of business goals
+Agricultural companies can have diverse reasons for developing inventories. These
+reasons generally involve (Table 2-1):
+ Identifying opportunities to reduce GHG emissi ons (or sequester C), setting baselines
+and reduction targets, and tracking performance.  
+ Identifying opportunities to reduce costs a nd increase productivity  (e.g., conservation 
+tillage and cover cropp ing can help to reduce fertilizer and fuel costs; Table 2-2).  
+ Managing reputational risks and opportuni ties associated wi th agricultural GHG
+fluxes (e.g., meeting the requirements of buye rs such as processors and food and
+drink companies, and repo rting to civil society).
+ A desire to sustain farmlands for future generations.
+
+GHG emissions reduction measures may also offer co-benefits such as:
+ Reduced erosion and land degradation
+ Reduced phosphorous (P) and nitrogen (N) runoff  
+ Improved water quality and retention
+ Control of air pollutants (e.g, ammonia and hydrogen sulphide)
+ Increased soil fertility

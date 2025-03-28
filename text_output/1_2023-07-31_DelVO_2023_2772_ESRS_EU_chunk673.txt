@@ -1,0 +1,17 @@
+File Name: 1_2023-07-31_DelVO_2023_2772_ESRS_EU.pdf
+Converted on: 2025-03-28 03:18:14
+Original Size: 5.82 MB
+Chunk Size: 500 tokens with 50 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 673 of 686
+--------------------------------------------------------------------------------
+
+(34)Directive 2010/75/EU on industrial emissions (IED).
+(35)Regulation (EC) No 1907/2006 of the European Parliament and of the Council of 18 December 2006 concerning the Registration,
+Evaluation, Authorisation and Restriction of Chemicals (REACH), establishing a European Chemicals Agency, amending Directive
+1999/45/EC and repealing Council Regulation (EEC) No 793/93 and Commission Regulation (EC) No 1488/94 as well as Council Directive 76/769/EEC and Commission Directives 91/155/EEC, 93/67/EEC, 93/105/EC and 2000/21/EC (OJ L 396, 30.12.2006, p. 1)
+(36)Regulation (EC) No 1272/2008 of the European Parliament and of the Council of 16 December 2008 on classification, labelling and
+packaging of substances and mixtures, amending and repealing Directives 67/548/EEC and 1999/45/EC, and amending Regulation
+(EC) No 1907/2006 (OJ L 353, 31.12.2008, p. 1).OJ L, 22.12.2023 EN

@@ -1,0 +1,53 @@
+File Name: 1_2021-06-04_DelVO_2021_2139_TAXKRA_EU.pdf
+Converted on: 2025-03-28 03:20:30
+Original Size: 2.76 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 183 of 447
+--------------------------------------------------------------------------------
+
+Where the researched, developed or innovated technology, product or other solution is at TRL 8 or higher, life-
+cycle GHG emissions are calculated using Recommendation 2013/179/EU or, alternatively, using
+ISO 14067:2018 (  316  ) or ISO 14064-1:2018 (  317  ) and are verified by an independent third party.  
+Do no significant harm (‘DNSH’)  
+(2) Climate change adaptation  The researched technology, product or other solution complies with the 
+criteria set out in Appendix A to this Annex.  
+(3) Sustainable use and protection of
+water and marine resources  Any potential risks to the good status or the good ecological potential of 
+bodies of water, including surface water and groundwater, or to the good
+environmental status of marine waters from the researched technology,
+product or other solution are evaluated and addressed.  
+(4) Transition to a circular economy  Any potential risks to the circular economy objectives from the researched 
+technology, product or other solution are evaluated and addressed, by
+considering the types of potential significant harm as set out in
+Article 17(1), point. (d), of Regulation (EU) 2020/852.  
+(5) Pollution prevention and control  Any potential risks to generate a significant increase in the emissions of 
+pollutants to air, water or land from the researched technology, product or
+other solution are evaluated and addressed.  
+(6) Protection and restoration of
+biodiversity and ecosystems  Any potential risks to the good condition or resilience of ecosystems or to 
+the conservation status of habitats and species, including those of Union
+interest, from the researched technology, product or other solution are
+evaluated and addressed.  
+9.2.  Research, development and innovation for direct air capture of CO  2 
+Description of the activity  
+Research, applied research and experimental development of solutions, processes, technologies, business models
+and other products dedicated to the direct air capture of CO  2 in the atmosphere.  
+The economic activities in this category could be associated with several NACE codes, in particular M71.1.2 and
+M72.1 in accordance with the statistical classification of economic activities established by Regulation (EC)
+No 1893/2006.  
+An economic activity in this category is an enabling activity as referred to in Article 10(1), point (i), of Regulation
+(EU) 2020/852 where it complies with the technical screening criteria set out in this Section.  
+Technical screening criteria  
+Substantial contribution to climate change mitigation  
+1. The activity researches, develops or provides innovation for technologies, products or other solutions that
+are dedicated to the direct air capture of CO  2 in the atmosphere.  
+_____________
+( 316  ) ISO standard 14067:2018, Greenhouse gases — Carbon footprint of products — Requirements and guidelines for quantification 
+(version of 4.6.2021: https://www.iso.org/standard/71206.html).
+( 317  ) ISO standard 14064-1:2018, Greenhouse gases — Part 1: Specification with guidance at the organization level for quantificatio n 
+and reporting of greenhouse gas emissions and removals (version of 4.6.2021: https://www.iso.org/standard/66453.html.)EN  9.12.2021 Official Journal of the European Union L 442/137
+
+--- Page 138 of 349 ---

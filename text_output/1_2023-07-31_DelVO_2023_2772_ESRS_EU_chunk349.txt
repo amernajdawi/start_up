@@ -1,0 +1,37 @@
+File Name: 1_2023-07-31_DelVO_2023_2772_ESRS_EU.pdf
+Converted on: 2025-03-28 03:18:14
+Original Size: 5.82 MB
+Chunk Size: 500 tokens with 50 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 349 of 686
+--------------------------------------------------------------------------------
+
+ELI: http://data.europa.eu/eli/reg_del/2023/2772/oj 150/284judgment can be used where data gaps exist. The methodology shall be sufficiently detailed to allow for meaningful
+comparison of impacts and mitigation activities over time. Information gathering processes and definitions must
+be systematically applied. This enables a meaningful review of the undertaking’s performance over time and helps
+internal and peer comparison.
+AR 29. If a metric corresponds to a target, the baseline for both shall be aligned. The biodiversity baseline is an essential
+component of the larger biodiversity and ecosystems management process. The baseline is necessary to inform
+impact assessment and management planning, as well as monitoring and adaptive management.
+AR 30. Methodologies available to collect data and measure the undertakings’ impacts on biodiversity and ecosystems
+may be separated into three categories as follows:
+(a) primary data: collected in-situ using on the ground surveys;
+(b) secondary data: including geospatial data layers that are overlaid with geographic location data of business
+activities.
+i.At the species level, data layers on the ranges of different species can be used to predict the species that may
+be present at different locations. This includes operation sites and sourcing locations. Different range layers
+will have different levels of accuracy depending on certain factors (e.g., whether species ranges have been
+refined based on availability of habitat
+). Information on the threat status of the species, and the activities
+that threaten them, can provide an indication of the likely contribution that business activities may be having on driving population trends and threat status.
+ii.At the ecosystem level, data layers reflecting change in the extent and condition of ecosystems can be
+applied, including levels of habitat fragmentation and connectivity.
+(c) modelled biodiversity state data: Model-based approaches are commonly used for measuring ecosystem level indicators (e.g., extent, condition, or function). Models quantify how the magnitude of different pressures
+affects the state of biodiversity. These are referred to as pressure-state relationships and are based on globally
+collected data. Modelling results are applied locally to estimate how undertaking-level pressures will cause
+changes in ecosystem condition.An impact driver generally has three main characteristics: magnitude (e.g.,
+amount of contaminant, noise intensity), spatial extent (e.g., area of land contaminated) and temporal extent
+(duration of persistence of contaminant).
+AR 31. With regard to life cycle assessment for land-use, the undertaking may refer to the “Land-use related environmental

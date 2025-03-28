@@ -1,0 +1,43 @@
+File Name: 1_2023-07-31_DelVO_2023_2772_ESRS_EU.pdf
+Converted on: 2025-03-28 03:18:14
+Original Size: 5.82 MB
+Chunk Size: 500 tokens with 50 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 596 of 686
+--------------------------------------------------------------------------------
+
+ELI: http://data.europa.eu/eli/reg_del/2023/2772/oj 249/284Disclosure Requirement G1-3 – Prevention and detection of corruption and bribery
+16. The undertaking shall provide information about its system to prevent and detect, investigate, and respond to
+allegations or incidents relating to corruption and bribery including the related training.
+17. The objective of this Disclosure Requirement is to provide transparency on the key procedures of the undertaking to
+prevent, detect, and address allegations about corruption and bribery . This includes the training provided to own
+workers and/or information provided internally or to suppliers
+.
+18. The disclosure required under paragraph 16 shall include the following information:
+(a) a description of the procedures in place to prevent, detect, and address allegations or incidents of corruption and
+bribery ;
+(b) whether the investigators or investigating committee are separate from the chain of management involved in the
+matter; and
+(c) the process, if any, to report outcomes to the administrative, management and supervisory bodies.
+19. Where the undertaking has no such procedures in place, it shall disclose this fact and, where applicable, its plans to adopt them.
+20. The disclosures required by paragraph 16 shall include information about how the undertaking communicates its
+policies to those for whom they are relevant to ensure that the policy is accessible and that they understand its
+implications.
+21. The disclosure required by paragraph 16 shall include information about the following with respect to training:
+(a) the nature, scope and depth of anti-corruption and anti-bribery training programmes offered or required by the
+undertaking;
+(b) the percentage of functions-at-risk covered by training programmes; and
+(c) the extent to which training is given to members of the administrative, management and supervisory bodies.
+Metrics and targets
+Disclosure Requirement G1-4 – Incidents of corruption or bribery
+22. The undertaking shall provide information on incidents of corruption or bribery during the reporting period.
+23. The objective of this Disclosure Requirement is to provide transparency on the incidents relating to corruption or
+bribery during the reporting period and the related outcomes.
+24. The undertaking shall disclose:
+(a) the number of convictions and the amount of fines for violation of anti-corruption and anti- bribery laws (
+123);
+and
+(123)This information supports the information needs of: financial market participants subject to Regulation (EU) 2019/2088 because it is
+derived from an additional indicator related to principal adverse impacts set out in indicator #17 of Table III of Annex I of

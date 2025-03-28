@@ -1,0 +1,53 @@
+File Name: 2_ESRS2_SBM1_2006-12-20_VO_NACER2_EU.pdf
+Converted on: 2025-03-28 03:20:56
+Original Size: 0.17 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 20 of 45
+--------------------------------------------------------------------------------
+
+n.e.c. : not elsewhere classified * part of
+Division Group ClassISIC
+Rev. 4
+26.8 Manufacture of magnetic and optical media
+26.80 Manufacture of magnetic and optical media 2680
+27 Manufacture of electrical equipment
+27.1 Manufacture of electric motors, generators, transformers and electricity
+distribution and control apparatus
+27.11 Manufacture of electric motors, generators and transformers 2710*27.12 Manufacture of electricity distribution and control apparatus 2710*
+27.2 Manufacture of batteries and accumulators
+27.20 Manufacture of batteries and accumulators 2720
+27.3 Manufacture of wiring and wiring devices
+27.31 Manufacture of fibre optic cables 273127.32 Manufacture of other electronic and electric wires and cables 273227.33 Manufacture of wiring devices 2733
+27.4 Manufacture of electric lighting equipment
+27.40 Manufacture of electric lighting equipment 2740
+27.5 Manufacture of domestic appliances
+27.51 Manufacture of electric domestic appliances 2750*
+27.52 Manufacture of non-electric domestic appliances 2750*
+27.9 Manufacture of other electrical equipment
+27.90 Manufacture of other electrical equipment 2790
+28 Manufacture of machinery and equipment n.e.c.
+28.1 Manufacture of general —purpose machinery
+28.11 Manufacture of engines and turbines, except aircraft, vehicle and cycle
+engines2811
+28.12 Manufacture of fluid power equipment 2812
+28.13 Manufacture of other pumps and compressors 2813*
+28.14 Manufacture of other taps and valves 2813*28.15 Manufacture of bearings, gears, gearing and driving elements 2814
+28.2 Manufacture of other general-purpose machinery
+28.21 Manufacture of ovens, furnaces and furnace burners 2815
+28.22 Manufacture of lifting and handling equipment 281628.23 Manufacture of office machinery and equipment (except computers
+and peripheral equipment)2817
+28.24 Manufacture of power-driven hand tools 2818
+28.25 Manufacture of non-domestic cooling and ventilation equipment 2819*28.29 Manufacture of other general-purpose machinery n.e.c. 2819*
+28.3 Manufacture of agricultural and forestry machinery
+28.30 Manufacture of agricultural and forestry machinery 2821
+28.4 Manufacture of metal forming machinery and machine tools
+28.41 Manufacture of metal forming machinery 2822*28.49 Manufacture of other machine tools 2822*
+28.9 Manufacture of other special-purpose machinery
+28.91 Manufacture of machinery for metallurgy 282328.92 Manufacture of machinery for mining, quarrying and construction 282428.93 Manufacture of machinery for food, beverage and tobacco processing 2825
+28.94 Manufacture of machinery for textile, apparel and leather production 2826
+28.95 Manufacture of machinery for paper and paperboard production 2829*L 393/14 EN Official Journal of the European Union 30.12.2006
+
+--- Page 15 of 39 ---

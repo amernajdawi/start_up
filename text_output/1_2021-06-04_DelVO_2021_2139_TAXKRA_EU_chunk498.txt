@@ -1,0 +1,13 @@
+File Name: 1_2021-06-04_DelVO_2021_2139_TAXKRA_EU.pdf
+Converted on: 2025-03-28 03:18:03
+Original Size: 2.76 MB
+Chunk Size: 500 tokens with 50 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 498 of 966
+--------------------------------------------------------------------------------
+
+with Regulation (EU) 2017/1369 and the delegated acts adopted under that Regulation;EN  9.12.2021 Official Journal of the European Union L 442/185  
+( 109  ) Where relevant, the U-value is calculated according to the applicable standards, e.g. EN ISO 10077-1:2017 (windows and doors) , 
+EN ISO 12631:2017 (curtain walls) and EN ISO 6946:2017 (other building components and elements).

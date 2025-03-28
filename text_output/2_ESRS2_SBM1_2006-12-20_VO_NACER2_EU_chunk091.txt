@@ -1,0 +1,21 @@
+File Name: 2_ESRS2_SBM1_2006-12-20_VO_NACER2_EU.pdf
+Converted on: 2025-03-28 01:56:34
+Original Size: 0.17 MB
+Chunk Size: 400 tokens with 50 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 91 of 109
+--------------------------------------------------------------------------------
+
+following groups or classes of NACE Rev. 2 respectively CPA: 07.2, 24.46, 25.4, 30.1, 30.3, 30.4 and 38.3. Thelist of activities may be revised in accordance with the procedure laid down in Article 18.
+11. The variable on import prices (No 340) is calculated on the basis of CPA products. The importing kind-of-
+activity units may be classified outside the activities of Sections B to E of NACE Rev. 2.’.
+1.4. In Annex A, point (f) (‘Level of detail’), paragraphs 1 and 2 shall be replaced by the following:
+‘1. All variables, except the import price variable (No 340), are to be transmitted at the Section (1 letter) and
+Division 2-digit level of NACE Rev. 2. The variable 340 is to be reported at the Section (1 letter) and Division 2-
+digit level of CPA.
+2. In addition, for Section C of NACE Rev. 2, the index of production (No 110) and the index of output prices
+(No 310, 311, 312) are to be transmitted at the 3-digit and 4-digit levels of NACE Rev. 2. The transmitted indicesfor production and output prices at the 3-digit and 4-digit levels must represent at least 90 % of the total valueadded for each Member State of Section C of NACE Rev. 2. in a given base year. The variables need not betransmitted at these detailed levels by those Member States whose total value added of Section C of NACE Rev. 2
+in a given base year represents less than 4 % of the European Community total.’ .
+1.5. In Annex A, point (f) (‘Level of detail’), paragraph 3, ‘NACE Rev. 1’ shall be replaced by ‘NACE Rev. 2’ .

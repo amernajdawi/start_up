@@ -1,0 +1,33 @@
+File Name: 1_2021-06-04_DelVO_2021_2139_TAXKRA_EU.pdf
+Converted on: 2025-03-28 01:55:25
+Original Size: 2.76 MB
+Chunk Size: 400 tokens with 50 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 1075 of 1091
+--------------------------------------------------------------------------------
+
+water and marine resources  N/A  
+(4) Transition to a circular economy  N/A  
+(5) Pollution prevention and control  N/A  
+(6) Protection and restoration of
+biodiversity and ecosystems  N/A  
+13.2.  Libraries, archives, museums and cultural activities  
+Description of the activity  
+Libraries, archives, museums and cultural activities includes the activities of libraries and archives, the operation of
+museums of all kinds, botanical and zoological gardens, the operation of historical sites and nature reserves
+activities. These activities also include the preservation and exhibition of objects, sites and natural wonders of
+historical, cultural or educational interest, including world heritage sites. These activities exclude sports and
+amusement and recreation activities such as the operation of bathing beaches and recreation parks.  
+___________  
+( 655  ) Assessments Reports on Climate Change: Impacts, Adaptation and Vulnerability, published periodically by the Intergovernmental  
+Panel on Climate Change (IPCC), the United Nations body for assessing the science related to climate change produces,
+https://www.ipcc.ch/reports/.  
+( 656  ) Such as Copernicus services managed by the European Commission.  
+( 657  ) Nature-based solutions are defined as ‘solutions that are inspired and supported by nature, which are cost-effective, simulta neously 
+provide environmental, social and economic benefits and help build resilience. Such solutions bring more, and more diverse, nat ure
+and natural features and processes into cities, landscapes and seascapes, through locally adapted, resource-efficient and syste mic
+interventions’. Therefore, nature-based solutions benefit biodiversity and support the delivery of a range of ecosystem service s
+(version of 4.6.2021: https://ec.europa.eu/info/research-and-innovation/research-area/environment/nature-based-solutions_en/).  
+( 658  ) See Communication from the Commission to the European Parliament, the Council, the European Economic and Social Committee

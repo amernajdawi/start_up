@@ -1,0 +1,36 @@
+File Name: 2_ESRS2_SBM1_2006-12-20_VO_NACER2_EU.pdf
+Converted on: 2025-03-28 03:20:56
+Original Size: 0.17 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 43 of 45
+--------------------------------------------------------------------------------
+
+3.3. In Annex C, point (g) (‘Deadlines for data transmission’), paragraphs 1, 2 and 3 shall be replaced by the following:
+‘1. The variables shall be transmitted for turnover (No 120) and the deflator of sales/volume of sales (No 330/123)
+within two months at the levels of detail specified in paragraph 2 under heading (f) of this Annex. The deadlinemay be up to 15 days longer for those Member States whose turnover in Division 47 of NACE Rev. 2 in a givenbase year represents less than 3 % of the European Community total.
+2. The variables shall be transmitted for turnover (No 120) and the deflator of sales/volume of sales (No 330/123)
+within one month for the level of detail specified in paragraph 3 under heading (f) of this Annex. Member States
+may choose to participate for the turnover and deflator of sales/volume of sales variables No 120 and 330/123with contributions according to the allocation of a European sample scheme as defined in point (d) of the firstsubparagraph of Article 4(2). The terms of the allocation are to be determined in accordance with the procedurelaid down in Article 18.
+3. The number of persons employed variable shall be transmitted within 2 months after the end of the reference
+period. The deadline may be up to 15 days longer for those Member States whose turnover in Division 47 ofNACE Rev. 2 in a given base year represents less than 3 % of the European Community total.’.
+3.4. The following sentence shall be added to Annex C, point (i) (‘First reference year ’):
+‘The first reference period for which all variables are to be transmitted in NACE Rev. 2 is January 2009 for monthly
+data and the first quarter 2009 for quarterly data.’.
+4. Annex D
+4.1. In Annex D, point (a) (‘Scope’) shall be replaced by the following:
+‘(a) ScopeThis Annex applies to all activities listed in Divisions 45 and 46 and Sections H to N and P to S of NACE Rev. 2.’.
+4.2. In Annex D, point (c) (‘List of variables’) point 4 (d): ‘NACE’ shall be replaced by ‘NACE Rev. 2’.
+4.3. In Annex D, point (f) (‘Level of detail’), points 1, 2, 3, 4 and 5 shall be replaced by the following:
+‘1. The turnover variable (No 120) is to be transmitted according to the following groupings of NACE Rev. 2:
+46 at three-digit;45, 45.2, 49, 50, 51, 52, 53, 58, 59, 60, 61, 62, 63, 71, 73, 74, 78, 79, 80, 81.2, 82;sum of (45.1, 45.3 and 45.4);sum of (55 and 56);sum of (69 and 70.2).
+2. The persons employed variable (No 210) is to be transmitted according to the following groupings of NACE Rev.
+2:
+Divisions 45, 46, 49, 50, 51, 52, 53, 58, 59, 60, 61, 62, 63;
+sum of (69, 70.2, 71, 73 and 74);sum of (55 and 56);sum of (78, 79, 80, 81.2 and 82).
+3. For Divisions 45 and 46 of NACE Rev. 2, the turnover variable need only be transmitted at the 2 digit level by
+those Member States whose turnover in those Divisions of NACE Rev. 2 in a given base year represents less than4 % of the European Community total.30.12.2006 EN Official Journal of the European Union L 393/35
+
+--- Page 36 of 39 ---

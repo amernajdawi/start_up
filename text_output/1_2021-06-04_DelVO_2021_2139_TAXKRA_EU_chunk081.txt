@@ -1,0 +1,47 @@
+File Name: 1_2021-06-04_DelVO_2021_2139_TAXKRA_EU.pdf
+Converted on: 2025-03-28 03:20:30
+Original Size: 2.76 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 81 of 447
+--------------------------------------------------------------------------------
+
+(4) Transition to a circular economy  The activity assesses the availability of and, where feasible, adopts tech ­
+niques that support:
+(a) reuse and use of secondary raw materials and re-used components in
+products manufactured;
+(b) design for high durability, recyclability, easy disassembly and adapt ­
+ability of products manufactured;
+(c) waste management that prioritises recycling over disposal, in the
+manufacturing process;
+(d) information on and traceability of substances of concern throughout
+the life cycle of the manufactured products.  
+(5) Pollution prevention and control  The activity complies with the criteria set out in Appendix C to this 
+Annex.  
+(6) Protection and restoration of
+biodiversity and ecosystems  The activity complies with the criteria set out in Appendix D to this 
+Annex.  
+3.3.  Manufacture of low carbon technologies for transport  
+Description of the activity  
+Manufacture, repair, maintenance, retrofitting, repurposing and upgrade of low carbon transport vehicles, rolling
+stock and vessels.  
+The economic activities in this category could be associated with several NACE codes, in particular C29.1, C30.1,
+C30.2, C30.9, C33.15, C33.17 in accordance with the statistical classification of economic activities established by
+Regulation (EC) No 1893/2006.  
+An economic activity in this category is an enabling activity in accordance with Article 10(1), point (i), of
+Regulation (EU) 2020/852 where it complies with the technical screening criteria set out in this Section.  
+Technical screening criteria  
+Substantial contribution to climate change mitigation  
+The economic activity manufactures, repairs, maintains, retrofits (  74 ), repurposes or upgrades: 
+(a) trains, passenger coaches and wagons that have zero direct (tailpipe) CO  2 emissions; 
+(b) trains, passenger coaches and wagons that have zero direct tailpipe CO  2 emission when operated on a track 
+with necessary infrastructure, and use a conventional engine where such infrastructure is not available
+(bimode);
+(c) urban, suburban and road passenger transport devices, where the direct (tailpipe) CO  2 emissions of the 
+vehicles are zero;  
+_____________
+( 74 ) For points (j) to (m), the criteria related to retrofitting are covered in Sections 6.9 and 6.12 of this Annex.EN  L 442/42 Official Journal of the European Union 9.12.2021
+
+--- Page 43 of 349 ---

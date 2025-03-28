@@ -1,0 +1,15 @@
+File Name: 2_E1-6_2004-03_G_GHG-Prot_WRI&WBCSD.pdf
+Converted on: 2025-03-28 03:18:16
+Original Size: 3.51 MB
+Chunk Size: 500 tokens with 50 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 213 of 225
+--------------------------------------------------------------------------------
+
+--- Page 104 of 116 ---
+
+Glossary 102 Target double counting policy A policy that determines how double counting of GHG reductions or other instruments, such as allowances issued by external trading programs, is dealt with under a GHG target. It applies only tocompanies that engage in trading (sale or purchase) of offsets or whose corporate target boundariesinterface with other companies’ targets or external programs. (Chapter 11) Uncertainty 1. Statistical definition: A parameter associated with the result of a measurement that characterizes the dispersion of the values that could be reasonably attributed to the measured quantity. (e.g., thesample variance or coefficient of variation). (Chapter 7) 2. Inventory definition: A general and imprecise term which refers to the lack of certainty in emissions- related data resulting from any causal factor, such as the application of non-representative factors ormethods, incomplete data on sources and sinks, lack of transparency etc. Reported uncertainty information typically specifies a quantitative estimates of the likely or perceived difference between a reported value and a qualitative description of the likely causes of the difference. (Chapter 7). United Nations Framework Signed in 1992 at the Rio Earth Summit, the UNFCCC is a milestone Convention on Climate Change Convention on Climate Change treaty that provides an overall framework for international efforts to (UNFCCC) mitigate climate (UNFCCC) change. The Kyoto Protocol is a protocol to the UNFCCC. Value chain emissions Emissions from the upstream and downstream activities associated with the operations of the reporting company. (Chapter 4) Verification An independent assessment of the reliability (considering completeness and accuracy) of a GHG inventory. (Chapter 10) 
+
+--- Page 105 of 116 ---

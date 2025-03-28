@@ -1,0 +1,40 @@
+File Name: 1_2023-06-27_DelVO_2023_2486_TAXURA_EU.pdf
+Converted on: 2025-03-28 03:18:09
+Original Size: 8.44 MB
+Chunk Size: 500 tokens with 50 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 314 of 380
+--------------------------------------------------------------------------------
+
+ELI: http://data.europa.eu/eli/reg_del/2023/2486/oj 117/164Technical screening criteria
+Substantial contribution to protection and restoration of biodiversity and ecosystems
+1.General conditions
+1.1. The activity contributes to at least one of the following:
+(a) maintaining good condition of ecosystems, species, habitats or of habitats of species;
+(b) re-establishing or restoring ecosystems, habitats or habitats of species towards or to good condition, including through
+increasing their area or range.
+1.2. The activity may be carried out by any type of operator irrespective of the main domain of activity.
+2.Initial description of the area covered by the conservation activity
+2.1. The activity takes place in an area with a detailed description of its initial ecological conditions which contains the
+following elements:
+(a) mapping of the current habitats and their condition;
+(b) where applicable, the protection status of the area;
+(c) characterisation of the situation of the main species in terms of conservation relevance present in the area (including
+list of species, approximate size of the population, approximate size of the habitat of the species and its quality, period
+during which the area is used by the species);
+(d) the importance of the area to reaching good condition of species, habitats or habitats of species at regional, national or
+international level as appropriate;
+(e) where relevant, the potential for improving the condition of species, habitats or habitats of species present on the area or re-establishing habitats or habitats of species in the area or to enhance connectivity between habitats.
+3.Management plan or equivalent instrument
+3.1. The area is covered by a management plan or by an equivalent instrument, such as a restoration plan (
+7), which is
+regularly updated and in any case at least every ten years, and contains the following information:
+(a) a description of the expected contribution of the area to the nature conservation objectives set by the competent nature
+or environment authority considering the regional, national, Union and international legal and policy context;
+(b) the list of species, habitats and habitats of the species that will benefit from the conservation measures (hereafter
+‘targeted habitats and species’);
+(c) the duration of the plan and a clear description of the conservation objectives for each targeted habitat and species and
+of the corresponding conservation measures that address identified pressures and threats, including the expected
+deadline for the achievement of the conservation objectives. In case the deadlines exceed the duration of the

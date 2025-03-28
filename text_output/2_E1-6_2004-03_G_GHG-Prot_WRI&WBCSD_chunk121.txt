@@ -1,0 +1,31 @@
+File Name: 2_E1-6_2004-03_G_GHG-Prot_WRI&WBCSD.pdf
+Converted on: 2025-03-28 03:18:16
+Original Size: 3.51 MB
+Chunk Size: 500 tokens with 50 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 121 of 225
+--------------------------------------------------------------------------------
+
+detailed assessment of the actual reduction using a
+project quantification methodology.
+Project based reductions and offsets/credits
+Project reductions that are to be used as offsets shouldbe quantified using a project quantification method, suchas the forthcoming
+GHG Protocol Project Quantification
+Standard, that addresses the following accounting issues:
+   SELECTION OF A BASELINE SCENARIO AND EMISSION.
+The baseline scenario represents what would have
+happened in the absence of the project. Baselineemissions are the hypothetical emissions associatedwith this scenario. The selection of a baselinescenario always involves uncertainty because itrepresents a hypothetical scenario for what wouldhave happened without the project. The projectreduction is calculated as the difference between the baseline and project emissions. This differs fromthe way corporate or organizational reductions aremeasured in this document, i.e., in relation to anactual historical base year.
+   DEMONSTRATION OF ADDITIONALITY. This relates to
+whether the project has resulted in emission reductionsor removals in addition to what would have happened inthe absence of the project. If the project reduction isused as an offset, the quantification procedure shouldaddress additionality and demonstrate that the projectitself is not the baseline and that project emissions areless than baseline emissions. Additionality ensures theintegrity of the fixed cap or target for which the offset isused. Each reduction unit from a project used as anoffset allows the organization or facility with a cap ortarget one additional unit of emissions. If the projectwere going to happen anyway (i.e., is non-additional),global emissions will be higher by the number of reduc-tion units issued to the project.
+   IDENTIFICATION AND QUANTIFICATION OF RELEVANT
+SECONDARY EFFECTS. These are GHG emissions
+changes resulting from the project not captured by theprimary effect(s).
+1Secondary effects are typically the
+small, unintended GHG consequences of a project andinclude leakage (changes in the availability or quan-tity of a product or service that results in changes inGHG emissions elsewhere) as well as changes in GHGemissions up- and downstream of the project. If rele-vant, secondary effects should be incorporated intothe calculation of the project reduction.    CONSIDERATION OF REVERSIBILITY. Some projects
+achieve reductions in atmospheric carbon dioxidelevels by capturing, removing and/or storing carbonor GHGs in biological or non-biological sinks (e.g.,forestry, land use management, underground reser-
+voirs). These reductions may be temporary in thatthe removed carbon dioxide may be returned to theatmosphere at some point in the future throughintentional activities or accidental occurrences—such as harvesting of forestland or forest fires, etc.
+2
+The risk of reversibility should be assessed, togetherwith any mitigation or compensation measuresincluded in the project design.
+   AVOIDANCE OF DOUBLE COUNTING. To avoid double

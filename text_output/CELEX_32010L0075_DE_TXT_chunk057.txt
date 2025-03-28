@@ -1,0 +1,264 @@
+File Name: CELEX_32010L0075_DE_TXT.pdf
+Converted on: 2025-03-28 03:21:03
+Original Size: 4.18 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 57 of 93
+--------------------------------------------------------------------------------
+
+eispi elsweise durch Anschläge innerhalb eines gewissen Umkreises oder Veröffen tlichung in Lokalzeitungen ) und die betroffene Öffentlich ­ keit angehört ( beispielsweise durch Aufforderun g zu schriftlichen Stellungnahmen oder durch ein e öffentliche Anhö ­ rung ) wird . Der Zeitrahmen für die verschieden en Phasen muss so g ewählt werden , dass ausreichen d Zeit zur Verfüg ung steht , um die Öffen tlichkeit zu informieren , und dass der b etroffenen Öffentlichkeit ausreichen d Zeit zur effek tiven Vor ­ bereitung und Beteiligung während des umweltb ezogenen Entscheidungsve rfahrens vorbehaltlich dieses Anhangs gege ­ ben wird .
+
+--- Page 43 of 103 ---
+
+17.12.2010 DE Amtsblattder Europäischen Union L 334/59
+ANHANG V
+Technische Bestimmu ngen
+für
+Feuerungsanlagen
+TEIL
+1
+Emissionsgrenzwerte für Feuerungsanlagen gemäß Artikel 30 Absatz 2
+1. Alle Emissionsgrenzwerte
+werden
+bei
+einer
+Temperatur von  
+273,15 K,
+einem Druck  
+von
+101,3 kPa
+und
+nach
+Abzug
+des
+Wasserdampfg ehalts
+des Abgases
+und
+bei
+einem
+Bezugs-
+O2-Gehalt von  6 % für feste Bren nstoffe, 3 % für Feuerun gs­
+anlagen
+für flüssig e
+und
+gasförmige
+Brennstoffe
+mit Ausnahme
+von
+Gasturbin en
+und
+Gasmotoren  
+und
+15 % für Gas­
+turbinen
+und
+Gasmotoren  
+berechnet.
+2. SO2-Emissionsgrenzwerte (in mg/Nm3) für mit festen  oder flüssig en Brennstoffen betriebene Feuerungsanlagen mit Aus­
+nahme
+von
+Gasturbinen
+und
+Gasmotoren  
+Feuerungswärme­
+leistung
+(MW)Steinkohle und Braunkohle sowie
+andere
+feste Bren nstoffeBiomasse Torf Flüssige Brennstoffe
+50-100 400 200 300 350
+100-300 250 200 300 250
+> 300 200 200 200 200
+Für Feuerun gsanlagen
+für feste Bren nstoffe,
+bei
+denen
+die Genehmigung
+vor dem 27. Novemb er
+2002 erteilt oder für
+die von
+deren
+Betreibern
+vor diesem Zeitpun kt
+ein
+vollständiger
+Genehmig
+ungsantrag
+gestellt
+wurde (sofern  
+die Anlage
+spätestens
+zum 27. Novemb er
+2003 in
+Betrieb
+genommen
+wurde) un d
+die im glei
+tenden
+Durchschn itt
+über
+einen
+Zeit­
+raum von  
+fünf
+Jahren
+höchstens 1
+500 Betrieb sstunden
+jährlich in  
+Betrieb
+sind,
+gilt
+ein
+SO2-Emissionsgrenzwert von
+800
+mg/Nm3.
+Für Feuerun gsanlagen
+für flüssig e
+Brennstoffe,
+bei
+denen
+die Genehmigun
+g
+vor dem 27. Novemb er
+2002 erteilt oder für
+die von
+deren
+Betreibern
+vor diesem Zeitpun kt
+ein
+vollständiger
+Genehmig
+ungsantrag
+gestellt
+wurde (sofern  
+die Anlage
+spätestens
+zum 27. Novemb er
+2003 in
+Betrieb
+genommen
+wurde) un d
+die im glei
+tenden
+Durchschn itt
+über
+einen
+Zeit­
+raum von  
+fünf
+Jahren
+höchstens 1
+500 Betrieb sstunden
+jährlich in  
+Betrieb
+sind,
+gilt
+ein
+SO2-Emissionsgrenzwert von
+850
+mg/Nm3 im Falle von An lagen mit einer Feuerungswärmeleistung von nicht mehr als 300 MW un d von
+400 mg/Nm3 im Falle von  Anlagen mit einer Feuerungswärmeleistung von mehr als 300 MW.
+Für einen
+Teil einer
+Feuerungsanlage,
+dessen
+Abgase
+über
+einen
+oder mehrere g esonderte
+Abgasabzüge
+in
+einen
+gemein­
+samen
+Schornstein
+abgeleitet
+werden
+und
+der im gleitenden
+Durchschn itt
+über
+einen
+Zeitraum von  
+fünf
+Jahren
+höchs­
+tens 1
+500 Betrieb sstunden
+jährlich in  
+Betrieb
+ist, können
+die in
+den
+beide
+n
+vorangegangenen
+Absätzen
+in
+Abhängigkeit
+von
+der Feuerun gswärmeleistung
+der gesamten
+Anlage
+festgelegten Emission sg
+renzwerte vorg eschrieben
+werden.
+In
+die­
+sem Fall werden  
+die durch jeden  
+der betreffenden
+Kanäle
+geleiteten
+Emissi
+onen
+gesondert
+überwacht.
+3. SO2-Emissionsgrenzwerte (in mg/Nm3) für mit g asförmigen Brennstoffen betriebene Feuerungsanlagen mit Ausnahme
+von
+Gasturbinen
+und
+Gasmotoren  
+Im
+Allgemeinen 35
+Flüssiggas 5
+Koksofengase
+mit niedrigem
+Heizwert 400
+Hochofen gase
+mit niedrigem
+Heizwert 200
+Für Feuerun gsanlagen,
+die aus Raffin erierückständen
+erzeugte
+Gase mit niedrig em
+Heizwert verfeuern  
+und
+bei
+denen
+die
+Genehmigung
+vor dem 27. Novemb er
+2002 erteilt oder für die vor diesem Zeitpun kt
+von
+deren
+Betreibern
+ein
+vollstän­
+diger
+Genehmigungsantrag
+gestellt
+wurde (sofern  
+die Anlage
+spätestens
+zum 27. Novemb er
+2003 in
+Betrieb
+genommen
+wurde),
+gilt
+ein
+SO2-Emissionsgrenzwert von 800 mg/Nm3.
+
+--- Page 44 of 103 ---

@@ -1,0 +1,16 @@
+File Name: 2_E1-6_2014-01-01_G_GHG-Agri_WRI&WBCSD.pdf
+Converted on: 2025-03-28 03:20:54
+Original Size: 1.75 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 8 of 65
+--------------------------------------------------------------------------------
+
+Appendix  I: Performance  metrics ...........................................................................................  77 
+Appendix  II: Amortizing  CO 2 Fluxes to / from Carbon Stocks ..................................................  83 
+Appendix  III: Tools for calculating  agricultural  GHG fluxes ......................................................  88 
+Abbreviations  97 
+Glossary  98 
+References  102

@@ -1,0 +1,35 @@
+File Name: 1_2021-06-04_DelVO_2021_2139_TAXKRA_EU.pdf
+Converted on: 2025-03-28 03:18:03
+Original Size: 2.76 MB
+Chunk Size: 500 tokens with 50 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 860 of 966
+--------------------------------------------------------------------------------
+
+(1) Climate change mitigation  The infrastructure is not dedicated to transportation or storage of fossil 
+fuels.
+In case of new infrastructure or major renovation, the infrastructure has
+been climate proofed in accordance with the appropriate climate proofing
+practice that includes carbon footprinting and clearly defined shadow cost
+of carbon. Such carbon footprinting covers scope 1-3 emissions, and
+demonstrates that the infrastructure does not lead to additional relative
+greenhouse gas emissions, calculated on the basis of conservative assump ­
+tions, values and procedures.  
+_____________
+( 560  ) Future scenarios include Intergovernmental Panel on Climate Change representative concentration pathways RCP2.6, RCP4.5, 
+RCP6.0 and RCP8.5.
+( 561  ) Assessments Reports on Climate Change: Impacts, Adaptation and Vulnerability, published periodically by the Intergovernmental  
+Panel on Climate Change (IPCC), the United Nations body for assessing the science related to climate change produces,
+https://www.ipcc.ch/reports/.
+( 562  ) Such as Copernicus services managed by the European Commission. 
+( 563  ) Nature-based solutions are defined as ‘solutions that are inspired and supported by nature, which are cost-effective, simulta n­
+eously provide environmental, social and economic benefits and help build resilience. Such solutions bring more, and more
+diverse, nature and natural features and processes into cities, landscapes and seascapes, through locally adapted, resource-eff icient
+and systemic interventions’. Therefore, nature-based solutions benefit biodiversity and support the delivery of a range of
+ecosystem services (version of 4.6.2021: https://ec.europa.eu/info/research-and-innovation/research-area/environment/nature-
+based-solutions_en/).
+( 564  ) See Communication from the Commission to the European Parliament, the Council, the European Economic and Social 
+Committee and the Committee of the Regions: Green Infrastructure (GI) — Enhancing Europe’s Natural Capital (COM/2013/0249
+final).EN  L 442/310 Official Journal of the European Union 9.12.2021

@@ -1,0 +1,65 @@
+File Name: 2_E1-6_2011-09-01_G_GHG-PLC_WRI&WBCSD.pdf
+Converted on: 2025-03-28 03:20:53
+Original Size: 3.27 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 12 of 116
+--------------------------------------------------------------------------------
+
+[15]
+requirementsCHAPTER 03 Summary of Steps and Requirements
+Table [3.1] Summary of requirements (continued)
+Chapter Requirements
+9. Allocation • Companies shall allocate emissions and removals to accurately reflect the
+contributions of the studied product and co-product(s) to the total emissions and
+removals of the common process
+• Companies shall avoid allocation wherever possible by using process subdivision,
+redefining the functional unit, or using system expansion
+• If allocation is unavoidable, companies shall allocate emissions and removals based on
+the underlying physical relationships between the studied product and co-product(s)
+• When physical relationships alone cannot be established or used as the basis  
+for allocation, companies shall select either economic allocation or another
+allocation method that reflects other relationships between the studied product
+and co-product(s)
+• Companies shall apply the same allocation methods to similar inputs and outputs
+within the product’s life cycle
+• For allocation due to recycling, companies shall use either the closed loop
+approximation method or the recycled content method as defined by this standard
+• When using the closed loop approximation method, companies shall report
+displaced emissions and removals separately from the end-of-life stage
+• Companies shall disclose and justify the methods used to avoid allocation or
+perform allocation
+• When using the closed loop approximation method, companies shall report
+displaced emissions and removals separately from the studied product’s end-of-
+life stage inventory
+10.  Assessing  
+Uncertainty  • Companies shall report a qualitative statement on inventory uncertainty and 
+methodological choices. Methodological choices include:
+•Use and end-of-life profile
+•Allocation methods, including allocation due to recycling
+•Source of global warming potential (GWP) values used
+•Calculation models
+11.  Calculating  
+Inventory Results• Companies shall apply a 100-year GWP factor to GHG emissions and removals data
+to calculate the inventory results in units of CO2 equivalent (CO2e)
+• Companies shall report the source and date of the GWP factors used
+• Companies shall quantify and report the following:
+•Total inventory results in CO2e per unit of analysis, which includes all emissions
+and removals included in the boundary from biogenic sources, non-biogenic
+sources, and land-use change impacts
+•Percentage of total inventory results by life cycle stage
+•Biogenic and non-biogenic emissions and removals separately when applicable
+•Land-use change impacts separately when applicable
+•Cradle-to-gate and gate-to-gate inventory results separately or a clear
+statement that confidentiality is a limitation to providing this information
+• Companies shall not include the following when quantifying inventory results:
+weighting factors for delayed emissions; offsets; and avoided emissions
+• Companies shall report the amount of carbon contained in the product or its
+components that is not released to the atmosphere during waste treatment,  
+if applicable
+• For cradle-to-gate inventories, companies shall report the amount of carbon
+contained in the intermediate product
+
+--- Page 18 of 148 ---

@@ -1,0 +1,48 @@
+File Name: 1_2021-07-06_DelVO_2021_2178_TAXORA_EU.pdf
+Converted on: 2025-03-28 03:20:32
+Original Size: 10.30 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 15 of 47
+--------------------------------------------------------------------------------
+
+1.1.2.2. Numerator
+The numerator equals to the part of the capital expenditure included in the denominator that is any of the following:
+(a) related to assets or processes that are associated with Taxonomy-aligned economic activities;
+(b) part of a plan to expand Taxonomy-aligned economic activities or to allow Taxonomy-eligible economic activities to
+become Taxonomy-aligned (‘CapEx plan’) under the conditions specified in the second subparagraph of this point
+1.1.2.2;
+(c) related to the purchase of output from Taxonomy-aligned economic activities and individual measures enabling the
+target activities to become low-carbon or to lead to greenhouse gas reductions, notably activities listed in points 7.3 to
+7.6 of Annex I to the Climate Delegated Act, as well as other economic activities listed in the delegated acts adopted
+pursuant to Article 10(3), Article 11(3), Article 12(2), Article 13(2), Article 14(2) and Article 15(2) of Regulation (EU)
+2020/852 and provided that such measures are implemented and operational within 18 months.
+The CapEx plan referred to in the first paragraph of this point 1.1.2.2 shall meet the following conditions:
+(a) the plan aims either to expand the undertaking’s Taxonomy-aligned economic activities or to upgrade Taxonomy-
+eligible economic activities to render them Taxonomy-aligned within a period of five years;
+(b) the plan shall be disclosed at economic activity aggregated level and be approved by the management body of non-
+financial undertakings either directly or by delegation.
+Where the relevant technical screening criteria are amended before the completion of the CapEx plan, non-financial
+undertakings shall either update the plan within two years to ensure the economic activities referred to in point (a) are
+aligned with the amended technical screening criteria upon the completion of the plan or restate the numerator of the
+CapEx KPI. The updating of plan shall restart the period referred to in point (a). The period referred to point (a) of the
+second paragraph of this point 1.1.2.2 can exceed five years only where a longer period is objectively justified by specific
+features of the economic activity and the upgrade concerned, with a maximum of 10 years. That justification shall feature
+in the CapEx plan itself and in the contextual information detailed under point 1.2.3 of this Annex.
+Where the CapEx plan fails to meet the conditions referred to in the second paragraph of this point 1.1.2.2, previously
+published KPI related to capital expenditure shall be restated.
+The numerator shall also contain the part of the CapEx for adaptation of economic activities to climate change in
+accordance with Annex II to this Climate Delegated Act. The numerator shall provide for a breakdown for the part of
+CapEx allocated to substantial contribution to climate change adaptation.
+1.1.3. KPI related to operating expenditure (OpEx) (OpEx KPI)
+The proportion of OpExreferred to in Article 8(2), point (b), of Regulation (EU) 2020/852 shall be calculated as the
+numerator divided by the denominator as specified in points 1.1.3.1 and 1.1.3.2 of this Annex.
+1.1.3.1. Denominator
+The denominator shall cover direct non-capitalised costs that relate to research and development, building renovation
+measures, short-term lease, maintenance and repair, and any other direct expenditures relating to the day-to-day servicing
+of assets of property, plant and equipment by the undertaking or third party to whom activities are outsourced that are necessary to ensure the continued and effective functioning of such assets.
+Non-financial undertakings that apply national GAAP and are not capitalising right-of-use assets shall include lease costs in
+the OpEx in addition to the costs listed in the first subparagraph of point 1.1.3.1 of this Annex.
+1.1.3.2. Numerator

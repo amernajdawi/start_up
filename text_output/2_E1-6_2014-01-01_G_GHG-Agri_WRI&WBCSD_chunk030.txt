@@ -1,0 +1,56 @@
+File Name: 2_E1-6_2014-01-01_G_GHG-Agri_WRI&WBCSD.pdf
+Converted on: 2025-03-28 03:20:54
+Original Size: 1.75 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 30 of 65
+--------------------------------------------------------------------------------
+
+42
+ Chapter 6: Tracking GHG fluxes over Time  
+Setting and using base periods is a fundamental step in de signing GHG inventories. They
+help companies compare performance against a point in the past and they put the effects
+of changes in inventory met hodologies into context, allowi ng meaningful and consistent
+comparisons of performance over time. Ag ricultural activities and environmental
+conditions that affect GHG fluxes can change a lot over time. Also, structural changes
+such as acquisitions, divestments, and merger s, can affect the types of operations that
+need to be reported in inventories. Companie s need to take these changes into account
+whilst setting and us ing base periods.  
+This chapter:
+ Details requirements and recommendati ons for choosing a base period and for
+recalculating base period data to ensure  historical comparisons are meaningful. 
+
+Summary of requirements and main recommendations:
+ Companies shall choose and establish a ba se period, and specify the reasons for
+choosing that period.  
+ The base period shall be the earliest poin t in time for which verifiable data are
+available on scope 1 and scope 2 emissions.  
+ Multi-year base periods are r ecommended for many companies.
+ Companies shall develop a base period em issions recalculation policy, and clearly
+articulate the basis and context for any recalculations. If a pplicable, the policy
+shall state any “significant threshold”.
+ Companies shall recalculate the base pe riod inventory to reflect changes in
+organizational structures or  calculation methods, or the discovery of errors, which 
+significantly impact the base period inventory.
+
+6.1 Setting base periods
+The base period is the period in history ag ainst which an organization’s GHG fluxes are
+tracked over time7. Both the Corporate Standard and this Guidance require companies to
+establish a base period. Companies shall use as a base period the earliest relevant point in
+time for which they have verifiable data on scope 1 and scope 2 emissions. Critically, the
+base period should be repres entative of a company’s GHG profile. This has several
+implications:  
+Base periods shall not be less than one year   
+The base period should not be an individual crop year  or production season (for 
+livestock) that is less than one year. Othe rwise, the effects of seasonal management
+activities may not be reflected in the base period. For instan ce, tillage practices, winter
+cover crops and double cropping systems can cau se emissions outside of the growing
+
+7 The Corporate Standard uses the term  ‘base year’ instead of ‘base period.’  The latter term is used here to 
+avoid confusion because base periods may comprise more than one year.
+
+--- Page 43 of 103 ---
+
+GHG Protocol Agricultural Guidance

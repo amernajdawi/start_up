@@ -1,0 +1,29 @@
+File Name: 2_E1-6_2004-03_G_GHG-Prot_WRI&WBCSD.pdf
+Converted on: 2025-03-28 03:18:16
+Original Size: 3.51 MB
+Chunk Size: 500 tokens with 50 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 108 of 225
+--------------------------------------------------------------------------------
+
+EMISSION FACTORS AND OTHER PARAMETERS
+For a particular source category, emissions calculations
+will generally rely on emission factors and other parame-ters (e.g., utilization factors, oxidation rates, methaneconversion factors).
+2These factors and parameters may
+be published or default factors, based on company-specific data, site-specific data, or direct emission orother measurements. For fuel consumption, publishedemission factors based on fuel energy content are gener-ally more accurate than those based on mass or volume,except when mass or volume based factors have beenmeasured at the company- or site-specific level. Qualityinvestigations need to assess the representativeness andapplicability of emission factors and other parameters tothe specific characteristics of a company. Differencesbetween measured and default values need to be qualita-tively explained and justified based upon the company’soperational characteristics.
+ACTIVITY DATA
+The collection of high quality activity data will often bethe most significant limitation for corporate GHG inven-tories. Therefore, establishing robust data collectionprocedures needs to be a priority in the design of anycompany’s inventory program. The following are usefulmeasures for ensuring the quality of activity data:
+Develop data collection procedures that allow the same
+data to be efficiently collected in future years.
+Convert fuel consumption data to energy units before
+applying carbon content emission factors, which may bebetter correlated to a fuel’s energy content than its mass.
+Compare current year data with historical trends. If
+data do not exhibit relatively consistent changes fromyear to year then the causes for these patterns shouldbe investigated (e.g., changes of over 10 percent fromyear to year may warrant further investigation).
+Compare activity data from multiple reference sources
+(e.g., government survey data or data compiled bytrade associations) with corporate data when possible.Such checks can ensure that consistent data is beingreported to all parties. Data can also be comparedamong facilities within a company.Investigate activity data that is generated for purposes
+other than preparing a GHG inventory. In doing so,companies will need to check the applicability of thisdata to inventory purposes, including completeness,consistency with the source category definition, andconsistency with the emission factors used. Forexample, data from different facilities may be exam-ined for inconsistent measurement techniques,operating conditions, or technologies. Quality controlmeasures (e.g., ISO) may have already been conductedduring the data’s original preparation. These measurescan be integrated with the company’s inventory qualitymanagement system.
+Check that base year recalculation procedures have
+been followed consistently and correctly (see chapter 5).
+Check that operational and organizational boundary

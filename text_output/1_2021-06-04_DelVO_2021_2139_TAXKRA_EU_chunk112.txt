@@ -1,0 +1,57 @@
+File Name: 1_2021-06-04_DelVO_2021_2139_TAXKRA_EU.pdf
+Converted on: 2025-03-28 03:20:30
+Original Size: 2.76 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 112 of 447
+--------------------------------------------------------------------------------
+
+Technical screening criteria  
+Substantial contribution to climate change mitigation  
+Life-cycle GHG emissions from the generation of electricity from geothermal energy are lower than
+100 g CO  2 e/kWh. Life-cycle GHG emission savings are calculated using Commission Recommendation 
+2013/179/EU or, alternatively, using ISO 14067:2018 or ISO 14064-1:2018. Quantified life-cycle GHG
+emissions are verified by an independent third party.  
+Do no significant harm (‘DNSH’)  
+(2) Climate change adaptation  The activity complies with the criteria set out in Appendix A to this 
+Annex.  
+(3) Sustainable use and protection of
+water and marine resources  The activity complies with the criteria set out in Appendix B to this 
+Annex.  
+(4) Transition to a circular economy  N/A  
+(5) Pollution prevention and control  For the operation of high-enthalpy geothermal energy systems, adequate 
+abatement systems are in place to reduce emission levels in order not to
+hamper the achievement of air quality limit values set out in Directive
+2004/107/EC of the European Parliament and of the Council (  166  ) and 
+Directive 2008/50/EC of the European Parliament and of the Council (  167  ). 
+(6) Protection and restoration of
+biodiversity and ecosystems  The activity complies with the criteria set out in Appendix D to this 
+Annex.  
+4.7.  Electricity generation from renewable non-fossil gaseous and liquid fuels  
+Description of the activity  
+Construction or operation of electricity generation facilities that produce electricity using gaseous and liquid fuels
+of renewable origin. This activity does not include electricity generation from the exclusive use of biogas and bio-
+liquid fuels (see Section 4.8 of this Annex).  
+The economic activities in this category could be associated with several NACE codes, in particular D35.11 and
+F42.22 in accordance with the statistical classification of economic activities established by Regulation (EC)
+No 1893/2006.  
+Technical screening criteria  
+Substantial contribution to climate change mitigation  
+1. Life-cycle GHG emissions from the generation of electricity using renewable gaseous and liquid fuels are
+lower than 100 g CO  2 e/kWh. 
+Life-cycle GHG emissions are calculated based on project-specific data, where available, using Recommendation
+2013/179/EU or, alternatively, using ISO 14067:2018 (  168  ) or ISO 14064-1:2018 (  169  ). 
+Quantified life-cycle GHG emissions are verified by an independent third party.  
+_____________
+( 166  ) Directive 2004/107/EC of the European Parliament and of the Council of 15 December 2004 relating to arsenic, cadmium, 
+mercury, nickel and polycyclic aromatic hydrocarbons in ambient air (OJ L 23, 26.1.2005, p. 3).
+( 167  ) Directive 2008/50/EC of the European Parliament and of the Council of 21 May 2008 on ambient air quality and cleaner air for 
+Europe (OJ L 152, 11.6.2008, p. 1).
+( 168  ) ISO standard 14067:2018, Greenhouse gases — Carbon footprint of products — Requirements and guidelines for quantification 
+(version of 4.6.2021: https://www.iso.org/standard/71206.html).
+( 169  ) ISO standard 14064-1:2018, Greenhouse gases — Part 1: Specification with guidance at the organization level for quantificatio n 
+and reporting of greenhouse gas emissions and removals (version of 4.6.2021: https://www.iso.org/standard/66453.html).EN  9.12.2021 Official Journal of the European Union L 442/69
+
+--- Page 70 of 349 ---

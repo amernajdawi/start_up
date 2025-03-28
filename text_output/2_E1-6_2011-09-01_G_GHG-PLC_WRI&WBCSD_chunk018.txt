@@ -1,0 +1,66 @@
+File Name: 2_E1-6_2011-09-01_G_GHG-PLC_WRI&WBCSD.pdf
+Converted on: 2025-03-28 03:20:53
+Original Size: 3.27 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 18 of 116
+--------------------------------------------------------------------------------
+
+[24]   Product Life Cycle Accounting and Reporting Standard
+guidanceTable [5.1]  Sector guidance and product rule specifications
+Inventory step Sector guidance and product rule specifications
+Chapter 6:  
+Establishing  
+the Scope• Choosing a studied product (in sector guidance)
+• Choosing a unit of analysis (functional unit)
+• Identifying whether a cradle-to-gate inventory is appropriate
+• Identifying any additional GHGs that are applicable to the product or sector
+Chapter 7:  
+Boundary Setting• Life cycle stage definitions and descriptions
+• Specific attributable processes
+• Relevant non-attributable processes
+• Justified excluded attributable processes (including insignificance threshold)
+• Use and end-of-life profiles
+• Time period
+• Method used to calculate land-use change impacts
+Chapter 8:  
+Collecting Data and
+Assessing Data Quality• Type of primary data to collect for processes under the reporting company’s control
+• Processes not under the reporting company’s ownership/control where primary
+data should be collected
+• Secondary data sources and default data values
+Chapter 9:  
+Allocation • Allocation method and appropriate allocation factor
+• Recycling allocation method
+Chapter 10:  
+Assessing Uncertainty• Default uncertainty values
+• Likely sources of uncertainty
+Chapter 11:  
+Calculating  
+Inventory Results• The GWP values to use
+• Default emission factors
+Chapter 12:  
+Assurance• The type of assurance to perform
+Chapter 13:  
+Reporting• Optional reporting elements that would be beneficial to stakeholders
+• Additional requirements due to communication type (e.g., label)
+Chapter 14:  
+Setting Reduction  
+Targets and Tracking
+Inventory Changes• The base inventory to set
+• Definition of changes that would warrant base inventory recalculationenable comparisons or declarations about the product.
+An example is a product category rule (PCR) as defined
+by ISO 14025:2006.  Appendix A includes details on what 
+specifications are needed in a product rule to enable
+different types of comparisons and gives some guidance
+on creating product rules. Sector guidance is typically created by a group of
+stakeholders and sector representatives convened to
+build consensus on guidance for performing a product
+GHG inventory within their sector, but without the goal of
+enabling product comparison.
+While using product rules and sector guidance is not
+required for conformance with this standard, each provides
+
+--- Page 27 of 148 ---

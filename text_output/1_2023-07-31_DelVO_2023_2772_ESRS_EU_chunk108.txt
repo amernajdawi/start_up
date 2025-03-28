@@ -1,0 +1,48 @@
+File Name: 1_2023-07-31_DelVO_2023_2772_ESRS_EU.pdf
+Converted on: 2025-03-28 03:20:41
+Original Size: 5.82 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 108 of 284
+--------------------------------------------------------------------------------
+
+--- Page 109 of 284 ---
+
+ELI: http://data.europa.eu/eli/reg_del/2023/2772/oj 109/284i. the number of allowances held by the undertaking at the beginning of the reporting period;
+ii. the number of allowances to be purchased in the market yearly, i.e., before and until 2030;
+iii. the gap between estimated future emissions under various transition scenarios and free allocations of
+allowances that are known for the period until 2030, and
+iv. the estimated yearly cost per tonne of CO2 for which an allowance needs to be purchased;
+(c) In assessing its potential future liabilities, the undertaking may consider and disclose the number of Scope 1
+GHG emission allowances within regulated emission trading schemes and the cumulative number of emission
+allowances stored (from previous allowances) at the beginning of the reporting period;
+(d) undertakings disclosing volumes of carbon credits planned to be cancelled in the near future (Disclosure
+Requirement E1-7) may disclose the potential future liabilities associated with those based on existing
+contractual agreements;
+(e) the undertaking may also include its monetised gross Scope 1, 2 and total GHG emissions (in monetary units)
+calculated as follows:
+i. monetised Scope 1 and 2 GHG emissions in the reporting year by the following formula:
+(a)
+ii. monetised total GHG emissions in the reporting year by the following formula:
+(b)
+iii. by use of a lower, middle and upper cost rate (56)for GHG emissions (e.g., market carbon price and
+different estimates for the societal costs of carbon) and reasons for selecting them.
+AR 75. Other approaches and methodologies may be applied to assess how transition risks may affect the future financial
+position of the undertaking. In any case, the disclosure of anticipated financial effects shall include a description
+of the methodologies and definitions used by the undertaking.
+AR 76. When preparing the information required under paragraph 67 (e), the undertaking may assess and disclose the
+share of net revenue from business activities at transition risks
+. This disclosure:
+(a) shall be based on the net revenue in line with the requirements in accounting standards applied for financial
+statements, i.e., IFRS 15 or local GAAP.
+(b) may include a breakdown of the undertaking’s business activities with the corresponding details of the associated percentage of current net revenue, risk factors (events and exposure), and when possible, the
+anticipated financial effects related to margin erosion over the short-, medium- and long-term. The nature of
+business activities may also be disaggregated by operating segments if the undertaking has disclosed the
+contribution of margins by operational segments in its segment reporting in the financial statements.
+(56)The cost rate is the factor used to convert non-monetary impacts like tonnes, hectares, m3 etc. into monetary units. Cost rates should
+be based on monetary valuation studies, need to be science-based and the methods used to obtain them transparent. Guidance on
+these methods can be obtained, e.g., from the EU-LIFE-funded TRANSPARENT project.OJ L, 22.12.2023 EN  
+
+--- Page 110 of 284 ---

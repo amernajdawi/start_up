@@ -1,0 +1,66 @@
+File Name: 2_ESRS2_SBM1_2006-12-20_VO_NACER2_EU.pdf
+Converted on: 2025-03-28 03:18:28
+Original Size: 0.17 MB
+Chunk Size: 500 tokens with 50 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 56 of 78
+--------------------------------------------------------------------------------
+
+n.e.c. : not elsewhere classified * part of
+Division Group ClassISIC
+Rev. 4
+87.10 Residential nursing care activities 8710
+87.2 Residential care activities for mental retardation, mental health and
+substance abuse
+87.20 Residential care activities for mental retardation, mental health and
+substance abuse8720
+87.3 Residential care activities for the elderly and disabled
+87.30 Residential care activities for the elderly and disabled 8730
+87.9 Other residential care activities
+87.90 Other residential care activities 8790
+88 Social work activities without accommodation
+88.1 Social work activities without accommodation for the elderly and
+disabled
+88.10 Social work activities without accommodation for the elderly and
+disabled8810
+88.9 Other social work activities without accommodation
+88.91 Child day-care activities 8890*
+88.99 Other social work activities without accommodation n.e.c. 8890*
+SECTION R —ARTS, ENTERTAINMENT AND RECREATION
+90 Creative, arts and entertainment activities
+90.0 Creative, arts and entertainment activities
+90.01 Performing arts 9000*90.02 Support activities to performing arts 9000*90.03 Artistic creation 9000*
+90.04 Operation of arts facilities 9000*
+91 Libraries, archives, museums and other cultural activities
+91.0 Libraries, archives, museums and other cultural activities
+91.01 Library and archives activities 9101
+91.02 Museums activities 9102*
+91.03 Operation of historical sites and buildings and similar visitor
+attractions9102*
+91.04 Botanical and zoological gardens and nature reserves activities 9103
+92 Gambling and betting activities
+92.0 Gambling and betting activities
+92.00 Gambling and betting activities 9200
+93 Sports activities and amusement and recreation activities
+93.1 Sports activities
+93.11 Operation of sports facilities 9311*93.12 Activities of sport clubs 9312
+93.13 Fitness facilities 9311*
+93.19 Other sports activities 9319
+93.2 Amusement and recreation activities
+93.21 Activities of amusement parks and theme parks 9321
+93.29 Other amusement and recreation activities 9329
+SECTION S —OTHER SERVICE ACTIVITIES
+94 Activities of membership organisations
+94.1 Activities of business, employers and professional membership
+organisations
+94.11 Activities of business and employers membership organisations 941194.12 Activities of professional membership organisations 9412
+94.2 Activities of trade unions
+94.20 Activities of trade unions 9420
+94.9 Activities of other membership organisations
+94.91 Activities of religious organisations 9491
+94.92 Activities of political organisations 9492
+94.99 Activities of other membership organisations n.e.c. 9499L 393/26 EN Official Journal of the European Union 30.12.2006
+
+--- Page 27 of 39 ---

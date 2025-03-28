@@ -1,0 +1,62 @@
+File Name: 2_E1-6_2014-01-01_G_GHG-Agri_WRI&WBCSD.pdf
+Converted on: 2025-03-28 03:20:54
+Original Size: 1.75 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 31 of 65
+--------------------------------------------------------------------------------
+
+43
+ season. Also, the length of crop years and pr oduction seasons will vary  between regions, 
+potentially compromising the comparability of data from different facilities owned by the
+reporting company.   
+Multi-year base periods are recommended   
+Oftentimes, individual years wi ll not serve as representative  base periods (see Table 6.1 
+for examples). In such cases, companie s should average GHG flux data from multiple,
+consecutive years to form a more representati ve base period. In general, this Guidance
+recommends at least a three-year base pe riod, which is often sufficient to smooth over
+inter-annual variability. If a base year has already been se t for non-agricultural emissions,
+then a multi-year base period can be centered on that year.   Many calculation methodologies (e.g., Tier 1 IPCC methodologies; see Chapter 7.3) do 
+not capture the effects of climate or envi ronmental change on GHG fluxes. Instead, they
+only pick up changes in activ ity data (e.g., number of hectares farmed, number of cattle
+raised, amount of fertilizer used, etc.). As a result, if management practices in an
+individual year are representativ e, it may be appropriate to se lect that year as the base
+period.   Table 6-1.  Examples of when an individual year may not serve as a representative base 
+period  
+Why is the selected base period
+atypical? Examples
+Changes in environmental conditions
+occur that are beyond the control of the
+company and that cause the base period inventory to depart significantly from typical GHG flux profiles  During a single growing season, a heat wave 
+increases irrigation and therefore fuel use
+requirements  
+Atypical or episodic changes in farming practices  Coppiced woodland is returned to crop production 
+Forest is cleared for agricultural production  
+Agricultural activities vary cyclically over a set period of years, such that activities (and corresponding GHG fluxes) in one year differ from those in other years
+within the same cycle A multi-year multiple crop rotation  
+Coppicing of short-rotation woody crops (e.g., a row
+of willows that is harvested every three years)
+Rotational applications of lime
+
+Rolling base periods may be useful   
+Rolling base periods  are base periods that move fo rward in time with each reporting 
+period. They are useful because long-term environmental trends, such as changes in precipitation and temperature that accompa ny climate change, can affect agricultural
+GHG fluxes. As a result, the more widely sepa rated the current repor ting period is from a
+fixed base period, the more like ly it is that at least some of the difference in GHG fluxes
+between the two periods is due to these trends. Therefore, companies may use a rolling
+base period  to help minimize the influence of th ese long-term trends and ensure that 
+inventories are more useful as a basis for tracking the impacts of management practices.
+
+--- Page 44 of 103 ---
+
+GHG Protocol Agricultural Guidance
+
+44
+Using a rolling base period involves moving th e base period forward with each reporting
+period (Figure 6-1).    One disadvantage to rolling base periods is th at they do not allow reduction targets to be 
+expressed as a percentage reduction relative to a fixed point in the past, which is the most
+common form of expressing reduction targets.   Figure 6-1.  The concept of rolling base periods 
+
+6.2    Recalculating base period inventories.

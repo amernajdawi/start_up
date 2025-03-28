@@ -1,0 +1,89 @@
+File Name: 1_2023-07-31_DelVO_2023_2772_ESRS_EU.pdf
+Converted on: 2025-03-28 03:20:41
+Original Size: 5.82 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 257 of 284
+--------------------------------------------------------------------------------
+
+ELI: http://data.europa.eu/eli/reg_del/2023/2772/oj 257/284EWC European Works Council
+FPIC Free, Prior and Informed Consent
+FTE Full-time equivalent
+GAAP Generally Accepted Accounting Principles
+GHG Greenhouse Gas
+GJ Giga-Joules
+GRI Global Reporting Initiative
+GWP Global Warming Potential
+HFCs Hydrofluorocarbons
+IED Directive 2010/75/EU of the European Parliament and of the Council (2)(Industrial
+Emissions Directive)
+IFC International Finance Corporation
+IFRS International Financial Reporting Standards
+ILO International Labour Organisation
+IPBES Intergovernmental Science-Policy Platform on Biodiversity and Ecosystem Services
+IPCC Intergovernmental Panel on Climate Change
+ISEAL International Social and Environmental Accreditation and Labelling Alliance
+ISO International Organization for Standardization
+ISSB International Sustainability Standards Board
+ITS Implementing Technical Standards
+IUCN International Union for Conservation of Nature
+KBA Key Biodiversity Areas
+Kg Kilogram
+lb Pounds
+LEAP Locate Evaluate Assess Prepare
+LGBTQI Lesbian, Gay, Bisexual, Transgender, Queer, Intersex
+MDR Minimum Disclosure Requirement
+MWh Mega-Watt-hours
+N2O Nitrous Oxide
+NACE Statistical Classification of Economic Activities in the European Community
+NF3 Nitrogen trifluoride
+NGOs Non-Governmental Organisations
+NH3 Ammonia
+NOX Nitrogen oxides
+NUTS Nomenclature of Territorial Units of Statistics
+O3 Ozone
+(2)Directive 2010/75/EU of the European Parliament and of the Council of 24 November 2010 on industrial emissions (integrated
+pollution prevention and control) (OJ L 334, 17.12.2010, p. 17).OJ L, 22.12.2023 EN  
+
+--- Page 258 of 284 ---
+
+ELI: http://data.europa.eu/eli/reg_del/2023/2772/oj 258/284ODS Ozone-depleting substance
+OECD Organisation for Economic Co-operation and Development
+OECM One Earth Climate Model
+OpEX Operating Expenditure
+PBTS Persistent, bioaccumulative and toxic substances
+PCAF Partnership for Carbon Accounting Financial
+PCFs Perfluorocarbons
+PM Particulate Matter
+PMTs Persistent, Mobile and Toxic Substances
+POPs Persistent organic pollutants
+REACH Registration, Evaluation, Authorisation and Restriction of Chemicals
+SBTi Science Based Targets Initiative
+SBTN Science Based Targets Network
+SCE Societas Cooperativa Europaea
+SDA Sectoral Decarbonisation Approach
+SDGs Sustainable Development Goals
+SDPI Sustainable Development Performance Indicator
+SE Societas Europaea
+SEEA System of Environmental-Economic Accounting
+SEEA EA System of Environmental-Economic Accounting Ecosystem Accounting
+SFDR Regulation (EU) 2019/2088 of the European Parliament and of the Council (3)(Sustainable
+Finance Disclosures Regulation)
+SOX Sulphur oxides
+SVHC Substances of Very High Concern
+TCFD Task Force on Climate-Related Financial Disclosures
+TNFD Taskforce on Nature-related Financial Disclosures
+UN United Nations
+UNEP United Nations Environment Programme
+UNESCO United Nations Educational, Scientific and Cultural Organization
+vPvBs Very persistent and very bioaccumulative substances
+vPvMs Very persistent and very mobile substances
+WDPA World Database of Protected Areas
+WRI World Resources Institute
+WWF World-Wide Fund for Nature
+(3)Regulation (EU) 2019/2088 of the European Parliament and of the Council of 27 November 2019 on sustainability-related disclosures
+in the financial services sector (OJ L 317, 9.12.2019, p. 1).OJ L, 22.12.2023 EN  
+
+--- Page 259 of 284 ---

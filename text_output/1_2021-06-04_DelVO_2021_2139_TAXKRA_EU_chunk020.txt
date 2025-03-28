@@ -1,0 +1,57 @@
+File Name: 1_2021-06-04_DelVO_2021_2139_TAXKRA_EU.pdf
+Converted on: 2025-03-28 03:20:30
+Original Size: 2.76 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 20 of 447
+--------------------------------------------------------------------------------
+
+(38)  The information and communication sector is a constantly growing sector representing an increasing share in 
+greenhouse gas emissions. At the same time, information and communication technologies have the potential to
+contribute to climate change mitigation and to reduce greenhouse gas emissions in other sectors, such as by
+providing solutions that may help decision making enabling greenhouse gas emission reductions. Technical
+screening criteria should therefore be laid down for data processing and hosting activities that emit high
+volumes of greenhouse gas, and for data-driven solutions that enable reductions in greenhouse gas emissions in
+other sectors. The technical screening criteria for those activities should be based on the best practices and
+standards in that sector. They may need to be reviewed and updated in the future to take into account the
+greenhouse gas reduction potential from increased durability of information and communication technologies
+hardware solutions and the potential for digital technologies to be deployed in each sector directly to enable
+greenhouse gas emissions reductions. Moreover, the deployment and operation of electronic communications
+networks use considerable amounts of energy and have the potential to bring significant reductions of greenhouse
+gas emissions. It may therefore be necessary to assess those activities and establish relevant technical screening
+criteria, where appropriate.  
+(39)  Furthermore, information and communication technology solutions that are an integral part of those economic 
+activities for which technical screening criteria for substantial contribution to climate change mitigation should be
+established for their own respective performance, can also be of particular importance in assisting those different
+activities to reach the standards and thresholds established under those criteria.  
+(40)  Research, development and innovation have the potential to enable other sectors to meet their respective climate 
+change mitigation targets. The technical screening criteria for research, development and innovation activities
+should therefore focus on the potential of solutions, processes, technologies and other products for reducing
+greenhouse gas emissions. Research dedicated to enabling activities as referred to in Article 10(1), point (i) of
+Regulation (EU) 2020/852 can also play an important role in enabling those economic activities and their target
+activities to substantially reduce their greenhouse gas emissions or to improve their technological and economic
+feasibility and ultimately facilitate their scaling up. Research can also play an important role in further decarbon ­
+isation of transitional activities as referred to in Article 10(2) of Regulation (EU) 2020/852, by enabling those
+activities to be carried out with substantially lower greenhouse gas emissions levels compared to the thresholds
+specified in the technical screening criteria for substantial contribution to climate change mitigation for those
+activities.  
+(41)  Furthermore, research, development and innovation that are an integral part of those economic activities for which 
+technical screening criteria for substantial contribution to climate change mitigation should be established for their
+own respective performance, can also be of particular importance in assisting those different activities to reach the
+standards and thresholds established under those criteria.  
+(42)  The technical screening criteria for determining under which conditions an economic activity qualifies as 
+contributing substantially to climate change adaptation should reflect the fact that climate change is likely to
+affect all sectors of the economy. As a result, all sectors will need to be adapted to the adverse impact of the
+current climate and the expected future climate. It needs to be ensured, however, that an economic activity that
+contributes substantially to climate change adaptation also causes no significant harm to any of the other
+environmental objectives laid down in Article 9 of Regulation (EU) 2020/852. It is therefore appropriate to
+first establish technical screening criteria for climate change adaptation for those sectors and economic activities
+that are covered by the technical screening criteria for climate change mitigation, including the relevant ‘do no
+significant harm’ criteria to the environmental objectives. The descriptions of the economic activities considered as
+contributing substantially to climate change adaptation should correspond to the scope for which appropriate ‘do
+no significant harm’ criteria could be determined. In the light of the need to increase the overall climate resilience
+of the economy, technical screening criteria, including relevant ‘do no significant harm criteria’ should in the future
+be developed for additional economic activities.  
+(43)  Technical screening criteria should ensure that the broadest possible range of critical infrastructures, including in

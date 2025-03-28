@@ -1,0 +1,43 @@
+File Name: 2_E1-6_2011-09-01_G_GHG-PLC_WRI&WBCSD.pdf
+Converted on: 2025-03-28 01:56:27
+Original Size: 3.27 MB
+Chunk Size: 400 tokens with 50 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 245 of 270
+--------------------------------------------------------------------------------
+
+[133]
+Glossary
+Allocation  The partitioning of emissions and removals from a common process between the studied 
+product’s life cycle and the life cycle of the co-product(s).1
+Assurance  The level of confidence that the inventory results and report are complete, accurate, 
+consistent, transparent, relevant, and without material misstatements.
+Assurer  A competent individual or body who conducts the assurance process, whether internally 
+within the company or externally.
+Attributable processes  Service, material, and energy flows that become the product, make the product, and 
+carry the product through its life cycle.
+Attributional approach   An approach to LCA where GHG emissions and removals are attributed to the unit of analysis 
+of the studied product by linking together attributable processes along its life cycle.2
+Audit trail  Well organized and transparent historical records documenting how the GHG inventory 
+was compiled.
+Biogenic  Produced by living organisms or biological processes, but not fossilized or from  
+fossil sources.3
+Carbon stock  The total amount of carbon stored on a plot of land at any given time in one or more of 
+the following carbon pools: biomass (above and below ground), dead organic matter
+(dead wood and litter), and soil organic matter.4  A change in carbon stock can refer to 
+additional carbon storage within a pool, the removal of CO2 from the atmosphere, or the
+emission of CO2 to the atmosphere.
+Common process  One process that has multiple valuable products as inputs and/or outputs including the 
+studied product and co-product(s).
+Comparative assertion  An environmental claim regarding the superiority or equivalence of one product versus a 
+competing product that performs the same function.5
+Consequential approach  An approach to LCA where processes are included in the life cycle boundary to the extent 
+that they are expected to change as a consequence of a change in demand for the unit
+of analysis.6
+Consumer  An individual that purchases and uses a product.
+Co-product  A product exiting the common process that has value as an input into another product’s 
+life cycle.
+
+--- Page 136 of 148 ---

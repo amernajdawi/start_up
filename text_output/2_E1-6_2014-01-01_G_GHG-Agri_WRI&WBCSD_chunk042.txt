@@ -1,0 +1,74 @@
+File Name: 2_E1-6_2014-01-01_G_GHG-Agri_WRI&WBCSD.pdf
+Converted on: 2025-03-28 03:20:54
+Original Size: 1.75 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 42 of 65
+--------------------------------------------------------------------------------
+
+59
+ 2.Parameter uncertainty. This is a measure of  how close the data us ed to calculate the 
+inventory results (e.g., activity data and emission factors) are to the true (though
+unknown) actual data and GHG fluxes. Parame ter uncertainties can be evaluated
+through statistical analysis, measurement equipment, precision determinations, and
+expert judgment.
+Together, these sources of uncertainty affect whether GHG data are accurate enough to
+meet the business goals that are driving invent ory development or to determine if changes
+in GHG fluxes are the result of management changes.    
+Companies  should focus on parameter uncertainty 
+In general, understanding parameter uncertain ty will be the primary focus of companies
+in managing inventory quality. This is becau se most companies will lack the technical
+capacity to estimate model uncertainty, while mo st companies should be able to estimate
+parameter uncertainty. As far as is possibl e, companies should identify and track key
+uncertainty sources throughout the inventory process and iteratively check whether the
+uncertainty of the results is adequate  for the company’s business goals. The GHG 
+Protocol does not define acceptable uncertain ty levels. However, if the uncertainty
+bounds are asymmetrical, the larger uncertainty  should be used to remain conservative. 
+ Parameter uncertainty can be quantified ba sed on one or more the following:  
+• Measured uncertainty (represented by standard deviations)  
+• The pedigree matrix approach, based on data quality indicators (DQIs)
+8  
+• Default uncertainties for specific activities  or sector data (reported in various 
+literature)  
+• Probability distributions fr om commercial databases  
+• Uncertainty factors reported in literature  
+• Other approaches reported by literature
+Uncertainty data for emission factors will of ten be available. For instance, the IPCC
+typically provides uncertainty bounds for its Tier 1 emission factors.  
+ The GHG Protocol’s Quantitative  Inventory Uncertainty tool
+9 provides more information
+on assessing the overall uncertainty of an i nventory and the contribution of each data
+element to this uncertainty.    
+Information on uncertainty should be reported
+Uncertainty can be reported in many ways, in cluding through qualitati ve descriptions of
+uncertainty sources, and quantitative represen tations, such as error bars, histograms,
+probability density functions, etc. It is useful  to provide as complete a disclosure of 
+uncertainty information as is possible. Users of the information may then weigh the total
+set of information provided in judging their confidence in the information.
+
+8 The use of DQIs involves rating individual data points  against a range of quality criteria, such as precision 
+and geographical representativeness.   
+9 http://www.ghgprotocol.org/calculation-tools/all-tools
+
+--- Page 60 of 103 ---
+
+GHG Protocol Agricultural Guidance
+
+60
+Chapter 8: Accounting for Carbon Stocks
+Agricultural systems contain C in above-g round and below-ground biomass, dead organic
+matter (DOM), soil organic matter, and harv ested products (Chapter 4.2). These C stocks
+are reversible - any C sequestered in C stocks will eventually be emitted to the atmosphere. Also, changes in C stocks can ta ke decades to reach equilibrium following a
+change in farm management or land use. Th ese special features of agriculture have
+important implications for whether and how C stocks should be included within GHG
+inventories.  
+
+This chapter:
+ Describes how changes in C stocks should be reported in terms of CO
+2 fluxes.
+ Describes the types of CO 2 fluxes that should / s hould not be included in
+inventories.
+ Describes how the CO 2 fluxes from long-term changes in C stocks can be spread
+over multiple reporting periods.

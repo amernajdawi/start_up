@@ -1,0 +1,18 @@
+File Name: 1_2023-06-27_DelVO_2023_2486_TAXURA_EU.pdf
+Converted on: 2025-03-28 03:18:09
+Original Size: 8.44 MB
+Chunk Size: 500 tokens with 50 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 223 of 380
+--------------------------------------------------------------------------------
+
+4.For wearing apparel, where the economic activity involves laundry and dry-cleaning of used wearing apparel, the
+activity complies with an ISO type 1 ecolabel or equivalent.
+(180)‘E-commerce’ can be defined generally as the sale or purchase of goods or services, whether between businesses, households,
+individuals or private organisations, through electronic transactions conducted via the internet or other computer-mediated (online
+communication) networks, see Eurostat Statistics Explained Glossary, available at: https://ec.europa.eu/eurostat/statistics-explained/
+index.php?title=Category:Glossary .
+(181)‘Reusable’ and ‘reuse system’ are defined and implemented in accordance with the requirements on packaging reuse systems in the
+Union legislation on packaging and packaging waste, including any standards related to the number of rotations in a system for reuse.OJ L, 21.11.2023 EN

@@ -1,0 +1,46 @@
+File Name: 1_2023-07-31_DelVO_2023_2772_ESRS_EU.pdf
+Converted on: 2025-03-28 03:20:41
+Original Size: 5.82 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 70 of 284
+--------------------------------------------------------------------------------
+
+--- Page 74 of 284 ---
+
+ELI: http://data.europa.eu/eli/reg_del/2023/2772/oj 74/2845. Climate change adaptation relates to the undertaking’s process of adjustment to actual and expected climate change.
+6. This Standard covers Disclosure Requirements regarding climate-related hazards that can lead to physical climate
+risks for the undertaking and its adaptation solutions to reduce these risks. It also covers transition risks arising
+from the needed adaptation to climate- related hazards.
+7. The Disclosure Requirements related to “Energy” cover all types of energy production and consumption.
+Interactions with other ESRS
+8. Ozone-depleting substances (ODS), nitrogen oxides (NOX) and sulphur oxides (SOX), among other air emissions, are
+connected to climate change but are covered under the reporting requirements in ESRS E2.
+9. Impacts on people that may arise from the transition to a climate-neutral economy are covered under the ESRS S1
+Own workforce, ESRS S2 Workers in the value chain, ESRS S3 Affected communities and ESRS S4 Consumers and
+end-users.
+10. Climate change mitigation and adaptation are closely related to topics addressed in particular in ESRS E3 Water and
+marine resources and ESRS E4 Biodiversity and ecosystems. With regard to water and as illustrated in the table of climate-
+related hazards in AR 11, this standard addresses acute and chronic physical risks which arise from the water and
+ocean-related hazards. Biodiversity loss and ecosystem degradation that may be caused by climate change are
+addressed in ESRS E4 Biodiversity and ecosystems.
+11. This Standard should be read and applied in conjunction with ESRS 1 General requirements and ESRS 2 General
+disclosures.
+Disclosure Requirements
+ESRS 2 General disclosures
+12. The requirements of this section should be read and applied in conjunction with the disclosures required by ESRS 2
+on Chapter 2 Governance, Chapter 3 Strategy and Chapter 4 Impact, risk and opportunity management. The resulting
+disclosures shall be presented in the sustainability statement alongside the disclosures required by ESRS 2, except
+for ESRS 2 SBM-3 Material impacts, risks and opportunities and their interaction with strategy and business model, for which
+the undertaking may, in accordance with ESRS2 paragraph 46, present the disclosures alongside the other disclosures
+required in this topical standard.
+Governance
+Disclosure requirement related to ESRS 2 GOV-3 Integration of sustainability-related performance in incentive schemes
+13. The undertaking shall disclose whether and how climate-related considerations are factored into the remuneration of
+members of the administrative, management and supervisory bodies, including if their performance has been
+assessed against the GHG emission reduction targets reported under Disclosure Requirement E1-4 and the
+percentage of the remuneration recognised in the current period that is linked to climate related considerations, with an explanation of what the climate considerations are.OJ L, 22.12.2023 EN  
+
+--- Page 75 of 284 ---

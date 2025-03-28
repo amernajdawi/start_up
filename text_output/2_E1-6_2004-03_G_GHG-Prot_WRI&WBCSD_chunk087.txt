@@ -1,0 +1,121 @@
+File Name: 2_E1-6_2004-03_G_GHG-Prot_WRI&WBCSD.pdf
+Converted on: 2025-03-28 03:20:43
+Original Size: 3.51 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 87 of 104
+--------------------------------------------------------------------------------
+
+--- Page 95 of 116 ---
+
+APPENDIX D 93
+SCOPE 1 EMISSION SOURCES
+•Process emissions (calcination of limestone)
+•Stationary combustion (clinker kiln, drying of
+raw materials, production of electricity)
+•Mobile combustion (quarry operations,
+on-site transportation)
+•Stationary combustion (incinerators, boilers, flaring)
+•Process emissions (sewage treatment, nitrogen loading)
+•Fugitive emissions (CH4and CO2emissions from
+waste and animal product decomposition)
+•Mobile combustion (transportation of waste/products)
+•Stationary combustion (production of steam and elec-
+tricity, fossil fuel-derived emissions from calcination of calcium carbonate in lime kilns, drying products withinfrared driers fired with fossil fuels)
+•Mobile combustion (transportation of raw materials, prod-
+ucts, and wastes, operation of harvesting equipment)
+•Fugitive emissions (CH
+4and CO2from waste)
+•Stationary combustion(production of electricity,
+heat or steam)
+•Process emissions (HFC venting)
+•Mobile combustion (transportation of raw
+materials/products/waste)
+•Fugitive emissions (HFC use)
+•Process emissions (C2F6, CH4, CHF3, SF6, NF3, C3F8,
+C4F8, N2O used in wafer fabrication, CF4created from
+C2F6and C3F8processing)
+•Stationary combustion (oxidation of volatile organic
+waste, production of electricity, heat or steam)
+•Fugitive emissions (process gas storage leaks,
+container remainders/heel leakage)
+•Mobile combustion (transportation of raw
+materials/products/waste)
+•Stationary combustion (production of electricity, heat or steam)
+•Mobile combustion (transportation of raw
+materials/waste)
+•Fugitive emissions (mainly HFC emissions during use
+of refrigeration and air-conditioning equipment)SCOPE 2
+EMISSION SOURCES
+•Stationary combustion
+(consumption ofpurchased electricity,heat or  steam)
+•Stationary combustion
+(consumption ofpurchased electricity,heat or  steam)
+•Stationary combustion
+(consumption ofpurchased electricity,heat or  steam)
+•Stationary combustion
+(consumption ofpurchased electricity,heat or  steam)
+•Stationary combustion
+(consumption ofpurchased electricity,heat or  steam)
+•Stationary combustion
+(consumption ofpurchased electricity,heat or  steam)SCOPE 3 EMISSION SOURCES 
+•Stationary combustion (production of pur chased mate-
+rials, waste combustion)
+•Process emissions (production of purchased clinker and lime)
+•Mobile combustion (transportation of raw
+materials/products/waste, employee business travel,employee commuting)
+•Fugitive emissions (mining and landfill CH
+4and CO2,
+outsourced process emissions)
+•Stationary combustion(recycled waste used as a fuel)
+•Process emissions (recycled waste used as a feedstock)
+•Mobile combustion (transportation of waste/products,
+employee business travel, employee commuting)
+•Stationary combustion (production of purchased mate-
+rials, waste combustion)
+•Process emissions (production of purchased materials)
+•Mobile combustion (transportation of raw
+materials/products/waste, employee business travel,employee commuting)
+•Fugitive emissions (landfill CH
+4and CO2emissions)
+HFC, PFC, SF6 & HCFC 22 production
+•Stationary combustion (production of purchased materials)
+•Process emissions (production of pur chased m aterials)
+•Mobile combustion (transportation of raw materials/prod-
+ucts/waste, employee business travel, employee commuting)
+•Fugitive emissions(fugitive leaks in product use, CH4
+and CO2from waste landfills)
+•Stationary combustion (production of imported mate-
+rials, waste combustion, upstream T&D losses ofpurchased electricity)
+•Process emissions (production of pur chased materials,
+outsourced disposal of returned process gases andcontainer remainder/heel)
+•Mobile combustion (transportation of raw materials/prod-
+ucts/waste, employee business travel, employee commuting)
+•Fugitive emissions (landfill CH
+4and CO2emissions, down-
+stream process gas container remainder / heel  leakage)
+Other Sectors •Stationary combustion (production of purchased materials)
+•Process emissions (production of pur chased materials)
+•Mobile combustion (transportation of raw
+materials/  products/   waste, employee business travel,employee commuting)SECTOR
+MINERALSCement and
+Lime
+6
+WASTE7
+Landfills, Wastecombustion,Water services
+PULP & PAPER
+Pulp and Paper
+8
+HCFC 22
+production
+Semiconductor
+production
+Service sector/
+Office basedorganizations
+10HFC, PFC, SF6& HCFC 22 PRODUCTION9
+SEMICONDUCTOR PRODUCTION
+OTHER SECTORS10
+
+--- Page 96 of 116 ---

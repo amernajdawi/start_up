@@ -1,0 +1,48 @@
+File Name: 1_2023-07-31_DelVO_2023_2772_ESRS_EU.pdf
+Converted on: 2025-03-28 03:20:41
+Original Size: 5.82 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 196 of 284
+--------------------------------------------------------------------------------
+
+ELI: http://data.europa.eu/eli/reg_del/2023/2772/oj 196/284(b) paternity leave: leave from work for fathers or, where and in so far as recognised by national law, for
+equivalent second parents, on the occasion of the birth or adoption of a child for the purposes of providing
+care;
+(c) parental leave: leave from work for parents on the grounds of the birth or adoption of a child to take care of
+that child, as defined by each Member State;
+(d) carers’ leave from work: leave for workers to provide personal care or support to a relative, or a person who
+lives in the same household, in need of significant care or support for a serious medical reason, as defined by
+each Member State.
+AR 97. With regard to paragraph 93 (a), employees entitled to family-related leave are those who are covered by
+regulations, organisational policies, agreements, contracts or collective bargaining agreements that contain
+family-related leave entitlements and have reported their entitlement to the undertaking or the undertaking is aware of the entitlement.
+Disclosure Requirement S1-16 – Remuneration metrics (pay gap and total remuneration)
+Pay gap
+AR 98. When compiling the information required under paragraph 97 (a) for the gap in pay between its female and male
+employees (also known as the “gender pay gap”) the undertaking shall use the following methodology:
+(a) include all employees’ gross hourly pay level; and
+(b) apply the following formula to calculate the gender pay gap:
+AR 99. When disclosing the information required under paragraph 97 (a), the undertaking shall provide any contextual
+information necessary to understand the data and how the data has been compiled (methodology). Information
+regarding how objective factors such as type of work and country of employment influence the gender pay gap
+may be reported.
+AR 100. The measure of the undertaking’s gender pay gap shall be reported for the current reporting period and, if
+reported in previous sustainability reports, for the previous two reporting periods.
+Total remuneration Ratio
+AR 101. When compiling the information required by paragraph 97 (b), the undertaking shall:
+(a) include all employees
+;
+(b) consider, depending on the undertaking’s remuneration policies, all of the following:
+i. base salary, which is the sum of guaranteed, short-term, and non-variable cash compensation;
+ii. benefits in cash, which is the sum of the base salary and cash allowances, bonuses, commissions, cash
+profit-sharing, and other forms of variable cash payments;
+iii. benefits in kind, such as cars, private health insurance, life insurance, wellness programs; and
+iv. direct remuneration, which is the sum of benefits in cash, benefits in kind and total fair value of all
+annual long-term incentives (for example, stock option awards, restricted stock shares or units,
+performance stock shares or units, phantom stock shares, stock appreciation rights, and long-term cash
+awards).OJ L, 22.12.2023 EN  
+
+--- Page 197 of 284 ---

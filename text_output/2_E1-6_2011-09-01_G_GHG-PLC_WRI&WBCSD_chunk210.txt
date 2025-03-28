@@ -1,0 +1,42 @@
+File Name: 2_E1-6_2011-09-01_G_GHG-PLC_WRI&WBCSD.pdf
+Converted on: 2025-03-28 03:18:25
+Original Size: 3.27 MB
+Chunk Size: 500 tokens with 50 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 210 of 226
+--------------------------------------------------------------------------------
+
+[134]   Product Life Cycle Accounting and Reporting Standard
+Cradle-to-gate inventory  A partial life cycle of an intermediate product, from material acquisition through to 
+when the product leaves the reporting company’s gate (e.g., immediately following the
+product’s production).
+Cradle-to-grave inventory  Removals and emissions of a studied product from material acquisition through to  
+end-of-life.
+Customer  An entity that purchases, rents, or uses the products of another entity (i.e., a supplier).
+Direct emissions data  Emissions released from a process (or removals absorbed from the atmosphere) 
+determined through direct monitoring, stoichiometry, mass balances, or similar methods.
+Downstream  GHG emissions or removals associated with processes that occur in the life cycle of a 
+product subsequent to the processes owned or controlled by the reporting company.7
+Emissions factor  GHG emissions per unit of activity data. 
+End-of-life stage  A life cycle stage that begins when the used product is discarded by the consumer and 
+ends when the product is returned to nature (e.g., incinerated) or allocated to another
+product’s life cycle.
+Environmentally extended  Emission factors developed through the analysis of economic flows and used to estimate  
+ input-output (EEIO)  GHG emissions for a given industry or product category.8 
+Extrapolated data  Data specific to another process or product that has been adapted or customized to 
+resemble more closely the conditions of the given process in the studied product’s life cycle.
+Final product  Goods and services that are ultimately consumed by the end user rather than used in the 
+production of another good or service.
+Financial activity data  Monetary measures of a process that result in GHG emissions or removals.
+First party (self or  Assurance performed by a person(s) from within the reporting company but independent  
+ internal) assurance   of the GHG inventory determination process. 
+Function  The service provided by the studied product.
+Functional unit  The quantified performance of the studied product.9
+Gate-to-gate  The emissions and removals attributable to a studied product while it is under the 
+ownership or control of the reporting company.
+GHG impact  The results calculated when GHG emissions and removals are multiplied by the relevant 
+global warming potential (GWP).
+
+--- Page 137 of 148 ---

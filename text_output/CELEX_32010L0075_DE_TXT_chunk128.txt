@@ -1,0 +1,71 @@
+File Name: CELEX_32010L0075_DE_TXT.pdf
+Converted on: 2025-03-28 03:18:33
+Original Size: 4.18 MB
+Chunk Size: 500 tokens with 50 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 128 of 163
+--------------------------------------------------------------------------------
+
+Tätigkeit
+(Schwellenwert für den Lösungsmittelverbrauch
+in Tonnen/Jahr)Schwellenwert
+(Schwellenwert für
+den
+Lösungsmittel-
+verbrauch in
+Tonnen/Jahr)Emissions-
+grenzwerte für
+Abgase (mg
+C/Nm3)Grenzwerte für diffuse Emissionen (in %
+der eingesetzten Lösungsmittel)Gesamtemissionsgrenzwerte
+Besondere Bestimmungen
+Neue
+AnlagenBestehende
+AnlagenNeue
+AnlagenBestehende
+AnlagenL 334/82 DE Amtsblattder Europäischen Union 17.12.201012Holzimprägnierung
+(> 25)100 (1) 4511 kg/m3(1) Der Emissionsgrenzwert gilt nicht für die
+Imprägnierung mit Kreosot.
+13Lederbeschichtung(> 10)10-25
+>  2 5
+>  1 0  (
+1)85 g/m2
+75 g/m2
+150 g/m2Die Emissionsgrenzwerte sind in Gramm
+emittierter Lösungsmittel je m2 des End­
+produkts angegeben.
+(1) Für Lederbeschichtung in der Möbelher­
+stellung und bei besonderen Lederwaren, die
+als kleinere Konsumgüter verwendet werden, wie Taschen, Gürtel, Brieftaschen usw.
+14Schuhherstellung
+(> 5)25 g je Paar Der Grenzwert für die Gesamtemissionen ist
+in Gramm emittierter Lösungsmittel je voll­ständiges Schuhpaar angegeben.
+15Holz- und Kunststofflaminierung
+(> 5)30 g/m
+2
+16Klebebeschichtung(> 5)5-15
+>  1 550 (
+1)
+50 (1)2520(
+1) Falls Techniken eingesetzt werden, die die
+Wiederverwendung zurück gewonnener
+Lösungsmittel ermöglichen, gilt für Abgase ein Emissionsgrenzwert von 150.
+17Herstellung von Beschichtungs­
+mischungen, Klarlacken, Druckfarben und Klebstoffen
+(> 100)100-1 000
+> 1 000150150535 % der eingesetzten Lösungsmittel3 % der eingesetzten LösungsmittelDer Grenzwert für diffuse Emissionen
+bezieht sich nicht auf Lösungsmittel, die als Teil der Beschichtungsmischung in einem
+geschlossenen Behälter verkauft werden.
+18Kautschukumwandlung
+(> 15)20 (
+1)2 5 (2)25 % der eingesetzten Lösungsmit­
+tel(1) Falls Techniken eingesetzt werden, die die
+Wiederverwendung zurück gewonnener Lösungsmittel ermöglichen, gilt für Abgase ein Emissionsgrenzwert von 150.
+(
+2) Der Grenzwert für diffuse Emissionen
+bezieht sich nicht auf Lösungsmittel, die als
+Teil von Erzeugnissen oder Mischungen in einem geschlossenen Behälter verkauft wer­den.     
+
+--- Page 67 of 103 ---

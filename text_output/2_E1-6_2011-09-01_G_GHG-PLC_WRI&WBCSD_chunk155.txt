@@ -1,0 +1,22 @@
+File Name: 2_E1-6_2011-09-01_G_GHG-PLC_WRI&WBCSD.pdf
+Converted on: 2025-03-28 03:18:25
+Original Size: 3.27 MB
+Chunk Size: 500 tokens with 50 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 155 of 226
+--------------------------------------------------------------------------------
+
+•When there are material departures in the assertion
+from the assurance criteria, the reporting company
+should report the effect of the departures
+Endnotes
+1  Adapted from ISO 14064:3:2006, Greenhouse gases - Part 3: 
+Specification with guidance for the validation and verification of
+greenhouse gas assertions.
+2  Adapted from the GHG Protocol Corporate Standard.
+3  Adapted from ISO 14040:2006, Environmental Management –Life 
+Cycle Assessment –Principles and framework.
+4  Adapted from ISO 14044:2006, 6.1
+guidance

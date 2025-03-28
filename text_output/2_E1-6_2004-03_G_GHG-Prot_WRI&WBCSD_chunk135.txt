@@ -1,0 +1,19 @@
+File Name: 2_E1-6_2004-03_G_GHG-Prot_WRI&WBCSD.pdf
+Converted on: 2025-03-28 03:18:16
+Original Size: 3.51 MB
+Chunk Size: 500 tokens with 50 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 135 of 225
+--------------------------------------------------------------------------------
+
+rience for a company prior to commissioning an externalverification by a third party. It can also provide externalverifiers with useful information to begin their work.
+The concept of materiality
+The concept of “materiality” is essential to understandingthe process of verification. Chapter 1 provides a usefulinterpretation of the relationship between the principle ofcompleteness and the concept of materiality. Informationis considered to be material if, by its inclusion or exclu-sion, it can be seen to influence any decisions or actionstaken by users of it. A
+material discrepancy is an error
+(for example, from an oversight, omission or miscalcula-tion) that results in a reported quantity or statementbeing significantly different to the true value or meaning.In order to express an opinion on data or information, averifier would need to form a view on the materiality ofall identified errors or uncertainties.
+While the concept of materiality involves a value judg-
+ment, the point at which a discrepancy becomes material(
+materiality threshold ) is usually pre-defined. As a rule of
+thumb, an error is considered to be materially misleading CHAPTER 10 Verification of GHG Emissions 69GUIDANCE

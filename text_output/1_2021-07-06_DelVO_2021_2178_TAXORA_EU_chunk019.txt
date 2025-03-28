@@ -1,0 +1,52 @@
+File Name: 1_2021-07-06_DelVO_2021_2178_TAXORA_EU.pdf
+Converted on: 2025-03-28 03:20:32
+Original Size: 10.30 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 19 of 47
+--------------------------------------------------------------------------------
+
+1.2.3.2. Contextual information about CapEx KPI
+Non-financial undertakings shall provide a quantitative breakdown at the economic activity aggregated level of the
+amounts included in the numerator and qualitative explanation of the key elements of change in CapEx KPI during the
+reporting period. Such breakdown shall disclose all of the following:
+(a) an aggregation of additions to property, plant and equipment, to internally generated intangible assets, including in a
+business combination or acquired, to investment properties acquired or recognised in the carrying amount and, where
+applicable, to capitalised right-of-use assets;
+(b) an aggregation of additions related to acquisitions through business combinations;
+(c) an aggregation of expenses incurred in relation to Taxonomy-aligned economic activities and expenses incurred as part of a CapEx plan referred to in point 1.1.2. of this Annex.
+Non-financial undertakings shall disclose the key information about each of their CapEx plans referred to in point 1.1.2 of
+this Annex, including all of the following:
+(a) the environmental objectives pursued;
+(b) the economic activities concerned;
+(c) research, development and innovation activities concerned, where relevant;
+(d) the period of time whereby each Taxonomy-aligned economic activity is expected to be expanded or whereby each
+economic activity is expected to become Taxonomy-aligned, including, where the period in which the economic
+activity is expected to become Taxonomy-aligned exceeds five years, an objective justification of such longer period,
+based on the specific features of the economic activity and the upgrade concerned;
+(e) the total capital expense expected to be incurred during the reporting period and during the period of time of the
+CapEx plans.
+Non-financial undertaking that have issued environmentally sustainable bonds or debt securities with the purpose of
+financing specific identified Taxonomy-aligned activities shall also disclose the CapEx KPI adjusted for the Taxonomy-
+aligned capital expenditure financed by such bonds or debt securities.
+1.2.3.3. Contextual information about the OpEx KPI
+Non-financial undertakings shall provide all of the following:
+(a) a quantitative breakdown of the numerator(operating expenditure determined in accordance with point 1.1.3.2 of this
+Annex)to illustrate the key elements of change in the OpEx KPI during the reporting period;
+(b) a qualitative explanation of the key elements of change in OpEx KPI during the reporting period;
+(c) an explanation of the other expenditures relating to the day-to-day servicing of items of property plant and equipment that are included in the calculation of OpEx for both the numerator and denominator.
+Where OpEx is part of a CapEx plan as referred to in points 1.1.2.2 and 1.1.3.2 of this Annex, non-financial undertakings
+shall disclose the key information about each of their CapEx plans in line with the requirements of point 1.2.3.2 of this
+Annex.
+2. Methodology for reporting of KPIs to be disclosed by non-financial undertakings
+The following requirements shall apply for the disclosures under Article 8(2) of Regulation (EU) 2020/852:
+(a) non-financial undertakings shall identify each economic activity, including a subset of transitional and enabling
+economic activities;
+(b) non-financial undertakings shall disclose the KPIs for each economic activity and the total KPIs for all economic
+activities at the level of the relevant undertaking or group;
+(c) non-financial undertakings shall disclose the KPIs set out in points 1.1.1, 1.1.2 and 1.1.3 of this Annex for each environmental objective and the total KPIs for all environmental objectives at the level of the undertaking or group
+across all environmental objectives while avoiding double counting;EN Official Journal of the European Union 10.12.2021 L 443/21  
+
+--- Page 14 of 59 ---

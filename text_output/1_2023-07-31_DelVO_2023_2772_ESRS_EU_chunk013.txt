@@ -1,0 +1,50 @@
+File Name: 1_2023-07-31_DelVO_2023_2772_ESRS_EU.pdf
+Converted on: 2025-03-28 03:20:41
+Original Size: 5.82 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 13 of 284
+--------------------------------------------------------------------------------
+
+ELI: http://data.europa.eu/eli/reg_del/2023/2772/oj 12/28456. Where data from different levels, or multiple locations within a level, is aggregated, the undertaking shall ensure that
+this aggregation does not obscure the specificity and context necessary to interpret the information. The undertaking
+shall not aggregate material items that differ in nature.
+57. When the undertaking presents information disaggregated by sectors, it shall adopt the ESRS sector classification to
+be specified in a delegated act adopted by the Commission pursuant to article 29b(1) third subparagraph, point (ii),
+of Directive 2013/34/EU. When a topical or sector-specific ESRS requires that a specific level of disaggregation is
+adopted in preparing a specific item of information, the requirement in the topical or sector-specific ESRS shall
+prevail.
+4. Due diligence
+58. The outcome of the undertaking’s sustainability due diligence process (referred to as “due diligence” in the international instruments mentioned below) informs the undertaking’s assessment of its material impacts, risks and
+opportunities
+. ESRS do not impose any conduct requirements in relation to due diligence; nor do they extend or
+modify the role of the administrative, management or supervisory bodies of the undertaking with regard to the
+conduct of due diligence.
+59. Due diligence is the process by which undertakings identify, prevent, mitigate and account for how they address the
+actual and potential negative impacts on the environment and people connected with their business. These include
+negative impacts connected with the undertaking’s own operations and its upstream and downstream value chain, including through its products or services, as well as through its business relationships. Due diligence is an on-going
+practice that responds to and may trigger changes in the undertaking’s strategy, business model, activities, business
+relationships, operating, sourcing and selling contexts. This process is described in the international instruments of
+the UN Guiding Principles on Business and Human Rights and the OECD Guidelines for Multinational Enterprises.
+60. These international instruments identify a number of steps in the due diligence process, including the identification
+and assessment of negative impacts connected with the undertaking’s own operations and its upstream and
+downstream value chain, including through its products or services, as well as through its business relationships.
+Where the undertaking cannot address all impacts at once, the due diligence process allows for action to be
+prioritised based on the severity and likelihood of the impacts. It is this aspect of the due diligence process that
+informs the assessment of material impacts (see section 3.4 of this Standard). The identification of material impacts
+also supports the identification of material sustainability risks and opportunities, which are often a product of such
+impacts.
+61. The core elements of due diligence are reflected directly in Disclosure Requirements set out in ESRS 2 and in the topical ESRS, as illustrated below:
+(a) embedding due diligence in governance, strategy and business model (
+3). This is addressed under:
+i. ESRS 2 GOV-2: Information provided to and sustainability matters addressed by the undertaking’s administrative,
+management and supervisory bodies;
+ii. ESRS 2 GOV-3: Integration of sustainability-related performance in incentive schemes; and
+iii. ESRS 2 SBM-3: Material impacts, risks and opportunities and their interaction with strategy and business model.
+(3)UN Guiding Principle 16 and its commentary; UN Interpretive Guide, Questions 21 and 25 as well as OECD Guidelines Chapter II on
+General Policies (paragraph A.10), and chapter IV on Human Rights (paragraph 4; and paragraph 44 of the Commentary); and OECD
+Due Diligence Guidance, Section II (1.1 and 1.2) and Annex, Questions 14 and 15.OJ L, 22.12.2023 EN  
+
+--- Page 13 of 284 ---

@@ -1,0 +1,19 @@
+File Name: 1_2023-07-31_DelVO_2023_2772_ESRS_EU.pdf
+Converted on: 2025-03-28 03:18:14
+Original Size: 5.82 MB
+Chunk Size: 500 tokens with 50 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 406 of 686
+--------------------------------------------------------------------------------
+
+54. The objective of this Disclosure Requirement is to provide insight into the undertaking’s approach to employment,
+including the scope and nature of impacts arising from its employment practices, to provide contextual information
+that aids the understanding of the information reported in other disclosures, and to serve as the basis for calculation
+for quantitative metrics to be disclosed under other disclosure requirements in this Standard. It also allows an
+understanding of how much the undertaking relies on non-employees as part of its workforce.
+55. The disclosure required by paragraph 53 shall include:
+(a) a disclosure of the total number of non-employees in the undertaking’s own workforce, i.e., either people with
+contracts with the undertaking to supply labour (“self-employed people”) or people provided by undertakings
+primarily engaged in “employment activities” (NACE Code N78).OJ L, 22.12.2023 EN

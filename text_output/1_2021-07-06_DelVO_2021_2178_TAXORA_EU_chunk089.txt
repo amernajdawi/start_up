@@ -1,0 +1,20 @@
+File Name: 1_2021-07-06_DelVO_2021_2178_TAXORA_EU.pdf
+Converted on: 2025-03-28 03:18:05
+Original Size: 10.30 MB
+Chunk Size: 500 tokens with 50 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 89 of 90
+--------------------------------------------------------------------------------
+
+Turnover-based: %
+Capital expenditures-based: %Value of Taxonomy-aligned exposures to other
+counterparties over total assets covered by the KPI:
+Turnover-based: [monetary amount]Capital expenditures-based: [monetary amount]
+Breakdown of the numerator of the KPI per environmental objective
+Taxonomy-aligned activities – provided ‘do-not-significant-harm’(DNSH) and social safeguards positive assessment:
+(1) Climate change mitigation Turnover: %
+CapEx: %Transitional activities: A % (Turnover; CapEx)Enabling activities: B % (Turnover; CapEx)
+(2) Climate change adaptation Turnover: %
+CapEx: %Transitional activities: A % (Turnover; CapEx)Enabling activities: B % (Turnover; CapEx)EN Official Journal of the European Union 10.12.2021 L 443/65

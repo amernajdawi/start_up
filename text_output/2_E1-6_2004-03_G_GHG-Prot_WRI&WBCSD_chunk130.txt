@@ -1,0 +1,19 @@
+File Name: 2_E1-6_2004-03_G_GHG-Prot_WRI&WBCSD.pdf
+Converted on: 2025-03-28 03:18:16
+Original Size: 3.51 MB
+Chunk Size: 500 tokens with 50 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 130 of 225
+--------------------------------------------------------------------------------
+
+relative to a business type and can facilitate compar-isons between similar products and processes over time.Companies may choose to report GHG ratio indicatorsin order to:
+Evaluate performance over time (e.g., relate figures
+from different years, identify trends in the data, andshow performance in relation to targets and baseyears (see chapter 11).
+Establish a relationship between data from different
+categories. For example, a company may want toestablish a relationship between the value that anaction provides (e.g., price of a tonne of product) andits impact on society or on the environment (e.g.,emissions from product manufacturing).
+Improve comparability between different sizes of busi-
+ness and operations by normalizing figures (e.g., byassessing the impact of different sized businesses onthe same scale).
+It is important to recognize that the inherent diversity
+of businesses and the circumstances of individualcompanies can result in misleading indicators.Apparently minor differences in process, product, orlocation can be significant in terms of environmentaleffect. Therefore, it is necessary to know the businesscontext in order to be able to design and interpretratio indicators correctly.CHAPTER 9 Reporting GHG Emissions 65GUIDANCEB

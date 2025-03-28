@@ -1,0 +1,101 @@
+File Name: 2_E1-6_2011-09-01_G_GHG-PLC_WRI&WBCSD.pdf
+Converted on: 2025-03-28 03:20:53
+Original Size: 3.27 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 113 of 116
+--------------------------------------------------------------------------------
+
+[141]
+Recognitions
+Jannick H Schmidt, The Danish Centre for Environmental
+Assessment, Aalborg University
+Atsushi Inaba, Department of Environmental and Energy
+Chemistry, Kogakuin University
+Emelia Holdaway, Ecofys
+Yves Loerincik, Ecointesys - Life Cycle Systems
+Catarina Furtado, Ecoprogresso
+Lisa Brady, EMC Corporation
+Kathrin Winkler, EMC Corporation
+Brenna Zimmer, EMC Corporation
+Vivek Dhariwal, Emergent Ventures India
+Mary Stewart, Emergent Ventures India
+Liu Qiang, Energy Research Institute, China’s National
+Development and Reform Commission
+Lisa Grice, ENVIRON International Corporation
+Dave Covell, ENVIRON UK Ltd
+Ronjoy Rajkhowa, Ernst & Young
+Pere Fullana, Escola Superior de Comerc Internacional
+Niels Jungbluth, ESU-services Ltd.
+Alex Loijos, FoodPrint
+Angela Fisher, GE Global Research
+William P. Flanagan, GE Global Research
+Jacob Park, Green Mountain College
+Shannon Binns, Green Press Initiative
+Prasad Modak, Green Purchasing Network of India
+Shantanu Roy, Green Purchasing Network of India
+Tom Baumann, Greenhouse Gas Management Institute
+Michael Gillenwater, Greenhouse Gas  
+Management Institute
+Pablo Päster, Hara
+Terrie K. Boguski, Harmony Environmental, LLC
+Paul Shabajee, Hewlett-Packard
+Olle Blidholm, IKEA Group
+Xander van der Spree, IKEA Group
+Luis G. Huertas, Independent Architect
+ Angeline de Beaufort-Langeveld,  
+Independent Consultant
+Scott Stewart, Intel
+Marlen Bertram, International Aluminium Institute
+Kurt Buxmann, International Aluminium Institute
+Georgios Sarantakos, International Union  
+for Conservation of Nature
+Mankaa Nangah Rose, Italcementi Group
+David V. Spitzley, Kimberly-Clark Corporation  (Chair)Suzie Greenhalgh, Landcare Research NZ Ltd. (Chair)
+Taylor Wilkinson, LMI  (Chair)
+Paul Smith, LRQA Ltd.
+Oliver Ferrari, MarionEco
+Edgar E Blanco, Massachusetts Institute of Technology
+Kiyoshi Matsuda, Mitsubishi Chemical Corporation
+Jeffrey Mittelstadt, National Council  
+for Advanced Manufacturing
+Caroline Gaudreault, NCASI
+Reid Miner, NCASI
+Hans H. Wegner, National Geographic Society
+Anthony D’Agostino, National University of Singapore
+Alison Watson, New Zealand Ministry  
+of Agriculture and Forestry
+Jostein Soreide, Norsk Hydro
+Wilson Korol, Nortel Networks
+Tim Moore, Northwest Carbon
+Karen Oxenbøll, Novozymes A/S
+Christian Hochfeld, Öko Institut
+Dietlinde Quack, Öko Institut
+Philippe Letherisien, Orange
+Eloise Brauner, PE INTERNATIONAL
+Sabine Deimling, PE INTERNATIONAL
+Harald Florin, PE INTERNATIONAL
+Hannes Partl, PE INTERNATIONAL
+Julia Pflieger, PE INTERNATIONAL
+Michael Spielmann, PE INTERNATIONAL
+Liila Woods, PE INTERNATIONAL
+Haixiao Zhang, PE INTERNATIONAL
+Duncan Noble, PE INTERNATIONAL, Inc. & Five Winds
+Strategic Consulting
+Robert ter Kuile, PepsiCo
+Stephanie Adda, PricewaterhouseCoopers, LLP
+Helen Slinger, PricewaterhouseCoopers, LLP
+Getachew Assefa, Royal Institute  
+of Technology – Stockholm
+Jonas Dennler, SAP
+Jim Sullivan, SAP
+Kevin Ramm, SAP AG
+Andreas Vogel, SAP Labs
+Chris Librie, SC Johnson
+Valerie A Slomczewski, SC Johnson
+Lisa Brough, SGS
+Jan Minx, Stockholm Environment InstituteProduct Standard Technical Working Group Members (continued)
+
+--- Page 144 of 148 ---

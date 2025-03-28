@@ -1,0 +1,12 @@
+File Name: 1_2021-06-04_DelVO_2021_2139_TAXKRA_EU.pdf
+Converted on: 2025-03-28 03:20:30
+Original Size: 2.76 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 416 of 447
+--------------------------------------------------------------------------------
+
+numeric indicator of total primary energy use in kWh/m2 per year and based on the relevant national calculation methodology
+and as displayed on the Energy Performance Certificate (EPC).EN  L 442/324 Official Journal of the European Union 9.12.2021

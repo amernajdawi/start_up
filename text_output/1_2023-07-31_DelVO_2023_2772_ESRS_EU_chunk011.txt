@@ -1,0 +1,51 @@
+File Name: 1_2023-07-31_DelVO_2023_2772_ESRS_EU.pdf
+Converted on: 2025-03-28 03:20:41
+Original Size: 5.82 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 11 of 284
+--------------------------------------------------------------------------------
+
+ELI: http://data.europa.eu/eli/reg_del/2023/2772/oj 10/28440. The undertaking shall consider how it is affected by its dependencies on the availability of natural, human and social
+resources at appropriate prices and quality, irrespective of its potential impacts on those resources.
+41. An undertaking’s principal impacts, risks and opportunities are understood to be the same as the material impacts,
+risks and opportunities identified under the double materiality principle and therefore reported on in its
+sustainability statement.
+42. The undertaking shall apply the criteria set under sections 3.4 and 3.5 in this Standard, using appropriate
+quantitative and/or qualitative thresholds. Appropriate thresholds are necessary to determine which impacts, risks
+and opportunities are identified and addressed by the undertaking as material and to determine which
+sustainability matters are material for reporting purposes. Some existing standards and frameworks use the term
+"most significant impacts” when referring to the threshold used to identify the impacts that are described in ESRS as "material impacts."
+3.4 Impact materiality
+43. A sustainability matter is material from an impact perspective when it pertains to the undertaking’s material actual
+or potential, positive or negative impacts on people or the environment over the short-, medium- or long-term.
+Impacts include those connected with the undertaking’s own operations and upstream and downstream value chain,
+including through its products and services, as well as through its business relationships. Business relationships
+include those in the undertaking’s upstream and downstream value chain and are not limited to direct contractual
+relationships.
+44. In this context, impacts on people or the environment include impacts in relation to environmental, social and
+governance matters.
+45. The materiality assessment of a negative impact is informed by the due diligence process defined in the international
+instruments of the UN Guiding Principles on Business and Human Rights and the OECD Guidelines for Multinational
+Enterprises. For actual negative impacts, materiality is based on the severity of the impact, while for potential negative
+impacts it is based on the severity and likelihood of the impact. Severity is based on the following factors:
+(a) the scale;
+(b) scope; and
+(c) irremediable character of the impact.
+In the case of a potential negative human rights impact, the severity of the impact takes precedence over its
+likelihood.
+46. For positive impacts, materiality is based on:
+(a) the scale and scope of the impact for actual impacts; and
+(b) the scale, scope and likelihood of the impact for potential impacts.
+3.5 Financial materiality
+47. The scope of financial materiality for sustainability reporting is an expansion of the scope of materiality used in the
+process of determining which information should be included in the undertaking’s financial statements.
+48. The financial materiality assessment corresponds to the identification of information that is considered material for
+primary users of general-purpose financial reports in making decisions relating to providing resources to the entity.
+In particular, information is considered material for primary users of general-purpose financial reports if omitting,
+misstating or obscuring that information could reasonably be expected to influence decisions that they make on the
+basis of the undertaking’s sustainability statement.OJ L, 22.12.2023 EN  
+
+--- Page 11 of 284 ---

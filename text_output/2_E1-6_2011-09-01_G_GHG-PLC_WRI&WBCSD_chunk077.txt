@@ -1,0 +1,89 @@
+File Name: 2_E1-6_2011-09-01_G_GHG-PLC_WRI&WBCSD.pdf
+Converted on: 2025-03-28 03:20:53
+Original Size: 3.27 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 77 of 116
+--------------------------------------------------------------------------------
+
+[97]CHAPTER 12 Assurance
+12.3 Guidance
+12.3.1	 Benefits	of	assurance
+Assuring product inventory results can provide a variety
+of benefits, including:
+•Increased confidence in the reported information on
+which to base reduction targets and related decisions
+•Enhanced internal accounting and reporting practices
+(e.g., data collection, calculation, and internal
+reporting systems), and facilitation of learning and
+knowledge transfer within the company
+•Increased confidence in the results by other companies
+in the product’s life cycle that may use the results in
+their own inventories
+•Improved efficiency in subsequent inventory update
+processes and when undertaking inventories of other
+company products
+•Greater stakeholder trust in the reported information
+12.3.2 Key concepts in assurance
+In the assurance field many different terms are used to
+describe various assurance processes (e.g., verification,
+validation, quality assurance, quality control, audit, etc.).
+Though not comprehensive, table 12.3 includes many key
+terms and concepts used in the assurance process.
+12.3.3 Materiality
+A material misstatement occurs when individual
+or aggregate known errors, omissions and
+misrepresentations have a significant impact on the GHG
+inventory results and could influence a user’s decisions.
+Materiality has both quantitative and qualitative aspects.
+The assurer and reporting company should determine
+an appropriate threshold or benchmark of materiality
+during the assurance process.
+Quantitative materiality is typically calculated as a
+percentage of the inventory (in total or on an individual
+line item basis). In determining the quantitative
+materiality benchmark, assurers should contemplate
+the risk of a potential misstatement and the history of
+previous misstatements. A materiality threshold (e.g., a
+point at which a discrepancy becomes material) can be
+pre-defined by the assurer.  Qualitative misstatements tend to be those that have 
+immaterial quantitative effects but could materially affect
+the reporting company’s emissions in the future as well  
+as those that mislead the intended user.
+Uncertainty is a separate concept from materiality
+because it is not a known error, rather an indicator
+of how well the data represents the processes in the
+product inventory.
+12.3.4 Preparing for assurance
+Preparing for assurance is a matter of ensuring that the
+evidence that the assurer needs is easily accessible. The
+type of evidence and documentation requested by the
+assurer will depend on the subject matter, the industry,
+and the type of assurance being sought. Maintaining
+documentation of the inventory process through the use
+of a data management plan (see Appendix C) is helpful for
+ensuring the assurance evidence is available.
+Prior to starting the assurance process, the reporting
+company should ensure that the following are prepared
+and available to the assurer:
+•The company’s written assertion (e.g., inventory
+results);
+•The completed data management plan; and
+•Access to sufficient and appropriate evidence (i.e.,
+invoices, bills of sale, etc.).
+Timing of verification
+Verification is conducted before the public release of
+the inventory report by the reporting company. This
+allows for material misstatements to be corrected
+prior to the release of the opinion (or revised opinion)
+and assertion. The work should be initiated far enough
+in advance of the inventory report release so that it is
+useful in improving the inventory when applicable. The
+period of the verification process is dependent on the
+nature and complexity of the subject matter and the
+level of assurance.
+guidance
+
+--- Page 100 of 148 ---

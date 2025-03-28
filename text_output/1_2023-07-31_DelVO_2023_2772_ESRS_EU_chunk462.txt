@@ -1,0 +1,32 @@
+File Name: 1_2023-07-31_DelVO_2023_2772_ESRS_EU.pdf
+Converted on: 2025-03-28 03:18:14
+Original Size: 5.82 MB
+Chunk Size: 500 tokens with 50 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 462 of 686
+--------------------------------------------------------------------------------
+
+ELI: http://data.europa.eu/eli/reg_del/2023/2772/oj 194/284AR 79. Employee categories are a breakdown of employees by level (such as senior management, middle management) or
+function (such as technical, administrative, production). This information is derived from the undertaking’s own
+human resources system. In categorising the workforce, the undertaking shall define reasonable and meaningful
+employee categories which enable users of the information to understand different performance measures
+between the categories. The undertaking may present a category for executive and non- executive employees.
+Disclosure Requirement S1-14 – Health and safety metrics
+AR 80. In relation to paragraph 88 (a), the percentage of its own workforce who are covered by the undertaking’s health
+and safety management system shall be disclosed on a head count basis rather than a full-time equivalent basis.
+AR 81. With regard to paragraph 90, when the undertaking’s health and safety management system, or certain parts
+thereof, has been subject to an internal audit or external certification, the undertaking may state this fact, or
+absence thereof, and the underlying standards for such audits/certifications, as applicable.
+AR 82. Fatalities may be reported separately for those resulting from work-related injuries and those resulting from
+work-related ill health.
+Guidance on “work-related”
+AR 83. Work-related injuries and work-related ill health arise from exposure to hazards at work. Notwithstanding,
+other types of incidents can occur that are not connected with the work itself. For example, the following
+incidents are generally not considered to be work-related, unless otherwise specified in applicable national
+legislation:
+(a) a person in the workforce suffers a heart attack while at work that it is not connected with work;
+(b) a person in the workforce driving to or from work is injured in a car accident (when driving is not part of the work and where the transport has not been organised by the undertaking); and
+(c) a person in the workforce with epilepsy has a seizure at work that is not connected with work.
+AR 84. With regard to travelling for work purposes, injuries and ill health that occur while a person is travelling are work-related if, at the time of the injury or ill health, the person was engaged in work activities “in the interest of the employer”. Examples of such activities include travelling to and from customer contacts; conducting job tasks;

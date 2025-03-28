@@ -1,0 +1,13 @@
+File Name: 2_E1-6_2006-01-01_GHG-LuLu_WRI&WBCSD.pdf
+Converted on: 2025-03-28 01:44:41
+Original Size: 6.41 MB
+--------------------------------------------------------------------------------
+
+Chunk: 130 of 148
+--------------------------------------------------------------------------------
+
+--- Page 88 of 100 ---
+
+•Adescriptionofhowfieldmeasurementaccuracyout- comeshavebeenincorporatedintotheestimationprocess. C . 5 D ATA E N T RY A N D A N A L Y S I S Projectdevelopersshoulddocumenttheprocessandproce - duresforensuringreliableandaccuratedataentryand analysis,including •Thenames,experience,andspecificrolesofallpartiesin thedataentryandanalysis. •Adescriptionoftheupload,database,andfilewrite accessrestrictionscontributingtothedata’sreliability. •Adescriptionoftheinternalcontrolprocessesinplacefor eachdataentryandanalysisactivityminimizingtherisk ofincorrectdataentryand/oruse.C . 6 D ATA M A I N T E N A N C E A N D S T O R A G E / A R C H I V I N G Projectdevelopersshoulddocumenthowthedataaretobe maintainedinthelongterm,including •Adescriptionofhowplotsheetsarestored(ifpaperisused). •Adescriptionofhowtheoriginalfielddatafilesare beingstored. •Adescriptionoftheproceduresinplaceforthe updatingorconversionoffilesfromoldertocurrent digitalfileformats. •Adescriptionoftheactionstakentominimizetheriskof databasecorruption,includingbackupsanddatabaseand filewriteaccessrestrictions. •Adescriptionofanyarchivingproceduresorprotocols. N O T E S 1TheguidanceinannexCwasdevelopedbyPennyBaalmanfrom DelNorskeVeritas(DNV). PARTIV:AnnexC 86 
+
+--- Page 89 of 100 ---

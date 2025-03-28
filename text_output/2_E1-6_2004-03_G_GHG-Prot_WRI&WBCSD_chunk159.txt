@@ -1,0 +1,41 @@
+File Name: 2_E1-6_2004-03_G_GHG-Prot_WRI&WBCSD.pdf
+Converted on: 2025-03-28 03:18:16
+Original Size: 3.51 MB
+Chunk Size: 500 tokens with 50 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 159 of 225
+--------------------------------------------------------------------------------
+
+4. Choose the target base year
+For a target to be credible, it has to be transparent how
+target emissions are defined in relation to past emissions.Two general approaches are available: a fixed target baseyear or a rolling target base year.
+USING A FIXED TARGET BASE YEAR. Most GHG
+targets are defined as a percentage reduction in emis-sions below a fixed target base year (e.g., reduce CO
+2
+emissions 25 percent below 1994 levels by 2010).Chapter 5 describes how companies should track emis-sions in their inventory over time in reference to afixed base year. Although it is possible to use differentyears for the inventory base year and the target baseyear, to streamline the inventory and target reportingprocess, it usually makes sense to use the same yearfor both. As with the inventory base year, it is impor-tant to ensure that the emissions data for the targetbase year are reliable and verifiable. It is possible touse a multi-year average target base year. The sameconsiderations as described for multi-year average
+base years in chapter 5 apply.
+Chapter 5 provides standards on when and how to
+recalculate base year emissions in order to ensurelike-with-like comparisons over time when structuralchanges (e.g., acquisitions/divestitures) or changes inmeasurement and calculation methodologies alter theemissions profile over time. In most cases, this willalso be an appropriate approach for recalculating datafor a fixed target base year.
+USING A ROLLING TARGET BASE YEAR. Companies
+may consider using a rolling target base year ifobtaining and maintaining reliable and verifiable datafor a fixed target base year is likely to be challenging(for example, due to frequent acquisitions). With arolling target base year, the base year rolls forward atregular time intervals, usually one year, so that emis-sions are always compared against the previous year.
+4
+However, emission reductions can still be collectivelyCHAPTER 11 Setting a GHG Target 79GUIDANCETABLE 5. Comparing targets with rolling and fixed base years
+How might the target be stated?
+What is the target base year?
+How far back is like-with-like
+comparison possible?
+What is the basis for comparing
+emissions between the targetbase year and completion year? (see also Figure 14)
+How far back are
+recalculations made?
+How reliable are the target
+base year emissions?
+When are recalculations made?FIXED TARGET BASE YEAR
+A target might take the form “we will
+emit X% less in year B than in year A”
+A fixed reference year in the past
+The time series of absolute emissions
+will compare like with like
+The comparison over time is based on

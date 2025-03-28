@@ -1,0 +1,77 @@
+File Name: 2_E1-6_2011-09-01_G_GHG-PLC_WRI&WBCSD.pdf
+Converted on: 2025-03-28 03:20:53
+Original Size: 3.27 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 47 of 116
+--------------------------------------------------------------------------------
+
+[58]   Product Life Cycle Accounting and Reporting Standard
+guidance8.3.10  Data gaps
+Data gaps exist when there is no primary or secondary
+data that is sufficiently representative of the given
+process in the product’s life cycle. For most processes
+where data are missing, it should be possible to obtain
+sufficient information to provide a reasonable estimate.
+Therefore, there should be few, if any, data gaps.  The 
+following sections give additional guidance on filling data
+gaps with proxy and estimated data.
+Proxy data
+Proxy data are data from similar processes that are used
+as a stand-in for a specific process. Proxy data can be
+extrapolated, scaled up, or customized to represent the
+given process. Companies may customize proxy data
+to more closely resemble the conditions of the studied
+process in the product’s life cycle if enough information
+exists to do so. Data can be customized to better match
+geographical, technological, or other metrics of the
+process. Identifying the critical inputs, outputs, and
+other metrics should be based on other relevant product
+inventories or other considerations (e.g., discussions with
+a stakeholder consultant) when product inventories do
+not exist. Examples of proxy data include:
+•Using data on apples as a proxy for all fruit
+•Using data on PET plastic processes when data on the
+specific plastic input is unknown •Adapting an electricity grid emission factor for one
+region to another region with a different generation mix
+•Customizing the amount of material consumed by a
+process from another product’s life cycle to match a
+similar process in the studied product
+Estimated data
+When a company cannot collect proxy data to fill a
+data gap, companies should estimate the data to
+determine significance. If processes are determined to
+be insignificant based on estimated data, the process
+may be excluded from the inventory results. Criteria for
+determining insignificance are outlined in chapter 7.
+To assist with the data quality assessment, any
+assumptions made in filling data gaps, along with the
+anticipated effect on the product inventory final results,
+should be documented. Figure 8.2 illustrates the guidance
+for filling data gaps with proxy data or estimated data.
+8.3.11 Improving data quality
+Collecting data and assessing its quality is an iterative
+process for improving the overall data quality of the
+product inventory. If data sources are identified as low
+quality using the data quality indicators, companies should
+re-collect data for the particular process. The following
+steps are useful when improving data quality.
+are proxy data available?
+
+is the process estimated
+to be insignificant?
+disclose and justify  
+the data gap  
+in the inventory report
+collect new data
+or
+include estimated data in the
+inventory results
+fill	data	gap	with	this	secondary	dataFigure [8.2]  Decision tree for filling data gaps
+yes
+yesno
+no
+
+--- Page 61 of 148 ---

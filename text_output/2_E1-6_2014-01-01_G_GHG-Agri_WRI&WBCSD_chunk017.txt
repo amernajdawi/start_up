@@ -1,0 +1,54 @@
+File Name: 2_E1-6_2014-01-01_G_GHG-Agri_WRI&WBCSD.pdf
+Converted on: 2025-03-28 03:20:54
+Original Size: 1.75 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 17 of 65
+--------------------------------------------------------------------------------
+
+wi th agricultural GHG fluxes ( e . g . , meeting the requirements of buye rs such as processors and food and drink companies , and repo rting to civil society ) .  A desire to sustain farmlands for future generations . GHG emissions reduction measures may also offer co - benefits such as :  Reduced erosion and land degradation  Reduced phosphorous ( P ) and nitrogen ( N ) runoff  Improved water quality and retention  Control of air pollutants ( e . g , ammonia and hydrogen sulphide )  Increased soil fertility
+
+Often, these co-benefits can help to redu ce costs and increase productivity on farms.
+Table 2-2 summarizes common agricultural practices that provide GHG and other
+benefits. Stockwell & Bitan (2011) provide further information on these practices.  
+Because agro-ecosystems are inherently complex, reduction measures should not be selected in isolation of each other, but rather selected us ing a whole-farm or systems
+approach. This ensures that interactions be tween the C and nitrogen (N) cycles on farms,
+as well as trade-offs between the emissions of different GHGs, are taken into account and
+that reduction measures can be more effec tively integrated into  individual farming 
+
+--- Page 18 of 103 ---
+
+GHG Protocol Agricultural Guidance
+
+18
+systems (see Chapter 7.1). Because this Gu idance only considers GHGs, it cannot be used
+by itself to assess trade-offs between GHGs  and other environmental impacts.   
+
+--- Page 19 of 103 ---
+
+Table 2-1. Business goals served by incl uding agricultural GHG emissions in corporate inventories.
+Business  Goal 
+Description
+Track and reduce GHG
+impacts Identify emissions hot spots and reduction oppo rtunities, and prioritize GHG reduction efforts  
+Set GHG reduction targets
+Measure and report GHG performance over time
+Develop performance benchmarks and assess performance against sector averages and competitors
+Understand operational
+and reputational risks and opportunities associated with agricultural GHG fluxes Identify climate-related risks (e.g., determine whether ag ricultural or processing facility would be subject to
+government regulations, such as a cap and trade scheme or other reporting scheme)
+Understand economic and environmental be nefits of managing emissions (see  
+Table 2-2 for examples)
+Enhance market opportunities (e.g., access niche markets with potential price premiums)
+Guide investment and procurement decisions (e.g ., to purchase relatively less GHG-intensive goods )
+Report to stakeholders Meet needs of stakeholders through public disclosure of  GHG fluxes and of progress towards GHG 
+reduction targets  
+Participate in voluntary re porting programs to disclose GHG related information to stakeholder groups  
+Report to government reporting programs at the in ternational, national, regional or local levels
+Improve reputation and accountabi lity through public disclosure
+
+--- Page 20 of 103 ---
+
+GHG Protocol Agricultural Guidance

@@ -1,0 +1,53 @@
+File Name: 1_2023-06-27_DelVO_2023_2486_TAXURA_EU.pdf
+Converted on: 2025-03-28 03:20:36
+Original Size: 8.44 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 84 of 199
+--------------------------------------------------------------------------------
+
+--- Page 58 of 164 ---
+
+ELI: http://data.europa.eu/eli/reg_del/2023/2486/oj 58/1646.The operator of the activity uses electronic tools to describe the characteristics of the building as built, including the
+materials and components used, for the purpose of future maintenance, recovery, and reuse, for example using EN
+ISO22057:2022 to provide Environmental Product Declarations (111). The information is stored in a digital format and is
+made available to investors and clients on demand. In addition, the operator of the activity ensures the long-term preservation of this information beyond the useful life of the building by using the information managing systems
+provided by national tools, such as cadastre or public register.
+Do no significant harm (‘DNSH’)(1) Climate change mitigation The building is not dedicated to extraction, storage, transport or manufacture of fossil
+fuels.
+(2) Climate change adaptation The activity complies with the criteria set out in Appendix A to this Annex.
+(3)
+Sustainable use and protec ­
+tion of water and marine resourcesWhere installed as part of the renovation works, except for renovation works in
+residential building units, the specified water use for the following water appliances are
+attested by product datasheets, a building certification or an existing product label in the
+Union, in accordance with the technical specifications laid down in Appendix E to
+Annex I to Delegated Regulation (EU) 2021/2139:
+(a) wash-hand basin taps and kitchen taps have a maximum water flow of 6 litres/min;
+(b) showers have a maximum water flow of 8 litres/min;
+(c) WCs, including suites, bowls and flushing cisterns, have a full flush volume of a
+maximum of 6 litres and a maximum average flush volume of 3,5 litres;
+(d) urinals use a maximum of 2 litres/bowl/hour. Flushing urinals have a maximum full
+flush volume of 1 litre.
+(5) Pollution prevention and
+controlBuilding components and materials used in the construction comply with the criteria set out in Appendix C to this Annex.
+Building components and materials used in the construction that may come into contact
+with occupiers (
+112)emit less than 0,06 mg of formaldehyde per m3 of test chamber air
+upon testing in accordance with the conditions specified in Annex XVII to Regulation (EC) No 1907/2006 and less than 0,001 mg of other categories 1A and 1B
+carcinogenic volatile organic compounds per m
+3 of test chamber air, upon testing in
+accordance with EN 16516 or ISO 16000-3:2011 (113)or other equivalent standardised
+test conditions and determination methods.
+Measures are taken to reduce noise, dust and pollutant emissions during construction or
+maintenance works.
+(111)ISO standard 22057:2022, Sustainability in buildings and civil engineering works – Data templates for the use of environmental
+product declarations (EPDs) for construction products in building information modelling (BIM) (version of April 2022), https://www.
+iso.org/standard/72463.html.
+(112)Applying to paints and varnishes, ceiling tiles, floor coverings (including associated adhesives and sealants), internal insulation and
+interior surface treatments, such as to treat damp and mould.
+(113)ISO 16000-3:2011, Indoor air – Part 3: Determination of formaldehyde and other carbonyl compounds in indoor air and test chamber air – Active sampling method (version of 27.6.2023: https://www.iso.org/standard/51812.html).OJ L, 21.11.2023 EN  
+
+--- Page 59 of 164 ---

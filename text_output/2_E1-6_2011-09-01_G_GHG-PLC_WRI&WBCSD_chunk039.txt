@@ -1,0 +1,91 @@
+File Name: 2_E1-6_2011-09-01_G_GHG-PLC_WRI&WBCSD.pdf
+Converted on: 2025-03-28 03:20:53
+Original Size: 3.27 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 39 of 116
+--------------------------------------------------------------------------------
+
+[49]
+CHAPTER 08 Collecting Data and Assessing Data Quality
+guidance8.3 Guidance
+Companies should follow the steps below when collecting
+data and assessing data quality:
+Step 1.  Develop a data management plan and document  
+the data collection and assessment processes as
+they are completed
+Step 2.  Identify all data needs using the product’s  
+process map
+Step 3.  Perform a screening to help focus data  
+collection efforts
+Step 4.  Identify data types
+Step 5.  Collect primary data for all processes under the 
+ownership or control of the reporting company
+Step 6.  For all other processes, collect primary or 
+secondary data. Assess and document the data
+quality of the direct emissions data, activity data,
+and emission factors as the data are collectedStep 7.  Improve the data quality, focusing on processes 
+that have a significant impact on the inventory
+results
+The following sections provide guidance on completing
+each of these steps.
+8.3.1  Data management plan
+A data management plan is a tool to help companies
+organize and consistently document the data collection
+process, including sources of data, assumptions made,
+and data quality. Documenting the data collection
+process is useful for improving the data quality over
+time, preparing for assurance, and revising future
+product inventories to reflect changes in the product’s
+life cycle. To ensure that all the relevant information
+is documented, a data management plan should be
+established early in the inventory process. Detailed
+guidance on how to create and implement a data
+management plan is given in Appendix C.
+PepsiCo, Inc. is a leading global food and beverage
+company whose brands include Pepsi, Lay’s, Quaker
+Oats, Gatorade, and Tropicana. Working with Columbia
+University, and using sector guidance developed by the
+Beverage Industry Environmental Roundtable, PepsiCo
+inventoried the GHG emissions from a 64 ounce (1.9 liter)
+gable top carton of their Tropicana Pure Premium brand
+of orange juice using the following six step process:
+1. Develop a comprehensive list of materials
+2. Develop a process map
+3. Collect emissions data
+4. Perform a screening analysis
+5. Fill data gaps with additional primary data and
+acceptable secondary data
+6. Calibrate against sector guidance and report
+By collecting secondary data through the screening
+analysis step, PepsiCo discovered that the orange
+growing process was a large emissions contributor
+to the product inventory. This result led PepsiCo to
+collect its own primary data since these would be specific to the growing processes used for Tropicana
+oranges and would allow the company to track
+performance over time. PepsiCo’s selection of primary
+data was further validated when comparison of the
+data sources showed the secondary data were less
+complete and contained significant differences in the
+fertilizer, on-farm activities, and transportation data.
+By using primary data, PepsiCo found that the orange
+growing process, which included fertilizer use and
+application, contributed approximately 35 percent of the
+product’s emissions.
+As a result, PepsiCo
+is now working with
+one of its long-term
+orange growers to
+test two lower-GHG
+fertilizers in the
+growing process.PepsiCo
+By using primary data,
+PepsiCo found that
+the orange growing
+process... contributed
+35% of the
+product’s emissions.
+
+--- Page 52 of 148 ---

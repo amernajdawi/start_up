@@ -1,0 +1,42 @@
+File Name: 1_2023-06-27_DelVO_2023_2486_TAXURA_EU.pdf
+Converted on: 2025-03-28 03:18:09
+Original Size: 8.44 MB
+Chunk Size: 500 tokens with 50 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 204 of 380
+--------------------------------------------------------------------------------
+
+ELI: http://data.europa.eu/eli/reg_del/2023/2486/oj 74/164(a) the packaging is made of at least 65 % recycled material. Where the packaging is made from paper or cardboard, the
+remaining primary raw material are certified by the Forest Stewardship Council (FSC), the Programme for the
+Endorsement of Forest Certification Schemes (PEFC International), or equivalent recognised schemes. Coatings with
+plastics or metals are not used. For plastic packaging only mono-materials without coatings are used, halogen-
+containing polymers are not used. A declaration of compliance is provided specifying the material composition of the
+packaging and the shares of recycled and primary raw material;
+(b) the packaging has been designed to be reusable within a reuse system (167). The system for reuse is established in a way
+that ensures the possibility of reuse in a closed-loop or open-loop system.
+Do no significant harm (‘DNSH’)
+(1) Climate change mitigation Where the activity involves on-site generation of heat/cool or co-generation including
+power, the direct GHG emissions of the activity are lower than 270 gCO 2e/kWh.
+The activity develops a strategy to account for and reduce the GHG emissions arising from transport along the value chain, including shipping and returns, to the extent
+these are traceable.
+(2) Climate change adaptation The activity complies with the criteria set out in Appendix A to this Annex.
+(3)
+Sustainable use and protec ­
+tion of water and marine
+resourcesThe activity complies with the criteria set out in Appendix B to this Annex.
+(5) Pollution prevention and
+controlThe activity complies with the criteria set out in Appendix C to this Annex.
+Sold spare parts comply with all relevant EU rules on the restriction of the use of
+hazardous substances, of generic nature or with specific relevance to that product
+category, such as Regulation (EC) No 1907/2006, Directive 2011/65/EU, and Directive
+(EU) 2017/2102.
+(6) Protection and restoration
+of biodiversity and ecosys ­
+temsN/A
+5.3. Preparation for re-use of end-of-life products and product components
+Description of the activity
+Preparation for re-use of products and components at the end of life (168).
+The economic activity does not include repair activities, which are performed during the product’s use stage.
+(167)‘Reusable’ and ‘reuse system’ are defined and implemented in accordance with the requirements on packaging reuse systems in the

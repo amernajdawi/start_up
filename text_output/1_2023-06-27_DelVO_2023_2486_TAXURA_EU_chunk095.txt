@@ -1,0 +1,56 @@
+File Name: 1_2023-06-27_DelVO_2023_2486_TAXURA_EU.pdf
+Converted on: 2025-03-28 03:20:36
+Original Size: 8.44 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 95 of 199
+--------------------------------------------------------------------------------
+
+ELI: http://data.europa.eu/eli/reg_del/2023/2486/oj 66/164(5) Pollution prevention and
+controlComponents and materials used in the construction comply with the criteria set out in
+Appendix C to this Annex.
+Components and materials used in the construction that may come into contact with
+occupiers (144)emit less than 0,06 mg of formaldehyde per m3 of test chamber air upon
+testing in accordance with the conditions specified in Annex XVII to Regulation (EC)
+No 1907/2006 and less than 0,001 mg of other categories 1A and 1B carcinogenic
+volatile organic compounds per m3 of test chamber air, upon testing in accordance
+with CEN/EN 16516 (145)or ISO 16000-3:2011 (146)or other equivalent standardised
+test conditions and determination methods (147).
+Where the new construction is located on a potentially contaminated site (brownfield
+site), the site has been subject to an investigation for potential contaminants, for
+example by using standard ISO 18400.
+Measures are taken to reduce noise, vibrations, dust and pollutant emissions during
+construction or maintenance works.
+Where appropriate, given the sensitivity of the area affected, in particular in terms of the
+size of population and fauna affected, noise and vibrations from construction, use and
+maintenance of infrastructure are mitigated by acoustical planning introducing open
+trenches, wall barriers or other appropriate measures in compliance with Directive
+2002/49/EC of the European Parliament and of the Council (148).
+(6) Protection and restoration of biodiversity and ecosys
+­
+temsThe activity complies with the criteria set out in Appendix D to this Annex.
+In addition, the following is to be ensured:
+(a) in the EU, in relation with Natura 2000 sites: the activity does not have significant
+effects on Natura 2000 sites in view of their conservation objectives on the basis of
+an appropriate assessment carried out in accordance with Article 6(3) of Directive
+92/43/EEC;
+(b) in the EU, in any area: the activity is not detrimental to the recovery or maintenance
+of the populations of species protected under Directive 92/43/EEC and Directive
+2009/147/EC at a favourable conservation status. The activity is also not
+detrimental to the recovery or maintenance of the habitat types concerned and
+protected under Directive 92/43/EEC at a favourable conservation status;
+(c) outside of the EU, activities are conducted in accordance with applicable law related
+to the conservation of habitats and species.
+(144)Applying to paints and varnishes, ceiling tiles, floor coverings, including associated adhesives and sealants, internal insulation and
+interior surface treatments, such as those to treat damp and mould.
+(145)CEN/TS 16516: 2013, Construction products – Assessment of release of dangerous substances –Determination of emissions into
+indoor air.
+(146)ISO 16000-3:2011, Indoor air – Part 3: Determination of formaldehyde and other carbonyl compounds in indoor air and test chamber air – Active sampling method.
+(147)The emissions thresholds for carcinogenic volatile organic compounds relate to a 28-day test period.
+(148)Directive 2002/49/EC of the European Parliament and of the Council of 25 June 2002 relating to the assessment and management of
+environmental noise – Declaration by the Commission in the Conciliation Committee on the Directive relating to the assessment and
+management of environmental noise (OJ L 189, 18.7.2002, p. 12).OJ L, 21.11.2023 EN  
+
+--- Page 67 of 164 ---

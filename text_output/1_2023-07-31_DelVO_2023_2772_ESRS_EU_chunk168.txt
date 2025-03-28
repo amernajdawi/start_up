@@ -1,0 +1,52 @@
+File Name: 1_2023-07-31_DelVO_2023_2772_ESRS_EU.pdf
+Converted on: 2025-03-28 03:20:41
+Original Size: 5.82 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 168 of 284
+--------------------------------------------------------------------------------
+
+ELI: http://data.europa.eu/eli/reg_del/2023/2772/oj 171/284(b) any specific channels it has in place for its own workforce to raise their concerns or needs directly with the
+undertaking and have them addressed, including whether these are established by the undertaking itself and/or
+through participation in third-party mechanisms;
+(c) whether or not the undertaking has a grievance
+/complaints handling mechanism related to employee
+matters (94); and
+(d) the processes through which the undertaking supports the availability of such channels in the workplace of its
+own workforce; and
+(e) how it tracks and monitors issues raised and addressed, and, how it ensures the effectiveness of the channels,
+including through the involvement of stakeholders who are intended users.
+33. The undertaking shall disclose whether and how it assesses that people in its own workforce are aware of, and trust,
+these structures or processes as a way to raise their concerns or needs and have them addressed. In addition, the
+undertaking shall disclose whether it has policies in place regarding the protection of individuals that use them,
+including workers’ representatives, against retaliation. If such information has been disclosed in accordance with
+ESRS G1-1, the undertaking may refer to that information.
+34. If the undertaking cannot disclose the above required information because it has not adopted a channel for raising
+concerns and/or does not support the availability of such a channel in the workplace for its own workforce, it shall
+disclose this to be the case. It may disclose a timeframe in which it aims to have such a channel in place.
+Disclosure Requirement S1-4 – Taking action on material impacts on own workforce, and approaches to managing
+material risks and pursuing material opportunities related to own workforce, and effectiveness of those actions
+35. The undertaking shall disclose how it takes action to address material negative and positive impacts, and to
+manage material risks and pursue material opportunities related to its own workforce, and the effectiveness of those actions.
+36. The objective of this Disclosure Requirement is twofold. Firstly, it is to enable an understanding of any actions and
+initiatives through which the undertaking seeks to:
+(a) to prevent, mitigate and remediate negative material impacts on its own workforce; and/or
+(b) to achieve positive material impacts for its own workforce.
+Secondly, it is to enable an understanding of the ways in which the undertaking is addressing the material risks and
+pursuing the material opportunities related to its own workforce.
+37. The undertaking shall provide a summarised description of the action plans and resources to manage its material
+impacts, risks, and opportunities related to its own workforce in accordance with ESRS 2 MDR-A Actions and
+resources in relation to material sustainability matters.
+38. In relation to the material impacts related to its own workforce, the undertaking shall describe:
+(a) actions taken, planned or underway to prevent or mitigate material negative impacts on its own workforce;
+(b) whether and how it has taken action to provide or enable remedy in relation to an actual material impact;
+(c) any additional actions or initiatives it has in place with the primary purpose of delivering positive impacts for its
+own workforce; and
+(94)This information supports the information needs of financial market participants subject to Regulation (EU) 2019/2088 because it is
+derived from an additional indicator related to principal adverse impacts as set out by indicator #5 in Table III of Annex I of
+Commission Delegated Regulation (EU) 2022/1288 with regard to disclosure rules on sustainable investments (“Lack
+of grievance/complaints handling mechanisms related to employee matters).OJ L, 22.12.2023 EN  
+
+--- Page 172 of 284 ---

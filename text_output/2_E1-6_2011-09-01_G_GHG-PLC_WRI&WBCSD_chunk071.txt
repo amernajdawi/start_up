@@ -1,0 +1,66 @@
+File Name: 2_E1-6_2011-09-01_G_GHG-PLC_WRI&WBCSD.pdf
+Converted on: 2025-03-28 03:20:53
+Original Size: 3.27 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 71 of 116
+--------------------------------------------------------------------------------
+
+[89]
+guidanceCHAPTER 11 Calculating Inventory Results[89]
+3.   Calculate total inventory results  
+(CO2e/unit of analysis)
+Once the inventory results in CO2e are calculated, the
+company  needs to ensure that all results are on the same 
+reference flow basis. For example, if the reference flow
+for the studied product is 10 kg and the inventory results
+are per kg of product, all the inventory results need to
+multiplied by 10. Because the reference flow represents
+to amount of product needed to fulfil the unit of
+analysis, results on the reference flow basis are summed
+together to calculate the total CO2e/unit of analysis. More
+information on reference flows and unit of analysis is
+available in chapter 6.
+The following components make up the total inventory
+results:The total CO2e/unit of analysis represents the amount
+of CO2 equivalent GHGs entering the atmosphere as a
+result of fulfilling the function of a product. Therefore,
+emissions are treated as positive values and removals are
+treated as negative values.
+Land-use change impacts are included in the total
+inventory results if they are attributable to the studied
+product. Guidance on calculating land-use change impacts
+is included in Appendix B. If no land-use change impacts
+are attributable and no removals occur during the
+product’s life cycle, the total inventory results are simply
+the sum of emissions in CO2e per reference flow.
+Total CO2e
+unit of analysisCO2e Emissions (Biogenic)
+reference flow =  –CO2e Removals (Biogenic)
+reference flow
+CO2e Emissions (Non-Biogenic)
+reference flow+
+–CO2e Removals (Non-Biogenic)
+reference flowCO2e Land Use Change Impacts  
+reference flow+
+
+--- Page 92 of 148 ---
+
+[90]   Product Life Cycle Accounting and Reporting Standard
+guidance4.    Calculate percentage of total inventory 
+results by life cycle stage
+The inventory results per life cycle stage are calculated
+using the same equation given in step 3 above. Land-use
+change impacts and removals are typically included in the
+material acquisition and preprocessing or production stage
+depending on the perception of the reporting company.
+In some cases removals may occur during the use stage
+(e.g. the absorption of CO2 by cement).  If the removals are 
+large enough to create a negative percent impact from that
+stage, this should be noted clearly in the inventory report.
+The following equation is used to determine the
+percentage of total inventory results by life cycle stage:
+Percentage per   =       CO2e per life  cycle stage  
+   Total CO2e inventory results      x   100

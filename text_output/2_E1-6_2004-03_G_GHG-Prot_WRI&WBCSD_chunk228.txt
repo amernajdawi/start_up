@@ -1,0 +1,24 @@
+File Name: 2_E1-6_2004-03_G_GHG-Prot_WRI&WBCSD.pdf
+Converted on: 2025-03-28 01:56:03
+Original Size: 3.51 MB
+Chunk Size: 400 tokens with 50 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 228 of 251
+--------------------------------------------------------------------------------
+
+Intensity target A target defined by reduction in the ratio of emissions and a business metric over time e.g., reduce
+CO2per tonne of cement by 12% between 2000 and 2008. (Chapter 11)
+Intergovernmental Panel on International body of climate change scientists. The role of the IPCC is to assess the scientific,
+Climate Change (IPCC) technical and socio-economic information relevant to the understanding of the risk of human-induced
+climate change (www.ipcc.ch).
+Inventory A quantified list of an organization’s GHG emissions and sources.
+Inventory boundary An imaginary line that encompasses the direct and indirect emissions that are included in the inven-
+tory. It results from the chosen organizational and operational boundaries. (Chapter 3, 4)
+Inventory quality The extent to which an inventory provides a faithful, true and fair account of an organization’s GHG
+emissions. (Chapter 7)
+Joint Implementation (JI) The JI mechanism was established in Article 6 of the Kyoto Protocol and refers to climate change miti-
+gation projects implemented between two Annex 1 countries. JI allows for the creation, acquisitionand transfer of “emission reduction units” (ERUs).
+Kyoto Protocol A protocol to the United Nations Framework Convention on Climate Change (UNFCCC). Once entered
+into force it will require countries listed in its Annex B (developed nations) to meet reduction targetsof GHG emissions relative to their 1990 levels during the period of 2008–12.GLOSSARY 99

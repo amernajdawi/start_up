@@ -1,0 +1,44 @@
+File Name: 1_2023-06-27_DelVO_2023_2486_TAXURA_EU.pdf
+Converted on: 2025-03-28 03:18:09
+Original Size: 8.44 MB
+Chunk Size: 500 tokens with 50 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 252 of 380
+--------------------------------------------------------------------------------
+
+ELI: http://data.europa.eu/eli/reg_del/2023/2486/oj 93/164The activity implements best practices specified in the Joint Research Centre Best
+Environmental Management Practice for the Public Administration Sector (18).
+Where waste water treatment is conducted by an urban waste water treatment plant on
+behalf of the manufacturing plant, it is ensured that:
+(a) the load of pollutants released by the manufacturing plant has no negative effect in
+the treatment process of the urban waste water treatment plant;
+(b) the load and characteristics of pollutants do not pose any risk or harm to the health
+of the staff working in waste water treatment plants;
+(c) the urban waste water treatment plant is designed and equipped appropriately to
+abate the released polluting substances;
+(d) the overall load of the concerned pollutants discharged to the water body is not increased compared to the situation where the emissions from the installation
+concerned remained compliant with emission limit values set for direct releases;
+(e) the usability of the sewage sludge for nutrient (re)cycling is not affected.
+For installations where additional pollutant limits or stricter conditions have been
+included in their environmental permit compared to the requirements of the legislation
+mentioned above, these stricter conditions apply.
+2. Soil and groundwater protection
+Appropriate measures are in place to prevent emissions to soil and regular surveillance is
+conducted to avoid leaks, spills, incidents or accidents occurring during the use of
+equipment and during storage.
+3. Water consumption
+Operators assess the water footprint of the chemical production processes in line with
+ISO 14046:2014 (
+19)and ensure that they do not contribute to water scarcity. Based on
+this assessment, operators provide a declaration that they do not contribute to water scarcity which is verified by an independent third party.
+4. The activity complies with the criteria set out in Appendix B to this Annex.
+(4) Transition to a circular
+economyThe activity assesses the availability of and, where feasible, adopts techniques that support:
+(a) reuse and use of secondary raw materials and reused components in products
+manufactured;
+(b) design for high durability, recyclability, easy disassembly and adaptability of
+products manufactured;
+(18)Joint Research Centre, Best Environmental Management Practice for the Public Administration Sector, 2019, version of 27.6.2023
+available at: https://op.europa.eu/en/publication-detail/-/publication/6063f857-7789-11e9-9f05-01aa75ed71a1/language-en.

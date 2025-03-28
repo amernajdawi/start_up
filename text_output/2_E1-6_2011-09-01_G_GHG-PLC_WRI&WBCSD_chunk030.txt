@@ -1,0 +1,67 @@
+File Name: 2_E1-6_2011-09-01_G_GHG-PLC_WRI&WBCSD.pdf
+Converted on: 2025-03-28 03:20:53
+Original Size: 3.27 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 30 of 116
+--------------------------------------------------------------------------------
+
+[40]   Product Life Cycle Accounting and Reporting Standard
+ [40]   Product Life Cycle Accounting and Reporting Standard
+guidanceand duration of attributable processes in the use stage
+depends heavily on the function and service life of the
+product. For products that consume energy to fulfill their
+function, attributable processes in the use stage and their
+corresponding emissions may account for the largest
+fraction of impacts over the complete life cycle. Examples
+of attributable processes may include:
+•Transportation to the use location (e.g., consumers
+driving to their residences)
+•Refrigeration at the use location
+•Preparation for use (e.g., microwaving)
+•Use (e.g., power consumption)
+•Repair and maintenance occurring during usage time3
+End-of-life
+The end-of-life stage begins when the used product is
+discarded by the consumer and ends when the product
+is returned to nature (e.g., incinerated) or allocated to
+another product’s life cycle (e.g., recycled). Because
+the main attributable process in the end-of-life stage
+is the method used to treat the product (land filling,
+incineration, etc.), companies need to know or assume
+the fate of the product to map this stage. Examples of
+attributable processes may include:
+•Collection and transport of end-of-life products and
+packages
+•Waste management
+•Dismantling of components
+•Shredding and sorting •Incineration and sorting of bottom ash
+•Land filling and landfill maintenance
+Requirements and guidance for end-of-life recycling are
+available in chapter 9.  
+For a service, the production and use stage may be
+combined into the service delivery stage. This stage
+encompasses all operations required to complete a
+service. For example, in the case of home appliance repair,
+attributable processes may include driving to the home,
+assessing the appliance, ordering or picking up parts, and
+returning to complete the final repair. All material flows
+(e.g., parts needed for the repair), energy flows (e.g., fuel
+to deliver the service person and/or parts), and end-of-
+life considerations of materials and wastes make up the
+attributable processes along the service life cycle.
+7.3.2 Developing a process map
+Developing a process map is an important requirement
+when completing an inventory, since processes and
+flows identified in the process map are the basis for
+data collection and calculation. Companies may use the
+following steps:
+1. Identify the defined life cycle stages at the top of the
+map, from material extraction through to end-of-life
+(or production for cradle-to-gate inventories)
+2. Identify the position on the map where the studied product
+is finished, and exits the reporting company’s gate
+
+--- Page 43 of 148 ---

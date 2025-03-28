@@ -1,0 +1,61 @@
+File Name: 2_ESRS2_SBM1_2006-12-20_VO_NACER2_EU.pdf
+Converted on: 2025-03-28 03:20:56
+Original Size: 0.17 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 34 of 45
+--------------------------------------------------------------------------------
+
+ANNEX II
+Annexes 1, 2, 3, 4, 5, 6 and 7 of Regulation (EC, Euratom) No 58/97 are amended as follows:
+1. Annex 1 (Common module for annual structural statistics) is amended as follows:1.1. Throughout the text the following replacements shall be made:
+Former wording Amended wording
+NACE Rev. 1 Section J NACE Rev. 2 Section K
+NACE Rev. 1 group 65.2 and division 67 NACE Rev. 2 groups 64.2, 64.3 and 64.9 and division 66
+Sections C to G of NACE Rev. 1 Sections B to G of NACE Rev. 2
+NACE Rev. 1 activity class 65.11 NACE Rev. 2 activity class 64.11Divisions 65 and 66 of NACE Rev. 1 divisions 64 and 65 of NACE Rev. 2
+Sections H, I and K of NACE Rev. 1 Sections H, I, J, L, M, N and division 95 of NACE Rev. 2
+1.2. Section 9 shall be replaced by the following:
+‘Section 9 –Groupings of activities
+The following groupings of activities refer to the NACE Rev. 2 classification.
+SECTIONS B, C, D, E AND F
+Mining and quarrying; manufacturing; electricity, gas, steam and air conditioning supply; water supply; sewerage,
+waste management and remediation activities; construction
+To enable Community statistics to be compiled, Member States will transmit component national results broken down
+to the classes of NACE Rev. 2.
+SECTION G
+Wholesale and retail trade; repair of motor vehicles and motorcycles
+To enable Community statistics to be compiled, Member States will transmit component national results broken down
+to the classes of NACE Rev. 2.
+SECTION H
+Transportation and storage49.1+49.2 “Passenger rail transport, interurban” and “Freight rail transport”
+49.3 Other passenger land transport49.4 Freight transport by road and removal services49.5 Transport via pipelines
+50.1+50.2 “Sea and coastal passenger water transport” and “Sea and coastal
+freight water transport”
+50.3+50.4 “Inland passenger water transport” and “Inland freight water transport”
+51 Air transportL 393/28 EN Official Journal of the European Union 30.12.2006
+
+--- Page 29 of 39 ---
+
+52 Warehousing and support activities for transportation
+53.1 Postal activities under universal service obligation
+53.2 Other postal and courier activities
+SECTION IAccommodation and food service activities55 Accommodation56 Food and beverage service activitiesSECTION J
+Information and communication
+58 Publishing activities59 Motion picture, video and television programme production, sound
+recording and music publishing activities
+60 Programming and broadcasting activities
+61 Telecommunications62 Computer programming, consultancy and related activities63 Information service activitiesSECTION KFinancial and insurance activities
+To enable Community statistics to be compiled, Member States will transmit component national results broken down
+to the classes of NACE Rev. 2.
+SECTION L
+Real estate activities
+68 Real estate activitiesSECTION MProfessional, scientific and technical activities69+70 “Legal and accounting activities” and “Activities of head offices;
+management consultancy activities”
+71 Architectural and engineering activities; technical testing and analysis72 Scientific research and development73.1 Advertising73.2
+7475Market research and public opinion polling
+Other professional, scientific and technical activitiesVeterinary activities30.12.2006 EN Official Journal of the European Union L 393/29
+
+--- Page 30 of 39 ---

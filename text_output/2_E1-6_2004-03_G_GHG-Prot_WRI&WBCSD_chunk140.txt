@@ -1,0 +1,36 @@
+File Name: 2_E1-6_2004-03_G_GHG-Prot_WRI&WBCSD.pdf
+Converted on: 2025-03-28 03:18:16
+Original Size: 3.51 MB
+Chunk Size: 500 tokens with 50 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 140 of 225
+--------------------------------------------------------------------------------
+
+Site visits
+Depending on the level of assurance required from
+verification, verifiers may need to visit a number of sitesto enable them to obtain sufficient, appropriate evidenceover the completeness, accuracy and reliability ofreported information. The sites visited should be repre-sentative of the organization as a whole. The selection ofsites to be visited will be based on consideration of anumber of factors, including:
+Nature of the operations and GHG sources at each site
+Complexity of the emissions data collection and
+calculation process
+Percentage contribution to total GHG emissions from
+each site
+The risk that the data from sites will be
+materially misstated
+Competencies and training of key personnel
+Results of previous reviews, verifications, and
+uncertainty analyses.Timing of the verification
+The engagement of a verifier can occur at various pointsduring the GHG preparation and reporting process.Some companies may establish a semi-permanentinternal verification team to ensure that GHG data stan-dards are being met and improved on an on-going basis.
+Verification that occurs during a reporting period allows
+for any reporting deficiencies or data issues to beaddressed before the final report is prepared. This maybe particularly useful for companies preparing highprofile public reports. However, some GHG programsmay require, often on a random selection basis, an inde-pendent verification of the GHG inventory following thesubmission of a report (e.g., World Economic ForumGlobal GHG Registry, Greenhouse Challenge program inAustralia, EU ETS). In both cases the verificationcannot be closed out until the final data for the periodhas been submitted. CHAPTER 10 Verification of GHG Emissions 71GUIDANCE
+PricewaterhouseCoopers (PwC), a global services company, hasbeen conducting GHG emissions verifications for the past 10 yearsin various sectors, including energy, chemicals, metals, semicon-ductors, and pulp and paper. PwC’s verification process involvestwo key steps:
+1. An evaluation of whether the GHG accounting and reporting
+methodology (e.g., GHG Protocol Corporate Standard ) has been
+correctly implemented
+2. Identification of any material discrepancies.TheGHG Protocol Corporate Standard has been crucial in helping
+PwC to design an effective GHG verification methodology. Since thepublication of the first edition, PwC has witnessed rapid improve-ments in the quality and verifiability of GHG data reported. Inparticular the quantification on non-CO
+2GHGs and combustion
+emissions has dramatically improved. Cement sector emissionsverification has been made easier by the release of the WBCSDcement sector tool. GHG emissions from purchased electricity arealso easy to verify since most companies have reliable data on MWh
+consumed and emission factors are publicly available.
+However, experience has shown that for most companies, GHG data

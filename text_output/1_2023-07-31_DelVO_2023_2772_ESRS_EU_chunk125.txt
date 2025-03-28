@@ -1,0 +1,49 @@
+File Name: 1_2023-07-31_DelVO_2023_2772_ESRS_EU.pdf
+Converted on: 2025-03-28 03:20:41
+Original Size: 5.82 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 125 of 284
+--------------------------------------------------------------------------------
+
+ELI: http://data.europa.eu/eli/reg_del/2023/2772/oj 127/284(c) total water recycled and reused in m3; (68)
+(d) total water stored and changes in storage in m3; and
+(e) any contextual information necessary regarding points (a) to (d), including the water basins’ water quality and
+quantity, how the data have been compiled, such as any standards, methodologies, and assumptions used,
+including whether the information is calculated, estimated, modelled, or sourced from direct measurements, and
+the approach taken for this, such as the use of any sector-specific factors.
+29. The undertaking shall provide information on its water intensity : total water consumption in its own operations in
+m3 per million EUR net revenue (69).
+Disclosure Requirement E3-5 – Anticipated financial effects from material water and marine resources-related risks and
+opportunities
+30. The undertaking shall disclose the anticipated financial effects of material water and marine resources-related risks
+and opportunities.
+31. The information required by paragraph 30 is in addition to the information on current financial effects on the entity’s financial position, financial performance and cash flows for the reporting period required under ESRS 2 SBM-3 para
+48 (d).
+32. The objective of this Disclosure Requirement is to provide an understanding of:
+(a) anticipated financial effects due to material risks arising from water and marine resources-related impacts and
+dependencies and how these risks have (or could reasonably be expected to have) a material influence on the
+undertaking’s financial position, financial performance and cash flows, over the short-, medium- and long-term;
+and
+(b) anticipated financial effects due to material opportunities related to water and marine resources.
+33. The disclosure shall include:
+(a) a quantification of the anticipated financial effects in monetary terms before considering water and marine
+resources-related actions or where not possible without undue cost or effort, qualitative information. For
+financial effects arising from opportunities, a quantification is not required if it would result in disclosure that
+does not meet the qualitative characteristics of information (see ESRS 1 Appendix B Qualitative characteristics of
+information);
+(b) a description of the effects considered, the impacts and dependencies to which they relate, and the time horizons in which they are likely to materialise; and
+(c) the critical assumptions used to quantify the anticipated financial effects, as well as the sources and level of uncertainty of those assumptions.
+(68)This information supports the information needs of financial market participants subject to Regulation (EU) 2019/2088 because it is
+derived from an additional indicator related to principal adverse impacts as set out by indicator #6.2 in Table II of Annex I of
+Commission Delegated Regulation (EU) 2022/1288 regarding disclosure rules on sustainable investments (“Water usage and
+recycling”, 2. Weighted average percentage of water recycled and reused by investee companies).
+(69)This information supports the information needs of financial market participants subject to Regulation (EU) 2019/2088 because it is
+derived from an additional indicator related to principal adverse impacts as set out by indicator #6.1 in Table II of Annex I of
+Commission Delegated Regulation (EU) 2022/1288 with regard to disclosure rules on sustainable investments (“Water usage and
+recycling”, 1. Average amount of water consumed by the investee companies (in cubic meters) per million EUR of revenue of investee
+companies).OJ L, 22.12.2023 EN  
+
+--- Page 128 of 284 ---

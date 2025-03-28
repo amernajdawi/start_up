@@ -1,0 +1,50 @@
+File Name: 1_2021-06-04_DelVO_2021_2139_TAXKRA_EU.pdf
+Converted on: 2025-03-28 03:20:30
+Original Size: 2.76 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 85 of 447
+--------------------------------------------------------------------------------
+
+(j) inland passenger water transport vessels that:
+(i) have zero direct (tailpipe) CO  2 emissions; 
+(ii) until 31 December 2025, are hybrid and dual fuel vessels using at least 50 % of their energy from zero
+direct (tailpipe) CO  2 emission fuels or plug-in power for their normal operation; 
+(k) inland freight water transport vessels, not dedicated to transporting fossil fuels, that:
+(i) have zero direct (tailpipe) CO  2 emission; 
+(ii) until 31 December 2025, have direct (tailpipe) emissions of CO  2 per tonne kilometre (g CO  2 /tkm), 
+calculated (or estimated in case of new vessels) using the Energy Efficiency Operational Indicator (  85 ), 
+50 % lower than the average reference value for emissions of CO  2 defined for heavy duty vehicles (vehicle 
+subgroup 5-LH) in accordance with Article 11 of Regulation (EU) 2019/1242;
+(l) sea and coastal freight water transport vessels, vessels for port operations and auxiliary activities, that are not
+dedicated to transporting fossil fuels, that:
+(i) have zero direct (tailpipe) CO  2 emissions; 
+(ii) until 31 December 2025, are hybrid and dual fuel vessels that derive at least 25 % of their energy from
+zero direct (tailpipe) CO  2 emission fuels or plug-in power for their normal operation at sea and in ports; 
+(iii) until 31 December 2025, and only where it can be proved that the vessels are used exclusively for
+operating coastal and short sea services designed to enable modal shift of freight currently transported by
+land to sea, the vessels that have direct (tailpipe) CO  2 emissions, calculated using the International 
+Maritime Organization (IMO) Energy Efficiency Design Index (EEDI) (  86 ), 50 % lower than the average 
+reference CO  2 emissions value defined for heavy duty vehicles (vehicle subgroup 5-LH) in accordance 
+with Article 11 of Regulation (EU) 2019/1242;
+(iv) until 31 December 2025, the vessels have an attained Energy Efficiency Design Index (EEDI) value 10 %
+below the EEDI requirements applicable on 1 April 2022 (  87 ) if the vessels are able to run on zero direct 
+(tailpipe) CO  2 emission fuels or on fuels from renewable sources (  88 ); 
+(m) sea and coastal passenger water transport vessels, not dedicated to transporting fossil fuels, that:
+(i) have zero direct (tailpipe) CO  2 emissions; 
+(ii) until 31 December 2025, hybrid and dual fuel vessels derive at least 25 % of their energy from zero
+direct (tailpipe) CO  2 emission fuels or plug-in power for their normal operation at sea and in ports; 
+(iii) until 31 December 2025, the vessels have an attained Energy Efficiency Design Index (EEDI) value 10 %
+below the EEDI requirements applicable on 1 April 2022 if the vessels are able to run on zero direct
+(tailpipe) CO  2 emission fuels or on fuels from renewable sources (  89 ). 
+_____________
+( 85 ) The Energy Efficiency Operational Indicator is defined as the ratio of mass of CO  2 emitted per unit of transport work. It is a 
+representative value of the energy efficiency of the ship operation over a consistent period which represents the overall tradi ng
+pattern of the vessel. Guidance on how to calculate this indicator is provided in the document MEPC.1/Circ. 684 from IMO.
+( 86 ) Energy Efficiency Design Index (version of 4.6.2021: http://www.imo.org/fr/MediaCentre/HotTopics/GHG/Pages/EEDI.aspx).
+( 87 ) EEDI requirements applicable on 1 April 2022 as agreed by the Marine Environment Protection Committee of the International
+Maritime Organization on its seventy fourth session.
+( 88 ) Fuels that meet the technical screening criteria specified in Sections 3.10 and 4.13 of this Annex.
+( 89 ) Fuels that meet the technical screening criteria specified in Sections 3.10 and 4.13 of this Annex.EN  L 442/44 Official Journal of the European Union 9.12.2021

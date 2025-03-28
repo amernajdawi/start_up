@@ -1,0 +1,103 @@
+File Name: 2_E1-6_2011-09-01_G_GHG-PLC_WRI&WBCSD.pdf
+Converted on: 2025-03-28 03:20:53
+Original Size: 3.27 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 48 of 116
+--------------------------------------------------------------------------------
+
+[59]
+CHAPTER 08 Collecting Data and Assessing Data Quality
+guidance
+Step 1:   Identify sources of low quality data in the 
+product inventory using the data quality
+assessment results.
+Step 2:   Collect new data for the low quality data  
+sources as resources allow. Sources with low
+quality data that have also been identified as
+significant through the screening process should
+be given priority.  
+Step 3:   Evaluate the new data. If it is of higher quality 
+than the original data, use in its place. If the data
+are not of higher quality, either use the existing
+data or collect new data.
+Step 4:  Repeat as necessary and as resources allow.
+If companies change data sources in subsequent
+inventories they should evaluate whether this change
+creates the need to update the base inventory. (See
+chapter 14 for more information.)Endnotes
+1 UNEP and SETAC, Global Guidance Principles for Life Cycle
+Assessment Databases. 2011.
+2 Non-attributable processes under the control of the company
+may be included in the inventory without available primary data.
+This is to be expected if the general rules for collecting quality
+data are applied, since including non-attributable processes in the
+inventory is not a requirement of this standard.
+3 Verification may take place in several ways, for example by on-site
+checking, reviewing calculations, mass balance calculations, or
+cross-checks with other sources.
+4 Verification may take place in several ways, e.g., by on-site
+checking, by recalculation, through mass balance, or by cross-
+checks with other sources.
+5 Includes calculated data (e.g., emissions calculated using
+activity data) when the basis for calculation is measurement
+(e.g., measured inputs). If the calculation is based partly on
+assumptions, the score should be good or fair.
+
+--- Page 62 of 148 ---
+
+Allocation 09
+
+--- Page 63 of 148 ---
+
+guidance[61]
+requirements
+9.1 Introduction
+In most product life cycles, there is at least one common process that has multiple
+valuable products as inputs or outputs and for which it is not possible to collect data at
+the individual input or output level. In these situations, the total emissions or removals
+from the common process need to be partitioned among the multiple inputs and outputs. This
+partitioning is known as allocation, an important and sometimes challenging element of a
+product inventory process. Accurately allocating emissions or removals to the studied product
+is essential to maintaining the quality of a GHG inventory.
+This standard defines two types of products produced
+from common processes:
+•The studied product for which the GHG inventory is
+being prepared
+•Co-product(s) that have value as an input into another
+product’s life cycle
+Inputs to the common process may be services, materials,
+or energy inputs. Outputs may be intermediate or final
+products, energy outputs (such as electricity or district
+heat), or waste. A typical common process is illustrated  
+in figure 9.1.This chapter provides requirements and guidance to
+help companies choose the most appropriate allocation
+method to address common processes in their product
+inventory. In addition, definitions and examples of the
+methods available to avoid or perform allocation are
+given. The chapter concludes with guidance, including
+how to choose between allocation methods. For
+simplicity, the methods and examples below focus only
+on emissions. However, removals are also subject to
+allocation following the same requirements and guidance.
+
+--- Page 64 of 148 ---
+
+[62]   Product Life Cycle Accounting and Reporting Standardrequirements
+Figure [9.1]   Illustrative generic common process 
+that requires allocation1
+
+intermediate
+product A
+studied
+product  
+common
+process
+emissions
+
+intermediate
+product B
+co-product  
+A

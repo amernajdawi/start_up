@@ -1,0 +1,219 @@
+File Name: CELEX_32010L0075_DE_TXT.pdf
+Converted on: 2025-03-28 03:18:33
+Original Size: 4.18 MB
+Chunk Size: 500 tokens with 50 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 116 of 163
+--------------------------------------------------------------------------------
+
+ES=21–OS
+21–OM×EM17.12.2010 DE Amtsblattder Europäischen Union L 334/75
+c) der Betreib er kann auf der Grun dlage von Angaben über die Beschaffen hei t der betreffenden Abfälle sowie der
+Überwachung
+der Emissionen
+nachweisen,
+dass die E missionen
+unter
+allen
+Umständen
+deutlich un ter
+den
+Emissionsgrenzwerten
+für Schwermetalle sowie Dioxin e
+und
+Furane
+liegen
+.
+2.7. Die Ergebnisse
+der Messun gen
+beziehen
+sich auf die in Teil 3 festg elegten
+oder gemäß
+Teil 4 berechneten
+Bezugs­
+sauerstoffk onzentrationen
+und
+auf die in
+Teil 7 angegebene
+Formel.
+Wird Abfall
+in mit Sauerstoff an gereicherter
+Atmosphäre verb rannt
+oder mitverb r
+annt,
+so könn
+en sich die Messer­
+gebnisse
+auf einen
+von
+der zustän digen
+Behörde festg elegten
+Sauerstoffgehalt b eziehen,
+der den
+besonderen
+Umstän­
+den
+des Einzelfalles
+entspricht.
+Werden
+die Schadstoffemission en
+durch Ab gasbehandlung
+in einer
+gefährl
+iche Abfälle
+behandelnden
+Abfall
+­
+verbrennungsanlage
+oder Abfallmitverbrennungsanlage
+verringert,
+ist die Umrechn ung
+auf die in
+Unterabsatz
+1 fest­
+gelegten
+Sauerstoffg ehalte
+nur
+zulässig,
+wenn
+der gemessene
+Sauerstoffg ehalt
+im selben
+für den
+betreffenden
+Schadstoff
+maßgeblichen
+Zeitraum den  
+zutreffenden
+Bezugssauerstoffgehalt
+übersc
+hreitet.
+3. Messungen
+in
+Bezug
+auf Wasserschadstoffe
+3.1. Am Ort der Ab wassereinleitung
+sind
+die folgenden
+Messungen
+vorzuneh
+men:
+a) kontinuierliche
+Messung
+von
+pH-Wert, Temperatur un d
+Durchfluss;
+b) tägliche
+Messungen
+der Gesamtmen ge
+an
+suspendierten
+Feststoffen  
+mittels pun ktueller
+Probenahme
+oder Mes­
+sung
+einer
+durchflussproportion alen
+repräsentativen
+Probe
+über
+eine
+Dauer von  
+24 Stunden;
+c)
+mindestens
+monatliche
+Messung
+einer
+durchflussproportion alen
+repräsen tativen
+Probe
+über
+eine
+Dauer von
+24 Stunden
+von
+Hg,
+Cd, TI,
+As, Pb,
+Cr, Cu, Ni un d
+Zn;
+d) mindestens
+halbjährlich
+Messung
+der Dioxin e
+und
+Furane;
+jedoch ein e
+Messung
+mindestens
+alle drei Mon ate
+wäh­
+rend
+der ersten  
+12 Betrieb smonate.
+3.2. Wird
+das bei
+der Abgasreinigung
+anfallende
+Abwasser
+am Standort
+geme
+insam
+mit anderen
+am Standort
+anfallenden
+Abwässern
+behandelt,
+so führt der Betreib er
+die Messun gen
+wie folgt
+durch:
+a) am Abwasserstrom
+aus der Ab gasreinigung
+vor der Ab leitung
+in
+die gemein
+same Abwasserbehandlungsanlage;
+b) an
+den
+übrigen
+Abwasserströmen
+vor ihrer E inleitung
+in
+die gemeinsame
+Behandlungsanlage;
+c)
+an der Stelle, an der das Ab wasser
+aus der Ab fallverbrennungs-
+oder Abfa
+llmitverbrennungsanlage
+nach
+der
+Behandlung
+endgültig
+abgeleitet
+wird.
+TEIL
+7
+Formel zur Berechnung der Emissionskonzentration zum Standardprozentsatz der Sauerstoffkonzentration
+ES=berechnete Emissionskonzentration zum Standardprozentsatz der Sauerstoffk onzentration
+EM=gemessene Emissionskonzentration
+OS=Standardsauerstoffkonzentration
+OM=gemessene Sauerstoffk onzentration
+TEIL
+8
+Beurteilung der Einhaltung der Emissionsgrenzwerte
+1. Grenzwerte
+für Emissionen
+in
+die Luft
+1.1. Die Emissionsgrenzwerte
+für Luft gelten
+als eingehalten,
+wenn
+a) keiner
+der Tagesmittelwerte

@@ -1,0 +1,31 @@
+File Name: 2_E1-6_2011-09-01_G_GHG-PLC_WRI&WBCSD.pdf
+Converted on: 2025-03-28 03:18:25
+Original Size: 3.27 MB
+Chunk Size: 500 tokens with 50 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 121 of 226
+--------------------------------------------------------------------------------
+
+•Disclose and justify the method used for recycling;
+•Use that same method consistently over time to track
+performance, or if the method changes recalculate the
+base inventory as required in chapter 14; and
+•Disclose the calculated virgin material displacement
+separately.
+The standard also recommends that companies include
+quantitative uncertainty results in their inventory report
+(e.g., sensitivity analysis).Additionally, a disclaimer is required as part of the
+inventory report to avoid incorrect comparisons of
+inventory results based on different allocation methods
+(see chapter 13 for more details). In cases where choices
+are needed in a general standard to accommodate a
+large range of products, companies are encouraged
+to look towards available product rules and sector
+guidance to ensure consistency and comparability (if
+desired) within a product category or sector. Companies
+can choose a method other than the recycled content
+or closed loop approximation based on product rules or
+sector guidance as long as this is disclosed and justified
+in the inventory report.

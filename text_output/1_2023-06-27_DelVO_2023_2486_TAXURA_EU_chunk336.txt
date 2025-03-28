@@ -1,0 +1,27 @@
+File Name: 1_2023-06-27_DelVO_2023_2486_TAXURA_EU.pdf
+Converted on: 2025-03-28 03:18:09
+Original Size: 8.44 MB
+Chunk Size: 500 tokens with 50 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 336 of 380
+--------------------------------------------------------------------------------
+
+Energy Demand (PED) and demonstrated by adequate evidence, which at least
+compares the performance of the relevant asset to the performance of the national or
+regional stock built before 31 December 2020 and at least distinguishes between
+residential and non-residential buildings.
+For buildings built after 31 December 2020, the Primary Energy Demand (PED) (
+33)
+defining the energy performance of the building resulting from the construction does
+not exceed the threshold set for the nearly zero-energy building (NZEB) requirements
+in national regulation implementing Directive 2010/31/EU. The energy performance is
+certified by an Energy Performance Certificate (EPC).
+(32)For activities located in third countries, in accordance with equivalent applicable national law or international standards, that aim at
+the conservation of natural habitats, wild fauna and wild flora, and that require to carry out (1) a screening procedure to determine
+whether, for a given activity, an appropriate assessment of the possible impacts on protected habitats and species is needed; (2) such
+an appropriate assessment where the screening determines that it is needed, for example IFC Performance Standard 6: Biodiversity Conservation and Sustainable Management of Living Natural Resources.
+(33)The calculated amount of energy needed to meet the energy demand associated with the typical uses of a building expressed by a
+numeric indicator of total primary energy use in kWh/m2 per year and based on the relevant national calculation methodology and as
+displayed on the Energy Performance Certificate (EPC).OJ L, 21.11.2023 EN

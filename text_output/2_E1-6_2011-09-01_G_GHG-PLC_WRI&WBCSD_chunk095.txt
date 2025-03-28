@@ -1,0 +1,92 @@
+File Name: 2_E1-6_2011-09-01_G_GHG-PLC_WRI&WBCSD.pdf
+Converted on: 2025-03-28 03:20:53
+Original Size: 3.27 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 95 of 116
+--------------------------------------------------------------------------------
+
+[121]
+B.2		When	the	specific	land	use	is	unknown 	
+When a company has limited information on the specific
+land from which the product or product components
+are extracted or harvested, it can be difficult to
+determine how to attribute or distribute impacts.  
+This situation occurs when a company buys crops or
+biomass from a supplier who receives indistinguishable
+shipments from a wide range of land-based sources.
+Under such circumstances, primary data are not
+available and secondary data are used to calculate stock
+changes and determine how much land-use change
+impacts should be distributed to a product.
+The first step in estimating land-use changes impacts
+is to determine in what location the crops or biomass
+were likely grown. If the crop or biomass is grown only
+in certain locations due to climates and soil types, those
+locations should be used. If the crop or biomass is grown
+in many locations, a company may choose the largest
+producing location or the most likely location (e.g., due
+to proximity to the production facility). Companies are
+encouraged to perform scenario uncertainty if more than
+one location is plausible.  Companies may also take an 
+average of locations if data are available to support that
+calculation (e.g., all locations have carbon stock change
+data available). Once the location has been determined,
+companies may use the following data to estimate the
+carbon stock and land-use change impacts:
+ •Land-use imaging and/or agricultural demand-  
+based models
+•Average data, including:
+•International statistics
+•Country- or region-specific statistical databases
+•Statistical yearbooks
+Land-use imaging and/or agricultural demand-based
+models include using remote sensing11 or GIS data to
+estimate land-use change in a particular location or
+market-based models12 to estimate land-use change
+based on the market trends of a crop or wood product.  
+For example, if the studied product is a crop assumed to
+be produced in New Zealand, and satellite imagery shows
+that land use for that crop has remained constant in New
+Zealand for the past 20 years, then the company can
+assume that no land-use change impacts are attributable to their product. While these methods may be the most
+accurate, they are often complex, time consuming, and
+not freely available. Additionally, they may not provide an
+accurate representation for some countries.  If a company 
+has access to these tools they are encouraged to use
+them to determine land-use change impacts as long as
+the modeled results are justified and transparent.  
+When a company does not have access to models or
+imaging data, it may use average statistics to estimate
+land-use change impacts.  For example, companies may 
+use the agricultural or forestry statistic for the assumed
+location to determine the change in land occupation
+for the studied product versus the total land change
+in that location. The following example shows the
+steps companies can follow to use agricultural data
+to determine whether land-use change has occurred.
+The same technique may be used for managed wood
+products using forestry data.  If the crop or biomass that 
+is being studied is shown to occupy less land over the
+20-year assessment period, the company can assume that
+no land-use change has taken place.  If the amount of 
+land occupied by the crop or biomass being studied has
+increased, then land-use change impacts are attributable.
+In this case the company needs to assume what the
+original land category was. This should be based on the
+type of land present in the assumed location and when
+more than one land type is possible the conservative
+choice should be made.  
+It is important to note that any assumptions made
+about land-use change impacts are only estimations
+and subject to much uncertainty. Because these
+estimation techniques cannot identify when the land-
+use change occurs, companies should always assume
+1/20th of the land-use change impact, as shown in
+the following examples.  Companies may also choose 
+not to make any assumptions about land-use change
+and only use the worst case scenario (e.g., all land is
+converted from the most carbon rich land category).
+Information on the methods used to determine

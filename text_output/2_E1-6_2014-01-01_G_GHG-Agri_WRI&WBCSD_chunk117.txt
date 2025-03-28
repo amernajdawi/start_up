@@ -1,0 +1,27 @@
+File Name: 2_E1-6_2014-01-01_G_GHG-Agri_WRI&WBCSD.pdf
+Converted on: 2025-03-28 01:56:31
+Original Size: 1.75 MB
+Chunk Size: 400 tokens with 50 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 117 of 150
+--------------------------------------------------------------------------------
+
+emissions reductions . 14 Avoided emissions are also not quantified as part of product life cycle inventories under the GHG Protocol Product Standard . - - - Page 76 of 103 - - - GHG Protocol Agricultural Guidance 76 Appendices - - - Page 77 of 103 - - -
+
+GHG Protocol Agricultural Guidance
+
+77
+Appendix I: Performance metrics
+The Corporate Standard and this Guidance only require the reporting of absolute GHG
+flux data. GHG performance metrics do not have to be reported. However, they can provide important insights  into a company’s GHG performance and are generally 
+recommended as part of an effective GHG reporting and management system. For instance, they can be used to:
+ Evaluate performance over time (e.g., compare figures from different years, identify
+trends in data, and show performance in  relation to targets and base periods). 
+ Improve comparability between different sizes of operations by normalizing figures
+(e.g., by assessing the impact of differently sized operations on the same scale).  
+This Appendix:
+ Summarizes the various types of GH G performance metrics that exist.
+ Provides general recommendations for the calcula tion, use, and reporting of metrics.   
+Types and usage of performance metrics

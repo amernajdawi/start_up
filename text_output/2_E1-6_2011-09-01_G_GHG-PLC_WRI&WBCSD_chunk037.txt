@@ -1,0 +1,51 @@
+File Name: 2_E1-6_2011-09-01_G_GHG-PLC_WRI&WBCSD.pdf
+Converted on: 2025-03-28 03:20:53
+Original Size: 3.27 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 37 of 116
+--------------------------------------------------------------------------------
+
+[47]
+guidancerequirements
+8.1 Introduction
+Data collection can be the most resource intensive step when performing a product GHG
+inventory. Data can also have a significant impact on the overall inventory quality.
+This chapter provides requirements and guidance to help companies successfully
+collect and assess the quality of their inventory data.  
+8.2 Requirements
+Companies shall collect data for all processes
+included in the inventory boundary.
+Companies shall collect primary data for all
+processes under their ownership or control.
+Primary data are data collected from specific processes
+in the studied product’s life cycle. Primary data can be
+process activity data (physical measures of a process
+that results in GHG emissions or removals), direct
+emissions data (determined through direct monitoring,
+stoichiometry, mass balance, or similar methods) from
+a specific site, or data that is averaged across all sites
+that contain the specific process. Primary data can be
+measured or modeled, as long as the result is specific to
+the process in the product’s life cycle. It is important to
+note that using the reference flow of the studied product
+(e.g., mass of finished product) as process activity data is
+not considered primary data. Allocated data are considered primary data as long as the
+data meets the other primary data requirements.
+During the data collection process,
+companies shall assess the data quality
+of activity data, emission factors, and/
+or direct emissions data by using the data
+quality indicators.
+Activity data are quantified measures of a level of activity
+that results in GHG emissions or removals. Emission
+factors are GHG emissions per unit of activity data. Direct
+emissions data are data on emissions released from a
+process (or removals absorbed from the atmosphere)
+determined through direct monitoring, stoichiometry,
+mass balance, or similar methods (see section 8.3.4 for
+more details on data types).
+
+--- Page 50 of 148 ---

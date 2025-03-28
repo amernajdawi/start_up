@@ -1,0 +1,57 @@
+File Name: 2_E1-6_2006-01-01_GHG-LuLu_WRI&WBCSD.pdf
+Converted on: 2025-03-28 01:56:20
+Original Size: 6.41 MB
+Chunk Size: 400 tokens with 50 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 101 of 118
+--------------------------------------------------------------------------------
+
+PARTIV:AnnexD
+87 Glossar y
+MostofthedefinitionsforthefollowingtermsarethesameasthoseintheProjectProtocol,althoughsomehavebeenaltered
+andothersnotrelevanttoLULUCFprojectshavebeenomitted.
+Additionality AcriterionoftenappliedtoGHGprojects,stipulatingthatproject-basedGHGreductionsshouldbe
+quantifiedonlyiftheprojectactivity“wouldnothavehappenedanyway,”thatis,thattheproject
+activity(orthesameland-useormanagementpracticesitemploys)wouldnothavebeenimple -
+mentedinitsbaselinescenarioand/orthattheprojectactivityGHGremovalsaregreaterthanthe
+baselineGHGremovals.
+Afforestation Thecreationofforestonlandthatisconsideredtonothavebeenforestpreviously,atleastforalong
+time(e.g.,fiftyyears).Foradditionalinformationonthedistinctionbetweenafforestationandrefor -
+estationanditsuseinthisguidance,seeannexB.
+Allowances ThebasictradablecommodityinGHGemission –tradingsystems.Allowancesgranttheirholderthe
+righttoemitaspecificquantityofpollutiononce(e.g.,onetonneofCO 2eq).Thetotalquantityof
+allowancesissuedbyregulatorsdictatesthetotalquantityofemissionspossibleunderthesystem.At
+theendofeachcomplianceperiod,eachregulatedentitymustsurrendersufficientallowancesto
+coveritsGHGemissionsduringthatperiod.
+Barriers Anyfactororconsiderationthatwould(significantly)discourageadecisiontotrytoimplementthe
+projectactivityoritsbaselinecandidates.
+BaselineCandidates Thealternativelandusesormanagementpracticesonlandslocatedinaspecificgeographicarea
+andduringagiventemporalrange.
+BaselineParameter Anyparameterwhosevalueorstatuscanbemonitoredinordertovalidateassumptionsabout
+baselineremovalestimatesortohelpestimatebaselineremovals.
+BaselineProcedures Methodsusedtoestimatebaselineemissionsandremovals.TheProjectProtocolofferstwooptional
+procedures:theproject-specificprocedureandtheperformancestandardprocedure.
+BaselineScenario Ahypotheticaldescriptionofwhatmostlikelywouldhaveoccurredintheabsenceofanymitigation
+ofclimatechange.
+Benefits Thebenefitsexpectedtoaccruetodecisionmakersfortheactivitiesineachbaselinescenarioalter -
+native,excludingallpotentialbenefitsresultingfromGHGreductions.
+CarbonDioxide Theuniversalunitofmeasurementusedtoindicatetheglobal-warmingpotentialofgreenhousegases.
+Equivalent(CO 2eq)Itisusedtoevaluatetheimpactsofreleasing(oravoidingthereleaseof)differentgreenhousegases.
+CarbonPool Areservoirorasystemwiththecapacitytoaccumulateorreleasecarbon.Examplesofcarbonpools
+arelivingbiomass,deadorganicmaterandsoils.Theunitsusedaremass(e.g.,tC).
+CarbonStock Theabsolutequantityofcarbonheldinacarbonpool(s)ataspecifiedtime(seeGHGSink).
+CommonPractice Thepredominantlanduse(s)ormanagementpractice(s)undertakeninaparticularregionorsector.
+Deforestation Theremovalofforestcovertotheextentthatthelandistransformedfromforesttononforestland.
+Althoughitdoesnotexplicitlydiscussdeforestationprojects,thisguidancemaybeappliedtothem.
+DynamicBaseline Baselineremovalestimatesthatchangeoverthevalidtimelengthofthebaselinescenario.
+Removals
+EquilibriumCarbon Thecarbonstoredattimezerooftheproject’simplementation;whentherehasbeennochangein
+Stocks landuseormanagementorothereventsthatmightaffectanyofthecarbonpools,andthecarbon
+storageisatasteadystate.
+EmissionFactor AfactorrelatingGHGemissionstoalevelofactivityoracertainquantityofinputsorproductsor
+services(e.g.,tonnesoffuelconsumedorunitsofaproduct).Forexample,anelectricityemission
+factoriscommonlyexpressedastCO 2eq/megawatt-hour.
+
+--- Page 90 of 100 ---

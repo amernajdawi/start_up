@@ -1,0 +1,91 @@
+File Name: 2_E1-6_2011-09-01_G_GHG-PLC_WRI&WBCSD.pdf
+Converted on: 2025-03-28 03:18:25
+Original Size: 3.27 MB
+Chunk Size: 500 tokens with 50 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 221 of 226
+--------------------------------------------------------------------------------
+
+[143]
+Recognitions
+Ines Sousa, ENXSUITE
+Camile Burel, European Bioindustry Association
+Jonathan Newton, Ford Motor Company
+William Flanagan, GE Global Research
+Angela Fisher, GE Global Research
+Paul Helgeson, GNP Company
+Juergen Ritzek, GreenBusinessConsulting
+Thaddeus Owen, Herman Miller, Inc.
+Yoshiaki Ichikawa, Hitachi, Ltd.
+Hemant Bundele, ibLaunch Energy, Inc.
+Tim Higgs, Intel
+Ted Reichelt, Intel
+Silvana Paniagua Tufinio, Intelligence for Business
+Chris Bayliss, International Aluminium Institute
+Rose Nangah Mankaa, Italcementi Group
+Manuela Ojan, Italcementi Group
+Sunil Kumar, ITC
+Yoshikazu Kato, The Japan Gas Association
+Wenlin Wang , Kunshan Tai Ying Paint
+John Andrews, Landcare Research NZ
+Craig McCutcheon, Landcare Research NZ
+Barruch Ben-Zekry, Levi Strauss & Co.
+Colleen Kohlsaat, Levi Strauss & Co.
+Xun Gong, Lenovo
+William Guthrie, Lenovo
+Mads Stensen, Maersk Line
+Kara E.Reeve, Massachusetts Institute of Technology
+Kenji Shima, Mitsubishi Chemical Holdings Corporation
+Leah Fry, National Grid
+David B. Goldstein, Natural Resources Defense Council
+Jenn Orgolini, New Belgium Brewing
+Claus Frier, Novozymes A/S
+Stefan Seum, Öko-Institut, Germany
+Jeff Stein, Open Data Registry
+Robert TerKuille, PepsiCo
+Eros Artuso, PricewaterhouseCoopers, LLP
+Christopher Ho, PricewaterhouseCoopers  
+Hong Kong/China
+Annie Weisbrod, Procter & Gamble
+Diederik Schowanek, Procter & Gamble Environmental
+Stewardship Organization
+Aimee Ding, Quanta Shanghai Manufacturing City, Tech-
+Front (Shanghai) Computer Co. Ltd.
+Larry Li, Quanta Shanghai Manufacturing City, Tech-Front
+(Shanghai) Computer Co. Ltd.Josephine Przewodnik, RECARBON Deutschland GmbH.
+Brian Au, RESET Carbon
+Hicham Elhalaby, Rogers Communications
+Paul Pritchard, RSA Insurance Group plc
+Alyssa Farrell, SAS
+Barbara Nebel, Scion
+Robin Li, SGS-CSTC Standards Technical Services Co., Ltd.
+Danny Wong, SGS Hong Kong Limited
+Fei Han, Shanghai Zidan Printing Co., Ltd.
+Yadi Shen, Shanghai Zidan Printing Co., Ltd.
+Marieke Groenendaal, Shell
+Stephen Kinder, Shell
+Xavier Riera-Palou, Shell
+Zoltán Hajdu, Soltub, Ltd.
+Mariana Carlini, Suzano Pulp & Paper
+Samuel Kwong, Swire Beverages  
+(Coca Cola Bottling Partner)
+Thomas Yip, TAL Apparel
+Yutaka Yoshida, TOKYO GAS CO., LTD.
+Javier Fajardo, USDA/FAS/OSTA
+Laurence Hamon, Veolia Environnement  
+Research & Innovation
+Guillaume Arama, Veolia Water
+David Houdusse, Veolia Water
+Craig Liskai, Verso Paper Corp.
+Lisbeth Dahllöf, Volvo Technology
+Edie Sonne Hall, Weyerhaeuser
+George Coates, WorldAutoSteel
+Antonia Gawel, World Business Council for Sustainable
+Development
+Bernhard Gruenauer, World Business Council for
+Sustainable Development
+Varun Vats, World Business Council for Sustainable
+Development
+Wee Kean Fong, World Resources Institute

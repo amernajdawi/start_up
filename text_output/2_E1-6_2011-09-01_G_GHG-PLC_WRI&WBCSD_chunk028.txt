@@ -1,0 +1,86 @@
+File Name: 2_E1-6_2011-09-01_G_GHG-PLC_WRI&WBCSD.pdf
+Converted on: 2025-03-28 03:20:53
+Original Size: 3.27 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 28 of 116
+--------------------------------------------------------------------------------
+
+[38]   Product Life Cycle Accounting and Reporting Standard
+ [38]   Product Life Cycle Accounting and Reporting Standard
+guidanceDuring boundary setting, it is important to document
+attributable processes for which GHG removals from
+the atmosphere may occur to ensure removal data are
+collected later in the inventory process.
+The amount of removal calculated for materials of
+biogenic origin should only reflect the amount of
+carbon contained, or embedded, in that material. For
+example, if a product requires 50 tons of wood input
+that is 50 percent carbon, 25 tons of carbon removal is
+assumed. To convert carbon to CO2, the tons of carbon
+are multiplied by the ratio of molecular weights of
+CO2 (44) and carbon (12), respectively. Removals
+and emissions due to land-use change or other stock
+changes associated with the use of biogenic materials
+are accounted for as land-use change impacts and are
+defined in Appendix B.Box [7.2] GHG removalsMultiple entities are involved in the production,
+distribution, use, and end-of-life of products – including
+raw material suppliers, manufacturers, distributors,
+retailers, consumers, etc. Each entity has a different
+perspective along the life cycle of a given product.
+Depending on an entity’s position in the life cycle,
+a portion of the product’s life cycle emissions and
+removals occurs prior to their involvement, while the
+remainder occurs subsequent to their involvement.
+Figure 7.3 is an example of a company that sells a final
+product called a widget. In this example, all material
+acquisition and material processing occurs prior to
+the company’s involvement in the product’s life cycle.
+Figure 7.4 is an example of a company that produces
+an intermediate product to be used in the production
+of the widget. In this example, widget production
+occurs subsequent to the company’s involvement in
+the product’s life cycle. Understanding a company’s
+perspective within the life cycle of the studied product
+is important as it influences the definition of life cycle
+stages, data collection requirements, and supplier
+engagement opportunities. Box [7.1]  The role of perspective in product  
+GHG accounting7.3 Guidance
+7.3.1		Defining	life	cycle	stages	and	identifying	
+attributable processes
+The perspective of a company influences the life cycle
+stage boundaries and definitions. The following guidance
+provides examples of life cycle stage boundaries,
+descriptions, and attributable processes from the
+perspective of a company that is performing an inventory
+on a final product they produce or sell. Material acquisition and preprocessing
+The material acquisition and preprocessing stage  starts 
+when resources are extracted from nature and ends when
+the product components enter the gate of the studied
+product’s production facility. Other processes that may
+occur in this stage include recycled material acquisition,
+processing of materials into intermediate material inputs
+(preprocessing), and transportation of material inputs
+to the production facility. Transportation may also occur
+between processes and facilities within the stage, such as
+the transport of coal by trucks within a coal mining facility
+or the transport of a petrochemical from the refinery to a
+preprocessing facility. Examples of attributable processes
+may include:
+Figure [7.3]  Perspective of a company producing a final product
+
+material
+acquisiton
+material
+processing
+widget
+distribution
+widget  
+use
+widget  
+disposalwidget
+production
+
+--- Page 41 of 148 ---

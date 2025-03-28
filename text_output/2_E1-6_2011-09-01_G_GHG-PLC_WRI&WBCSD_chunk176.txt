@@ -1,0 +1,61 @@
+File Name: 2_E1-6_2011-09-01_G_GHG-PLC_WRI&WBCSD.pdf
+Converted on: 2025-03-28 03:18:25
+Original Size: 3.27 MB
+Chunk Size: 500 tokens with 50 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 176 of 226
+--------------------------------------------------------------------------------
+
+[118]   Product Life Cycle Accounting and Reporting Standard
+B.1	 When	the	specific	land	is	known	
+B.1.1	 Determining	attributable	land-use	impacts
+Land-use impacts are attributable to a product if the
+following are true:
+•The carbon stock change is the direct result of
+extraction or production of biogenic material to create
+a product
+•The carbon stock change was caused by human
+intervention with the intent of creating a product
+•The carbon stock change occurred within the
+assessment period – 20 years or a single harvest period
+from the extraction (e.g., harvesting) of a biogenic
+product or product component, whichever timeframe
+is longer
+EXAMPLES
+1. A product is made from an annual crop that was
+harvested in 2010. The crop is from a plot of land
+where the last known carbon stock change occurred 50
+years ago.  In this case no land-use change impacts are 
+attributable to the product.  
+2. A product is made from wood that is extracted from a
+naturally grown forest (extraction and production occur
+in the same year). If the extraction of above-ground
+biomass causes a change in carbon stock of the land,
+the impacts of the land-use change are attributable to
+the product.6
+3. A product is made from wood that is grown on a
+plantation. The wood takes 28 years to grow, and is
+harvested in 2010 from a plot of land that was converted
+from a natural growth forest in 1982. Because the
+length of the harvest cycle is longer than 20 years, the
+company must consider any carbon stock changes that
+may have occurred up to 28 years ago (from 2010 to
+1982). Therefore, the impacts of the land-use change (i.e.,
+the original clearing of the natural growth forest) are
+attributable to the product.   
+4. A product is made from a bi-annual crop that was
+harvested in 2010. The plot of land used to grow the crop
+was converted from forest in 2000 due to a naturally
+occurring fire.7 Because the carbon stock change was
+not caused by human intervention with the intent of
+creating a product, the land-use change impacts are not
+attributable to the product. B.1.2	 Calculating	land-use	change	impacts
+When information about the specific land is available,
+collecting data for land-use change impacts follows
+the same data collection and quality requirements
+given in chapter 8 of this standard.  For example, if the 
+reporting company owns the land from which a product is
+harvested, primary data are required. Primary data from a
+supplier is preferred for land not owned by the reporting

@@ -1,0 +1,48 @@
+File Name: 1_2023-07-31_DelVO_2023_2772_ESRS_EU.pdf
+Converted on: 2025-03-28 03:20:41
+Original Size: 5.82 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 153 of 284
+--------------------------------------------------------------------------------
+
+ELI: http://data.europa.eu/eli/reg_del/2023/2772/oj 156/28425. The undertaking shall specify to which layer of the waste hierarchy the target relates.
+26. In addition to ESRS 2 MDR-T, the undertaking may specify whether ecological thresholds and entity-specific
+allocations were taken into consideration when setting targets. If so, the undertaking may specify:
+(a) the ecological thresholds identified, and the methodology used to identify such thresholds;
+(b) whether or not the thresholds are entity-specific and if so, how they were determined; and
+(c) how responsibility for respecting identified ecological thresholds is allocated in the undertaking.
+27. The undertaking shall specify as part of the contextual information, whether the targets it has set and presented are
+mandatory (required by legislation) or voluntary.
+Disclosure Requirement E5-4 – Resource inflows
+28. The undertaking shall disclose information on its resource inflows related to its material impacts, risks and
+opportunities.
+29. The objective of this Disclosure Requirement is to enable an understanding of the resource use in the undertaking’s
+own operations and its upstream value chain.
+30. The disclosure required by paragraph 28 shall include a description of its resource inflows where material: products
+(including packaging) and materials (specifying critical raw materials and rare earths), water and property, plant and
+equipment used in the undertaking’s own operations and along its upstream value chain.
+31. When an undertaking assesses that resource inflows is a material sustainability matter, it shall disclose the following
+information about the materials used to manufacture the undertaking’s products and services during the reporting
+period, in tonnes or kilogrammes:
+(a) the overall total weight of products and technical and biological materials used during the reporting period;
+(b) the percentage of biological materials (and biofuels used for non-energy purposes) used to manufacture the
+undertaking’s products and services (including packaging) that is sustainably sourced, with the information on
+the certification scheme used and on the application of the cascading principle; and
+(c) the weight in both absolute value and percentage, of secondary reused or recycled components, secondary
+intermediary products and secondary materials used to manufacture the undertaking’s products and services
+(including packaging).
+32. The undertaking shall provide information on the methodologies used to calculate the data. It shall specify whether the data is sourced from direct measurement or estimations, and disclose the key assumptions used.
+Disclosure Requirement E5-5 – Resource outflows
+33. The undertaking shall disclose information on its resource outflows, including waste, related to its material impacts,
+risks and opportunities.
+34. The objective of this Disclosure Requirement is to provide an understanding of:
+(a) how the undertaking contributes to the circular economy by i) designing products and materials in line with
+circular economy principles and ii) increasing or maximising the extent to which products, materials and waste
+processing are recirculated in practice after first use; and
+(b) the undertaking’s waste reduction and waste management strategy, the extent to which the undertaking knows
+how its pre-consumer waste is managed in its own activities.OJ L, 22.12.2023 EN  
+
+--- Page 157 of 284 ---

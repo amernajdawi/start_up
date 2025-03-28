@@ -1,0 +1,51 @@
+File Name: 1_2021-06-04_DelVO_2021_2139_TAXKRA_EU.pdf
+Converted on: 2025-03-28 03:20:30
+Original Size: 2.76 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 178 of 447
+--------------------------------------------------------------------------------
+
+(6) Protection and restoration of
+biodiversity and ecosystems  N/A  
+7.7.  Acquisition and ownership of buildings  
+Description of the activity  
+Buying real estate and exercising ownership of that real estate.  
+The economic activities in this category could be associated with NACE code L68 in accordance with the statistical
+classification of economic activities established by Regulation (EC) No 1893/2006.  
+Technical screening criteria  
+Substantial contribution to climate change mitigation  
+1. For buildings built before 31 December 2020, the building has at least an Energy Performance Certificate
+(EPC) class A. As an alternative, the building is within the top 15 % of the national or regional building stock
+expressed as operational Primary Energy Demand (PED) and demonstrated by adequate evidence, which at least
+compares the performance of the relevant asset to the performance of the national or regional stock built before
+31 December 2020 and at least distinguishes between residential and non-residential buildings.
+2. For buildings built after 31 December 2020, the building meets the criteria specified in Section 7.1 of this
+Annex that are relevant at the time of the acquisition.
+3. Where the building is a large non-residential building (with an effective rated output for heating systems,
+systems for combined space heating and ventilation, air-conditioning systems or systems for combined air-
+conditioning and ventilation of over 290 kW) it is efficiently operated through energy performance monitoring
+and assessment (  305  ). 
+Do no significant harm (‘DNSH’)  
+(2) Climate change adaptation  The activity complies with the criteria set out in Appendix A to this 
+Annex.  
+(3) Sustainable use and protection of
+water and marine resources  N/A  
+(4) Transition to a circular economy  N/A  
+(5) Pollution prevention and control  N/A  
+(6) Protection and restoration of
+biodiversity and ecosystems  N/A  
+8.  INFORMATION AND COMMUNICATION  
+8.1.  Data processing, hosting and related activities  
+Description of the activity  
+Storage, manipulation, management, movement, control, display, switching, interchange, transmission or
+processing of data through data centres (  306  ), including edge computing.  
+___________  
+( 305  ) This can be demonstrated, for example, through the presence of an Energy Performance Contract or a building automation and 
+control system in accordance with Article 14 (4) and Article 15 (4), of Directive 2010/31/EU.  
+( 306  ) Data centres include the following equipment: ICT equipment and services; cooling; data centre power equipment; data centre 
+power distribution equipment; data centre building; monitoring systems.EN  L 442/132 Official Journal of the European Union 9.12.2021
+
+--- Page 133 of 349 ---

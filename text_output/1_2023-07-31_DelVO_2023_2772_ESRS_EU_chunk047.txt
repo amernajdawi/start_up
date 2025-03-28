@@ -1,0 +1,48 @@
+File Name: 1_2023-07-31_DelVO_2023_2772_ESRS_EU.pdf
+Converted on: 2025-03-28 03:20:41
+Original Size: 5.82 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 47 of 284
+--------------------------------------------------------------------------------
+
+ELI: http://data.europa.eu/eli/reg_del/2023/2772/oj 48/28440. The undertaking shall disclose the following information about the key elements of its general strategy that relate to
+or affect sustainability matters
+:
+(a) a description of:
+i. significant groups of products and/or services offered, including changes in the reporting
+period (new/removed products and/or services);
+ii. significant markets and/or customer groups served, including changes in the reporting period (new/removed markets and/or customer groups);
+iii. headcount of employees by geographical areas; and
+iv. where applicable and material, products and services that are banned in certain markets;
+(b) a breakdown of total revenue, as included in its financial statements, by significant ESRS sectors. When the
+undertaking provides segment reporting as required by IFRS 8 Operating segments in its financial statements, this
+sector revenue information shall be, as far as possible, reconciled with IFRS 8 information;
+(c) a list of the additional significant ESRS sectors beyond the ones reflected under paragraph 40(b), such as activities
+that give rise to intercompany revenues, in which the undertaking develops significant activities, or in which it is
+or may be connected to material impacts. The identification of these additional ESRS sectors shall be consistent with the way they have been considered by the undertaking when performing its materiality assessment and
+with the way it discloses material sector-specific information;
+(d) where applicable, a statement indicating, together with the related revenues, that the undertaking is active in:
+i. the fossil fuel (coal, oil and gas) sector (
+16), (i.e., it derives revenues from exploration, mining, extraction,
+production, processing, storage, refining or distribution, including transportation, storage and trade, of fossil
+fuels as defined in Article 2, point (62), of Regulation (EU) 2018/1999 of the European Parliament and the
+Council (17)), including a disaggregation of revenues derived from coal, from oil and from gas, as well as the
+revenues derived from Taxonomy-aligned economic activities related to fossil gas as required under
+Article 8(7)(a) of Commission Delegated Regulation 2021/2178 (18);
+ii. chemicals production (19), i.e., its activities fall under Division 20.2 of Annex I to Regulation (EC)
+No 1893/2006;
+iii. controversial weapons (20)(anti-personnel mines, cluster munitions, chemical weapons and biological
+weapons); and/or
+(16)This information supports the information needs of financial market participants subject to Regulation (EU) 2019/2088 because it is
+derived from an additional indicator related to principal adverse impacts set out by indicator #4 in Table I of Annex I of Commission
+Delegated Regulation (EU) 2022/1288 with regard to disclosures rules on sustainable investments (“Exposure to companies active in the fossil fuel sector”).
+(17)Regulation (EU) 2018/1999 of the European Parliament and of the Council of 11 December 2018 on the Governance of the Energy
+Union and Climate Action, amending Regulations (EC) No 663/2009 and (EC) No 715/2009 of the European Parliament and of the
+Council, Directives 94/22/EC, 98/70/EC, 2009/31/EC, 2009/73/EC, 2010/31/EU, 2012/27/EU and 2013/30/EU of the European
+Parliament and of the Council, Council Directives 2009/119/EC and (EU) 2015/652 and repealing Regulation (EU) No 525/2013 of
+the European Parliament and of the Council (OJ L 328, 21.12.2018, p. 1).
+(18)Commission Delegated Regulation (EU) 2021/2178 of 6 July 2021 supplementing Regulation (EU) 2020/852 of the European
+Parliament and of the Council by specifying the content and presentation of information to be disclosed by undertakings subject to

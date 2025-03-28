@@ -1,0 +1,58 @@
+File Name: 1_2021-06-04_DelVO_2021_2139_TAXKRA_EU.pdf
+Converted on: 2025-03-28 03:20:30
+Original Size: 2.76 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 96 of 447
+--------------------------------------------------------------------------------
+
+(5) Pollution prevention and control  The activity complies with the criteria set out in Appendix C to this 
+Annex.
+Emissions are within or lower than the emission levels associated with the
+best available techniques (BAT-AEL) ranges set out in the relevant best
+available techniques (BAT) conclusions, including:
+(a) the best available techniques (BAT) conclusions for the production of
+chlor-alkali (  121  ) and the best available techniques (BAT) conclusions 
+for common waste water and waste gas treatment/management
+systems in the chemical sector (  122  ); 
+(b) the best available techniques (BAT) conclusions for the refining of
+mineral oil and gas (  123  ). 
+No significant cross-media effects occur.  
+(6) Protection and restoration of
+biodiversity and ecosystems  The activity complies with the criteria set out in Appendix D to this 
+Annex.  
+3.11.  Manufacture of carbon black  
+Description of the activity  
+Manufacture of carbon black.  
+The economic activities in this category could be associated with NACE code C20.13 in accordance with the
+statistical classification of economic activities established by Regulation (EC) No 1893/2006.  
+An economic activity in this category is a transitional activity as referred to in Article 10(2) of Regulation (EU)
+2020/852 where it complies with the technical screening criteria set out in this Section.  
+Technical screening criteria  
+Substantial contribution to climate change mitigation  
+GHG emissions (  124  ) from the carbon black production processes are lower than 1,141 (  125  ) tCO  2 e per tonne of 
+product.  
+Do no significant harm (‘DNSH’)  
+(2) Climate change adaptation  The activity complies with the criteria set out in Appendix A to this 
+Annex.  
+(3) Sustainable use and protection of
+water and marine resources  The activity complies with the criteria set out in Appendix B to this 
+Annex.  
+(4) Transition to a circular economy  N/A  
+_____________
+( 121  ) Commission Implementing Decision 2013/732/EU of 9 December 2013 establishing the best available techniques (BAT) 
+conclusions, under Directive 2010/75/EU of the European Parliament and of the Council on industrial emissions, for the
+production of chlor-alkali (OJ L 332, 11.12.2013, p. 34).
+( 122  ) Commission Implementing Decision (EU) 2016/902 of 30 May 2016 establishing best available techniques (BAT) conclusions, 
+under Directive 2010/75/EU of the European Parliament and of the Council, for common waste water and waste gas treatment/
+management systems in the chemical sector (OJ L 152, 9.6.2016, p. 23).
+( 123  ) Commission Implementing Decision 2014/738/EU of 9 October 2014 establishing best available techniques (BAT) conclusions, 
+under Directive 2010/75/EU of the European Parliament and of the Council on industrial emissions, for the refining of mineral o il
+and gas (OJ L 307, 28.10.2014, p. 38).
+( 124  ) Calculated in accordance with Regulation (EU) 2019/331. 
+( 125  ) Reflecting the average value of the 10 % most efficient installations in 2016 and 2017 (t CO  2 equivalents/t) as set out in the 
+Annex to the Implementing Regulation (EU) 2021/447.EN  L 442/54 Official Journal of the European Union 9.12.2021
+
+--- Page 55 of 349 ---

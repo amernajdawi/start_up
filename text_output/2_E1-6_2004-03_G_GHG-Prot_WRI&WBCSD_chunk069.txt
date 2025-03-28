@@ -1,0 +1,60 @@
+File Name: 2_E1-6_2004-03_G_GHG-Prot_WRI&WBCSD.pdf
+Converted on: 2025-03-28 03:20:43
+Original Size: 3.51 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 69 of 104
+--------------------------------------------------------------------------------
+
+DEMONSTRATING LEADERSHIP
+AND CORPORATE RESPONSIBILITY
+With the emergence of GHG regulations in many parts
+of the world, as well as growing concern about theeffects of climate change, a commitment such assetting a public corporate GHG target demonstratesleadership and corporate responsibility. This canimprove a company’s standing with customers,employees, investors, business partners, and the public,and enhance brand reputation.
+
+PARTICIPATING IN VOLUNTARY PROGRAMS
+A growing number of voluntary GHG programs are
+emerging to encourage and assist companies insetting, implementing, and tracking progress towardGHG targets. Participation in voluntary programscan result in public recognition, may facilitate recog-nition of early action by future regulations, andenhance a company’s  GHG accounting and reportingcapacity and understanding.
+Steps in Setting a Target
+Setting a GHG target involves making choices amongvarious strategies for defining and achieving a GHGreduction. The business goals, any relevant policycontext, and stakeholder discussions should informthese choices.
+The following sections outline the ten steps involved.
+Although presented sequentially, in practice targetsetting involves cycling back and forth between the steps.It is assumed that the company has developed a GHGinventory before implementing these steps. Figure 12summarizes the steps.
+1. Obtain senior management commitment
+As with any corporate wide target, senior managementbuy-in and commitment particularly at the board/CEOlevel is a prerequisite for a successful GHG reductionprogram. Implementing a reduction target is likely tonecessitate changes in behavior and decision-makingthroughout the organization. It also requires estab-lishing an internal accountability and incentive systemand providing adequate resources to achieve the target.This will be difficult, if not impossible, without seniormanagement commitment. GUIDANCESetting a GHG Target
+CHAPTER 11 76BOX 4. Comparing absolute and intensity targets
+ABSOLUTE TARGETS reduce absolute emissions over time
+(Example: reduce CO2by 25 percent below 1994 levels by 2010)
+Advantages
+•Designed to achieve a reduction in a specified quantity of GHGs
+emitted to the atmosphere
+•Environmentally robust as it entails a commitment to reduce GHGs by
+a specified amount
+•Transparently addresses potential stakeholder concerns about
+the need to manage absolute emissions
+Disadvantages
+•Target base year recalculations for significant structural changes
+to the organization add complexity to tracking progress over time
+•Does not allow comparisons of GHG intensity/efficiency
+•Recognizes a company for reducing GHGs by decreasing produc-
+tion or output (organic decline, see chapter 5)
+•May be difficult to achieve if the company grows unexpectedly
+and growth is linked to GHG emissions
+INTENSITY TARGETS reduce the ratio of emissions relative to
+a business metric over time (Example:  reduce CO2by 12 percent per
+tonne of clinker between 2000 and 2008)
+Advantages
+•Reflects GHG performance improvements independent of organic
+growth or decline
+•Target base year recalculations for structural changes are
+usually not required (see step 4)
+•May increase the comparability of GHG performance among companies
+Disadvantages
+•No guarantee that GHG emissions to the atmosphere will be
+reduced—absolute emissions may rise even if intensity goesdown and output increases
+•Companies with diverse operations may find it difficult to define
+a single common business metric
+•If a monetary variable is used for the business metric, such as
+dollar of revenue or sales, it must be recalculated for changes inproduct prices and product mix, as well as inflation, addingcomplexity to the tracking process
+
+--- Page 79 of 116 ---

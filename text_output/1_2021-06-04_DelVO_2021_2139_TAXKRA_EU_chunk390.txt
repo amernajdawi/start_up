@@ -1,0 +1,62 @@
+File Name: 1_2021-06-04_DelVO_2021_2139_TAXKRA_EU.pdf
+Converted on: 2025-03-28 03:20:30
+Original Size: 2.76 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 390 of 447
+--------------------------------------------------------------------------------
+
+(4) Transition to a circular economy  At least 70 % (by weight) of the non-hazardous construction and demo ­
+lition waste (excluding naturally occurring material referred to in in
+category 17 05 04 in the European List of Waste established by
+Decision 2000/532/EC) generated on the construction site is prepared
+for reuse, recycling and other material recovery, including backfilling oper ­
+ations using waste to substitute other materials, in accordance with the
+waste hierarchy and the EU Construction and Demolition Waste
+Management Protocol (  547  ). Operators limit waste generation in processes 
+related construction and demolition, in accordance with the EU
+Construction and Demolition Waste Management Protocol and taking
+into account best available techniques and using selective demolition to
+enable removal and safe handling of hazardous substances and facilitate
+reuse and high-quality recycling by selective removal of materials, using
+available sorting systems for construction and demolition waste.  
+(5) Pollution prevention and control  Where appropriate, given the sensitivity of the area affected, in particular 
+in terms of the size of population affected, noise and vibrations from use
+of infrastructure are mitigated by introducing open trenches, wall barriers
+or other measures and comply with Directive 2002/49/EC.
+Measures are taken to reduce noise, dust and pollutant emissions during
+construction or maintenance works.  
+(6) Protection and restoration of
+biodiversity and ecosystems  The activity complies with the criteria set out in Appendix D to this 
+Annex.  
+6.15.  Infrastructure enabling road transport and public transport  
+Description of the activity  
+Construction, modernisation, maintenance and operation of motorways, streets, roads, other vehicular and
+pedestrian ways, surface work on streets, roads, highways, bridges or tunnels and construction of airfield
+runways, including the provision of architectural services, engineering services, drafting services, building inspection
+services and surveying and mapping services and the like as well as the performance of physical, chemical and
+other analytical testing of all types of materials and products, and excludes the installation of street lighting and
+electrical signals.  
+The economic activities in this category could be classified under several NACE codes, in particular F42.11, F42.13,
+F71.1 and F71.20 in accordance with the statistical classification of economic activities established by Regulation
+(EC) No 1893/2006.  
+Technical screening criteria  
+Substantial contribution to climate change adaptation  
+1. The economic activity has implemented physical and non-physical solutions (‘adaptation solutions’) that
+substantially reduce the most important physical climate risks that are material to that activity.
+2. The physical climate risks that are material to the activity have been identified from those listed in
+Appendix A to this Annex by performing a robust climate risk and vulnerability assessment with the
+following steps:
+(a) screening of the activity to identify which physical climate risks from the list in Appendix A to this Annex
+may affect the performance of the economic activity during its expected lifetime;
+(b) where the activity is assessed to be at risk from one or more of the physical climate risks listed in Appendix A
+to this Annex, a climate risk and vulnerability assessment to assess the materiality of the physical climate risks
+on the economic activity;
+(c) an assessment of adaptation solutions that can reduce the identified physical climate risk.  
+_____________
+( 547  ) EU Construction and Demolition Waste Protocol (version of 4.6.2021: https://ec.europa.eu/growth/content/eu-construction-and- 
+demolition-waste-protocol-0_en).EN  L 442/304 Official Journal of the European Union 9.12.2021
+
+--- Page 305 of 349 ---

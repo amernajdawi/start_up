@@ -1,0 +1,63 @@
+File Name: 2_E1-6_2011-09-01_G_GHG-PLC_WRI&WBCSD.pdf
+Converted on: 2025-03-28 03:18:25
+Original Size: 3.27 MB
+Chunk Size: 500 tokens with 50 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 138 of 226
+--------------------------------------------------------------------------------
+
+[88]   Product Life Cycle Accounting and Reporting Standard
+guidance11.3 Guidance
+11.3.1  Calculating the inventory results of the 
+studied product
+Companies should follow these steps when calculating
+the GHG impact of the studied product:
+1.  Choose a GWP value
+Because radiative forcing is a function of the
+concentration of GHGs in the atmosphere, and because
+the methodology to calculate GWP continues to
+evolve, GWP factors are reassessed every few years
+by the IPCC. The most current GWP factors published
+by the IPCC at the time of this standard’s publication
+are the factors published in the Fourth Assessment
+Report (2007). The Fifth Assessment Report is set
+to be completed in 2013-2014 and will likely contain
+updated factors. A table of the most recent GWP
+values is available at ( www.ghgprotocol.org ).
+Companies may choose to use other GWP values. For
+example, some companies may want to use the second
+assessment report values to be consistent with national
+inventories following the UNFCCC. Although it is required
+that companies calculate inventory results using the
+100-yr GWP, companies may choose to calculate and
+separately report results using a 20 or 500 year GWP
+factors or other impact assessment metrics such as global
+temperate potential (GTP) if they feel this would be
+useful information to their stakeholders.
+Multipliers or other corrections to account for radiative
+forcing may be applied to the GWP of emissions arising
+from aircraft transport. When used, the type of multiplier
+and its source should be disclosed in the inventory report.
+2.  Calculate CO2e using collected data
+The following equations illustrate how to calculate CO2e
+for an input, output, or process based on activity data,
+emission factors, and GWP. More information on data
+collection and sources of emission factors are available in
+chapter 8.
+When process or financial activity data is collected, the
+basic equation to calculate CO2e for an input, output, or
+process is:
+kg CO2e  =   Activity Data  x  Emission Factor  x  GWP  
+(unit)                                 [kg GHG/unit]                        [kg CO2e/kg GHG]When direct emissions data has been collected, an emission 
+factor is not needed and the basic equation to calculate
+inventory results for an input, output, or process is:
+kg CO2e  =   Direct Emissions Data  x  GWP  
+(kg GHG)                                                 [kg CO2e/kg GHG]        
+If direct emissions data and activity data are available,
+companies may find benefit in completing and calculating
+both ways as a cross-check.
+When CO2 is removed from the atmosphere by the
+product during the use phase (e.g., CO2 uptake by
+cement), the removal data may come in the form of a

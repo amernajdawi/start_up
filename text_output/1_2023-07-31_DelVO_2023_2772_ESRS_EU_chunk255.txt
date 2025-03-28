@@ -1,0 +1,47 @@
+File Name: 1_2023-07-31_DelVO_2023_2772_ESRS_EU.pdf
+Converted on: 2025-03-28 03:20:41
+Original Size: 5.82 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 255 of 284
+--------------------------------------------------------------------------------
+
+ELI: http://data.europa.eu/eli/reg_del/2023/2772/oj 254/284AR 10. ‘Indirect political contribution’ refers to those political contributions made through an intermediary organisation
+such as a lobbyist or charity, or support given to an organisation such as a think tank or trade association linked
+to or supporting particular political parties or causes.
+AR 11. When determining ‘comparable position’ in this standard, the undertaking shall consider various factors, including
+level of responsibility and scope of activities undertaken.
+AR 12. The undertaking may provide the following information on its financial or in-kind contributions with regard to its
+lobbying expenses:
+(a) the total monetary amount of such internal and external expenses; and
+(b) the total amount paid for membership to lobbying associations.
+AR 13. If the undertaking is legally obliged to be a member of a chamber of commerce or other organisation that
+represents its interests, it may disclose that this is the case.
+AR 14. In meeting the requirement in paragraph 29(c) the undertaking shall consider the alignment between its public statements on its material impacts, risks and opportunities and its lobbying activities.
+AR 15. An example of what such disclosures could look like:
+Political engagement (including lobbying activities) illustrative example
+During the 20XY financial year ABC was involved in activities around the proposed regulation XXX which could have
+significant negative impacts on its business model if implemented in the current format. ABC’s considers that while the
+proposed regulation will realise some improvements to the regulatory regime such as xxx, in its current format the costs relating to xxx will outweigh the benefits. ABC and its peers continue to work with XXX (the regulator) to improve this
+balance.
+ABC also supported the QRP political party in Country X and EFG party in Country Y as both …. ABC is registered in its
+local transparency register, i.e., XYZ, and its registration number is 987234.
+Amounts in € thousands.
+2023 2022 [TBC]
+Political funding provided 100
+Funding to QRP 75
+Funding to EFG 25
+100
+Disclosure Requirement G1-6 – Payment practices
+AR 16. In some cases, the undertaking’s standard contractual payment terms may differ significantly depending on
+country or type of supplier . In such cases, information about the standard terms per main categories of suppliers
+or country or geographical region could be examples of additional contextual information to explain the disclosures in paragraph 33(b).
+AR 17. An example of what the description of standard contract term disclosures in paragraph 33(b) could look like:
+ABC’s standard contract payment terms are payment on receipt of invoice for wholesalers which encompass approximately 80%
+of its annual invoices by value. It pays for services received within 30 days after receipt of the invoice which are about 5% of its
+annual invoices. The remainder of its invoices are paid within 60 days of receipt except for those in country X which in
+accordance with the marketplace standards are paid within 90 days of receipt.OJ L, 22.12.2023 EN  
+
+--- Page 255 of 284 ---

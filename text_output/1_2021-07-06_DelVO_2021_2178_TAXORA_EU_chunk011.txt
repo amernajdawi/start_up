@@ -1,0 +1,54 @@
+File Name: 1_2021-07-06_DelVO_2021_2178_TAXORA_EU.pdf
+Converted on: 2025-03-28 03:20:32
+Original Size: 10.30 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 11 of 47
+--------------------------------------------------------------------------------
+
+Exposures whose purpose is not to finance specific identified activities shall be included in the numerator weighted by the
+turnover KPI and CapEx KPI of the issuer in accordance with the methodology laid down in Annexes III, V, VII, and IX.
+Where an investee undertaking has issued the environmentally sustainable bonds or debt securities with the purpose of
+financing specific identified activities, financial undertakings shall discount the KPI of the investee undertaking accordingly
+to avoid double counting.
+5. Where the technical screening criteria laid down in the delegated acts adopted pursuant to Articles 10(3), 11(3),
+12(2), 13(2), 14(2) or 15(2) of Regulation (EU) 2020/852 are amended, special purpose loans and the instruments referred
+to paragraph 4 held by financial undertakings that finance Taxonomy aligned economic activities or assets shall in the
+absence of alignment of the financed economic activities or assets with the amended technical screening criteria be
+reported as such under this Regulation until five years after the date of application of the delegated acts that amend those
+technical screening criteria.
+6. Financial undertakings shall provide for a breakdown in the numerator where applicable and denominator of the key
+performance indicators for:
+(a) exposures to and investments in non-financial undertakings;
+(b) exposures to and investments in financial undertakings;
+(c) exposures to and investments in non-financial undertakings established in the Union that are not subject to an
+obligation to publish a non-financial statement pursuant to Articles 19a and 29a of Directive 2013/34/EU;
+(d) exposures to and investments in financial undertakings established in the Union that are not subject to an obligation to
+publish a non-financial statement pursuant to Articles 19a and 29a of Directive 2013/34/EU referred to in paragraph
+2;
+(e) exposures to and investments in non-financial undertakings established in a third country that are not subject to an
+obligation to publish a non-financial statement pursuant to Articles 19a and 29a of Directive 2013/34/EU;
+(f) exposures to and investments in financial undertakings referred established in a third country that are not subject to an
+obligation to publish a non-financial statement pursuant to Articles 19a and 29a of Directive 2013/34/EU;
+(g) exposures to and investments in derivatives;
+(h) other exposures and investments.
+7. Financial undertakings may use estimates for assessing the Taxonomy-alignment of their exposures to undertakings
+referred to in paragraph (6), points (e) and (f), where those financial undertakings are able to demonstrate compliance with
+all criteria of Article 3 of Regulation (EU) 2020/852, except with the criteria laid down in Article 3, point (b) of that
+Regulation.
+Financial undertakings shall formalise, document and make public the methodology upon which such estimations are
+based, including the approach and research methodology, the main assumptions and precautionary principles used.
+Financial undertakings shall disclose:
+(a) the proportion of Taxonomy-aligned exposures based on estimates separately from their key performance indicators
+disclosed pursuant to this Regulation;
+(b) the measures taken and the period of time necessary to demonstrate compliance with the criteria laid down in
+Article 3, point (b) of Regulation (EU) 2020/852.
+Article 8
+Disclosure rules common to all financial undertakings and non-financial undertakings
+1. Financial undertakings and non-financial undertakings shall include all additional disclosures accompanying the key
+performance indicators laid down in Annexes I, III, V, VII, XI in the same parts of the non-financial statement that contains
+those indicators, or shall provide cross-references to the parts of the non-financial statements that contain those indicators.EN Official Journal of the European Union L 443/14 10.12.2021  
+
+--- Page 7 of 59 ---

@@ -1,0 +1,77 @@
+File Name: 2_E1-6_2011-09-01_G_GHG-PLC_WRI&WBCSD.pdf
+Converted on: 2025-03-28 03:18:25
+Original Size: 3.27 MB
+Chunk Size: 500 tokens with 50 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 208 of 226
+--------------------------------------------------------------------------------
+
+[131]
+Table [C.2] Recommended quality assurance/quality control procedures (continued)
+Activity Procedure
+Calculating emissions  
+and checking calculations
+• Aggregation  
+of emissions
+• Emissions trends • Where possible, compare emissions from each process (or total product emissions)
+to previous estimates. If significant departures, check data inputs, assumptions and
+calculation methodologies
+• Where possible, compare material and energy purchases for each process (or in
+total) against generic industry averages
+Calculation
+methodologies• Reproduce a sample set of emissions and removals calculations to cross-check the
+application of calculation methodologies
+• Where possible, cross-check calculation methodologies used against more or less
+complex methodologies to ensure similar results are achieved
+Appendix C. Data Management Plan
+• Ensure that the aggregation of emissions from all processes is correct
+
+--- Page 134 of 148 ---
+
+[132]   Product Life Cycle Accounting and Reporting StandardAbbreviations
+BSI British Standards Institution
+CH4 Methane
+CO2 Carbon Dioxide
+CO2e Carbon Dioxide Equivalent
+DEFRA   UK Department of Environment Food and 
+Rural Affairs
+EEIO  Environmentally Extended Input-Output 
+EPD  Environmental Product Declaration
+FAO  Food and Agriculture Organization
+GHG  Greenhouse Gas
+GIS Geographic Information System
+GTP  Global Temperate Potential
+GWP  Global Warming Potential
+HFCs  Hydrofluorocarbons
+ILCD  International Reference Life Cycle Data 
+IPCC  Intergovernmental Panel on Climate Change
+ISO International Organization for Standardization
+kg  Kilogram
+LCA  Life Cycle Assessment
+LCI Life Cycle Inventory
+MW   Megawatt
+NAICS North American Industry Classification System
+NGO  Non-Governmental Organization
+N2O Nitrous Oxide
+O&M  Operation and Maintenance
+PAS 2050  Publicly Available Specification 2050
+PCR  Product Category Rule
+PET   Polyethylene Terephthalate
+PFCs  PerfluorocarbonsQA/QC  Quality Assurance/Quality Control
+R&D  Research and Development
+SETAC   Society of Environmental Toxicology and 
+Chemistry
+SF6 Sulfur Hexafluoride
+SKU Stock-Keeping Unit
+UNEP  United Nations Environment Programme
+UNFCCC   United Nations Framework Convention on 
+Climate Change
+UNSPSC  United Nations Standard Products and 
+Services Code
+WBCSD   World Business Council for Sustainable 
+Development
+WRI  World Resources Institute
+
+--- Page 135 of 148 ---

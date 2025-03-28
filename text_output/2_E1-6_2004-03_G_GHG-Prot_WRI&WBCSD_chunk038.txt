@@ -1,0 +1,54 @@
+File Name: 2_E1-6_2004-03_G_GHG-Prot_WRI&WBCSD.pdf
+Converted on: 2025-03-28 03:20:43
+Original Size: 3.51 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 38 of 104
+--------------------------------------------------------------------------------
+
+Most companies will need to use more than one calcu-
+lation tool to cover all their GHG emission sources. For example, to calculate GHG emissions from analuminum production facility, the company would usethe calculation tools for aluminum production,stationary combustion (for any consumption ofpurchased electricity, generation of energy on-site, etc),mobile combustion (for transportation of materials andproducts by train, vehicles employed on-site, employeebusiness travel, etc), and HFC use (for refrigeration,etc). See Table 3 for the full list of tools.
+STRUCTURE OF GHG PROTOCOL CALCULATION TOOLS
+Each of the cross-sector and sector-specific calculationtools on the website share a common format andinclude step-by-step guidance on measuring and calcu-lating emissions data. Each tool consists of a guidancesection and automated worksheets with explanations onhow to use them. The guidance for each calculation tool includes the
+following sections:
+
+Overview: provides an overview of the purpose and
+content of the tool, the calculation method used in thetool, and a process description
+
+Choosing activity data and emission factors: provides
+sector-specific good practice guidance and referencesfor default emission factors
+
+Calculation methods: describes different calculation
+methods depending on the availability of site-specificactivity data and emission factors
+
+Quality control: provides good practice guidance
+Internal reporting and documentation: provides
+guidance on internal documentation to support emissions calculations.CHAPTER 6 Identifying and Calculating GHG Emissions 43GUIDANCEChevronTexaco, a global energy company, has developed and imple-mented energy utilization and GHG estimation and reportingsoftware consistent with the GHG Protocol Corporate Standard . This
+software is available free of charge and makes it easier, more accu-rate, and less costly to institute a corporate-wide GHG accountingand reporting system in the oil and gas sector. Called the SANGEA
+™
+Energy and Greenhouse Gas Emissions Estimating System, it iscurrently in use at all ChevronTexaco facilities worldwide, comprisingmore than 70 reporting entities.
+The system is an auditable, Excel-and-Visual-Basic-based tool for
+estimating GHG emissions and energy utilization. It streamlines corpo-rate-level data consolidation by allowing the inventory coordinator ateach facility to configure a spreadsheet, enter monthly data, and sendquarterly reports to a centralized database.
+In practice, the SANGEA
+™system employs a variety of strategies to
+ensure consistent calculation methods and ease company-widestandardization:
+•  Spreadsheet configuration and material input information for
+specific facilities can be carried over from year to year. Inventoryspecialists can easily modify configurations as a facility changes(due to new construction, retirement of units, etc.).
+•  Updates are efficient. Methodologies for estimating emissions,
+emission factors, and calculation equations are stored centrally inthe software, easing updates when methodologies or default
+factors change. Updates to this central reference are automati-cally applied to the existing configuration and input data.Updates will mirror the timing and content of updates to theAmerican Petroleum Institute Compendium of GHG emission esti-mating methodologies.
+•  The system is auditable. The software requires detailed audit trail
+information on data inputs and system users. There is docu-mented accountability of who made any change to the system.
+•  Using one system saves money. Significant cost savings are
+achieved by using the same system in all facilities, as comparedto conventional, disparate systems.
+ChevronTexaco’s one-off investment in developing the SANGEA
+™system
+has already shown results: A rough cost estimate for ChevronTexaco'sRichmond, California, refinery indicates savings of more than 70percent over a five-year period compared with the conventionalapproaches based on locally developed reporting systems. SANGEA
+™is
+expected to reduce the long term expenses of maintaining a legacysystem and hiring independent consultants. Employing a combinationof the GHG Protocol Corporate Standard s and SANGEA
+™calculation
+software to replace a diverse and confusing set of accounting andreporting templates yields significant efficiency and accuracy gains,and allows the company to more accurately manage GHG emissionsand institute specific emissions improvements.ChevronTexaco: The SANGEATMaccounting and reporting system
+
+--- Page 46 of 116 ---

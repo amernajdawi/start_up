@@ -1,0 +1,92 @@
+File Name: CELEX_32010L0075_DE_TXT.pdf
+Converted on: 2025-03-28 03:18:33
+Original Size: 4.18 MB
+Chunk Size: 500 tokens with 50 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 112 of 163
+--------------------------------------------------------------------------------
+
+L 334/72 DE Amtsblattder Europäischen Union 17.12.2010
+3.2.2. CVerfahren für Feuerun gsanlagen gemäß Artikel  30 Absatz  3 mit Ausn ahme von Gasturbin en und Gasmotoren  
+CVerfahren für feste Bren nstoffe ausgenommen Biomasse (O2-Gehalt 6 %):
+Schadstoff < 50 MW 50 bis 100 MW 100 bis 300 MW > 300 MW
+SO2 — 400
+für Torf: 300200
+für Torf: 300, aus­
+genommen
+bei
+Wirbelschicht­
+feuerung:
+250150
+bei
+zirkulierender
+oder druck auf­
+geladener
+Wirbelschichtfeuerung
+oder
+im Falle der Torfverb rennung
+für
+alle Wirbelschicht­
+feuerungen:
+200
+NOx — 300
+für Torf: 250200 150
+bei
+Braunkohlestaubfeuerungen:
+200
+Staub 50 20 20 10
+für Torf: 20
+CVerfahren für Biomasse (O2-Gehalt 6 %):
+Schadstoff < 50 MW 50 bis  100 MW 100 bis  300 MW > 300 MW
+SO2 — 200 200 150
+NOx — 250 200 150
+Staub 50 20 20 20
+CVerfahren für flüssig e Brennstoffe (O2-Gehalt 3 %):
+Schadstoff < 50 MW 50 bis  100 MW 100 bis  300 MW > 300 MW
+SO2 — 350 200 150
+NOx — 300 150 100
+Staub 50 20 20 10
+3.3. C — Gesamtemission sgrenzwerte
+für Schwermetalle (in  
+mg/Nm3) ausgedrückt als Mittelwerte b ei einer Probenahme­
+dauer
+von
+mindestens
+30 Minuten
+und
+höchstens
+8 Stunden
+(O2-Gehalt 6 % für feste Bren nstoffe und 3 % für flüs­
+sige
+Brennstoffe).
+Schadstoff C
+C d  +  T l 0,05
+Hg 0,05
+S b  +  A s  +  P b  +  C r  +  C o  +  C u  +  M n  +  N i  +  V 0 , 5
+3.4. C — Gesamtemission sgrenzwert
+(in
+ng/Nm3) für Dioxin e und Furane ausgedrückt als Mittelwerte b ei einer Proben­
+ahmedauer
+von
+mindestens
+6 Stunden
+und
+höchstens
+8 Stunden
+(O2-Gehalt 6 % für feste Bren nstoffe und 3 % für
+flüssige
+Brennstoffe).
+Schadstoff C
+Dioxine und Furane 0,1
+4. Sondervorschriften
+für Abfallmitverbrennungsanlagen
+der nicht
+unte
+r die Nummern  
+2 und
+3 dieses Teils fallen den
+Industriezweige
+
+--- Page 57 of 103 ---

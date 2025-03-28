@@ -1,0 +1,183 @@
+File Name: 2_E1-6_2006-01-01_GHG-LuLu_WRI&WBCSD.pdf
+Converted on: 2025-03-28 03:20:49
+Original Size: 6.41 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 17 of 50
+--------------------------------------------------------------------------------
+
+CHAPTER7:EstimatingtheBaselineGHGRemovals—Per formanceStandardProcedure
+39 3 . Managementregimes;forexample,ifthereisatrendin
+forestmanagementpracticesthatlengthensharvestcycles
+inthegeographicarea(resultinginhighercarbonstocks),
+thenahigherstringencylevelmaybeappropriate.
+Otherfactorstoconsiderthatarespecifictoreforestation
+andforestmanagementprojectactivitiesarethefollowing:
+Reforestation ProjectActivities
+Higherstringencylevelsmaybeappropriatewhenagricul-
+turalmanagementisturningtowardhighersequestering
+managementpractices.Forexample,ifno-tillpractices
+insteadofconventional tillagepracticesarebecomingmore
+prevalentduringthetemporalrange,ahigherstringency
+wouldreflectthefuturetrendbyrecognizingthatthereis
+increasedcarbonstoredasaresultofthismanagement
+change.Whenthegeographicareaispredominantlyanarea
+ofhighproductivity forwoodproduction,thenahigher
+stringencylevelmaybemoreappropriate.Forreforestation
+projectactivitiesinareaswherewoodproductionandthe
+internalrateofreturnontheGHGprojectarelow,thena
+lowerstringencylevelmaybeappropriate,asplantingmay
+bearelativelyunattractive land-useoption.
+ForestManagement ProjectActivities
+Thestringencylevelforforestmanagementprojectsrepre -
+sentsabaselinemanagement practiceforthedefined
+geographicarea,whichprojectdevelopersuseinconjunction
+withtheprojectsite’scurrentinventorytodefinethe
+baselineGHGremovals.Allaspectsofthebaselinemanage -
+mentpracticechosenfortheperformancestandardshould
+bedescribedveryclearlytoensurethatthebaselineGHG
+removalscalculatedondifferentprojectsitesintheregion
+willhaveconsistentparameters,evenifthestartinginven -
+toryonthelandsaredifferent(seebox7.3).
+Astringentmanagement practiceshouldreflectbest
+practicesinaregionandmaybemostappropriatewhere
+therearenumerouspotentialprojectsitesandanactive
+forestryindustry,and/orforestmanagementregulationsare
+otherwisebecomingmorestringent.Alessstringent
+managementpracticemaybeappropriatewherethereare
+fewerpotentialprojectsitesandlowerexpectationsonthose
+sitesintermsofproductivity andregulations.
+7 . 1 . 5 E S T I M AT E T H E B A S E L I N E G H G R E M O VA L S
+A N D T O TA L B A S E L I N E C A R B O N S T O C K S
+BaselineGHGremovalsarethoseGHGremovalsperunit
+areaoflandineachtimeperiodthatcorrespondtothe
+performancestandard.ThetotalbaselineGHGremovalsare
+theGHGremovalsfortheentireareaoftheprojectsitein
+eachtimeperiod.Forexample,iftheperformancestandardis22tCO 2
+removed/haintimeperiod1andtheprojectsitehas250ha,
+thetotalbaselineGHGremovalsintimeperiod1are
+22tCO 2/hax250ha=5500tCO 2(seeequationin
+box6.1).Whereappropriate,applytheland-usetrend
+factortothebaselineGHGremovalsineachtimeperiod
+(seechapter8).TheGHGremovalsarethenusedin
+chapter10,MonitoringandQuantifyingGHGReductions,
+tocalculatetheGHGreduction.
+Inaddition,totalbaselinecarbonstocksshouldalsobe
+calculated.Totalbaselinecarbonstocksforforestmanage -
+mentprojectactivitiesarefoundbycalculatingthecarbon
+stocksperunitoflandareaatthebeginningoftheproject
+timeperiodandaddinganybaselinechangesincarbon
+stocksperunitoflandareaexpectedduringthelengthof
+theGHGproject.Thistotalperunitoflandareaisthen
+multipliedbytheareacoveredbytheprojectactivity(see
+theequationinbox6.1).
+Forreforestationprojectactivitieswheretheperformance
+standardrepresentsonlyonetypeofbaselinecandidatefor
+theprojectlifetime,theequationinbox6.1maybeused.
+Forperformancestandardsderivedfromdifferenttypesof
+baselinecandidates(i.e.,landuse)overtime(asinbox7.4)
+findingthetotalcarbonstocksdoesnotmakesenseand
+neednotbedone.IftheweightedmeanGHGremovalsare
+usedtodefinetheperformancestandard,thenthetotal
+baselinecarbonstockscanbefoundby
+•calculatingthepercentofthegeographicareathateach
+typeofbaselinecandidaterepresents,
+•applyingthesepercentagestotheareaoftheprojectsite,
+•multiplyingthebaselinecarbonstocksbytheirrespective
+areaoftheprojectsitecalculatedabove(seetheNipawin
+AfforestationProjectforafullexampleofthiscalculation).
+Guidanceonquantifyingcarbonstocksandresourcestouse
+canbefoundinchapter9,EstimatingandQuantifying
+CarbonStocks.TheNipawinAfforestationProjectexample
+alsoillustrateshowtocalculatechangesincarbonstock,
+GHGremovalsandtotalcarbonstocks.
+N O T E S
+1This.5isaddedtomakesurethatwhenthenumberofbaseline
+candidatesisuneven,themedianbaselinecandidatewillbe
+representedbythebaselinecandidateinthemiddleofthedistri-
+bution.Forexample,iftherearesevenbaselinecandidates,the
+medianwillbethefourthbaselinecandidate,notthethird.
+2Clearly,thisstringencylevelwouldnotbeused,asitrepresents
+anemissionofCO 2.
+
+--- Page 42 of 100 ---
+
+40
+PARTII:GHGReductionAccountingandReporting
+heland -use ormanag emen ttrend factor(land-usetrendfactor)isanestimateoftherate
+atwhichland-useormanagementchangesareoccurringinthegeographic areaandduring
+thetemporalrangedefinedinchapter5,IdentifyingBaselineCandidates.Itcanbeapplied
+toboththeperformance standardandtheproject-specificbaselineprocedurestoensurethatthe
+baselineGHGemissionsandremovalsmorecloselyreflectanarea’schangingconditions.ApplyingaLand-Useor
+ManagementTrendFactor
+T8
+
+--- Page 43 of 100 ---
+
+8.1 When toApply theLand-Use
+orManagem entTrendFactor
+Twoconditionsareimportanttodeterminingwhetheritis
+appropriateorpossibletoapplyaland-usetrendfactor.
+First,thereshouldbeatleasttwotimeperiods,preferably
+atthebeginningandtheendofthetemporalrange,with
+reliableandspecificdataonlandsinthegeographicarea
+(seebox8.1).Withoutreliabledatafromatleasttwotime
+periodscoveringthegeographicarea,itisnotpossibleto
+properlydefinethebaselinecandidateswiththespecificity
+requiredtoestimatealand-usetrendreliablyorevento
+identifywithcertaintythatthereisaclearpatternof
+change.Themoredatathatcanbecollectedontheactivities
+occurringinthegeographicarea,thegreaterthevaluewill
+beofthederivedland-usetrendfactor.
+Ifthereareno(ornegligible)relevantland-useormanage -
+mentchangesoccurringinanareaorthereareinsufficient
+datatoestimatetheland-usetrend,theinformationthen
+usedtomakethesedeterminationsshouldbeclearlyand
+transparently documented.Second,theprojectactivityandbaselinecandidatesshould
+representdiscreteland-useormanagementchangesandnot
+beavariationinthelevelofintensityofthelanduseor
+implementationofamanagementpractice.Forexample,in
+forestmanagementprojectactivities,variouslevelsofforest
+thinningordifferinglengthsforharvestrotationswithina
+geographicareawouldrepresentachangeintheintensityof
+amanagementpractice.Applyingtheland-usetrendfactor
+inthiscasethereforewouldnotbeappropriatebecauseit
+wouldbedifficulttodiscernthechangesagainstwhicha
+ratecouldbeapplied.CHAPTER8:ApplyingaLand-UseorManagement TrendFactor
+41
+1.Isthereenoughinformationtoidentifythespecificunitsofland
+inthegeographicareabeingusedthathavechangedandwhat
+theyhavechangedto?Forexample,aprojectdevelopermay
+havefoundabundantinformationaboutbaselinecandidates
+basedoncensusdataorothersurveys,butwithoutspecific
+informationabouttheexactactivitiesoccurringandwhich
+landshavebeenaffected,theprojectdevelopermayhavediffi-
+cultyascertainingwhetherthetrendisrelevanttotheproject
+activityorhowtheinformationshouldbeappliedtoadjustthe
+baselineGHGremovals.
+2.Isthereenoughinformationaboutthebaselinecandidatesto
+distinguishthemsufficientlywhendiscerningtrends?For
+example,theremaybeseveral“afforestation”activitiesoccur -
+ringinaregion,butisenoughknownabouttheseactivitiesto
+determinewhytheyhavebeenoccurringandwhetherthereare
+anydifferencesamongthem? B O X 8 . 1 FindingRelevant Land-UseandManagementTrendData
+3.Isthereenoughinformationtofindoutwhyunitsoflandandthe
+underlyingspecificmanagementpracticesoractivitiesinthe
+geographicareaareshifting?Theprojectdeveloperneedstoascer -
+tainthatthetemporalrangebeingusedtocollectdataonthe
+trendseitherincludesorexcludes(dependingoncurrentconditions)
+laws,regulations,orotherprogramsthatmaybecausingthe
+changes.Althoughthisinformationshouldhavebeenfoundin
+chapter5,itmustbeconsideredagaininthischapter,especially
+asitmayrelatetolandunitsthathavechangedbecauseofclimate
+changeprogramsorincentives.
+GHGprogramsrunbylocal,regional,ornationalgovernmentsarein
+thebestpositiontogatherthedatarequiredtodevelopaland-use
+trendfactor.Specifically,aGHGprogramwouldbeinthebestposition
+todecidewhetherlandunitsconvertedasaresultofitsorother
+governmentactivitiesshouldbeincludedorexcludedfromtheanaly -
+sisofthetrend.Toensurethatthedatabeingusedtoestablishaland-usetrendfactorarerelevant,considerthefollowing:
+
+--- Page 44 of 100 ---

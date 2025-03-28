@@ -1,0 +1,36 @@
+File Name: 1_2023-07-31_DelVO_2023_2772_ESRS_EU.pdf
+Converted on: 2025-03-28 03:18:14
+Original Size: 5.82 MB
+Chunk Size: 500 tokens with 50 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 471 of 686
+--------------------------------------------------------------------------------
+
+ELI: http://data.europa.eu/eli/reg_del/2023/2772/oj 197/284(c) apply the following formula for the annual total remuneration ratio:
+AR 102. To illustrate the contextual information, the undertaking may provide an explanation to understand the data and
+how the data has been compiled (methodology). Quantitative data, such as the annual total remuneration ratio,
+may not be sufficient on its own to understand pay disparity and its drivers. For example, pay ratios can be
+influenced by the size of the undertaking (for example, revenue, number of employees
+), its sector, its
+employment strategy (for example, reliance on outsourced workers or part-time employees, a high degree of automation), or currency volatility.
+Disclosure Requirement S1-17 –Incidents, complaints and severe human rights impacts
+AR 103. In addition to the information required by paragraphs 103 and 104, the undertaking may disclose the status of
+incidents and/or complaints and actions taken with reference to the following:
+(a) incidents reviewed by the undertaking;
+(b) remediation plans being implemented;
+(c) remediation plans that have been implemented, with results reviewed through routine internal management
+review processes; and
+(d) incidents no longer subject to action.
+AR 104. If the undertaking compiles the information described in AR 105, it shall consider the following:
+(a) an incident is no longer subject to action if it is resolved, the case is completed, or no further action is
+required by the undertaking. For example, an incident for which no further action is required can include cases that are withdrawn or where the underlying circumstances that led to the incident no longer exist;
+(b) remedial action is directed toward the alleged harasser and the alleged victim. Remedial action toward the victim may include offering to pay his/her expenses for counselling sessions, offering the victim some paid
+time off, offering to reinstate sick/vacation days if the victim has incurred any expenses due to the
+harassment (such as having used sick or vacation days); and
+(c) remedial action toward the harasser may include giving the harasser a verbal and/or written warning,
+mandating anti-harassment counselling or sending the harasser to an appropriate seminar, harassment
+awareness and prevention training. A suspension without pay may also be an option. If the harasser has
+been disciplined earlier but his/her harassment does not cease, then more serious discipline may be required.
+AR 105. Severe human rights incidents include instances of lawsuits, formal complaints through the undertaking or third-

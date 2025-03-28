@@ -1,0 +1,53 @@
+File Name: 1_2021-06-04_DelVO_2021_2139_TAXKRA_EU.pdf
+Converted on: 2025-03-28 03:20:30
+Original Size: 2.76 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 135 of 447
+--------------------------------------------------------------------------------
+
+(b) by closing the gap by at least 20 % either between the current leakage level averaged over three years,
+calculated using the Infrastructure Leakage Index (ILI) rating method and an ILI of 1.5 (  207  ), or between the 
+current leakage level averaged over three years, calculated using another appropriate method, and the
+threshold value established in accordance with Article 4 of Directive (EU) 2020/2184. The current
+leakage level averaged over three years is calculated across the extent of water supply (distribution)
+network where the works are carried out, i.e. for the renewed water supply (distribution) network at
+district metered area(s) (DMAs) or pressure managed area(s) (PMAs).  
+Do no significant harm (‘DNSH’)  
+(2) Climate change adaptation  The activity complies with the criteria set out in Appendix A to this 
+Annex.  
+(3) Sustainable use and protection of
+water and marine resources  The activity complies with the criteria set out in Appendix B to this 
+Annex.  
+(4) Transition to a circular economy  N/A  
+(5) Pollution prevention and control  N/A  
+(6) Protection and restoration of
+biodiversity and ecosystems  The activity complies with the criteria set out in Appendix D to this 
+Annex.  
+5.3.  Construction, extension and operation of waste water collection and treatment  
+Description of the activity  
+Construction, extension and operation of centralised waste water systems including collection (sewer network) and
+treatment.  
+The economic activities in this category could be associated with several NACE codes, in particular E37.00 and
+F42.99 in accordance with the statistical classification of economic activities established by Regulation (EC)
+No 1893/2006.  
+Technical screening criteria  
+Substantial contribution to climate change mitigation  
+1. The net energy consumption of the waste water treatment plant equals to or is lower than:
+(a) 35 kWh per population equivalent (p.e.) per annum for treatment plant capacity below 10 000 p.e.;
+(b) 25 kWh per population equivalent (p.e.) per annum for treatment plant capacity between 10 000 and
+100 000 p.e.;
+(c) 20 kWh per population equivalent (p.e.) per annum for treatment plant capacity above 100 000 p.e.
+Net energy consumption of the operation of the waste water treatment plant may take into account measures
+decreasing energy consumption relating to source control (reduction of storm water or pollutant load inputs),
+and, as appropriate, energy generation within the system (such as hydraulic, solar, thermal and wind energy).  
+_____________
+( 207  ) The Infrastructure Leakage Index (ILI) is calculated as current annual real losses (CARL)/unavoidable annual real losses (UAR L): The 
+current annual real losses (CARL) represent the amount of water that is actually lost from the distribution network (i.e. not
+delivered to final users). The unavoidable annual real losses (UARL) take into consideration that there will always be some lea kage
+in a water distribution network. The UARL is calculated based on factors such as the length of the network, the number of servi ce
+connections and the pressure at which the network is operating.EN  L 442/92 Official Journal of the European Union 9.12.2021
+
+--- Page 93 of 349 ---

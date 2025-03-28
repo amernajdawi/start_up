@@ -1,0 +1,14 @@
+File Name: 2_E1-6_2004-03_G_GHG-Prot_WRI&WBCSD.pdf
+Converted on: 2025-03-28 03:18:16
+Original Size: 3.51 MB
+Chunk Size: 500 tokens with 50 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 141 of 225
+--------------------------------------------------------------------------------
+
+for 1990 is too unreliable to provide a verifiable base year for thepurposes of tracking emissions over time or setting a GHG target.Challenges also remain in auditing GHG emissions embedded inwaste fuels, co-generation, passenger travel, and shipping.
+Over the past 3 years PwC has noticed a gradual evolution of
+GHG verification practices from “customized” and “voluntary” to “standardized” and “mandatory.” The California Climate ActionRegistry, World Economic Forum Global GHG Registry and theforthcoming EU ETS (covering 12,000 industrial sites in Europe)require some form of emissions verification. In the EU ETS GHGverifiers will likely have to be accredited by a national body. GHGverifier accreditation processes have already been established inthe UK for its domestic trading scheme, and in California for regis-tering emissions in the CCAR.PricewaterhouseCoopers:
+GHG inventory verification— lessons from the field

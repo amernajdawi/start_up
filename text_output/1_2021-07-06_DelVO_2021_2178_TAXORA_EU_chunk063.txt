@@ -1,0 +1,35 @@
+File Name: 1_2021-07-06_DelVO_2021_2178_TAXORA_EU.pdf
+Converted on: 2025-03-28 03:18:05
+Original Size: 10.30 MB
+Chunk Size: 500 tokens with 50 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 63 of 90
+--------------------------------------------------------------------------------
+
+In the case of investees that are insurance or reinsurance undertakings, the benchmark shall be investments, gross
+premiums written or, as applicable, total insurance revenue, as resulting from the calculation either of the turnover-based
+and CapEx based investment KPI or of the underwriting KPI of the investee in accordance with Annexes XI and X to this
+Regulation.
+The denominator shall be the total gross carrying amount of loans and advances, debt securities and equity holdings of
+relevant accounting portfolios in financial undertakings.
+1.2.1.3. Green asset ratio for retail exposures
+GAR for retail exposures to residential real estate or house renovation loans shall be calculated as a proportion of loans to
+households collateralised by residential immovable property or granted for house renovation purposes that is taxonomy-
+aligned in accordance with the technical screening criteria for buildings, namely renovation and acquisition and ownership
+in accordance with points 7.2, 7.3, 7.4, 7.5, 7.6, and 7.7 respectively, of Annex I to Climate Delegated Act, compared to
+total loans to households collateralised by residential immovable property or granted for house renovation purposes. This
+GAR shall include disclosures of transitional activities, and disclosures of stock and flow. This GAR shall apply only to
+investments relevant for climate change mitigation.
+GAR for retail exposures to credit consumption loans for car loans shall be calculated as the proportion of loans financing
+cars complying with the technical screening criteria as laid down in Section 6.5 of Annex I to Climate Delegated Act. This
+GAR shall include disclosures of transitional activities, and disclosures of stock of loans only for loans granted after [the
+date of application of this Regulation] and flow of loans. This GAR shall apply only to investments relevant for climate change mitigation.
+KPIs on retail exposures financing taxonomy-aligned economic activities shall only apply for the objective of climate
+change mitigation.
+(i) Residential real estate lending
+Credit institutions’ KPI disclosure shall cover the retail lending portfolio, in particular the mortgage lending portfolio. This
+KPI shall be disclosed by taking into account compliance with the technical screening criteria for buildings as laid down in
+Sections 7.2, 7.3, 7.4, 7.5, 7.6 and 7.7 of Annex I to Climate Delegated Act.
+Credit institutions shall disclose the KPI for their residential real estate lending portfolio as a proportion of loans to

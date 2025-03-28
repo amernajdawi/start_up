@@ -1,0 +1,48 @@
+File Name: 1_2023-07-31_DelVO_2023_2772_ESRS_EU.pdf
+Converted on: 2025-03-28 03:20:41
+Original Size: 5.82 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 85 of 284
+--------------------------------------------------------------------------------
+
+ELI: http://data.europa.eu/eli/reg_del/2023/2772/oj 88/284Impact, risk and opportunity management
+Disclosure Requirement related to ESRS 2 IRO-1 Description of the processes to identify and assess material climate-
+related impacts, risks and opportunities
+AR 9. When disclosing the information on the processes to identify and assess climate impacts as required under
+paragraph 20 (a), the undertaking shall explain how it has:
+(a) screened its activities and plans in order to identify actual and potential future GHG emission sources and, if
+applicable, drivers for other climate-related impacts (e.g., emissions of black carbon or tropospheric ozone or
+land-use change) in own operations and along the value chain; and
+(b) assessed its actual and potential impacts on climate change (i.e., its total GHG emissions).
+AR 10. The undertaking may link the information disclosed under paragraphs 20 (a) and AR 9 to the information
+disclosed under the following Disclosure Requirements: Disclosure Requirement E1-1, paragraph 16 (d) on
+locked-in GHG emissions; Disclosure Requirement E1-4 and Disclosure Requirement E1-6.
+AR 11. When disclosing the information on the processes to identify and assess physical risks as required under
+paragraph 20 (b), the undertaking shall explain whether and how:
+(a) it has identified climate-related hazards (see table below) over the short-, medium- and long-term and screened whether its assets and business activities may be exposed to these hazards;
+(b) it has defined short-, medium- and long-term time horizons and how these definitions are linked to the
+expected lifetime of its assets, strategic planning horizons and capital allocation plans;
+(c) it has assessed the extent to which its assets and business activities may be exposed and are sensitive to the
+identified climate-related hazards, taking into consideration the likelihood, magnitude and duration of the
+hazards as well as the geospatial coordinates (such as Nomenclature of Territorial Units of Statistics- NUTS for
+the EU territory) specific to the undertaking’s locations and supply chains; and
+(d) the identification of climate-related hazards and the assessment of exposure and sensitivity are informed by
+high emissions climate scenarios, which may, for example, be based on IPCC SSP5-8.5, relevant regional
+climate projections based on these emission scenarios, or NGFS (Network for Greening the Financial System) climate scenarios with high physical risk such as “Hot house world” or “Too little, too late”. For general
+requirements regarding climate-related scenario analysis see paragraphs 18, 19, AR 13 to AR 15.
+Classification of climate-related hazards
+(Source: Commission delegated regulation (EU) 2021/2139)
+Temperature-related Wind-related Water-related Solid mass- related
+Chronic Changing temperature
+(air, freshwater, marine
+water)Changing wind
+patternsChanging precipitation patterns and types (rain,
+hail, snow/ice)Coastal erosion
+Heat stress Precipitation or hydrological variabilitySoil degradation
+Temperature variability Ocean acidification Soil erosion
+Permafrost thawing Saline intrusion SolifluctionOJ L, 22.12.2023 EN  
+
+--- Page 89 of 284 ---

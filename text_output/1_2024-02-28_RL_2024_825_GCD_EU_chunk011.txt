@@ -1,0 +1,45 @@
+File Name: 1_2024-02-28_RL_2024_825_GCD_EU.pdf
+Converted on: 2025-03-28 03:20:42
+Original Size: 0.61 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 11 of 34
+--------------------------------------------------------------------------------
+
+ELI: http://data.europa.eu/eli/dir/2024/825/oj 4/16(10) Recognised excellen t environmental performa nce can be demonstrated by compl iance with Regulation (EC)
+No 66/2010 or with officially recognised EN ISO 14024 ecolabelling schemes in the Member State s, or by
+corresponding to top environmental perf ormance for a specifi c environmental charact eristic in accordance with
+other applicable Union laws, such as class A in accordance with Regulation (EU) 2017/1369 of the European
+Parliament and of the Council (9). The recognised excellent envi ronmental performa nce in question should be
+relevant to the entire claim. For example, a gener ic envi ronmental claim such as ‘energy efficient’ could be made
+based on recognised excellen t environmental performa nce in accordance with Regulation (EU) 2017/1369. By
+contrast, a generic environmental claim such as ‘biodegradable ’ could not be made based on recognised excellent
+environmental performa nce in accordance with Regulation (EC) No 66/2010, insofa r as there are no requirements
+for biodegradability in the specific EU Ecolabel criteria relat ed to the product in question. Similarly , a trader should
+not make a gener ic claim such as ‘conscious’, ‘sustainable’ or ‘responsible’ based excl usively on recognised excellent
+environmental performance, because such claims relat e to other characteri stics in addition to environmental
+character istics, such as social charact eristics.
+(11) Another misleading commercial practice, whic h should be prohibit ed in all circumstances and thus added to the list
+in Annex I to Directive 2005/29/EC, is making an environmental claim about the entire product or the trader ’s entire
+business when it actually concer ns only a certain aspect of the product or a specific, unrepresentative activity of the
+trader ’s business. That ban would apply , for exam ple, when a product is mark eted as ‘made with recy cled mater ial’
+giving the impression that the entire product is made of recy cled mater ial, when in fact only the packaging is made
+of recy cled mater ial, or when a trader gives the impression that it is only using renewable energy sources when in
+fact several of the trader ’s business facilities still use fossil fuels. According ly, the ban should not prevent a trader
+from making environmental claims about its entire business, provided that those claims are accurat e and verifiable
+and that they do not overstat e the envi ronmental benefi t, such as would be the case in the second of those
+examples , if that trader were to repor t a decrease in the use of fossil fuels for its business as a whole.
+(12) It is particularly impor tant to prohibit the making of claims, based on the offsetting of greenhouse gas emissions,
+that a product, either a good or service has a neutral, reduced, or positive impact on the environment in terms of
+greenhouse gas emissions. Such claims should be prohibit ed in all circumstances and added to the list in Annex I to
+Directive 2005/29/EC as they mislead consumers by making them believe that such claims relate to the product itself
+or to the supply and production of that product, or as they give the false impression to consumers that the
+consum ption of that product does not have an environmental impact. Examples of such claims are ‘climate neutral’ ,
+‘CO 2 neutral certified’, ‘carbon positive’, ‘climate net zero’, ‘climate compen sated’ , ‘reduced climat e impact’ and
+‘limit ed CO 2 footpr int’. Such claims should only be allowed when they are based on the actual lifecy cle impact of
+the product in question, and not based on the offsetting of greenhouse gas emissions outside the product’ s value
+chain, as the former and the latter are not equivalent. Such a prohibition should not prevent compan ies from
+adver tising their investments in environmental initiatives, including carbon credit projects, as long as they provid e
+such information in a way that is not misleading and that complies with the requirements laid down in Union law.

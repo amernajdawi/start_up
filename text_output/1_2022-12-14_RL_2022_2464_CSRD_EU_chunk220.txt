@@ -1,0 +1,29 @@
+File Name: 1_2022-12-14_RL_2022_2464_CSRD_EU.pdf
+Converted on: 2025-03-28 01:55:36
+Original Size: 1.12 MB
+Chunk Size: 400 tokens with 50 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 220 of 237
+--------------------------------------------------------------------------------
+
+(a) such secur ities have been admitted to trading on a regulat ed market in a Member State, defined in point (21)
+of Article 4(1) of Directive 2014/65/EU prior to 31 December 2010 and the denomination per unit of whic h
+is, at the date of issue, at least EUR 50 000 or, in the case of debt secur ities denominated in another currency ,
+equivalent, at the date of issue, to at least EUR 50 000 ;
+(b) such secur ities are admitted to trading on a regulated mark et in a Member State , defined in point (21) of
+Article 4(1) of Directive 2014/65/EU from 31 December 2010 and the denomination per unit of which is, at
+the date of issue, at least EUR 100 000 or, in case of debt secur ities denominat ed in another currency ,
+equivalent, at the date of issue, to at least EUR 100 000 .
+_____________
+(*) Directive 2014/65/EU of the European Parliament and of the Council of 15 May 2014 on markets in financial
+instr uments and amending Directive 2002/92/EC and Directive 2011/61/EU (OJ L 173, 12.6.2014, p. 349).’;
+(b) paragraphs 4 to 6 are replaced by the following:
+‘4. Without prejudice to Article 46, audit repor ts concer ning annual accounts or consolidated accounts or,
+where applicable, the assurance repor ts concer ning annual or consolidated sustainability repor ting refer red to in
+paragraph 1 of this Article issued by third-countr y auditor s or audit entities that are not register ed in the
+Member State shall have no legal effect in that Member State.
+5. A Member State may register a third-countr y audit entity for the purpose of the audit of financial state ments
+only if:
+(a) the major ity of the members of the administrative or manage ment body of the third-countr y audit entity

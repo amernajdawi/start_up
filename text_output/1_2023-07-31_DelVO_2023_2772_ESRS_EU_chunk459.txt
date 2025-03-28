@@ -1,0 +1,39 @@
+File Name: 1_2023-07-31_DelVO_2023_2772_ESRS_EU.pdf
+Converted on: 2025-03-28 03:18:14
+Original Size: 5.82 MB
+Chunk Size: 500 tokens with 50 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 459 of 686
+--------------------------------------------------------------------------------
+
+ELI: http://data.europa.eu/eli/reg_del/2023/2772/oj 193/284benchmark that is either not lower than the minimum wage in a neighboring country with a similar socio-
+economic status or not lower than a commonly-referenced international norm such as 60% of the country's
+median wage and 50% of the gross average wage.
+(b) outside of the EEA:
+i. the wage level established in any existing international, national or sub-national legislation, official
+norms or collective agreements, based on an assessment of a wage level needed for a decent standard of
+living;
+ii. if none of the instruments identified in (i) exist, any national or sub-national minimum wage established
+by legislation or collective bargaining; or
+iii. if none of the instruments identified in (i) or (ii) exist, any benchmark that meets the criteria set out by
+the Sustainable Trade Initiative (IDH) (‘Roadmap on Living Wages - A Platform to Secure Living Wages in
+Supply Chains ’), including applicable benchmarks aligned with the Anker methodology, or provided by
+the Wage Indicator Foundation or Fair Wage Network, provided the primacy of collective bargaining for
+the establishment of terms and conditions of employment is ensured.
+AR 74. Directive (EU) 2022/2041 on adequate minimum wages in the European Union references both indicative
+reference values commonly used at international level such as 60 % of the gross median wage and 50 % of the
+gross average wage, and/or indicative reference values used at national level. Data for the indicative values of
+60% of the national median gross wage or 50% of the national average gross wage can be obtained from the
+European Labour Force Survey.
+Disclosure Requirement S1-11 – Social protection
+AR 75. Social protection refers to all the measures that provide access to health care and income support in cases of
+challenging life events such as the loss of a job, being sick and in need of medical care, giving birth and raising a
+child, or retiring and in need of a pension.
+Disclosure Requirement S1-12 – Persons with disabilities
+AR 76. When disclosing the information required in paragraph 77 regarding persons with disabilities, the undertaking
+shall provide any contextual information necessary to understand the data and how the data has been compiled
+(methodology). For example, information about the impact of different legal definitions of persons with
+disabilities in the different countries in which the undertaking has operations.
+Disclosure Requirement S1-13 – Training and Skills Development metrics

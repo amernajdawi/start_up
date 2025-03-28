@@ -1,0 +1,13 @@
+File Name: 2_E1-6_2004-03_G_GHG-Prot_WRI&WBCSD.pdf
+Converted on: 2025-03-28 03:20:43
+Original Size: 3.51 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 47 of 104
+--------------------------------------------------------------------------------
+
+to implement generic qualitychecking measures . These measures apply to all sourcecategories and all levels of inventory preparation . Table 4 provides a sample list of such measures . The fourth step of a quality management system is source category - specific data quality investigations . Theinformation gathered from these investigations can alsobe used for the quantitative and qualitative assessmentof data uncertainty ( see section on uncertainty ) . Addressed below are the types of source - specific qualitymeasures that can be employed for emission factors , activity data , and emission estimates . GUIDANCEManaging Inventory Quality CHAPTER 7 52
+
+--- Page 55 of 116 ---

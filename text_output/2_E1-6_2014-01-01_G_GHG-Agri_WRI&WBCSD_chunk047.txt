@@ -1,0 +1,89 @@
+File Name: 2_E1-6_2014-01-01_G_GHG-Agri_WRI&WBCSD.pdf
+Converted on: 2025-03-28 03:20:54
+Original Size: 1.75 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 47 of 65
+--------------------------------------------------------------------------------
+
+Table 8-2. When CO 2 fluxes can be amortized
+CO 2 flux Time reporting requirement
+ Sequestration in woody biomass
+stocks  
+ Sequestration in organic C stocks
+of mineral soils  Amortize if the time interval of the
+quantification approach exceeds one year
+ Otherwise, report all the estimated
+sequestration in the reporting period
+Emissions from woody biomass
+stocks Biomass combustion emissions should be
+reported in the year of the intervention
+Emissions from dead organic matter
+(DOM) From the decomposition of DOM:
+ Amortize, should capacity and data exist;
+or
+ Report in the year of intervention
+
+From the combustion of DOM:
+ Report in the year of intervention
+Emissions from organic C stocks of
+mineral soils  Amortize if the time interval of the
+quantification approach exceeds one year
+ Otherwise, report all the estimated
+emissions in the year of the intervention
+Emissions from organic soils Do not amortize – report losses as they occur
+Sequestration in organic soils Do not amortize - report sequestration as it
+occurs
+
+--- Page 67 of 103 ---
+
+GHG Protocol Agricultural Guidance
+
+67
+ How should CO 2 fluxes be amortized?  
+ Companies  should amortize fluxes evenly over time 
+When amortization is necessary, companies should use a linear-rate approach, wherein
+the total amount of CO
+2 flux is amortized evenly over multiple inventories. This involves
+dividing the total flux by the number of y ears in the amortization period and then
+reporting the quotient in each year of the amortization period. This approach is recommended because it provides the most cons istent way to distribute impacts for use in
+a GHG inventory.
+
+The length of the amortization period is context specific
+The length of the amortization period may va ry depending on the stock concerned and the
+quantification approach. In general, the am ortization period for a ny one stock should be:
+ The length of the time dependence of the st ock change factor or emission factor;
+or
+ For woody biomass stocks, the length of the nominal harvest/ maturity cycle.
+The second condition assumes that woody vege tation accumulates biomass for a finite
+period until it is removed through harvest or re aches a steady state where there is no net
+accumulation of C in biomass because growth rates have slowed and incremental gains from growth are offset by losses from na tural mortality, pruning or other losses.  
+In the absence of other information, compan ies may assume an amortization period of 20
+years for DOM stocks and the organic C stocks in mineral soils. This 20-year value is the
+default time horizon in national GHG inve ntories submitted to the United Nations
+Framework Convention on Climate Change (UNFCCC)
+11. This value may be too long
+for certain stocks (e.g., soil stock changes in  tropical biomes) and too short for others 
+(soil stock changes in boreal biomes). Companies may alternatively assume more specific
+values used by individual countries  in their national inventories12.  
+
+Companies  should account for historical LUC  
+Companies should account for historical change s in land use that occur within a certain
+‘look back’ period prior to th e base period. This look back  period should be equal in 
+length to the amortization period for the stoc k concerned (e.g., 20 years if the default
+IPCC amortization period for mineral soil or ganic stocks is used). Thus, if LUC
+happened within the 5 years pr eceding the base period, it is considered best practice to
+reflect it in the inventories for the base pe riod and later re porting periods, as needed.
+Equivalently, if the sh ift occurred more than 20 years be fore the base pe riod, it should not
+be reflected in the base period inventory.   As discussed in Chapter 6.2, the acquisition (o r divestment) of busin ess units that own 
+land can trigger base period recalculations. C stocks may be changing on the newly-
+transferred land as a result of land use ch anges introduced by the prior land-owner.
+
+11 2006 IPCC Guidelines for National Greenhouse Gas Inventories , Volume 4.
+12 See http://unfccc.int/national_reports/annex_i_ghg_inventories/items/2715.php .  
+
+--- Page 68 of 103 ---
+
+GHG Protocol Agricultural Guidance

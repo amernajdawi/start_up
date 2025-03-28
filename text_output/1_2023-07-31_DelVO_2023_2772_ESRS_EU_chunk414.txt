@@ -1,0 +1,42 @@
+File Name: 1_2023-07-31_DelVO_2023_2772_ESRS_EU.pdf
+Converted on: 2025-03-28 03:18:14
+Original Size: 5.82 MB
+Chunk Size: 500 tokens with 50 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 414 of 686
+--------------------------------------------------------------------------------
+
+ELI: http://data.europa.eu/eli/reg_del/2023/2772/oj 176/28475. If not all of its employees are covered by social protection in accordance with paragraph 72, the undertaking shall in
+addition disclose the countries where employees do not have social protection with regard to one or more of the
+types of events listed in paragraph 72 and for each of those countries the types of employees who do not have social
+protection with regard to each applicable major life event.
+76. The undertaking may also disclose the information specified in this disclosure requirement with regard to non-
+employees in its workforce.
+Disclosure Requirement S1-12– Persons with disabilities
+77. The undertaking shall disclose the percentage of its own employees with disabilities.
+78. The objective of this Disclosure Requirement is to enable an understanding of the extent to which persons with
+disabilities are included among the undertaking’s employees.
+79. The undertaking shall disclose the percentage of persons with disabilities amongst its employees subject to legal
+restrictions on the collection of data.
+80. The undertaking may disclose the percentage of employees with disabilities with a breakdown by gender.
+Disclosure Requirement S1-13 – Training and skills development metrics
+81. The undertaking shall disclose the extent to which training and skills development is provided to its
+employees.
+82. The objective of this Disclosure Requirement is to enable an understanding of the training and skills development
+-related activities that have been offered to employees, within the context of continuous professional growth, to
+upgrade employees’ skills and facilitate continued employability.
+83. The disclosure required by paragraph 81 shall include:
+(a) the percentage of employees that participated in regular performance and career development reviews; such
+information shall be broken down by gender;
+(b) the average number of training hours per employee and by gender.
+84. The undertaking may disclose breakdowns by employee category for the percentage of employees that participated in
+regular performance and career development and for the average number of training hours per employee.
+85. The undertaking may also disclose the information specified in this disclosure requirement with regard to non-
+employees in its workforce.
+Disclosure Requirement S1-14 – Health and safety metrics
+86. The undertaking shall disclose information on the extent to which its own workforce is covered by its
+health and safety management system and the number of incidents associated with work-related injuries, ill
+health and fatalities of its own workforce. In addition, it shall disclose the number of fatalities as a result of
+work-related injuries and work-related ill health of other workers working on the undertaking’s sites.

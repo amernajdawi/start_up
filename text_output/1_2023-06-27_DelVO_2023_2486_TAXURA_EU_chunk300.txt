@@ -1,0 +1,37 @@
+File Name: 1_2023-06-27_DelVO_2023_2486_TAXURA_EU.pdf
+Converted on: 2025-03-28 03:18:09
+Original Size: 8.44 MB
+Chunk Size: 500 tokens with 50 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 300 of 380
+--------------------------------------------------------------------------------
+
+ELI: http://data.europa.eu/eli/reg_del/2023/2486/oj 110/164(a) national regulatory standards;
+(b) where these standards are not available, an internal site-specific risk-assessment taking into account the characteristic
+and the extent of the impacted area (land, water body or other), the type, properties (persistence, mobility and toxicity)
+and concentration of the substances, preparations, organisms or micro-organisms, possible migration pathways and
+the probability of dispersion (70).
+3.The remediation activity is conducted in line with best industry practice and includes all of the following elements:
+(a) the original operational activity or defective plant and ancillary equipment that led to the contamination has been stopped or addressed so as not to be a potential source of further contamination before any assessment or remediation
+activity is undertaken (except long-range transboundary air pollution or other unidentifiable diffuse sources);
+(b) preparatory investigations including site-specific surveys and physical, chemical or microbiological data collection are
+carried out in line with best industry practice and best available techniques to establish the following elements used to
+define the environmental targets for the remediation and evaluate the remedial options:
+(i) the location, characteristics and extent of the contaminated site;
+(ii) the underlying geological and hydrological conditions;
+(iii) the likely quantity, composition and sources of contamination;
+(iv) soil and water pollution originating from it as well as the risks to human health and the environment.
+(c) the remedial options are analysed in line with Annex II to Directive 2004/35/CE (
+71)and the most suitable remedial
+measures are defined in a dedicated remediation plan, including monitoring requirements and plan;
+(d) any hazardous or non-hazardous waste or contaminated soils extracted or otherwise produced by the remediation
+activity is subject to appropriate collection, transport, treatment, recovery or disposal by an authorised operator, in
+accordance with legal requirements and care is taken to prevent any mixing of excavated contaminated soils and non-
+contaminated soils;
+(e) remediation methods do not include reducing pollutant concentrations through dilution or watering down, unless a
+full justification, for reason other than cost considerations, is provided in the remediation plan;
+(f) control, monitoring or maintenance activities are carried out in the after-care phase of at least 10 years, unless a
+different duration sufficient to guarantee long-term risk control is defined in the national law or in the remediation
+and monitoring plan (see point 4).

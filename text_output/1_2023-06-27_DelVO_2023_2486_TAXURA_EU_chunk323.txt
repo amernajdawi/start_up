@@ -1,0 +1,45 @@
+File Name: 1_2023-06-27_DelVO_2023_2486_TAXURA_EU.pdf
+Converted on: 2025-03-28 03:18:09
+Original Size: 8.44 MB
+Chunk Size: 500 tokens with 50 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 323 of 380
+--------------------------------------------------------------------------------
+
+ELI: http://data.europa.eu/eli/reg_del/2023/2486/oj 120/164Well documented and verifiable measures are taken to avoid the use of active ingredients
+that are listed in Annex I, Part A, of Regulation (EU) 2019/1021 (14), the Rotterdam
+Convention on the prior informed consent procedure for certain hazardous chemicals
+and pesticides in international trade, the Minamata Convention on Mercury, the
+Montreal Protocol on Substances that Deplete the Ozone Layer, and of active
+ingredients that are listed as classification Ia (‘extremely hazardous’) or Ib (‘highly
+hazardous’) in the WHO recommended Classification of Pesticides by Hazard (15).
+Pollution of water and soil is prevented and cleaning up measures are undertaken when
+pollution occurs.
+The activity complies with the relevant national law on active ingredients.
+2. Accommodation activities
+2.1. Hotels, holiday, camping grounds and similar accommodation
+Description of the activity
+The provision of short-term tourism (16)accommodation with or without associated services, including cleaning, food and
+beverage services, parking, laundry services, swimming pools and exercise rooms, recreational facilities as well as
+conference and convention facilities.
+This includes accommodation provided by:
+(a) hotels and motels of all kinds;
+(b) holiday homes;
+(c) visitor flats, bungalows, cottages and cabins;
+(d) youth hostels and mountain refuges;
+(e) campgrounds and trailer parks;
+(f) space and facilities for recreational vehicles;
+(g) recreational camps and fishing and hunting camps;
+(h) protective shelters or plain bivouac facilities for placing tents or sleeping bags.
+This category does not include:
+(a) provision of homes and furnished or unfurnished flats or apartments for more permanent use, typically on a monthly
+or annual basis;
+(b) cruise ships.
+Conservation or restoration offsets of impacts defined at the stage of formal authorisation of the tourism activity are not
+considered as a contribution to conservation or restoration measures.
+(14)Which implements in the Union the Stockholm Convention on persistent organic pollutants (OJ L 209, 31.7.2006, p. 3).
+(15)The WHO Recommended Classification of Pesticides by Hazard (version 2019) (version of 27.6.2023: https://apps.who.int/iris/
+bitstream/handle/10665/332193/9789240005662-eng.pdf?ua=1).
+(16)‘Tourism’ means the activity of visitors taking a trip to a main destination outside their usual environment, for less than a year, for any

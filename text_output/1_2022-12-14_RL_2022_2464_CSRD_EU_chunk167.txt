@@ -1,0 +1,23 @@
+File Name: 1_2022-12-14_RL_2022_2464_CSRD_EU.pdf
+Converted on: 2025-03-28 03:18:06
+Original Size: 1.12 MB
+Chunk Size: 500 tokens with 50 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 167 of 204
+--------------------------------------------------------------------------------
+
+(d) the followi ng paragraph is inser ted:
+‘5a. A statutor y auditor or an audit firm shall create an assurance file for each assurance engag ement
+concer ning sustainability repor ting.
+The statut ory auditor or the audit firm shall document at least the data recorded pursuant to Article 22b as
+regards the assurance of sustainability repor ting.
+The statutor y auditor or the audit firm shall retain any other data and documents that are of importance in
+suppor t of the assurance repor t on sustainability repor ting referred to in Article 28a and for monitori ng
+compliance with this Directive and other applicable legal requirements as regards the assurance of sustainability
+repor ting.
+The assurance file shall be closed no later than 60 days after the date of signature of the assurance repor t on
+sustainability repor ting refer red to in Article 28a.
+Where the same statut ory auditor carries out the statut ory audit of annual financial statements and the assurance
+of sustainability repor ting, the assurance file may be included in the audit file.’;EN Offi cial Jour nal of the European Union 16.12.2022 L 322/67

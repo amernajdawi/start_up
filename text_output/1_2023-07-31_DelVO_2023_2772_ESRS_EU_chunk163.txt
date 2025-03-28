@@ -1,0 +1,53 @@
+File Name: 1_2023-07-31_DelVO_2023_2772_ESRS_EU.pdf
+Converted on: 2025-03-28 03:20:41
+Original Size: 5.82 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 163 of 284
+--------------------------------------------------------------------------------
+
+ELI: http://data.europa.eu/eli/reg_del/2023/2772/oj 167/2847. The objective of the Standard is also to enable users to understand the extent to which the undertaking aligns or
+complies with international and European human rights instruments and conventions, including the International
+Bill of Human Rights, the UN Guiding Principles on Business and Human Rights and the OECD Guidelines for
+Multinational Enterprises, the International Labour Organization’s Declaration on Fundamental Principles and
+Rights at Work and ILO fundamental conventions, the UN Convention on Persons with Disabilities, the European
+Convention of Human Rights, the revised European Social Charter, the Charter of Fundamental Rights of the
+European Union, the EU policy priorities as set out by the European Pillar of Social Rights, and Union legislation,
+including the EU labour law acquis.
+Interaction with other ESRS
+8. This Standard shall be read in conjunction with ESRS 1 General principles and ESRS 2 General requirements.
+9. This Standard shall be read in conjunction with ESRS S2 Workers in the value chain, ESRS S3 Affected communities and
+ESRS S4 Consumers and end-users.
+10. The reporting under this Standard shall be consistent, coherent and where relevant clearly linked with reporting on
+the undertaking’s own workforce under ESRS S2, in order to ensure effective reporting.
+Disclosure requirements
+ESRS 2 General disclosures
+11. The requirements of this section should be read in conjunction with the disclosures required by ESRS 2 on Strategy
+(SBM). The resulting disclosures shall be presented alongside the disclosures required by ESRS 2, except for ESRS 2
+SBM-3, for which the undertaking has an option to present the disclosures alongside the topical disclosure.
+Strategy
+Disclosure Requirement related to ESRS 2 SBM-2 – Interests and views of stakeholders
+12. When responding to ESRS 2 SBM-2, the undertaking shall disclose how the interests, views, and rights of people in its
+own workforce, including respect for their human rights, inform its strategy and business model. The undertaking’s
+own workforce is a key group of affected stakeholders.
+Disclosure Requirement related to ESRS 2 SBM-3 – Material impacts, risks and opportunities and their
+interaction with strategy and business model
+13. When responding to ESRS 2 SBM-3 paragraph 48, the undertaking shall disclose:
+(a) whether and how actual and potential impacts on its own workforce as identified in ESRS 2 IRO-1 Description of
+the processes to identify and assess material impacts, risks and opportunities: (i) originate from or are connected to the
+undertaking’s strategy and business models, and (ii) inform and contribute to adapting the undertaking’s
+strategy and business model; and
+(b) the relationship between its material risks and opportunities arising from impacts and dependencies on own
+workforce and its strategy and business model.
+14. When fulfilling the requirements of paragraph 48, the undertaking shall disclose whether all people in its own
+workforce who could be materially impacted by the undertaking are included in the scope of its disclosure under
+ESRS 2. These material impacts shall include impacts that are connected with the undertaking’s own operations and
+its value chain, including through its products or services, as well as through its business relationships. In addition,
+the undertaking shall provide the following information:
+(a) a brief description of the types of employees and non-employees in its own workforce subject to material impacts
+by its operations, and specify whether they are employees , self- employed people, or people provided by third
+party undertakings primarily engaged in employment activities;OJ L, 22.12.2023 EN  
+
+--- Page 168 of 284 ---

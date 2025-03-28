@@ -1,0 +1,95 @@
+File Name: 2_E1-6_2011-09-01_G_GHG-PLC_WRI&WBCSD.pdf
+Converted on: 2025-03-28 03:20:53
+Original Size: 3.27 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 55 of 116
+--------------------------------------------------------------------------------
+
+[69]
+CHAPTER 09 Allocation
+guidanceelectricity). In this example, system expansion would not
+be appropriate if it was not known that the black liquor
+created excess power or if a marginal emission factor was
+used as data for the electricity substitution.
+9.3.3 Performing allocation
+Physical allocation
+When performing physical allocation, the factor chosen
+should most accurately reflect the underlying physical
+relationship between the studied product, co-product,
+and process emissions and removals. For example, if the
+mass of the process outputs determine the amount of
+emissions and removals, choosing an energy content
+factor would not provide the most accurate allocation.
+Examples of physical allocation factors include:
+•Mass of co-product outputs
+•Volume of cargo transported
+•Energy content of heat and electricity co-products
+•Number of units produced
+•Protein content of food co-products
+•Chemical compositionEconomic allocation
+Economic allocation is the division of emissions from a
+common process to the studied product and co-product(s)
+according to the economic values of the products when
+leaving the multi-output process.
+When selecting an economic allocation factor,
+companies should use the price of the co-product(s)
+directly after it leaves the common process (i.e., its value
+prior to any further processing). When this direct price
+is not available or cannot be evaluated, market prices or
+prices at a later point of the life cycle may be used, but
+downstream costs should be subtracted to the fullest
+extent possible. The market price is the value of the
+product in a commercial market.
+Other relationships
+The “other relationships” allocation method uses
+established sector, company, academic, or other sources
+of conventions and norms for allocating emissions when
+neither physical nor economic allocation is applicable.
+When no established conventions are available and
+the other allocation methods are not applicable to the
+common process, a company may make assumptions
+GNP Company, a U.S. poultry producer, conducted a product
+inventory on their Just BARE® Boneless and Skinless
+Chicken Breasts. Just BARE® products come from birds that
+receive no antibiotics and are fed special vegetarian feed
+formulations. The product package contains 2 to  
+3 individual chicken breasts packaged for retail purchase.
+Each package is traceable to the specific farm on which
+the chicken was raised and the product is shipped to
+retail locations in the
+continental United States.
+The energy and material
+inputs for Just BARE®
+as well as other branded
+products are available on
+a facility-wide basis. GNP
+Company identified mass
+and economic allocation as two potential allocation methods. The chicken breasts
+represent 16 percent of the chicken’s total mass and
+about 35 percent of the revenue.  While a range of 
+products come from the whole chicken, the majority of
+consumer demand is for the boneless, skinless breasts.
+Other fresh chicken co-products such as tenders, thighs,
+and drumsticks would not be produced without also
+producing the chicken breasts. Additionally, about half of
+the weight of the chicken consists of inedible parts that
+have a low selling price and are not sold in retail stores.
+Therefore, GNP Company identified economic allocation
+as the most appropriate method.
+Using economic allocation, 35 percent of the facility’s
+energy and material activity data were allocated to the
+boneless, skinless breasts. Net selling price data by meat
+cut were averaged over a one-year period to determine
+the economic allocation factor.GNP Company, makers of Just BARE Chicken
+Net selling price
+data by meat cut
+were averaged over
+a one-year period
+to determine  
+the economic
+allocation factor.
+
+--- Page 72 of 148 ---

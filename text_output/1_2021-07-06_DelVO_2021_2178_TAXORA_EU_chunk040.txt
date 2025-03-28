@@ -1,0 +1,51 @@
+File Name: 1_2021-07-06_DelVO_2021_2178_TAXORA_EU.pdf
+Converted on: 2025-03-28 03:20:32
+Original Size: 10.30 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 40 of 47
+--------------------------------------------------------------------------------
+
+ANNEX VII
+KPIs OF INVESTMENT FIRMS
+Content of KPIs to be disclosed by investment firms
+1. Scope of KPIs
+Disclosure of KPIs and the methodology shall cover and be designed separately for all of the following services listed in
+Annex I, Section A, to Directive 2014/65/EU:
+(a) investment firms’ dealing on own account activities, regardless of whether investment firms are principal traders or
+dealing on behalf of their clients in accordance with Section A, point (3), of Annex I to Directive 2014/65/EU);
+(b) investment firms’ investment services and activities other than dealing on own account in accordance with Section A of
+Annex I to Directive 2014/65/EU, with the exception of point (3) of that Section.
+Ancillary services listed in Section B of Annex I to Directive 2014/65/EU shall be excluded from the scope of the disclosures.
+The investment services and activities that shall be covered in the disclosure requirements under Article 8 of Regulation
+(EU) 2020/852 and this Regulation shall include the following:
+(a) reception and transmission of orders in relation to one or more financial instruments;
+(b) execution of orders on behalf of clients;
+(c) dealing on own account;
+(d) portfolio management;
+(e) investment advice;
+(f) underwriting of financial instruments and/or placing of financial instruments on a firm commitment basis;
+(g) placing of financial instruments without a firm commitment basis;
+(h) operation of an MTF;
+(i) operation of an OTF.
+2. Investment firms dealing on own account
+Investment firms dealing on their own account shall disclose the following KPIs:
+2.1. KPIs related to their assets as:
+— proportion of assets associated with Taxonomy-eligible economic activities within total assets;
+— proportion of assets associated with Taxonomy-aligned economic activities within assets associated with Taxonomy-
+eligible economic activities, and
+— proportion of assets associated with Taxonomy-aligned economic activities within total assets (GAR).For the calculation of KPIs, the following shall be considered:
+2.2. Investee undertakings considered
+Investee undertakings considered shall include non-financial undertakings, non-financial undertakings not subject to
+Article 19a and 29a of Directive 2014/95/EU, financial undertakings and financial undertakings not subject to
+Articles 19a and 29a Directive 2014/95/EU.
+For investee companies that are subject to Article 19a and 29a of Directive 2014/95/EU, investment firms shall use the KPIs
+that investee companies shall disclose under this Regulation. For investee companies that are not subject to Directive
+2014/95/EU, Article 8(3) of this Regulation shall apply.
+2.3. Investment instruments considered – assets
+For investment instruments, the calculation of KPIs shall cover debt securities, equity instruments, cash equivalents towards
+investee companies and all other assets.EN Official Journal of the European Union L 443/54 10.12.2021  
+
+--- Page 47 of 59 ---

@@ -1,0 +1,37 @@
+File Name: 1_2023-06-27_DelVO_2023_2486_TAXURA_EU.pdf
+Converted on: 2025-03-28 03:20:36
+Original Size: 8.44 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 60 of 199
+--------------------------------------------------------------------------------
+
+ELI: http://data.europa.eu/eli/reg_del/2023/2486/oj 41/1642. For facilities for harvesting rain and storm water, the activity complies with the following criteria:
+(a) the resource (rain or storm water) is segregated at source and does not include waste water;
+(b) the water is suitable for use after proper treatment depending on the level of contamination and subsequent use;
+(c) the facility is included in an instrument of urban planning or permitting, such as Master Plan or municipal planning.
+3. For facilities for collection and treatment of grey waters, the activity complies with the following criteria:
+(a) the resource (grey water) is segregated at source;
+(b) the water is suitable for reuse after proper treatment depending on the level of contamination and subsequent reuse;
+(c) the performance is attested by a building certification or is available in the technical design documents.
+Do no significant harm (‘DNSH’)
+(1) Climate change mitigation For the production of reclaimed water, an assessment of the direct GHG emissions from
+the reuse treatment, has been performed (44). The results are disclosed to investors and
+clients on demand.
+(2) Climate change adaptation The activity complies with the criteria set out in Appendix A to this Annex.
+(3) Sustainable use and protec ­
+tion of water and marine resourcesThe activity complies with the criteria set out in Appendix B to this Annex.
+(5) Pollution prevention and
+controlFor the uses prescribed in the EU Regulation (EU) 2020/741, the activity complies with that Regulation or with applicable national legislation where it is stricter. Aquifer
+recharge and infiltration of surface runoff waters comply with the Directive
+2006/118/EC or with applicable national legislation where it is stricter.
+(6)
+Protection and restoration of biodiversity and ecosys
+­
+temsThe activity complies with the criteria set out in Appendix D to this Annex.
+(44)For example, following IPCC guidelines for national GHG inventories for waste water treatment (version of 27.6.2023: https://www.
+ipccnggip.iges.or.jp/public/2019rf/pdf/5_Volume5/19R_V5_6_Ch06_Wastewater.pdf).OJ L, 21.11.2023 EN  
+
+--- Page 42 of 164 ---

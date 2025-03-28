@@ -1,0 +1,88 @@
+File Name: 2_E1-6_2011-09-01_G_GHG-PLC_WRI&WBCSD.pdf
+Converted on: 2025-03-28 03:20:53
+Original Size: 3.27 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 53 of 116
+--------------------------------------------------------------------------------
+
+[67]
+CHAPTER 09 Allocation
+guidancereporting company should know the exact use of the co-
+product and collect quality supplier-specific and/or average
+emission factor data to perform system expansion.
+When disclosing and justifying which allocation methods
+were used, companies that use system expansion should
+explain how the selected substitute (and its associated
+emissions) a reasonable replacement for the co-product.
+Companies that are unsure whether system expansion
+is appropriate for their situation should explore other
+methods for avoiding or performing allocation.
+EXAMPLE
+One situation where system expansion may be particularly
+useful is in allocating incineration emissions between multiple inputs (including the studied product) and an
+energy co-product. For example, at a pulp mill, wood is
+converted into pulp and black liquor. Black liquor can be
+combusted for internal power generation and/or sold as
+excess power to the grid. To account for the electricity co-
+product from black liquor, system expansion should be used
+to identify the emissions associated with the electricity
+generated using the black liquor (based on average grid
+values at the mill location). Therefore, if the mill created
+1000 kg of GHG emissions and 5 MW of electricity, and  
+the grid data shows that 5 MW of average electricity on  
+the grid is equivalent to 50 kg of GHG emissions, then the
+mill emissions allocated to the pulp product would be  
+950 kg (i.e., 1000 kg from the mill - 50 kg from the created
+Levi Strauss & Co. (LS&Co.) used process subdivision
+and physical allocation methods for different allocation
+challenges within the life cycle of a pair of Levi’s® Jeans.
+Production
+LS&Co. collected primary data directly from the two
+suppliers of the studied product, a Levi’s® Jean. The
+two suppliers were a fabric mill that creates the denim
+fabric from cotton fiber and a garment manufacturer
+responsible for cutting, sewing, and finishing the denim
+fabric into the final jeans.
+Physical allocation
+For the fabric mill, LS&Co. allocated the GHG emissions
+from fabric production using a mass allocation factor
+because mass is one of the main determinants of material
+and energy inputs during the milling process. The fabric
+mill provided aggregated data on material use, energy
+use, production outputs, and waste streams for their full
+production over the year. The fabric mill only produces
+denim fabric, so LS&Co. was able to estimate emissions
+per product by dividing the total facility emissions by
+the facility output. Emissions per product were then
+applied to the total LS&Co. fabric order from the mill to
+determine the total emissions attributable to LS&Co. Process subdivision
+For the garment manufacturer, LS&Co. created a process
+model to estimate the studied product’s emissions. Each
+step in the garment manufacturing process was modeled
+according to the capital equipment used for that step.
+For example, sewing of the back pocket was modeled by
+the amount of machine minutes it takes to fully complete
+that assembly step.
+Distribution-physical allocation
+After production, the jeans are sent to a distribution
+center that packages and ships various products. LS&Co.
+allocated emissions from the energy and material used
+by the total number of products shipped during a year.
+This method assumes that all units shipped result in the
+same emissions, which LS&Co. considers to be reasonable
+since all products go through the same processes at the
+distribution center.
+Retail- physical allocation
+Each retail store sells a variety of products, which
+requires allocating total store emissions to each product
+type. LS&Co. allocated emissions according to the retail
+floor space occupied by each product compared to the
+entire store. They did this by determining the average
+floor space and emissions of a retail store along with the
+floor area (physical space) occupied by each product to
+estimate retail emissions per individual unit. Levi Strauss & Company
+
+--- Page 70 of 148 ---

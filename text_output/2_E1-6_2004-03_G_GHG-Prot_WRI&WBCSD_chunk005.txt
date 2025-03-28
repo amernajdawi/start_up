@@ -1,0 +1,15 @@
+File Name: 2_E1-6_2004-03_G_GHG-Prot_WRI&WBCSD.pdf
+Converted on: 2025-03-28 03:20:43
+Original Size: 3.51 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 5 of 104
+--------------------------------------------------------------------------------
+
+an annual basis and to participate in theChicago Climate Exchange . 4Trading programs that operate at the level of facilities primarily use theGHG Protocol Initiative calculation tools . - - - Page 8 of 116 - - - STANDARD 6 s with financial accounting and reporting , generally accepted GHG accounting principles are intended to underpin and guide GHG accounting and reporting to ensure that the reported information represents afaithful , true , and fair account of a company ’ s GHG emissions . A1GHG Accounting and Reporting Principles GUIDANCESTANDARD - - - Page 9 of 116 - - -
+
+GHG accounting and reporting shall be based on the following principles: RELEVANCE Ensure the GHG inventory appropriately reflects the GHG emissions of the company and serves the decision-making needs of users – both internal and external to the company. COMPLETENESS Account for and report on all GHG emission sources and activities within the chosen inventory boundary. Disclose and justify any specific exclusions. CONSISTENCY Use consistent methodologies to allow for meaningful comparisons of emissions over time.Transparently document any changes to the data, inventory boundary, methods, or any otherrelevant factors in the time series. TRANSPARENCY Address all relevant issues in a factual and coherent manner, based on a clear audit trail.Disclose any relevant assumptions and make appropriate references to the accounting andcalculation methodologies and data sources used. ACCURACY Ensure that the quantification of GHG emissions is systematically neither over nor underactual emissions, as far as can be judged, and that uncertainties are reduced as far as practicable. Achieve sufficient accuracy to enable users to make decisions with reasonableassurance as to the integrity of the reported information.CHAPTER 1: GHG Accounting and Reporting Principles 7STANDARDGHG accounting and reporting practices are evolving and are new to manybusinesses; however, the principles listed below are derived in part fromgenerally accepted financial accounting and reporting principles. They alsoreflect the outcome of a collaborative process involving stakeholders from a wide range of technical, environmental, and accounting disciplines.
+
+--- Page 10 of 116 ---

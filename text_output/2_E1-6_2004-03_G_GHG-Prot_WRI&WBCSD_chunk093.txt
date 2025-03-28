@@ -1,0 +1,48 @@
+File Name: 2_E1-6_2004-03_G_GHG-Prot_WRI&WBCSD.pdf
+Converted on: 2025-03-28 03:20:43
+Original Size: 3.51 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 93 of 104
+--------------------------------------------------------------------------------
+
+Glossary
+100Leakage (Secondary effect) Leakage occurs when a project changes the availability or quantity of a product or service that results
+in changes in GHG emissions elsewhere. (Chapter 8)
+Life Cycle Analysis Assessment of the sum of a product’s effects (e.g. GHG emissions) at each step in its life cycle,
+including resource extraction, production, use and waste disposal. (Chapter 4)
+Material discrepancy An error (for example from an oversight, omission, or miscalculation) that results in the reported
+quantity being significantly different to the true value to an extent that will influence performance ordecisions. Also known as material misstatement.(Chapter 10)
+Materiality threshold A concept employed in the process of verification. It is often used to determine whether an error or
+omission is a material discrepancy or not. It should not be viewed as a de minimus for defining acomplete inventory. (Chapter 10)
+Mobile combustion Burning of fuels by transportation devices such as cars, trucks, trains, airplanes, ships etc. (Chapter 6)
+Model uncertainty GHG quantification uncertainty associated with mathematical equations used to characterize the
+relationship between various parameters and emission processes. (Chapter 7)
+Non-Annex 1 countries Countries that have ratified or acceded to the UNFCC but are not listed under Annex 1 and are there-
+fore not under any emission reduction obligation (see also Annex 1 countries).
+Operation A generic term used to denote any kind of business, irrespective of its organizational, governance, or
+legal structures. An operation can be a facility, subsidiary, affiliated company or other form of jointventure. (Chapter 3, 4)
+Operating lease A lease which does not transfer the risks and rewards of ownership to the lessee and is not recorded
+as an asset in the balance sheet of the lessee. Leases other than Operating leases areCapital/Financial/Finance leases. Consult an accountant for further detail as definitions of leasetypes differ between various accepted financial standards. (Chapter 4)
+Operational boundaries The boundaries that determine the direct and indirect emissions associated with operations owned or
+controlled by the reporting company. This assessment allows a company to establish which operationsand sources cause direct and indirect emissions, and to decide which indirect emissions to includethat are a consequence of its operations. (Chapter 4)
+Organic growth/decline Increases or decreases in GHG emissions as a result of changes in production output, product mix,
+plant closures and the opening of new plants. (Chapter 5)
+Organizational boundaries The boundaries that determine the operations owned or controlled by the reporting company,
+depending on the consolidation approach taken (equity or control approach). (Chapter 3)
+Outsourcing The contracting out of activities to other businesses. (Chapter 3, 4, 5)
+Parameter uncertainty GHG quantification uncertainty associated with quantifying the parameters used as inputs to estima-
+tion models. (Chapter 7)
+Primary effects The specific GHG reducing elements or activities (reducing GHG emissions, carbon storage, or
+enhancing GHG removals) that the project is intended to achieve. (Chapter 8)
+Process emissions Emissions generated from manufacturing processes, such as the CO
+2that is arises from the break-
+down of calcium carbonate (CaCO3) during cement manufacture. (Chapter 4, Appendix D)
+Productivity/efficiency ratios Ratios that express the value or achievement of a business divided by its GHG impact. Increasing effi-
+ciency ratios reflect a positive performance improvement. e.g. resource productivity(sales per tonneGHG). Productivity/efficiency ratios are the inverse of intensity ratios. (Chapter 9)
+Ratio indicator Indicators providing information on relative performance such as intensity ratios or productivity/effi-
+ciency ratios. (Chapter 9)
+
+--- Page 103 of 116 ---

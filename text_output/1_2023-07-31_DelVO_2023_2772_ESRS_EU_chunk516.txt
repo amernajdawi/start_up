@@ -1,0 +1,35 @@
+File Name: 1_2023-07-31_DelVO_2023_2772_ESRS_EU.pdf
+Converted on: 2025-03-28 03:18:14
+Original Size: 5.82 MB
+Chunk Size: 500 tokens with 50 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 516 of 686
+--------------------------------------------------------------------------------
+
+--- Page 216 of 284 ---
+
+ELI: http://data.europa.eu/eli/reg_del/2023/2772/oj 216/284AR 44. When disclosing the resources allocated to the management of material impacts, the undertaking may disclose
+which internal functions are involved in managing the impacts and what types of action they take to address
+negative and advance positive impacts.
+Metrics and targets
+Disclosure Requirement S2-5 – Targets related to managing material negative impacts, advancing positive impacts, and
+managing material risks and opportunities
+AR 45. When disclosing information about targets in accordance with paragraph 39, the undertaking may disclose:
+(a) the intended outcomes to be achieved in the lives of value chain workers, being as specific as possible;
+(b) the stability of the targets over time in terms of definitions and methodologies to enable comparability over
+time;
+(c) the standards or commitments on which the targets are based (for instance codes of conduct, sourcing policies, global frameworks or industry codes).
+AR 46. Targets related to material risks and opportunities may be the same as or distinct from targets related to material
+impacts. For example, a target to reach living wages for supply chain workers could both reduce impacts on those
+workers and reduce associated risks in terms of the quality and reliability of supply.
+AR 47. The undertaking may also distinguish between short-, medium- and long-term targets covering the same policy
+commitment. For example, the undertaking may have a long-term target to achieve an 80% reduction in health and safety incidents affecting the workers of a given supplier by 2030 and a near-term target to reduce their
+overtime hours of delivery drivers by x% while maintaining their income by 2024.
+AR 48. When modifying or replacing a target in the reporting period, the undertaking may explain the change by cross-
+referencing it to significant changes in the business model or to broader changes in the accepted standard or
+legislation from which the target is derived to provide contextual information, as per ESRS 2 BP-2 Disclosures in
+relation to specific circumstances.OJ L, 22.12.2023 EN  
+
+--- Page 217 of 284 ---

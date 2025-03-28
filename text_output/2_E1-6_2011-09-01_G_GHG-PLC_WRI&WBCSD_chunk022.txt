@@ -1,0 +1,90 @@
+File Name: 2_E1-6_2011-09-01_G_GHG-PLC_WRI&WBCSD.pdf
+Converted on: 2025-03-28 03:20:53
+Original Size: 3.27 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 22 of 116
+--------------------------------------------------------------------------------
+
+[30]   Product Life Cycle Accounting and Reporting Standard
+guidanceSelecting the function(s)
+If multiple functions are identified, companies should
+base the functional unit on the function(s) that best
+reflects what the studied product was designed to do.
+For example, paint fulfills the function of providing wall
+color and surface protection. If the goal of the company
+is to design paint with longer-lasting color that doesn’t
+have to be reapplied as frequently, that is the function
+on which the functional unit should be based.  More than 
+one function can be represented in a functional unit if
+applicable to the goal of the company.
+Defining the functional unit and reference flow
+A well-defined functional unit consists of three general
+parameters: the magnitude of the function or service; the
+duration or service life of that function or service; and the
+expected level of quality. Although not all parameters
+may be relevant for all products (or some parameters may
+be mutually exclusive), considering them helps to ensure
+a robust functional unit definition and makes subsequent
+inventory steps easier, such as defining the use profile
+during boundary setting.
+There are two approaches to defining the functional
+unit and reference flow: define the reference flow first
+and then determine the functional unit based on the amount of product; or define the functional unit first
+and then determine the amount of product needed to
+fulfill it. When defining the functional unit first, it is often
+helpful to base the parameters on product rules, sector
+guidance, or industry average use-profiles. On the other
+hand, the reference flow may be defined first to specify
+an amount of product included in the study. This could
+be an individual product, bulk packaging of a product, or
+government- or industry-regulated product specifications
+(e.g., government-recommended serving sizes for food
+products). It is helpful to consider which criterion would
+be most meaningful to the user of the report. For
+example, a functional unit that requires half a product
+may be hard for a consumer to understand.
+To report efficiency improvements of a product over time,
+companies should define the functional unit so that, as
+improvements are made, the reference flow needed to
+fulfill the same functional unit decreases. Consider, for
+example, a laptop computer for which the functional
+unit is average daily use over a 3-year lifetime and the
+reference flow includes two batteries that each have a  
+1.5-year useful life. Extending the battery life will reduce the
+reference flow in subsequent inventories. (See chapter 14  
+for more information on performance tracking over time.)
+Ecolab, the global leader in cleaning, sanitizing, food
+safety, and infection prevention products and services,
+performed a GHG inventory on the life cycle of their
+APEXTM automatic warewashing system. Ecolab selected
+the function as the delivery of clean and sanitized dishes
+through an automatic dish machine, which included
+the necessary individual functions that the APEXTM
+warewashing system provides (APEXTM Power, APEXTM
+Rinse Additive, and APEXTM Presoak). They chose the
+magnitude and duration of the function as its use in
+a typical food service facility for one year and set the
+expected level of quality as “clean and sanitized,”  
+which requires 180 °F water during use.
+Using this information, the functional unit was defined as
+delivering clean and sanitized dishes through an automatic
+dish machine in a typical food service facility for one year. The reference flow was defined as the total pounds of
+product required to fulfill the function, namely:
+•500 racks per day of dishes washed at a typical location
+with 360 operating days per year
+•1800 parts per million (ppm) average detergent
+concentration within the dish machine (steady-state
+assumption)
+•0.15 grams of rinse additive per rack of dishes
+•4000 ppm presoak concentration, dispensed twice per day
+By defining a detailed functional unit – considering all
+functions, quality, magnitude, and duration – Ecolab was
+able to quickly and accurately define their reference flow.
+Additionally, the information collected about the use of
+the product was used during boundary setting (chapter 7)
+to easily define the use profile. Ecolab
+
+--- Page 33 of 148 ---

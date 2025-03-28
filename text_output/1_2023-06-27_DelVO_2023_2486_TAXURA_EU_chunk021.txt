@@ -1,0 +1,28 @@
+File Name: 1_2023-06-27_DelVO_2023_2486_TAXURA_EU.pdf
+Converted on: 2025-03-28 03:20:36
+Original Size: 8.44 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 21 of 199
+--------------------------------------------------------------------------------
+
+4. Information and communication . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .21
+4.1. Provision of IT/OT data-driven solutions for leakage reduction . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .21
+1. Manufacturing
+1.1. Manufacture, installation and associated services for leakage control technologies enabling leakage reduction and prevention in water supply systems
+Description of the activity
+The economic activity manufactures, installs, or provides associated services for leakage control technologies that enable
+leakage reduction and prevention in water supply systems (WSSs).
+The economic activities in this category could be associated with several NACE codes, in particular E36 and F42.99, in
+accordance with the statistical classification of economic activities established by Regulation (EC) No 1893/2006.
+An economic activity in this category is an enabling activity in accordance with Article 12(1), point (e), of Regulation
+(EU) 2020/852 where it complies with the technical screening criteria set out in this Section.
+Technical screening criteria
+Substantial contribution to the sustainable use and protection of water and marine resources
+1.The activity manufactures, installs or provides maintenance, repairs or professional services for leakage control
+technologies in new or existing water supply systems, aimed at controlling the pressure in district metered areas (DMAs) of
+the water supply system to a minimum pressure. The leakage control technologies include in particular pressure control
+valves, pressure transmitters, flow meters and communication devices and special civil works, including manholes to
+maintain the pressure control valves.OJ L, 21.11.2023 EN

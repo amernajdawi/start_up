@@ -1,0 +1,43 @@
+File Name: 2_E1-6_2014-01-01_G_GHG-Agri_WRI&WBCSD.pdf
+Converted on: 2025-03-28 01:56:31
+Original Size: 1.75 MB
+Chunk Size: 400 tokens with 50 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 109 of 150
+--------------------------------------------------------------------------------
+
+and repeated here ) .  Companies should follow a set of additional ‘ best practice ’ recommendations for reporting agricultural GHG fluxes .  Any offset credits or renewable energy that are generated on farmland but sold off - site shall not be reflec ted in inventory totals .
+
+9.1 Required information
+Companies shall publicly report the following information:   
+General information on inventor y boundaries and base periods
+ The approach used to set th e organizational boundaries  
+ An outline of the operational boundaries chos en and, if scope 3 is included, a list
+specifying which types of sc ope 3 activities are covered
+ The reporting period covered
+ Information on the base period, including:  
+o The period chosen as the base period  
+o The rationale for choosing this period
+o The base period recalculation policy  
+o Base period inventory totals by cat egory (see below and Figure 9-1)  
+o Appropriate context for any changes that trigger recalculation of the base period
+inventory  
+ Any specific exclusion of sources and/ or operations from the inventory  
+
+--- Page 71 of 103 ---
+
+GHG Protocol Agricultural Guidance
+
+71
+General GHG flux data
+ Data for all seven GHGs (CO 2, CH 4, N2O, SF 6, PFCs, HFCs and NF 3), disaggregated
+by GHG and reported in units of both metric tonnes and tonnes CO 2-equivalent
+(CO 2e)
+ Total scope 1 and 2 emissions without subtractions for trades in offsets
+ Data disaggregated by scope  
+ A reference or link to the calculation methodologies used  
+
+9.2 Minimum, best practice, rec ommendations for reporting
+agricultural GHG fluxes

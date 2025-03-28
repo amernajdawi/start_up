@@ -1,0 +1,88 @@
+File Name: 2_E1-6_2011-09-01_G_GHG-PLC_WRI&WBCSD.pdf
+Converted on: 2025-03-28 03:20:53
+Original Size: 3.27 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 65 of 116
+--------------------------------------------------------------------------------
+
+[81]
+CHAPTER 10 Assessing Uncertainty
+guidancefactors. Measurement errors, inaccurate approximation,
+and how the data was modeled to fit the conditions of the
+process all influence parameter uncertainty.
+For example, two data points of similar measurement
+precision may result in very different levels of uncertainty
+depending on how the data points represent the process’s
+specific context (i.e., in temporal, technological, and
+geographical representativeness, and completeness terms).EXAMPLE
+An emission factor for the production of the plastic used
+in a toner cartridge is 4.5 kg of CO2 per kg of plastic resin
+produced. The emission factor data might be based on a
+limited sampling of producers of such resin and may source
+from an older timeframe or different geography than that
+in which the resin in question is being produced. Therefore,
+there is parameter uncertainty in the emission factor value
+being used.
+Propagated parameter uncertainty
+Propagation of parameter uncertainty is the combined
+effect of each parameter’s uncertainty on the uncertainty
+of the total computed result. Methods are available
+to propagate parameter uncertainty from single data
+points. Two prominent methods applied to propagation
+of parameter uncertainty include random sampling (such
+as the Monte Carlo method) and analytical formulas (such
+as the Taylor Series expansion method). These methods
+are described in the quantitative uncertainty guidance
+available at ( www.ghgprotocol.org ).
+EXAMPLE
+Company A inventoried their printer cartridge product
+and determined that the total inventory results equaled
+155 kg CO2e per functional unit of printing of 50,000
+pages. The activity data, emission factor data and GWPs
+applied in this calculation each have a level of individual
+parameter uncertainty. Using the Monte Carlo method, the
+propagated parameter uncertainty assessment shows that
+there is a 95 percent confidence that the true value of the
+product inventory is between 140 and 170 kg CO2e. This
+can also be presented as the inventory total is 155 kg CO2e
+(+/-15 kg CO2e)2 per functional unit.
+Scenario uncertainty
+While parameter uncertainty is a measure of how close
+the data used to calculate the inventory results are to
+the true (though unknown) actual data and emissions,
+scenario uncertainty refers to variation in results due to
+methodological choices. The uses of standards reduce
+scenario uncertainty by constraining choices the user may
+make in their methodology. For example, the attributional
+approach and boundary setting requirements standardize
+the inventory approach for all products. However, when
+there are multiple methodological choices available in the The uncertainty of the direct global warming
+potential (GWP) for CO2, CH4, N2O, HFCs, and PFCs
+is estimated to be ± 35 percent for the 90 percent
+confidence interval (5 percent to 95 percent of
+the distribution). This is based on information
+provided in the IPCC’s Fourth Assessment Report,
+and the range given is to reflect the uncertainty
+in converting individual GHG emissions into units
+of CO2e. As identified in the requirements section
+10.2, companies are required to report the source
+of GWP values used. If companies choose to
+quantify inventory uncertainty they may include the
+uncertainty of GWP values in their calculations. Box [10.1]   Uncertainty of global warming  
+potential factorsTable [10.1]  Types of uncertainties and 
+corresponding sources
+Types of uncertainty Sources
+Parameter  uncertainty • Direct emissions data
+• Activity data
+• Emission factor data
+• Global warming  
+potential (GWP)  
+factors
+Scenario uncertainty • Methodological  
+choices
+Model uncertainty • Model limitations
+
+--- Page 84 of 148 ---

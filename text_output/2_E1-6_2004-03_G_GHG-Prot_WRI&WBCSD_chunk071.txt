@@ -1,0 +1,71 @@
+File Name: 2_E1-6_2004-03_G_GHG-Prot_WRI&WBCSD.pdf
+Converted on: 2025-03-28 03:20:43
+Original Size: 3.51 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 71 of 104
+--------------------------------------------------------------------------------
+
+the target may address a specified subset of the sources
+included in the company inventory. The quality of the GHGinventory should be a key factor informing this choice. Thequestions to be addressed in this step include the following:
+
+WHICH GHGS? Targets usually include one or more of
+the six major GHGs covered by the Kyoto Protocol.For companies with significant non-CO
+2GHG sources
+it usually makes sense to include these to increase therange of reduction opportunities. However, practicalmonitoring limitations may apply to smaller sources.
+
+WHICH GEOGRAPHICAL OPERATIONS? Only country
+or regional operations with reliable GHG inventorydata should be included in the target. For companieswith global operations, it makes sense to limit thetarget’s geographical scope until a robust and reli-able inventory has been developed for all operations.Companies that participate in GHG programsinvolving trading
+2will need to decide whether or not
+to include the emissions sources covered in the tradingprogram in their corporate target. If common sourcesare included, i.e., if there is overlap in sources coveredbetween the corporate target and the trading program,companies should consider how they will address any double counting resulting from the trading ofGHG reductions in the trading program (see step 8).
+
+WHICH DIRECT AND INDIRECT EMISSION SOURCES?
+Including indirect GHG emissions in a target will
+facilitate more cost-effective reductions by increasingthe reduction opportunities available. However, indirect emissions are generally harder to measureaccurately and verify than direct emissions althoughsome categories, such as scope 2 emissions frompurchased electricity, may be amenable to accuratemeasurement and verification. Including indirectemissions can raise issues with regard to ownershipand double counting of reductions, as indirect emis-sions are by definition someone else’s direct emissions(see step 8).
+
+SEPARATE TARGETS FOR DIFFERENT TYPES OF BUSINESSES?
+For companies with diverse operations it may make
+more sense to define separate GHG targets fordifferent core businesses, especially when using anintensity target, where the most meaningful businessmetric for defining the target varies across businessunits (e.g., GHGs per tonne of cement produced orbarrel of oil refined).GUIDANCESetting a GHG Target
+CHAPTER 11 78BOX 5. Selected corporate GHG targets
+ABSOLUTE TARGETS
+•ABB Reduce GHGs by 1 percent each year from 1998 through 2005
+•Alcoa Reduce GHGs by 25 percent from 1990 levels by 2010, and
+50 percent from 1990 levels over same period, if inert anode tech-nology succeeds
+•BPHold net GHGs stable at 1990 levels through 2012
+•Dupont Reduce GHGs by 65 percent from 1990 levels by 2010
+•Entergy Stabilize CO
+2from U.S. generating facilities at 2000
+levels through 2005
+•Ford Reduce CO2by 4 percent over 2003-2006 timeframe
+based upon average 1998-2001 baseline as part of ChicagoClimate Exchange
+•Intel Reduce PFCs by 10 percent from 1995 levels by 2010
+•Johnson & Johnson Reduce GHGs by 7 percent from 1990 levels by
+2010, with interim goal of 4 percent below 1990 levels by 2005
+•Polaroid Reduce CO
+2emissions 20 percent below its 1994
+emissions by year-end 2005; 25 percent by 2010
+•Royal Dutch/Shell Manage GHG emissions so that they are still
+5 percent or more below the 1990 baseline by 2010, even whilegrowing the business
+•Transalta Reduce GHGs to 1990 levels by 2000. Achieve zero net
+GHGs from Canadian operations by 2024
+INTENSITY TARGETS
+•Holcim Ltd. Reduce by the year 2010 the Group average specific3
+net CO2emissions by 20 percent from the reference year 1990
+•Kansai Electric Power Company Reduce CO2emissions per kWh
+sold in fiscal 2010 to approx. 0.34 kg-CO2/kWh
+•Miller Brewing Company Reduce GHGs by 18 percent per barrel
+of production from 2001 to 2006
+•National Renewable Energy Laboratory Reduce GHGs by 10
+percent per square foot from 2000 to 2005
+COMBINED ABSOLUTE & INTENSITY TARGETS
+•SC Johnson GHG emissions intensity reduction of 23 percent
+by 2005, which represents an absolute or actual GHG reductionof 8 percent
+•Lafarge Reduce absolute gross CO
+2emissions in Annex I countries
+10 percent below 1990 levels by the year 2010. Reduce worldwideaverage specific net CO
+2emissions 20 percent below 1990 levels
+by the year 20103
+
+--- Page 81 of 116 ---

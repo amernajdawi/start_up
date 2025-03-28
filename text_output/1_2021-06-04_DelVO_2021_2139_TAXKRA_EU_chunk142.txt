@@ -1,0 +1,52 @@
+File Name: 1_2021-06-04_DelVO_2021_2139_TAXKRA_EU.pdf
+Converted on: 2025-03-28 03:20:30
+Original Size: 2.76 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 142 of 447
+--------------------------------------------------------------------------------
+
+(6) Protection and restoration of
+biodiversity and ecosystems  The activity complies with the criteria set out in Appendix D to this 
+Annex.  
+5.10.  Landfill gas capture and utilisation  
+Description of the activity  
+Installation and operation of infrastructure for landfill (  220  ) gas capture and utilisation in permanently closed 
+landfills or landfill cells using new or supplementary dedicated technical facilities and equipment installed
+during or post landfill or landfill cell closure.  
+The economic activities in this category could be associated with NACE code E38.21 in accordance with the
+statistical classification of economic activities established by Regulation (EC) No 1893/2006.  
+Technical screening criteria  
+Substantial contribution to climate change mitigation  
+1. The landfill has not been opened after 8 July 2020.
+2. The landfill or landfill cell where the gas capture system is newly installed, extended, or retrofitted is
+permanently closed and is not taking in further biodegradable waste (  221  ). 
+3. The produced landfill gas is used for the generation of electricity or heat as biogas (  222  ), or upgraded to bio- 
+methane for injection in the natural gas grid, or used as vehicle fuel or as feedstock in chemical industry.
+4. Methane emissions from the landfill and leakages from the landfill gas collection and utilisation facilities are
+subject to control and monitoring procedures set out in Annex III to Council Directive 1999/31/EC (  223  ). 
+Do no significant harm (‘DNSH’)  
+(2) Climate change adaptation  The activity complies with the criteria set out in Appendix A to this 
+Annex.  
+(3) Sustainable use and protection of
+water and marine resources  N/A  
+(4) Transition to a circular economy  N/A  
+(5) Pollution prevention and control  The permanent closure and remediation as well as the after-care of old 
+landfills, where the landfill gas capture system is installed, are carried out
+in accordance with the following rules:
+(a) general requirements set out in Annex I to Directive 1999/31/EC;
+(b) control and monitoring procedures set out in Annex III to that
+Directive.  
+(6) Protection and restoration of
+biodiversity and ecosystems  The activity complies with the criteria set out in Appendix D to this 
+Annex.  
+___________  
+( 220  ) ‘Landfill’ is defined in Article 2, point (g), of Council Directive 1999/31/EC of 26 April 1999 on the landfill of waste (OJ L 182, 
+16.7.1999, p. 1).  
+( 221  ) As set out in Article 5(3) of Directive 1999/31/EC.  
+( 222  ) ‘Biogas’ is defined in Article 2, point 28, of Directive (EU) 2018/2001.  
+( 223  ) Council Directive 1999/31/EC of 26 April 1999 on the landfill of waste (OJ L 182, 16.7.1999, p. 1).EN  9.12.2021 Official Journal of the European Union L 442/99
+
+--- Page 100 of 349 ---

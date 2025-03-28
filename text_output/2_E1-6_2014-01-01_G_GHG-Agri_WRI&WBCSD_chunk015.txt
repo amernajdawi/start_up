@@ -1,0 +1,77 @@
+File Name: 2_E1-6_2014-01-01_G_GHG-Agri_WRI&WBCSD.pdf
+Converted on: 2025-03-28 03:20:54
+Original Size: 1.75 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 15 of 65
+--------------------------------------------------------------------------------
+
+Product GHG inventories and corporate inve ntories (when scope 3 emissions are
+included) are complementary and they togeth er provide a comprehe nsive approach to
+value chain GHG management. For example,  product and corporate inventories are 
+mutually supportive when:  
+ Corporate inventories are used  to identify products that ar e likely to have the most 
+significant GHG footprints based on their us e of highly emitting sources, such as
+specific raw materials (e.g., fertilizers).
+ Product inventories are used to inform GH G reduction strategies that impact both
+product and corporate inventories.  
+ Product inventories are used to extrapol ate to relevant upstream and downstream
+scope 3 emissions in a corporate inventory.
+Companies may wish to complete scope 3 and product GHG invent ories in parallel.
+Alternatively, they may develop scope 1 and 2 inventories to supply information
+requested by a buyer for the purpos e of its scope 3 and product i nventories. In either case,
+companies should be mindful of certain di fferences between this Guidance and the
+Product Standard that can affect the extent  to which both types of inventories are 
+mutually supportive (Table 1-4).  Table 1-4. Differences in methodologies between this Guidance and the Product 
+Standard that affect how useful a corpor ate inventory is for product GHG inventories
+(and vice-versa).
+GHG reporting
+issue Recommendation in the
+Agricultural Guidance Requirement in the Product Standard
+Scope 3 sources Should be reported   Emissions from all relevant upstream and 
+downstream sources shall be reflected in the inventory of a given product (though downstream emissions need not be
+considered in cradle-to-farm gate analyses)
+CO 2 fluxes
+to/from carbon
+stocks  in soils   Should be reported  The following fluxes shall be accounted for: 
+ CO 2 emissions and removals due to C
+stock change occurring as a result of land conversion within or between land use categories (e.g., adoption of no-till practices or land use change)
+ Emissions from the preparation of
+converted land (e.g., biomass burning or
+liming)
+ The CO
+2 fluxes to/from soils that occur
+as a result of subsequent land use (e.g., fertilizer application and harvesting) are optional and may be included, provided CO 2 fluxes
+to/from C stocks in biomass and
+dead organic
+matter  (DOM)   CO
+2 emissions should be
+reported
+ CO 2 removals by woody
+vegetation should be reported
+ CO 2 removals by
+herbaceous vegetation,
+should not be reported  
+
+--- Page 16 of 103 ---
+
+GHG Protocol Agricultural Guidance
+
+16
+GHG reporting
+issue Recommendation in the
+Agricultural Guidance Requirement in the Product Standard
+the fluxes can be estimated reasonably  
+
+ Biogenic CO2 fluxes shall be reported
+separately from non-biogenic fluxes  
+Timeline for amortizing the CO
+2 fluxes from
+changes in carbon
+stocks Varies depending on site-
+specific conditions In the context of land use change: 20 years
+or the length of one harvest, whichever is longer
+
+1.7   How does this guidance rela te to the GHG Project Protocol?

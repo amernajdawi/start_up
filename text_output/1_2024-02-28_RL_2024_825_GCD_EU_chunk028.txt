@@ -1,0 +1,54 @@
+File Name: 1_2024-02-28_RL_2024_825_GCD_EU.pdf
+Converted on: 2025-03-28 03:20:42
+Original Size: 0.61 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 28 of 34
+--------------------------------------------------------------------------------
+
+--- Page 10 of 16 ---
+
+ELI: http://data.europa.eu/eli/dir/2024/825/oj 10/16(41) In accordance with the Joint Political Declaration of 28 Sept ember 2011 of Member State s and the Commission on
+explanato ry documents (16), Member States have under taken to accompan y, in justif ied cases, the notifi cation of
+their transposition measures with one or more documents explaining the relationship between the compo nents of a
+directive and the corresponding parts of national transposition instr uments. With regard to this Directive, the
+legislator considers the transmission of such documents to be justif ied.
+(42) To facilitate the proper application of this Directive, it is impor tant that the Commission keeps the guidance
+documents on Directives 2005/29/EC and 2011/83/EU updat ed to take into account the content of this Directive,
+HAVE ADOPTED THIS DIRECTIVE:
+Article 1
+Amendments to Directiv e 2005/29/EC
+Directive 2005/29/EC is amended as follows :
+(1) in Article 2, the first paragraph is amended as follows:
+(a) the follo wing point is inser ted:
+‘(ca) “goods” means goods as defined in Article 2, point (5), of Directive (EU) 2019/771 of the European
+Parliament and of the Council (*);
+_____________
+(*) Directive (EU) 2019/771 of the European Parliament and of the Council of 20 May 2019 on certain aspects
+concer ning contracts for the sale of goods, amending Regulation (EU) 2017/2394 and Directive 2009/22/EC,
+and repealing Directive 1999/44/EC (OJ L 136, 22.5.2019, p. 28).’;
+(b) the follo wing points are added:
+‘(o) “environmental claim” means any message or representation whic h is not mandatory under Union or national
+law, in any form, including text, pictorial, graphic or symbolic representation, such as labels, brand names,
+compan y names or product names, in the context of a commercial communication, and which states or
+implies that a product, product categor y, brand or trader has a positive or zero imp act on the environment or
+is less damaging to the environment than other products, product catego ries, brands or traders, or has
+impro ved its impact over time;
+(p) “generi c environmental claim” means any environmental claim made in written or oral form, including
+through audiovi sual media, that is not included on a sustainability label and where the specif ication of the
+claim is not provided in clear and prominent term s on the same medium;
+(q) “sustainability label” means any voluntar y trust mark, quality mark or equivalent, either public or private, that
+aims to set apar t and promote a product, a process or a business by reference to its environmental or social
+charact eristics, or both, and excl udes any mandatory label required under Union or national law;
+(r) “cer tification schem e” means a third-par ty verification sche me that certifies that a product, process or business
+complies with certain requirements, that allows for the use of a corresponding sustainability label, and the
+term s of whic h, including its requirements, are publicly available and meet the following criteria:
+(i) the schem e is open under transparent, fair, and non-discr iminato ry term s to all traders willing and able to
+comply with the scheme’s requirements;
+(ii) the scheme’s requirements are developed by the scheme owner in consultation with relevant exper ts and
+stakeholders;
+(16)OJ C 369, 17.12.2011, p. 14.OJ L, 6.3.2024 EN  
+
+--- Page 11 of 16 ---

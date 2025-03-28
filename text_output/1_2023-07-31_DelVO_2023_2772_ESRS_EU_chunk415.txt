@@ -1,0 +1,16 @@
+File Name: 1_2023-07-31_DelVO_2023_2772_ESRS_EU.pdf
+Converted on: 2025-03-28 03:18:14
+Original Size: 5.82 MB
+Chunk Size: 500 tokens with 50 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 415 of 686
+--------------------------------------------------------------------------------
+
+87. The objective of this Disclosure Requirement is to allow an understanding of the coverage, quality and performance
+of the health and safety management system established to prevent work-related injuries.
+88. The disclosure required by paragraph 86 shall include the following information, where applicable broken down
+between employees and non-employees in the undertaking’s own workforce:
+(a) the percentage of people in its own workforce who are covered by the undertaking’s health and safety
+management system based on legal requirements and/or recognised standards or guidelines;OJ L, 22.12.2023 EN

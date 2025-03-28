@@ -1,0 +1,52 @@
+File Name: 1_2022-12-14_RL_2022_2464_CSRD_EU.pdf
+Converted on: 2025-03-28 03:20:33
+Original Size: 1.12 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 44 of 140
+--------------------------------------------------------------------------------
+
+(46) It should be ensured that the information repor ted by under takings in accordance with the sustainability repor ting
+standards meets the needs of users and does not place a dispropor tionat e burden in term s of effort and cost on the
+repor ting under takings and those that are indirectly affected as part of the value chain of those under takings. The
+sustainability repor ting standards should theref ore specify the information that under takings are to disclose on all
+major environmental factors, including their impacts and dependencies on climat e, air, land, water and biodiversity .
+Regulation (EU) 2020/852 provid es a classificat ion of the environmental objectives of the Union.
+For reasons of coherence, it is appropr iate to use a similar classification to identify the environmental factors that
+should be addressed by sustainability repor ting standards. The sustainability repor ting standards should consider
+and specify any geographical or other conte xtual information that under takings should disclose to provi de an
+understanding of their principal impa cts on sustainability matt ers and the principal risks to the under taking arising
+from sustainability matt ers. When specifying the information about environmental factors that under takings are to
+disclose, coherence should be ensured with the definitions laid down in Article 2 of Regulation (EU) 2020/852 and
+the repor ting requirements laid down in Article 8 of that Regulation and in the delegat ed acts adopt ed pursuant to
+that Regulation.
+(47) With regard to climat e-related information, users are interested in knowing about under takings’ physical and
+transition risks, and about their resilience as regards, and plans to adap t to, differ ent climate scenar ios and plans to
+adapt to the Union’s objective of climat e neutrality by 2050. They are also interest ed in the level and scope of GHG
+emissions and removals attributed to the under taking, including the extent to whic h the under taking uses offsets
+and the source of those offsets. Achieving a climat e neutral econom y requires the alignment of GHG accounting
+and offsetting standards. Users need reliable information regar ding offsets that addresses concer ns regarding
+possible double counting and overestimations, given the risks to the achi evement of climate -related targets that
+double counting and overestimations can creat e. Users are also interested to know the efforts made by compan ies to
+effectively reduce absolute GHG emissions as part of their climate mitigation and adaptation strategies, including
+scope 1, scope 2 and, where relevant, scope 3 emissions.
+With regard to scope 3 emissions, a priority for users is to receive information about whic h scope 3 catego ries are
+signif icant in the case of the under taking, and about the emissions in each of those scope 3 catego ries. The
+sustainability repor ting standards should theref ore specify the information under takings should repor t with regar d
+to such matters.
+(48) Achieving a climat e-neutral and circular economy without diffuse pollution requires the full mobilisation of all
+economic sectors. Reducing energy use and increasing energy efficiency is key in this respect, as energy is used
+across supply chains. Energy aspects should theref ore be duly considered in sustainability repor ting standards, in
+particular in relation to envi ronmental matte rs, including climat e-related matt ers.
+(49) Sustainability repor ting standards should specify the information that under takings should disclose on social factors,
+including working conditions, social partner involvement, collective bargaining, equality , non-discr imination,
+diversity and inclusion, and human rights. Such information should cover the impacts of the under taking on
+people, including workers, and on human health. The information that under takings disclose about human rights
+should include information about forced labour and child labour in their value chains where relevant. Sustainability
+repor ting requirements concer ning forced labour should not free public author ities of their responsibility to address,
+through trade policy and diplomatic means, the import of goods produced as a result of human rights abuses,
+including forced labour . Under takings should also be able to repor t on possible risks and trends regarding
+emplo yment and incomes.
+Sustainability repor ting standards that address social factors should specify the information that under takings

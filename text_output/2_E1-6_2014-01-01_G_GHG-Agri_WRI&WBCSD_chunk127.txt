@@ -1,0 +1,33 @@
+File Name: 2_E1-6_2014-01-01_G_GHG-Agri_WRI&WBCSD.pdf
+Converted on: 2025-03-28 01:56:31
+Original Size: 1.75 MB
+Chunk Size: 400 tokens with 50 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 127 of 150
+--------------------------------------------------------------------------------
+
+Introduction
+Shifts in the management of farmland or the conversion of one land-us e category into another
+can change C stocks over long time periods. Chapter 8 describes methodologies for accounting
+for the associated CO 2 fluxes. Depending on how these fluxes have been calculated, they may
+have to be amortized over a defined time period,  with an equal amount of  flux allocated to each 
+year over that period. Consistent with Inte rgovernmental Panel on Climate Change (IPCC)
+methodologies, the length of this period can be assumed to be 20 years, unless more specific
+information is available (see Chapter 8.3).   The amortization approach is illustrated here us ing a common land use pattern in central Brazil - 
+the conversion of native vegetati on (cerrado) into pasture and s ubsequently into an annual crop
+rotation (soybean-corn). Two cases are presented:
+ Case A: All soil stock changes are amortized  before any further changes occur in the 
+ownership or management of stocks  
+ Case B:
+ Case C: Purchase of land undergoing changes in C stocks
+While these cases are hypothetical, they use repres entative data on soil C st ocks that are derived
+from published studies. To facilit ate ease of understanding, only soil C stocks are considered,
+while all fluxes are amortized before any furt her shifts occur in ma nagement practices. The
+management practices and land-use types consid ered, along with the corresponding C stocks, are
+shown in Table II-1.  Table II-1.  Soil C stocks of different manage ment practices and land use types.
+
+--- Page 84 of 103 ---
+
+GHG Protocol Agricultural Guidance

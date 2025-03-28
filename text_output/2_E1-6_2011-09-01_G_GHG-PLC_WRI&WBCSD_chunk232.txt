@@ -1,0 +1,49 @@
+File Name: 2_E1-6_2011-09-01_G_GHG-PLC_WRI&WBCSD.pdf
+Converted on: 2025-03-28 01:56:27
+Original Size: 3.27 MB
+Chunk Size: 400 tokens with 50 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 232 of 270
+--------------------------------------------------------------------------------
+
+[125]
+Appendix	B.	 Land-Use Change Impacts  
+B.2.1			Estimating	significance	  
+for land-use change impacts
+When specific land data are not available, companies may
+also chose to estimate the potential significance of land-
+use impacts on their products to determine if a justifiable
+exclusion is appropriate. For example, a product that uses
+a bio-based polymer as an input could estimate the impact
+of land-use change assuming the worst case scenario (e.g.,
+all comes from land that was converted from natural forest)
+and determine whether this is insignificant, applying the
+same rules as described in chapter 7.  If land-use impacts are 
+deemed significant using this estimation, the company can
+either include the worst case values in the report or go back
+and try to estimate the potential impact using statistical
+data.  If land-use impacts are insignificant, then this should 
+be included as a justifiable exclusion in the inventory report.  
+B.3	 Soil	carbon	
+When land-use change occurs, some of the carbon stock
+change that results is due to changes in the carbon stock of
+the soil. For example, converting natural land to cultivated
+land reduces the amount of carbon the soil can store.  The 
+IPCC factors for calculating carbon stock changes due to
+land-use change include estimates of soil carbon change.
+However, soil carbon loss can continue even after land-use
+change as a result of land-use practices such as harvesting
+and fertilizer application. On the other hand, switching land-
+use practices can improve the carbon stock of soil, resulting
+in CO2 removal.  Companies may include soil carbon change 
+as a result of land-use practices in their inventory results
+if they are able to reasonably estimate the emissions or
+removals.  Companies should report whether the soil carbon 
+change is included in the inventory results.
+Endnotes
+1 The guidance presented here is based on methodologies and
+guidelines given in the 2006 IPCC Guidelines for National GHG
+Inventories, Volume 4: Agriculture, Forestry, and Other Land
+Use.  A company is encouraged to look to the most recent

@@ -1,0 +1,49 @@
+File Name: 1_2023-07-31_DelVO_2023_2772_ESRS_EU.pdf
+Converted on: 2025-03-28 03:20:41
+Original Size: 5.82 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 283 of 284
+--------------------------------------------------------------------------------
+
+ELI: http://data.europa.eu/eli/reg_del/2023/2772/oj 283/284Wastewater Water which is of no further immediate value to the purpose for which it
+was used or in the pursuit of which it was produced because of its quality,
+quantity, or time of occurrence.
+Wastewater from one user can be a potential supply to a user elsewhere.
+Cooling water is not considered to be wastewater .
+Water consumption The amount of water drawn into the boundaries of the undertaking (or
+facility) and not discharged back to the water environment or a third party
+over the course of the reporting period.
+Water discharge The sum of effluents and other water leaving the boundaries of the organisation and released to surface water, groundwater , or third parties
+over the course of the reporting period.
+Water intensity A metric providing the relationship between a volumetric aspect of water
+and a unit of activity (products, sales, etc.) created.
+Water (recycled and reused) Water and wastewater (treated or untreated) that has been used more than
+once before being discharged from the undertaking’s or shared facilities’ boundary, so that water demand is reduced. This may be in the same
+process (recycled) or in a different process within the same facility (own or
+shared with other undertakings) or in another of the undertaking’s facilities
+(reused).
+Water scarcity The volumetric abundance, or lack thereof, of freshwater resources. Scarcity
+is human driven, it is a function of the volume of human water consumption
+relative to the volume of water resources in a given area. As such, an arid region with very little water, but no human water consumption would not
+be considered scarce, but rather arid. Water scarcity is a physical, objective
+reality that can be measured consistently across regions and over time.
+Water scarcity reflects the physical abundance of freshwater rather than
+whether that water is suitable for use. For instance, a region may have abundant water resources (and thus not be considered water scarce) but
+have such severe pollution that those supplies are unfit for human or
+ecological uses.
+Water withdrawal The sum of all water drawn into the boundaries of the undertaking from all
+sources for any use over the course of the reporting period.
+Workers’ representatives Workers' representatives means:i.trade union representatives, namely representatives designated or elected
+by trade unions or by members of such unions in accordance with
+national legislation and practice;
+ii.duly elected representatives, namely representatives who are freely elected by the workers of the organisation, not under the domination
+or control of the employer in accordance with provisions of national
+laws or regulations or of collective agreements and whose functions do
+not include activities which are the exclusive prerogative of trade unions
+in the country concerned and which existence is not used to undermine
+the position of the trade unions concerned or their representatives.OJ L, 22.12.2023 EN  
+
+--- Page 284 of 284 ---

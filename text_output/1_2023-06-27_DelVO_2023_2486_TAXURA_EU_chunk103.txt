@@ -1,0 +1,47 @@
+File Name: 1_2023-06-27_DelVO_2023_2486_TAXURA_EU.pdf
+Converted on: 2025-03-28 03:20:36
+Original Size: 8.44 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 103 of 199
+--------------------------------------------------------------------------------
+
+ELI: http://data.europa.eu/eli/reg_del/2023/2486/oj 73/164(6) Protection and restoration
+of biodiversity and ecosys ­
+temsN/A
+5.2. Sale of spare parts
+Description of the activity
+Sale of spare parts (164).
+The economic activity does not include replacement of consumables, such as printer ink, toner cartridges, lubricants for
+moving parts or batteries and maintenance.
+The economic activity relates to spare parts that are used in products manufactured by economic activities classified under
+the NACE codes C26 Manufacture of computer, electronic and optical products, C27 Manufacture of electrical equipment, C28.22 Manufacture of lifting and handling equipment, C28.23 Manufacture of office machinery and equipment (except
+computers and peripheral equipment), C28.24 Manufacture of power-driven hand tools and C31 Manufacture of furniture.
+The economic activities in this category could be associated with several NACE codes, in particular G46 and G47 in
+accordance with the statistical classification of economic activities established by Regulation (EC) No 1893/2006.
+Technical screening criteria
+Substantial contribution to the transition to a circular economy
+1.The economic activity consists of the sale of spare parts beyond legal obligations.
+2.The economic activity complies with the following criteria:
+(a) each sold spare part is covered by a sales contract where relevant and in accordance with provisions as regards
+conformity of the product, liability of the seller (
+165)(including the option of a shorter liability or limitation period for
+second-hand products), burden of proof, remedies for lack of conformity, the modalities for the exercise of those
+remedies, repair or replacement of the goods, and commercial guarantees;
+(b) each sold spare part for a product replaces, or intends to replace in the future, an existing part in order to restore or
+upgrade the product’s functionality, in particular in case where the existing part is broken.
+3.Where the economic activity involves delivery of packaged products to customers (physical person or legal person)
+including when the activity is operated as an e-commerce (166), the primary and secondary packaging of the product
+complies with one of the following criteria:
+(164)‘Spare part’ means a separate part of a product that can replace a part of a product with the same or similar function. The product
+cannot function as intended without that part of the product. The functionality of a product is restored or is upgraded when the part
+is replaced by a spare part in line with Directive 2011/65/EU. Spare parts may be used parts.
+(165)The conformity of the product and the period of liability of the seller are set in accordance with the relevant provisions of Directive
+(EU) 2019/771.
+(166)‘E-commerce’ can be defined generally as the sale or purchase of goods or services, whether between businesses, households, individuals or private organisations, through electronic transactions conducted via the internet or other computer-mediated (online
+communication) networks, see Eurostat Statistics Explained Glossary, available at: https://ec.europa.eu/eurostat/statistics-explained/
+index.php?title=Category:Glossary .OJ L, 21.11.2023 EN  
+
+--- Page 74 of 164 ---

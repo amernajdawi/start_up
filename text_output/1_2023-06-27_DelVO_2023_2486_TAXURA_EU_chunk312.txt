@@ -1,0 +1,33 @@
+File Name: 1_2023-06-27_DelVO_2023_2486_TAXURA_EU.pdf
+Converted on: 2025-03-28 03:18:09
+Original Size: 8.44 MB
+Chunk Size: 500 tokens with 50 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 312 of 380
+--------------------------------------------------------------------------------
+
+(b) activities of restoration defined as activities actively or passively assisting the recovery (i) of an ecosystem towards or to
+good condition (4); (ii) of a habitat type to the highest level of condition attainable and to its favourable reference area or
+natural extent; (iii) of a habitat of a species (5)to a sufficient quality and quantity; or (iv) of species populations to
+satisfactory levels.
+The economic activity does not include ex situ conservation of components of biological diversity, including in botanical
+gardens, zoos, aquaria or seed banks.
+The economic activities in this category have no dedicated NACE code but are partially covered under NACE code R91.04
+as referred to in the statistical classification of economic activities established by Regulation (EC) No 1893/2006. The
+activities relate to Class 6 of the statistical classification of environmental protection activities (CEPA) established by
+Regulation (EU) No 691/2011 of the European Parliament and of the Council (6).
+(1)‘Habitat’ means a terrestrial or aquatic area distinguished by geographic, abiotic and biotic features, whether entirely natural or semi-
+natural, in accordance with Article 1, point (b) of Directive 92/43/EEC.
+(2)‘Ecosystems’ means a dynamic complex of plant, animal, and microorganism communities and their non-living environment,
+interacting as a functional unit, and includes habitat types, habitats of species and species populations.
+(3)Article 2 ‘Use of Terms’ of the Convention on Biological Diversity (CBD) (version of 27.6.2023: available at https://www.cbd.int/
+convention/articles/?a=cbd-02).
+(4)‘Good condition’ means a state where the key characteristics of an ecosystem, namely its physical, chemical, compositional, structural
+and functional state, and its landscape and seascape characteristics, reflect the high level of ecological integrity, stability and resilience
+necessary to ensure its long-term maintenance, without prejudice to more specific definitions of ‘good condition’ under different legal
+frameworks.
+(5)‘Habitat of a species’ means an environment defined by specific abiotic and biotic factors, in which the species lives at any stage of its
+biological cycle.
+(6)Regulation (EU) No 691/2011 of the European Parliament and of the Council of 6 July 2011 on European environmental economic accounts (OJ L 192, 22.7.2011, p. 1).OJ L, 21.11.2023 EN

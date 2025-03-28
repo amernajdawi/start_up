@@ -1,0 +1,69 @@
+File Name: 2_ESRS2_SBM1_2006-12-20_VO_NACER2_EU.pdf
+Converted on: 2025-03-28 03:20:56
+Original Size: 0.17 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 30 of 45
+--------------------------------------------------------------------------------
+
+n.e.c. : not elsewhere classified * part of
+Division Group ClassISIC
+Rev. 4
+77.2 Renting and leasing of personal and household goods
+77.21 Renting and leasing of recreational and sports goods 7721
+77.22 Renting of video tapes and disks 7722
+77.29 Renting and leasing of other personal and household goods 7729
+77.3 Renting and leasing of other machinery, equipment and tangible goods
+77.31 Renting and leasing of agricultural machinery and equipment 7730*
+77.32 Renting and leasing of construction and civil engineering machinery
+and equipment7730*
+77.33 Renting and leasing of office machinery and equipment (including
+computers)7730*
+77.34 Renting and leasing of water transport equipment 7730*
+77.35 Renting and leasing of air transport equipment 7730*
+77.39 Renting and leasing of other machinery, equipment and tangible goods
+n.e.c.7730*
+77.4 Leasing of intellectual property and similar products, except copy-
+righted works
+77.40 Leasing of intellectual property and similar products, except copy-
+righted works7740
+78 Employment activities
+78.1 Activities of employment placement agencies
+78.10 Activities of employment placement agencies 7810
+78.2 Temporary employment agency activities
+78.20 Temporary employment agency activities 7820
+78.3 Other human resources provision
+78.30 Other human resources provision 7830
+79 Travel agency, tour operator reservation service and related activities
+79.1 Travel agency and tour operator activities
+79.11 Travel agency activities 7911
+79.12 Tour operator activities 7912
+79.9 Other reservation service and related activities
+79.90 Other reservation service and related activities 7990
+80 Security and investigation activities
+80.1 Private security activities
+80.10 Private security activities 8010
+80.2 Security systems service activities
+80.20 Security systems service activities 8020
+80.3 Investigation activities
+80.30 Investigation activities 8030
+81 Services to buildings and landscape activities
+81.1 Combined facilities support activities
+81.10 Combined facilities support activities 8110
+81.2 Cleaning activities
+81.21 General cleaning of buildings 812181.22 Other building and industrial cleaning activities 8129*
+81.29 Other cleaning activities 8129*
+81.3 Landscape service activities
+81.30 Landscape service activities 8130
+82 Office administrative, office support and other business support
+activities
+82.1 Office administrative and support activities
+82.11 Combined office administrative service activities 8211
+82.19 Photocopying, document preparation and other specialised office
+support activities8219
+82.2 Activities of call centres
+82.20 Activities of call centres 8220L 393/24 EN Official Journal of the European Union 30.12.2006
+
+--- Page 25 of 39 ---

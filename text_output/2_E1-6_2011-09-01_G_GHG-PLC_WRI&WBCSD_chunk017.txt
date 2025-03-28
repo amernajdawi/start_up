@@ -1,0 +1,81 @@
+File Name: 2_E1-6_2011-09-01_G_GHG-PLC_WRI&WBCSD.pdf
+Converted on: 2025-03-28 03:20:53
+Original Size: 3.27 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 17 of 116
+--------------------------------------------------------------------------------
+
+[23]
+CHAPTER 05 Fundamentals of Product Life Cycle GHG Accounting
+guidance5.3 Guidance
+5.3.1 Phases and steps of a GHG inventory
+The ISO LCA standards define four phases of a LCA
+study: the goal and scope definition, inventory analysis,
+impact assessment, and interpretation. To report the
+results of an LCA study, ISO also defines critical review
+and reporting as additional steps. Figure 5.1 shows the
+general relationship between the ISO LCA phases of an
+LCA study defined by ISO and the steps to complete a
+GHG inventory in conformance with this standard.
+The life cycle approach is by nature an iterative
+technique, where each phase or step is dependent on
+the results or methodologies used in another (previous
+or subsequent) phase or step. For example, defining
+the unit of analysis (as defined in chapter 6) is a step
+that directly impacts the subsequent steps of boundary
+setting, data collection, and allocation. However, a
+company may find that to avoid allocation (as defined
+in chapter 9) they need to redefine the unit of analysis.  
+Likewise, setting the boundary (chapter 7) is the first step in identifying what data are needed by determining
+attributable processes, but data collection limitations
+(as defined in chapter 8) may result in excluding some
+processes from the inventory results and justifying
+those exclusions in the inventory report. Applying the
+principles of this standard and clearly setting business
+goals will help companies ensure that the decisions taken
+while conducting the inventory and interpreting the final
+results are relevant to  those goals.
+5.3.2 Use of product rules and sector guidance
+As mentioned in chapter 1, product comparisons,
+beyond tracking product performance over time,
+need additional specifications to ensure consistent
+application of this standard for a product or product
+category. These specifications are provided within a
+product rule. A product rule is a document created by
+a group of stakeholders with an interest in a particular
+product or product category and the goal of building
+consensus on the additional specifications needed to
+The life cycle
+approach is by
+nature an iterative
+technique, where
+each phase or
+step is dependent
+on the results or
+methodologies used
+in another (previous
+or subsequent)
+phase or step. Box [5.1] The consequential approachFigure [5.1]   Comparison between the phases of an ISO LCA study and the steps 
+of a Product Standard GHG inventory
+Phases in an  
+ISO LCA studySteps in a product standard  GHG inventory
+goal and scope definitionbusiness goals (chapter 2)
+principles (chapter 4)
+fundamentals of product life cycle accounting (chapter 5)
+defining the scope (chapter 6)
+inventory analysis (LCI)boundary setting (chapter 7)
+data collection and quality assessment (chapter 8)
+allocation (chapter 9)
+impact assessment calculating inventory results (chapter 11)
+interpretationuncertainty (chapter 10)
+performance tracking (chapter 14)
+reporting (chapter 13)
+reporting & critical review
+(when applicable to the
+goal and scope)assurance (chapter 12)
+reporting (chapter 13)
+
+--- Page 26 of 148 ---

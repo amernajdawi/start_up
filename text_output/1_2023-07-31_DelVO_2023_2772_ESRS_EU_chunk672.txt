@@ -1,0 +1,49 @@
+File Name: 1_2023-07-31_DelVO_2023_2772_ESRS_EU.pdf
+Converted on: 2025-03-28 03:18:14
+Original Size: 5.82 MB
+Chunk Size: 500 tokens with 50 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 672 of 686
+--------------------------------------------------------------------------------
+
+ELI: http://data.europa.eu/eli/reg_del/2023/2772/oj 279/284iii. genetically modified organisms as defined in point 2 of Article 2 of
+Directive 2001/18/EC of the European Parliament and of the
+Council (33)on the deliberate release into the environment of
+genetically modified organisms. (34)
+Substances of concern A substance that:
+i. meets the criteria laid down in Article 57 and is identified in accordance
+with Article 59(1) of Regulation (EC) No 1907/2006 of the European
+Parliament and of the Council (35);
+ii. is classified in Part 3 of Annex VI to Regulation (EC) No 1272/2008 of the European Parliament and of the Council (
+36)in one of the following
+hazard classes or hazard categories:— carcinogenicity categories 1 and 2;
+— germ cell mutagenicity categories 1 and 2;
+— reproductive toxicity categories 1 and 2;
+— endocrine disruption for human health;
+— endocrine disruption for the environment;
+— Persistent, Mobile and Toxic or Very Persistent, Very Mobile proper ­
+ties;
+— Persistent, Bioaccumulative and Toxic or Very Persistent, Very Bioac ­
+cumulative properties;
+— respiratory sensitisation category 1;— skin sensitisation category 1;
+— chronic hazard to the aquatic environment categories 1 to 4;
+— hazardous to the ozone layer;
+— specific target organ toxicity, repeated exposure categories 1 and 2;
+— specific target organ toxicity, single exposure categories 1 and 2; or
+iii. negatively affects the re-use and recycling of materials in the product in
+which it is present, as defined in relevant Union product-specific
+ecodesign requirements.
+Substances of Very High Concern
+(SVHCs)Substances that meet the criteria laid down in Article 57 of Regulation (EC)
+No 1907/2006 (REACH) and were identified in accordance with
+Article 59(1) of that Regulation.
+Supplier Entity upstream from the organisation (i.e., in the organisation’s supply
+chain
+), which provides a product or service that is used in the development
+of the organisation’s own products or services. A supplier can have a direct
+business relationship with the organisation (often referred to as a first-tier
+supplier) or an indirect business relationship.
+(33)Directive 2001/18/EC of the European Parliament and of the Council of 12 March 2001 on the deliberate release into the
+environment of genetically modified organisms and repealing Council Directive 90/220/EEC (OJ L 106, 17.4.2001, p. 1).

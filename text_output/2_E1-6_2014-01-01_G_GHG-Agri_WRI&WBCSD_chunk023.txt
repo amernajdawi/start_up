@@ -1,0 +1,77 @@
+File Name: 2_E1-6_2014-01-01_G_GHG-Agri_WRI&WBCSD.pdf
+Converted on: 2025-03-28 03:20:54
+Original Size: 1.75 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 23 of 65
+--------------------------------------------------------------------------------
+
+Rice cultivation
+The anaerobic decomposition of organic mate rial in flooded rice fields produces CH 4,
+which escapes to the atmosphere, mostly by transport through the rice plants. The CH 4
+emissions will depend on the number and duration of crops grown, water regimes before and during the cultivation pe riod, and organic and inorgani c soil amendments. Soil type,
+temperature, and rice cultivar  are also important.   
+Volatization
+Storage /
+treatment  
+unit Soil DIRECT N2O EMISSIONS
+DIRECT N2O EMISSIONSAddition of
+fertilizer / farm
+wastes Addition of
+manure
+Leaching / run‐offVolatization  
+Deposition  Deposition
+
+--- Page 30 of 103 ---
+
+GHG Protocol Agricultural Guidance
+
+30
+
+Soil liming
+Liming is used to reduce soil acidity and im prove plant growth. When added to soils,
+carbonate limes such as limestone (CaCO 3) or dolomite (CaMg(CO 3)2) dissolve and may
+release bicarbonate (HCO 3-), which then forms CO 2 through additional chemical
+reactions. Whether CO 2 is emitted and the amount of emissions depends on soil factors,
+climate regime, and the type of lime applied (i .e., limestone or dolomite, fine or course
+textured). Non-carbonate limes, such as oxide s (e.g., CaO) and hydroxides of lime, do not
+result in CO 2 emissions on farms, but their production causes CO 2 emissions from the
+breakdown of carbonate raw materials.  
+
+Management of carbon pools
+The agricultural sector diffe rs profoundly from industrial s ectors in the importance of C
+pools, which may act either as sources or sinks of CO 2 during agricultu ral land use or
+LUC. These pools are of four main types (Figure 4-4):  
+ Above-ground and below-ground bioma ss (e.g., trees, crops and roots).
+ Dead organic matter (DOM) in or on soils  (i.e., decaying wood and leaf litter). 
+ Soil organic matter. This category includes a ll non-living biomass th at is too fine to
+be recognized as dead organic matter.
+ Harvested products. Generally, this pool is short-lived in the agricultural sector as
+crop products are rapidly c onsumed following harvesting. Harvested wood products
+(HWPs) are a potential exception.
+It is possible to disaggrega te these pools further. For instance, the DOM and biomass
+pools can be subdivided into understory vegeta tion, standing dead tree, down dead tree,
+and litter pools, etc. This level of disaggregation may be  useful depending on data 
+availability and the intended accuracy of the inventory (see Chapter 8).  
+ Carbon stocks  represent the quantity of C stored in pools. It may take C stocks decades to 
+reach equilibrium following a change in farm  management. Ultimately, for agricultural 
+land as a whole to sequester C, the sum of all stock  increases must exceed the sum of all 
+stock  decreases (i.e., the sum of  all C gains through CO
+2 fixation  must exceed the sum of 
+all C losses through CO 2 and  CH 4 emissions and harvested products).   
+Soil carbon pools
+Both organic and inorganic forms of C exist and are found in soils. However, agriculture
+has a larger impact on organic C pools, whic h are found in organic and mineral soils.  
+ Organic C pools in organic soils. Organic so ils (e.g., those in peat and muck) have a
+high percentage of organic matter by ma ss and develop under the poorly drained
+conditions of wetlands when inputs of organic matter exceed losses of C from anaerobic decomposition. The drainage of orga nic soils to prepare land for agriculture
+leads to CO
+2 emissions - emission rates vary by climate, with drainage under warmer
+conditions leading to faster decomposition rates. CO 2 emissions are also influenced
+by drainage depth, limin g, and the fertility and consistenc y of the organic substrate.  
+
+--- Page 31 of 103 ---
+
+GHG Protocol Agricultural Guidance

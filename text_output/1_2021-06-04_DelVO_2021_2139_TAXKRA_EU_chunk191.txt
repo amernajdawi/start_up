@@ -1,0 +1,33 @@
+File Name: 1_2021-06-04_DelVO_2021_2139_TAXKRA_EU.pdf
+Converted on: 2025-03-28 03:20:30
+Original Size: 2.76 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 191 of 447
+--------------------------------------------------------------------------------
+
+Appendix E  
+TECHNICAL SPECIFICATIONS  (  1 ) FOR WATER APPLIANCES  
+1. The flow rate is recorded at the standard reference pressure 3 – 0/+ 0,2 bar or 0,1 – 0/+ 0,02 for products limited
+to low pressure.  
+2. The flow rate at the lower pressure 1,5 – 0/+ 0,2 bar is ≥ 60 % of the maximum available flow rate.  
+3. For mixer showers, the reference temperature is 38 ± 1 °C.  
+4. Where the flow has to be lower than 6 L/min, it complies with the rule set out in point 2.  
+5. For taps the procedure described in clause 10.2.3 of EN 200 is followed, with the following exceptions:  
+(a) for taps that are not limited to low pressure applications only: apply a 3 – 0/+ 0,2 bar pressure to both the
+hot and the cold inlets, alternatively;  
+(b) for taps that are limited to low pressure applications only: apply a 0,4 – 0/+ 0,02 bar pressure to both the hot
+and the cold inlets and fully open the flow control.EN  9.12.2021 Official Journal of the European Union L 442/145  
+( 1 ) Reference to EU standards is available at EU level to assess technical specifications of products: EN 200 on ‘Sanitary tapwar e. Single
+taps and combination taps for water supply systems of type 1 and type 2. General technical specification’; EN 816 ‘Sanitary
+tapware – Automatic shut-off valves PN 10’; EN 817 ‘Mechanical mixing valves (PN 10) – General technical specifications’;
+EN 1111 ‘Sanitary tapware – Thermostatic mixing valves (PN 10) – General technical specification’; EN 1112 on ‘Sanitary
+tapware. Shower outlets for sanitary tapware for water supply systems of type 1 and type 2 – General technical specification’;
+EN 1113 on ‘Sanitary tapware – Shower hoses for sanitary tapware for water supply systems of type 1 and type 2 – General techni cal
+specification’, including a method to test the resistance to flexing of the hose; EN 1287 on ‘Sanitary tapware. Low pressure
+thermostatic mixing valves. General technical specifications’; EN 15091 ‘Sanitary tapware – Electronic opening and closing
+sanitary tapware’.
+
+--- Page 146 of 349 ---

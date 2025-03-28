@@ -1,0 +1,13 @@
+File Name: 1_2021-07-06_DelVO_2021_2178_TAXORA_EU.pdf
+Converted on: 2025-03-28 03:20:32
+Original Size: 10.30 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 16 of 47
+--------------------------------------------------------------------------------
+
+The numerator equals to the part of the operating expenditure included in the denominator that is any of the following:
+(a) related to assets or processes associated with Taxonomy-aligned economic activities, including training and other
+human resources adaptation needs, and direct non-capitalised costs that represent research and development;EN Official Journal of the European Union L 443/18 10.12.2021

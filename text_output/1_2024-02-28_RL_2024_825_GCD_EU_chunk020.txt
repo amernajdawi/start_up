@@ -1,0 +1,48 @@
+File Name: 1_2024-02-28_RL_2024_825_GCD_EU.pdf
+Converted on: 2025-03-28 03:20:42
+Original Size: 0.61 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 20 of 34
+--------------------------------------------------------------------------------
+
+ELI: http://data.europa.eu/eli/dir/2024/825/oj 7/16(23) Another practice associated with early obsolescence whic h should be prohibit ed and added to the list in Annex I to
+Directive 2005/29/EC is inducing the consumer to replace or replenish the consumables of a product earlier than
+would other wise be necessar y for technical reasons. Such practices mislead the consumer into believing that the
+goods will no long er function unless their consumables are replaced, thus leading the consumer to purch ase more
+consumables than necessar y. For exam ple, the practice of urging the consumer , via the settings of the printer , to
+replace the printer ink cartridges before they are actually empty in order to stimulate the purch ase of additional ink
+cartridge s should be prohibited.
+(24) Annex I to Directive 2005/29/EC should also be amended to prohibit the withholding of information from the
+consumer about the impair ment of the functionality of a good when using consumables, spare parts or accessor ies
+that are not provid ed by the original producer . For exam ple, if a printer is designed in such a way that its
+functionality is limited when using ink cartridges not provi ded by the original producer of the printer , that
+information should not be hidden from the consumer because such a practice could mislead the consumer into
+purchas ing an altern ative ink cartridge which cannot be used for that printer , thus leading to unnecessar y waste
+streams or additional costs for the consumer . Similarly , if a smar t device is designed in such a way that its
+functionality is limited when using chargers or spare parts that are not provided by the original producer , that
+information should not be hidden from the consumer at the time of purch ase. It should also be prohibit ed to
+mislead the consumer into believing that using consumables, spare parts or accessor ies not supplied by the original
+producer will impair the functionality of a good when this is not the case. In general, traders who are also the
+producers of the goods are expect ed to have that information, whereas other traders such as sellers should rely on
+reliable information available to them, for instance based on a state ment from a compet ent national author ity or
+information provided by the producer .
+(25) In order for consumers to take better informed decisions and stimulate demand for, and supply of, more durable
+goods, specifi c information about a product’ s durability and reparability should be provided for all types of goods
+before concluding the contract. Moreover , as regar ds goods with digital elements, digital cont ent and digital
+services, consumers should be informed about the period during whic h free software updates are available.
+Theref ore, Directive 2011/83/EU of the European Parliament and of the Council (13)should be amended to provi de
+consumers with pre-contractual information about durability , reparability and the availabi lity of updat es.
+Information should be provided to consumers in a clear and compreh ensible manner and in line with the
+accessibility requirements of Directive (EU) 2019/882 of the European Parliament and of the Council (14). The
+oblig ation to provide this information to consumers compl ements and does not affect the rights of consumers
+provid ed in Directives (EU) 2019/770 and (EU) 2019/771.
+(26) A good indicator of a good’s durability is the producer ’s commercial guarantee of durability within the meaning of
+Article 17 of Directive (EU) 2019/771. The producer ’s commercial guarant ee of durability is a commitment from a
+producer to the consumer on the durability of a good. More specifically , it is a commitment that a good will
+maintain its required functions and performa nce through normal use. In order to inform consumers about the fact
+that a guarant ee of durability is offered for a particular good, that information should be provid ed to the consumer
+using a harmonised label. Traders selling goods should be required, where the producer mak es the information
+available to the trader , to inform consumers about the existence and duration of any commercial guarantee of

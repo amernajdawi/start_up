@@ -1,0 +1,59 @@
+File Name: 2_E1-6_2014-01-01_G_GHG-Agri_WRI&WBCSD.pdf
+Converted on: 2025-03-28 03:20:54
+Original Size: 1.75 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 61 of 65
+--------------------------------------------------------------------------------
+
+Accounting (GHG
+accounting) Quantification and organization of information about GHG fluxes  
+based on common procedures, and correct attribution of the same to
+specific companies.
+Agistment An arrangement between a stoc k owner and the owner of a short-term
+supplier of feed to use that feed.
+Agriculture The cultivation of animals, plants, fungi, and other life forms for food,
+fiber, biofuel, drugs and other pr oducts used to sustain and enhance
+human life
+Agroforestry Integrated agricultural practi ces that exploit the interactive benefits
+from combining trees and shrubs w ith crops and/or livestock.
+Allocation The process of partitioning GHG flux  data from a farming system to 
+the different product streams from that system
+Amortization The allocation of CO 2 fluxes from changes in carbon stocks  over a 
+period of time.
+Base period A historic period against which a company’s GHG fluxes  are tracked 
+over time.
+Biogenic CO 2  
+emissions CO 2 emissions from biological sources or materials derived from
+biological matter.
+By-product A by-product is an incidental out put from an agricultural process with
+a minor market value, rather than the primary product being produced
+or a co-product .  
+Carbon pools Natural stores of carbon in bi omass, dead organic matter, soils, or
+harvested products. Carbon pools both take-up and release CO 2.
+Carbon stocks  The total amount of carbon stored on a plot of land at any given time 
+in one or more carbon pools .
+Carbon sequestration The net carbon accumulation (i.e., CO 2 fixation  minus CO 2 emissions) 
+in carbon pools .
+CO 2-equivalent (CO 2e) The universal unit for comparing emissions of different GHGs,
+expressed in terms of the global warming potential  (GWP) of one unit 
+of CO 2.  
+CO 2 fixation The addition of carbon to carbon pools  through photosynthesis.   
+Conservation area Land where agricultural production has been limited or halted so as to
+provide environmental benefits, such as maintaining or improving
+water quality or wildlife habitat.
+Co-operative A business that is owned and controlled by the people (members) who
+use its services and whose benefits are shared by the members on the
+basis of use.
+Co-product A co-product is an output of an agricultural system with a significant
+market value in another system.  
+Corporate GHG
+emissions inventory A quantified list of the GHG fluxes  from across the entire operations of 
+the reporting company. Such inventories include the emissions of all seven Kyoto GHGs  (CO
+2, CH 4, N 2O, HFCs, PFCs, SF 6, and NF 3).
+
+--- Page 99 of 103 ---
+
+GHG Protocol Agricultural Guidance

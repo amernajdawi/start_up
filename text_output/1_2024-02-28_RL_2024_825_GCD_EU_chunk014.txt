@@ -1,0 +1,46 @@
+File Name: 1_2024-02-28_RL_2024_825_GCD_EU.pdf
+Converted on: 2025-03-28 03:20:42
+Original Size: 0.61 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 14 of 34
+--------------------------------------------------------------------------------
+
+ELI: http://data.europa.eu/eli/dir/2024/825/oj 5/16assess and repor t in 2024 on the application of Directive (EU) 2019/2161, including Article 6(2), point (c), of
+Directive 2005/29/EC and whether those practices should be subject to more stringent requirements, including
+prohibition in Annex I. The new provisions against greenwashing practices in this Directive should also apply to
+such practices where versions of the same product are mark eted as being identical in differ ent Member States
+despite having signif icant differences as refer red to in Article 6(2), point (c), of Directive 2005/29/EC.
+(15) Presenting requirements that are impos ed by law on all products within the relevant product categor y on the Union
+mark et, including impor ted products, as a distinctive feature of the trader ’s offer , should be prohibited in all
+circumstances and thus added to the list in Annex I to Directive 2005/29/EC. This prohibition should apply , for
+example, where a trader adver tises a given product as not including a specific chemical substance when that
+substance is already forbidden by law for all products within that product categor y in the Union. Conv ersely , the
+prohibition should not cover commercial practices promoting traders’ or products’ compl iance with legal
+requirements that only apply to some products but not to other competing products of the same catego ry on the
+Union market, such as products of non-U nion origin. It could be the case that certain products on the mark et are
+required to compl y with certain legal requirements while other products in the same product catego ry are not
+required to compl y with those requirements. For example, as regar ds fish products produced sustainably in
+accordance with Union law, it would be allowe d to promote the sustainability charact eristics of those products that
+compl y with Union lega l requirements, if fish products of third countr y origin offered on the Union mark et are not
+required to compl y with those Union legal requirements.
+(16) In order to imp rove the welf are of consumers, the amendments to Directive 2005/29/EC should also address several
+practices associated with early obsolescence, including planned early obsolescence practices, understood as a
+commercial policy involving deliberately planning or designing a product with a limite d lifes pan so that it
+prematurely becomes obsolet e or non-functional after a certain period or after a predete rmined intensity of use.
+Purchasin g products that are expect ed to last long er than they actually do causes consumer detr iment. Further more,
+early obsolescence practices have an overall nega tive impact on the environment in the form of increased waste and
+increased use of energy and mater ials. Theref ore, addressing information related to early obsolescence practices is
+also likely to reduce the amount of waste, contr ibuting to a more sustainable consum ption.
+(17) It should also be prohibit ed under Annex I to Directive 2005/29/EC to withhold information from consumers about
+the fact that a software updat e will negatively impact the functioning of goods with digital elements or the use of
+digital cont ent or digital services. In general, traders responsible for the development of software updates are
+expecte d to have such information, while in other cases traders can rely on reliable information provided by, for
+example, software developers, suppliers or compet ent national author ities. For example, when inviti ng consumers
+to update the operating system on their smar tphone, the trader should not withhold information from the
+consumer that such an update will negatively impa ct the functioning of any of the features of the smar tphone, such
+as the batter y, the performance of certain applications or cause a complet e slowdown of the smar tphone. The
+prohibition should apply to any update, including secur ity and functionality updat es. For updat es, including
+secur ity update s, that are necessar y to keep the good, digital cont ent and digital service in conf ormity , Article 8 of

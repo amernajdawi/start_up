@@ -1,0 +1,44 @@
+File Name: 1_2023-07-31_DelVO_2023_2772_ESRS_EU.pdf
+Converted on: 2025-03-28 03:20:41
+Original Size: 5.82 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 80 of 284
+--------------------------------------------------------------------------------
+
+ELI: http://data.europa.eu/eli/reg_del/2023/2772/oj 82/28454. The disclosure on GHG intensity required by paragraph 53 shall provide the total GHG emissions in metric tonnes of
+CO2eq (required by paragraph 44 (d)) per net revenue.
+55. The undertaking shall disclose the reconciliation to the relevant line item or notes in the financial statements of the
+net revenue amounts (the denominator in the calculation of the GHG emissions intensity required by paragraph 53).
+Disclosure Requirement E1-7 – GHG removals and GHG mitigation projects financed through carbon credits
+56. The undertaking shall disclose:
+(a) GHG removals and storage in metric tonnes of CO2eq resulting from projects it may have developed in
+its own operations, or contributed to in its upstream and downstream value chain; and
+(b) the amount of GHG emission reductions or removals from climate change mitigation projects outside its value chain it has financed or intends to finance through any purchase of carbon credits.
+57. The objective of this Disclosure Requirement is:
+(a) to provide an understanding of the undertaking’s actions to permanently remove or actively support the removal
+of GHG from the atmosphere, potentially for achieving net-zero targets (as stated in paragraph 60).
+(b) to provide an understanding of the extent and quality of carbon credits the undertaking has purchased or intends
+to purchase from the voluntary market, potentially for supporting its GHG neutrality claims (as stated in
+paragraph 61).
+58. The disclosure on GHG removals and storage required by paragraph 56 (a) shall include, if applicable:
+(a) the total amount of GHG removals and storage in metric tonnes of CO2eq disaggregated and separately disclosed for the amount related to the undertaking’s own operations and its upstream and donwstream value chain, and
+broken down by removal activity; and
+(b) the calculation assumptions, methodologies and frameworks applied by the undertaking.
+59. The disclosure on carbon credits required by paragraph 56 (b) shall include, if applicable:
+(a) the total amount of carbon credits outside the undertaking’s value chain in metric tonnes of CO2eq that are
+verified against recognised quality standards and cancelled in the reporting period; and
+(b) the total amount of carbon credits outside the undertaking’s value chain in metric tonnes of CO2eq planned to be cancelled in the future and whether they are based on existing contractual agreements or not.
+60. In the case where the undertaking discloses a net-zero target in addition to the gross GHG emission reduction
+targets in accordance with Disclosure Requirement E1-4, paragraph 30, it shall explain the scope, methodologies
+and frameworks applied and how the residual GHG emissions (after approximately 90-95% of GHG emission
+reduction with the possibility for justified sectoral variations in line with a recognised sectoral decarbonisation pathway) are intended to be neutralised by, for example, GHG removals in its own operations and upstream and
+donwstream value chain.
+61. In the case where the undertaking may have made public claims of GHG neutrality that involve the use of carbon
+credits, it shall explain:
+(a) whether and how these claims are accompanied by GHG emission reduction targets as required by Disclosure
+requirement ESRS E1-4;OJ L, 22.12.2023 EN  
+
+--- Page 83 of 284 ---

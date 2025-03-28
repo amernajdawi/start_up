@@ -1,0 +1,64 @@
+File Name: 2_E1-6_2011-09-01_G_GHG-PLC_WRI&WBCSD.pdf
+Converted on: 2025-03-28 03:18:25
+Original Size: 3.27 MB
+Chunk Size: 500 tokens with 50 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 146 of 226
+--------------------------------------------------------------------------------
+
+--- Page 94 of 148 ---
+
+Assurance 12
+
+--- Page 95 of 148 ---
+
+[93]
+guidancerequirements
+12.1 Introduction
+Assurance is the level of confidence that the inventory results and report are
+complete, accurate, consistent, transparent, relevant, and without material
+misstatements.1 Obtaining assurance over the product inventory is valuable for
+reporting companies and other stakeholders when making decisions using the inventory results.
+Carefully and comprehensively documenting the inventory process in a data management plan
+is a vital step in preparing for assurance.
+12.2 Requirements
+The product GHG inventory shall be assured
+by a first or third party.
+Three key parties are involved in the assurance process:
+1. The reporting company seeking assurance
+2. Stakeholder users of the inventory report
+3. The assurer(s)
+When the reporting company also performs the
+assurance, this is known as first party assurance. When a party other than the reporting company performs  
+the assurance, this is known as third party assurance.  
+Table 12.1 explains the differences between first and
+third party assurance.
+Both first and third party assurers should follow similar
+procedures and processes. For external stakeholders,
+third party assurance is likely to increase the credibility
+of the GHG inventory. However, first party assurance can
+also provide confidence in the reliability of the inventory
+report, and can be a worthwhile learning experience for  
+a company prior to commissioning third party assurance.
+
+--- Page 96 of 148 ---
+
+[94]   Product Life Cycle Accounting and Reporting Standardrequirements
+Table [12.1] Types of assurance
+Type of assurance Description Independence mechanism
+First party assurance Person(s) from within the reporting
+company but independent of the GHG
+inventory determination process  
+conducts internal assurance.Different lines of reporting
+Third party assurance Person(s) from an organization  
+independent of the product GHG  
+inventory determination process  
+conducts third party assurance.Different business entity from the
+reporting company
+
+Companies shall choose assurance  
+providers that are independent of, and  
+have	no	conflict	of	interest	with,	the 	
+product GHG inventory process.

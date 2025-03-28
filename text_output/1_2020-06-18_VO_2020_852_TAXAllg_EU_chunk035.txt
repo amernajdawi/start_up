@@ -1,0 +1,49 @@
+File Name: 1_2020-06-18_VO_2020_852_TAXAllg_EU.pdf
+Converted on: 2025-03-28 03:20:25
+Original Size: 0.73 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 35 of 54
+--------------------------------------------------------------------------------
+
+2. This Regulation applies to:
+(a) measures adopt ed by Member State s or by the Union that set out requirements for financial mark et participants or
+issuers in respect of financial products or corporate bonds that are made available as environmentally sustainable;
+(b) financial mark et participants that make available financia l products;
+(c) under takings which are subject to the oblig ation to publish a non-financial state ment or a consolidated non-financial
+statement pursuant to Article 19a or Article 29a of Directive 2013/34/EU of the European Parliament and of the
+Council (68), respectively .
+Article 2
+Def initions
+For the purposes of this Regulation, the followi ng definitions apply:
+(1) ‘envir onmentally sustainable investment’ means an inve stment in one or several economic activities that qualify as
+environmentally sustainable under this Regulation;
+(2) ‘finan cial market participant’ means a financial mark et participant as defined in point (1) of Article 2 of Regulation
+(EU) 2019/2088 and includes a manuf acturer of a pension product to which a Member State has decided to apply
+that Regulation in accordance with Article 16 of that Regulation;
+(3) ‘finan cial product’ means a financial product as defined in point (12) of Article 2 of Regulation (EU) 2019/2088;
+(4) ‘issuer ’ means an issuer as defined in point (h) of Article 2 of Regulation (EU) 2017/1129 of the European Parliament
+and of the Council (69);
+(5) ‘climate chang e mitig ation’ means the process of holding the increase in the global averag e temperature to well below
+2 °C and pursuing efforts to limit it to 1,5 °C above pre-industr ial levels, as laid down in the Paris Agreement ;
+(6) ‘climate chang e adap tation’ means the process of adjustment to actual and expecte d climat e change and its impacts;
+(7) ‘greenhouse gas’ means a greenhouse gas listed in Annex I to Regulation (EU) No 525/2013 of the European
+Parliament and of the Council (70);
+(8) ‘wast e hierarc hy’ means the wast e hierarc hy as laid down in Article 4 of Directive 2008/98/EC;
+(9) ‘circular economy’ means an economic system whereby the value of products, mater ials and other resources in the
+econom y is maintained for as long as possible, enhancing their efficient use in production and consump tion, thereby
+reducing the environmental impact of their use, minimising waste and the release of hazardous substances at all stages
+of their life cycle, including through the application of the waste hierarc hy;
+(10) ‘pollutant’ means a substance, vibration, heat, noise, light or other contaminant present in air, water or land which
+may be harmful to human health or the environment, which may result in damage to mater ial proper ty, or whic h
+may impa ir or interfe re with amenities and other legitimate uses of the environment ;
+(11) ‘soil’ means the top layer of the Earth’s crust situated between the bedroc k and the surface, which is compo sed of
+mineral particles, organic matt er, water , air and living organisms;
+(68)Directive 2013/34/EU of the European Parliament and of the Council of 26 June 2013 on the annual financial statements,
+consolidated financial statements and related repor ts of certain types of under takings, amending Directive 2006/43/EC of the
+European Parliament and of the Council and repealing Council Directives 78/660/EEC and 83/349/EEC (OJ L 182, 29.6.2013, p. 19).
+(69)Regulation (EU) 2017/1129 of the European Parliament and of the Council of 14 June 2017 on the prospectus to be published when
+secur ities are offered to the public or admitted to trading on a regulated market, and repealing Directive 2003/71/EC (OJ L 168,
+30.6.2017, p. 12).

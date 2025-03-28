@@ -1,0 +1,36 @@
+File Name: 1_2023-06-27_DelVO_2023_2486_TAXURA_EU.pdf
+Converted on: 2025-03-28 03:18:09
+Original Size: 8.44 MB
+Chunk Size: 500 tokens with 50 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 285 of 380
+--------------------------------------------------------------------------------
+
+ELI: http://data.europa.eu/eli/reg_del/2023/2486/oj 104/1642.3. Remediation of legally non-conforming landfills and abandoned or illegal waste dumps
+Description of the activity
+Remediation of legally non-conforming landfills (57)and of abandoned or illegal waste dumps (58)that have been closed and
+are not taking in further waste other than possibly inert or biostabilised waste to be used as landfill cover material (as far as
+allowed in the environmental permit for the remediation project).
+The activity may include any of the following remediation strategies and sub-activities typically implemented as part of
+projects aimed at removing, controlling, containing or diminishing polluting emissions (59)from non-conforming landfills
+and abandoned or illegal dumpsites:
+(a) remediation through environmental isolation of non-conforming or illegal landfills or dumpsites at the present site,
+including:
+(i) physical isolation, concentration, structural stabilisation and protection of the non-conforming or illegal landfill or
+dumpsite, including application of hydraulic barriers, sealing, drainage and cover layers;
+(ii) installation, operation and maintenance of drainage and separate collection and treatment systems for leachates and run-off water prior to discharge;
+(iii) installation, operation and maintenance of landfill gas collection, abatement and control systems, including wells, piping and flaring systems;
+(iv) application of top soil and vegetation cover for renaturation purposes;
+(b) remediation through excavation and removal of non-conforming or illegal landfills or dumpsites with subsequent
+treatment, recovery or disposal of excavated waste, including:
+(i) selective excavation of the waste deposited on the site, loading and transport to existing permitted treatment,
+recovery or disposal facilities with separate management of non-hazardous and hazardous waste;
+(ii) sorting and recovery of materials and fuels from excavated non-hazardous waste, including the installation, operation and maintenance of dedicated facilities and equipment for the duration of the remediation project;
+(c) remediation through decontamination of soils, surface and groundwater at the place of pollution, including the following:
+(i) selective excavation, loading, transport, temporary storage, backfilling of soil, with separate management of non-
+contaminated and contaminated soils;
+(ii) treatment of contaminated soil or water, either in situ or ex situ, using in particular physical, chemical or biological methods, including the installation, operation and maintenance of dedicated facilities for the duration of the
+remediation project;
+(iii) application of hydraulic barriers, active and passive barriers intended to limit/prevent migration of pollutants.

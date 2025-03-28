@@ -1,0 +1,35 @@
+File Name: 2_E1-6_2014-01-01_G_GHG-Agri_WRI&WBCSD.pdf
+Converted on: 2025-03-28 03:18:26
+Original Size: 1.75 MB
+Chunk Size: 500 tokens with 50 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 86 of 108
+--------------------------------------------------------------------------------
+
+fluxes . In selecting a performance metric , companies should consider which metrics best capture the benefits and impacts of their business ( e . g . , its operations , its produ cts , and its effects on the marketplace ) , as well as its intended application .
+
+--- Page 78 of 103 ---
+
+GHG Protocol Agricultural Guidance
+
+78
+
+The use of multiple performa nce metrics is recommended  
+Companies might find it useful to track perfor mance using more than one metric. This is
+because individual metrics might exclude certai n sources, such as those associated with
+by-products or co-products (see below) or those not directly  connected to the production 
+system. For the same reason, performance me trics should always be reported alongside
+data on the absolute GHG fluxes to/from a farm. The following scenarios show the
+importance of using additional ratio indica tors (in addition to reporting absolute GHG
+flux data) to track performan ce at the whole farm level:
+ Production intensification (e.g., an increased  use of fertilizers and/or feed) might 
+boost yields and result in a ne t reduction in GHG intensity per 	unit of agricultural 
+output (provided the inputs are not excessive ), but could also increase emissions on a
+per hectare basis.   
+ Increasing the feed conversion efficiency of  cattle can reduce emissions per product, 
+but can lead to greater overall emissions (a nd emissions per ha) if any spare feed is
+diverted to new livestock. 	
+Table I-1 describes various trade-offs asso ciated with different  types of metrics 
+commonly used in the agricultural sector.

@@ -1,0 +1,35 @@
+File Name: 1_2023-07-31_DelVO_2023_2772_ESRS_EU.pdf
+Converted on: 2025-03-28 03:20:41
+Original Size: 5.82 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 188 of 284
+--------------------------------------------------------------------------------
+
+ELI: http://data.europa.eu/eli/reg_del/2023/2772/oj 189/284Country C
+Country D
+Table 3
+Template for presenting information on employees by contract type, broken down by gender (head count or FTE)
+(reporting on full-time and part-time employees is voluntary)
+[Reporting period]
+FEMALE MALE OTHER (*) NOT DISCLOSED TOTAL
+Number of employees (head count / FTE)
+Number of permanent employees (head count / FTE)
+Number of temporary employees (head count / FTE)
+Number of non-guaranteed hours employees (head count / FTE)
+Number of full-time employees (head count / FTE)
+Number of part-time employees (head count / FTE)
+(*)Gender as specified by the employees themselves.
+Table 4
+Template for presenting information on employees by contract type, broken down by region (head count or FTE)
+(reporting on full-time and part-time employees is voluntary)
+[Reporting period]
+REGION A REGION B TOTAL
+Number of employees (head count / FTE)
+Number of permanent employees (head count / FTE)
+Number of temporary employees (head count / FTE)Number of non-guaranteed hours employees (head count / FTE)Number of full-time employees (head count / FTE)
+Number of part-time employees (head count / FTE)OJ L, 22.12.2023 EN  
+
+--- Page 190 of 284 ---

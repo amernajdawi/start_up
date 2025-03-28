@@ -1,0 +1,34 @@
+File Name: 2_E1-6_2011-09-01_G_GHG-PLC_WRI&WBCSD.pdf
+Converted on: 2025-03-28 03:18:25
+Original Size: 3.27 MB
+Chunk Size: 500 tokens with 50 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 213 of 226
+--------------------------------------------------------------------------------
+
+Glossary
+[137]Service life  The amount of time needed for a product to fulfill the function defined in the unit of 
+analysis.
+Studied product  The product for which the GHG inventory is performed.
+Third party (external) Assurance performed by a person(s) from an organization independent of the product  
+ assurance  GHG inventory determination process.
+Time period  The period of time when attributable processes occur during the studied product’s life 
+cycle, from when materials are extracted from nature until they are returned to nature at
+the end-of-life (e.g., incinerated) or leave the studied product’s life cycle (e.g., recycled).
+Qualitative uncertainty  A general and imprecise term which refers to the lack of certainty in data and 
+methodology choices, such as the application of non-representative factors or methods,
+incomplete data on sources and sinks, lack of transparency, etc.
+Quantitative uncertainty  Measurement that characterizes the dispersion of values that could reasonably be 
+attributed to a parameter (adapted from ISO 1995).15
+Unit of analysis  The basis on which the inventory results are calculated; the unit of analysis is defined as 
+the functional unit for final products and the reference flow for intermediate products.
+Upstream  GHG emissions or removals associated with processes that occur in the life cycle of a 
+product prior to the processes owned or controlled by the reporting company.16
+Use stage  A life cycle stage that begins when the consumer takes possession of the product and 
+ends when the used product is discarded for transport to a waste treatment location or
+recycled into another product’s life cycle.
+Waste  An output of a process that has no market value.
+
+--- Page 140 of 148 ---

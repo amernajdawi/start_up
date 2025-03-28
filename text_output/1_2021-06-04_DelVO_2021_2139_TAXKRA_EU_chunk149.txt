@@ -1,0 +1,57 @@
+File Name: 1_2021-06-04_DelVO_2021_2139_TAXKRA_EU.pdf
+Converted on: 2025-03-28 03:20:30
+Original Size: 2.76 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 149 of 447
+--------------------------------------------------------------------------------
+
+Technical screening criteria  
+Substantial contribution to climate change mitigation  
+The activity complies with the following criteria:
+(a) for vehicles of category M1 and N1, both falling under the scope of Regulation (EC) No 715/2007:
+(i) until 31 December 2025, specific emissions of CO  2 , as defined in Article 3(1), point (h), of Regulation 
+(EU) 2019/631, are lower than 50 g CO  2 /km (low- and zero-emission light-duty vehicles); 
+(ii) from 1 January 2026, specific emissions of CO  2 , as defined in Article 3(1), point (h), of Regulation (EU) 
+2019/631, are zero.
+(b) for vehicles of category L, the tailpipe CO  2 emissions equal to 0 g CO  2 e/km calculated in accordance with the 
+emission test laid down in Regulation (EU) 168/2013.  
+Do no significant harm (‘DNSH’)  
+(2) Climate change adaptation  The activity complies with the criteria set out in Appendix A to this 
+Annex.  
+(3) Sustainable use and protection of
+water and marine resources  N/A  
+(4) Transition to a circular economy  Vehicles of categories M1 and N1 are both of the following: 
+(a) reusable or recyclable to a minimum of 85 % by weight;
+(b) reusable or recoverable to a minimum of 95 % by weight (  236  ). 
+Measures are in place to manage waste both in the use phase (main ­
+tenance) and the end-of-life of the fleet, including through reuse and
+recycling of batteries and electronics (in particular critical raw materials
+therein), in accordance with the waste hierarchy.  
+(5) Pollution prevention and control  Vehicles comply with the requirements of the most recent applicable stage 
+of the Euro 6 light-duty emission type-approval (  237  ) set out in accordance 
+with Regulation (EC) No. 715/2007.
+Vehicles comply with the emission thresholds for clean light-duty vehicles
+set out in Table 2 of the Annex to Directive 2009/33/EC of the European
+Parliament and of the Council (  238  ). 
+For road vehicles of categories M and N, tyres comply with external rolling
+noise requirements in the highest populated class and with Rolling
+Resistance Coefficient (influencing the vehicle energy efficiency) in the
+two highest populated classes as set out in Regulation (EU) 2020/740
+and as can be verified from the European Product Registry for Energy
+Labelling (EPREL).  
+_____________
+( 236  ) As set out in Annex I of Directive 2005/64/EC of the European Parliament and of the Council of 26 October 2005 on the type- 
+approval of motor vehicles with regard to their reusability, recyclability and recoverability and amending Council Directive
+70/156/EEC (OJ L 310, 25.11.2005, p. 10).
+( 237  ) Commission Regulation (EU) 2018/1832 of 5 November 2018 amending Directive 2007/46/EC of the European Parliament and 
+of the Council, Commission Regulation (EC) No 692/2008 and Commission Regulation (EU) 2017/1151 for the purpose of
+improving the emission type approval tests and procedures for light passenger and commercial vehicles, including those for in-
+service conformity and real-driving emissions and introducing devices for monitoring the consumption of fuel and electric energ y
+(OJ L 301, 27.11.2018, p. 1).
+( 238  ) Directive 2009/33/EC of the European Parliament and of the Council of 23 April 2009 on the promotion of clean and energy- 
+efficient road transport vehicles (OJ L 120, 15.5.2009, p. 5).EN  L 442/106 Official Journal of the European Union 9.12.2021
+
+--- Page 107 of 349 ---

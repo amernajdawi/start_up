@@ -1,0 +1,24 @@
+File Name: 1_2021-06-04_DelVO_2021_2139_TAXKRA_EU.pdf
+Converted on: 2025-03-28 01:55:25
+Original Size: 2.76 MB
+Chunk Size: 400 tokens with 50 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 1056 of 1091
+--------------------------------------------------------------------------------
+
+2.2. The reinsurance activity complies with one or more of the following criteria:
+(a) where desired by the insurer, the reinsurer engages with the insurer, either directly or via a reinsurance
+intermediary, during the development of the underlying product by:
+(i) discussing possible reinsurance solutions that the reinsurer is willing to offer in relation to that product.
+The final product is brought to market using one of the reinsurance solutions that were discussed with the
+reinsurer during the product development phase;
+(ii) providing data or other technical advice enabling the insurer to price the coverage for risks stemming from
+climate-related perils as well as risk-based rewards for preventive actions taken by the insurer’s policy ­
+holders;
+(b) the insurer would likely reduce or discontinue its coverage under the underlying product without the
+reinsurance agreement or a comparable reinsurance agreement in place;  
+_____________
+( 643  ) As defined in Art. 2, point (5), of Directive (EU) 2016/97 of the European Parliament and of the Council of 20 January 2016 o n 
+insurance distribution, (OJ L 26, 2.2.2016, p. 19).EN  9.12.2021 Official Journal of the European Union L 442/335

@@ -1,0 +1,42 @@
+File Name: CELEX_32010L0075_DE_TXT.pdf
+Converted on: 2025-03-28 03:18:33
+Original Size: 4.18 MB
+Chunk Size: 500 tokens with 50 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 140 of 163
+--------------------------------------------------------------------------------
+
+(ABl. L 363 vom 20.12.2006, S. 368)nur
+Anhang
+Buchstabe
+B Nummer 2
+Richtlinie
+2009/31/E G
+des Europäischen
+Parlaments
+und
+des
+Rates
+(ABl. L 140 vom 5.6.2009, S. 114)nur
+Artikel
+33
+Richtlinie
+2008/1/EG
+des Europäischen
+Parlaments
+und
+des
+Rates
+(ABl. L 24 vom 29.1.2008, S. 8)
+Richtlinie
+2009/31/E G
+des Europäischen
+Parlaments
+und
+des
+Rates
+(ABl. L 140 vom 5.6.2009, S. 114.)nur
+Artikel
+37

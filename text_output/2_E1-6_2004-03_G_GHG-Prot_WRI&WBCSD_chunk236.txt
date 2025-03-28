@@ -1,0 +1,53 @@
+File Name: 2_E1-6_2004-03_G_GHG-Prot_WRI&WBCSD.pdf
+Converted on: 2025-03-28 01:56:03
+Original Size: 3.51 MB
+Chunk Size: 400 tokens with 50 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 236 of 251
+--------------------------------------------------------------------------------
+
+103References
+API(2004), Compendium of Greenhouse Gas Emissions
+Methodologies for the Oil and Gas Industry, Final Draft, American
+Petroleum Institute
+BP(2000), Environmental Performance: Group Reporting
+Guidelines, Version 2.2
+CCAR (2003), General Reporting Guidelines, California Climate
+Action Registry
+DEFRA (2003), Guidelines for the Measurement and Reporting of
+Emissions by direct participants in the UK Emissions TradingScheme, UK Department for Environment, Food and Rural Affairs,
+London, UK ETS(01)05rev2
+EC-DGE (2000), Guidance Document for EPER Implementation,
+European Commission Directorate-General for Environment
+EPA(1999), Emission Inventory Improvement Program,
+Volume VI: Quality Assurance/Quality Control, U.S. Environmental
+Protection Agency
+Georgia Pacific (2002), Protocol for the Inventory of Greenhouse
+Gases in Georgia-Pacific Corporation, Georgia-Pacific
+Corporation, Atlanta
+GRI(2002), Global Reporting Initiative, Sustainability Reporting
+Guidelines, Global Reporting Initiative
+IAI(2003), Aluminum Sector Greenhouse Gas Protocol,
+International Aluminum Institute
+ICFPA (2002), Calculation Tools and for Estimating Greenhouse
+Gas Emissions from Pulp and Paper Mills, Climate Change
+Working Group of the International Council of Forest and Paper Associations
+IPCC (1996), Revised IPCC Guidelines for National GHG
+Inventories: Reference Manual, Intergovernmental Panel on
+Climate Change
+IPCC (1997), Revised 1996 IPCC Guidelines for National Greenhouse
+Gas Inventories, Intergovernmental Panel on Climate Change
+IPCC (1998), Evaluating Approaches for Estimating Net Emissions
+of Carbon Dioxide from Forest Harvesting and Wood Products, by
+S.Brown , B. Lim, and B. Schlamadinger , Intergovernmental
+Panel on Climate Change
+IPCC (2000a), Good Practice Guidance and Uncertainty
+Management in National Greenhouse Gas Inventories,Intergovernmental Panel on Climate ChangeIPCC (2000b), Land Use, Land Use Change, and Forestry: A
+Special Report of the IPCC, Intergovernmental Panel on Climate
+Change. Cambridge University Press, Cambridge, UK
+IPIECA (2003), Petroleum Industry Guidelines for Reporting
+Greenhouse Gas Emissions, International Petroleum Industry
+Environmental Conservation Association, London
+ISO(1999), International Standard on Environmental

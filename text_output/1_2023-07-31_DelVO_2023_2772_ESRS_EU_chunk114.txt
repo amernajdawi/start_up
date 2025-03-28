@@ -1,0 +1,49 @@
+File Name: 1_2023-07-31_DelVO_2023_2772_ESRS_EU.pdf
+Converted on: 2025-03-28 03:20:41
+Original Size: 5.82 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 114 of 284
+--------------------------------------------------------------------------------
+
+ELI: http://data.europa.eu/eli/reg_del/2023/2772/oj 115/284(b) microplastics generated or used by the undertaking.
+29. The amounts referred in paragraph 28 shall be consolidated amounts including the emissions from those facilities
+over which the undertaking has financial control and those over which it has operational control. The consolidation
+shall include only the emissions from facilities for which the applicable threshold value specified in Annex II of
+Regulation (EC) No 166/2006 is exceeded.
+30. The undertaking shall put its disclosure into context and describe:
+(a) the changes over time,
+(b) the measurement methodologies; and
+(c) the process(es) to collect data for pollution-related accounting and reporting, including the type of data needed
+and the information sources.
+31. When an inferior methodology compared to direct measurement of emissions is chosen to quantify emissions, the
+reasons for choosing this inferior methodology shall be outlined by the undertaking. If the undertaking uses
+estimates, it shall disclose the standard, sectoral study or sources which form the basis of its estimates, as well as the
+possible degree of uncertainty and the range of estimates reflecting the measurement uncertainty.
+Disclosure Requirement E2-5 – Substances of concern and substances of very high concern
+32. The undertaking shall disclose information on the production, use, distribution, commercialisation
+and import/export of substances of concern and substances of very high concern, on their own, in
+mixtures or in articles.
+33. The objective of this Disclosure Requirement is to enable an understanding of the impact of the undertaking on
+health and the environment through substances of concern and through substances of very high concern on their
+own. It is also to enable an understanding of the undertaking’s material risks and opportunities, including exposure
+to those substances and risks arising from changes in regulations.
+34. The disclosure required by paragraph 32 shall include the total amounts of substances of concern that are generated
+or used during the production or that are procured, and the total amounts of substances of concern that leave its facilities as emissions, as products, or as part of products or services split into main hazard classes of substances of
+concern.
+35. The undertaking shall present separately the information for substances of very high concern.
+Disclosure Requirement E2-6 – Anticipated financial effects from material pollution-related risks and opportunities
+36. The undertaking shall disclose the anticipated financial effects of material pollution-related risks and
+opportunities.
+37. The information required by paragraph 36 is in addition to the information on current financial effects on the
+undertaking’s, financial position, financial performance and cash flows for the reporting period required under ESRS
+2 SBM-3 para 48 (d).
+38. The objective of this Disclosure Requirement is to provide an understanding of:
+(a) anticipated financial effects due to material risks arising from pollution-related impacts and dependencies and
+how these risks have (or could reasonably be expected to have) a material influence on the undertaking’s ,
+financial position financial performance and cash flows, over the short-, medium- and long-term.
+(b) anticipated financial effects due to material opportunities related to pollution prevention and control.OJ L, 22.12.2023 EN  
+
+--- Page 116 of 284 ---

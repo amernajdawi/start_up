@@ -1,0 +1,32 @@
+File Name: 2_E1-6_2011-09-01_G_GHG-PLC_WRI&WBCSD.pdf
+Converted on: 2025-03-28 03:18:25
+Original Size: 3.27 MB
+Chunk Size: 500 tokens with 50 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 127 of 226
+--------------------------------------------------------------------------------
+
+confidence interval (5 percent to 95 percent of
+the distribution). This is based on information
+provided in the IPCC’s Fourth Assessment Report,
+and the range given is to reflect the uncertainty
+in converting individual GHG emissions into units
+of CO2e. As identified in the requirements section
+10.2, companies are required to report the source
+of GWP values used. If companies choose to
+quantify inventory uncertainty they may include the
+uncertainty of GWP values in their calculations. Box [10.1]   Uncertainty of global warming  
+potential factorsTable [10.1]  Types of uncertainties and 
+corresponding sources
+Types of uncertainty Sources
+Parameter  uncertainty • Direct emissions data
+• Activity data
+• Emission factor data
+• Global warming  
+potential (GWP)  
+factors
+Scenario uncertainty • Methodological  
+choices
+Model uncertainty • Model limitations

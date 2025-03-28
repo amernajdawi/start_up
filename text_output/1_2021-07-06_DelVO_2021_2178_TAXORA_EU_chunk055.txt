@@ -1,0 +1,27 @@
+File Name: 1_2021-07-06_DelVO_2021_2178_TAXORA_EU.pdf
+Converted on: 2025-03-28 03:18:05
+Original Size: 10.30 MB
+Chunk Size: 500 tokens with 50 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 55 of 90
+--------------------------------------------------------------------------------
+
+bonds issued in accordance with Union legislation. Current bond issuances qualified as green bonds by issuers
+whose use of proceeds have to be invested in taxonomy-eligible economic activities shall be assessed
+depending on the level of taxonomy-alignment of economic activities in accordance with Regulation (EU)
+2020/852 or of projects funded, based on specific information provided by the issuer for an issuance. Credit
+institutions shall provide transparency on the kind of economic activity that is being funded. Double counting is not allowed. Where the same green bond can be relevant for two environmental objectives, credit
+institutions shall allocate it to the most relevant objective.
+(2)(c)(1)(b) Credit institutions shall consider the gross carrying amount of debt securities invested in project finance
+exposures, to the extent that the activities of the project funded are taxonomy-aligned economic activities. The
+assessment shall be based on specific information provided by the issuer for that issuance. Double counting is
+not allowed. Where the same specialised lending exposure can be relevant for two environmental objectives,
+credit institutions shall allocate it to the most relevant objective. Credit institutions shall provide transparency
+on the type of economic activity that is funded.
+For the purposes of point (2)(c)(2), credit institutions shall rely on the turnover KPI and CapEx KPI that the counterparty
+shall disclose in accordance with Article 2 of this Regulation. The amount of debt securities to non-financial undertakings
+shall be the sum of the gross carrying amount of the total debt securities with unknown use of proceeds weighted by the
+proportion of taxonomy-aligned economic activities with a breakdown for transition and enabling activities for each
+counterparty.EN Official Journal of the European Union L 443/40 10.12.2021

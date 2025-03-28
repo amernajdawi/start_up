@@ -1,0 +1,76 @@
+File Name: 2_E1-6_2011-09-01_G_GHG-PLC_WRI&WBCSD.pdf
+Converted on: 2025-03-28 03:20:53
+Original Size: 3.27 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 50 of 116
+--------------------------------------------------------------------------------
+
+[64]   Product Life Cycle Accounting and Reporting Standardrequirements
+Allocation due to recycling processes can be especially
+challenging. Recycling occurs when a product or material
+exits the life cycle of the studied product to be reused
+or recycled as a material input into another product’s life
+cycle. This creates a unique allocation scenario because
+the common processes for recycling are often shared
+between different life cycles.
+When recycling occurs in a studied product’s boundary,
+companies need to allocate the emissions and removals
+associated with the extraction and processing of raw
+materials and the final disposal of products (including
+recycling) between more than one product life cycle
+(i.e., the product that delivers the recycled material and
+the subsequent product which uses recycled material).
+Therefore, all allocation requirements for common
+processes also apply to allocation due to recycling.
+However, because of the additional complexity
+associated with recycling processes, this standard
+provides two specific methods for allocating emissions
+and removals between product life cycles: the closed
+loop approximation method and the recycled content
+method. The closed loop approximation method is a type
+of system expansion that accounts for the impact that
+end-of-life recycling has on the net virgin acquisition of
+a material. The recycled content method allocates the
+recycling process emissions and removals to the life cycle
+that uses the recycled material.
+If neither the closed loop approximation nor the recycled
+content method is appropriate, companies may use
+another method if all of the following are true:
+•The method conforms to the allocation and all other
+requirements of this standard (including being
+disclosed and justified in the inventory report)
+•The method accounts for all emissions and removals
+due to recycling (i.e., applies an allocation factor
+between 0 and 100 percent consistently between
+inputs and outputs to avoid double counting or
+undercounting emissions)
+•The method uses as the basis for allocation (in the
+following order of preference, if feasible): a physical
+properties factor, an economic value factor, or a factor
+based on the number of subsequent uses2
+Companies shall disclose and justify
+the methods used to avoid allocation or
+perform allocation due to co-products
+or recycling. When using the closed loop
+approximation method, companies shall
+report displaced emissions and removals
+separately from the studied product’s end-
+of-life stage inventory.
+Regardless of which allocation methods are used,
+companies shall report a brief explanation of the choice
+of specific allocation methods and factors (if applicable)
+used in the inventory, including why the methods and
+factors most accurately reflect the studied product’s or
+co-product’s contribution to the common process’s total
+emissions and removals (See chapter 13).
+When the closed loop approximation method is used in
+a GHG inventory, the virgin material displacement factor
+(as described in section 9.3.6) is subtracted from the total
+inventory results. However, the displacement factor shall
+be reported separately from the percentage of inventory
+results by stage to avoid a negative end-of-life value.
+
+--- Page 67 of 148 ---

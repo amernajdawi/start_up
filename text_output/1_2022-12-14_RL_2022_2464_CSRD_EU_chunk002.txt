@@ -1,0 +1,47 @@
+File Name: 1_2022-12-14_RL_2022_2464_CSRD_EU.pdf
+Converted on: 2025-03-28 03:20:33
+Original Size: 1.12 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 2 of 140
+--------------------------------------------------------------------------------
+
+(2) In its Communication of 8 March 2018 entitled ‘Action Plan: Financing Sustainable Growth’ (the ‘Action Plan on
+Financing Sustainable Gro wth’), the Commission set out measures to achi eve the following objectives: reor ient
+capital flows towards sustainable investment in order to achieve sustainable and inclusive growth, manage financial
+risks stemming from climat e chang e, resource depletion, environmental degradation and social issues, and foster
+transparency and long-t ermism in financial and economic activity . The disclosure by certain catego ries of
+under takings of relevant, comparab le and reliable sustainability information is a prerequisite for meeting those
+objectives. The European Parliament and the Council have adop ted a number of legislative acts as part of the
+imp lementation of the Action Plan on Financing Sustainable Growt h. Regulation (EU) 2019/2088 of the European
+Parliament and of the Council (5)govern s how financial mark et participants and financial advisers are to disclose
+sustainability information to end invest ors and asset owners.
+Regulation (EU) 2020/852 of the European Parliament and of the Council (6)creat es a classif ication system of
+environmentally sustainable economic activities with the aim of scaling up sustainable investments and combatting
+greenwashing of financial products that unduly claim to be sustainable. Regulation (EU) 2019/2089 of the
+European Parliament and of the Council (7), compl emented by Commission Delegat ed Regulations (EU)
+2020/1816 (8), (EU) 2020/1817 (9)and (EU) 2020/1818 (10), introduces environmental, social and governance
+(‘ESG’) disclosure requirements for benc hmark administrators and minimum standards for the constr uction of EU
+Climate Transition Benc hmark s and EU Paris-aligned Benc hmark s.
+Regulation (EU) No 575/2013 of the European Parliament and of the Council (11)requires large institutions which
+have issued secur ities that are admitt ed to trading on a regulated mark et to disclose information on ESG risks from
+28 June 2022 . The prudential framework for investment firms established by Regulation (EU) 2019/2033 of the
+European Parliament and of the Council (12)and Directive (EU) 2019/2034 of the European Parliament and of the
+Council (13)contains provisions concer ning the introduction of an ESG risk dimension in the Super visor y Review
+and Evaluation Process (‘SREP’) by compet ent author ities, and contains ESG risk disclosure requirements for
+inve stment firms, applicable from 26 December 2022 . On 6 July 2021 , the Commission also adopt ed a proposal
+for a Regulation of the European Parliament and of the Council on European green bonds, following up on the
+Action Plan on Financing Sustainable Gro wth.
+(5)Regulation (EU) 2019/2088 of the European Parliament and of the Council of 27 November 2019 on sustainability-related disclosures
+in the financial services secto r (OJ L 317, 9.12.2019, p. 1).
+(6)Regulation (EU) 2020/852 of the European Parliament and of the Council of 18 June 2020 on the establishment of a framewo rk to
+facilitate sustainable investment, and amending Regulation (EU) 2019/2088 (OJ L 198, 22.6.2020, p. 13).
+(7)Regulation (EU) 2019/2089 of the European Parliament and of the Council of 27 November 2019 amending Regulation (EU)
+2016/1011 as regar ds EU Climate Transition Benchmarks, EU Paris-aligned Benchma rks and sustainability-related disclosures for
+benc hmark s (OJ L 317, 9.12.2019, p. 17).
+(8)Commission Delegat ed Regulation (EU) 2020/1816 of 17 July 2020 supplementing Regulation (EU) 2016/1011 of the European
+Parliament and of the Council as regar ds the explanation in the benchmark statement of how environmental, social and govern ance
+factors are reflected in each benchm ark provided and published (OJ L 406, 3.12.2020, p. 1).
+(9)Commission Delegat ed Regulation (EU) 2020/1817 of 17 July 2020 supplementing Regulation (EU) 2016/1011 of the European

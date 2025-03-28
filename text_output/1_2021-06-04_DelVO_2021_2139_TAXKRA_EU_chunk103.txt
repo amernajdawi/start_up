@@ -1,0 +1,54 @@
+File Name: 1_2021-06-04_DelVO_2021_2139_TAXKRA_EU.pdf
+Converted on: 2025-03-28 03:20:30
+Original Size: 2.76 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 103 of 447
+--------------------------------------------------------------------------------
+
+(5) Pollution prevention and control  The activity complies with the criteria set out in Appendix C to this 
+Annex.
+Emissions are within or lower than the emission levels associated with the
+best available techniques (BAT-AEL) ranges set out in the latest relevant
+best available techniques (BAT) conclusions, including:
+(a) the Best Available Techniques Reference Document (BREF) for the
+manufacture of Large Volume Inorganic Chemicals - Ammonia,
+Acids and Fertilisers (  147  ); 
+(b) the best available techniques (BAT) conclusions for common waste
+water and waste gas treatment/management systems in the chemical
+sector (  148  ). 
+No significant cross-media effects occur.  
+(6) Protection and restoration of
+biodiversity and ecosystems  The activity complies with the criteria set out in Appendix D to this 
+Annex.  
+3.16.  Manufacture of nitric acid  
+Description of the activity  
+Manufacture of nitric acid.  
+The economic activities in this category could be associated with NACE code C20.15 in accordance with the
+statistical classification of economic activities established by Regulation (EC) No 1893/2006.  
+An economic activity in this category is a transitional activity as referred to in Article 10(2) of Regulation (EU)
+2020/852 where it complies with the technical screening criteria set out in this Section.  
+Technical screening criteria  
+Substantial contribution to climate change mitigation  
+GHG emissions (  149  ) from the manufacture of nitric acid are lower than 0,038 (  150  ) tCO  2 e per tonne of nitric 
+acid.  
+Do no significant harm (‘DNSH’)  
+(2) Climate change adaptation  The activity complies with the criteria set out in Appendix A to this 
+Annex.  
+(3) Sustainable use and protection of
+water and marine resources  The activity complies with the criteria set out in Appendix B to this 
+Annex.  
+(4) Transition to a circular economy  N/A  
+(5) Pollution prevention and control  The activity complies with the criteria set out in Appendix C to this 
+Annex.  
+_____________
+( 147  ) Best Available Techniques (BAT) Reference Document for the manufacture of Large Volume Inorganic Chemicals - Ammonia, 
+Acids and Fertilisers (version of 4.6.2021: https://eippcb.jrc.ec.europa.eu/sites/default/files/2019-11/lvic_aaf.pdf).
+( 148  ) Implementing Decision (EU) 2016/902. 
+( 149  ) Calculated in accordance with the Regulation (EU) 2019/331. 
+( 150  ) Reflecting the average value of the 10 % most efficient installations in 2016 and 2017 (t CO  2 equivalents/t) as set out in the 
+Annex to the Implementing Regulation (EU) 2021/447.EN  L 442/60 Official Journal of the European Union 9.12.2021
+
+--- Page 61 of 349 ---

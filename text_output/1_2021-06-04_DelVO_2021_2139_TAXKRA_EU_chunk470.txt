@@ -1,0 +1,53 @@
+File Name: 1_2021-06-04_DelVO_2021_2139_TAXKRA_EU.pdf
+Converted on: 2025-03-28 03:18:03
+Original Size: 2.76 MB
+Chunk Size: 500 tokens with 50 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 470 of 966
+--------------------------------------------------------------------------------
+
+(3) Sustainable use and protection of
+water and marine resources  The activity complies with the criteria set out in Appendix B to this 
+Annex.  
+(4) Transition to a circular economy  Peat extraction is minimised.  
+(5) Pollution prevention and control  The use of pesticides is minimised and alternative approaches or tech ­
+niques, which may include non-chemical alternatives to pesticides are
+favoured, in accordance with Directive 2009/128/EC, with exception of
+occasions where the use of pesticides is needed to control outbreaks of
+pest and diseases.
+The activity minimises the use of fertilisers and does not use manure. The
+activity complies with Regulation (EU) 2019/1009 or national rules on
+fertilisers or soil improvers for agricultural use.
+Well documented and verifiable measures are taken to avoid the use of
+active ingredients that are listed in Annex I, part A, of Regulation (EU)
+2019/1021 (  76 ), the Rotterdam Convention on the prior informed consent 
+procedure for certain hazardous chemicals and pesticides in international
+trade, the Minamata Convention on Mercury, the Montreal Protocol on
+Substances that Deplete the Ozone Layer, and of active ingredients that are
+listed as classification Ia (‘extremely hazardous’) or Ib (‘highly hazardous’)
+in the WHO recommended Classification of Pesticides by Hazard (  77 ). The 
+activity complies with the relevant national law on active ingredients.
+Pollution of water and soil is prevented and cleaning up measures are
+undertaken when pollution occurs.  
+(6) Protection and restoration of
+biodiversity and ecosystems  In areas designated by the national competent authority for conservation 
+or in habitats that are protected, the activity is in accordance with the
+conservation objectives for those areas.
+There is no conversion of habitats specifically sensitive to biodiversity loss
+or with high conservation value, or of areas set aside for the restoration of
+such habitats in accordance with national law.
+The plan referred to in point 1 (Restoration Plan) of this Section includes
+provisions for maintaining and possibly enhancing biodiversity in
+accordance with national and local provisions, including the following:
+(a) ensuring the good conservation status of habitat and species, main ­
+tenance of typical habitat species;
+(b) excluding the use or release of invasive species.  
+3.  MANUFACTURING  
+3.1.  Manufacture of renewable energy technologies  
+Description of the activity  
+Manufacture of renewable energy technologies where renewable energy is as defined in Article 2(1) of Directive
+(EU) 2018/2001.  
+The economic activities in this category could be associated with several NACE codes, in particular C25, C27, C28
+in accordance with the statistical classification of economic activities established by Regulation (EC) No 1893/2006.

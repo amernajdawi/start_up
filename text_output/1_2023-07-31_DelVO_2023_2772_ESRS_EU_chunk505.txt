@@ -1,0 +1,34 @@
+File Name: 1_2023-07-31_DelVO_2023_2772_ESRS_EU.pdf
+Converted on: 2025-03-28 03:18:14
+Original Size: 5.82 MB
+Chunk Size: 500 tokens with 50 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 505 of 686
+--------------------------------------------------------------------------------
+
+ELI: http://data.europa.eu/eli/reg_del/2023/2772/oj 212/284AR 14. When disclosing the alignment of its policies with the UN Guiding Principles on Business and Human Rights, the
+undertaking shall consider that the Guiding Principles refer to the International Bill of Rights, which consist of the
+Universal Declaration of Human Rights and the two Covenants that implement it, as well as the International
+Labour Organisation’s Declaration on Fundamental Rights and Principles at Work and the core conventions that
+underpin it, and may disclose its alignment with these instruments.
+AR 15. When disclosing how external-facing policies are embedded, the undertaking may, for example, consider internal policies of responsible sourcing, and alignment with other policies relevant to value chain workers, for example,
+regarding forced labour . With regard to supplier codes of conduct that the undertaking may have, the summary
+shall indicate whether they include provisions addressing the safety of workers, precarious work (for example, the
+use of workers on short-term or limited hours contracts, workers employed via third parties, sub-contracting to
+third parties or use of informal workers), human trafficking, the use of forced labour or child labour , and whether
+such provisions are fully in line with applicable ILO standards.
+AR 16. The undertaking may provide an illustration of the types of communication of its policies to those individuals,
+group of individuals or entities for whom they are relevant, either because they are expected to implement them
+(for example, the undertaking’s employees , contractors and suppliers), or because they have a direct interest in
+their implementation (for example, own workers, investors). It may disclose communication tools and channels
+(for example, flyers, newsletters, dedicated websites, social media, face to face interactions, workers’
+representatives), aimed at ensuring that the policy is accessible and that different audiences understand its
+implications. The undertaking may also explain how it identifies and removes potential barriers for dissemination,
+such as through translation into relevant languages or the use of graphic depictions.
+Disclosure Requirement S2-2 – Processes for engaging with value chain workers about impacts
+AR 17. When describing which function or role has operational responsibility for such engagement and/or ultimate
+accountability, the undertaking may disclose whether this is a dedicated role or function or part of a broader role
+or function, and whether any capacity building activities have been offered to support the staff to undertake
+engagement. If it cannot identify such a position or function, it may state that this is the case. This disclosure

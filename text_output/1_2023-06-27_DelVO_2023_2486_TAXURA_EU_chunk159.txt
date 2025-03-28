@@ -1,0 +1,50 @@
+File Name: 1_2023-06-27_DelVO_2023_2486_TAXURA_EU.pdf
+Converted on: 2025-03-28 03:20:36
+Original Size: 8.44 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 159 of 199
+--------------------------------------------------------------------------------
+
+ELI: http://data.europa.eu/eli/reg_del/2023/2486/oj 118/164(g) where applicable, a description of enhanced ecosystem services, such as carbon storage, water purification, flood
+protection, erosion prevention, pollination, recreational opportunities, and wider socio-economic benefits;
+(h) a monitoring scheme with specific and relevant indicators, allowing to measure progress towards achieving the
+conservation objectives and an identification of corrective measures as necessary;
+(i) the persons and organisations involved in the management or restoration of the area and, if relevant, the necessary
+collaborations or partnerships to put in place to achieve the conservation objectives;
+(j) the measures taken to ensure transparency about the conservation objectives, the conservation measures and the
+monitoring and its results;
+(k) the funding necessary for implementing the conservation measures, for the monitoring of the area and its audit.
+3.2. Where the management plan or the equivalent instrument does not contain all the elements specified in point 3.1, the
+information is provided by the operator of the activity.
+4.Audit
+4.1. The initial description of the conservation area and the management plan or equivalent instrument specified in points
+2 and 3 are verified by an independent third-party certifier at the start of the conservation activity.4.2. At the end of the duration of the management plan or equivalent instrument and at least every ten years, the
+achievement of the objectives set at the start of the management plan and the respect of the DNSH criteria are verified.
+The verification includes an updated detailed description of the ecological conditions of the area as specified in point 2, an
+evaluation of the effectiveness of the conservation measures, and of the achievement of the conservation objectives, an
+evaluation of an updated version of the management plan or equivalent instrument, and the recommendations for the
+next management plan or equivalent instrument.
+4.3. The verification in accordance with points 4.1 and 4.2 is carried out by either of the following:
+(a) the relevant national competent authorities;
+(b) an independent third-party certifier, at the request of national authorities or the operator of the activity.
+In order to reduce costs, audits may be performed together with any forest certification, land-use certification, biodiversity
+certification, climate certification or other audit.
+The independent third-party certifier may not have any conflict of interest with the owner or the funder and may not be
+involved in the development or operation of the activity.
+As a result of the verification, the certifier issues an audit report.
+5.Guarantee of permanence
+5.1. In accordance with national law, the area on which the activity takes place is covered by one of the following
+measures:
+(a) the area is classified as a protected area in line with the IUCN Protected Area Categories System (
+8), as a Natura 2000
+site under Directive 92/43/EEC, or as an Other Effective area-based Conservation Measure (OECM) (9), by national law
+or under an international convention to which the country is signatory and is effectively managed to prevent
+deterioration and enable the recovery of species and habitats or habitats of species;
+(8)See https://www.iucn.org/theme/protected-areas/about/protected-area-categories (version of 27.6.2023).
+(9)The definition of OECM and a guidance for its application is set out in Decision 14/8 of the UN Convention on Biological Diversity
+(version of 27.6.2023: https://www.cbd.int/doc/decisions/cop-14/cop-14-dec-08-en.pdf).OJ L, 21.11.2023 EN  
+
+--- Page 119 of 164 ---

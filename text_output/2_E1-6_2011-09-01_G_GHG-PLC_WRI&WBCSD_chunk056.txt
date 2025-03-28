@@ -1,0 +1,91 @@
+File Name: 2_E1-6_2011-09-01_G_GHG-PLC_WRI&WBCSD.pdf
+Converted on: 2025-03-28 03:20:53
+Original Size: 3.27 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 56 of 116
+--------------------------------------------------------------------------------
+
+[70]   Product Life Cycle Accounting and Reporting Standard
+guidanceon the common process in order to select an allocation
+method. When using assumptions, companies should
+assess the scenario uncertainty to determine how the
+assumptions may impact the inventory results. (See
+chapter 10 for more guidance on assessing uncertainty.)
+9.3.4  Choosing between physical  
+and economic allocation
+Step 3 in figure 9.2 states that if a physical relationship
+between the studied product, co-product, and the
+emissions and removals of a common process is not
+applicable or cannot be established, then companies
+should use economic or other relationships. Physical
+relationships cannot be established when the following
+conditions apply:
+•There is no data available on the physical relationship
+between the studied product, co-products, and the
+process emissions and removals (e.g., the process
+is operated by a supplier and that information is
+proprietary)
+•There are multiple co-products along with the studied
+product and no one common physical allocation factor
+is applicable (e.g., some outputs are measured in terms
+of energy and others in volume or mass)
+However, in many cases it may not be clear whether a
+physical relationship can be established, and companies may
+struggle to determine if an economic relationship is more
+applicable. In general, physical allocation is preferred when:
+•A physical relationship between the studied product
+and co-products can be established that reflects their
+relative emissions contributions
+•A change in the physical output of the studied product
+and co-products is correlated to a change in the
+common process’s emissions (e.g., if more co-product
+is produced more emissions occur)
+•There is a strong brand influence on the market value
+of the various co-products which does not reflect the
+relative emissions contribution of the outputs. (e.g., a
+process creates the same product with different brand
+names that therefore has different prices, but the
+relative emissions are the same)Economic allocation is preferred when:
+•The physical relationship cannot be established (as
+described above)
+•The co-products would not be produced using the
+common process without the market demand for the
+studied product and/or other valuable co-products
+(e.g., by-catch from lobster harvesting)
+•The co-products were a waste output that acquires
+value in the market place as a replacement for another
+material input (e.g., fly ash in cement production)
+•The physical relationship does not adequately reflect
+the relative emissions contributions
+EXAMPLE
+In the process of catching lobster, additional fish are often
+caught by default and sold as by-catch. By-catch is much
+less valuable than lobster, but in some cases can account
+for a substantial portion of the mass output of the catching
+process. Economic allocation is preferred in this case because
+the co-product (by-catch) would most likely not be caught
+in the same manner if the fisherman were not also catching
+lobster, and because a change in the physical output of
+products is not strongly correlated to a change in process
+emissions (i.e., depending on the day more or less by-catch
+and lobster are possible using the same amount of fuel).
+CO2 removals that occur upstream from a common
+process also need to be allocated when part of
+the material that removed the CO2 from the
+atmosphere becomes a co-product. In the example
+illustrating system expansion, black liquor contains
+lignin and other biogenic materials separated from
+the wood during pulping. A company needs to
+determine the amount of the original wood that
+is exiting the boundary as electricity, and then
+subtract the equivalent amount of removals from
+the material acquisition stage. This is also true when
+a material that contributed to removals is recycled
+into another product’s life cycle. Correctly allocating
+removals is important to avoid double counting
+among different products. Box [9.2] Allocating removals
+
+--- Page 73 of 148 ---

@@ -1,0 +1,94 @@
+File Name: 2_E1-6_2011-09-01_G_GHG-PLC_WRI&WBCSD.pdf
+Converted on: 2025-03-28 03:20:53
+Original Size: 3.27 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 61 of 116
+--------------------------------------------------------------------------------
+
+[75]
+CHAPTER 09 Allocation
+guidance9.3.8 Collecting recycling data
+To abide by the attributional approach of the standard,
+data used to determine the amount of recycled material
+output is based either on specific recycling data of a
+product, or on average recycling data for the product in
+the geographic location where the product is consumed
+(as defined by the use profile). Recycling data is subject to
+the same requirements and guidance given in chapter 8
+for data collection and quality.
+Companies using the closed loop approximation method
+should ensure that the data used to determine recycled
+material output excludes material where the inherent
+properties have changed. Where the only data available aggregates recycled materials, and it is known that some
+inherent property change occurs, companies should
+assume a percentage of property loss based on other
+available data. Examples of other available data include
+reduction in economic value or percentage loss of material
+property such as elasticity. Where it is not possible to
+disaggregate the data but some portion of the material
+properties are known to change, it should be clearly noted
+as a data quality limitation in the inventory report.
+Anvil Knitwear, Inc. performed a cradle-to-grave GHG
+inventory on two of their t-shirt lines: one that contains
+a pre-consumer recycled yarn input and the other a post-
+consumer recycled yarn input. The AnvilSustainable™
+t-shirt is made from a blend of transitional cotton and
+recycled polyester (from recycled plastic bottles). The
+AnvilRecycled® t-shirt is produced from yarn spun from
+recycled textile waste clippings from textile cut and sew
+operations. Additionally, clippings from the cut and sew
+operations of the AnvilRecycled® t-shirt are sold as a
+recycled material output.
+The AnvilSustainableTM t-shirt contains 50 percent
+post-consumer Polyethylene terephthalate (PET) from
+recycled plastic bottles and after use is assumed to
+be disposed of in a conventional landfill. Because no
+recycling occurs at the end-of-life, Anvil used the recycled
+content method to account for the recycled PET input.
+The attributable processes for the material acquisition
+and preprocessing of recycled PET included the curbside
+collection, sorting, and flaking of PET bottles.
+However, accounting for recycling in the AnvilRecycled®
+t-shirt was more challenging because of the pre-consumer
+recycled yarn input and output. In previous assessments,
+Anvil took a conservative approach of assuming the
+pre-consumer yarn input had the same emission factor for material acquisition and preprocessing as virgin
+yarn. However, with the additional guidance provided
+by this standard and during the road testing process,
+Anvil determined that the recycled content method was
+also appropriate for the AnvilRecycled® t-shirt. Anvil
+performed the recycled content method by including
+the transport, cleaning, and production of the yarn
+made from recycled textile clippings as the attributable
+processes for the acquisition and preprocessing of the
+yarn. They also assumed no attributable processes for the
+end-of-life processing of the sold clipping from their cut
+and sew operations because they are used as a recycled
+input into other product life cycles. The use of the
+recycled content method reduced the GHG inventory of
+the AnvilRecycled® t-shirt
+significantly compared to
+the inventory conducted
+assuming a virgin yarn
+emission factor. The
+additional specificity
+provided in this standard
+gave Anvil confidence
+that they were using  
+an established and
+accepted recycling
+allocation method. Anvil Knitwear
+the recycled content
+method reduced the
+GHG inventory of
+the AnvilRecycled®
+t-shirt significantly
+compared to the
+inventory conducted
+assuming a virgin
+yarn emission factor.
+
+--- Page 78 of 148 ---

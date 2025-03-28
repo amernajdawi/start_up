@@ -1,0 +1,91 @@
+File Name: 2_E1-6_2006-01-01_GHG-LuLu_WRI&WBCSD.pdf
+Converted on: 2025-03-28 01:56:20
+Original Size: 6.41 MB
+Chunk Size: 400 tokens with 50 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 118 of 118
+--------------------------------------------------------------------------------
+
+Contri butors
+Worl dResour cesInstituteAuthors
+SuzieGreenhalgh
+FlorenceDaviet
+EmilyWeninger
+Additional Auth ors
+We’dliketoacknowledgeMarkJohnstonandMonique
+WismerfromtheSaskatchewanResearchCouncilfortheir
+effortincollectingthedata,developing,andwritingthe
+afforestationexamplefoundinpartIII.Thisexamplehelped
+furtheranumberoftheconceptsputforthintheLULUCF
+Guidanceandwillundoubtedlybenefitthereaderincompre -
+hendingandapplyingthedocument.
+We’dalsoliketoacknowledgePennyBaalmanatDetNorske
+Veritasnotonlyforhercontinuoussupportinwritingand
+reviewingtheguidance,butalsoforcreatingAnnexC:
+AdditionalQualityAssuranceandQualityControlGuidance.
+Wegreatlyappreciatehercontribution.CoreContributors
+Thisteamwasinstitutedinthespringof2005andpartici-
+patedinthedevelopmentandrevisionofthefinaldocument.
+PeterGraham,CanadianForestService
+WangChunfeng,ChineseAcademyofForestry
+PennyBaalman,DetNorskeVeritas(DNV)
+JohnScotcher,ForestLoreConsulting
+NeetaHooda,IndianCouncilofForestryResearchand
+Education
+AdamCostanza,InternationalPaper
+NeilBird,JoanneumResearch
+ReidMiner,NationalCouncilforAirandStream
+Improvement,Inc.
+RobFowler,NewSouthWalesGHGAbatementScheme
+MichellePassero,PacificForestTrust(PFT)
+JohnNickerson,PFT
+MarkJohnston,SaskatchewanResearchCouncil(SRC)
+MoniqueWismer,SRC
+KenAndrasko,USEnvironmentalProtectionAgency
+BobProlman,WeyerhaeuserCompany
+PankajBhatia,WorldResourcesInstitute(WRI)
+DerikBroekhoff,WRI
+TarynFransen,WRI
+AboutWRI
+WorldResourcesInstituteisanenvironmentalresearch
+andpolicyorganizationthatcreatessolutionstoprotect
+theEarthandimprovepeople'slives.
+Ourworkisconcentratedonachievingprogresstoward
+fourkeygoals:
+•protectingtheEarth’slivingsystems
+•increasingaccesstoinformation
+•creatingsustainableenterpriseandopportunity
+•reversingglobalwarming.
+Ourstrengthisourabilitytocatalyzepermanentchange
+throughpartnershipsthatimplementinnovative,incentive-
+basedsolutionsthatarefoundeduponhard,objectivedata.
+Weknowthatharnessingthepowerofmarketswillensure
+real,notcosmetic,change.
+Weareanindependentandnon-partisanorganization.Yet,
+weworkcloselywithgovernments,theprivatesector,and
+civilsocietygroupsaroundtheworld,becausethatguaran -
+teesownershipofsolutionsandyieldsfargreaterimpact
+thananyotherwayofoperating.
+Design:AlstonTaggart,StudioRed
+
+--- Page 100 of 100 ---
+
+The Greenhous eGas Protocol
+TheLandUse,Land-UseChange,andForestry
+GuidanceforGHGProjectAcco unting
+TheLandUse,Land -UseChange,andForestryGuidance forGHGProjectAccounting W R I
+WORLD
+RESOURCES
+INSTITUTE
+WORLD
+RESOURCE S
+INSTITUTE
+10GStreet,NE(Suite800)
+Washington,DC20002
+USA
+Tel:(1202)7297600
+Fax:(1202)7297610
+Web:www.wri.org
+ISBN1-56973-631-6

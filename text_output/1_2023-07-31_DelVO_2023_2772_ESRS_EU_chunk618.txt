@@ -1,0 +1,42 @@
+File Name: 1_2023-07-31_DelVO_2023_2772_ESRS_EU.pdf
+Converted on: 2025-03-28 03:18:14
+Original Size: 5.82 MB
+Chunk Size: 500 tokens with 50 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 618 of 686
+--------------------------------------------------------------------------------
+
+ELI: http://data.europa.eu/eli/reg_del/2023/2772/oj 261/284ii. “available techniques” means those developed on a scale which allows
+implementation in the relevant industrial sector, under economically
+and technically viable conditions, taking into consideration the costs
+and advantages, whether or not the techniques are used or produced
+inside the Member State in question, as long as they are reasonably
+accessible to the operator; and
+iii. “best” means most effective in achieving a high general level of protection of the environment as a whole.
+Biodiversity loss The reduction of any aspect of biological diversity (i.e., diversity at the
+genetic, species and ecosystem levels) in a particular area through death
+(including extinction), destruction or physicalmanual removal; it can refer to many scales, from global extinctions to population extinctions, resulting
+in decreased total diversity at the same scale.
+Biodiversity or biological diversity The variability among living organisms from all sources including terrestrial, marine and other aquatic ecosystems and the ecological complexes of which
+they are a part. This includes variation in genetic, phenotypic, phylogenetic, and functional attributes, as well as changes in abundance and distribution
+over time and space within and among species, biological communities and
+ecosystems .
+Biodiversity sensitive area Natura 2000 network of protected areas, UNESCO World Heritage sites and
+Key Biodiversity Areas (‘KBAs’), as well as other protected areas, as referred
+to in Appendix D of Annex II to Commission Delegated Regulation (EU) 2021/2139 (
+8).
+Biosphere integrity or ecological integrity The ability of an ecosystem to support and maintain ecological processes
+and a diverse community of organisms.
+Blue economy The blue economy encompasses all industries and sectors related to oceans,
+seas and coasts, whether they are based in the marine environment (e.g.,
+shipping, fisheries, energy generation) or on land (e.g. ports, shipyards,
+land-based aquaculture and algae production, coastal tourism).
+BREF or EU Best Available Techniques reference documentsA document resulting from the exchange of information organised pursuant to Article 13 of Directive 2010/75/EU of the European Parliament and of
+the Council (
+9)on industrial emissions, drawn up for defined activities and
+describing, in particular, applied techniques, present emissions and
+consumption levels, techniques considered for the determination of best
+available techniques as well as BAT conclusions and any emerging
+techniques, giving special consideration to the criteria listed in Annex III of Directive 2010/75/EU.

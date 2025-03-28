@@ -1,0 +1,65 @@
+File Name: 2_E1-6_2011-09-01_G_GHG-PLC_WRI&WBCSD.pdf
+Converted on: 2025-03-28 03:20:53
+Original Size: 3.27 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 97 of 116
+--------------------------------------------------------------------------------
+
+--- Page 124 of 148 ---
+
+[122]   Product Life Cycle Accounting and Reporting Standard
+Box [B.2]  Estimating land-use change impacts without specific data 
+Source: FAO, FAOSTAT. Available from http://faostat.fao.org/site/567/DesktopDefault.aspx?PageID=567#ancor , 2011. Table [B.1]  Area harvested for crops grown in Malaysia in 2008 that contribute more than 1 percent 
+individually to total harvested hectares (ha). In this example, the following steps were taken to
+determine whether land-use change impacts are
+attributable to palm oil and rice, and, if so, to produce
+the land-use impact estimate.  The Food and Agriculture 
+Organization’s (FAO) statistical database is used to make
+the estimations, and both products are assumed to come
+from Malaysia.  (See FAO website for more information: 
+http://faostat.fao.org/site/567/default.aspx#ancor .)
+1.    Determine the most-planted crops  
+in the assumed location
+The first step is to determine the country profile for
+the most-planted crops.   Because many agricultural 
+products are harvested in Malaysia, only crops that on
+their own contribute more than 1 percent of the countries’
+harvested area are considered. If the studied crop is not
+within the top 1 percent of area harvested in the location,
+this is an indication that the assumed location is not
+appropriate. Companies should assume a location where
+a large amount, if not the largest amount, of the studied
+product is harvested from each year.  Table B.1 shows these statistics, where the crops not shown (because they 
+are less than 1 percent individually) contribute 4 percent
+to the total acreage.
+2.    Collect historical land-use data  
+for the studied product.
+The second step is to collect historical land-use data for
+the studied products to determine whether their land
+use has increased or decreased over the assessment
+period (20 years in this example). Because statistical
+land-use data are often published a few years behind
+schedule (e.g., 2008 data published in 2010), companies
+can use the data as long as the unknown period does not
+exceed three years. If the unknown period does exceed
+three years, companies should either supplement the
+data with more recent statistics or consider another
+method to estimate land-use change impacts.  
+In figure B.3, the total change in the area harvested
+for rice paddy over the 20-year period remains fairly
+steady (e.g., does not exceed a 1-percent increase). It
+can be assumed that land-use change did not occur in
+Crop Area harvested 2008 [ha] Percent total area harvested
+Cassava 41000 1%
+Coconuts 174000 3%
+Coffee, green 50000 1%
+Natural rubber 1247000 19%
+Oil palm fruit 3900000 60%
+Oilseeds 150000 2%
+Rice, paddy 667656 10%
+Total 6478175 100%
+
+--- Page 125 of 148 ---

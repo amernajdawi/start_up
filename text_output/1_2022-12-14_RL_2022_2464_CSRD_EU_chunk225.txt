@@ -1,0 +1,30 @@
+File Name: 1_2022-12-14_RL_2022_2464_CSRD_EU.pdf
+Converted on: 2025-03-28 01:55:36
+Original Size: 1.12 MB
+Chunk Size: 400 tokens with 50 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 225 of 237
+--------------------------------------------------------------------------------
+
+‘The power to adopt delega ted acts refer red to in Article 26a(2) shall be confe rred on the Commission for an
+indetermi nate period of time.’;
+(b) paragraph 3 is replaced by the followi ng:
+‘3. The delegatio n of power refer red to in Article 26(3), Article 26a(3), Article 45(6), Article 46(2) and Article
+47(3) may be revok ed at any time by the European Parliament or by the Council. A decision to revok e shall put an
+end to the delegatio n of the power specified in that decision. It shall take effect the day follo wing the publication
+of the decision in the Official Journal of the European Union or at a later date specifi ed therein. It shall not affect the
+validity of any delegat ed acts already in force.’;
+(c) paragraph 5 is replaced by the followi ng:
+‘5. A delegat ed act adopt ed pursuant to Article 26(3), Article 26a(3), Article 45(6), Article 46(2) or Article
+47(3) shall enter into force only if no objection has been expressed either by the European Parliament or the
+Council within a period of four months of notifi cation of that act to the European Parliament and the Council or
+if, before the expir y of that period, the European Parliament and the Council have both informed the Commission
+that they will not object. That period shall be extended by two months at the initiative of the European Parliament
+or of the Council.’.
+Article 4
+Amendments to Regulation (EU) No 537/2014
+Regulation (EU) No 537/2014 is amended as follows:
+(1) in Article 4(2), the second subparagraph is replaced by the follo wing:
+‘For the purposes of the limits specified in the first subparagraph of this paragraph, the assurance of sustainability

@@ -1,0 +1,34 @@
+File Name: 1_2023-07-31_DelVO_2023_2772_ESRS_EU.pdf
+Converted on: 2025-03-28 03:18:14
+Original Size: 5.82 MB
+Chunk Size: 500 tokens with 50 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 508 of 686
+--------------------------------------------------------------------------------
+
+ELI: http://data.europa.eu/eli/reg_del/2023/2772/oj 213/284AR 20. To illustrate how the perspectives of value chain workers have informed specific decisions or activities of the
+undertaking, the undertaking may provide examples from the current reporting period.
+Disclosure Requirement S2-3 – Processes to remediate negative impacts and channels for value chain workers to raise
+concerns
+AR 21. In fulfilling the requirements set out by Disclosure Requirement ESRS S2-3, the undertaking may be guided by the
+content of the UN Guiding Principles on Business and Human Rights and the OECD Guidelines for Multinational
+Enterprises focused on remediation and grievance mechanisms.
+AR 22. Channels for raising concerns or needs include grievance mechanisms, hotlines, trade unions (where workers are
+unionised), dialogue processes or other means through which value chain workers or their legitimate
+representatives can raise concerns about impacts or explain needs that they would like the undertaking to
+address. This could include both channels provided by the undertaking directly and channels provided by the
+entities where the value chain workers are working, in addition to any other mechanisms the undertaking may use to gain insight into the management of impacts on workers, such as compliance audits. Where the undertaking is
+relying solely on information about the existence of such channels provided by its business relationships to
+answer this requirement, it may state that.
+AR 23. To provide greater insight into the information covered in Disclosure Requirement ESRS S2-3, the undertaking may explain whether and how value chain workers that may be affected are able to access channels at the level of
+the undertaking they are employed by, or contracted to work for, in relation to each material impact.
+AR 24. Third party mechanisms could include those operated by the government, NGOs, industry associations and other
+collaborative initiatives. The undertaking may disclose whether these are accessible to all workers who may be
+potentially or actually materially impacted by the undertaking, or individuals or organisations acting on their
+behalf or who are otherwise in a position to be aware of negative impacts.
+AR 25. In relation to the protection of individuals that use the mechanisms against the retaliation, the undertaking may
+describe whether it treats grievances confidentially and with respect to the rights of privacy and data protection;
+and whether the mechanisms allow for workers to use them anonymously (for example, through representation by a third party).
+AR 26. In disclosing whether and how the undertaking knows that value chain workers are aware of and trust any of these

@@ -1,0 +1,57 @@
+File Name: 2_E1-6_2011-09-01_G_GHG-PLC_WRI&WBCSD.pdf
+Converted on: 2025-03-28 03:20:53
+Original Size: 3.27 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 99 of 116
+--------------------------------------------------------------------------------
+
+[124]   Product Life Cycle Accounting and Reporting Standard
+Table [B.2] Top crops and the difference in areas harvested (ha) from 1988 to 2010 in Malaysia
+Source: FAO, FAOSTAT. Available from http://faostat.fao.org/site/567/DesktopDefault.aspx?PageID=567#ancor , 2011. Product Area harvested  
+1988 [ha]Area harvested  
+2008 [ha]Difference [ha]
+Coconuts 327,812 174,000 -153,812
+Natural rubber 1,660,000 1,247,000 -413,000
+Oil palm fruit 1,530,905 3,900,000 2,369,095
+Rice, paddy 671,755 667,656 -4,099
+Others in sum 566,686 489,519 -77,167
+Total growth 2,369,095
+Total decrease 648,078
+% growth that can be  
+covered by crop to  
+crop conversion27.4
+4.  Determine type of land converted
+Malaysia has a tropical climate, and according to statistics
+the majority of land is forest (66 percent) or cropland  
+(31 percent).13 Therefore, it should be assumed that
+the land-use change occurred from tropical forest to
+cropland to meet the increased demand for palm oil fruit.
+Companies can use the IPCC default values to determine
+what the carbon stock change associated with this land-
+use change would be. The company also needs to assume
+what the land-use change practices would typically be
+when forest land is converted to cropland in Malaysia –
+for example, whether the forest biomass is burned during
+conversion and what fertilizers are applied to prepare the
+land for crop production.
+In some cases identifying the type of land converted may
+not be as straightforward. In such cases, companies should perform a scenario uncertainty analysis to show
+the impact of different assumptions. For example, if a
+crop is being produced in a country with tropical forest
+land and grassland that could be converted, companies
+should assume the tropical forest is being converted and
+use grassland conversion for an uncertainty calculation.
+5.  Distribute land-use change impacts 
+Unless the default data collected in step 4 is on an annual
+basis, the company needs to distribute the land-use
+change impacts across the amortization period for the
+product. Assuming palm oil is harvested on an annual
+basis, 1/20th of the land-use change impacts are applied
+to a yearly harvest of palm oil. This value is further
+normalized to the reference flow basis for inclusion in the
+inventory results. Box [B.2]    Estimating land-use change impacts without specific data (continued)
+
+--- Page 127 of 148 ---

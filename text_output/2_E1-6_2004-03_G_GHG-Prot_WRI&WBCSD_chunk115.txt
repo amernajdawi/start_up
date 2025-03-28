@@ -1,0 +1,20 @@
+File Name: 2_E1-6_2004-03_G_GHG-Prot_WRI&WBCSD.pdf
+Converted on: 2025-03-28 03:18:16
+Original Size: 3.51 MB
+Chunk Size: 500 tokens with 50 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 115 of 225
+--------------------------------------------------------------------------------
+
+with data suppliers to identify specific opportunities to improve quality of the data and methods used.
+Providing valuable information to reviewers, verifiers,
+and managers for setting priorities for investmentsinto improving data sources and methodologies.
+The
+GHG Protocol Corporate Standard has developed a
+supplementary guidance document on uncertainty assess-ments (“Guidance on uncertainty assessment in GHGinventories and calculating statistical parameter uncer-tainty”) along with an uncertainty calculation tool, bothof which are available on the GHG Protocol website. Theguidance document describes how to use the calculationtool in aggregating uncertainties. It also discusses inmore depth different types of uncertainties, the limita-tions of quantitative uncertainty assessment, and howuncertainty estimates should be properly interpreted.
+Additional guidance and information on assessing
+uncertainty—including optional approaches to devel-oping quantitative uncertainty estimates and eliciting
+judgments from experts— can also be found in EPA'sEmissions Inventory Improvement Program, Volume VI:Quality Assurance/Quality Control (1999) and in chapter 6 of the IPCC’s Good Practice Guidance (2000a).GUIDANCEManaging Inventory Quality
+CHAPTER 7 56

@@ -1,0 +1,50 @@
+File Name: 1_2023-07-31_DelVO_2023_2772_ESRS_EU.pdf
+Converted on: 2025-03-28 03:20:41
+Original Size: 5.82 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 128 of 284
+--------------------------------------------------------------------------------
+
+ELI: http://data.europa.eu/eli/reg_del/2023/2772/oj 130/284(c) identify opportunities categorised by:
+i. resource efficiency: e.g., transition to more efficient services and processes requiring less water and marine
+resources;
+ii. markets: e.g., development of less resource-intense products and services, diversification of business activities;
+iii. financing: e.g., access to green funds, bonds or loans;
+iv. resilience: e.g., diversification of marine or water resources and business activities (e.g., starting a new
+business unit on ecosystem restoration), investing in green infrastructures, nature-based solutions,
+adopting recycling and circularity mechanisms that reduce the dependencies on water or marine
+resources; and
+v. reputation: positive stakeholder engagement as a result of a proactive stance on managing nature-related
+risks (e.g., leading to preferred partner status).
+AR 14. The undertaking may rely on primary, secondary or modelled data collection or other relevant approaches to assess material impacts, dependencies, risks and opportunities, including Commission
+Recommendation 2021/2279 on the use of the Environmental Footprint methods to measure and communicate the life cycle environmental performance of products and organisations (Annex I – Product Environmental
+Footprint; Annex III – Organisation Environmental Footprint).
+AR 15. When providing information on the outcome of the materiality assessment, the undertaking shall consider:
+(a) a list of geographical areas where water is a material issue for the undertaking’s own operations and its
+upstream and downstream value chain;
+(b) a list of marine resources-related commodities used by the undertaking which are material to the good
+environmental status of marine waters as well as for the protection of marine resources; and
+(c) a list of sectors or segments associated with water and marine resources material impacts, risks and
+opportunities.
+Disclosure Requirement E3-1 – Policies related to water and marine resources
+AR 16. The policies described under this Disclosure Requirement may be integrated in broader environmental or
+sustainability policies covering different subtopics.
+AR 17. When disclosing information under paragraph 9, the undertaking may disclose whether its policies :
+(a) prevent further deterioration and protect and enhance the status of water bodies and aquatic ecosystems;
+(b) promote sustainable water use based on a long-term protection of available water resources;
+(c) aim at enhanced protection and improvement of the aquatic environment;
+(d) promote a good environmental status of marine water; and
+(e) promote reduction of water withdrawals and water discharges.
+AR 18. The undertaking may also disclose information about policies which:
+(a) contribute to good ecological and chemical quality of surface water bodies and good chemical quality and
+quantity of groundwater bodies, in order to protect human health, water supply, natural ecosystems and
+biodiversity, the good environmental status of marine waters and the protection of the resource base upon
+which marine related activities depend;
+(b) minimise material impacts and risks and implement mitigation measures that aim to maintain the value and
+functionality of priority services and to increase resource efficiency on own operations; and
+(c) avoid impacts on affected communities.OJ L, 22.12.2023 EN  
+
+--- Page 131 of 284 ---

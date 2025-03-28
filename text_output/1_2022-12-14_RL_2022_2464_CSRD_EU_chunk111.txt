@@ -1,0 +1,53 @@
+File Name: 1_2022-12-14_RL_2022_2464_CSRD_EU.pdf
+Converted on: 2025-03-28 03:20:33
+Original Size: 1.12 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 111 of 140
+--------------------------------------------------------------------------------
+
+The Commission shall request the opinion of the European Secur ities and Mark ets Author ity (ESMA), the
+European Banking Author ity (EBA) and the European Insurance and Occupational Pensions Authority (EIOP A)
+on the technical advice provided by EFRA G, in particular with regar d to its consiste ncy with Regulation (EU)
+2019/2088 and the delegat ed acts adop ted pursuant to that Regulation. ESMA, EBA and EIOP A shall provid e
+their opinions within two months of the date of receipt of the request from the Commission.
+The Commission shall also consult the European Environment Agen cy, the European Union Agen cy for
+Fundamental Rights, the European Central Bank , the Committ ee of European Aud iting Oversight Bodies and the
+Platf orm on Sustainable Finance established pursuant to Article 20 of Regulation (EU) 2020/852 on the
+technical advice provid ed by EFRA G prior to the adop tion of delegat ed acts referred to in Articles 29b and 29c
+of this Directive. If any of those bodies decide to submit an opinion, they shall do so within two months of the
+date of being consult ed by the Commission.’;
+(c) paragraph 5 is replaced by the followi ng:
+‘5. A delegat ed act adopt ed pursuant to Article 1(2), Article 3(13), Articles 29b, 29c or 40b, or Article 46(2)
+shall enter into force only if no objection has been expressed either by the European Parliament or the Council
+within a period of two months of notifi cation of that act to the European Parliament and the Council or if,
+before the expir y of that period, the European Parliament and the Council have both informed the Commission
+that they will not object. That period shall be extende d by two months at the initiative of the European
+Parliament or the Council.’.
+Article 2
+Amendments to Directiv e 2004/109/EC
+Directive 2004/109/EC is amended as follows:
+(1) in Article 2(1) the follo wing point is added:
+‘(r) “sustainability repor ting” means sustainability repor ting as defined in point (18) of Article 2 of Directive
+2013/34/EU of the European Parliament and of the Council (*).
+_____________
+(*) Directive 2013/34/EU of the European Parliament and of the Council of 26 June 2013 on the annual financia l
+statements, consolidat ed financia l state ments and related repor ts of certain types of under takings, amending
+Directive 2006/43/EC of the European Parliament and of the Council and repealing Council Directives
+78/660/EEC and 83/349/EEC (OJ L 182, 29.6.2013, p. 19).’;
+(2) Article 4 is amended as follows:
+(a) in paragraph 2, point (c) is replaced by the follo wing:
+‘(c) state ments made by the persons responsible within the issuer , whose names and functions shall be clearly
+indicated , to the effect that, to the best of their knowledg e, the financia l state ments prepared in accordance
+with the applicable set of accounting standards give a true and fair view of the assets, liabilities, financia l
+position and prof it or loss of the issuer and the under takings included in the consolidation taken as a whole
+and that the manage ment repor t includes a fair review of the development and performa nce of the business
+and the position of the issuer and the under takings included in the consolidation taken as a whole, together
+with a descr iption of the principal risks and uncer tainties that they face and, where appropr iate, that it is
+prepared in accordance with sustainability repor ting standards referred to in Article 29b of Directive
+2013/34/EU and with the specifications adopt ed pursuant to Article 8(4) of Regulation (EU) 2020/852 of the
+European Parliament and of the Council (*).
+_____________
+(*) Regulation (EU) 2020/852 of the European Parliament and of the Council of 18 June 2020 on the

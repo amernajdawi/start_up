@@ -1,0 +1,69 @@
+File Name: 2_E1-6_2011-09-01_G_GHG-PLC_WRI&WBCSD.pdf
+Converted on: 2025-03-28 03:18:25
+Original Size: 3.27 MB
+Chunk Size: 500 tokens with 50 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 200 of 226
+--------------------------------------------------------------------------------
+
+[126]   Product Life Cycle Accounting and Reporting Standard
+A data management plan documents the product inventory process and the
+internal quality assurance and quality control (QA/QC) procedures in place
+to enable the preparation of the inventory from its inception through to final
+reporting. It is a valuable tool to manage data and track progress of a product inventory
+over time, and can also be useful as an assurance readiness measure since it contains
+much of the data needed to perform assurance.        
+This appendix provides guidance to help companies
+create and maintain an effective data management plan.
+Companies may already have similar procedures in place
+for other data collection efforts, such as meeting ISO
+standards or corporate GHG accounting requirements.
+Where possible, these processes should be aligned to
+reduce data management burdens.
+C.1   Overview of the data  
+management plan
+The quality control portion of the data management
+plan outlines a system of routine technical activities
+to determine and control the quality of the product
+inventory data and the data management processes.
+The purpose is to ensure that the product inventory
+does not contain incorrect statements by identifying
+and reducing errors and omissions; providing routine
+checks to maximize consistency in the accounting
+process; and facilitating internal and external inventory
+review and assurance.
+The quality assurance portion of the data management
+plan involves peer review and audits to assess the quality
+of the inventory. Table C.2 includes recommended quality
+assurance and control procedures. Peer review involves
+reviewing the documentation of the product accounting
+methodology and results, but typically does not rigorously
+review the data used or the references. This review aims
+to reduce or eliminate any inherent error or bias in the
+process used to develop the inventory and assess the
+effectiveness of the internal quality control procedures. The review evaluates whether the inventory complies
+with the quality control specifications outlined in the data
+management plan. Peer reviews and audits should be
+conducted by someone not involved in the development
+of the product inventory to reduce bias. Establishing data
+management plans is helpful in the product inventory
+assurance process and they should be made available to
+assurance providers (whether internal or external).
+At a minimum the data management plans should contain
+the following items:
+•Description of the studied product, unit of analysis,
+and reference flow
+•Information on the entity(ies) or person(s) responsible
+for measurement and data collection procedures
+•All information that describes the product’s inventory
+boundary
+•Criteria used to determine when a product inventory is
+re-evaluated
+•Data collection procedures
+•Data sources, including activity data, emission factors
+and other data,  and the results of any data quality 
+assessment performed
+•Calculation methodologies, including unit conversions
+and data aggregation

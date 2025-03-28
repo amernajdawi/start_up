@@ -1,0 +1,47 @@
+File Name: 1_2023-06-27_DelVO_2023_2486_TAXURA_EU.pdf
+Converted on: 2025-03-28 03:20:36
+Original Size: 8.44 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 11 of 199
+--------------------------------------------------------------------------------
+
+ELI: http://data.europa.eu/eli/reg_del/2023/2486/oj 5/164(16) Construction and demolition is responsible for 37 % of waste in the Union (15). Ensuring that the materials used in
+the construction and maintenance process of buildings and other civil engineering objects come mainly from
+re-used or recycled (secondary raw) materials; and are in turn prepared for re-use or recycling when the built asset is
+demolished, can therefore play an important role in the transition to a circular economy. Technical screening criteria
+therefore should be laid down for the construction of new buildings, renovation of existing buildings, demolition or wrecking of buildings and other structures, maintenance of roads and motorways and for the use of concrete in civil
+engineering projects. Considerations of the circularity of the materials and the built asset need to be taken into
+account in the design phase, up until the dismantling phase. The technical screening criteria should therefore follow the principles of circular design and production of the built asset, as well as a circular use of materials used to
+produce that asset.
+(17) A whole new range of sustainable services, product-as-a-service business models and digital solutions brings about a
+better quality of life, innovative jobs and upgraded knowledge and skills. In line with the Communication ‘A new
+Circular Economy Action Plan – For a cleaner and more competitive Europe’, circular economy provides high-
+quality, functional and safe products, which are efficient and affordable, last longer and are designed for re-use,
+repair and high-quality recycling. The technical screening criteria for determining the conditions under which innovative sustainable services qualify as contributing substantially to the transition to a circular economy should
+therefore be laid down for activities that contribute to prolonging the life of products.
+(18) Digital solutions, including the use of digital product passports, can provide real-time data about an item’s location,
+condition, and availability, and increase the traceability of materials and that way enhance value retention in every design, manufacturing and consumer decision. That in turn enables economic actors to move to circular business
+models, including product-as-a-service business model, ultimately decoupling economic activities from the use of
+natural resources and improving an economic activity’s environmental impacts. Technical screening criteria should
+therefore be established for new digital solutions that can improve the transparency and efficiency of environmental
+monitoring and regulatory enforcement, including decision-making within integrated water resources management.
+(19) The technical screening criteria for determining under which conditions an economic activity qualifies as
+contributing substantially to pollution prevention and control should reflect the need to eliminate pollution in air,
+water, soil, living organisms and food resources. Pollution can cause illnesses and in consequence may lead to
+premature deaths. Its most harmful impacts on human health are typically borne by the most vulnerable groups (
+16).
+Pollution also threatens biodiversity and contributes to the mass extinction of species. As outlined in the
+Communication from the Commission of 12 May 2021, Pathway to a Healthy Planet for All EU Action Plan:
+‘Towards Zero Pollution for Air, Water and Soil’ (17), the economic benefits of fighting pollution are substantial and
+the benefits for society far outweigh the required costs.
+(20) Following the ambition of the Communication from the Commission of 14 October 2020 ‘Chemicals Strategy for
+Sustainability Towards a Toxic-Free Environment’ (18), to help to prevent and control pollution it is particularly
+important to progressively phase out the most harmful substances from products for consumer or professional use
+except when their use has been proven to be essential for society and to substitute or minimise the production and
+use of substances of concern, as far as possible.
+(15)Eurostat Statistics Explained database, presenting data collected in accordance with Regulation (EC) No 2150/2002 of the European
+Parliament and of the Council of 25 November 2002 on waste statistics (OJ L 332, 9.12.2002, p. 1).
+(16)European Environmental Agency Report No 22/2018, Unequal exposure and unequal impacts: social vulnerability to air pollution,

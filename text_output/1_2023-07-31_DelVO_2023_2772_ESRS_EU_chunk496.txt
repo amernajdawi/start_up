@@ -1,0 +1,40 @@
+File Name: 1_2023-07-31_DelVO_2023_2772_ESRS_EU.pdf
+Converted on: 2025-03-28 03:18:14
+Original Size: 5.82 MB
+Chunk Size: 500 tokens with 50 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 496 of 686
+--------------------------------------------------------------------------------
+
+ELI: http://data.europa.eu/eli/reg_del/2023/2772/oj 209/28434. In relation to material risks and opportunities, the undertaking shall describe:
+(a) what action is planned or underway to mitigate material risks for the undertaking arising from its impacts and
+dependencies on value chain workers and how it tracks effectiveness in practice; and
+(b) what action is planned or underway to pursue material opportunities for the undertaking in relation to value chain workers.
+35. The undertaking shall disclose whether and how it takes action to avoid causing or contributing to material negative
+impacts on value chain workers through its own practices, including, where relevant, in relation to procurement,
+sales and data use. This may include disclosing what approach is taken when tensions arise between the prevention
+or mitigation of material negative impacts and other business pressures.
+36. The undertaking shall also disclose whether severe human rights issues and incidents connected to its upstream and
+downstream value chain have been reported and, if applicable, disclose these (
+111).
+37. When disclosing the information required under paragraph 32 (c), the undertaking shall consider ESRS 2 (see ESRS 2
+MDR-T Tracking effectiveness of policies and actions through targets) if it evaluates the effectiveness of an action by
+setting a target.
+38. The undertaking shall disclose what resources are allocated to the management of its material impacts, with
+information that enables users to gain an understanding of how the material impacts are managed.
+Metrics and targets
+Disclosure Requirement S2-5 – Targets related to managing material negative impacts, advancing positive impacts, and
+managing material risks and opportunities
+39. The undertaking shall disclose the time-bound and outcome-oriented targets it may have set related to:
+(a) reducing negative impacts on value chain workers; and/or
+(b) advancing positive impacts on value chain workers; and/or
+(c) managing material risks and opportunities related to value chain workers.
+40. The objective of this Disclosure Requirement is to enable an understanding of the extent to which the undertaking is
+using time-bound and outcome-oriented targets to drive and measure its progress in addressing material negative
+impacts, and/or advancing positive impacts on value chain workers, and/or in managing material risks and
+opportunities related to value chain workers.
+41. The summarised description of the targets to manage its material impacts, risks and opportunities related to value
+chain workers shall contain the information requirements defined in ESRS 2 MDR-T.
+42. The undertaking shall disclose the process for setting the targets, including whether and how the undertaking

@@ -1,0 +1,53 @@
+File Name: 1_2023-07-31_DelVO_2023_2772_ESRS_EU.pdf
+Converted on: 2025-03-28 03:20:41
+Original Size: 5.82 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 266 of 284
+--------------------------------------------------------------------------------
+
+ELI: http://data.europa.eu/eli/reg_del/2023/2772/oj 267/284Equal treatment The principle of equal treatment is a general principle of European law
+which presupposes that comparable situations or parties in comparable
+situations are treated in the same way. In the context of ESRS S1, the term
+“equal treatment” also refers to the principle of non-discrimination,
+according to which there shall be no direct or indirect discrimination
+based on any ground such as sex, race, colour, ethnic or social origin, genetic features, language, religion or belief, political or any other opinion,
+membership of a national minority, property, birth, disability, age or sexual
+orientation.
+Financial effects Effects from risks and opportunities that affect the undertaking’s financial
+position, financial performance and cash flows over the short, medium or long term.
+Financial materiality A sustainability matter is material from a financial perspective if it generates risks or opportunities that affect (or could reasonably be expected to affect)
+the undertaking’s financial position, financial performance, cash flows, access to finance or cost of capital over the short, medium or long term.
+Forced labour All work or service which is exacted from any person under the threat of penalty and for which the person has not offered himself or herself
+voluntarily. The term encompasses all situations in which persons are
+coerced by any means to perform work and includes both traditional
+‘slave-like’ practices and contemporary forms of coercion where labour
+exploitation is involved, which may include human trafficking and modern
+slavery.
+Fossil fuel Non-renewable carbon-based energy sources such as solid fuels, natural gas and oil.
+Free, Prior and Informed Consent (FPIC) A manifestation of indigenous peoples ’ right to self-determine their
+political, social, economic and cultural priorities. It constitutes three interrelated and cumulative rights of indigenous peoples: the right to be
+consulted; the right to participate; and the right to their lands, territories and resources. FPIC pertains to indigenous peoples and is recognized
+under international human rights law, notably the United Nations
+Declaration on the Rights of Indigenous Peoples (UNDRIP).
+Freshwater Groundwater and surface water, with a mean annual salinity of < 0,5 ‰ (i.e.,
+the limit mentioned in Annex II of the Water Framework Directive).
+GHG emission reduction Decrease in the undertaking’s Scope 1, 2, 3 or total GHG emissions at the
+end of the reporting period, relative to emissions in the base year. Emission
+reductions may result from, among others, energy efficiency, electrification,
+suppliers' decarbonisation, electricity mix decarbonisation, sustainable
+products development or changes in reporting boundaries or activities
+(e.g., outsourcing, reduced capacities), provided they are achieved within
+the undertaking's own operations and upstream and downstream value
+chain. Removals and avoided emissions are not counted as emission
+reductions.
+GHG removal and storage (Anthropogenic) removals refer to the withdrawal of GHGs from the
+atmosphere as a result of deliberate human activities. These include
+enhancing biological anthropogenic sinks of CO2 and using chemical
+engineering to achieve long-term removal and storage. Carbon capture and
+storage (CCS) from industrial and energy-related sources, which alone does
+not remove CO2 from the atmosphere, can remove atmospheric CO2 if it is OJ L, 22.12.2023 EN  
+
+--- Page 268 of 284 ---

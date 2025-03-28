@@ -1,0 +1,246 @@
+File Name: CELEX_32010L0075_DE_TXT.pdf
+Converted on: 2025-03-28 03:21:03
+Original Size: 4.18 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 65 of 93
+--------------------------------------------------------------------------------
+
+VAbfall×CAbfall+VVerfahren×CVerfahren
+VAbfall+VVerfahren=C17.12.2010 DE Amtsblattder Europäischen Union L 334/69
+1.4. Durchschn ittliche Emissionsgrenzwerte (in ng/Nm3) für Dioxin e und Furane bei einer Probenahmedauer von mindes­
+tens
+6 Stunden
+und
+höchsten s
+8 Stunden.
+Der Emissionsgrenzwert
+gilt
+für ein e
+Dioxin-
+und
+Furan-
+Gesamtkonzentration,
+die gemäß
+Teil 2 berechnet
+wird.
+Dioxine
+und
+Furane 0,1
+1.5. Emissionsgrenzwerte
+(in
+mg/Nm3) für Kohlenstoffmonoxid (CO) in den Abgasen:
+a) 50
+als Tagesmittelwert;
+b) 100
+als Halbstundenmittelwert;
+c) 150
+als Zehnminuten-Mittelwert.
+Die
+zuständige
+Behörde k ann
+Ausnahmen
+von den un ter
+dieser Nummer festg es
+etzten Emissionsgrenzwerten
+für
+Abfallverbrennungsanlagen
+mit Wirb elschichtfeuerung
+genehmigen,
+sofern
+in
+der Genehmigung
+ein
+Emissions­
+grenzwert
+für Kohlenstoffmonoxid
+(CO) von
+höchstens
+100 mg/Nm3 als Stundenmittelwert festgelegt ist.
+2. Unter
+den
+in
+Artikel
+46 Absatz
+6 und
+Artikel
+47 beschriebenen
+Umständen
+geltende
+Emissionsgrenzwerte.
+Die
+Gesamtstaub konzentration
+der Emissionen
+einer
+Abfallverbrennungs
+anlage
+in
+die Luft darf un ter
+keinen
+Umstän­
+den
+den
+Halbstundenmittelwert
+von
+150 mg/Nm3 überschreiten. Die Grenzwerte gemäß den Nummer 1.2 un d Num­
+mer 1.5 Buchstab e
+b
+für Emissionen
+von
+organisch
+gebundenem
+Gesamtkohlen
+stoff (TOC) un d
+CO in
+die Luft dürfen  
+nicht
+überschritten
+werden.
+3. Die
+Mitgliedstaaten
+können
+Regeln
+für die Ausn ahmen
+gemäß
+diesem Teil vorsehen .
+TEIL
+4
+Bestimmung der Emissionsgrenzwerte für die Mitverbrennung von Abfällen
+1. Die folgende
+Formel (Mischun gsregel)
+ist anzuwenden,
+wenn
+ein
+spezifischer Gesamtemission sgrenzwert „
+C“ nicht
+in
+einer
+Tabelle
+dieses Teils an gegeben
+ist.
+Der Emissionsgrenzwert
+für jeden
+erfassten
+Schadstoff un d
+für CO im Ab gas
+, die bei
+der Mitverb rennung
+von
+Abfäl­
+len
+entstehen,
+ist wie folg t
+zu berechnen:
+VAbfall:Abgasvolumen ausschließlich aus der Verb rennung von Abfällen, bestimmt anhand des Abfalls mit
+dem
+geringsten
+in
+der Genehmigung
+genannten
+Heizwert un d
+bezogen
+auf die Bedin gungen
+dieser
+Richtlinie.
+Beträgt
+die Wärmemen ge
+aus der Verb rennung
+von
+gefährlichen
+Abfällen
+weniger
+als 10 % der in  
+der
+Anlage
+abgegebenen
+Gesamtwärmemen ge,
+so ist der Wert VAbfall anhand einer (angenomme­
+nen)
+Menge
+von
+Abfall
+zu berechnen,
+die unter
+Zugrundelegung
+einer
+unverä
+nderlichen
+Gesamt­
+wärmemen ge
+bei
+der Verbrennung
+10 % dieser Gesamtwärmemen ge
+entsprechen
+würde.
+CAbfall: Emissionsgrenzwerte für Abfallverbrennungsanlagen gemäß Teil 3
+VVerfahren:Abgasvolumen aus dem in  der Anlage angewandten Verfahren  einschließlic h der Verb rennung der 
+zugelassenen
+und
+in der An lage
+üblicherwei
+se eingesetzten Bren nstoffe
+(Abfälle
+ausgeschlossen),
+
+ermittelt auf der Grun dlage
+der Bezug ssauerstoffgehalte
+nach
+Unionsrec
+ht oder nationalem
+Recht.
+Soweit für diese An lagen
+keine
+Rechtsvorschriften  
+bestehen,
+ist der tatsächliche Sauerstoffg ehalt
+im
+Abgas
+ohne
+Verdünnung
+durch Zufuhr von  
+Luft, die für das Verfahren  
+nicht
+no
+twendig
+ist, zugrunde
+zu
+legen.
+CVerfahren:Emissionsgrenzwerte gemäß diesem Teil für b estimmte industrielle Tätigkeiten oder, in Ermange­
+lung
+solcher Werte, E missionsgrenzwerte
+der Anlagen,
+die die ein zelstaatlichen
+Rechts- un d
+Ver­
+waltungsvorschriften
+für solche An lagen
+bei
+der Verbrennung
+der übliche
+rweise zug elassenen
+Brennstoffe
+(Abfälle
+ausgeschlossen)
+einhalten.
+Bestehen
+solche Vorschriften  
+nicht,
+so werden  
+die in
+der
+Genehmigung
+festgelegten
+Emissionsgrenzwerte
+verwendet.
+Gibt
+es solche Gen ehmigungen
+
+nicht,
+so werden  
+die tatsächlichen  
+Massenkonzentrationen
+verwendet.
+
+--- Page 54 of 103 ---

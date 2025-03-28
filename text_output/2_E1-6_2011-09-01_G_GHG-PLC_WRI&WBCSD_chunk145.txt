@@ -1,0 +1,28 @@
+File Name: 2_E1-6_2011-09-01_G_GHG-PLC_WRI&WBCSD.pdf
+Converted on: 2025-03-28 03:18:25
+Original Size: 3.27 MB
+Chunk Size: 500 tokens with 50 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 145 of 226
+--------------------------------------------------------------------------------
+
+of applications such as fibers, fabrics, filaments, and
+engineering resins. Because of the range of functions
+and products Sorona® can be used for, DuPont
+performed a cradle-to-gate inventory. However, the
+resulting fate of the carbon in the molecule is an
+important evaluation for any cradle-to-grave inventory
+that uses Sorona® as a material input. To ensure
+that downstream customers have all the necessary
+information to perform a cradle-to-grave assessment,
+DuPont included in the inventory report the amount
+of carbon (fossil and biogenic) contained within the
+product as it leaves the cradle-to-gate inventory
+boundary. DuPont also has information on the fate of
+the contained carbon in different end-of-life scenarios
+that they included in the inventory report separate
+from the cradle-to-gate inventory results as optional
+information to help downstream customers define
+their end-of-life profiles.DuPontTM

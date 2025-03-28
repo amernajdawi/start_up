@@ -1,0 +1,30 @@
+File Name: 2_E1_2021-06-30_VO_2021_1119_EUKG_EU.pdf
+Converted on: 2025-03-28 01:56:33
+Original Size: 0.54 MB
+Chunk Size: 400 tokens with 50 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 56 of 58
+--------------------------------------------------------------------------------
+
+implementing the policies and measures necessar y to meet them, including a review of actual inve stment
+against initial inve stment assump tions;’;
+(b) in paragraph 4, the first subparagraph is replaced by the followi ng:
+‘The Commission, assisted by the Energy Union Committ ee referred to in point (b) of Article 44(1), shall adopt
+implementing acts to set out the structure, format, technical details and process for the information referred to in
+paragraphs 1 and 2 of this Article, including a methodology for the repor ting on the phasing out of energy
+subsidies, in particular for fossil fuels, pursuant to point (d) of Article 25.’;
+(8) in Article 29(1), point (b) is replaced by the follo wing:
+‘(b) the progress made by each Member State towards meeting its objectives, including progress towards the Union’s
+climat e-neutrality objective set out in Article 2(1) of Regulation (EU) 2021/1119, targets and contr ibutions and
+implementing the policies and measures set out in its integrat ed national energy and climate plan;’;
+(9) Article 45 is replaced by the following:
+‘Article 45
+Review
+The Commission shall repor t to the European Parliament and to the Council within six months of each global
+stoc ktake agreed under Article 14 of the Paris Agreement on the operation of this Regulation, its contr ibution to
+governance of the Energy Union, its contr ibution to the long-t erm goals of the Paris Agreement, progress towards
+the achi evement of the 2030 climat e and energy targets and the Union’s climat e-neutrality objective set out in Article
+2(1) of Regulation (EU) 2021/1119, additional Energy Union objectives and the conf ormity of the planning, repor ting
+and monitori ng provisions laid down in this Regulation with other Union law or decisions relating to the UNFCCC

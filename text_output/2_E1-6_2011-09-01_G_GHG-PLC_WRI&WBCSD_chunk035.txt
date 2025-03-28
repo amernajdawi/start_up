@@ -1,0 +1,16 @@
+File Name: 2_E1-6_2011-09-01_G_GHG-PLC_WRI&WBCSD.pdf
+Converted on: 2025-03-28 03:20:53
+Original Size: 3.27 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 35 of 116
+--------------------------------------------------------------------------------
+
+based on the service life of the product. For example,
+if the function of a laptop computer is to provide 5,000
+computing hours, eight hours a day, five days a week, the
+use-stage time period would be 2.4 years.
+The end-of-life time period is based on the average waste
+treatment profile of the studied product in the assumed

@@ -1,0 +1,45 @@
+File Name: 2_E1-6_2004-03_G_GHG-Prot_WRI&WBCSD.pdf
+Converted on: 2025-03-28 03:18:16
+Original Size: 3.51 MB
+Chunk Size: 500 tokens with 50 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 195 of 225
+--------------------------------------------------------------------------------
+
+--- Page 96 of 116 ---
+
+Appendix D 941Scope 3 activities of outsourcing, contract manufacturing, and fran- chises are not addressed in this table because the inclusion of specificGHG sources will depend on the nature of the outsourcing. 2Guidelines on unintentional SF6process emissions are to be developed. 3The American Petroleum Institute’s Compendium of Greenhouse GasEmissions Methodologies for the Oil and Gas Industry (2004) providesguidelines and calculation methodology for calculating GHG emissionsfrom the oil and gas sector. 4The International Aluminum Institute’s Aluminum Sector GreenhouseGas Protocol (2003), in cooperation with WRI and WBCSD, providesguidelines and tools for calculating GHG emissions from thealuminum sector. 5The International Iron and Steel Institute's Iron and Steel sector guide-lines, in cooperation with WRI and WBCSD, are under development.6The WBCSD Working Group Cement: Toward a Sustainable CementIndustry has developed The Cement CO 2Protocol: CO2Emissions Monitoring and Reporting Protocol for the Cement Industry (2002),which includes guidelines and tools to calculate GHG emissions fromthe cement sector. 7Guidelines for waste sector are to be developed. 8The Climate Change Working Group of the International Council ofForest and Paper Associations has developed Calculation Tools forEstimating Greenhouse Gas Emissions from Pulp and Paper Mills(2002), which includes guidelines and tools to calculate GHG emissionsfrom the pulp and paper sector. 9Guidelines for PFC and SF6production are to be developed. 10Businesses in “other sectors” can estimate GHG emissions using cross-sectoral estimation tools—stationary combustion, mobile(transportation) combustion, HFC use, measurement and estimationuncertainty, and waste. 11WRI has developed Working 9 to 5 on Climate Change: An Office Guide (2002) and www.Safeclimate.net, which include guidelines and calculation tools for calculating GHG emissions from office-based organizations.NOTES 
+
+--- Page 97 of 116 ---
+
+95Acronyms
+CDM Clean Development Mechanism
+CEM Continuous Emission Monitoring
+CH4 Methane
+CER Certified Emission Reduction
+CCAR California Climate Action Registry
+CCX Chicago Climate Exchange
+CO2 Carbon Dioxide
+CO2-eCarbon Dioxide Equivalent
+EPER European Pollutant Emission Register
+EU ETS European Union Emissions Allowance Trading Scheme
+GHG Greenhouse Gas
+GAAP Generally Accepted Accounting Principles
+HFCs Hydrofluorocarbons
+IPCC Intergovernmental Panel on Climate Change
+IPIECA International Petroleum Industry
+Environmental Conservation Association
+ISO International Standards Organization
+JI Joint Implementation
+N4O Nitrous Oxide
+NGO Non-Governmental Organization
+PFCs Perfluorocarbons
+SF6 Sulfur Hexafluoride
+T&D Transmission and Distribution
+UK ETS United Kingdom Emission Trading Scheme
+WBCSD World Business Council for Sustainable Development
+WRI World Resources Institute
+
+--- Page 98 of 116 ---

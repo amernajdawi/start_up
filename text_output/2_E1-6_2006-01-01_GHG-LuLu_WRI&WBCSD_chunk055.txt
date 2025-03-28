@@ -1,0 +1,90 @@
+File Name: 2_E1-6_2006-01-01_GHG-LuLu_WRI&WBCSD.pdf
+Converted on: 2025-03-28 03:18:22
+Original Size: 6.41 MB
+Chunk Size: 500 tokens with 50 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 55 of 88
+--------------------------------------------------------------------------------
+
+Theannualcarbonstockchangesareaddedtotheequilib -
+riumcarbonstocktogetthecarbonstocksperhectarefor
+pastureland(seetableE.9).Thetotalbaselinecarbonstocks
+(tC)isthecarbonstocksperhectaremultipliedbytheland
+base(i.e.,30,000ha).
+BaselineCandidate3:HybridPoplarForest
+BaselineCarbonStockChangesandGHGRemovals
+LivingBiomass
+Abovegroundcarbonstockswereestimatedbyconverting
+thebiomassfromthehybridpoplargrowthcurve(Peterson
+etal.1999)tocarbon(i.e.,bymultiplyingbiomassby0.5).
+Fromthiscurvethechangeincarbonstocksalsowas
+estimated(tableE.10).Theaverageequilibriumorsteady-
+statecarbonstocksof109tC/haisreachedaftertwenty
+years,becauseanequivalentareaisplantedandharvested
+eachyear(seesupportingmaterialBonline).Thebelowgroundbiomasswasestimatedusingthetotalroot
+biomasspredictionequationdevelopedfortheregion’s
+hardwoodspecies(Lietal.2003):
+Belowgroundbiomass=1.576•(abovegroundbiomass) 0.615
+Thisequationusesabovegroundcarbonstocksinsteadof
+abovegroundbiomasstoestimatebelowgroundcarbon
+stocks(tableE.10).Aswiththeabovegroundcarbonstocks,
+thebelowgroundcarbonstocksreachasteadystateof28t
+C/haaftertwentyyears(seesupportingmaterialBonline).
+Soils
+Soilcarbonincreasesby0.5tC/ha/yrduringthefirst
+twentyyearsfollowingafforestation(NiuandDuiker2006).
+Thenaftertwentyyears,thesoilcarbonstocksreachan
+equilibrium of10tC/ha,andthereisnonewcarbonstored
+inthispool.
+TotalBaselineCarbonStocks
+Finally,thebaselinecarbonstoredfromtheafforestation
+activityiscalculatedbysummingtheabove-andbelow -
+groundbaselinecarbonstockandthesoilcarbonstock
+change(tableE.10).Aftertwentyyears,thecarbonstock
+reachesanequilibriumof120tC/ha(seesupporting
+materialBonline).
+Equilibriumcarbonstocks arethecarbonstocksstored
+whenthelanduseisinasteadystate,beforetheimplemen -
+tationoftheprojectactivityoranotherland-usechange.
+BeforetheAl-Pacafforestation,thelandwasusedforcrop
+production.Becausethisprojectisstillinitsfirstyearsof
+implementationhowever,carbonisnotinequilibriumand
+the GHGremovalsreflectthechangeinlandusefrom
+croplandtoforest,ratherthanaforestinasteadystate.
+Theamountofcarbonalreadypresentinthesoilisthesame
+astheprecedingproject-specificcommercialcropland
+carbonstockcalculation.
+SOC=50tC/ha •0.82 •1.10 •1.0 15
+=45.10tC/ha
+Theafforestationcarbonstockchangesareaddedtothe
+initialcroplandcarbonstocktogetthecarbonstockfor
+afforestation(seetableE.11).Thecarbonstockvalue
+reachesanequilibriumat165tC/haafteryear20.The
+totalcarbonstockisfoundbymultiplyingthecarbonstock
+perhectareby30,000ha.EXAMPLE:NipawinAfforestationProject
+71 TABL EE.9TotalCarbonStocksforPastureland
+tC / h a tC
+0 55.0 1,650,000
+1 55.0 1,650,000
+2 55.0 1,650,000
+3 55.0 1,650,000
+4 55.0 1,650,000
+5 55.0 1,650,000
+6 55.0 1,650,000
+7 55.0 1,650,000
+8 55.0 1,650,000
+9 55.0 1,650,000
+10 55.0 1,650,000
+11 55.0 1,650,000
+12 55.0 1,650,000
+13 55.0 1,650,000
+14 55.0 1,650,000
+15 55.0 1,650,000
+16 55.0 1,650,000
+17 55.0 1,650,000
+18 55.0 1,650,000
+19 55.0 1,650,000
+20 55.0 1,650,000
+21 55.0 1,650,000 Y E A R C A R B O N S T O C K S T O TA L B A S E L I N E

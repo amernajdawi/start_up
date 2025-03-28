@@ -1,0 +1,48 @@
+File Name: 1_2021-06-04_DelVO_2021_2139_TAXKRA_EU.pdf
+Converted on: 2025-03-28 03:20:30
+Original Size: 2.76 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 8 of 447
+--------------------------------------------------------------------------------
+
+(16)  To measure the evolution of greenhouse gas emission savings and carbon stock in forest ecosystems, it is 
+appropriate that forest owners should perform a climate benefit analysis. In order to reflect proportionality and
+minimise administrative burden for small-scale forest owners in particular, forest holdings below 13 hectares
+should not be required to perform a climate benefit analysis. In order to reduce administrative costs further,
+smaller forest owners should be allowed to perform a group assessment with other holdings to certify their
+calculations, performed every 10 years. Adequate free-of charge tools, such as tools provided by the Food and
+Agriculture Organisation of the United Nations (FAO), based on data of the Intergovernmental Panel on Climate
+Change (IPCC) (  4 ), are available to estimate the magnitude of costs and minimise costs and burdens for small-scale 
+foresters. The tool can notably be adapted to different levels of analysis, such as specific values and detailed
+calculation for big holdings, default values and simplified calculation for smaller owners.  
+(17)  In the follow-up to communications from the Commission of 11 December 2019 ‘The European Green Deal’ (  5 ), 
+of 20 May 2020 on ‘EU Biodiversity Strategy for 2030’ (  6 ) and of 17 September 2020 ‘Stepping up Europe’s 2030 
+climate ambition – Investing in a climate-neutral future for the benefit of our people’ (  7 ), in line with Union wider 
+biodiversity and climate neutrality ambitions, with the communication from the Commission of 24 February 2021
+‘Forging a climate-resilient Europe – the new EU Strategy on Adaptation to Climate Change (  8 ), and with the new 
+Forests Strategy planned in 2021, technical screening criteria for forest activities should be complemented,
+reviewed and where necessary revised at the time of adoption of the delegated act referred to in Article 15(2)
+of Regulation (EU) 2020/852. Those technical screening criteria should be reviewed to take better into account
+biodiversity friendly practices that are under development such as close to nature forestry.  
+(18)  Given its importance for reducing greenhouse gas emissions and for strengthening land carbon sinks, wetland 
+restoration has a potential to contribute substantially to climate change mitigation. Wetlands restoration can also
+deliver benefits for climate change adaptation, including through buffering climate change impacts, and help to
+reverse the loss of biodiversity and to preserve water quantity and quality. To ensure coherence with the ‘The
+European Green Deal’, with the communication ‘Stepping up Europe’s 2030 climate ambition’ and with the EU
+Biodiversity Strategy for 2030, technical screening criteria should also cover the restoration of wetlands.  
+(19)  The manufacturing sector emits approximately 21 % of direct greenhouse gas emissions in the Union (  9 ). It is the 
+third largest source of those emissions in the Union and thus can play a pivotal role in climate change mitigation.
+At the same time, manufacturing can be a key sector in enabling greenhouse gas emission avoidance and
+reductions in other sectors of the economy by manufacturing the products and technologies that those other
+sectors need in order to become or remain low-carbon. The technical screening criteria for the manufacturing
+sector should therefore be specified both for manufacturing activities associated with the highest levels of
+greenhouse gas emissions and for manufacturing of low-carbon products and technologies.  
+(20)  Manufacturing activities for which there are no technologically and economically feasible low-carbon alternatives 
+but that support the transition to a climate-neutral economy should be considered transitional economic activities,
+as referred to in Article 10(2) of Regulation (EU) 2020/852. To encourage the reduction of greenhouse gas
+emissions, the thresholds of the technical screening criteria for those activities should be set at a level that will
+only be achievable by the best performers of each sector, in most cases based on greenhouse gas emissions per
+unit of output produced.EN  L 442/4 Official Journal of the European Union 9.12.2021

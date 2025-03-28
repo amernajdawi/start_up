@@ -1,0 +1,49 @@
+File Name: 1_2023-07-31_DelVO_2023_2772_ESRS_EU.pdf
+Converted on: 2025-03-28 03:20:41
+Original Size: 5.82 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 145 of 284
+--------------------------------------------------------------------------------
+
+ELI: http://data.europa.eu/eli/reg_del/2023/2772/oj 148/284AR 20. With regard to key actions, the undertaking may disclose:
+(a) a list of key stakeholders involved (e.g., competitors, suppliers, retailers, other business partners, affected
+communities and authorities, government agencies) and how they are involved, mentioning key stakeholders
+negatively or positively impacted by actions and how they are impacted, including impacts or benefits created
+for affected communities, smallholders, indigenous peoples or other persons in vulnerable situations;
+(b) where applicable, an explanation of the need for appropriate consultations and the need to respect the decisions of affected communities;
+(c) a brief assessment of whether the key actions may induce significant negative sustainability impacts;
+(d) an explanation of whether the key action is intended to be a one-time initiative or systematic practice;
+(e) an explanation of whether the key action plan is carried out only by the undertaking, using the undertaking’s
+resources, or whether it is part of a wider initiative to which the undertaking significantly contributes. If the
+key action plan is part of a wider initiative, the undertaking may provide more information on the project, its sponsors and other participants;
+(f) a description of how it contributes to systemwide change, notably to alter the drivers of biodiversity and ecosystem change, e.g., through technological, economic, institutional, and social factors and changes in
+underlying values and behaviours;
+AR 21. In the context of this Disclosure Requirement, “local and indigenous knowledge” refer to the understandings, skills
+and philosophies developed by societies with long histories of interaction with their natural surroundings. For
+rural and indigenous peoples, local knowledge informs decision-making about fundamental aspects of day-to-day
+life.
+Metrics and targets
+Disclosure Requirement E4-4 – Targets related to biodiversity and ecosystems
+AR 22. The undertaking may specify whether the target addresses shortcomings related to the Substantial Contribution
+criteria for Biodiversity as defined in the delegated acts adopted pursuant to Article 15(2) of Regulation
+(EU) 2020/852. Where the Do No Significant Harm (DNSH) criteria for Biodiversity as defined in delegated acts
+adopted pursuant to Article 10(3), Article 11(3), Article 12(2), Article 13(2), and Article 14(2) of Regulation
+(EU) 2020/852 are not met, the undertaking may specify whether the target addresses shortcomings related those
+DNSH critera.
+AR 23. When disclosing information required under paragraph 29 for the purpose of setting targets the undertaking shall
+consider the need for an informed and willing consent of local and indigenous peoples, the need for appropriate
+consultations and the need to respect the decisions of these communities.
+AR 24. The targets related to material impacts may be presented in a table as illustrated below:
+Type of target according to mitigation hierarchyBaseline value
+and base yearTarget value and geographical
+scopeConnected policy or legislation if relevant
+2025 2030Up to
+2050
+Avoidance
+MinimisationRehabilitation and restoration
+Compensation or offsetsOJ L, 22.12.2023 EN  
+
+--- Page 149 of 284 ---

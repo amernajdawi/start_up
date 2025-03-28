@@ -1,0 +1,53 @@
+File Name: 2_E1-6_2011-09-01_G_GHG-PLC_WRI&WBCSD.pdf
+Converted on: 2025-03-28 03:20:53
+Original Size: 3.27 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 33 of 116
+--------------------------------------------------------------------------------
+
+[43]
+CHAPTER 07 Boundary Setting
+guidanceGE performed a GHG inventory of their GE Energy 2.5xl
+wind turbine, with the unit of analysis defined as the
+quantity of electricity delivered to the grid by one 2.5xl
+wind turbine over its 20-year lifetime. Using the general
+life cycle stages defined by this standard, GE developed
+a process map to reflect how the various materials and
+activities should be categorized within the life cycle. The
+wind turbine contains over 10,000 parts, so the material
+acquisition and preprocessing stage processes were simplified to include only the main material inputs
+while still giving an idea of the magnitude compared
+to other stages. The production stage includes sub-
+assembly of various turbine components. The use stage
+includes operation and maintenance (O&M) that occurs
+over the 20 years the wind turbine is in operation,
+including any related transportation to the installation
+site. The end-of-life stage includes decommissioning
+(disassembly of turbine) and recycling or disposal of the
+turbine materials.GE
+NOTE: The upstream and downstream material and energy inputs are not identified in this process map for simplicity.  
+The results of this inventory showed that 65 percent of the life cycle GHG emissions occur in the material acquisition
+and preprocessing stage. Including the process map in the inventory report will allow GE’s stakeholders to have a visual
+understanding of not only the life cycle processes attributable to a wind turbine but also the inventory results. material acquisition  
+& pre-processing         production       distribution  
+      & storageuse end-of-life 
+material acquisition and processing
+transport
+hub bed plate converter main shaft gearbox yaw drives
+nacelle generator top box main bearing pitch bearing yaw bearing
+pitch system main ctrl cab transformer other components
+transport
+transportGE manufacturing
+& assembly
+transportsite prep
+installation
+transportO&M decommissioning transportrecycling/  
+disposalblades
+tower
+transportvendor parts shipped to GE
+vendor parts shipped directly to installation site
+
+--- Page 46 of 148 ---

@@ -1,0 +1,49 @@
+File Name: 1_2023-07-31_DelVO_2023_2772_ESRS_EU.pdf
+Converted on: 2025-03-28 03:18:14
+Original Size: 5.82 MB
+Chunk Size: 500 tokens with 50 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 614 of 686
+--------------------------------------------------------------------------------
+
+ELI: http://data.europa.eu/eli/reg_del/2023/2772/oj 259/284Table 2
+Terms defined in the ESRS
+This table defines the terms to be used as reference for the preparation of the sustainability statements in accordance with
+the ESRS.
+Defined term Definition
+Actions Actions refer to:
+i.actions and action plans (including transition plans) that are undertaken
+to ensure that the undertaking delivers against targets set and through
+which the undertaking seeks to address material impacts, risks and
+opportunities; and
+ii.decisions to support these with financial, human or technological
+resources.
+Actor in the value chain Individuals or entities in the upstream or downstream value chain. The actor
+is considered downstream from the undertaking (e.g., distributors,
+customers) when it receives products or services from the undertaking; it is
+considered upstream from the undertaking (e.g., suppliers) when it provides
+products or services that are used in the production of the undertaking’s own products or services.
+Adequate wage A wage that provides for the satisfaction of the needs of the worker and his /
+her family in the light of national economic and social conditions.
+Administrative, management and
+supervisory bodiesThe governance bodies with the highest decision-making authority in the undertaking including its committees. If in the governance structure, there
+are no members of the administrative, management or supervisory bodies
+of the undertaking, the CEO, and if such function exists, the deputy CEO, should be included. In some jurisdictions, governance systems consist of
+two tiers, where supervision and management are separated. In such cases,
+both tiers are included under the definition of administrative, management
+and supervisory bodies.
+Affected Communities People or group(s) living or working in the same area that have been or may be affected by a reporting undertaking’s operations or through its upstream
+and downstream value chain. Affected communities can range from those
+living adjacent to the undertaking’s operations (local communities) to those
+living at a distance. Affected communities include actually and potentially
+affected indigenous peoples.
+Annual total remuneration Annual total remuneration to own workforce includes salary, bonus, stock
+awards, option awards, non-equity incentive plan compensation, change in
+pension value, and nonqualified deferred compensation earnings provided
+over the course of a year.
+Anticipated financial effects Financial effects that do not meet the recognition criteria for inclusion in
+the financial statement line items in the reporting period and that are not captured by the current financial effects.OJ L, 22.12.2023 EN  
+
+--- Page 260 of 284 ---

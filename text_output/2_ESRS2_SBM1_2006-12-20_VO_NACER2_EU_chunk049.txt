@@ -1,0 +1,20 @@
+File Name: 2_ESRS2_SBM1_2006-12-20_VO_NACER2_EU.pdf
+Converted on: 2025-03-28 03:18:28
+Original Size: 0.17 MB
+Chunk Size: 500 tokens with 50 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 49 of 78
+--------------------------------------------------------------------------------
+
+47.71 Retail sale of clothing in specialised stores 4771*47.72 Retail sale of footwear and leather goods in specialised stores 4771*47.73 Dispensing chemist in specialised stores 4772*47.74 Retail sale of medical and orthopaedic goods in specialised stores 4772*
+47.75 Retail sale of cosmetic and toilet articles in specialised stores 4772*
+47.76 Retail sale of flowers, plants, seeds, fertilisers, pet animals and pet food
+in specialised stores4773*
+47.77 Retail sale of watches and jewellery in specialised stores 4773*
+47.78 Other retail sale of new goods in specialised stores 4773*
+47.79 Retail sale of second-hand goods in stores 4774
+47.8 Retail sale via stalls and markets
+47.81 Retail sale via stalls and markets of food, beverages and tobacco
+products478130.12.2006 EN Official Journal of the European Union L 393/19

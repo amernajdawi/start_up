@@ -1,0 +1,71 @@
+File Name: 2_E1-6_2014-01-01_G_GHG-Agri_WRI&WBCSD.pdf
+Converted on: 2025-03-28 03:20:54
+Original Size: 1.75 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 24 of 65
+--------------------------------------------------------------------------------
+
+of organic matter by ma ss and develop under the poorly drained conditions of wetlands when inputs of organic matter exceed losses of C from anaerobic decomposition . The drainage of orga nic soils to prepare land for agriculture leads to CO 2 emissions - emission rates vary by climate , with drainage under warmer conditions leading to faster decomposition rates . CO 2 emissions are also influenced by drainage depth , limin g , and the fertility and consistenc y of the organic substrate . - - - Page 31 of 103 - - - GHG Protocol Agricultural Guidance
+
+31
+  Organic C pools in mineral soils. All soils that  are not organic soils are classified as 
+mineral soils. They typically have relati vely low amounts of organic matter, occur
+under moderate to well drained conditions, and predominate in most ecosystems, except wetlands. The organic C stocks of mi neral soils can change if the net balance
+between C inputs and C losses from the soil is  altered. C inputs can occur through the 
+incorporation of biomass resi dues into soils after harvesti ng and fires, or through the
+direct additions of C in organic amendm ents.  C losses are largely controlled by 
+decomposition and are influenced by changes in moisture and temperature, soil properties and soil disturbance.  
+
+Figure 4-4.  Carbon pools in agriculture 
+
+Mechanical sources  
+The following categories of mechan ical sources exist on farms:
+ Stationary and mobile combustion sour ces. Stationary combustion sources are
+devices such as boilers, furnaces, and electric generators and are used to power a
+wide range of equipment, such as m illing and irrigation equipment. Mobile
+combustion sources are vehicles and mobile  equipment, such as tractors, combine 
+harvesters, and trucks. The CO 2 emissions from all combustion sources are
+primarily determined by the C content of the fuel used. In contrast, the CH 4 and
+
+--- Page 32 of 103 ---
+
+GHG Protocol Agricultural Guidance
+
+32
+N2O emissions are primarily determined by the combustion and emissions control
+technologies present.
+ Purchased electricity. The associated emissions will depend on the mix of fuel
+types and technologies used  on the grid concerned.  
+ Refrigerant and air-conditioning equipment. These equipment leak refrigerants –
+high Global Warming Potential (GWP) GHGs  - during installation, maintenance, 
+operation and disposal.  
+
+4.3 Off-site emission sources beyond the farm gate
+The relative importance of different upstream and downstream processes will vary, depending on the proximity to markets (i.e . transportation dist ance), the amount of
+processing and packaging, and the type and volum e of farm inputs (esp ecially fertilizer).
+The following sources will be important for many types of farms:   
+Fertilizer production  
+The GHG emissions from fertiliz er production are closely li nked to energy consumption
+and vary with aspects of plant design and e fficiency, emissions c ontrol technologies, and
+raw material inputs. Three raw mate rials are particularly important:
+‐ Ammonia. CO
+2 is emitted from the consumption of hydrocarbons (primarily
+natural gas) as a hydrocarbon feedstock (t o supply H) and as an energy source.
+‐ Nitric acid (HNO 3). Nitric acid production is th e largest industrial source of N 2O
+(IPCC 2006) and is emitted as a byproduct of the catalytic oxidation of ammonia
+to nitric acid.  
+‐ Phosphoric acid. Produced from reacting phos phate rock with sulphuric acid. The
+resultant emissions are mainly of CO 2, from fuel use and from the C compounds
+contained in the rock.  
+To a large degree, the GHGs embedded in a fertilizer product will reflect the relative
+amounts of these ingredients.   
+Feed production
+Globally, feed production accounts for 45% of the product-level GHG emissions across
+all types of livestock (Gerbe r et al., 2013). It is more important in the life cycle
+inventories of egg, chicken and pork, compared to those of milk and beef, where enteric
+fermentation dominates. Feed production em issions come from many of the sources
+described in Chapter 4.2; particularly, soil management, LUC, and fertilizer production,
+as well as electricity use dur ing drying and processing.

@@ -1,0 +1,56 @@
+File Name: 2_E1-6_2004-03_G_GHG-Prot_WRI&WBCSD.pdf
+Converted on: 2025-03-28 03:18:16
+Original Size: 3.51 MB
+Chunk Size: 500 tokens with 50 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 153 of 225
+--------------------------------------------------------------------------------
+
+TYPE OF TARGET
+Reduce absolute emissions
+MP: not normally constrained
+Reduce GHG intensity
+Improve BPE
+(efficiency)
+Improve PE
+(efficiency)LEVEL OF DECISION-MAKING
+(IN GENERAL AND ON TARGET)
+Corporate
+All levels depending on scale
+(e.g. new venture, new plant, operational)
+Business in consultation with corporate
+Business
+Business
+Facility, supported by Shell Global Solutions EnergiseTMCHAPTER 11 Setting a GHG Target 77GUIDANCEThe Royal Dutch/Shell Group, a global energy corporation, discovered when implementing its voluntary GHG reduction target that one of
+the biggest challenges was to cascade the target down to the actions of all employees who influence target performance. It was concluded
+that successful implementation required different targets at different levels of the company. This is because each of the compo nents that
+underlie absolute GHG emissions is influenced by decision-making at various management levels (from the corporate level down to  indi-
+vidual businesses and facilities).
+Absolute GHG emissions at a plant (tonnes of CO2-e.)  =  Function (MP x  BPE x PE)
+MP Quantity of product manufactured by a facility. This is fundamental to the need to grow and is therefore controlled at corporat e
+level. GHG emissions are typically not managed by limiting this component.
+BPE Best process energy use per tonne. The optimal (or theoretical) energy consumed (translates to emissions) by a particular
+design of plant. The type of plant built is a business-level decision. Significant capital decisions may be involved in buildin g a
+new plant incorporating new technology. For existing plants, BPE is improved by significant design change and retrofitting. Thi s
+could also involve large capital expenditure.
+PE Plant efficiency index. An index that indicates how the plant is actually performing relative to BPE. PE is a result of day-to- day
+decisions taken by plant operators and technicians. It is improved also by the Shell Global Solutions EnergiseTM programme,
+which typically requires low capital expenditure to implement.
+Royal Dutch/Shell found that while this model is probably an oversimplification when it comes to exploration and production fac ilities, it
+is suitable for manufacturing facilities (e.g., refineries and chemical plants). It illustrates that an absolute target could o nly be set at the
+corporate level, while lower levels require intensity or efficiency targets. Royal Dutch/Shell: The target cascade
+ACTIONS THAT
+REDUCE EMISSIONS
+See below
+--------
+See below
+Building new plants
+with new technology
+Retrofitting and changing
+design of plants
+Increase plant
+operating efficiency
+2.  Decide on the target type
+There are two broad types of GHG targets: absolute and

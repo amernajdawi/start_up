@@ -1,0 +1,60 @@
+File Name: 1_2021-06-04_DelVO_2021_2139_TAXKRA_EU.pdf
+Converted on: 2025-03-28 03:20:30
+Original Size: 2.76 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 227 of 447
+--------------------------------------------------------------------------------
+
+4. The adaptation solutions implemented:
+(a) do not adversely affect the adaptation efforts or the level of resilience to physical climate risks of other
+people, of nature, of cultural heritage, of assets and of other economic activities;
+(b) favour nature-based solutions (  54 ) or rely on blue or green infrastructure (  55 ) to the extent possible; 
+(c) are consistent with local, sectoral, regional or national adaptation plans and strategies;
+(d) are monitored and measured against pre-defined indicators and remedial action is considered where those
+indicators are not met;
+(e) where the solution implemented is physical and consists in an activity for which technical screening criteria
+have been specified in this Annex, the solution complies with the do no significant harm technical screening
+criteria for that activity.
+5. In order for an activity to be considered as an enabling activity as referred to in Article 11(1), point (b), of
+Regulation (EU) 2020/852, the economic operator demonstrates, through an assessment of current and future
+climate risks, including uncertainty and based on robust data, that the activity provides a technology, product,
+service, information, or practice, or promotes their uses with one of the following primary objectives:
+(a) increasing the level of resilience to physical climate risks of other people, of nature, of cultural heritage, of
+assets and of other economic activities; or
+(b) contributing to adaptation efforts of other people, of nature, of cultural heritage, of assets and of other
+economic activities.  
+Do no significant harm (‘DNSH’)  
+(1) Climate change mitigation  1.  Forest management plan or equivalent instrument  
+1.1. The activity takes place on area that is subject to a forest
+management plan or an equivalent instrument, as set out in national
+law or, where national regulation dos not define a forest management
+plan, as referred to in the FAO definition of ‘forest area with long-term
+forest management plan’ (  56 ). 
+The forest management plan or the equivalent instrument covers a period
+of 10 years or more and is continuously updated.
+1.2. Information is provided on the following points that are not
+already documented in the forest management plan or equivalent system:
+(a) management goals, including major constraints;
+(b) general strategies and activities planned to reach the management
+goals, including expected operations over the whole forest cycle;
+(c) definition of the forest habitat context, main forest tree species and
+those intended and their extent and distribution, in accordance to the
+local forest ecosystem context;  
+_____________
+( 54 ) Nature-based solutions are defined as ‘solutions that are inspired and supported by nature, which are cost-effective, simulta neously
+provide environmental, social and economic benefits and help build resilience. Such solutions bring more, and more diverse,
+nature and natural features and processes into cities, landscapes and seascapes, through locally adapted, resource-efficient an d
+systemic interventions’. Therefore, nature-based solutions benefit biodiversity and support the delivery of a range of ecosyste m
+services (version of 4.6.2021: https://ec.europa.eu/info/research-and-innovation/research-area/environment/nature-based-solutio ns_
+en/).
+( 55 ) See Communication from the Commission to the European Parliament, the Council, the European Economic and Social
+Committee and the Committee of the Regions: Green Infrastructure (GI) — Enhancing Europe’s Natural Capital (COM/2013/0249
+final).
+( 56 ) Forest area that has a long-term (ten years or more) documented management plan, aiming at defined management goals, and
+which is periodically revised, FAO Global Resources Assessment 2020. Terms and definitions (version of 4.6.2021:
+http://www.fao.org/3/I8661EN/i8661en.pdf).EN  9.12.2021 Official Journal of the European Union L 442/169
+
+--- Page 170 of 349 ---

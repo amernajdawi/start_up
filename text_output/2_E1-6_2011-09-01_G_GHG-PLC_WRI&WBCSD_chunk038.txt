@@ -1,0 +1,76 @@
+File Name: 2_E1-6_2011-09-01_G_GHG-PLC_WRI&WBCSD.pdf
+Converted on: 2025-03-28 03:20:53
+Original Size: 3.27 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 38 of 116
+--------------------------------------------------------------------------------
+
+[48]   Product Life Cycle Accounting and Reporting Standardrequirements
+The standard defines five data quality indicators to use
+in assessing data quality. They are:
+ •Technological representativeness:  the degree to 
+which the data reflect the actual technology(ies)
+used in the process
+ •Geographical representativeness:  the degree to 
+which the data reflects actual geographic location of
+the processes within the inventory boundary (e.g.,
+country or site)
+ •Temporal representativeness:  the degree to which 
+the data reflect the actual time (e.g., year) or age of
+the process
+ •Completeness:  the degree to which the data are 
+statistically representative of the process sites
+ •Reliability:  the degree to which the sources, data 
+collection methods, and verification procedures used
+to obtain the data are dependable
+Assessing data quality during data collection allows
+companies to make data quality improvements more
+efficiently than when data quality is assessed after the
+collection is complete.
+For	significant	processes,	companies	shall 	
+report a descriptive statement on the data
+sources,	the	data	quality,	and	any	efforts 	
+taken to improve data quality.
+Companies need to determine which processes
+are significant in order to report the data sources,
+quality concerns, and quality improvement efforts.
+For example, a process that contributes a substantial
+amount of GHG emissions relative to the total life
+cycle emissions is significant. The criteria included in
+the screening steps below can be helpful to identify
+significant processes. See the guidance section for
+examples of reporting on data sources, quality, and
+improvement efforts for significant processes.A company owns or controls a process if it is under
+its operational or financial control.  The GHG Protocol 
+Corporate Accounting and Reporting Standard
+defines two types of control: financial control and
+operational control.
+A company has financial control over a process if it
+has the ability to direct the financial and operating
+policies of the process with a view to gain economic
+benefits from the activity. For example, financial
+control usually exists if the company has the right to
+the majority of benefits of the operation. Similarly,
+a company is considered to financially control a
+process if it retains the majority of the risks and
+rewards of ownership of the operation’s assets.
+A company has operational control over a process
+if the company or one of its subsidiaries has the full
+authority to introduce and implement its operating
+policies to the process. This criterion is consistent
+with the current accounting and reporting practice
+of many companies that report on emissions
+from facilities for which they hold the operating
+license. If the company or one of its subsidiaries is
+the operator of a facility, it is expected that it has
+the full authority to introduce and implement its
+operating policies and thus has operational control,
+except in very rare circumstances.
+For more information on ownership and control
+refer to chapter 3 of the GHG Protocol Corporate
+Accounting and Reporting Standard.Box [8.1] Definition of ownership or control
+
+--- Page 51 of 148 ---

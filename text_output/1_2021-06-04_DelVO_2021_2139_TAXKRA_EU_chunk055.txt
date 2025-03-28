@@ -1,0 +1,21 @@
+File Name: 1_2021-06-04_DelVO_2021_2139_TAXKRA_EU.pdf
+Converted on: 2025-03-28 03:20:30
+Original Size: 2.76 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 55 of 447
+--------------------------------------------------------------------------------
+
+weather event would normally be as rare as or rarer than the 10th or 90th percentile of a probability density function estimate d
+from observations. By definition, the characteristics of what is called extreme weather may vary from place to place in an abso lute
+sense. When a pattern of extreme weather persists for some time, such as a season, it may be classed as an extreme climate even t,
+especially if it yields an average or total that is itself extreme (e.g., drought or heavy rainfall over a season). See IPCC, 2 018:  Annex I: 
+Glossary  (version of 4.6.2021: https://www.ipcc.ch/sr15/chapter/glossary/).  
+( 28 ) Any uncontrolled vegetation fire which requires a decision or action regarding suppression, 2012 European Glossary for wildfi res
+and forest fires, developed under the European Forest Fire Network- ‘EUFOFINET’ project, as part of the INTERREG IVC programme
+(version of 4.6.2021: https://www.ctif.org/index.php/library/european-glossary-wildfires-and-forest-fires).  
+( 29 ) Land spanning more than 0.5 hectares with trees higher than five meters and a canopy cover of more than 10 %, or trees able t o
+reach those thresholds in situ. It does not include land that is predominantly under agricultural or urban land use, FAO Global  
+Resources Assessment 2020. Terms and definitions (version of 4.6.2021: http://www.fao.org/3/I8661EN/i8661en.pdf).

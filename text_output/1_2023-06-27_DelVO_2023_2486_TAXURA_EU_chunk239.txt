@@ -1,0 +1,31 @@
+File Name: 1_2023-06-27_DelVO_2023_2486_TAXURA_EU.pdf
+Converted on: 2025-03-28 03:18:09
+Original Size: 8.44 MB
+Chunk Size: 500 tokens with 50 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 239 of 380
+--------------------------------------------------------------------------------
+
+2.2. Treatment of hazardous waste . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 101
+2.3. Remediation of legally non-conforming landfills and abandoned or illegal waste dumps . . . . . . . . . . . . . . . . . . . . . . . 104
+2.4. Remediation of contaminated sites and areas . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 108
+1. Manufacturing
+1.1. Manufacture of active pharmaceutical ingredients (API) or active substances
+Description of the activity
+Manufacture of active pharmaceutical ingredients (API) or active substances.The economic activities in this category could be associated with NACE code C21.1 in accordance with the statistical
+classification of economic activities established by Regulation (EC) No 1893/2006.
+Technical screening criteria
+Substantial contribution to pollution prevention and control
+1.The activity complies with all of the requirements specified below relating to product substitution.
+1.1. The API complies with one of the following requirements:
+(a) the API is a naturally occurring substance, such as vitamins, electrolytes, amino acids, peptides, proteins, nucleotides,
+carbohydrates and lipids, and, in line with the European Medicines Agency Guideline on the environmental risk
+assessment of medicinal products for human use (EMA ERA guideline) (
+1), is generally considered to be degradable in
+the environment (2);
+(1)European Medicines Agency Guidelines on the environmental risk assessment of medicinal products for human use, version of
+27.6.2023 available at: https://www.ema.europa.eu/en/environmental-risk-assessment-medicinal-products-human-use-scientific-
+guideline.
+(2)Key metabolites are human metabolites likely to be excreted into the environment. Those metabolites are identified in (non-)clinical studies on the metabolism of medicinal products available in the marketing authorisation applications. Such metabolites are to be

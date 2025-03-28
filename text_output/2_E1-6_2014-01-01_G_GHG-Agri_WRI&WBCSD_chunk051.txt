@@ -1,0 +1,71 @@
+File Name: 2_E1-6_2014-01-01_G_GHG-Agri_WRI&WBCSD.pdf
+Converted on: 2025-03-28 03:20:54
+Original Size: 1.75 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 51 of 65
+--------------------------------------------------------------------------------
+
+- mechanical source ( e . g . , enteric fermentation versus manure management ) 13 This Guidance follows the ‘ land - based ’ approach for recognizing LUC , as opposed to an ‘ activities - based ’ approach . Land - based approaches assess the net emissions of select land - use categories while activity - based approaches as sess the net emissions of select land - use activities . Both approaches can be used for developing national GHG inventories for the UNFCCC . - - - Page 74 of 103 - - - GHG Protocol Agricultural Guidance
+
+74
+ Emissions of other GHGs (e.g., those of CFCs)
+ Performance metrics and a description of any allocation approach used in deriving
+these (see Appendix I)
+ A description of performance measured ag ainst internal or external benchmarks
+ An outline of current management practi ces and any GHG management strategies
+ GHG flux data for relevant scope 3 sources for which reliable da ta can be obtained
+ Information on the uncertainty of GHG flux data
+
+The reporting of scope 3 sources  is optional, but encouraged  
+Scope 3 sources are many and diverse. The Sc ope 3 Standard identifies 15 distinct
+categories. These include the activities of  the reporting company’s direct suppliers, 
+cradle-to-gate impacts further upstream, as well as downstream activities, such as the
+customer use and disposal of products the company has manufactured and sold.  Which 
+scope 3 sources should be included in an inventory? Companies may either:  
+ 1. Report scope 3 emissions in accordance with  the Corporate Standard (i.e. scope 3 
+sources are optional)  
+2. Report scope 3 emissions in accordance with the Scope 3 Standard  
+ For many companies, scope 3 emissions will represent a significant component of overall GHG impacts. For instance, the manufacture of  fertilizer and livestock feed will be 
+important scope 3 sources for crop and lives tock operations, respectively. Moreover,
+companies may undertake some actions that reduce their scope 1 and 2 emissions, but
+that then increase their scope 3 emissions (e.g., the outsourcing of feed production).  For 
+these reasons, specific scope 3 sources s hould be reported where those sources are
+considered significant. Criteria for as sessing significance can include amounts of
+emissions, emissions reduction potential, contri bution to risk exposur e (e.g., regulatory or
+reputational risks), and importance to stakeh olders. In general, the scope 3 emissions
+from fertilizer and feed production should be included in inventories, where possible.  
+9.4 Agricultural offset and renewable energy projects
+
+Companies can generate renewabl e energy in many ways, including:
+ Developing their own wind turbines or leasing land to wind power development
+firms  
+ Growing trees, short rotation woodland a nd short rotation coppi ce as a source of
+biomass fuel stock  
+ Installing anaerobic digesters to produce methane as fuel for electricity or heat
+ Developing farm-scale micro hydroelectricity  schemes (typically less than ~ 100kW)  
+ Using solar panels
+
+Such projects are a potential s ource of offset credits. Other offset projects could be based
+on the reforestation or rest oration of degraded lands and changes in fertilizer
+management.    
+
+--- Page 75 of 103 ---
+
+GHG Protocol Agricultural Guidance
+
+75
+Accounting for renewable energy projects
+The impact of many of these projects on a company’s inventory will depend on whether
+any of the energy that is generated is cons umed on-site by the company or sent to the
+grid. If the energy is consumed on-site, the project may reduce the amount of electricity
+or fuel consumed, resulting in  a reduction in scope 1 or sc ope 2 emissions that will be 
+evident when comparing inventories over time . On the other hand, if the energy is sent
+off-site, it shall not be used to lower scope 1 or scope 2 em issions. This is necessary to
+prevent double counting of the emissions be nefits of that energy. This requirement
+extends to the calculation of performance metrics, which should not include the
+emissions benefits of sold energy. The GHG Protocol Guidelines for Grid-Connected
+Electricity Projects  – a supplement to the Project Pr otocol (Chapter 1.2) - provide 
+guidance on quantifying the emission s reductions from sold energy.

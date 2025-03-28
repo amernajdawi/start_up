@@ -1,0 +1,37 @@
+File Name: 1_2023-06-27_DelVO_2023_2486_TAXURA_EU.pdf
+Converted on: 2025-03-28 03:18:09
+Original Size: 8.44 MB
+Chunk Size: 500 tokens with 50 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 261 of 380
+--------------------------------------------------------------------------------
+
+ELI: http://data.europa.eu/eli/reg_del/2023/2486/oj 96/1642.1. Where the activity falls within its scope, the emission limit values shall be lower than the mid-point of the BAT-AEL
+ranges (26)set out in:
+(a) the best available techniques (BAT) conclusions for common waste gas management and treatment systems in the
+chemical sector (27)for emissions to air of new installations (or for existing installations within 4 years of the BATC
+publication) where relevant conditions apply;
+(b) the Best Available Techniques Reference Document (BREF) for Manufacture of Organic Fine Chemicals (OFC) (28); for
+the manufacturing activity under conditions not covered by the BATC mentioned above;
+(c) the best available techniques (BAT) conclusions for common waste water and waste gas treatment/management systems
+in the chemical sector (29);
+(d) the Best Available Techniques Reference Document (BREF) for the Large Volume Inorganic Chemicals – Solids and
+Others industry (30);
+(e) the Best Available Techniques Reference Document (BREF) for the manufacture of Large Volume Inorganic Chemicals – Ammonia, Acids and Fertilisers (
+31);
+(f) the Best Available Techniques Reference Document (BREF) for the production of speciality inorganic chemicals (SIC) for the manufacturing activity under conditions not covered by the BATC mentioned above (
+32).
+Plants within the BAT-AEL range(s) moving to the mid-point ambition do not trigger any significant cross-media impact.
+Installations that have been granted a derogation in accordance with the procedure set out in Article 15(4) of Directive
+2010/75/EU are not considered as fulfilling the technical screening criteria for the period of the derogation.
+2.2. Where a continuous measurement methodology for a certain pollutant is available, the operator applies Continuous
+Emission Monitoring Systems (CEMS), Continuous Effluent Quality Monitoring Systems (CEQMS) and other measures
+ensuring the regular verification of non-deterioration of environment.
+2.3. The operator applies solvent waste segregation for solvent recovery from concentrated waste streams, where
+technically applicable.
+Solvents included in Table 1 of the European Medicines Agency ICH guideline Q3C (R8) on impurities as specified in the
+guideline for residual solvents (33)are avoided in medicinal products.
+(26)The requirements under this point tackle the pollutants identified under the key environmental issues of each BREF document or the
+BAT-AEL of the relevant BAT conclusions Commission Implementing Decisions. Where BAT-AEL differentiate between ‘existing’ and

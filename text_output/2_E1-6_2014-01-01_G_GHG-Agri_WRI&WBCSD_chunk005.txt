@@ -1,0 +1,12 @@
+File Name: 2_E1-6_2014-01-01_G_GHG-Agri_WRI&WBCSD.pdf
+Converted on: 2025-03-28 03:20:54
+Original Size: 1.75 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 5 of 65
+--------------------------------------------------------------------------------
+
+7.2 Guidance  for prioritizing  data collection  efforts ...........................................................  50 
+7.3 Selecting a calculation  approach  ...................................................................................  52

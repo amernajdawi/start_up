@@ -1,0 +1,56 @@
+File Name: 1_2021-06-04_DelVO_2021_2139_TAXKRA_EU.pdf
+Converted on: 2025-03-28 03:20:30
+Original Size: 2.76 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 26 of 447
+--------------------------------------------------------------------------------
+
+(49)  The technical screening criteria for determining whether the economic activities that contribute substantially to 
+climate change mitigation or climate change adaptation cause no significant harm to any of the other environ ­
+mental objectives should aim at ensuring that contribution to one of the environmental objectives is not made at
+the expense of other environmental objectives. The ‘do no significant harm’ criteria play therefore an essential role
+in ensuring the environmental integrity of the classification of environmentally sustainable activities. The ‘do no
+significant harm’ criteria for a given environmental objective should be specified for those activities that present a
+risk of causing significant harm to that objective. The ‘do no significant harm’ criteria should take into account and
+build upon the relevant requirements of existing Union law.  
+(50)  The technical screening criteria for ensuring that activities that contribute substantially to climate change adap ­
+tation do not cause significant harm to climate change mitigation should be laid down for those activities that
+present a risk of producing significant greenhouse gas emissions while they have the potential to contribute
+substantially to climate change adaptation.  
+(51)  Climate change is likely to affect all sectors of the economy. The technical screening criteria for ensuring that 
+economic activities that contribute substantially to climate change mitigation do not cause significant harm to
+climate change adaptation should therefore apply to all of those economic activities. Those criteria should ensure
+that existing and future risks that are material to the activity are identified and that adaptation solutions are
+implemented to minimise or avoid possible losses or impacts on business continuity.  
+(52)  The technical screening criteria for ‘do no significant harm’ to sustainable use and protection of water and marine 
+resources should be specified for all activities that can pose a risk to such sustainable use and protection. Those
+criteria should aim at avoiding that activities are detrimental to the good status or the good ecological potential of
+bodies of water, including surface water and groundwater, or to the good environmental status of marine waters,
+by requiring that environmental degradation risks are identified and addressed, in accordance with a water use and
+protection management plan.  
+(53)  The technical screening criteria for ‘do no significant harm’ to transition to a circular economy should be tailored 
+to the specific sectors in order to ensure that economic activities do not lead to inefficiencies in the use of
+resources or lock-in linear production models, that waste is avoided or reduced and, where unavoidable, managed
+in accordance with the waste hierarchy. Those criteria should also ensure that economic activities do not
+undermine the objective of transitioning to a circular economy.  
+(54)  The technical screening criteria for ‘do no significant harm’ to pollution prevention and control should reflect 
+sector specificities to address the relevant sources and types of pollution into air, water or land, referring, where
+relevant, to best available techniques conclusions established under Directive 2010/75/EU of the European
+Parliament and of the Council (  14 ). 
+(55)  The criteria for ‘do no significant harm’ to protection and restoration of biodiversity and ecosystems should be 
+specified for all activities that can pose risks to the status or condition of habitats, species or ecosystems and
+should require that, where relevant, environmental impact assessments or appropriate assessments are undertaken
+and the conclusions from such assessments are implemented. Those criteria should ensure that even in the absence
+of a requirement to perform an environmental impact assessment or other appropriate assessment, activities do
+not lead to the disturbance, capture or killing of legally protected species or the deterioration of legally protected
+habitats.  
+(56)  The technical screening criteria should be without prejudice to the requirement to comply with provisions related 
+to the environment, health, safety and social sustainability laid down in Union and national law, and to the
+adoption of appropriate mitigation measures in that regard where applicable.  
+(57)  The provisions in this Regulation are closely linked, since they deal with criteria for determining whether an 
+economic activity contributes substantially to climate change mitigation or climate change adaptation, and whether
+such economic activity causes no significant harm to one or more of the other environmental objectives laid down
+in Article 9 of Regulation (EU) 2020/852. In order to ensure coherence between those provisions, which should

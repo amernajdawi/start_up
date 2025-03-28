@@ -1,0 +1,46 @@
+File Name: 1_2023-07-31_DelVO_2023_2772_ESRS_EU.pdf
+Converted on: 2025-03-28 03:20:41
+Original Size: 5.82 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 7 of 284
+--------------------------------------------------------------------------------
+
+ELI: http://data.europa.eu/eli/reg_del/2023/2772/oj 6/2849. Topical ESRS can include specific requirements that complement the general level Disclosure Requirements of ESRS
+2. ESRS 2 Appendix C Disclosure/Application Requirements in topical ESRS that are applicable jointly with ESRS 2 General
+Disclosures provides a list of the additional requirements in topical ESRS that the undertaking shall apply in
+conjunction with the general level disclosure requirements of ESRS 2.
+10. Sector-specific standards are applicable to all undertakings within a sector. They address impacts, risks and
+opportunities that are likely to be material for all undertakings in a specific sector and that are not covered, or not
+sufficiently covered, by topical standards. Sector-specific standards are multi-topical and cover the topics that are
+most relevant to the sector in question. Sector-specific standards achieve a high degree of comparability.
+11. In addition to the disclosure requirements laid down in the three categories of ESRS, when an undertaking concludes
+that an impact, risk or opportunity is not covered or not covered with sufficient granularity by an ESRS but is
+material due to its specific facts and circumstances, it shall provide additional entity-specific disclosures to enable
+users to understand the undertaking’s sustainability-related impacts, risks or opportunities. Application
+requirements AR 1 to AR 5 provide further guidance regarding entity-specific disclosures.
+1.2 Reporting areas and minimum content disclosure requirements on policies, actions, targets and metrics
+12. The Disclosure Requirements in ESRS 2, in topical ESRS and in sector-specific ESRS are structured into the following reporting areas:
+(a) Governance (GOV): the governance processes, controls and procedures used to monitor, manage and oversee
+impacts, risks and opportunities (see ESRS 2, chapter 2 Governance);
+(b) Strategy (SBM): how the undertaking’s strategy and business model interact with its material impacts, risks and
+opportunities, including how the undertaking addresses those impacts, risks and opportunities (see ESRS 2,
+chapter 3 Strategy);
+(c) Impact, risk and opportunity management (IRO): the process(es) by which the undertaking:
+i.identifies impacts, risks and opportunities and assesses their materiality (see IRO-1 in section 4.1 of ESRS 2),
+ii.manages material sustainability matters through policies and actions (see section 4.2 of ESRS 2).
+(d) Metrics and targets (MT): the undertaking’s performance, including targets it has set and progress towards
+meeting them (see ESRS 2, chapter 5 Metrics and targets).
+13. ESRS 2 includes:
+(a) in section 4.2 Minimum Disclosure Requirements regarding policies (MDR-P) and actions (MDR-A);
+(b) in section 5 Minimum Disclosure Requirements regarding metrics (MDR-M) and targets (MDR-T).
+The undertaking shall apply the minimum disclosure requirements regarding policies, actions, metrics and targets
+together with the corresponding Disclosure Requirements in topical and sector-specific ESRS.
+1.3 Drafting conventions
+14. In all ESRS:(a) the term “impacts” refers to positive and negative sustainability-related impacts that are connected with the
+undertaking’s business, as identified through an impact materiality assessment (see section 3.4 Impact
+materiality). It refers both to actual impacts and to potential future impacts.OJ L, 22.12.2023 EN  
+
+--- Page 7 of 284 ---

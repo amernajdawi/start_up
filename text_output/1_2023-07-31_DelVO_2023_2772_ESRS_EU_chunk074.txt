@@ -1,0 +1,46 @@
+File Name: 1_2023-07-31_DelVO_2023_2772_ESRS_EU.pdf
+Converted on: 2025-03-28 03:20:41
+Original Size: 5.82 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 74 of 284
+--------------------------------------------------------------------------------
+
+ELI: http://data.europa.eu/eli/reg_del/2023/2772/oj 77/28421. When disclosing the information required under paragraphs 20 (b)and 20 (c) the undertaking shall explain how it has
+used climate-related scenario analysis, including a range of climate scenarios, to inform the identification and
+assessment of physical risks and transition risks and opportunities over the short-, medium- and long-term.
+Disclosure Requirement E1-2 – Policies related to climate change mitigation and adaptation
+22. The undertaking shall describe its policies adopted to manage its material impacts, risks and opportunities
+related to climate change mitigation and adaptation.
+23. The objective of this Disclosure Requirement is to enable an understanding of the extent to which the undertaking
+has policies that address the identification, assessment, management and/or remediation of its material climate
+change mitigation and adaptation impacts, risks and opportunities.
+24. The disclosure required by paragraph 22 shall contain the information on the policies the undertaking has in place to
+manage its material impacts, risks and opportunities related to climate change mitigation and adaptation in
+accordance with ESRS 2 MDR-P Policies adopted to manage material sustainability matters.
+25. The undertaking shall indicate whether and how its policies address the following areas:
+(a) climate change mitigation;
+(b) climate change adaptation;
+(c) energy efficiency;
+(d) renewable energy deployment; and
+(e) other
+Disclosure Requirement E1-3 – Actions and resources in relation to climate change policies
+26. The undertaking shall disclose its climate change mitigation and adaptation actions and the resources
+allocated for their implementation.
+27. The objective of this Disclosure Requirement is to provide an understanding of the key actions taken and planned to
+achieve climate-related policy objectives and targets.
+28. The description of the actions and resources related to climate change mitigation and adaptation shall follow the
+principles stated in ESRS 2 MDR-A Actions and resources in relation to material sustainability matters.
+29. In addition to ESRS 2 MDR-A, the undertaking shall:
+(a) when listing key actions taken in the reporting year and planned for the future, present the climate change
+mitigation actions by decarbonisation lever including the nature- based solutions;
+(b) when describing the outcome of the actions for climate change mitigation, include the achieved and expected
+GHG emission reductions; and
+(c) relate significant monetary amounts of CapEx and OpEx required to implement the actions taken or planned to:
+i. the relevant line items or notes in the financial statements;
+ii. the key performance indicators required under Commission Delegated Regulation (EU) 2021/2178; and
+iii. if applicable, the CapEx plan required by Commission Delegated Regulation (EU) 2021/2178.OJ L, 22.12.2023 EN  
+
+--- Page 78 of 284 ---

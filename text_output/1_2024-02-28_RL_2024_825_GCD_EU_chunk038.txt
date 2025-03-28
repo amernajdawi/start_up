@@ -1,0 +1,30 @@
+File Name: 1_2024-02-28_RL_2024_825_GCD_EU.pdf
+Converted on: 2025-03-28 03:18:15
+Original Size: 0.61 MB
+Chunk Size: 500 tokens with 50 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 38 of 49
+--------------------------------------------------------------------------------
+
+‘(b) the main charact eristics of the product, such as its availability , benefits, risks, executi on, compo sition,
+environmental or social charact eristics, accessor ies, circular ity aspects, such as durability , reparability or
+recy clability , after-sale custome r assistance and compl aint handling, method and date of manufacture or
+provi sion, deliver y, fitness for purpose, usag e, quantity , specification, geographical or commercial origin or
+the results to be expected from its use, or the results and mater ial features of tests or checks carried out on the
+product.’;
+(b) in paragraph 2, the follo wing points are added:
+‘(d) making an environmental claim related to future environmental performa nce without clear , objective, publicly
+available and verifiable commitments set out in a detailed and realistic implementation plan that includes
+measurable and time-bound targe ts and other relevant elements necessar y to suppor t its implementation,
+such as allocation of resources, and that is regularly verified by an independent third party exper t, whose
+findings are made available to consumers;
+(e) adver tising benefits to consumers that are irrelevant and do not result from any feature of the product or
+business.’;
+(3) in Article 7, the follo wing paragraph is added:
+‘7. Where a trader provides a service which compares products and provid es the consumer with information on
+environmental or social characteri stics or on circular ity aspects, such as durability , reparability or recy clability , of
+the products or suppliers of those products, information about the method of compari son, the products which are
+the object of compar ison and the suppliers of those products, as well as the measures in place to keep that
+information up to date, shall be regarded as mat erial information.’;OJ L, 6.3.2024 EN

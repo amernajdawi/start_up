@@ -1,0 +1,48 @@
+File Name: 1_2021-06-04_DelVO_2021_2139_TAXKRA_EU.pdf
+Converted on: 2025-03-28 03:18:03
+Original Size: 2.76 MB
+Chunk Size: 500 tokens with 50 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 652 of 966
+--------------------------------------------------------------------------------
+
+(b) favour nature-based solutions (  317  ) or rely on blue or green infrastructure (  318  ) to the extent possible; 
+(c) are consistent with local, sectoral, regional or national adaptation plans and strategies;
+(d) are monitored and measured against pre-defined indicators and remedial action is considered where those
+indicators are not met;
+(e) where the solution implemented is physical and consists in an activity for which technical screening criteria
+have been specified in this Annex, the solution complies with the do no significant harm technical screening
+criteria for that activity.  
+Do no significant harm (‘DNSH’)  
+(1) Climate change mitigation  N/A  
+(3) Sustainable use and protection of
+water and marine resources  The activity complies with the criteria set out in Appendix B to this 
+Annex.  
+(4) Transition to a circular economy  N/A  
+(5) Pollution prevention and control  Fans, compressors, pumps and other equipment used which is covered by 
+Directive 2009/125/EC comply, where relevant, with the top class
+requirements of the energy label, and otherwise comply with imple ­
+menting regulations under that Directive and represent the best available
+technology.  
+(6) Protection and restoration of
+biodiversity and ecosystems  The activity complies with the criteria set out in Appendix D to this 
+Annex.  
+4.16.  Installation and operation of electric heat pumps  
+Description of the activity  
+Installation and operation of electric heat pumps.  
+Where an economic activity is an integral element of the ‘Installation, maintenance and repair of renewable energy
+technologies’ as referred to in Section 7.6 of this Annex, the technical screening criteria specified in Section 7.6
+apply.  
+The economic activities in this category could be associated with several NACE codes, in particular D35.30, F43.22
+in accordance with the statistical classification of economic activities established by Regulation (EC) No 1893/2006.  
+Technical screening criteria  
+Substantial contribution to climate change adaptation  
+1. The economic activity has implemented physical and non-physical solutions (‘adaptation solutions’) that
+substantially reduce the most important physical climate risks that are material to that activity.  
+_____________
+( 317  ) Nature-based solutions are defined as ‘solutions that are inspired and supported by nature, which are cost-effective, simulta neously 
+provide environmental, social and economic benefits and help build resilience. Such solutions bring more, and more diverse,
+nature and natural features and processes into cities, landscapes and seascapes, through locally adapted, resource-efficient an d
+systemic interventions’. Therefore, nature-based solutions benefit biodiversity and support the delivery of a range of ecosyste m

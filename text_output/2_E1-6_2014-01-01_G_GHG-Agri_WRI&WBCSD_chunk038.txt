@@ -1,0 +1,56 @@
+File Name: 2_E1-6_2014-01-01_G_GHG-Agri_WRI&WBCSD.pdf
+Converted on: 2025-03-28 03:20:54
+Original Size: 1.75 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 38 of 65
+--------------------------------------------------------------------------------
+
+the CH 4 emissions from enteric fermentation , emissions may be estimated by multiplying the number of dairy cattle by an emission factor that specifies how much CH 4 is emitted per head of dairy cattle . The accuracy of this approach depends not only on the accuracy of the activity data , but also on how specific the factor is to the specific co mbination of environmental factors and management activities concerned . Default emi ssion factors are largely either based on field measurements at individual research site s or represent average values across a range of sites .
+
+Empirical and process-based models
+Empirical models use field measurements to  develop statistical relationships between 
+GHG fluxes and agricultural management factor s. In turn, process-based (or mechanistic)
+models mathematically link important bi ogeochemical processes that control the
+production, consumption, and emission of GHGs.  Some models may only require one or 
+several inputs to estimate GHG fluxes; others  might have extensive data requirements 
+that span different spatial and temporal scal es. Input data can be physical variables such
+as temperature, precipitation, elevation, and so il nutrient levels, or biological variables
+such as soil microbial activity and plant divers ity. The accuracy of models is variable and
+depends on the robustness of the model and the accuracy of the inputs.  For instance, if a 
+model is used in a new agro-climate regime for which it was not previously calibrated, the model may not be reliable.   GHG fluxes can also be calcula ted using any combination of  the above approaches. For 
+instance, empirical or process models could be used to derive more specific emission
+factors. The resulting hybrid approaches can  increase the accuracy and practicability of 
+calculating emissions.  
+
+No one approach is ideal
+The calculation approaches differ in how they  map onto the various tiers defined by the 
+Intergovernmental Panel on Climate Change (IPCC) for the purposes of national inventory reporting (see Box 7- 1). In general, emission factors and empirical models
+(IPCC Tiers 1 and 2) are the easiest and least resource-intensive approaches to use. But
+they are not very effective in capturing the geographical variation in the biophysical
+processes that underpin GHG fluxes and they may not be sensitive to many changes in
+farm management practices. As a result, they  tend to become less accurate as spatial 
+resolution increases from a regi onal or national level to a lo cal or farm-level. And their
+use may mask much of the variation in performance that exists amongst farms.  
+Emission factors and empirical models also tend to focus on individual emission sources
+and management practices one at a time. This is a problem because non-mechanical sources are often connected by complex flow s of N and C through farms, such that
+management activities have non-additi ve GHG effects. For example, soil N
+2O emissions
+are affected not only by fertil izer application regimes, but also by tillage, soil pH
+management, irrigation, and drai nage practices. As a result, the GHG impact of different
+agricultural practices is best evaluated si multaneously and at the whole farm-level.  
+
+--- Page 54 of 103 ---
+
+GHG Protocol Agricultural Guidance
+
+54
+
+In contrast to emission fact ors and empirical models, fiel d measurements (Tier 3) and
+process models (IPCC Tiers 2 and 3) inte grate and link multiple sources, allowing a
+whole farm analysis of GHG fluxes. They are therefore particularly suited to
+understanding trade-offs in the emissions of  different GHGs (see Box 7-2). However, the 
+use of field measurements and process models  can require expertise, data and time that 
+will often not be available.   Companies may choose to use different a pproaches for different activities.

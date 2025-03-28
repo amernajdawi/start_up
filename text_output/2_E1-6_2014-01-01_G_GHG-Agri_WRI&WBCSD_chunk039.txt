@@ -1,0 +1,96 @@
+File Name: 2_E1-6_2014-01-01_G_GHG-Agri_WRI&WBCSD.pdf
+Converted on: 2025-03-28 03:20:54
+Original Size: 1.75 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 39 of 65
+--------------------------------------------------------------------------------
+
+Box 7-1.  IPCC Methodologies for Nationa l GHG Emissions Inventories 
+The Intergovernmental Panel on Climate Change (IPCC) has developed a comprehensive
+set of methodologies - the 2006 IPCC Guidelines for National Greenhouse Gas
+Inventories*  - to guide the preparation of national inventories. Many of the tools listed in 
+Appendix III rely on some portion of these Gu idelines, especially the default emission
+factors and calculation formulae.   The Guidelines define three general tiers of  methodologies based on their complexity and 
+data requirements. The choice of tier de pends, in part, on the significance of the
+emissions sources under consideration.  
+ Tier 1: Simple, emission factor-based approach. Tier 1 emission factors are
+international defaults, although they will of ten have been based on studies conducted
+in a select few (mostly  temperate) countries. 
+ Tier 2: More region-specific  emission factors or more refined empirical estimation 
+methodologies.
+ Tier 3: Dynamic bio-geophysical simulation models using multi-year time series and
+context-specific parameterization.
+These tiers provide a useful means for cate gorizing and understanding the likely accuracy
+of the different calculation me thods that are available. In general, Tier 3 methods are
+considered most accurate and Ti er 1 methods least accurate.   
+
+* http://www.ipcc-nggip.iges.or.jp/public/2006gl/   
+
+--- Page 55 of 103 ---
+
+GHG Protocol Agricultural Guidance
+
+55
+ Table 7-4.  Summary of approaches for calculating th e GHG fluxes to / from non-mechanical sources  
+Approach Advantages Disadvantages
+Field measurements. This
+category includes lab measurements of soil C   Potentially highly accurate, but depends on 
+sampling intensity
+ Implicitly capture the impacts of multiple,
+simultaneous farming practices (assuming multiple
+sources are measured)  High capacity requir ements for technical know-how and equipment
+ Limited to measurable variables
+ Time-consuming
+ Expensive, even if the measuremen t technologies are relatively low
+cost, because of need for many samples
+ Do not by themselves distinguish between the effects of anthropogenic
+factors and environmental factors
+Emission factors.  Quantify 
+the GHG flux as a function
+of farming activity (e.g.,
+tonnes CO 2 emitted per ha
+of farmland)  Inexpensive  
+ Easy to use
+ Low accuracy, but depends on specific ity of the emission factor to
+field conditions
+ May not be sensitive to many changes in environment or management
+regimes (e.g., new animal genotype, different method of applying fertilizer, different animal feed composition, etc.)
+ Do not capture the GHG impacts of multiple, simultaneous farming
+practices
+Empirical models.
+Constructed from statistical
+relationships between empirical GHG data (e.g.,
+existing inventory data or
+yield curves) and management factors   Inexpensive 
+ Low to medium accuracy
+ Easy to use
+ May not be sensitive to changes in environment or management
+regimes, especially at finer spatial scales
+ Do not capture the GHG impacts of multiple, simultaneous farming
+practices
+Process-oriented models.  
+Mathematical
+representations of the biogeochemical processes
+that drive GHG fluxes  Medium to high accuracy, depending on the realism
+of the model and the availability of calibrating data
+ Can represent many different combinations of
+management practices and environmental
+conditions, and so may allow the GHG effects of
+relatively subtle changes in management practices
+to be quantified
+ Designed for use at fine spatial scales
+ Can be run at coarser spatial scales to help average
+out uncertainty, if calibrating background data are
+not available at the farm level (as is the case in many developing countries)  Require vast background datasets (e.g., multi-decadal weather series,
+biomass partitioning parameters, etc.) that may not be available for
+specific regions. Also require exte nsive farm-level data (e.g., on
+seeding and harvesting dates).  
+ High capacity requiremen ts for technical know-how
+ Time-consuming and expensive to run and develop/calibrate
+
+--- Page 56 of 103 ---
+
+GHG Protocol Agricultural Guidance

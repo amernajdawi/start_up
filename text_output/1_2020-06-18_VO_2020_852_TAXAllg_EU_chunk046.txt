@@ -1,0 +1,50 @@
+File Name: 1_2020-06-18_VO_2020_852_TAXAllg_EU.pdf
+Converted on: 2025-03-28 03:20:25
+Original Size: 0.73 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 46 of 54
+--------------------------------------------------------------------------------
+
+Article 19
+Requirements for technical screening criter ia
+1. The technical screening criteria established pursuant to Articles 10(3), 11(3), 12(2), 13(2), 14(2) and 15(2) shall:
+(a) identify the most relevant poten tial contr ibutions to the given environmental objective while respecting the principle of
+technological neutrality , consider ing both the shor t- and long-t erm impact of a given economic activity ;
+(b) specify the minimum requirements that need to be met to avoid significant harm to any of the relevant environmental
+objectives, consider ing both the shor t- and long-ter m impact of a given economic activity ;
+(c) be quantitative and contain thresholds to the extent possible, and other wise be qualitative;
+(d) where appropr iate, build upon Union labelling and certification schemes, Union methodologies for assessing
+envi ronmental footpr int, and Union statistical classification systems, and take into account any relevant existing Union
+legislation;
+(e) where feasible, use sustainability indicator s as refer red to in Article 4(6) of Regulation (EU) 2019/2088;
+(f) be based on conclusive scientifi c evidence and the precautionar y principle enshr ined in Article 191 TFEU;
+(g) take into account the life cycle, including evidence from existing life-cy cle assessments, by consider ing both the
+envi ronmental impact of the economic activity itself and the environmental impact of the products and services
+provided by that economic activity , in particular by consider ing the production, use and end of life of those products
+and services;
+(h) take into account the nature and the scale of the economic activity , including:
+(i) whether it is an enabling activity as referred to in Article 16; or
+(ii) whether it is a transitional activity as referred to in Article 10(2);
+(i) take into account the potential market impact of the transition to a more sustainable econom y, including the risk of
+certain assets becoming stranded as a result of such transition, as well as the risk of creating inconsistent incentives for
+inve sting sustainably ;
+(j) cover all relevant economic activities within a specifi c sector and ensure that those activities are treated equally if they
+contr ibut e equally towards the environmental objectives set out in Article 9 of this Regulation, to avoid distor ting
+competition in the market ; and
+(k) be easy to use and be set in a manner that facilitates the verification of their compliance.
+Where the economic activity belongs to one of the catego ries refer red to in point (h), the technical screening criteria
+shall clearly indicate that fact.
+2. The technical screening criteria referred to in paragraph 1 shall also include criteria for activities relat ed to the clean
+energy transition consistent with a pathwa y to limit the temperature increase to 1,5 0C abov e pre-industr ial levels, in
+particular energy efficiency and renewable energy , to the exte nt that those activities substantially contr ibut e to any of the
+environmental objectives.
+3. The technical screening criteria referred to in paragraph 1 shall ensure that power generation activities that use solid
+fossil fuels do not qualify as environmentally sustainable economic activities.
+4. The technical screening criteria referred to in paragraph 1 shall also include criteria for activities related to the switc h
+to clean or climate -neutral mobility , including through modal shift, efficiency measures and alternative fuels, to the exte nt
+that those are substantially contr ibuting to any of the environmental objectives. EN Offi cial Jour nal of the European Union L 198/36                                                                                                                                         22.6.2020   
+
+--- Page 25 of 31 ---

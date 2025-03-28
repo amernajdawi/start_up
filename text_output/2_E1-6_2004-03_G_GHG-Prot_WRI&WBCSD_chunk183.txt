@@ -1,0 +1,33 @@
+File Name: 2_E1-6_2004-03_G_GHG-Prot_WRI&WBCSD.pdf
+Converted on: 2025-03-28 03:18:16
+Original Size: 3.51 MB
+Chunk Size: 500 tokens with 50 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 183 of 225
+--------------------------------------------------------------------------------
+
+key purpose of the GHG Protocol Corporate Standard
+is to provide companies with guidance on how to
+develop inventories that provide an accurate and
+complete picture of their GHG emissions both fromtheir direct operations as well as those along the valuechain.
+1For some types of companies, this is not
+possible without addressing the company’s impacts onsequestered atmospheric carbon.
+2
+Sequestered atmospheric carbon
+During photosynthesis, plants remove carbon (as CO2)
+from the atmosphere and store it in plant tissue. Untilthis carbon is cycled back into the atmosphere, itresides in one of a number of “carbon pools.” Thesepools include (a) above ground biomass (e.g., vegeta-tion) in forests, farmland, and other terrestrialenvironments, (b) below ground biomass (e.g., roots),and (c) biomass-based products (e.g., wood products)both while in use and when stored in a landfill.
+Carbon can remain in some of these pools for long
+periods of time, sometimes for centuries. An increase inthe stock of sequestered carbon stored in these poolsrepresents a net removal of carbon from the atmos-phere; a decrease in the stock represents a net additionof carbon to the atmosphere.
+Why include impacts on sequestered carbon
+in corporate GHG inventories?
+It is generally recognized that changes in stocks of
+sequestered carbon and the associated exchanges ofcarbon with the atmosphere are important to nationallevel GHG emissions inventories, and consequently, theseimpacts on sequestered carbon are commonly addressedin national inventories (UNFCCC, 2000). Similarly, forcompanies in biomass-based industries, such as the forestproducts industry, some of the most significant aspects ofa company’s overall impact on atmospheric CO
+2levels
+will occur as a result of impacts on sequestered carbon intheir direct operations as well as along their value chain.Some forest product companies have begun to addressthis aspect of their GHG footprint within their corporateGHG inventories (Georgia Pacific, 2002). Moreover,WBCSD’s Sustainable Forest Products Industry WorkingGroup—which represents a significant cluster of inte-grated forestry companies operating internationally—isdeveloping a project that will further investigate carbonmeasurement, accounting, reporting, and ownershipissues associated with the forest products value chain.Information on a company’s impacts on sequestered
+atmospheric carbon can be used for strategic planning, foreducating stakeholders, and for identifying opportunitiesfor improving the company’s GHG profile. Opportunitiesmay also exist to create value from reductions createdalong the value chain by companies acting alone or inpartnership with raw material providers or customers.
+Accounting for sequestered carbon in the
+context of the GHG Protocol Corporate Standard
+Consensus methods have yet to be developed under the
+GHG Protocol Corporate Standard for accounting of

@@ -1,0 +1,43 @@
+File Name: 1_2022-12-14_RL_2022_2464_CSRD_EU.pdf
+Converted on: 2025-03-28 03:18:06
+Original Size: 1.12 MB
+Chunk Size: 500 tokens with 50 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 154 of 204
+--------------------------------------------------------------------------------
+
+(b) that the sustainability repor ting standards require under takings to disclose information necessar y to
+understand their impacts on sustainability matters, and information necessar y to understand how
+sustainability matters affect their development, perf ormance and position.’;
+(4) the following Article is inser ted:
+‘Article 28d
+ESMA guidelines
+After consulting the European Environment Age ncy and the European Union Agen cy for Fundamental Rights, ESMA
+shall issue guidelines in accordance with Article 16 of Regulation (EU) No 1095/2010 on the super vision of
+sustainability repor ting by national compet ent author ities.’.
+Article 3
+Amendments to Directiv e 2006/43/EC
+Directive 2006/43/EC is amended as follows :
+(1) Article 1 is replaced by the followi ng:
+‘Article 1
+Subject matter
+This Directive establishes rules concer ning the statutor y audit of annual and consolidate d accounts and the assurance
+of annual and consolidated sustainability repor ting.’;
+(2) Article 2 is amended as follo ws:
+(a) points 2 to 6 are replaced by the followi ng:
+‘2. “statut ory auditor” means a natural person who is appro ved in accordance with this Directive by the
+compe tent author ities of a Member State to carry out statut ory audits and, where applicable, the assurance of
+sustainability repor ting;
+3. “audit firm” means a lega l person or any other entity , regar dless of its legal form, that is approved in
+accordance with this Directive by the compet ent author ities of a Member State to carry out statut ory audits
+and, where applicable, the assurance of sustainability repor ting;
+4. “third-countr y audit entity” means an entity , regardl ess of its legal form, which carries out audits of the annual
+or consolidated financial state ments, or, where applicable, the assurance of sustainability repor ting of a
+compan y incor porated in a third countr y, other than an entity which is register ed as an audit firm in any
+Member State as a consequence of approval in accordance with Article 3;
+5. “third-countr y auditor” means a natural person who carries out audits of the annual or consolidate d financial
+statements or, where applicable, the assurance of sustainability repor ting of a compan y incor porat ed in a
+third countr y, other than a person who is register ed as a statutor y auditor in any Member State as a
+consequence of approval in accordance with Articles 3 and 44;

@@ -1,0 +1,40 @@
+File Name: 1_2023-07-31_DelVO_2023_2772_ESRS_EU.pdf
+Converted on: 2025-03-28 03:20:41
+Original Size: 5.82 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 91 of 284
+--------------------------------------------------------------------------------
+
+--- Page 93 of 284 ---
+
+ELI: http://data.europa.eu/eli/reg_del/2023/2772/oj 93/2842030 2050
+Cross-sector (ACA) reductions pathway based on the year 2020 as
+the reference year- 42% - 90%
+Source: based on Pathways to Net-zero –SBTi Technical Summary (Version 1.0, October 2021)
+AR 29. The reference target value is dependent on the base year and baseline emissions of the undertaking’s GHG
+emission reduction target. As a result, the reference target value for undertakings with a recent base year or from
+higher baseline emissions may be less challenging to achieve than it will be for undertakings that have already
+taken ambitious past actions to reduce GHG emissions. Therefore, undertakings that have in the past achieved
+GHG emissions reductions compatible with either a 1.5°C-aligned cross-sector or sector-specific pathway, may
+adjust their baseline emissions accordingly to determine the reference target value. Accordingly, if the undertaking
+is adjusting the baseline emissions to determine the reference target value, it shall not consider GHG emission
+reductions that precede the year 2020 and it shall provide appropriate evidence of its past achieved GHG
+emission reduction.
+AR 30. When disclosing the information required under paragraph 34 (f), the undertaking shall explain:
+(a) by reference to its climate change mitigation actions, the decarbonisation levers and their estimated
+quantitative contributions to the achievement of its GHG emission reduction targets broken down by each
+Scope (1, 2 and 3);
+(b) whether it plans to adopt new technologies and the role of these to achieve its GHG emission reduction
+targets; and
+(c) whether and how it has considered a diverse range of climate scenarios, at least including a climate scenario
+compatible with limiting global warming to 1.5°C, to detect relevant environmental-, societal-, technology-,
+market- and policy-related developments and determine its decarbonisation levers.
+AR 31. The undertaking may present its GHG emission reduction targets together with its climate change mitigation
+actions (see paragraph AR 19) as a table or graphical pathway showing developments over time. The following
+figure and table provide examples combining targets and decarbonisation levers:
+OJ L, 22.12.2023 EN  
+
+--- Page 94 of 284 ---

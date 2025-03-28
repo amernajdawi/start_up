@@ -1,0 +1,91 @@
+File Name: 2_E1-6_2011-09-01_G_GHG-PLC_WRI&WBCSD.pdf
+Converted on: 2025-03-28 03:20:53
+Original Size: 3.27 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 41 of 116
+--------------------------------------------------------------------------------
+
+[51]
+CHAPTER 08 Collecting Data and Assessing Data Quality
+guidance8.3.4 Identifying data types
+Identifying the data types used in an inventory will
+provide companies with a better understanding of the
+data and their quality. Typically, data can be gathered in
+one of two ways:
+1.     Directly measuring or modeling the emissions 
+released from a process
+2.     Collecting activity data and emission factors for 
+a process and multiplying the activity data by the
+emission factor
+The sources of data used in the inventory should be
+documented in the data management plan (see Appendix
+C). Direct emissions data, activity data (process and
+financial), and emission factors are types of data defined
+in this standard.
+Direct emissions data
+Direct emissions data are derived from  emission 
+releases and are determined through direct monitoring,
+stoichiometry, mass balance, or similar methods.
+Examples of direct emissions data include:
+ •Emissions from an incinerator measured through  
+a continuous emissions monitoring system (CEMS)
+•A chemical reaction’s emissions determined using
+stochiometric equation balancing
+•Fugitive refrigerant emissions determined using a
+mass balance approach
+Activity data
+Activity data are the  quantitative measure of a level of 
+activity that results in GHG emissions. Activity data can be
+measured, modeled, or calculated.
+There are two categories of activity data: process activity
+data and financial activity data.
+Process activity data
+Process activity data are physical measures of a process
+that results in GHG emissions or removals. These data
+capture the physical inputs, outputs, and other metrics
+of the product’s life cycle. Process activity data, when
+combined with a process emission factor, result in the
+calculation of GHG emissions. Examples of process activity
+data include:Box [8.2]  Using environmentally extended input-
+output emission factors
+Environmentally extended input-output (EEIO)
+models estimate energy use and/or GHG emissions
+resulting from the production and upstream supply
+chain activities of different sectors and products
+within an economy. The resulting EEIO emissions
+factors can be used to estimate GHG emissions for
+a given industry or product category. EEIO data are
+particularly useful in screening emission sources
+when prioritizing data collection efforts.
+EEIO models are derived by allocating national GHG
+emissions to groups of finished products based on
+economic flows between industry sectors. EEIO
+models vary in the number of sectors and products
+included and how often they are updated. EEIO data
+are often comprehensive, but the level of granularity
+is relatively low compared to other sources of data.1
+•Energy (e.G., Joules of energy consumed)
+•Mass (e.G., Kilograms of a material)
+•Volume (e.G., Volume of chemicals used)
+•Area (e.G., Area of a production facility)
+•Distance (e.G., Kilometers travelled)
+•Time (e.G., Hours of operation)
+Financial activity data
+Financial activity data are monetary measures of a process
+that results in GHG emissions. Financial activity data,
+when combined with a financial emission factor (e.g.,
+environmentally extended input-output [EEIO] emission
+factor), result in the calculation of GHG emissions.
+While process activity data measure the physical inputs,
+outputs, and other metrics of a process, financial activity
+data measure the financial transactions associated with
+a process.
+If a company initially collects financial activity data on a
+process input and then determines the amount of energy
+or material inputs using a conversion factor, the resulting
+activity data are considered process data. For example,
+
+--- Page 54 of 148 ---

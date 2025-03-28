@@ -1,0 +1,30 @@
+File Name: 2_E1-6_2004-03_G_GHG-Prot_WRI&WBCSD.pdf
+Converted on: 2025-03-28 03:18:16
+Original Size: 3.51 MB
+Chunk Size: 500 tokens with 50 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 113 of 225
+--------------------------------------------------------------------------------
+
+--- Page 57 of 116 ---
+
+Estimation uncertainty arises any time GHG emissions
+are quantified. Therefore all emissions or removal esti-mates are associated with estimation uncertainty.Estimation uncertainty can be further classified into twotypes:
+model uncertainty and parameter uncertainty.3
+Model uncertainty refers to the uncertainty associated
+with the mathematical equations (i.e., models) used tocharacterize the relationships between various parame-ters and emission processes. For example, modeluncertainty may arise either due to the use of an incor-rect mathematical model or inappropriate input intothe model. As with scientific uncertainty, estimatingmodel uncertainty is likely to be beyond mostcompany’s inventory efforts; however, some companiesmay wish to utilize their unique scientific and engi-neering expertise to evaluate the uncertainty in theiremission estimation models.
+Parameter uncertainty refers to the uncertainty associ-
+ated with quantifying the parameters used as inputs(e.g., activity data and emission factors) into estima-tion models. Parameter uncertainties can be evaluatedthrough statistical analysis, measurement equipmentprecision determinations, and expert judgment.Quantifying parameter uncertainties and then esti-mating source category uncertainties based on theseparameter uncertainties will be the primary focus ofcompanies that choose to investigate the uncertainty intheir emission inventories.
+LIMITATIONS OF UNCERTAINTY ESTIMATES
+Given that only parameter uncertainties are within thefeasible scope of most companies, uncertainty estimatesfor corporate GHG inventories will, of necessity, beimperfect. Complete and robust sample data will notalways be available to assess the statistical uncertainty
+4
+in every parameter. For most parameters (e.g., liters ofgasoline purchased or tonnes of limestone consumed),only a single data point may be available. In somecases, companies can utilize instrument precision orcalibration information to inform their assessment ofstatistical uncertainty. However, to quantify some of thesystematic uncertainties
+5associated with parameters
+and to supplement statistical uncertainty estimates, companies will usually have
+to rely on expert judgment.6The problem with expert
+judgment, though, is that it is difficult to obtain in acomparable (i.e., unbiased) and consistent manneracross parameters, source categories, or companies.
+CHAPTER 7 Managing Inventory Quality 55GUIDANCE
+
+--- Page 58 of 116 ---

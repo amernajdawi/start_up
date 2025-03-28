@@ -1,0 +1,50 @@
+File Name: 1_2023-07-31_DelVO_2023_2772_ESRS_EU.pdf
+Converted on: 2025-03-28 03:20:41
+Original Size: 5.82 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 55 of 284
+--------------------------------------------------------------------------------
+
+ELI: http://data.europa.eu/eli/reg_del/2023/2772/oj 55/284Minimum disclosure requirement – Metrics MDR-M – Metrics in relation to material sustainability matters
+73. The undertaking shall apply the requirements for the content of disclosures in this provision when it discloses on the
+metrics it has in place with regard to each material sustainability matter .
+74. The objective of this Minimum Disclosure Requirement is to provide an understanding of the metrics the
+undertaking uses to track the effectiveness of its actions to manage material sustainability matters.
+75. The undertaking shall disclose any metrics that it uses to evaluate performance and effectiveness, in relation to a
+material impact, risk or opportunity.
+76. Metrics shall include those defined in ESRS, as well as metrics identified on an entity-specific basis, whether taken
+from other sources or developed by the undertaking itself.
+77. For each metric, the undertaking shall:
+(a) disclose the methodologies and significant assumptions behind the metric, including the limitations of the
+methodologies used;
+(b) disclose whether the measurement of the metric is validated by an external body other than the assurance
+provider and, if so, which body;
+(c) label and define the metric using meaningful, clear and precise names and descriptions;
+(d) when currency is specified as the unit of measure, use the presentation currency of its financial statements.
+Minimum Disclosure Requirement – Targets MDR-T – Tracking effectiveness of policies and actions through targets
+78. The undertaking shall apply the requirements for the content of disclosures in this provision when it discloses
+information about the targets it has set with regard to each material sustainability matter.
+79. The objective of this Minimum Disclosure Requirement is to provide for each material sustainability matter an
+understanding of:
+(a) whether and how the undertaking tracks the effectiveness of its actions to address material impacts, risks and
+opportunities, including the metrics it uses to do so;
+(b) measurable time-bound outcome-oriented targets set by the undertaking to meet the policy’s objectives, defined
+in terms of expected results for people, the environment or the undertaking regarding material impacts, risks and
+opportunities;
+(c) the overall progress towards the adopted targets over time;
+(d) in the case that the undertaking has not set measurable time-bound outcome-oriented targets, whether and how
+it nevertheless tracks the effectiveness of its actions to address material impacts, risks and opportunities and
+measures the progress in achieving its policy objectives; and
+(e) whether and how stakeholders have been involved in target setting for each material sustainability matter.
+80. The undertaking shall disclose the measurable, outcome-oriented and time-bound targets on material sustainability
+matters it has set to assess progress. For each target, the disclosure shall include the following information:
+(a) a description of the relationship of the target to the policy objectives;
+(b) the defined target level to be achieved, including, where applicable, whether the target is absolute or relative and
+in which unit it is measured;
+(c) the scope of the target, including the undertaking’s activities and/or its upstream and/or downstream value chain
+where applicable and geographical boundaries;OJ L, 22.12.2023 EN  
+
+--- Page 56 of 284 ---

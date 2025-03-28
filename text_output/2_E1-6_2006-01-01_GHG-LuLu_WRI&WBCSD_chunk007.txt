@@ -1,0 +1,169 @@
+File Name: 2_E1-6_2006-01-01_GHG-LuLu_WRI&WBCSD.pdf
+Converted on: 2025-03-28 03:20:49
+Original Size: 6.41 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 7 of 50
+--------------------------------------------------------------------------------
+
+3.3ConsideringAlltheSecondaryEffects
+Projectactivities,ortheactionsrequiredtoachievethe
+project’sGHGgoals,oftenchangeGHGemissionsand
+sometimesremovalsbeyondtheprojectactivity’sprimary
+effects.Thesearethesecondaryeffectsandareunintended
+fromtheperspectiveoftheGHGreductions,althoughthey
+maybeanintegralpartoftheprojectactivity(ies).For
+LULUCFprojects,secondaryeffectsareprimarilychanges
+innonbiologicalemissionsandbiologicalchangesincarbon
+stocksresultingfrommarketresponses(discussedinsection
+3.3.2ofthischapter).
+Secondaryeffectsareusuallysmallcomparedwiththe
+primaryeffect(seetheexampleinannexA),butoccasion -
+allytheyarelargeornumerousenoughtominimizethe
+intendedGHGreductionsoftheGHGproject,thereby
+renderingtheprojectactivityunviableasaGHGreduction
+effort.Forthisreason,projectdevelopersshouldconsider
+secondaryeffectsandtheirpossiblemagnitudebefore
+movingforwardwiththeGHGproject.TheGHGassessment
+boundaryshouldincludeallsignificantsecondaryeffects.
+Secondaryeffectsmayoccuronandofftheprojectsite.On-
+sitesecondaryeffectssuchasthenonbiologicalGHG
+emissionsfromsitepreparation,planting,fertilizerand
+herbicideapplication,andsilviculturalactivitiessuchas
+thinning,pruning,orharvesting(e.g.,mobilecombustion
+emissions)areusuallytheeasiesttorecognizeandquantify.
+Theseactivitiesareoftenanintegralcomponentofthe
+establishmentandmaintenanceofLULUCFprojectactivi-
+ties,andtheygenerallycanbecontrolledorinfluencedby
+theprojectdeveloper.Anexampleofsecondaryeffectsthat
+mayoccurofftheprojectsiteistheGHGemissionsfrom
+transportingharvestedtrees.
+TheProjectProtocoldividessecondaryeffectsintoone-time
+effectsandupstreamanddownstreameffects.
+3 . 3 . 1 O N E - T I M E E F F E C T S
+One-timeeffectsaresecondaryeffectsthatareconsidered
+onlyonceduringtheproject’slifetime.Theyareusually
+relatedtothenonbiologicalGHGemissionsduringthe
+establishmentorterminationoftheprojectactivity,for
+example,themobilecombustionemissionsfromland-
+clearingequipment.Occasionally,one-timeeffectsfrom
+LULUCFprojectactivitiesoccurduringthelifeofaproject,
+forexample,themobilecombustionemissionsfromasingle
+precommercialthinningofaforeststand.Table3.1shows
+someexamplesofone-timesecondaryeffectsfromrefor -
+estationandforestmanagementprojectactivities.CHAPTER3:DefiningtheGHGAssessmentBoundary
+17 POTENTI ALMARKET RESPONSES A
+(eitherpositiveornegative )
+Responsetoincreasedfertilizeruse.
+Responsetoincreasedfossilfueluse.
+Responsetoincreasedfossilfueluse.
+Responsetoincreasedherbicideuse.
+Responsetoincreasedfossilfueluse.
+Responsetoincreasedfossilfueluse.
+Responsetoincreasedfossilfueluse.
+Responsetoincreasedfossilfueluse.
+Responsetoincreasedfossilfueluse.
+Responsetoincreasedfossilfueluse.
+Responsetoincreasedfossilfueluse.
+Responsetoincreasedfertilizeruse.
+Responsetoincreasedfossilfueluse.
+Responsetochangeinfibersupply.
+Responsetodecreasedfossilfueluse.
+Responsetochangeinfibersupply.
+Responsetodecreasedfossilfueluse.
+Responsetochangeinfibersupply.
+
+--- Page 20 of 100 ---
+
+3 . 3 . 2 U P S T R E A M A N D D O W N S T R E A M E F F E C T S
+Upstreamanddownstreameffectsarerecurrentandshould
+beconsideredthroughouttheGHGproject’soperating
+lifetime.Theyarerelatedtoeithertheinputsused
+(upstreameffects),likefertilizer,orwhatisproduced
+(downstreameffects)bytheprojectactivity.Whetherthe
+secondaryeffectisanupstreamordownstreameffect
+dependsontheprojectactivity.Table3.1alsoshowssome
+examplesofupstreamanddownstreamsecondaryeffectsfor
+reforestationandforestmanagementprojectactivities.
+Identificationofupstreamanddownstreameffectsdoesnot
+requireafulllife-cycleassessment.Manysecondaryeffects
+thatwouldbeincludedinalife-cycleassessmentwouldbe
+excludedfromtheGHGassessmentboundarybecausethe
+sizeoftheirGHGemissions,comparedwiththoseofother
+secondaryeffectsortheprimaryeffect,issmall(see
+sections3.4and3.5onestimatingsecondaryeffectsand
+assessingtheirsignificance).AnnexAprovidesanexample
+ofalife-cycleassessmentandthesubsequentidentification
+ofupstreamanddownstreameffects.
+UpstreamandDownstreamEffects
+InvolvingMarketResponses
+Upstreamanddownstreameffectsmayprovokeresponses
+fromthemarketwhenalternativeproducersorthe
+consumersofaninputorproductreacttoachangein
+marketsupplyordemandthatiscausedbytheprojectactiv -
+ityandresultsinachangeinGHGemissionsoutsidethe
+projectsite.Marketresponsesvarybylocation,thenature
+oftheinputsbeingconsumedortheproductresultingfrom
+theprojectactivity,andspecificattributesofthemarket
+withinwhichtheprojectactivityisoperating.Table3.1lists
+somepotentialmarketresponsesforreforestationandforest
+managementprojects.Mostoftherecognizedmarketresponsestoreforestation
+andforestmanagementprojectactivitiesresultdirectly
+fromtheprojectactivityitself,thatis,anincreaseor
+decreaseinthesupplyoffibertoalocal,regional,orglobal
+market.Thelikelihoodofmarketresponsesdependson
+•Theextentthattheproductsorserviceseitherconsumed
+orproducedbytheprojectactivitycanbereplacedby
+substitutes(e.g.,howmanyothertypesofbuilding
+productsareavailablethatcanbesubstitutedforhigh-
+gradebuildinglumberforframing).
+•Theabilityofalternativeproducerstochangetheirsupply
+ofaproductorservice(e.g.,howeasilyandquicklyforestry
+companiescanchangetheirsupplyoffibertothemarket).
+•Thecumulativeimpactofsimilarprojectactivities(e.g.,
+howmanyothersimilarGHGprojectsareinthe
+geographicareaand,inaggregate,howtheseGHG
+projectswillchangethesupplyofagivenproductor
+servicesuchashigh-gradebuildinglumber).
+3 . 3 . 3 M I T I G AT I N G S E C O N D A RY E F F E C T S
+ManyofthesecondaryeffectsofLULUCFprojectactivities
+resultfromactionsnecessarytoimplementtheGHG
+project.ThechallengeofLULUCFprojectactivitiesis
+mitigatingnegativesecondaryeffectswherepossiblewhile
+recognizingthattheyprobablyareaninherentpartofthe
+projectactivity.Mitigatingnegativesecondaryeffectsmay
+reducetheirsignificanceenoughtoexcludethemfromthe
+GHGassessmentboundary(seesection3.5).
+CHAPTER3:DefiningtheGHGAssessmentBoundar y 18
+TA B L E 3 . 2 Mitigation OptionsforSecondary Effects fromForestManagementProjectActivities
+P R O J E C T A C T I V I T Y
+Insectorfirecontrol,e.g.,
+suppressionofinsectorfire
+disturbance.
+Silviculture,e.g.,precommercial
+orcommercialthinning.
+Fertilization.
+Enrichmentplantingor
+postfireplanting.P O S S I B L E S E C O N D A RY E F F E C T S
+IncreaseinGHGemissionsifadditionalequip -
+mentisneededortheareawheresuppression
+practicesareimplementedisexpanded.
+IncreaseinGHGemissionsfromincreased
+machineryuse.
+IncreaseinN 2Oemissionsfromfertilizer.
+IncreaseinGHGemissionsfromnursery
+constructionandoperations.MITIGATIONOPTI ONS
+•Usefuel-efficientequipment.
+•Maximizeequipmentuseandeffectiveness.
+•Usefuel-efficientmachinery.
+•Avoidusingvolatileformsofammonium-N,
+andsubstitutewithureaorotherammonium
+compounds(ammoniumnitrate,ammonium
+phosphate,etc.).
+•Usenitrogen-fixingplantsasacovercrop.
+•Usefuel-efficientmachineryandrenewableenergy
+fornurseryconstructionandoperation.
+
+--- Page 21 of 100 ---

@@ -1,0 +1,15 @@
+File Name: 1_2023-07-31_DelVO_2023_2772_ESRS_EU.pdf
+Converted on: 2025-03-28 03:20:41
+Original Size: 5.82 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 206 of 284
+--------------------------------------------------------------------------------
+
+derived from a mandatory indicator related to principal adverse impacts as set out by indicator #10 in Table I of Annex I of
+Commission Delegated Regulation (EU) 2022/1288 with regard to disclosure rules on sustainable investments; and benchmark
+administrators to disclose ESG factors subject to Regulation (EU) 2020/1816 as set out by indicators “Number of benchmark constituents subject to social violations (absolute number and relative divided by all benchmark constituents), as referred to in international treaties and conventions, United Nations principles and, where applicable, national law” and “Exposure of the
+benchmark portfolio to companies without due diligence policies on issues addressed by the fundamental International Labour
+Organisation Conventions 1 to 8” in section 1 and 2 of Annex II.OJ L, 22.12.2023 EN

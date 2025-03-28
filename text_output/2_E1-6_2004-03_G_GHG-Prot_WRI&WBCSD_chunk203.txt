@@ -1,0 +1,22 @@
+File Name: 2_E1-6_2004-03_G_GHG-Prot_WRI&WBCSD.pdf
+Converted on: 2025-03-28 03:18:16
+Original Size: 3.51 MB
+Chunk Size: 500 tokens with 50 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 203 of 225
+--------------------------------------------------------------------------------
+
+activity data and emission factors (available at www.ghgprotocol.org).
+GHG Protocol Initiative A multi-stakeholder collaboration convened by the World Resources Institute and World Business Council
+for Sustainable Development to design, develop and promote the use of accounting and reporting standards for business. It comprises of two separate but linked standards — the GHG Protocol Corporate
+Accounting and Reporting Standard and the GHG Protocol Project Quantification Standard.
+GHG Protocol Project An additional module of the GHG Protocol Initiative addressing the quantification of GHG
+Quantification Standard reduction projects. This includes projects that will be used to offset emissions elsewhere and/or
+generate credits. More information available at www.ghgprotocol.org. (Chapter 8, 11)
+GHG Protocol sector specific A GHG calculation tool that addresses GHG sources that are unique to certain sectors, e.g., process
+calculation tools emissions from aluminum production. (see also GHG Protocol Calculation tools)
+GHG public report Provides, among other details, the reporting company’s physical emissions for its chosen inventory
+boundary. (Chapter 9)
+98Glossary

@@ -1,0 +1,139 @@
+File Name: 2_E1-6_2006-01-01_GHG-LuLu_WRI&WBCSD.pdf
+Converted on: 2025-03-28 03:20:49
+Original Size: 6.41 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 22 of 50
+--------------------------------------------------------------------------------
+
+CHAPTER10:MonitoringandQuantifying GHGReductions
+SecondaryEffects zt =EmissionsSecondaryEffects zt +∆SecondaryEffectsCarbonStocks zt
+EmissionsSecondaryEffects zt =∑s[BaselineEmissions szt –ProjectActivityEmissions szt ]
+BaselineEmissions szt =BaselineGHGemissionsrelatedtoeachsecondaryeffect,s,foreachprojectactivity,z,in
+periodtforagivenunitoflandarea(e.g.,hectare)(intCO 2eq)
+ProjectActivityEmissions szt =GHGemissionsrelatedtoeachsecondaryeffect,s,foreachprojectactivity,z,in
+periodtforagivenunitoflandarea(e.g.,hectare)(intCO 2eq)
+∆SecondaryEffectsCarbonStock zt (tCO 2eq)=
+Net∆SecondaryEffectCarbonStocks zt •44—12 tCO 2/tcarbon
+Net∆SecondaryEffectCarbonStocks zt (tcarbon)
+=∑s[∆ProjectActivitySecondaryEffectCarbonStocks szt –∆BaselineSecondaryEffectCarbonStocks szt ]
+∆ProjectActivitySecondaryEffectCarbonStocks szt
+=ProjectActivitySecondaryEffectCarbonStocks szt –ProjectActivitySecondaryEffect
+CarbonStocks sz(t-1)
+ProjectActivitySecondaryEffectCarbonStocks szt =∑kcarbonstocksfromeachbiological
+carbonpoolmeasured,k,relatedtoeachsecondaryeffect,s,forprojectactivity,z,forperiodtfor
+agivenunitoflandarea(e.g.,hectare)
+∆BaselineSecondaryEffectCarbonStocks szt
+=BaselineSecondaryEffectCarbonStocks szt –BaselineSecondaryEffectCarbonStocks sz(t-1)
+BaselineSecondaryEffectCarbonStocks szt =∑kbaselinecarbonstocksfromeachbiological
+carbonpoolmeasured,k,relatedtoeachsecondaryeffect,s,forprojectactivity,z,forperiodtfor
+agivenunitoflandarea(e.g.,hectare)
+53
+N O T E S
+1AlthoughbaselineGHGremovalsshouldalreadyhavebeencalcu -
+latedinchapter6or7,theequationisrepeatedhereforreference.
+
+--- Page 56 of 100 ---
+
+54
+PARTII:GHGReductionAccountingandReporting
+HGreductions forLULUCFprojectsareuniqueinthatthecarbondioxidelevelsreduced
+byremovingandstoringcarboninbiologicalsystemsaretemporary andthe
+removed/storedcarbonmayreturntotheatmosphereinthefuture(referredtoasarever -
+salofcarbo nstorage ).Reversalsmayresultfromintentionalactivities(e.g.,plannedharvesting
+ofaforest)oraccidents(e.g.,forestfires,insectattacks).Intentionalreversalsshouldbefactored
+intotheassessmentoftheproject’sprimaryeffect,asshowninchapter10,Monitoringand
+QuantifyingGHGReductions,takingintoaccountanycompensatingmechanismsincorporatedinto
+theprojectdesign.CarbonReversibility
+ManagementPlan
+G1 1
+
+--- Page 57 of 100 ---
+
+Thelikelihoodofareversalvariesaccordingtoprojecttype,
+species,location,intensityofmanagement,andavailability
+ofsuppression ormitigationoptions.Projectdevelopers
+shouldconsidertheprobabilityofreversalsandhowthey
+plantodealwiththem,anddevelopa carbonreversibility
+management plan .Theplanshouldincludemethodsfor
+reducingtheriskofreversals(mitigation)andreplacingthe
+carbononceithasbeenreleased(adaptation).Topromote
+transparencyandincreaseinvestors’confidence,anyproject
+thatstorescarboninbiologicalsystemsshouldincludesuch
+aplan.Itshoulddocumentthereversibleelementsofthe
+GHGproject,assessthesignificanceofthereversibilityto
+theexpectedGHGreduction,anddescribethemeasuresthat
+willbetakentoreduceand/orcompensateforthecarbon
+reversal.Thisplanshouldbeincorporatedintotheoverall
+projectdocumentation,asitwillhelpGHGprograms,
+investors,andothersmakemoreinformedjudgmentsabout
+theproject’seffectiveness inreducingGHGemissions.
+Toprepareacarbonreversibilitymanagementplan,
+•Identifyandassessthereversibleelementsoftheproject’s
+GHGreduction.
+•Describetheactionsundertakentosuppressormitigate
+thereversibilityofGHGreductions.
+•Foranyresidualriskofreversibility,establishmechanisms
+tocompensateforanyreversalsofcarbonstorage.
+•Developaplantomonitorcarbonreversibilityandrisk.
+11.1 Identify andAssesstheReversible
+ElementsoftheProject’sGHGReduction
+Itisbesttoidentifyandassesstheextenttowhicha
+project’sGHGreductioncanbereversedovertimeearlyin
+theprojectdevelopmentprocess,asthiswillenablethe
+projectdevelopertotakemeasurestoreduceoreliminate
+reversibilityduringtheprojectdesignphase.Thefirststepis
+todeterminewhichpoolsstorecarbon.InLULUCFproject
+activities,carbonistypicallystoredinmanydifferentpools
+(e.g.,livingbiomass,deadorganicmatter,soil),butonlya
+subsetofthesepoolsmaybeatriskofreversal.For
+instance,soilcarbonandbelowgroundbiomass(e.g.,roots)
+maybeminimallyaffectedbyafireorevenbeenhancedby
+theadditionofcharcoalafterafire.SomeGHGprojects
+mayalsohavemultipleprojectactivitiesanddifferentland
+parcels,eachwithadifferentlevelofrisk.
+Thenextstepistoconsiderthereversibilityofeachofthe
+poolsstoringcarbon(seebox11.1).Atoneextreme,GHG
+projectsmaybeabletoproviderelativelysecure,long-
+durationreductions,forexample,aprojectina
+government-designatedwildernessareawithhighrainfall,
+lowfire,andpestrisk,securelandtenureenforcedbythe
+courts,andnoharvesting. Attheotherextreme,theriskofreversibilitymaybequitehighduetovariableoutbreaksof
+fireandpests,rapidland-usechange,insecurelandtenure
+notenforcedbythecourts,fluctuatingmarketand
+commoditypricesandconditions,anduncertainand
+variablegovernmentpolicies.MostGHGprojectsfall
+somewhereinthemiddle,meaningthattheriskofreversal
+shouldbeaddressed.
+Last,iftheGHGreductionscouldbereversed,therisk
+shouldbeestimated.Todothis,
+•Estimatethehistoryofriskfortheprojectactivity,carbon
+pool,andgeographicareaoveratleasttenyears,aperiod
+thatwillvaryaccordingtositeandlocation.
+•Determinethechangeinthestoredcarbonrelatedtothis
+risk(e.g.,percentageofbiomassburnedperhectarefora
+particularforesttypeandlocation).
+Riskestimatesaretypicallyquiteuncertain,sotheyare
+usuallypresentedasarangeofprobabilities.Projectdevel-
+opersshoulduseriskestimatesthatreducethechanceof
+underestimatingtherisk.Theproject’sriskofreversal,a
+listoftheprojectactivitiesorcarbonpoolsatriskofbeing
+reversed,thefactorscontributingtothisrisk,andthe
+degreeofuncertaintysurroundingtheestimateshouldall
+bedocumented.Ifthecarbonstorageisnotreversible,this
+shouldbeexplainedaswell.CHAPTER11:CarbonReversibilityManagement Plan
+55 Carbonstoragemaybereversedinthebaselinecarbonstocksand
+shouldbeexploredwhenestimatingthebaselinecarbonstocks.
+Forexample,theexistingdatafromforestinventoriesoftenindicate
+regionalfirepatternsandpestfrequency,harvestpatternsand
+methods,andbiomassharvestedperhectare.Regionalpatternsof
+resourceandlanduse,socioeconomictrends,andcurrentland-
+usepracticesmayalreadyhaveincorporatedmanyofthese
+reversibilityrisksintotheperformancebenchmarks.Anyintentional
+orplannedactivitiesaffectingcarbonstocksalsoshouldbeincor -
+poratedintothecalculationoftheGHGreduction(e.g.,thinning
+andharvestingforforestmanagementprojects).B O X 11.1 ReversibilityandBaselineCarbonStocks
+
+--- Page 58 of 100 ---

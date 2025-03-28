@@ -1,0 +1,46 @@
+File Name: 1_2023-07-31_DelVO_2023_2772_ESRS_EU.pdf
+Converted on: 2025-03-28 03:20:41
+Original Size: 5.82 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 42 of 284
+--------------------------------------------------------------------------------
+
+ELI: http://data.europa.eu/eli/reg_del/2023/2772/oj 43/284(b) in relation to each quantitative metric and monetary amount identified:
+i.disclose information about the sources of measurement uncertainty (for example, the dependence of the
+amount on the outcome of a future event, on a measurement technique or on the availability and quality of
+data from the entity’s upstream and/or downstream value chain); and
+ii.disclose the assumptions, approximations and judgements the entity has made in measuring it.
+12. When disclosing forward-looking information, the undertaking may indicate that it considers such information to be uncertain.
+Changes in preparation or presentation of sustainability information
+13. When changes in the preparation and presentation of sustainability information occur compared to the previous
+reporting period(s), (see ESRS 1 section 7.4 Changes in preparation or presentation in sustainability information), the
+undertaking shall:
+(a) explain the changes and the reasons for them, including why the replaced metric provides more useful
+information;
+(b) disclose revised comparative figures, unless it is impracticable to do so. When it is impracticable to adjust comparative information for one or more prior periods, the undertaking shall disclose that fact; and
+(c) disclose the difference between the figure disclosed in the preceding period and the revised comparative figure.
+Reporting errors in prior periods
+14. When the undertaking identifies material prior period errors (see ESRS 1 section 7.5 Reporting errors in prior periods), it
+shall disclose:
+(a) the nature of the prior period material error;
+(b) to the extent practicable, the correction for each prior period included in the sustainability statement; and
+(c) if correction of the error is not practicable, the circumstances that led to the existence of that condition.
+Disclosures stemming from other legislation or generally accepted sustainability reporting pronouncements
+15. When the undertaking includes in its sustainability statement information stemming from other legislation which
+requires the undertaking to disclose sustainability information or from generally accepted sustainability reporting
+standards and frameworks (see ESRS 1 section 8.2 Content and structure of the sustainability statement), in addition to
+the information prescribed by ESRS, it shall disclose this fact. In case of partial application of other reporting standards or frameworks, the undertaking shall provide a precise reference to the paragraphs of the standard or
+framework applied.
+Incorporation by reference
+16. When the undertaking incorporates information by reference (see ESRS 1 section 9.1 Incorporation by reference), it shall
+disclose a list of the disclosure requirements of ESRS, or the specific datapoints mandated by a Disclosure
+Requirement, that have been incorporated by reference.
+Use of phase-In provisions in accordance with Appendix C of ESRS 1
+17. If an undertaking or group not exceeding on its balance sheet date the average number of 750 employees during the
+financial year decides to omit the information required by ESRS E4, ESRS S1, ESRS S2, ESRS S3 or ESRS S4 in
+accordance with Appendix C of ESRS 1, it shall nevertheless disclose whether the sustainability topics covered OJ L, 22.12.2023 EN  
+
+--- Page 44 of 284 ---

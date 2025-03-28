@@ -1,0 +1,39 @@
+File Name: 2_ESRS2_SBM1_2006-12-20_VO_NACER2_EU.pdf
+Converted on: 2025-03-28 03:20:56
+Original Size: 0.17 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 3 of 45
+--------------------------------------------------------------------------------
+
+ensures that Community classifications are relevant to theL 393/2 EN Official Journal of the European Union 30.12.2006
+(1) OJ L 196, 5.8.1993, p. 1. Regulation as last amended by Regulation
+(EC) No 1882/2003.
+(2) OJ L 374, 31.12.1991, p. 1. Regulation as amended by Regulation
+(EC) No 1882/2003.
+(3) OJ L 14, 17.1.1997, p. 1. Regulation as last amended by Regulation
+(EC) No 1882/2003.
+(4) OJ L 162, 5.6.1998, p. 1. Regulation as last amended by Regulation
+(EC) No 1503/2006 of the European Parliament and of the Council(OJ L 281,12.10.2006, p. 15).
+(
+5) OJ L 163, 6.6.1998, p. 1. Regulation as last amended by Regulation
+(EC) No 1882/2003.
+(6) OJ L 63, 12.3.1999, p. 6. Regulation as last amended by Regulation
+(EC) No 1882/2003.
+(7) OJ L 332, 9.12.2002, p. 1. Regulation as last amended by
+Commission Regulation (EC) No 783/2005 (OJ L 131, 25.5.2005,
+p. 38).
+(8) OJ L 69, 13.3.2003, p. 1.
+(9) OJ L 7, 13.1.2004, p. 1.
+(10) OJ L 143, 30.4.2004, p. 49.
+(11) OJ L 255, 30.9.2005, p. 1.(12) OJ L 310, 30.11.1996, p. 1. Regulation as last amended by Regulation
+(EC) No 1267/2003 of the European Parliament and of the Council
+(OJ L 180, 18.7.2003, p. 1).
+(13) OJ L 33, 5.2.2004, p. 1. Regulation as amended by Commission
+Regulation (EC) No 909/2006 (OJ L 168, 21.6.2006, p. 14).
+(14) OJ L 35, 8.2.2005, p. 23. Regulation as amended by Commission
+Regulation (EC) No 602/2006 (OJ L 106, 19.4.2006, p. 10).
+(15) OJ L 184, 17.7.1999, p. 23. Decision as amended by Decision
+2006/512/EC (OJ L 200, 22.7.2006, p. 11).

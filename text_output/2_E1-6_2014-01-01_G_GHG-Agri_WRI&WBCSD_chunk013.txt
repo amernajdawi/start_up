@@ -1,0 +1,143 @@
+File Name: 2_E1-6_2014-01-01_G_GHG-Agri_WRI&WBCSD.pdf
+Converted on: 2025-03-28 03:20:54
+Original Size: 1.75 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 13 of 65
+--------------------------------------------------------------------------------
+
+11
+Table 1-2. Summary of how this Guidance maps onto each Chapter in the Corporate
+Standard
+Chapter in Corporate Standard Corresponding content in the Agricultural
+Guidance
+Chapter 1: GHG Accounting
+and Reporting Principles  Chapter 3 reviews these principles 
+Chapter 2: Business Goals and
+Inventory Design  Chapter 2 highlights business goals specific to the 
+agricultural sector
+Chapter 3: Setting
+Organizational Boundaries  Chapter 5 outlines recommendations  on setting 
+inventory boundaries in relation to common types
+of organizational structures and operational
+activities in the sector Chapter 4: Setting Operational
+Boundaries  
+Chapter 5: Tracking Emissions
+Over Time  Chapter 6 provides requirements and 
+recommendations for selecting and using base
+periods. Appendix I provides general information
+on performance metrics
+Chapter 6: Identifying and
+Calculating GHG Emissions   Chapter 4 reviews the emissions sources 
+associated with agriculture
+ Chapter 7 reviews common approaches and data
+requirements for calculating GHG fluxes  
+ Appendix III summarizes a range of tools for
+calculating agricultural GHG fluxes
+Chapter 7: Managing Inventory
+Quality   Chapter 7 outlines recommendations for 
+addressing uncertainty in GHG flux data and
+prioritizing data collection efforts
+Chapter 8: Accounting for GHG
+Reductions  Chapter 9 provides requirements for accounting for 
+renewable energy projects on farms
+Chapter 9: Reporting GHG
+Emissions  Chapter 9 describes the t ypes of information that 
+are either mandatory or op tional to publicly report
+Chapter 10: Verification of GHG
+emissions   
+Chapter 11: Setting GHG
+Targets   
+Appendix A: Accounting for
+Indirect Emissions from Electricity   
+Appendix B: Accounting for
+Sequestered Atmospheric
+Carbon  Chapter 8 outlines requirements and 
+recommendations for accounting for the emissions
+and removals of biogenic CO 2. Appendix II
+provides examples to illu strate this accounting.  
+Appendix C: Overview of GHG
+Programs   
+Appendix D: Industry Sectors  
+
+--- Page 12 of 103 ---
+
+GHG Protocol Agricultural Guidance
+
+12
+ and Scopes  
+Appendix E: Base Year
+Adjustments   
+Appendix F: Categorizing GHG
+Emissions from Leased Assets  Chapter 5 summarizes the requirements for lease 
+accounting
+
+ Table 1-3.  Summary of main recommendations  in this Guidance for applying 
+requirements in the Corporate Standard.  
+Chapter in the
+Corporate
+Standard Requirements in the Corporate
+Standard  Additional, sector-specific 
+recommendations in the
+Agricultural Guidance  
+Chapter 1.
+GHG
+Accounting
+and Reporting
+Principles   Base GHG accounting and 
+reporting on the following
+principles: relevance,
+completeness, consistency,
+transparency, and accuracy.  
+Chapter 3.
+Setting Organizational Boundaries   Select a single consolidation 
+approach to establish the
+organizational boundaries.  
+Chapter 4.
+Setting
+Operational
+Boundaries   Separately account for and 
+report on scope 1 and 2, at a
+minimum.  Accounting should take
+appropriate note of production
+contracts and other forms of
+agricultural contracting, land
+and equipment leases, and
+membership of co-operatives.  
+Chapter 6.
+Tracking Emissions Over Time   Choose and establish a base 
+period, and specify the reasons for choosing that period.
+
+ The base period shall be the
+earliest point in time for which verifiable data are available on scope 1 and scope 2 emissions.
+
+ Develop a base period
+emissions recalculation
+policy, and clearly articulate the basis and context for any recalculations. If applicable,
+the policy shall state any “significant threshold”.
+ Recalculate the base period  Multi-year base periods are
+recommended for many companies.
+
+--- Page 13 of 103 ---
+
+GHG Protocol Agricultural Guidance
+
+13
+inventory to reflect changes in
+organizational structures or calculation methods, or the discovery of errors, that significantly impact the base period inventory.
+Chapter 9.
+Reporting
+GHG
+Emissions  Companies shall report:  
+
+ An outline of the operational
+boundaries chosen and, if
+scope 3 is included, a list
+specifying which types of
+activities are covered.
+ An outline of the
+organizational boundaries
+chosen, including the chosen
+consolidation approach. Companies should report:

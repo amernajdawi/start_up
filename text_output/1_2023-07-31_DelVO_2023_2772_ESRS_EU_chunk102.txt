@@ -1,0 +1,46 @@
+File Name: 1_2023-07-31_DelVO_2023_2772_ESRS_EU.pdf
+Converted on: 2025-03-28 03:20:41
+Original Size: 5.82 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 102 of 284
+--------------------------------------------------------------------------------
+
+ELI: http://data.europa.eu/eli/reg_del/2023/2772/oj 104/284(b) apply consensus methods on accounting for GHG removals as soon as they are available, notably the EU
+regulatory framework for the certification of CO2 removals;
+(c) if applicable, explain the role of removals for its climate change mitigation policy ;
+(d) include removals from operations that it owns, controls, or contributes to and that have not been sold to
+another party through carbon credits;
+(e) if applicable, mark those GHG removal activities in own operations or the value chain that have been
+converted into carbon credits and sold on to other parties on the voluntary market;
+(f) account for the GHG emissions associated with a removal activity, including transport and storage, under
+Disclosure Requirement E1-6 (Scopes 1, 2 or 3). To increase transparency on the efficiency of a removal
+activity, including transport and storage, the undertaking may disclose the GHG emissions associated with
+this activity (e.g., GHG emissions from electricity consumption of direct air capture technologies) alongside,
+but separately from, the amount of removed GHG emissions;
+(g) in case of a reversal, account for the respective GHG emissions as an offset for the removals in the reporting
+period;
+(h) use the most recent GWP values published by the IPCC based on a 100-year time horizon to calculate CO2eq
+emissions of non-CO2 gases and describe the assumptions made, methodologies and frameworks applied for
+calculation of the amount of GHG removals; and
+(i) consider nature-based solutions.
+AR 59. The undertaking shall disaggregate and separately disclose the GHG removals that occur in its own operations and those that occur in its upstream and downstream value chain. GHG removal activities in the upstream and
+downstream value chain shall include those that the undertaking is actively supporting, for example, through a
+cooperation project with a supplier . The undertaking is not expected to include any GHG removals that may
+occur in its upstream and downstream value chain that it is not aware of.
+AR 60. The quantitative information on GHG removals may be presented by using the following tabular format.
+Removals Comparative N % N / N-1
+GHG removal activity 1 (e.g.., forest restoration) -
+GHG removal activity 2 (e.g.., direct air capture) -
+… -
+Total GHG removals from own operations (tCO2eq)
+GHG removal activity 1 (e.g.., forest restoration) -
+GHG removal activity 2 (e.g.., direct air capture) -
+… -
+Total GHG removals in the upstream and
+downstream value chain (tCO2eq)
+Reversals (tCO2eq)OJ L, 22.12.2023 EN  
+
+--- Page 105 of 284 ---

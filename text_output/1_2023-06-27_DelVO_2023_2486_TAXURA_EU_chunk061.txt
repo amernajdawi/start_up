@@ -1,0 +1,47 @@
+File Name: 1_2023-06-27_DelVO_2023_2486_TAXURA_EU.pdf
+Converted on: 2025-03-28 03:20:36
+Original Size: 8.44 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 61 of 199
+--------------------------------------------------------------------------------
+
+ELI: http://data.europa.eu/eli/reg_del/2023/2486/oj 42/1642.3. Collection and transport of non-hazardous and hazardous waste
+Description of the activity
+Separate collection and transport of non-hazardous and hazardous (45)waste aimed at preparing for re-use (46)or
+recycling (47), including the construction, operation and upgrade of facilities involved in the collection and transport of
+such waste, such as civic amenity centres and waste transfer stations, as a means for material recovery.
+The economic activities in this category could be associated with several NACE codes, in particular E38.11, E38.12 and
+F42.9 in accordance with the statistical classification of economic activities established by Regulation (EC) No 1893/2006.
+Technical screening criteria
+Substantial contribution to the transition to a circular economy
+1.All separately collected and transported waste that is segregated at source is intended for preparation for reuse or
+recycling operations.
+2.Source segregated waste consisting of (i) paper and cardboard; (ii) textiles (48); (iii) biowaste; (iv) wood; (v) glass; (vi) waste
+from electrical and electronic equipment (WEEE); or (vii) any type of hazardous waste is collected separately (i.e. in single
+fractions) and not commingled with other waste streams.
+For source segregated non-hazardous waste other than the fractions mentioned above, collection in commingled fractions
+takes place only where it meets one of the conditions laid down in Article 10, paragraph 3, indents (a), (b) or (c) of
+Directive 2008/98/EC of the European Parliament and of the Council (49).
+Different types of hazardous waste may be placed together in a hazardous waste box, cabinet or similar solution under the condition that each waste type is properly packaged to keep the waste separate in the box or cabinet and that hazardous
+waste is sorted in waste types after collection from households.
+3.For municipal waste streams, the activity complies with one of the following criteria:
+(a) the activity carries out municipal solid waste collection mainly via door-to-door collection schemes or supervised
+collection points to ensure a high level of separate collection and low rates of contamination;
+(b) the activity carries out separate waste collection within publicly organised waste management systems where waste
+producers are charged based on a pay-as-you-throw (PAYT) mechanism, at least for the residual waste stream or there
+are other types of economic instruments in place that incentivise waste segregation at source (
+50);
+(45)‘Hazardous waste’ is waste which displays one or more of the hazardous properties listed in Annex III of Directive 2008/98/EC of the
+European Parliament and of the Council of 19 November 2008 on waste and repealing certain Directives (OJ L 312, 22.11.2008,
+p. 3). It includes streams such as hazardous waste fractions produced by households, waste oils, batteries, non-depolluted waste from
+electrical and electronic equipment (WEEE), non-depolluted end-of-life vehicle, medical waste, etc. A comprehensive classification of hazardous waste can be found in the European List of Waste (Decision 2000/532/EC).
+(46)‘Preparing for re-use’ means checking, cleaning or repairing recovery operations, by which products or components of products that
+have become waste are prepared so that they can be re-used without any other pre-processing.
+(47)‘Recycling’ means any recovery operation by which waste materials are reprocessed into products, materials or substances whether for
+the original or other purposes. It includes the reprocessing of organic material but does not include energy recovery and the
+reprocessing into materials that are to be used as fuels or for backfilling operations.
+(48)This includes textiles, clothes/wearing apparel, footwear and accessories, such as belts or hats.
+(49)Directive 2008/98/EC of the European Parliament and of the Council of 19 November 2008 on waste and repealing certain Directives

@@ -1,0 +1,48 @@
+File Name: 1_2023-06-27_DelVO_2023_2486_TAXURA_EU.pdf
+Converted on: 2025-03-28 03:20:36
+Original Size: 8.44 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 101 of 199
+--------------------------------------------------------------------------------
+
+ELI: http://data.europa.eu/eli/reg_del/2023/2486/oj 71/164(5) Pollution prevention and
+controlThe equipment used to operate the software meets the requirements laid down in
+Directive 2009/125/EC for servers and data storage products.
+The equipment used does not contain the restricted substances listed in Annex II to
+Directive 2011/65/EU, except where the concentration values by weight in
+homogeneous materials do not exceed the maximum values listed in that Annex.
+(6) Protection and restoration of biodiversity and ecosys
+­
+temsN/A
+5. Services
+5.1. Repair, refurbishment and remanufacturing
+Description of the activity
+Repair (158), refurbishment (159)and remanufacturing (160)of goods that have been used for their intended purpose before by
+a customer (physical person or legal person).
+The economic activity does not include replacement of consumables (161), such as printer ink, toner cartridges, lubricants
+for moving parts or batteries.The economic activity relates to products that are manufactured by economic activities classified under the NACE codes
+C13 Manufacture of textiles, C14 Manufacture of wearing apparel, C15 Manufacture of leather and related products, C16 Manufacture of wood and of products of wood and cork, except furniture; manufacture of articles of straw and plaiting
+materials, C22 Manufacture of rubber and plastic products, C23.3 Manufacture of clay building materials, C23.4
+Manufacture of other porcelain and ceramic products, C25.1 Manufacture of structural metal products, C25.2 Manufacture of tanks, reservoirs and containers of metal, C25.7 Manufacture of cutlery, tools and general hardware, C25.9
+Manufacture of other fabricated metal products, C26 Manufacture of computer, electronic and optical products, C27
+Manufacture of electrical equipment, C28.22 Manufacture of lifting and handling equipment, C28.23 Manufacture of office machinery and equipment (except computers and peripheral equipment), C28.24 Manufacture of power-driven
+hand tools, C28.25 Manufacture of non-domestic cooling and ventilation equipment, C28.93 Manufacture of machinery
+for food, beverage and tobacco processing, excluding machinery for tobacco processing, C28.94 Manufacture of
+machinery for textile, apparel and leather production, C28.95 Manufacture of machinery for paper and paperboard
+production, C28.96 Manufacture of plastic and rubber machinery, C31 Manufacture of furniture and C32 Other
+manufacturing.
+The economic activities in this category have no dedicated NACE codes as referred to in the statistical classification of
+economic activities established by Regulation (EC) No 1893/2006.
+(158)‘Repair’ means the process of returning a faulty product to a condition where it can fulfil its intended use, either as a service or with a
+view to the subsequent resale of the repaired product.
+(159)‘Refurbishment’ means testing and where necessary repairing, cleaning or modifying a used product to increase or restore its
+performance or functionality or to meet applicable technical standards or regulatory requirements, with the result of making a fully
+functional product to be used for a purpose that is at least the one that was originally intended and to maintain its compliance with applicable technical standards or regulatory requirements originally conceived at the design stage.
+(160)‘Remanufacturing’ means a standardised industrial process that takes place within industrial or factory settings, in which products are
+restored to original as-new condition and performance or better, typically placed on the market with a commercial guarantee.
+(161)Goods, components or materials that must be replaced regularly because they either wear out or are used up.OJ L, 21.11.2023 EN  
+
+--- Page 72 of 164 ---

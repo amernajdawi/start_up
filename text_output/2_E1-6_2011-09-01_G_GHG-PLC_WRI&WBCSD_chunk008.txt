@@ -1,0 +1,75 @@
+File Name: 2_E1-6_2011-09-01_G_GHG-PLC_WRI&WBCSD.pdf
+Converted on: 2025-03-28 03:20:53
+Original Size: 3.27 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 8 of 116
+--------------------------------------------------------------------------------
+
+[10]   Product Life Cycle Accounting and Reporting Standard
+guidance [10]   Product Life Cycle Accounting and Reporting Standardsources – or “hot spots” – in the life cycle and focus efforts 
+on the most cost effective emissions reduction activities.
+Product GHG inventories, performed according
+to a consistent framework, provide a quantitative
+performance metric to set targets for improvement,
+track progress. and communicate successes to internal
+and external stakeholders. External stakeholders,
+including customers, investors, shareholders and others
+are increasingly interested in measured and reported
+progress in emissions reductions by companies.
+Therefore, identifying reduction opportunities, setting
+goals and reporting on progress to stakeholders
+may help differentiate a company in an increasingly
+environmentally conscious marketplace.
+Internally, product GHG inventories may be used to
+support less GHG-intensive product design choices
+and production processes. For example, a shoe
+manufacturer seeking to meet a company target of 10 percent lower life cycle emissions from its most
+popular shoe might use a product GHG inventory to
+determine the most cost effective means of achieving
+the target, selecting from options such as optimizing
+the distribution network, using less GHG-intensive
+materials, or improving energy efficiency at production
+facilities. External uses of the performance results
+might include communications to regulators, investors,
+customers, and local communities, using tools such as
+an annual corporate sustainability report.
+2.3 Supplier and customer stewardship
+From raw material vendors to final consumers, product
+inventories provide an opportunity for companies
+to engage with stakeholders throughout a product’s
+life cycle toward the common goal of reducing GHG
+emissions. This engagement may also lead to supply
+chain efficiencies and consequent cost savings, build Table [2.1]  Business goals served by a product GHG inventory
+Business goal Description
+Climate change
+management• Identify new market opportunities and regulatory incentives
+• Identify climate-related physical and regulatory risks in a product’s life cycle
+• Assess risks from fluctuations in energy costs and material availability
+Performance
+tracking• Focus efforts on efficiency improvements and cost-saving opportunities through
+GHG reductions throughout a product’s life cycle
+• Set product-related GHG reduction targets and develop strategies to  
+achieve goals
+• Measure and report GHG performance over time
+• Track efficiency improvements throughout a product life cycle over time
+Supplier and
+customer
+stewardship• Partner with suppliers to achieve GHG reductions
+• Assess supplier performance for GHG aspects of green procurement efforts
+• Reduce GHG emissions and energy use, costs, and risks in the supply chain and
+avoid future costs related to energy and emissions
+• Launch a customer education campaign to encourage actions that reduce  
+GHG emissions
+Product
+differentiation• Achieve competitive advantage by pursuing GHG reduction opportunities and
+cost savings to create a low-emitting product
+• Redesign a product to better respond to customer preferences
+• Strengthen brand image regarding GHG performance
+• Enhance employee retention and recruitment resulting from pride in  
+product stewardship
+• Strengthen corporate reputation and accountability through public disclosure
+
+--- Page 13 of 148 ---

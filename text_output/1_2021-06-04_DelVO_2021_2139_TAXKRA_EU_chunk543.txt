@@ -1,0 +1,17 @@
+File Name: 1_2021-06-04_DelVO_2021_2139_TAXKRA_EU.pdf
+Converted on: 2025-03-28 03:18:03
+Original Size: 2.76 MB
+Chunk Size: 500 tokens with 50 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 543 of 966
+--------------------------------------------------------------------------------
+
+of the activity, including, at least, 10 to 30 year climate projections scenarios for major investments.  
+_____________
+( 172  ) Best Available Techniques (BAT) Reference Document for the Large Volumes Inorganic Chemicals- Solids and Others industry 
+(version of 4.6.2021: https://eippcb.jrc.ec.europa.eu/sites/default/files/2019-11/lvic-s_bref_0907.pdf ).
+( 173  ) Implementing Decision (EU) 2016/902. 
+( 174  ) Future scenarios include Intergovernmental Panel on Climate Change representative concentration pathways RCP2.6, RCP4.5, 
+RCP6.0 and RCP8.5.EN  L 442/200 Official Journal of the European Union 9.12.2021

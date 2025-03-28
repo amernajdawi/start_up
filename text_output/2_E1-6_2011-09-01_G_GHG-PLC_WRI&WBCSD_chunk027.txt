@@ -1,0 +1,87 @@
+File Name: 2_E1-6_2011-09-01_G_GHG-PLC_WRI&WBCSD.pdf
+Converted on: 2025-03-28 03:20:53
+Original Size: 3.27 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 27 of 116
+--------------------------------------------------------------------------------
+
+[37]CHAPTER 07 Boundary Setting
+requirementsIf the function of the final product for which the
+intermediate product is an input is not known, a
+cradle-to-gate boundary is defined. Cradle-to-gate is a
+partial life cycle inventory, including all emissions and
+removals from material acquisition through to when the
+intermediate product leaves the reporting company’s
+gate (typically immediately following its production) and
+excluding final product use and end-of-life. If a cradle-to-
+gate boundary is defined, companies shall disclose this
+in the inventory report.
+Companies shall report the time period  
+of the inventory.
+The time period of the inventory is the amount of time
+a studied product takes to complete its life cycle, from
+when materials are extracted from nature until they are
+returned to nature at the end-of-life (e.g., incinerated)
+or leave the studied product’s life cycle (e.g., recycled).
+Non-durable goods, like perishable foods or fuels, typically
+have a time period of one year or less. Durable goods,
+such as computers, cars, and refrigerators, will typically
+have a time period of three years or more.
+Companies shall report the time period of the total
+inventory. The time period should be based on scientific
+evidence to the extent possible, and sector guidance or
+product rules may be a source of this information when
+available. If known science, sector guidance, or product
+rules do not exist, companies should assume a minimum
+time period of 100 years including the end-of-life stage
+(i.e., the time period cannot exclude end-of-life if the use
+stage is more than 100 years).
+Companies shall report the method used  
+to calculate land-use change impacts,  
+when applicable.
+For studied products whose life cycle includes biogenic
+materials, land use is reflected in two aspects of the
+inventory. One is through emissions and removals from attributable processes associated with agricultural and
+forestry practices such as growth, fertilizer application,
+cultivation, and harvesting. For example, rice cultivation
+produces CH4 emissions that would be included as a material
+acquisition impact in the inventory of a rice product.
+The second contributory aspect of land use is land-use
+change. Land-use change impacts may be attributable
+to the studied product’s material acquisition and
+preprocessing stage, including:
+•Biogenic CO2 emissions and removals due to carbon
+stock change occurring as a results of land conversion
+within or between land use categories
+•Biogenic and non-biogenic CO2, N2O, and CH4 emissions
+resulting from the preparation of converted land, such
+as biomass burning or liming1
+Guidance on determining when land-use change
+impacts are attributable to the studied product is given
+in Appendix B. The appendix also includes methods to
+calculate land-use change impacts for two situations:
+when the specific land from which the product or product
+component originates is known and when it is not
+known. When land-use change impacts are attributable,
+companies shall include these in the boundary and
+disclose the calculation method in the inventory report.
+Indirect land-use change2 is defined as land-use change
+that occurs when the demand for a specific land use (e.g.,
+an increased demand for crops as a bioenergy feedstock
+in the United States) induces a carbon stock change on
+other land (e.g., increased need for cropland in Brazil
+causing deforestation). This displacement is a result
+of market factors and calculated using data consistent
+with a consequential approach. Therefore, the inclusion
+of indirect land-use change is not a requirement of this
+standard. (See chapter 5 for more information on the
+consequential versus attributional approach to life cycle
+GHG inventories.) However, if indirect land-use impacts
+can be calculated and are determined to be significant for
+a given product, the magnitude of the impacts should be
+reported separately from the inventory results.
+
+--- Page 40 of 148 ---

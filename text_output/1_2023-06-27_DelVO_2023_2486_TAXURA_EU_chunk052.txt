@@ -1,0 +1,47 @@
+File Name: 1_2023-06-27_DelVO_2023_2486_TAXURA_EU.pdf
+Converted on: 2025-03-28 03:20:36
+Original Size: 8.44 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 52 of 199
+--------------------------------------------------------------------------------
+
+ELI: http://data.europa.eu/eli/reg_del/2023/2486/oj 34/1642.2.3. Key spare parts (27), whether new or used, such as motors, batteries, circuit boards and any part or component
+essential to the good functioning of the product, are available to professional repairers and end-users, after placing the last
+unit of the model on the market, for one additional year compared to the requirements on the availability of spare parts
+under Directive 2009/125/EC and implementing acts adopted under that Directive. Where the availability of spare parts
+for the relevant products is not regulated, key spare parts are available for at least eight years after placing the last unit of
+the model on the market.
+2.2.4. Where there are no significant health and safety risks presented by the product repair, the operator of the activity
+provides clear disassembly and repair instructions, including through hard or soft copy or a video, and make them publicly
+available for the lifetime of the product, to enable a non-destructive disassembly of products for the purpose of replacing
+key components or parts for upgrades or repairs. Where significant safety concerns connected to the repair of the product
+exist, the operator ensures access to independent certified professional repairers. The operator’s website indicates the
+process for professional repairers to register for access to relevant information or share the information on a publicly
+available free access website.
+2.2.5. For electrical and electronic equipment designed for consumer use, the operator of the activity provides commercial
+guarantee for minimum of 3 years and in line with requirements under Article 17 of Directive (EU) 2019/771 of the
+European Parliament and of the Council (28)at no extra cost.
+2.3. Design for reuse and remanufacturing
+2.3.1. Where the products are able to store data, and the data is encrypted, a software function that resets the device to its
+factory settings and erases by default the encryption key is required.
+2.3.2. Where products can transfer stored data, the stored data can be easily and fully transferred to another product,
+securing data privacy and confidentiality of the data.2.4. Design for dismantling
+2.4.1. Information on product’s end-of-life management is publicly available for the lifetime of the product, including all
+information required under Directive 2012/19/EU. For each type of new product placed for the first time on the Union
+market, the operator of the activity shares, free of charge, relevant information with centres which prepare for re-use and
+treatment and recycling facilities through Information for Recyclers Platform (
+29)or through another relevant channel in
+accordance with Article 15(1) of Directive 2012/19/EU. Dismantling information includes the sequence of dismantling
+steps, tools or technologies needed to access the targeted component.
+2.4.2. For electrical and electronic equipment containing printed circuit boards, hard disc drives (HDDs), electric motors,
+permanent magnets, batteries, fluorescent powders, or any other components identified in Union legislation to be of high
+critical raw materials recovery potential, the information on product’s end-of-life management referred to under point
+2.4.1 includes an indication of the critical raw materials (30)typically contained in the components, information on the
+location of those components, and on the steps required for their separate removal.
+(27)Key spare parts are parts that are used for the repair or refurbishment of a defective product. For products covered by requirements on
+the availability of spare parts under Directive 2009/125/EC and implementing acts adopted under that Directive, key spare parts are
+considered to be those listed in Annex to the most recent implementing act for each product group.
+(28)Directive (EU) 2019/771 of the European Parliament and of the Council of 20 May 2019 on certain aspects concerning contracts for

@@ -1,0 +1,20 @@
+File Name: 2_E1-6_2004-03_G_GHG-Prot_WRI&WBCSD.pdf
+Converted on: 2025-03-28 03:18:16
+Original Size: 3.51 MB
+Chunk Size: 500 tokens with 50 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 119 of 225
+--------------------------------------------------------------------------------
+
+material or fuel substitution)
+Change in production level
+Changes in estimation methodology
+Other
+This type of information can be summarized at the
+corporate level to provide an overview of the company’sperformance over time.  
+Reductions in indirect emissions
+Reductions in indirect emissions (changes in scope 2 or 3emissions over time) may not always capture the actualemissions reduction accurately. This is because there isnot always a direct cause-effect relationship between theactivity of the reporting company and the resulting GHGemissions. For example, a reduction in air travel wouldreduce a company’s scope 3 emissions. This reduction isusually quantified based on an average emission factorof fuel use per passenger. However, how this reductionactually translates into a change in GHG emissions tothe atmosphere would depend on a number of factors,including whether another person takes the “empty seat”or whether this unused seat contributes to reduced airtraffic over the longer term. Similarly, reductions in scope 2 emissions calculated with an average gridemissions factor may over- or underestimate the actualreduction depending on the nature of the grid.
+Generally, as long as the accounting of indirect emissions
+over time recognizes activities that in aggregate changeglobal emissions, any such concerns over accuracyshould not inhibit companies from reporting their indi-rect emissions. In cases where accuracy is moreimportant, it may be appropriate to undertake a moreCHAPTER 8 Accounting for GHG Reductions 59GUIDANCE

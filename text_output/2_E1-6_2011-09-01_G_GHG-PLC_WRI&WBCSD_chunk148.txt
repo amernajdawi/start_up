@@ -1,0 +1,75 @@
+File Name: 2_E1-6_2011-09-01_G_GHG-PLC_WRI&WBCSD.pdf
+Converted on: 2025-03-28 03:18:25
+Original Size: 3.27 MB
+Chunk Size: 500 tokens with 50 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 148 of 226
+--------------------------------------------------------------------------------
+
+[95]CHAPTER 12 Assurance
+requirementsCompetencies of assurers
+Selecting a competent assurer (also known as an assurance
+provider) is important for the assurance findings to have
+the credibility needed to support the reporting company’s
+business goals and stakeholder needs.
+A competent GHG inventory assurer has:
+•Assurance expertise and experience using assurance
+frameworks
+•Knowledge and experience in life cycle assessment
+and/or GHG corporate accounting, as well as familiarity
+with key steps in the product inventory process
+ •Knowledge of the company’s activities and  
+industry sector
+•Ability to assess the emission sources and the
+magnitude of potential errors, omissions and
+misrepresentations
+•Credibility, independence and professional skepticism
+to challenge data and information
+Assurance process
+Achieving assurance over the product inventory results
+can be achieved through two methods: verification and
+critical review.
+Verification is an independent assessment of the
+reliability of the product GHG inventory.2 Verification
+engagements, whether performed by a first or third
+party, have common elements, including:
+1.  Planning and scoping (e.g., determine risks and 
+material misstatements)
+2. Identifying emission sources
+3.  Performing the assurance process (e.g., gathering 
+evidence, performing analytics, etc.)
+4. Evaluating results
+5. Determining and reporting conclusions
+The nature and extent of verification procedures can vary
+depending on whether the verification engagement is
+designed to obtain reasonable or limited assurance (as
+described below). Verification of inventory data may take
+place in several ways, for example by on-site checking,
+reviewing calculations, mass balance calculations, or cross-
+checks with other sources.The critical review process is intended to ensure
+consistency between the product inventory and the
+principles and requirements of the Product Standard .3  It 
+is an established practice in life cycle assessment. The
+critical review process ensures that:
+•Methods used to carry out the product inventory are
+consistent with the Product Standard
+•Methods used to carry out the product inventory are
+scientifically and technically valid
+ •Data used are appropriate and reasonable for  
+public reporting
+•The inventory report and any conclusions based on the
+results are appropriate for GHG-only inventories
+•The inventory report is transparent and consistent4
+There are two types of critical review: those performed  
+by an internal or external expert, and those performed by
+a review panel of interested parties.
+For critical reviews conducted by a review panel, the
+panel should be comprised of at least three members.
+The members may come from life cycle assessment
+expert groups, government agencies, non-governmental
+organizations, industry groups, and other companies.
+Levels of assurance
+In verification, the level of assurance refers to the
+degree of confidence that stakeholders can have over

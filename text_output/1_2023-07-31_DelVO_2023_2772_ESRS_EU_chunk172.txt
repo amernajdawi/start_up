@@ -1,0 +1,45 @@
+File Name: 1_2023-07-31_DelVO_2023_2772_ESRS_EU.pdf
+Converted on: 2025-03-28 03:20:41
+Original Size: 5.82 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 172 of 284
+--------------------------------------------------------------------------------
+
+ELI: http://data.europa.eu/eli/reg_del/2023/2772/oj 175/284Disclosure Requirement S1-9 – Diversity metrics
+64. The undertaking shall disclose the gender distribution at top management and the age distribution amongst
+its employees.
+65. The objective of this Disclosure Requirement is to enable an understanding of gender diversity at top management
+level and the age distribution of its employees.
+66. The undertaking shall disclose:
+(a) the gender distribution in number and percentage at top management level; and
+(b) the distribution of employees by age group: under 30 years old; 30-50 years old; over 50 years old.
+Disclosure Requirement S1-10 – Adequate wages
+67. The undertaking shall disclose whether or not its employees are paid an adequate wage, and if they are not
+all paid an adequate wage, the countries and percentage of employees concerned.
+68. The objective of this Disclosure Requirement is to enable an understanding of whether or not all the undertaking’s employees are paid an adequate wage, in line with applicable benchmarks.
+69. The undertaking shall disclose whether all its employees are paid an adequate wage, in line with applicable
+benchmarks. If so, stating this will be sufficient to fulfil this disclosure requirement and no further information is needed.
+70. If not all its employees are paid an adequate wage in line with applicable benchmarks, the undertaking shall disclose
+the countries where employees earn below the applicable adequate wage benchmark and the percentage of employees
+that earn below the applicable adequate wage benchmark for each of these countries.
+71. The undertaking may also disclose the information specified in this disclosure requirement with regard to non-
+employees in its workforce.
+Disclosure Requirement S1-11 – Social protection
+72. The undertaking shall disclose whether its employees are covered by social protection against loss of
+income due to major life events, and, if not, the countries where this is not the case.
+73. The objective of this Disclosure Requirement is to enable an understanding of whether the undertaking’s employees
+are covered by social protection against loss of income due to major life events, and, if not, the countries where this
+is not the case.
+74. The undertaking shall disclose whether all its employees are covered by social protection, through public programs
+or through benefits offered by the undertaking, against loss of income due to any of the following major life events:
+(a) sickness;
+(b) unemployment starting from when the own worker is working for the undertaking;
+(c) employment injury and acquired disability;
+(d) parental leave; and
+(e) retirement.
+If so, stating this is sufficient to fulfil this disclosure requirement and no further information is needed.OJ L, 22.12.2023 EN  
+
+--- Page 176 of 284 ---

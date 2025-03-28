@@ -1,0 +1,51 @@
+File Name: 1_2022-12-14_RL_2022_2464_CSRD_EU.pdf
+Converted on: 2025-03-28 03:20:33
+Original Size: 1.12 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 120 of 140
+--------------------------------------------------------------------------------
+
+(c) in paragraph 2, the followi ng subparagraph is added:
+‘The register shall indicate whether third-countr y audit entities as refer red to in the first subparagraph are
+registere d for carrying out the statut ory audit, the assurance of sustainability repor ting, or both.’;
+(12) Article 24b is amended as follo ws:
+(a) paragraph 1 is replaced by the followi ng:
+‘1. Member States shall ensure that, when the statutor y audit is carried out by an audit firm, that audit firm
+designates at least one key audit partner . The audit firm shall provi de the key audit partner(s) with suffi cient
+resources and with personnel that have the necessar y compet ence and capabilities to carry out his, her or its
+duties appropr iately.
+Member State s shall ensure that, when the assurance of sustainability repor ting is carried out by an audit firm,
+that audit firm designates at least one key sustainability partner , who may be (one of) the key audit partner(s).
+The audit firm shall provide the key sustainability partner(s) with suffi cient resources and with personnel that
+have the necessar y compet ence and capabilities to carry out his, her or its duties appropr iately.
+Secur ing audit and assurance quality , independence and compet ence shall be the main criteria when the audit
+firm selects the key audit partner(s) and, where applicable, the key sustainability partner(s) to be designated.
+The key audit partner(s) shall be actively involved in the carrying-out of the statut ory audit. The key sustainability
+partner shall be actively involved in the carrying-out of the assurance of sustainability repor ting.’;
+(b) the followi ng paragraph is inser ted:
+‘2a. When carrying out the assurance of sustainability repor ting, the statutor y auditor shall devot e sufficient
+time to the enga gement and shall assign sufficient resources to enable him or her to carry out his or her duties
+appropr iately.’;
+(c) in paragraph 4, points (b) and (c) are replaced by the followi ng:
+‘(b) in the case of an audit firm, the name(s) of the key audit partner(s) and, where applicable, the name(s) of the
+key sustainability partner(s);
+(c) the fees charged for the statut ory audit, the fees charged for the assurance of sustainability repor ting and the
+fees charg ed for other services in any financial year.’;
+(d) the followi ng paragraph is inser ted:
+‘5a. A statutor y auditor or an audit firm shall create an assurance file for each assurance engag ement
+concer ning sustainability repor ting.
+The statut ory auditor or the audit firm shall document at least the data recorded pursuant to Article 22b as
+regards the assurance of sustainability repor ting.
+The statutor y auditor or the audit firm shall retain any other data and documents that are of importance in
+suppor t of the assurance repor t on sustainability repor ting referred to in Article 28a and for monitori ng
+compliance with this Directive and other applicable legal requirements as regards the assurance of sustainability
+repor ting.
+The assurance file shall be closed no later than 60 days after the date of signature of the assurance repor t on
+sustainability repor ting refer red to in Article 28a.
+Where the same statut ory auditor carries out the statut ory audit of annual financial statements and the assurance
+of sustainability repor ting, the assurance file may be included in the audit file.’;EN Offi cial Jour nal of the European Union 16.12.2022 L 322/67  
+
+--- Page 54 of 66 ---

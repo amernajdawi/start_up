@@ -1,0 +1,88 @@
+File Name: 2_E1-6_2014-01-01_G_GHG-Agri_WRI&WBCSD.pdf
+Converted on: 2025-03-28 03:20:54
+Original Size: 1.75 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 35 of 65
+--------------------------------------------------------------------------------
+
+Table 7-2. Common challenges in collecting activ ity data for agricultural emissions
+sources  
+Challenge Solution
+Determining the number of head on the
+farm per year, when livestock numbers and
+categories vary a lot over the year (e.g.,
+with spring and autumn calving there is a
+wide spectrum of ages of livestock on the
+farm)  Calculate emissions on a monthly basis  
+Obtaining data for calculating the emissions
+from contractor fuel use on farms, when only the contracted area is recorded Make assumptions about the amount of
+fuel needed per area se rviced, as well as
+the machinery employed  
+Understanding the energy consumption of
+individual facilities or sources (e.g., an
+irrigation pump) Install meters or provide a use log that
+tabulates the number of hours per day of
+operation  
+Determining the amount of crop residues burnt on fields Determine the total amount of above-
+ground biomass grown over the reporting period, then subtract the fractions removed
+before burning due to animal consumption, decay in the field, and harvesting (for biofuels, domestic livestock feed or other use).
+
+--- Page 50 of 103 ---
+
+GHG Protocol Agricultural Guidance
+
+50
+7.2 Guidance for prioritizing data collection efforts
+
+It may not always be possible to collect high quality activity data for all of the emissions
+sources that need to be incl uded in an inventory. As a re sult, data collection efforts
+should be prioritized.
+
+Companies  should prioritize data collection efforts for key sources 
+Key sources are those that are expected to have the highest GHG fl uxes, offer the most
+emissions reduction potential, and are most relevant to the company’s business goals
+(Table 7-3). The identification of key sour ces should take into account the range of
+different GHGs emitted from individual sources, because of the potential for trade-offs in
+GHG fluxes (see Chapter 7.3) and also because companies might have different amounts
+of control over the different sources. Collect ing higher quality data for key sources will
+allow companies to more effectively set re duction targets and track and demonstrate
+progress over time, while making the most e fficient use of available resources. For the
+same reasons, the key sources should also be  subject to the most accurate quantification 
+methods and the focus of quality anal ysis/quality control procedures.  
+ Table 7-3.  Criteria for prioritizing data collection efforts  
+Criterion
+Application to source (or sink)
+Magnitude of
+GHG flux The source (or sink) is large (or believed to be large) relative to most other
+sources  
+Trends in
+magnitude There is a documented increase or decrease in the size of the source over time
+or a projected trend based on project ed changes in agricultural practices  
+Uncertainty of
+GHG flux
+estimates The uncertainty of the GHG fluxes is (or is believed to be) large
+Degree of
+control There are potential emissions reducti ons that could be undertaken or
+influenced by the reporting company  
+Risk  The source contributes to the company’s risk exposure (e.g., climate change 
+related risks such as financial, regulatory, supply chain, product and
+customer, litigation, and reputational risks)  
+Stakeholders The source is deemed critical by key stakeholders (e.g., customers, suppliers,
+investors or civil society)
+Sector Guidance The source has been identified as si gnificant by sector-specific guidance
+Other  The source meets any additional criteria developed by the company or sector 
+
+Identifying key sources based on the m agnitude of GHG fluxes is preferred  
+The most rigorous approach to identifying key sources is to use quantitative data to rank
+the size of different sources (and sink s). This approach has three steps:
+1. Obtain GHG flux data. Preferentially, comp anies would use data from the latest
+available inventory, although cer tain sources will fluctuate in magnitude from one
+inventory period to another. Altern atively, companies may use initial GHG
+estimation (or screening) methods to estimate the fluxes for each source (e.g., by
+
+--- Page 51 of 103 ---
+
+GHG Protocol Agricultural Guidance

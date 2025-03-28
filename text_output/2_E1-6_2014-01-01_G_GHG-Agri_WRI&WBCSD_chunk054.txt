@@ -1,0 +1,79 @@
+File Name: 2_E1-6_2014-01-01_G_GHG-Agri_WRI&WBCSD.pdf
+Converted on: 2025-03-28 03:20:54
+Original Size: 1.75 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 54 of 65
+--------------------------------------------------------------------------------
+
+79
+ Table I-1.  Advantages and disadvantages of common performance metrics  
+Metric Advantages Disadvantages
+GHG flux per
+unit land area (e.g., flux / ha)  Useful to companies that define
+policies or that manage large amounts of land (e.g., government agencies)
+ Reflective of the overall level of
+GHG fluxes on farms  Fails to consider efficiency of farm
+production   
+GHG flux per
+unit product
+(e.g., flux / tonne beef)  Better allows for comparisons within
+the same industry  
+ Better able to represent the effects of
+mitigation measures that have a relatively small GHG impact, but that nonetheless improve productivity  
+ Performance data are frequently
+sought by buyers on a per-product basis   Calculation may be complicated by the 
+variety of products that come from
+farms and the different allocation
+methods used to assign GHG fluxes (see below)
+ Does not consider product value  
+ Does not reflect the overall climate
+impact of farms (which would vary depending on the volume of products
+produced)
+GHG flux per unit of farm
+input (e.g., flux / MJ metabolisable energy intake)  Provides an understanding of the
+effects of feed type and amount on
+animal systems, or of the efficiency
+of nutrient use in cropping systems   Calculation may be complicated by the 
+need to allocate GHG fluxes
+
+GHG flux per
+unit of quality
+content in final
+product (e.g., per unit of fat, protein or metabolisable energy content)  Considers a fundamental objective of
+most agricultural production – to provide food energy  
+ Calculation may be complicated by the
+need to allocate GHG fluxes
+
+Allocating GHG data for cal culating performance metrics
+
+Agricultural production frequently  results in the generation of  by-products or co-products, 
+especially if farms have on-site product processing  facilities. In additi on, certain agricultural 
+activities will contribute to multiple streams of products (and their co/by-products), especially on
+mixed farms (Figure I-1). For instance, fertiliz er application will support not only crop growth,
+but also livestock production, if so me of the primary output (the cr op) is used as livestock feed.  
+Allocation  is the process of partit ioning GHG flux data from a fa rm to the different product 
+streams from that farm. Allocation may be needed  when computing intensity ratios for individual 
+products. Allocation may also be needed when:
+‐ Reporting GHG data to customers that are acc ounting for their scope 3 emissions and that
+therefore only require information on the specific GHG fluxe s attributable to the products
+they purchased.
+
+--- Page 80 of 103 ---
+
+GHG Protocol Agricultural Guidance
+
+80
+‐ Allocating GHG fluxes between scope 1 and scope 3.
+Allocations will not be necessary wh en a farm produces only one output. They should not be
+done to calculate the GHG fluxes that a re to be reported in a corporate inventory , except to
+allocate between scope 1 and scope  3. Also, this Guidance is not concerned with allocations for 
+product-level GHG accounting – for guidance on th is topic, see the GHG Protocol Product
+Standard, sectoral life cycl e accounting guidance, or produc t category rules.       
+Should allocations be performed, note that co-p roducts without economic value are considered
+wastes and should have no GHG fl uxes allocated to them. Also, if GHG fluxes are allocated,
+they should sum to the total flux initially calculated.   
+
+Figure I-1.  Illustration of a common process requiring allocation

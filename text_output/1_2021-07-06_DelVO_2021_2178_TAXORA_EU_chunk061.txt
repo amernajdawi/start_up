@@ -1,0 +1,21 @@
+File Name: 1_2021-07-06_DelVO_2021_2178_TAXORA_EU.pdf
+Converted on: 2025-03-28 03:18:05
+Original Size: 10.30 MB
+Chunk Size: 500 tokens with 50 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 61 of 90
+--------------------------------------------------------------------------------
+
+gross carrying amount is multiplied by ‘the value of assets invested (debt securities, equity instruments, cash
+equivalents and derivatives) in taxonomy-aligned economic activities as a proportion of the value of total assets
+invested’.
+(b) for investment firms other than dealing on own account in accordance with Section A of Annex I to Directive 2014/65/EU, the gross carrying amount of debt securities, loans and advances and equity holdings shall be weighted by the turnover based and CapEx based KPI on revenues, that is fees, commissions and other monetary benefits,
+disclosed by the investment firms, that is gross carrying amount is multiplied by ‘fees, commissions and other
+monetary benefits from services and activities into taxonomy-aligned economic activities as a proportion of the total fees, commission income and other monetary benefits from all services and activities’.
+Where the counterparty is asset manager, the turnover based and CapEx based KPIs shall be the gross carrying amount of debt securities, loans and advances and equity holdings weighted by the ratio of the counterparty’s investments that are in
+taxonomy-aligned economic activities, as specified in Annex III and IV to this Regulation, that is the gross carrying
+amount is multiplied by the asset manager’s ratio of total investments.
+(2)Directive 2014/65/EU of the European Parliament and of the Council of 15 May 2014 on markets in financial instruments and
+amending Directive 2002/92/EC and Directive 2011/61/EU (OJ L 173, 12.6.2014, p. 349).EN Official Journal of the European Union L 443/42 10.12.2021

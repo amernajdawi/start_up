@@ -1,0 +1,45 @@
+File Name: 1_2023-07-31_DelVO_2023_2772_ESRS_EU.pdf
+Converted on: 2025-03-28 03:20:41
+Original Size: 5.82 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 142 of 284
+--------------------------------------------------------------------------------
+
+ELI: http://data.europa.eu/eli/reg_del/2023/2772/oj 145/284ii.chronic risks (e.g., loss of crop yield due to decline in pollination services, increasing scarcity or variable
+production of key natural inputs, ecosystem degradation due to operations leading to, for example, coastal
+erosion and forest fragmentation, ocean acidification, land loss to desertification and soil degradation and
+consequent loss of soil fertility, species loss).
+(b) transition risks, including:
+i. policy and legal: e.g. introduction of regulation or policy (e.g. changes such as increased land protection);
+exposure to sanctions and litigation (e.g. spills of polluting effluents that damage human and ecosystem health; or violation of biodiversity-related rights, permits or allocations; or negligence towards or killing
+of threatened species); enhanced reporting obligations on biodiversity, ecosystems and related services;
+ii. technology: e.g. substitution of products or services by products or services with a lower impact on
+biodiversity or dependence on ecosystem services, lack of access to data or access to poor quality data
+that hamper biodiversity-related assessments, transition to more efficient and cleaner technologies (i.e. with lower impacts on biodiversity), new monitoring technologies (e.g. satellite), requirements to use certain technologies (e.g. climate resistant crops, mechanical pollinators, water purification, flood
+protection);
+iii. market: e.g., shifting supply, demand and financing, volatility or increased costs of raw materials (e.g., biodiversity-intense inputs for which price has risen due to ecosystem degradation);
+iv. reputation: e.g., changing societal, customer or community perceptions as a result of an organisation’s role
+in loss of biodiversity, violation of nature-related rights through operations, negative media coverage due
+to impacts on critical species and/or ecosystems, biodiversity-related social conflicts over endangered
+species, protected areas, resources or pollution.
+(c) systemic risks, including:
+i. ecosystem collapse risks that a critical natural system no longer functions, e.g., tipping points are reached and the collapse of ecosystems resulting in wholesale geographic or sector losses (summing physical risks);
+ii. aggregated risk linked to fundamental impacts of biodiversity loss to levels of transition and physical risk
+across one or more sectors in a portfolio (corporate or financial); and
+iii. contagion risks that financial difficulties of certain corporations or financial institutions linked to failure to account for exposure to biodiversity-related risks spill over to the economic system as a whole.
+(d) opportunities, including for example:
+i.business performance categories: resource efficiency; products and services; markets; capital flow and financing; reputational capital; and
+ii.sustainability performance categories: ecosystem protection, restoration and regeneration; sustainability
+use of natural resources.
+Presentation of information:
+AR 10. The undertaking may consider the tables below to facilitate its materiality assessment of material sites identified
+under paragraph AR 7:
+Ecosystem service… Actual or potential dependencies
+... Change of functionality Financial loss
+… Limited, moderate or significant Limited, moderate or significant
+… … …OJ L, 22.12.2023 EN  
+
+--- Page 146 of 284 ---

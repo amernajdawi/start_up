@@ -1,0 +1,45 @@
+File Name: 1_2023-07-31_DelVO_2023_2772_ESRS_EU.pdf
+Converted on: 2025-03-28 03:20:41
+Original Size: 5.82 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 100 of 284
+--------------------------------------------------------------------------------
+
+ELI: http://data.europa.eu/eli/reg_del/2023/2772/oj 102/284Total GHG emissions
+Total GHG emissions (location-
+based) (tCO2eq)
+Total GHG emissions (market-
+based) (tCO2eq)
+AR 49. To highlight potential transition risks, the undertaking may disclose its total GHG emissions disaggregated by
+major countries and, if applicable, by operating segments (applying the same segments for the financial
+statements as required by the accounting standards, i.e., IFRS 8 Operating Segments or local GAAP). Scope 3 GHG
+emissions may be excluded from these breakdowns by country if the related data is not readily available.
+AR 50. The Scope 3 GHG emissions may also be presented by according to the indirect emission categories defined in EN
+ISO 14064-1:2018.
+AR 51. If it is material for the undertaking's Scope 3 emissions, it shall disclose the GHG emissions from purchased cloud
+computing and data centre services as a subset of the overarching Scope 3 category “upstream purchased goods
+and services”.
+AR 52. The total GHG emissions disaggregated by Scope 1, 2 and 3 GHG emissions may be graphically presented in the
+sustainability statement (e.g., as a bar or pie chart) showing the split of GHG emissions across the value chain
+(Upstream, Own operations, Transport, Downstream).
+GHG intensity based on net revenue
+Calculation guidance
+AR 53. When disclosing the information on GHG intensity based on net revenue required under paragraph 53, the
+undertaking shall:
+(a) calculate the GHG intensity ratio by the following formula:
+(b) express the total GHG emissions in metric tonnes of CO2eq and the net revenue in monetary units (e.g., Euros)
+and present the results for the market-based and location-based method;
+(c) include the total GHG emissions in the numerator and overall net revenue in the denominator;
+(d) calculate the total GHG emissions as required by paragraphs 44 (d) and 52; and
+(e) calculate the net revenue in line with the requirements in accounting standards applied for financial
+statements, i.e., IFRS 15 or local GAAP.
+AR 54. The quantitative information may be presented in the following tabular format.
+GHG intensity per net revenue Comparative N % N / N-1
+Total GHG emissions (location-based) per net revenue (tCO2eq/Monetary unit)
+Total GHG emissions (market-based) per net revenue
+(tCO2eq/Monetary unit)OJ L, 22.12.2023 EN  
+
+--- Page 103 of 284 ---

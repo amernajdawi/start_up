@@ -1,0 +1,38 @@
+File Name: 1_2023-07-31_DelVO_2023_2772_ESRS_EU.pdf
+Converted on: 2025-03-28 01:55:56
+Original Size: 5.82 MB
+Chunk Size: 400 tokens with 50 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 740 of 768
+--------------------------------------------------------------------------------
+
+ELI: http://data.europa.eu/eli/reg_del/2023/2772/oj 275/284Pollutant A substance, vibration, heat, noise, light or other contaminant present in air,
+water or soil which may be harmful to human health and/or the
+environment, which may result in damage to material property, or which
+may impair or interfere with amenities and other legitimate uses of the
+environment (22).
+Pollution The direct or indirect introduction, as a result of human activity, of pollutants into air, water or soil which may be harmful to human health
+and/or the environment, which may result in damage to material property, or which may impair or interfere with amenities and other legitimate uses of
+the environment (
+23).
+Pollution of soil The introduction into soil – independent of whether that introduction
+occurs at the production site of an undertaking or outside or through the
+use of the undertaking’s products and/or services – as a result of human
+activity, of substances, vibrations, heat or noise which may be harmful to
+human health or the environment, result in damage to material property, or impair or interfere with amenities and other legitimate uses of the
+environment (
+24). Soil pollutants include inorganic pollutants, persistent
+organic pollutants (POPs), pesticides, nitrogen and phosphorus
+compounds, etc.
+Protected area A clearly defined geographical space, recognised, dedicated and managed,
+through legal or other effective means, to achieve the long-term
+conservation of nature with associated ecosystem services and cultural
+values.
+Purchased or acquired electricity, heat,
+steam, or coolingWhen the undertaking has received its electricity, heat, steam, or cooling from a third party. The term “acquired” reflects circumstances where a
+company may not directly purchase electricity (e.g., a tenant in a building),
+but where the energy is brought into the undertaking’s facility for use.
+Raw material Primary or secondary material that is used to produce a product.
+Recognised quality standards for carbon creditsQuality standards for carbon credits that are verifiable by independent third

@@ -1,0 +1,31 @@
+File Name: 2_E1-6_2014-01-01_G_GHG-Agri_WRI&WBCSD.pdf
+Converted on: 2025-03-28 03:18:26
+Original Size: 1.75 MB
+Chunk Size: 500 tokens with 50 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 108 of 108
+--------------------------------------------------------------------------------
+
+, F . O ’ Mara , C . Rice , R . J . Scholes , O . Sirote nko , M . Howden , T . McAllister , G . Pan , V . - - - Page 103 of 103 - - - GHG Protocol Agricultural Guidance
+
+103
+Romanenkov, U. Schneider, S. Towprayoon, M. Wattenbach, and J.U. Smith, 2007b:
+Greenhouse gas mitigation in agriculture. Philoso phical Transactions of the Royal Society, B.,
+363. doi:10.1098/rstb.2007.2184.  Stockwell, R. and Bitan, E. 2011. Future Friend ly Farming: Seven Agricultural Practices to 
+Sustain People and the Environm ent. National Wildlife Federation.
+www.ncwf.org/Docs/FutureFriendlyFarming.pdf    F.N. Tubiello, M. Salvatore, R.D. Cóndor Golec, A. Ferrara, S. Rossi, R. Biancalani, S. Federici, 
+H. Jacobs, and A. Flammini. 2014. Agriculture,  Forestry and Other Land Use Emissions by 
+Sources and Removals by Sinks: 1990-2011 Analys is. FAO Statistics Division Working Paper
+Series ESS/14-02. www.fao.org/docre p/019/i3671e/i3671e.pdf     
+U.S. EPA (2006a), Global Anthropogenic Non-CO2 Greenhouse Gas Emissions: 1990–2020 ,
+EPA 430-R-06-003, U.S. Environmental Pr otection Agency, Washington, DC,
+http://www.epa.gov/nscep/index.html  
+
+U.S. EPA (2006b), Global Mitigation of Non-CO2 Greenhouse Gas Emissions , EPA 430-R-06-
+003, U.S. Environmental Protec tion Agency, Washington, DC,
+http://www.epa.gov/nscep/index.html  Vermuelen, S. J., Campbell, B.M. and J.S.I. Ingram. 2012. Climate Change and Food Systems. Ann Rev Environ Resour. 37: 195 – 222.  
+
+WRI, CAIT 2.0. 2014. Climate Analysis Indicato rs Tool: WRI’s Climate Data Explorer.
+Washington, DC: World Resources Institu te. Available at: http://cait2.wri.org.

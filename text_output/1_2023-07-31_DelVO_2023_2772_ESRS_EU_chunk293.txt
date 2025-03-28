@@ -1,0 +1,41 @@
+File Name: 1_2023-07-31_DelVO_2023_2772_ESRS_EU.pdf
+Converted on: 2025-03-28 03:18:14
+Original Size: 5.82 MB
+Chunk Size: 500 tokens with 50 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 293 of 686
+--------------------------------------------------------------------------------
+
+ELI: http://data.europa.eu/eli/reg_del/2023/2772/oj 128/284Appendix A
+Application Requirements
+This appendix is an integral part of the ESRS E3. It supports the application of the disclosure requirements set out in this
+standard and has the same authority as the other parts of the Standard.
+ESRS 2 GENERAL DISCLOSURES
+Impact, risk and opportunity management
+Disclosure Requirement related to ESRS 2 IRO-1 – Description of the processes to identify and assess material water
+and marine resources-related impacts, risks and opportunities
+AR 1. When conducting a materiality assessment on environmental subtopics, the undertaking shall assess the
+materiality of water and marine resources in its own operations and its upstream and downstream value chain,
+and may consider the four phases below, also known as the LEAP approach:
+(a) Phase 1: locate where in its own operations and along the value chain the interface with nature takes place;
+(b) Phase 2: evaluate the dependencies and impacts;
+(c) Phase 3: assess the material risks and opportunities; and
+(d) Phase 4: prepare and report the results of the materiality assessment.
+AR 2. The materiality assessment for ESRS E3 corresponds to the first three phases of this LEAP approach, the fourth
+phase addresses the outcome of the process.
+AR 3. The processes to assess the materiality of impacts, risks and opportunities shall consider the provisions in ESRS 2
+IRO-1 Description of the processes to identify and assess material impacts, risks and opportunities, and IRO-2 Disclosure
+Requirements in ESRS covered by the undertaking’s sustainability statement.
+AR 4. The sub-topics related to water and marine resources covered by the materiality assessment include:
+(a) water, which encompasses the consumption of surface water , groundwater , as well as withdrawals and
+discharges of water; and
+(b) marine resources, which encompasses the extraction and use of such resources and associated economic activities.
+AR 5. In phase 1, to locate where there are areas at water risk, and areas where there is an interface with marine resources
+that could lead to material impacts and dependencies in its own operations and along its upstream and
+downstream value chain, the undertaking may consider:
+(a) the locations of direct assets and operations and related upstream and downstream activities across the value
+chain;
+(b) the sites located in areas at water risk , including areas of high-water stress; and
+(c) the sectors or business units that are interfacing with water or marine resources in these priority locations.

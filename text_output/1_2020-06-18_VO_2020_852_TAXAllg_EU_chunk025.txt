@@ -1,0 +1,51 @@
+File Name: 1_2020-06-18_VO_2020_852_TAXAllg_EU.pdf
+Converted on: 2025-03-28 03:20:25
+Original Size: 0.73 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 25 of 54
+--------------------------------------------------------------------------------
+
+including carbon-inten sive lock -in effects, during the economic lifetime of the funded economic activity . Those
+criteria should also consider the long-term impact of a specific economic activity .
+(40) An economic activity should not qualify as environmentally sustainable if it causes more harm to the environment
+than the benefits it brings. The technical screening criteria should identify the minimum requirements necessar y to
+avoid significant harm to other objectives, including by building on any minimum requirements laid down pursuant
+to Union law. When establishing and updating the technical screening criteria, the Commission should ensure that
+those criteria are based on available scientifi c evidence, are developed by taking into account life-cy cle
+considerations, including existing life-cy cle assessments, and are updat ed regularly . Where scientifi c evaluation does
+not allow for a risk to be determined with sufficient certainty , the precautionar y principle should apply in
+accordance with Article 191 TFEU.
+(41) In establishing and updating the technical screening criteria for the environmental objective of climat e change
+mitig ation, the Commission should take into account and provid e incentives for the ongoing and necessar y
+transition towards a climat e-neutral econom y in accordance with Article 10(2) of this Regulation. In addition to the
+use of climat e-neutral energy and more investments in already low-carbon economic activities and sectors, the
+transition requires substantial reductions in greenhouse gas emissions in other economic activities and sectors for
+which there are no technologically and economically feasible low-carbon altern atives. Those transitional economic
+activities should qualify as contr ibuting substantially to climate change mitig ation if their greenhouse gas emissions
+are substantially lowe r than the sector or industr y average, they do not hamper the development and deplo yment of
+low-carbon alternati ves and they do not lead to a lock-in of assets incompatible with the objective of climate -
+neutrality , consider ing the economic lifetime of those assets. The technical screening criteria for such transitional
+economic activities should ensure that those transitional activities have a credible path towards climat e-neutrality ,
+and should be adjusted according ly at regular inter vals.
+(42) An economic activity should qualify as contr ibuting substantially to one or more of the environmental objectives set
+out in this Regulation where it directly enables other activities to make a substantial contr ibution to one or more of
+those objectives. Such enabling activities should not lead to a lock -in of assets that under mine long-t erm
+environmental goals, consider ing the economic lifetime of those assets, and should have a substantial positive
+environmental impact, on the basis of life-cy cle considerations.
+(43) When establishing and updating the technical screening criteria the Commission should take into account relevant
+Union law, including Regulations (EC) No 1221/2009 (55) and (EC) 66/2010 (56) of the European Parliament and of
+the Council, as well as Commission Recommendation 2013/179/EU (57) and the communication of the
+Commission of 16 July 2018 on ‘Public procurement for a better envi ronment ’. To avoid unnecessar y
+inconsiste ncies with classifications of economic activities that already exist for other purposes, the Commission
+should also take into account the statistical classificat ions relating to the environmental goods and services sector,
+namely the classificat ion of environmental prote ction activities (CEP A) and the classification of resource
+manage ment activities (CReMA) of Regulation (EU) No 538/2014 of the European Parliament and of the
+Council (58). When establishing and updating the technical screening criteria, the Commission should take into
+account existing environmental indicator s and repor ting framew orks, developed by, amongst others, the
+Commission and the European Environm ent Agen cy, and existing internati onal standards, such as those developed
+by, amongst others, the OECD.
+(55)Regulation (EC) No 1221/2009 of the European Parliament and of the Council of 25 November 2009 on the voluntar y participation
+by organisations in a Community eco-management and audit scheme (EMAS), repealing Regulation (EC) No 761/2001 and

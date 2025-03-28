@@ -1,0 +1,37 @@
+File Name: 1_2023-06-27_DelVO_2023_2486_TAXURA_EU.pdf
+Converted on: 2025-03-28 03:18:09
+Original Size: 8.44 MB
+Chunk Size: 500 tokens with 50 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 222 of 380
+--------------------------------------------------------------------------------
+
+ELI: http://data.europa.eu/eli/reg_del/2023/2486/oj 80/164machinery for textile, apparel and leather production, C28.95 Manufacture of machinery for paper and paperboard
+production, C28.96 Manufacture of plastic and rubber machinery, C31 Manufacture of furniture and C32 Other
+manufacturing.
+The economic activities in this category could be associated with several NACE codes, in particular G46, G47, and N.77 in
+accordance with the statistical classification of economic activities established by Regulation (EC) No 1893/2006.
+Technical screening criteria
+Substantial contribution to the transition to a circular economy
+1.The activity provides the customer (physical or legal persons) with access to, and use of product(s), while ensuring that
+the ownership remains with the company providing this service, such as a manufacturer, specialist or retailer. The
+contractual terms and conditions ensure that all the following sub-criteria are met:
+(a) there is an obligation for the provider of the service to take back the used product at the end of the contractual
+agreement;
+(b) there is an obligation for the customer to give back the used product at the end of the contractual agreement;
+(c) the provider of the service remains owner of the product;
+(d) the customer pays for access to and use of the product, or the result of access to and use of this product.
+2.The activity leads to an extended lifespan or increased use intensity of the product in practice.
+3.Where the economic activity involves delivery of packaged products to customers (physical person or legal person)
+including when the activity is operated as an e-commerce (180), the primary and secondary packaging of the product
+complies with one of the following criteria:
+(a) the packaging is made of at least 65 % recycled material. Where the packaging is made from paper or cardboard, the
+remaining primary raw material are certified by the Forest Stewardship Council (FSC), the Programme for the
+Endorsement of Forest Certification Schemes (PEFC International), or equivalent recognised schemes. Coatings with
+plastics or metals are not used. For plastic packaging only monomaterials without coatings are used, halogen-
+containing polymers are not used. A declaration of compliance is provided specifying the material composition of the
+packaging and the shares of recycled and primary raw material;
+(b) the packaging has been designed to be reusable within a reuse system (181). The system for reuse is established in a way
+that ensures the possibility of reuse in a closed-loop or open-loop system.

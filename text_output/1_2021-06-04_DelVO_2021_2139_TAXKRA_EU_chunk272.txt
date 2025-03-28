@@ -1,0 +1,45 @@
+File Name: 1_2021-06-04_DelVO_2021_2139_TAXKRA_EU.pdf
+Converted on: 2025-03-28 03:20:30
+Original Size: 2.76 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 272 of 447
+--------------------------------------------------------------------------------
+
+3.14.  Manufacture of organic basic chemicals  
+Description of the activity  
+Manufacture of:  
+(a) high value chemicals (HVC):  
+(i) acetylene;  
+(ii) ethylene;  
+(iii) propylene;  
+(iv) butadiene.  
+(b) Aromatics:  
+(i) mixed alkylbenzenes, mixed alkylnaphthalenes other than HS 2707 or 2902;  
+(ii) cyclohexane;  
+(iii) benzene;  
+(iv) toluene;  
+(v) o-Xylene;  
+(vi) p-Xylene;  
+(vii) m-Xylene and mixed xylene isomers;  
+(viii) ethylbenzene;  
+(ix) cumene;  
+(x) biphenyl, terphenyls, vinyltoluenes, other cyclic hydrocarbons excluding cyclanes, cyclenes, cycloterpenes,
+benzene, toluene, xylenes, styrene, ethylbenzene, cumene, naphthalene, anthracene;  
+(xi) benzol (benzene), toluol (toluene) and xylol (xylenes);  
+(xii) naphthalene and other aromatic hydrocarbon mixtures (excluding benzole, toluole, xylole).  
+(c) vinyl chloride;  
+(d) styrene;  
+(e) ethylene oxide;  
+(f) monoethylene glycol;  
+(g) adipic acid.  
+The economic activities in this category could be associated with NACE code C20.14 in accordance with the
+statistical classification of economic activities established by Regulation (EC) No 1893/2006.  
+Technical screening criteria  
+Substantial contribution to climate change adaptation  
+1. The economic activity has implemented physical and non-physical solutions (‘adaptation solutions’) that
+substantially reduce the most important physical climate risks that are material to that activity.EN  L 442/204 Official Journal of the European Union 9.12.2021
+
+--- Page 205 of 349 ---

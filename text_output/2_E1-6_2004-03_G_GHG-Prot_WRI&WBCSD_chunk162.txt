@@ -1,0 +1,23 @@
+File Name: 2_E1-6_2004-03_G_GHG-Prot_WRI&WBCSD.pdf
+Converted on: 2025-03-28 03:18:16
+Original Size: 3.51 MB
+Chunk Size: 500 tokens with 50 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 162 of 225
+--------------------------------------------------------------------------------
+
+stated over several years. An example would be “from
+2001 through 2012, emissions will be reduced by onepercent every year, compared to the previous year.”When structural or methodological changes occur,recalculati ons only need to be made to the previous
+year.
+7As a result, like-with-like comparisons of
+emissions in the “target starting year” (2001 in theexample) and “target completion year” (2012)cannot be made because emissions are not recalcu-lated for all years back to the target starting year.
+The definition of what triggers a base-year emissions
+recalculation is the same as under the fixed base yearapproach. The difference lies in how far back emissionsare recalculated. Table 5 compares targets using therolling and fixed base year approaches while Figure 14illustrates one of the key differences.
+RECALCULATIONS UNDER INTENSITY TARGETS
+While the standard in chapter 5 applies to absoluteinventory emissions of companies using intensitytargets, recalculations for structural changes for thepurposes of the target are not usually needed unless thestructural change results in a significant change in theGHG intensity. However, if recalculations for structuralchanges are made for the purposes of the target, theyshould be made for both the absolute emissions and thebusiness metric. If the target business metric becomesirrelevant through a structural change, a reformulationof the target might be needed (e.g., when a companyrefocuses on a different industry but had used anindustry-specific business metric before).  
+5.  Define the target completion date
+The target completion date determines whether thetarget is relatively short- or long-term. Long-termtargets (e.g., with a completion year ten years from thetime the target is set) facilitate long-term planning forlarge capital investments with GHG benefits. However,they might encourage later phase-outs of less efficientequipment. Generally, long-term targets depend onuncertain future developments, which can have opportu-nities as well as risks, which is illustrated in Figure 13.A five-year target period may be more practical fororganizations with shorter planning cycles.6. Define the length of the commitment period
+The target commitment period is the period of timeduring which emissions performance is actually measuredagainst the target. It ends with the target completiondate. Many companies use single-year commitmentperiods, whereas the Kyoto Protocol, for example, speci-fies a multi-year “first commitment period” of five years(2008 –2012). The length of the target commitmentperiod is an important factor in determining a company’slevel of commitment. Generally, the longer the targetcommitment period, the longer the period during whichemissions performance counts towards the target.
+

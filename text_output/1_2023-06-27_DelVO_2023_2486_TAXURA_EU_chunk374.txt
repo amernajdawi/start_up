@@ -1,0 +1,18 @@
+File Name: 1_2023-06-27_DelVO_2023_2486_TAXURA_EU.pdf
+Converted on: 2025-03-28 03:18:09
+Original Size: 8.44 MB
+Chunk Size: 500 tokens with 50 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 374 of 380
+--------------------------------------------------------------------------------
+
+reinsurance revenue corresponding to Taxonomy-aligned insurance or reinsurance activities in accordance with
+points 10.1 and 10.2 of Annex II to Climate Delegated Act. The KPI shall be depicted in percentage terms relative
+to, as applicable, one of the following:
+(a) total non-life insurance gross premiums written;
+(b) total non-life reinsurance gross premiums written;
+(c) total non-life insurance revenue;
+(d) total non-life reinsurance revenue.’;
+(10) in Annex X, the first template is replaced by the following template:OJ L, 21.11.2023 EN

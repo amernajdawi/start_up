@@ -1,0 +1,42 @@
+File Name: 2_E1-6_2014-01-01_G_GHG-Agri_WRI&WBCSD.pdf
+Converted on: 2025-03-28 01:56:31
+Original Size: 1.75 MB
+Chunk Size: 400 tokens with 50 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 140 of 150
+--------------------------------------------------------------------------------
+
+99
+Crop year The period of time between two harv ests. For many crops, this period
+approximates a calendar year, but for others several crop years may be
+possible each calendar year.
+Cultivar A cultivar is an assemblage of pl ants that (a) has been selected
+for a particular character or co mbination of characters, (b) is
+distinct, uniform and stable in those characters, and (c) when
+propagated by appropriate means,  retains those characters.  
+Custom farming
+contract A contract between a landowner and an operator that requires the
+operator to supply all the labor and equipment needed to perform
+tillage, planting, pest control, harves ting, crop storage, and other farm
+functions. The custom operator receives a fixed payment per acre from
+the landowner, or a fixed payment for each operation performed. In
+turn, the landowner pays all other expenses and receives the entire
+crop.  
+Dead organic matter A carbon pool that includes non-living biomass in: (1) dead wood that
+is either standing, lying on the ground, or in the soil; and (2) litter
+located on or within the mineral or organic soil.  
+Denitrification The process whereby nitrates are re duced by bacteria and become
+N2O, which is then released into the atmosphere.
+Direct GHG emissions Emissions from sources th at are owned or controlled by the reporting
+company.
+Emission factor A factor allowing GHG fluxes  to be estimated from a unit of available 
+activity data (e.g., tonnes of fuel consumed, tonnes of product
+produced).
+Enteric fermentation Fermentation that occurs in the digestive tracts of ruminant  livestock 
+species (e.g., cattle and sheep) and that releases CH 4.
+Equity share approach An approach used to  set organizational boundaries , wherein a 
+company accounts for the emissions from an operation according to its
+share of equity (or percentage of economic interest) in that operation.
+Financial control An approach used to set organizational boundaries , wherein a

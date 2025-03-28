@@ -1,0 +1,84 @@
+File Name: 2_E1-6_2006-01-01_GHG-LuLu_WRI&WBCSD.pdf
+Converted on: 2025-03-28 03:18:22
+Original Size: 6.41 MB
+Chunk Size: 500 tokens with 50 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 72 of 88
+--------------------------------------------------------------------------------
+
+AnnexA
+Life-CycleAssessme nts
+andUpstreamandDownstreamEffects
+TableA.1givesanexampleofafulllife-cycleassessmentof
+awillowreforestationprojectincentralNewYorkState
+(adaptedfromHeller,Keoleian,andVolk2003).Alife-cycle
+assessment quantifiesthepossiblesecondaryeffectsby
+lookingatthematerialandenergyinputsandoutputs
+throughoutaproduct’slife,fromrawmaterialacquisition
+throughproduction,use,anddisposal.Theassessmentdoes
+notconsidermarketresponses,andtheprimaryeffect’s
+GHGremovalspertaintothecarbonsequesteredinabove-
+andbelowgroundbiomass.
+Thisexampleshowsthat
+•CarbonsequesteredinvegetationcanoutweightheGHG
+emissionsfromsecondaryeffectsources.
+•Manysecondaryeffectswouldprobablybeconsidered
+insignificantcomparedwiththeprimaryeffect.FigureA.1showshowtheGHGeffectsfromthelife-cycle
+assessmentmaybeusedtodefinetheGHGassessment
+boundary.Eventhoughthisboundarydoesnotincludeall
+theGHGeffectsfromalife-cycleassessment,itisimportant
+toconsiderthesesecondaryeffectsinitiallytoensurea
+completeaccountingofthem.
+PARTIV:AnnexA 82 TABLEA.1MagnitudeofPrimary
+andSecondaryEffectsBased
+onaLife-CycleAssessment
+GHGemissions
+•Dieselfuel +3.12 a+0.06 +3.2
+•Agricultural inputs b+3.0 +0.4 +3.4
+•N2OfromappliedN +4.0(±3.2) c+4.0
+forfertilizer
+•N2Ofromleaflitter +7.3(±5.8) c+7.3
+Cseques tration
+•Belowgro undbiomass –14.1 –14.1
+•Soilcarbon d 00
+•Harvestablebiomass –499.2 –499.2 MgC O 2e q /h a CO 2 OTHERGHGS GHGTOTAL
+SourcesofPotentialSecondaryEffects
+PrimaryEffectSinks
+Notes:
+aPositivevaluesindicateadditions(releases)totheatmosphere.
+bIncludesfertilizerandherbicidemanufacturing andtransport,machinery
+manufacturing,andnurseryoperations.
+cBracketednumbersrepresenttheN 2OemissionrangepresentedbytheIPCC
+(1997)estimate.
+dSoilcarbonwasassumedtobezeroowingtouncertaintyinmeasurementsand
+variabilityinthestudyarea.
+
+--- Page 85 of 100 ---
+
+PARTIV:AnnexA
+83 F I G U R E A . 1 DiagramofPossible GHGEffectsintheLife-CycleAssessmentandtheGHGAssessment
+BoundaryfortheProjectActivity
+GHGeffectsincluded
+inthelife-cycle
+assessment On-siteActivitiesandTransporta tion: GHGemissionsassociated withtheuseand
+transportationofmachinery,herbicides,andfertilizerson-siteduringallprojectstages,
+includingGHGemissionsresultingfromtilling,replanting,andmaintenance.
+On-siteActivitiesandTransportation :GHGemissionsassociatedwiththemanagement
+ofanywaste(includingdeadtrees)createdon-siteduringallprojectstages
+andtransportationoftheproductoff-site.
+WoodProductsManufacturing: GHGemissionsassociatedwiththetransportation,
+preparation,andmanufactureofallwoodproductsorbiomassharvested
+asaresultoftheproject.
+MarketResponse: GHGemissionsresultingfromanincrease(ordecrease)infiberoutside
+theprojectsiteduetothechangeinthefibersupplycausedbytheGHGproject.EquipmentManufacturing: GHGemissionsfromenergyuse,transportation,andotherprocesses
+associatedwiththemanufactureofmachinery,herbicides,fuels,andfertilizersusedon-siteduring
+allstagesoftheproject.ThisincludesGHGemissionsfromnurseryoperationsbeforeplanting.InputManufacturing: GHGemissionsfromenergyuse,transportation,andotherprocessesassoci-
+atedwiththemanufactureofmachineryinputs(steel,plastic,rubber,aluminum,copper,glass,cast
+iron,etc.),andchemicalsusedinfertilizerandherbicideproduction(ammoniasulfate,etc.).MineralExtraction: GHGemissionsresultingfromtheextractionandtransportati on
+ofallrawminerals(ironore,limestone,mineraloil,dieseloil,naturalgas,etc.)usedinthe
+manufactureofinputsandequipment.
+R E F O R E S TAT I O N P R O J E C T U P S T R E A M E F F E C T S D O W N S T R E A M E F F E C T S GHGeffectswhichmightbeincludedassecondaryeffects
+
+--- Page 86 of 100 ---

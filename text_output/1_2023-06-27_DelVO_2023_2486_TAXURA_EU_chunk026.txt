@@ -1,0 +1,52 @@
+File Name: 1_2023-06-27_DelVO_2023_2486_TAXURA_EU.pdf
+Converted on: 2025-03-28 03:20:36
+Original Size: 8.44 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 26 of 199
+--------------------------------------------------------------------------------
+
+ELI: http://data.europa.eu/eli/reg_del/2023/2486/oj 15/1642.2. Urban waste water treatment
+Description of the activity
+Construction, extension, upgrade, operation and renewal of urban waste water infrastructure including treatment plants,
+sewer networks, storm water management structures, connections to the waste water infrastructure, decentralised
+wastewater treatment facilities, including individual and other appropriate systems, and discharge structures for treated
+effluent. The activity may include innovative and advanced treatments, including the removal of micropollutants.
+The economic activities in this category could be associated with several NACE codes, in particular E37.00 and F42.9, in
+accordance with the statistical classification of economic activities established by Regulation (EC) No 1893/2006.
+Technical screening criteria
+Substantial contribution to the sustainable use and protection of water and marine resources
+1.The waste water treatment system does not result in a deterioration of the good status and good ecological potential of
+any of the affected water bodies and it contributes significantly to the achievement of good status and potential of the
+affected water bodies, in accordance with Directive 2000/60/EC (6).
+The information related to the status of water bodies, to the activities potentially impacting the status and to the measures
+taken to avoid or minimize such impacts, is included in a river basin management plan, or, for activities in third countries,
+in an equivalent water use and protection management plan. The waste water treatment system fulfils the discharge
+requirements set up by the competent local authorities. The waste water treatment system also contributes to achieve or
+maintain the good environmental status of marine waters in accordance with Directive 2008/56/EC, where applicable.
+2.The waste water treatment system has a collecting system and the provision of secondary treatment. The waste water
+treatment system complies with the relevant, size-specific requirements for discharges from urban waste water treatment
+plants set out in Directive 91/271/EEC, in particular Articles 3 to 8 and Article 13 of that Directive and Annex I to that
+Directive.
+3.Where the waste water treatment plant has a capacity of 100 000 population equivalent (p.e.) (7)or more, or of a daily
+inflow of a five-day biochemical oxygen demand (BOD5) load of more than 6 000 kg, it uses a sludge treatment such as
+anaerobic digestion or a technology with the same or a lower net energy demand (considering both energy generation and
+consumption), to stabilise the sludge.
+Do no significant harm (‘DNSH’)
+(1) Climate change mitigation An assessment of the direct GHG emissions from the centralised waste water system,
+including collection (sewer network) and treatment, has been performed. The results
+are disclosed to investors and clients on demand (8).
+For anaerobic digestion of sewage sludge, a monitoring plan is in place for methane
+leakage at the facility.
+(6)For activities in third countries, in accordance with applicable national law or international standards which pursue equivalent
+objectives of good water status and good ecological potential, through equivalent procedural and substantive rules, i.e. a water use and
+protection management plan developed in consultation with relevant stakeholders which ensures that (1) the impact of the activities
+on the identified status or ecological potential of potentially affected water body or bodies is assessed; and (2) deterioration or
+prevention of good status/ecological potential is avoided.
+(7)Population equivalent (p.e.) means the organic biodegradable load having a five-day biochemical oxygen demand (BOD5) of 60 g of
+oxygen per day.
+(8)For example, in line with IPCC guidelines for national GHG inventories for waste water treatment, version of 27.6.2023 available at: https://www.ipcc-nggip.iges.or.jp/public/2019rf/pdf/5_Volume5/19R_V5_6_Ch06_Wastewater.pdf.OJ L, 21.11.2023 EN  
+
+--- Page 16 of 164 ---

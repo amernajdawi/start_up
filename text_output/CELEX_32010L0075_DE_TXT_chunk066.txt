@@ -1,0 +1,192 @@
+File Name: CELEX_32010L0075_DE_TXT.pdf
+Converted on: 2025-03-28 03:21:03
+Original Size: 4.18 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 66 of 93
+--------------------------------------------------------------------------------
+
+L 334/70 DE Amtsblattder Europäischen Union 17.12.2010
+C: Gesamtemission sgrenzwerte bei einem Sauerstoffg ehalt, der in diesem Teil für b estimmte industri­
+elle
+Tätigkeiten
+und
+Schadstoffe festg elegt
+ist, oder, in  
+Ermangelung
+solcher Werte, Gesamtemiss­
+ionsgrenzwerte,
+die die in
+spezifischen  
+Anhängen
+dieser Richtlin ie
+festgelegten
+Emissionsgrenzwerte
+ersetzen.
+Der Gesamtsauerstoffg ehalt,
+der den
+Bezugssauerstoffgehalt
+ersetzt, wird auf der Grun d­
+lage
+des oben
+genannten
+Gehalts, un ter
+Berücksichtigung
+der Teilvolumina, b erechnet.
+Alle
+Emissionsgrenzwerte
+werden
+bei
+einer
+Temperatur von  
+273,15 K,
+einem
+Druck
+von
+101,3 kPa
+und
+nach
+Abzug
+des Wasserdampfg ehalts
+des Abgases
+berechnet.
+Die
+Mitgliedstaaten
+können
+Regeln
+für die Ausn ahmen
+gemäß
+diesem Teil vorsehen .
+2. Besondere
+Vorschriften  
+für Zemen töfen,
+in
+denen
+Abfälle
+mitverbrannt
+werden
+2.1. Die Emissionsgrenzwerte
+gemäß
+den
+Nummern  
+2.2 und
+2.3 gelten
+als Tage
+smittelwerte für den  
+Gesamtstaub ,
+HCl,
+HF, NOx,  S O2 und TOC (bei kontinuierlichen Messungen), als Mittelwerte b ei einer Probenahmedauer von mindes­
+tens
+30 Minuten
+und
+höchstens
+8 Stunden
+für Schwermetalle un d
+als Mittelwerte b ei
+einer
+Probenahmedauer
+von
+mindestens
+6 Stunden
+und
+höchstens
+8 Stunden
+für Dioxin e
+und
+Furane.
+Alle
+Werte beziehen
+sich auf ein en
+Sauerstoffg ehalt
+von
+10 %.
+Halbstundenmittelwerte
+sind
+nur
+zur Berechn ung
+der Tagesmittelwerte
+erforderlich.
+2.2. C — Gesamtemission sgrenzwerte
+(in
+mg/Nm3 ausgenommen für Dioxin en und Furane) für folgende Schadstoffe
+Schadstoff C
+Gesamtstaub 30
+HCl 10
+HF 1
+NOx 500 (1)
+C d  +  T l 0,05
+Hg 0,05
+S b  +  A s  +  P b  +  C r  +  C o  +  C u  +  M n  +  N i  +  V 0 , 5
+Dioxine
+und
+Furane
+(in
+ng/Nm3) 0,1
+(1)Bis 1. Januar 2016 kann die zustän dige Behörde Ausn ahmen für den NOx-Grenzwert bei Lepolöfen  und langen Drehrohröfen  
+genehmigen,
+sofern
+in
+der Genehmigung
+ein
+Gesamtemission sgrenzwert
+für NOx von höchstens 800 mg/Nm3 vorgesehen ist.
+2.3. C — Gesamtemission sgrenzwerte (in mg/Nm3) für SO2 und organisch gebundenen Gesamtkohlenstoff (TOC)
+Schadstoff C
+SO2 50
+TOC 10
+Die zustän dige
+Behörde k ann
+Ausnahmen
+für die un ter
+dieser Nummer festg es
+etzten
+Emissionsgrenzwerte
+geneh­
+migen,
+wenn
+der vorhan dene
+organisch
+gebundene
+Gesamtkoh
+lensto
+ff und das SO2 nicht durch die Mitverb rennung
+von
+Abfällen
+entstehen.
+2.4. C
+— Gesamtemission sgrenzwerte
+für CO
+Die zustän digen
+Behörden  
+können
+Emissionsgrenzwerte
+für CO festleg en.
+3. Besondere
+Vorschriften  
+für Feuerun gsanlagen,
+in
+denen
+Abfälle
+mitverbrannt
+werden
+3.1. CVerfahren ausgedrückt als Tagesmittelwerte (in mg/Nm3) (gültig bis zu dem in  Artikel 82 Absatz 5 genannten Datum) 
+Für
+die Ermittlung
+der thermischen Nen nleistung
+der Feuerun gsanlagen
+sind
+die Aggregationsregeln
+gemäß
+Arti­
+kel
+29 anzuwenden.
+Halbstundenmittelwerte
+sind
+nur
+zur Berechn ung
+der Tagesmittelwerte
+erforderlich.  
+
+--- Page 55 of 103 ---

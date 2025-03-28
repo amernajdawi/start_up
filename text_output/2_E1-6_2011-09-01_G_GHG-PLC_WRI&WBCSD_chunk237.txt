@@ -1,0 +1,30 @@
+File Name: 2_E1-6_2011-09-01_G_GHG-PLC_WRI&WBCSD.pdf
+Converted on: 2025-03-28 01:56:27
+Original Size: 3.27 MB
+Chunk Size: 400 tokens with 50 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 237 of 270
+--------------------------------------------------------------------------------
+
+the following items:
+•Description of the studied product, unit of analysis,
+and reference flow
+•Information on the entity(ies) or person(s) responsible
+for measurement and data collection procedures
+•All information that describes the product’s inventory
+boundary
+•Criteria used to determine when a product inventory is
+re-evaluated
+•Data collection procedures
+•Data sources, including activity data, emission factors
+and other data,  and the results of any data quality 
+assessment performed
+•Calculation methodologies, including unit conversions
+and data aggregation
+•Length of time the data should be archived
+•Data transmission, storage, and backup procedures
+•All QA/QC procedures for data collection, input and
+handling activities, data documentation, and emissions
+calculationsAppendix C.  Data Management Plan

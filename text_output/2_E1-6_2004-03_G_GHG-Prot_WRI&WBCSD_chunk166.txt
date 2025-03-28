@@ -1,0 +1,20 @@
+File Name: 2_E1-6_2004-03_G_GHG-Prot_WRI&WBCSD.pdf
+Converted on: 2025-03-28 03:18:16
+Original Size: 3.51 MB
+Chunk Size: 500 tokens with 50 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 166 of 225
+--------------------------------------------------------------------------------
+
+double counting issues should be addressed, companiesshould develop their own “Target Double CountingPolicy.” This should specify how reductions and tradesrelated to other targets and programs will be reconciledwith their corporate target, and accordingly which typesof double counting situations are regarded as relevant.Listed here are some examples of double counting thatmight need to be addressed in the policy.
+
+DOUBLE COUNTING OF OFFSETS. This can occur when
+a GHG offset is counted towards the target by both theselling and purchasing organizations. For example,company A undertakes an internal reduction projectthat reduces GHGs at sources included in its owntarget. Company A then sells this project reduction tocompany B to use as an offset towards its target, whilestill counting it toward its own target. In this case,reductions are counted by two different organizationsagainst targets that cover different emissions sources.Trading programs address this by using registries thatallocate a serial number to all traded offsets or creditsand ensuring the serial numbers are retired oncethey are used. In the absence of registries this couldbe addressed by a contract between seller and buyer.
+
+DOUBLE COUNTING DUE TO TARGET OVERLAP .11
+This can occur when sources included under a
+company’s corporate target are also subject to limitsby an external program or another company’s target.Two examples:  
+Company A has a corporate target that includesGHG sources that are also regulated under a tradingprogram. In this case, reductions at the commonsources are used by company A to meet both itscorporate target and the trading program target. GUIDANCESetting a GHG Target
+CHAPTER 11 82

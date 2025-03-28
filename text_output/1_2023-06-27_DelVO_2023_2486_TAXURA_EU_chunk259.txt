@@ -1,0 +1,22 @@
+File Name: 1_2023-06-27_DelVO_2023_2486_TAXURA_EU.pdf
+Converted on: 2025-03-28 03:18:09
+Original Size: 8.44 MB
+Chunk Size: 500 tokens with 50 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 259 of 380
+--------------------------------------------------------------------------------
+
+criteria set out in Article 57 of Regulation (EC) No 1907/2006 except where it is assessed and documented by the operator
+that no other suitable alternative substances or technologies are available on the market, and that they are used under
+controlled conditions (
+25).
+2.The activity complies with the following requirements regarding the emission of pollutants:
+(23)Higher-tier studies (OECD 308) result with so-called half-lives indicating the time after which 50 % biodegradation of the API is
+achieved. Half-lives acceptable to demonstrate sufficiently quick biodegradation, i.e. non-persistence, according to the Regulation (EC)
+No 1907/2006, Annex XIII, which is also referenced in the EMA ERA guideline, apply.
+(24)OECD Guidelines for the Testing of Chemicals, Test No 308: Aerobic and Anaerobic Transformation in Aquatic Sediment Systems,
+version of 27.6.2023 available at: https://www.oecd-ilibrary.org/environment/test-no-308-aerobic-and-anaerobic-transformation-in-
+aquatic-sediment-systems_9789264070523-en.
+(25)The Commission will review the exceptions from the prohibition from manufacturing, placing on the market or use of the substances referred to in points (f) and (g) once it will have published horizontal principles on essential use of chemicals.OJ L, 21.11.2023 EN

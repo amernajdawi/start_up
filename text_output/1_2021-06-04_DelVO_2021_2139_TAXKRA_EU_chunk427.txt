@@ -1,0 +1,59 @@
+File Name: 1_2021-06-04_DelVO_2021_2139_TAXKRA_EU.pdf
+Converted on: 2025-03-28 03:20:30
+Original Size: 2.76 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 427 of 447
+--------------------------------------------------------------------------------
+
+(c) are consistent with local, sectoral, regional or national adaptation plans and strategies;
+(d) are monitored and measured against pre-defined indicators and remedial action is considered where those
+indicators are not met;
+(e) where the solution implemented is physical and consists in an activity for which technical screening criteria
+have been specified in this Annex, the solution complies with the do no significant harm technical screening
+criteria for that activity.  
+Do no significant harm (‘DNSH’)  
+(1) Climate change mitigation  The activity is not undertaken for the purposes of fossil fuel extraction or 
+fossil fuel transport.  
+(3) Sustainable use and protection of
+water and marine resources  The activity complies with the criteria set out in Appendix B to this 
+Annex.  
+(4) Transition to a circular economy  N/A  
+(5) Pollution prevention and control  N/A  
+(6) Protection and restoration of
+biodiversity and ecosystems  N/A  
+9.2.  Close to market research, development and innovation  
+Description of the activity  
+Research, applied research and experimental development of solutions, processes, technologies, business models
+and other products dedicated to climate change adaptation.  
+The economic activities in this category could be associated with NACE code M72 or for research that is an integral
+part of those economic activities for which technical screening criteria are specified in this Annex the NACE codes
+set out in other Sections of this Annex in accordance with the statistical classification of economic activities
+established by Regulation (EC) No 1893/2006.  
+An economic activity in this category is an enabling activity as referred to in Article 11(1), point (b), of Regulation
+(EU) 2020/852 where it meets the technical screening criteria set out in this Section.  
+Technical screening criteria  
+Substantial contribution to climate change adaptation  
+1. The economic activity researches, innovates or develops solutions, technologies, products, processes or
+business models, including nature based and nature inspired solutions (  638  ), dedicated to enable one or more 
+activities for which the technical screening criteria have been specified in this Annex to meet the respective criteria
+for substantial contribution to climate change adaptation to increase their climate-resilience, while respecting the
+relevant criteria for doing no significant harm to other environmental objectives.
+2. Where the researched, developed or innovated technology, product or other solution already enables an
+activity or several activities addressed in this Annex to meet their technical screening criteria for substantial
+contribution, the research, development and innovation activity focuses on the delivery of technologies,
+products or other solutions with new significant advantages, such as better performance or lower cost.
+3. The economic activity removes information, financial, technological and capacity barriers to adaptation
+through new or improved solutions, technologies, products, processes or business models, including nature
+based solutions.  
+_____________
+( 638  ) Nature-based solutions are defined as ‘solutions that are inspired and supported by nature, which are cost-effective, simulta neously 
+provide environmental, social and economic benefits and help build resilience. Such solutions bring more, and more diverse,
+nature and natural features and processes into cities, landscapes and seascapes, through locally adapted, resource-efficient an d
+systemic interventions’. Therefore, nature-based solutions benefit biodiversity and support the delivery of a range of ecosyste m
+services (version of 4.6.2021: https://ec.europa.eu/info/research-and-innovation/research-area/environment/nature-based-solutio ns_
+en).EN  9.12.2021 Official Journal of the European Union L 442/331
+
+--- Page 332 of 349 ---

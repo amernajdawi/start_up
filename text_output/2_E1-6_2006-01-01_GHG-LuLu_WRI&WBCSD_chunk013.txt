@@ -1,0 +1,191 @@
+File Name: 2_E1-6_2006-01-01_GHG-LuLu_WRI&WBCSD.pdf
+Converted on: 2025-03-28 03:20:49
+Original Size: 6.41 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 13 of 50
+--------------------------------------------------------------------------------
+
+B O X 6 . 1 CalculatingGHGRemovalsandTotalBaselineCarbonStocks 6 . 2 . 2 I D E N T I F Y I N G T H E B A S E L I N E
+S C E N A R I O U S I N G T H E C O M P A R AT I V E
+A S S E S S M E N T O F B A R R I E R S
+Inmanyinstancesthebaselinescenariocanbeidentifiedas
+thecandidatefacingthefewestbarriers.Thisdecisionshould
+bejustifiedusingacomparative assessmentofbarriers.In
+thosecaseswhennoclearbaselinescenarioemergesfrom
+thebarrierassessment,therearetwooptions:(1)usingthe
+mostconservativeviablealternativeor(2)conductinganet
+benefitsassessmentoftheremainingbaselinecandidates.
+Anetbenefitsassessmentcanbeaquantitativeorqualita -
+tiveassessmentandincludethe
+•Expectedfinancialreturns(assessedeitherqualitatively
+orquantitatively).
+•Publicrelationsbenefits,forexample,improvingor
+maintainingthelandscape’saestheticbeauty.
+•Researchanddemonstrationvaluefornewmanagement
+practices.
+•Positionorentryinaspecificmarket,strategicalignment,
+orothercompetitive reasons.
+•Environmentalbenefits,forexample,improvedbiodiversity,
+waterquality,soilfertility,habitat,orreducedsoilloss.
+Thesebenefitsshouldbemeasuredfromtheperspectiveof
+theprojectdeveloper,notsocietyingeneral.
+6 . 2 . 3 J U S T I F Y I N G T H E B A S E L I N E S C E N A R I O
+Thebaselinescenarioshouldbethebaselinecandidatewiththe
+fewestbarriersand,ifapplicable,thehighestnetbenefits.
+Comparingtheidentifiedbaselinescenariowithcommon
+practicecanalsohelpstrengthenthejustificationofthe
+baselinescenario.Thebaselinescenarioshouldbedocumented.6.3 EstimatingtheBaselineGHGRemovals
+andTotalCarbonStocks
+ThebaselineGHGremovalsassociatedwiththeidentified
+baselinescenarioareestimatedbyaccountingforthechange
+incarbonstockscorrespondingtothebaselinescenarioand
+thenfindingthecorrespondingGHGremovals.Thebaseline
+changeincarbonstocks(tC/ha)arecalculatedasthediffer -
+enceinthebaselinescenario’scarbonstocksbetweentwo
+timeperiods(foranexampleseetable7.1inchapter7).
+GHGremovals(tCO 2/ha)arecalculatedbymultiplyingthe
+changeincarbonstocksby44—12,theratioofthemolecular
+weightofCO 2tothemolecularweightofcarbon.Ifaland-use
+trendfactorisrelevant,thisshouldalsobeconsideredwhen
+calculatingthebaselineGHGremovals.
+Inaddition,totalcarbonstocksforthebaselinescenario
+shouldalsobecalculated.Totalcarbonstocksarefoundby
+calculatingthecarbonstocksperhectareatthebeginningof
+theprojecttimeperiodandaddinganychangesincarbon
+stocksperhectareexpectedduringtheproject’slifetime.
+Thistotalperhectareisthenmultipliedbytheareacovered
+bytheprojectactivitytoderivethetotalcarbonstocks.
+TheequationsforfindingGHGremovalsandtotalcarbon
+stocksareinbox6.1.Guidanceonaccountingforcarbon
+stocksandresourcestousecanbefoundinchapter9,
+EstimatingandQuantifyingCarbonStocks.Inaddition,
+calculatingchangesincarbonstock,GHGremovalsandtotal
+carbonstocksisillustratedintheNipawinAfforestation
+Projectexample.CHAPTER6:EstimatingtheBaselineGHGRemovals—Project -SpecificProcedure
+33
+t=1t=nGHGRemoval s
+BaselineChangeinCarbonStocks pzt
+=BaselineCarbonStocks pzt –BaselineCarbonStocks pz(t-1)
+Where
+BaselineCarbonStocks pzt =baselinecarbonstocksfromeachbiologicalcarbonpoolmeasured, k,relatedtoeachprimary
+effect,p,forprojectactivity,z,inperiodtforagivenunitoflandarea.
+BaselineGHGRemovals pzt =BaselineChangeinCarbonStocks pzt •44—12tCO 2/tC
+TotalBaseli neCarbon Stocks
+TotalBaselineCarbonStocks(tC)
+=(CarbonStocksattimezero(tC/ha)+ BaselineChangeinCarbonStocks pzt(tC/ha)•ProjectSiteArea(ha)
+Where
+n=thefinaltimeperiod.
+
+--- Page 36 of 100 ---
+
+34
+PARTII:GHGReductionAccountingandReporting
+heperformance standardprocedure,discussedintheProjectProtocol,alsocanbeusedto
+estimatethebaselineGHGremovalsagainstwhichtheprojectactivityGHGremovalsare
+comparedinchapter10,MonitoringandQuantifyingGHGReductions.
+Thischapterdescribesthetime-basedperformancestandardprocedureforestimating thebaseline
+GHGremovalsforLULUCFprojectactivities.Theproduction-basedperformancestandard,theother
+performancestandardoutlinedintheProjectProtocol,isnotapplicable toLULUCFprojectactivities,
+sincetheproductorserviceprovidedbythebaselinecandidatesoftenisdifferent.Inaddition,the
+production-basedperformancestandarddoesnotcapturethetimeandsizedimensions ofLULUCF
+projectactivities.Inthischapter,theperformancestandard’stotalcarbonstocksarealsofound.EstimatingtheBaselineGHGRemovals—
+Performance StandardProcedure
+T7
+
+--- Page 37 of 100 ---
+
+Thetime-basedperformance standardprocedurefollows
+thestepsoutlinedinchapter9oftheProjectProtocol,and
+shouldbeusedinconjunctionwiththisguidance(alsosee
+box7.1).Thestepsareasfollows:
+•Specifytheappropriateperformancemetric.
+•CalculatetheGHGremovalsforeachbaselinecandidate
+ineachtimeperiod.
+•CalculatetheGHGremovalsfordifferentstringencylevels.
+•Selectanappropriate stringencylevel.
+•EstimatethebaselineGHGremovalsandtotal
+carbonstocks.
+7.1. Time-BasedPerformanceStandard
+Thetime-basedperformance standardcanbeusedto
+estimatebaselineGHGremovalsforaspecifiedprojecttype
+inagivengeographicarea.
+Foreachbaselinecandidate,estimatethechangeincarbon
+stocksperunitareapertimeperiodduringthelifetimeof
+theprojectactivity,andusingthisinformation,calculatethe
+GHGremovals.Ineachtimeperiod,comparetheGHG
+removalsforeachbaselinecandidatebylookingatthe
+mean,median,anddifferentpercentilesoftheGHG
+removals,aswellasthemoststringentGHGremovals.
+7 . 1 . 1 S P E C I F Y T H E A P P R O P R I AT E
+P E R F O R M A N C E M E T R I C
+Thetime-basedperformance standardmetricdescribedin
+theProjectProtocolfocusesonGHGremovalsbutdoesnot
+completelydescribetheperformancemetricthatshouldbe
+usedforLULUCFprojects.Forthese,theperformance
+metricshouldbe GHGremovals t
+unitareaofland
+WhereGHGremovals(tCO 2/ha)arecalculatedby
+multiplyingthechangeincarbonstocksby44—12,the
+ratioofthemolecularweightofCO 2tothemolecu -
+larweightofcarbon.
+TheperformancemetricisusedforLULUCFprojectactivities
+todefinethebaselineGHGremovalsatregularintervals
+throughouttheactivity’slife.Forexample,ifaprojectactiv -
+ity’slifeistwentyyears,estimatethebaselinetonnesof
+carbonstoredperhectareforeachyear,orperhapsfiveyears,
+therebycapturingthedynamicnatureofcarbonstocks.
+Thelengthofeachtimeperiodforcarbonstockestimations
+variesaccordingtotherateatwhichdifferentplantspecies
+storecarbonatagivenlocation.
+7.1.2 CALCU LATEGHGREMOVALSFOR EACH
+BASELINECANDIDATEINEACHTIMEPERI OD
+TocalculateGHGremovals,estimatethebaselinechangein
+carbonstockspertimeperiodandunitoflandareaforeach
+baselinecandidateduringthelifetimeoftheprojectactivity.
+Therearetwoapproachesforcalculatingthechangein
+carbonstocks;theprojectdevelopermayfindinformation
+onthecarbonstocksovertimeforagivenlanduseand
+calculatethedifferencebetweentwopointsintimetoget
+thechange,ortheremaybeinformationalreadyavailable
+whichcanbetranslatedintothechangesincarbonstocks
+foraparticularactivity(e.g.,yearlytreegrowthcurvescan
+betranslatedintoyearlycarbonstoredforcertaincarbon
+pools).Thedataneededtoestimatecarbonstocksand
+carbonstockchangesmayalreadyexistormayneedtobe
+collectedorestimatedspecificallyforthebaselinecandi-
+dates.Methodsofcollectingdataandestimatingbaseline
+carbonincludedirectmeasurement,statisticalsampling,
+proxies,modeling,defaultvalues,andremotesensing.
+Projectdevelopersmostlikelywillneedtouseacombina -
+tionofmethodstoestimatebaselinecarbonstocksand
+carbonstockchanges.
+Amajordecisionwhenestimatingthecarbonstockschanges
+forLULUCFbaselinecandidatesiswhichcarbonpoolsto
+includeintheestimation.Thecarbonassociatedwitheach
+carbonpoolassessedissummedtoobtainthecarbonstocks
+foreachbaselinecandidateineachtimeperiod.Thesame
+carbonpoolsshouldbeconsideredforeachbaseline
+candidate,andifdifferentcarbonpoolsarefoundtobe
+relevant,thisshouldbenoted(seebox7.2).Moreinforma -
+tionaboutthecarbonpoolstoassessandtheavailable
+measurement/estimationmethodscanfoundbeinchapter9,
+EstimatingandQuantifyingCarbonStocks,alongwithalist
+ofresourcesforamoredetaileddiscussionofthedifferent
+measurementorestimationmethods.CHAPTER7:EstimatingtheBaselineGHGRemovals—Per formanceStandardProcedure
+35 Whendevelopingaperformancestandard,severalpolicy-related
+decisionsmustbemade,likechoosingtheappropriate stringency
+level.Suchdecisionscouldenhanceenvironmental integrity,
+promoteprogramparticipation,ensuremultipleforestuses,
+increasebiodiversity,andsoforth.
+Projectdevelopers mustmakesurethatanypolicy-related
+decisionsmadewithoutanyGHGprogramguidancearereported
+inatransparentmanner,toenablestakeholdersand/ortheGHG
+programtodeterminethecredibilityofthesedecisionsandthe
+GHGreduction.
+Formoreinformationabouttheperformancestandard,addition -
+ality,andGHGprograms,seechapter2,section2.14,andchapter
+9,box9.2,intheProjectProtocol.B O X 7 . 1 PerformanceStandard s
+andGHGPrograms

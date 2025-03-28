@@ -1,0 +1,97 @@
+File Name: 2_E1-6_2011-09-01_G_GHG-PLC_WRI&WBCSD.pdf
+Converted on: 2025-03-28 03:20:53
+Original Size: 3.27 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 83 of 116
+--------------------------------------------------------------------------------
+
+[107]
+CHAPTER 13 Reporting
+guidance13.3.5 Optional reporting
+In addition to required elements, a company should
+consider reporting on elements that meet the needs
+of its potential audience, its specific business goals, or
+the requirements of product rules and sector guideline
+developed in conformance with the Product Standard .
+These elements may be added to the public report or
+made available upon request and may include:
+•Business goals met by performing a GHG inventory
+•Additional background information on inventory
+results and how they are calculated
+•Additional disclaimers around proper use of results
+SKU, NAICS code, UNSPSC code or other unique
+product/service identifier
+•Additional details around why a particular unit of
+analysis was chosen
+•The country(ies) where the raw material acquisition,
+production, and distribution stages occur
+•Information on data collected from suppliers,
+including:
+•Percent engagement from supplier surveys
+•Data collection techniques and sources
+•Quantitative uncertainty assessments
+•Data for other GHGs that may be relevant to the
+studied product
+•Inventory results using a 20 or 500 year GWP factor
+or other impact assessment metrics such as global
+temperate potential (GTP)
+•If the functional unit and subsequent inventory
+results are applicable to multiple product varieties
+(e.g., different flavors or colors), information on those
+varieties
+•Indirect land-use change impacts reported separately
+from the inventory results
+ •Additional disaggregation of GHG impacts.  
+Examples include:
+•CO2e emissions reported as a fraction of all GHG
+components (i.e., grams of CO2, N2O, CH4, etc.)
+• For specific attributable processes or material,
+energy and service inputs, such as product
+packaging
+•The sum of transportation occurring throughout
+the life cycle •Weighting factors for delayed emissions
+• Information on offsets that have been purchased
+or developed outside the inventory boundary and
+reported separately from the inventory results. This
+information should:
+•Disaggregate offsets by emissions reductions and/
+or removals
+•Specify the types of offset project/s
+•Specify geographical and organizational origin
+•Specify how offsets have been quantified
+ •Specify how double counting of offsets has  
+been avoided
+ •Specify whether they have been certified  
+or recognized by an external GHG program  
+(e.g., the Clean Development Mechanism) and
+•Specify whether and to what extent purchased
+offsets were used to meet reduction targets  
+(if established)
+•Information on any reductions sold as offsets from
+sources within the inventory boundary that are owned
+or controlled by the reporting company
+•Avoided emissions and/or emissions caused by sources
+outside the inventory boundary reported separately
+from the inventory results
+•Other emissions or removals calculated by
+consequential modeling reported separately from  
+the inventory results
+ •Additional guidance on how the results should be  
+interpreted and used
+•Detailed reduction plans for future inventories
+•A summary and explanation of any increase in
+emissions or decrease in removals since the last
+inventory, including what plans the company has to
+achieve inventory reductions in the future
+Endnote
+1 More information on reporting outputs from a specific inventory
+step are included in their respective chapters.
+
+--- Page 110 of 148 ---
+
+14Setting Reduction Targets and Tracking Inventory Changes
+
+--- Page 111 of 148 ---

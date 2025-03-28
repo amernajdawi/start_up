@@ -1,0 +1,37 @@
+File Name: 1_2023-07-31_DelVO_2023_2772_ESRS_EU.pdf
+Converted on: 2025-03-28 03:18:14
+Original Size: 5.82 MB
+Chunk Size: 500 tokens with 50 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 518 of 686
+--------------------------------------------------------------------------------
+
+ELI: http://data.europa.eu/eli/reg_del/2023/2772/oj 218/284Objective
+1. The objective of this Standard is to specify disclosure requirements which will enable users of the sustainability
+statement to understand material impacts on affected communities connected with the undertaking’s own
+operations and value chain, including through its products or services, as well as through its business relationships,
+and its related material risks and opportunities, including:
+(a) how the undertaking affects communities, in areas where impacts are most likely to be present and severe, in
+terms of material positive and negative actual or potential impacts;
+(b) any actions taken, and the result of such actions, to prevent, mitigate or remediate actual or potential negative
+impacts, and to address risks and opportunities;
+(c) the nature, type and extent of the undertaking’s material risks and opportunities related to its impacts and
+dependencies on affected communities, and how the undertaking manages them; and
+(d) the financial effects on the undertaking over the short-, medium- and long-term of material risks and
+opportunities arising from the undertaking’s impacts and dependencies on affected communities.
+2. In order to meet the objective, this Standard requires an explanation of the general approach the undertaking takes to identify and manage any material actual and potential impacts on affected communities in relation to:
+(a) communities’ economic, social and cultural rights (for example, adequate housing, adequate food, water and
+sanitation, land-related and security-related impacts);
+(b) communities’ civil and political rights (for example, freedom of expression, freedom of assembly, impacts on human rights defenders); and
+(c) particular rights of indigenous peoples (for example, free, prior and informed consent, self-determination,
+cultural rights).
+3. This Standard also requires an explanation of how such impacts, as well as the undertaking’s dependencies on
+affected communities, can create material risks or opportunities for the undertaking. For example, negative
+relationships with affected communities may disrupt the undertaking’s own operations or harm its reputation,
+while constructive relationships can bring business benefits, such as stable and conflict-free operations and a greater
+ease of recruiting locally.
+Interaction with other ESRS
+4. This standard applies when material impacts on and/or material risks and opportunities related to affected
+communities have been identified through the materiality assessment process laid out in ESRS 2 General disclosures .

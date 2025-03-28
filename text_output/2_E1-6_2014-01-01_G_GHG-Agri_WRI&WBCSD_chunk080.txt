@@ -1,0 +1,60 @@
+File Name: 2_E1-6_2014-01-01_G_GHG-Agri_WRI&WBCSD.pdf
+Converted on: 2025-03-28 03:18:26
+Original Size: 1.75 MB
+Chunk Size: 500 tokens with 50 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 80 of 108
+--------------------------------------------------------------------------------
+
+Mobile equipment, stationary combustion,
+and refrigeration and air-conditioning
+systems
+Non-mechanical
+sources Enteric fermentation, soil N 2O emissions,
+and manure management.  
+CO 2 emissions from
+land use change  CO 2 emissions from the conversion of 
+forests into ranchland or the conversion of
+wetlands into croplands
+    Scope 2 Purchased energy Purchased electricity 
+    Scope 3 
+(optional) All other indirect
+sources  Production of agrichemicals and purchased 
+feed
+Biogenic
+Carbon Land use management  CO 2 fluxes to/from C stocks in soils, above- 
+and below-ground woody biomass, and DOM stocks, and the combustion of crop residues for non-energy purposes
+C sequestration due to
+land use change  CO 2 removals by soils and biomass 
+following afforestation or reforestation  
+Biofuel combustion  Combustion of  biodiesel in farm machinery 
+Additional
+information  A reference or link to the calculation methodologies used  
+ Description of whether these me thodologies are IP CC Tier 1, 2, or
+3
+ Description of the methodol ogy used to amortize the CO 2 fluxes
+ Assumptions regarding the use of  proxy data in calculating the 
+impacts of historical LUC on C stocks  
+
+Box 9-1.   Defining land-use change 
+To determine when LUC has occurred and to ensure LUC impacts are accounted for consistently across inventories, companies should use a consistent set of definitions for land use categories over time. Currently, th ere is no single intern ationally accepted
+standard for land use classifi cation – different countries a nd international organizations
+have developed their own sets of definiti ons. Companies may find it simpler to use a
+country-specific classification system shoul d their operations occu r within a single
+country. Companies with agricultural operations  in multiple countries may instead find it 
+
+--- Page 73 of 103 ---
+
+GHG Protocol Agricultural Guidance
+
+73
+ easier to use internationally  recognized classification systems (e.g., the EU’s CORINE 
+system). A simplified set of land use categories is shown below.    LUC occurs when land is converted fr om one land use category to another
+13; for instance,
+when cropland is converted to grassland or when forests are converted to cropland. On
+occasion, the same area of land might be used  to support multiple agricultural activities 
+and so meet the definitions for different land-use categories. For instance, savannah
+woodland might be used both to graze livesto ck and as a source of wood fuel. In such
+cases, companies should categorize the land based on the agricultural activity that is economically most important .

@@ -1,0 +1,56 @@
+File Name: 1_2021-06-04_DelVO_2021_2139_TAXKRA_EU.pdf
+Converted on: 2025-03-28 03:20:30
+Original Size: 2.76 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 155 of 447
+--------------------------------------------------------------------------------
+
+(d) where technologically and economically not feasible to comply with the criterion in point (a), until
+31 December 2025, the vessels have an attained Energy Efficiency Design Index (EEDI) value 10 % below
+the EEDI requirements applicable on 1 April 2022 (  247  ) if the vessels are able to run on zero direct (tailpipe) 
+CO  2 emission fuels or on fuels from renewable sources (  248  ). 
+2. Vessels are not dedicated to the transport of fossil fuels.  
+Do no significant harm (‘DNSH’)  
+(2) Climate change adaptation  The activity complies with the criteria set out in Appendix A to this 
+Annex.  
+(3) Sustainable use and protection of
+water and marine resources  The activity complies with the criteria set out in Appendix B to this 
+Annex.  
+(4) Transition to a circular economy  Measures are in place to manage waste, both in the use phase and in the 
+end-of-life of the vessel, in accordance with the waste hierarchy.
+For battery-operated vessels, those measures include reuse and recycling of
+batteries and electronics, including critical raw materials therein.
+For existing ships above 500 gross tonnage and the new-built ones
+replacing them, the activity complies with the requirements of Regulation
+(EU) No 1257/2013 of the European Parliament and of the Council (  249  ) 
+relating to the inventory of hazardous materials. The scrap ships are
+recycled in facilities included on the European List of ship recycling
+facilities as laid down in Commission Decision 2016/2323 (  250  ). 
+The activity complies with Directive (EU) 2019/883 of the European
+Parliament and of the Council (  251  ) as regards the protection of the 
+marine environment against the negative effects from discharges of
+waste from ships.
+The ship is operated in accordance with Annex V to the International
+Convention for the Prevention of Pollution from Ships of 2 November
+1973 (the IMO MARPOL Convention), in particular with a view to
+producing reduced quantities of waste and to reducing legal discharges,
+by managing its waste in a sustainable and environmentally sound
+manner.  
+_____________
+( 247  ) EEDI requirements as agreed by the Marine Environment Protection Committee of the International Maritime Organization on its 
+seventy-fifth session. Vessels that fall into the ship types set out in MARPOL Annex VI Regulation 2, but are not considered as  
+new ship under that regulation may provide attained EEDI value calculated on a voluntary basis in line with MARPOL
+Annex VI Chapter 4 and have those calculations verified in line with MARPOL Annex VI, Chapter 2.
+( 248  ) Fuels that meet the technical screening criteria specified in sections 3.10 and 4.13 of this Annex. 
+( 249  ) Regulation (EU) No 1257/2013 of the European Parliament and of the Council of 20 November 2013 on ship recycling and 
+amending Regulation (EC) No 1013/2006 and Directive 2009/16/EC (OJ L 330, 10.12.2013, p. 1).
+( 250  ) Commission Implementing Decision 2016/2323 establishing the European List of ship recycling facilities pursuant to Regulation  
+(EU) No 1257/2013 of the European Parliament and of the Council on ship recycling (OJ L 345, 20.12.2016, p. 119).
+( 251  ) Directive (EU) 2019/883 of the European Parliament and of the Council of 17 April 2019 on port reception facilities for the 
+delivery of waste from ships, amending Directive 2010/65/EU and repealing Directive 2000/59/EC (OJ L 151, 7.6.2019,
+p. 116).EN  L 442/112 Official Journal of the European Union 9.12.2021
+
+--- Page 113 of 349 ---

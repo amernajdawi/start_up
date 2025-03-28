@@ -1,0 +1,77 @@
+File Name: 2_E1-6_2011-09-01_G_GHG-PLC_WRI&WBCSD.pdf
+Converted on: 2025-03-28 03:20:53
+Original Size: 3.27 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 94 of 116
+--------------------------------------------------------------------------------
+
+[120]   Product Life Cycle Accounting and Reporting Standard
+frames, while others may be extracted from natural
+forests that take over 100 years to grow. Some forests
+are removed with the intent of producing annual crops,
+while others are removed for the stock of wood that
+can be extracted at the time of removal.  Depending 
+on the type of product or wood being studied and the
+location where that wood is cultivated, vastly different
+harvesting techniques occur which have a significant
+effect on the amount and distribution of land-use change
+impacts.  Furthermore, co-product allocation (as defined 
+in chapter 9) may be needed during land-use change if
+the converted land also produces biogenic co-products.
+If the studied product is a crop but the land-use change
+event created a co-product of wood, a company needs
+to accurately allocate these emissions. The following
+scenarios provide some insight into the correct
+distribution and allocation10 of land-use impacts due to
+forest and wood products.
+Scenario A: A forest is harvested for wood  
+but the land is not converted into another category  
+or the future use of the land is unknown.
+In this scenario, any stock change that is calculated based on
+the density change of the forest is attributable to the products
+created from the harvested wood.  No distribution is needed 
+because additional growth is not planned, or is unknown.
+Scenario	B:	A	forest	is	harvested	for	wood	then 	
+converted into another managed land category.
+In this scenario, land-use change impacts should be distributed
+to all products produced by the land within the amortization period.  Consider an example in which a stock change of  
+150 tons of carbon is calculated with an initial harvest of  
+100 tons of wood and an annual harvest of 1 ton of crop for
+the remaining 19 years of the amortization period. This means
+that 150 tons of carbon are distributed among 119 tons  
+of products. The additional impacts of land-use change (e.g.,
+liming applications) may also need to be distributed. This
+scenario is only applicable when the converted land is managed
+and the production of that land is known. In this context,
+managed refers to land that is continuously maintained for the
+purpose of cultivating and harvesting a product. Distribution
+is not applicable for forest land that has been harvested and
+replanted but is not maintained, or for a plot that is replanted
+and managed but with an extensive harvest period (greater
+than 50 years). In both cases the uncertainty associated with
+the eventual production of the replanted product makes it
+most accurate to apply all land-use change impacts to the first
+harvest of wood.
+Scenario C: A forest is converted to another land category
+and the wood is not harvested into a co-product.
+In this scenario, a company may not allocate any land-use
+change impacts to the wood as it was not used to create
+a co-product. All land-use change impacts (including the
+burning of the wood not recovered) must be distributed to
+the product produced on the converted land.  If a company 
+does not have data that justifies the use of scenario B (i.e.,
+proof that the wood was harvested and used for a product)
+then scenario C is used. Figure [B.2]  Distributing GHG impacts over a 20 year time period
+time20 year constant
+0.0100
+time20 year decline
+0.0100C allocation (%)
+timesingle year
+0.0100
+Source:    Zaks, D.P.M., C. C. Barford, N. Ramankutty and J. A. Foley, “Producer and consumer responsibility for greenhouse gas emissions from 
+agricultural production –a perspective from the Brazilian Amazon.”Environmental Research Letters. 4 (2009).Option AGHG Distribution (%)Option B Option C
+
+--- Page 123 of 148 ---

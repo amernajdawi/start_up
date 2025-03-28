@@ -1,0 +1,106 @@
+File Name: 2_E1-6_2011-09-01_G_GHG-PLC_WRI&WBCSD.pdf
+Converted on: 2025-03-28 03:20:53
+Original Size: 3.27 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 89 of 116
+--------------------------------------------------------------------------------
+
+[116]   Product Life Cycle Accounting and Reporting Standard
+See chapter 14 for more information on performance
+tracking and setting reduction targets.
+Consumer and business purchasing decisions, quantitative
+product labeling, and performance claims:
+•The unit of analysis should be identical
+•The system boundaries and temporal boundary should
+be equivalent
+•The same allocation methods should be used for
+similar processes
+•The data types used and the data quality and
+uncertainty of data should be reported and assessed to
+determine if a fair comparison can be made
+•The temporal and geographical representativeness of
+the inventories should be assessed to determine if a
+fair comparison can be made
+•Third party assurance should be performed
+ISO labels and declarations:
+•Environmental Labels (Type I)1, Self-declared
+Environmental Claims (Type II)2, Environmental Product
+Declarations (Type III)3, and comparative assertions4
+should meet the accounting and communication
+requirements of the respective standardsA.1 Role of product rules
+Product rules provide additional specifications that enable
+valid comparisons of two or more products. Product rules
+may vary in quality. When developing a new product
+rule or evaluating the quality of an existing product rule
+before use, criteria to consider include whether:
+•The rule is developed by a diverse group of
+stakeholders with relevant subject matter expertise
+•The rule is peer-reviewed by qualified experts
+ •There are safeguards in place to prevent conflict  
+of interest
+•The rules apply internationally so they can be adopted
+by other programs and policies
+•A policy is in place to determine when product rules
+are updated
+Endnotes
+1  International Organization for Standardization, ISO 14024:1999, 
+Environmental labels and declarations -- Type I environmental
+labeling -- Principles and procedures. Geneva.
+2 International Organization for Standardization, ISO 14021:1999,
+Environmental labels and declarations -- Self-declared
+environmental claims (Type II environmental labeling). Geneva.
+3 International Organization for Standardization, ISO 14025:2006,
+Environmental labels and declarations -- Type III environmental
+declarations -- Principles and procedures. Geneva.
+4 International Organization for Standardization, ISO 14044:2006,
+Life Cycle Assessment: Requirements and Guidelines.Table [A.2] The use of Product Standard  for product comparisons
+Supported by the Product  
+Standard  “as-is” Supported by the  Product Standard with additional GHG 
+program specifications or product specific guidance
+Performance tracking
+Consumer and business purchasing decisions
+Product labels
+Performance claims
+
+--- Page 119 of 148 ---
+
+[117]
+AppendicesThis appendix provides guidance on identifying when land-use change impacts are
+attributable to the studied product. If they are attributable, guidance is also included
+for calculating and allocating those impacts.1
+For studied products whose life cycle includes biogenic
+materials (materials produced by living organisms
+or biological processes, not fossilized or from fossil
+sources), attributable processes associated with those
+materials include emissions and removals associated
+with agricultural and forestry practices such as growth,
+fertilizer application, cultivation, and harvesting.  In 
+addition to these agricultural and forestry practices,
+land-use change impacts may be attributable to a studied
+product’s material acquisition and preprocessing stage.  
+Land-use change impacts2 include the following:
+•Biogenic CO2 emissions and removals due to carbon
+stock change occurring as a results of land conversion
+within or between land-use categories
+•Biogenic and non-biogenic CO2, N2O, and CH4
+emissions resulting from the preparation of converted
+land, such as biomass burning or liming3
+This appendix provides guidance for two situations: when
+the specific land that the product or product component
+originates from is known, and when it is not.  The 
+concepts of assessment period, amortization period, and
+distribution of impacts are used across both situations.
+It is important to note that while this appendix focuses
+on agricultural and forest products, significant land-use
+change impacts are not limited to biogenic products.
+Any company with a studied product that uses a large
+amount of land, such as a new settlement, should
+use this guidance to determine whether the land use
+changed within the assessment period and whether
+that had any impact on the area’s carbon stocks.
+As referenced in chapter 7, companies are required to
+disclose the method used to calculate land-use change
+impacts in the inventory report.

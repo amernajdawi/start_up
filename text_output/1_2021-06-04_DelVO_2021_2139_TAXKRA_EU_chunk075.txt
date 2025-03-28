@@ -1,0 +1,58 @@
+File Name: 1_2021-06-04_DelVO_2021_2139_TAXKRA_EU.pdf
+Converted on: 2025-03-28 03:20:30
+Original Size: 2.76 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 75 of 447
+--------------------------------------------------------------------------------
+
+(e) promoting biodiversity-friendly practices that enhance forests’ natural
+processes;
+(f) excluding the conversion of high-biodiverse ecosystems into less
+biodiverse ones;
+(g) ensuring the diversity of associated habitats and species linked to the
+forest;
+(h) ensuring the diversity of stand structures and maintenance or
+enhancing of mature stage stands and dead wood.  
+2.  ENVIRONMENTAL PROTECTION AND RESTORATION ACTIVITIES  
+2.1.  Restoration of wetlands  
+Description of the activity  
+Restoration of wetlands refers to economic activities that promote a return to original conditions of wetlands and
+economic activities that improve wetland functions without necessarily promoting a return to pre-disturbance
+conditions, with wetlands meaning land matching the international definition of wetland (  64 ) or of peatland (  65 ) as 
+set out in the Convention on Wetlands of International Importance especially as Waterfowl Habitat (Ramsar
+Convention) (  66 ). The concerned area matches the Union definition of wetlands, as provided in the Commission 
+Communication on the wise use and conservation of wetlands (  67 ). 
+The economic activities in this category have no dedicated NACE code as referred to in the statistical classification
+of economic activities established by Regulation (EC) No 1893/2006, but relate to class 6 of the statistical
+classification of environmental protection activities (CEPA) established by Regulation (EU) No 691/2011 of the
+European Parliament and of the Council (  68 ). 
+Technical screening criteria  
+Substantial contribution to climate change mitigation  
+1. Restoration plan  
+1.1. The area is covered by a restoration plan, which is consistent with the Ramsar Convention’s principles
+and guidelines on wetland restoration (  69 ), until the area is classified as a wetland and is covered by a wetland 
+management plan, consistent with the Ramsar Convention’s guidelines for management planning for Ramsar
+sites and other wetlands (  70 ). For peatlands, the restoration plan follows the recommendations contained in 
+relevant resolutions of the Ramsar Convention, including the resolution XIII/13.  
+_____________
+( 64 ) Wetlands include a wide variety of inland habitats such as marshes, wet grasslands and peatlands, floodplains, rivers and lake s, and coastal areas
+such as saltmarshes, mangroves, intertidal mudflats and seagrass beds, and coral reefs and other marine areas no deeper than si x meters at low
+tide, as well as human-made wetlands such as dams, reservoirs, rice paddies and waste water treatment ponds and lagoons . An Introduction to
+the Ramsar Convention on Wetlands, 7th ed. (previously The Ramsar Convention Manual). Ramsar Convention Secretariat, Gland,
+Switzerland.
+( 65 ) Peatlands are ecosystems with a peat soil. Peat consists of at least 30 % dead, partially decomposed plant remains that have
+accumulated in situ under waterlogged and often acidic conditions. Resolution XIII.12  Guidance on identifying peatlands as Wetlands 
+of International Importance (Ramsar Sites) for global climate change regulation as an additional argument to existing Ramsar cr iteria , Ramsar
+convention adopted on 21- 29 October 2018.
+( 66 ) The Convention on Wetlands of International Importance especially as Waterfowl Habitat (version of 4.6.2021:
+https://www.ramsar.org/sites/default/files/documents/library/current_convention_text_e.pdf).
+( 67 ) Communication from the Commission to the Council and the European Parliament of 29 May 1995 on wise use and conser ­
+vation of wetlands, COM(95) 189 final.
+( 68 ) Regulation (EU) No 691/2011 of the European Parliament and of the Council of 6 July 2011 on European environmental
+economic accounts (OJ L 192, 22.7.2011, p. 1).
+( 69 ) Ramsar Convention (2002) Principles and guidelines for wetland restoration. Adopted by Resolution VIII.16 (2002) of the Ramsa r
+Convention (version of 4.6.2021: https://www.ramsar.org/sites/default/files/documents/pdf/guide/guide-restoration.pdf).
+( 70 ) Ramsar Convention (2002) Resolution VIII.14 New Guidelines for management planning for Ramsar sites and other wetlands

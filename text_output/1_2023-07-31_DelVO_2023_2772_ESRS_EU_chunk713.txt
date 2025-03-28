@@ -1,0 +1,23 @@
+File Name: 1_2023-07-31_DelVO_2023_2772_ESRS_EU.pdf
+Converted on: 2025-03-28 01:55:56
+Original Size: 5.82 MB
+Chunk Size: 400 tokens with 50 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 713 of 768
+--------------------------------------------------------------------------------
+
+Emission The direct or indirect release of substances, vibrations, heat or noise from
+individual or diffuse sources into air, water or soil (
+12).
+Employee An individual who is in an employment relationship with the undertaking
+according to national law or practice.
+End-users Individuals who ultimately use or are intended to ultimately use a particular
+product or service.
+Equal opportunities Equal and non-discriminatory access, among individuals, to opportunities
+for education, training, employment, career development and the exercise
+of power without their being disadvantaged on the basis of criteria such as
+gender, racial or ethnic origin, nationality, religion or belief, disability, age or
+sexual orientation.
+(12)Directive 2010/75/EU on industrial emissions (IED).OJ L, 22.12.2023 EN

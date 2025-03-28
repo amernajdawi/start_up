@@ -1,0 +1,20 @@
+File Name: 1_2023-06-27_DelVO_2023_2486_TAXURA_EU.pdf
+Converted on: 2025-03-28 03:18:09
+Original Size: 8.44 MB
+Chunk Size: 500 tokens with 50 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 229 of 380
+--------------------------------------------------------------------------------
+
+efforts to implement the relevant practices listed as ‘expected practices’ in the most
+recent version of the European Code of Conduct on Data Centre Energy Efficiency, or
+in CEN-CENELEC document CLC TR50600-99-1 ‘Data centre facilities and
+infrastructures – Part 99-1: Recommended practices for energy management’ (
+184)and
+has implemented all expected practices that have been assigned the maximum value of 5 according to the most recent version of the European Code of Conduct on Data Centre
+Energy Efficiency.
+(184)Issued on 1 July 2019 by the European Committee for Standardization (CEN) and the European Committee for Electrotechnical
+Standardization (CENELEC) (version of 27.6.2023: https://www.cenelec.eu/dyn/www/f?p=104:110:508227404055501::::
+FSP_ORG_ID,FSP_PROJECT,FSP_LANG_ID:1258297,65095,25).OJ L, 21.11.2023 EN

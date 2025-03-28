@@ -1,0 +1,103 @@
+File Name: 2_E1-6_2006-01-01_GHG-LuLu_WRI&WBCSD.pdf
+Converted on: 2025-03-28 03:20:49
+Original Size: 6.41 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 15 of 50
+--------------------------------------------------------------------------------
+
+Todeterminetheappropriatestringencyleveltouse(see
+section7.1.4),anumberofdifferentstringencylevelsare
+comparedforeachtimeperiod:
+•Moststringent:Thebaselinecandidatewiththehighest
+GHGremovalsforanygiventimeperiod(thismaychange
+overtime).
+•WeightedmeanGHGremovals.
+•MedianGHGremovals(50thpercentile).
+•GHGremovalsrelatingtotwodifferentpercentilesthat
+arebetterthanaverage(e.g.,75thand90thpercentile).
+Thesestringencylevelsarecalculatedforeachrelevanttime
+period(e.g.,everyyearoreveryfiveyears)duringthelifeof
+theprojectactivity.Theequationsgivenfindthestringency
+levelforonlyonetimeperiodandmustbeappliedtoeach
+additionalrelevanttimeperiod.Box7.4providesanillus -
+trativeexampleofthedifferentstringencylevelcalculations.
+MostStringentStringencyLevel
+Themoststringentstringency levelisthebaselinecandi-
+date(s)withthehighestGHGremovalsforthespecifiedtime
+period.IfthebaselinecandidatewiththehighestGHG
+removalschangesbetweentimeperiods,thisshouldbenoted.
+WeightedMeanGHGRemovals
+TocalculatetheweightedmeanGHGremovalsineachtime
+period,usethefollowingequation:
+WeightedmeanGHGremovals jt =
+where
+GHGremovals jt=GHGremovalsforbaseline
+candidate jintimeperiodtarea j=areaencompassedbybaselinecandidate j
+(e.g.,1hectare)
+n=totalnumberofbaselinecandidates
+j=individualbaselinecandidate
+MedianGHGRemovals
+TocalculatethemedianGHGremovals,findthe50th
+percentileusingthepercentilemethodbelow.
+GHGRemovalsRelatingtoDifferentPercentiles
+Thefollowingapproachisusedtocalculatethedifferent
+GHGremovalpercentiles(seebox7.4):
+1 . Determinethesizeofthegeographicarea.
+2 . SorteachbaselinecandidatebyitsGHGremovalsin
+eachtimeperiod(e.g.,oneyear)fromlowesttohighest.
+Foremissionreductionprojectactivities,thelowest-to-
+highestsortingorderreflectsthebest-to-worstGHG
+performingunits,andforLULUCFprojectactivities,it
+reflectstheworst-to-bestperforminglandareas.
+3 . Labeleachlandunitsothatx1hasthelowestGHG
+removalsandxahasthehighestGHGremovals,where
+•xmistheGHGremovalsassignedtoeachlandunit
+m,representingeachbaselinecandidate.
+•aisthetotallandarearepresentedinthe
+geographicarea.
+•mistherankofeachlandunitwithrespecttoits
+assignedGHGremovals.Eachlandunitshouldhave
+adistinctrank,andtherankisassignedsequentially
+toeachlandunitwiththesameGHGremovals.
+4 . DeterminetheGHGremovalscorrespondingtoaspecific
+percentile( pc )between0and100by
+•Calculatingitsapproximaterank,w
+w=( a•pc )/100+0.5 1
+•Assigninggtobetheintegerpartofwandfthe
+fractionpartofw
+(e.g.,ifw=384.25,theng=384andf=0.25)
+5 . CalculatetheGHGremovals( pe )ofthespecific
+percentile( pc )usingthefollowingequation:
+pe=(1- f)xg+fxg+1
+where
+xgistheGHGremovalassignedtolandunitg
+ForLULUCFprojectactivities,thetotallandarea,a,
+encompassedbythegeographicareaisusuallylarge.
+Therefore,xgandxg+1likelycorrespondtothesametype
+ofbaselinecandidate.ThismeansthattheGHGremovals
+foranygivenpercentileprobablycorrespondtotheGHG
+removalsofaspecifictypeofbaselinecandidate.
+Thesestringencycalculationsarerepeatedforeach
+timeperiod.CHAPTER7:EstimatingtheBaselineGHGRemovals—Per formanceStandardProcedure
+37
+Foraforestmanagementproject,todeterminethebaselinecarbon
+stockschangesandGHGremovalsofthebaselinecandidates
+identifiedinchapter5,IdentifyingtheBaselineCandidates,apply
+eachrepresentativemanagement practicetotheprojectsite’s
+currentforestinventory,andmodelorestimatetheresulting
+carbonstocksandchangeincarbonstocks.Althoughthisoffers
+amoreconsistentcomparisonofhowvariousmanagement
+practicesaffectforestcarbonstorageontheprojectsite,itdoes
+affectthestringencyleveldefiningtheperformancestandardand
+isdescribedinsection7.1.4.B O X 7 . 3 Calculating BaselineCarbonStocks,
+CarbonStockChanges ,andGHGRemov als
+forForestManagement Projects
+j=1n
+(CO 2removals jt •area j)
+j=1n
+(area j)
+
+--- Page 40 of 100 ---

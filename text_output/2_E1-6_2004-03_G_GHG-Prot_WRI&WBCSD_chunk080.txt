@@ -1,0 +1,37 @@
+File Name: 2_E1-6_2004-03_G_GHG-Prot_WRI&WBCSD.pdf
+Converted on: 2025-03-28 03:20:43
+Original Size: 3.51 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 80 of 104
+--------------------------------------------------------------------------------
+
+--- Page 88 of 116 ---
+
+his appendix provides guidance on how to account
+for and report indirect emissions associated withthe purchase of electricity. Figure A–1 provides
+an overview of the transactions associated withpurchased electricity and the corresponding emissions.  
+Purchased electricity for own consumption
+Emissions associated with the generation of purchasedelectricity that is consumed by the reporting companyare reported in scope 2. Scope 2 only accounts for theportion of the direct emissions from generating elec-tricity that is actually consumed by the company. Acompany that purchases electricity and transports it in atransmission and distribution (T&D) system that it ownsor controls reports the emissions associated with T&Dlosses under scope 2. However, if the reporting companyowns or controls the T&D system but generates (ratherthan p urchases) the electricity transmitted through its
+wires, the emissions associated with T&D losses arenot reported under scope 2, as they would already beaccounted for under scope 1. This is the case whengeneration, transmission, and distribution systems arevertically integrated and owned or controlled by thesame company.
+Purchased electricity for resale to end-users
+Emissions from the generation of purchased electricityfor resale to end-users, for example purchases by autility company, may be reported under scope 3 in thecategory “generation of purchased electricity that issold to end-users.” This reporting category is particu-larly relevant for utility companies that purchasewholesale electricity supplied by independent powerproducers for resale to their customers. Since utilitycompanies and electricity suppliers often exercise
+choice over where they purchase electricity, thisprovides them with an important
+GHG reduction opportunity (see Seattle City Light case
+study in chapter 4). Since scope 3 is optional, companiesthat are unable to track their electricity sales in terms ofend users and non-end users can choose not to reportthese emissions in scope 3. Instead, they can report thetotal emissions associated with purchased electricity thatis sold to both end- and non-end-users under optionalinformation in the category “generation of purchasedelectricity, heat, or steam for re-sale to non-end users.”
+Purchased electricity for resale to intermediaries
+Emissions associated with the generation of purchasedelectricity that is resold to an intermediary (e.g.,trading transactions) may be reported under optionalinformation under the category “Generation ofpurchased electricity, heat, or steam for re-sale to non-end users.” Examples of trading transactions includebrokerage/trading room transactions involving purchasedelectricity or any other transaction in which electricity ispurchased directly from one source or the spot marketand then resold to an intermediary (e.g., a non-end user).These emissions are reported under optional informationseparately from scope 3 because there could be anumber of trading transactions before the electricityfinally reaches the end-user. This may cause duplicativereporting of indirect emissions from a series of electricitytrading transactions for the same electricity.
+86Own consumption
+Resale to end-users
+Resale to
+intermediariesScope 2
+Indirect emissions from own consumption of purchased electricity
+Scope 3
+Indirect emissions from purchased electricity sold to end users
+Optional Information
+Emissions from purchased electricity sold to non end usersFIGURE A– 1. Accounting for the indirect GHG emissions associated with purchased electricity
+➡Purchased ElectricityTAPPENDIXAccounting for Indirect Emissions from Purchased Electricity A
+
+--- Page 89 of 116 ---

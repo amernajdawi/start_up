@@ -1,0 +1,49 @@
+File Name: 1_2021-07-06_DelVO_2021_2178_TAXORA_EU.pdf
+Converted on: 2025-03-28 03:20:32
+Original Size: 10.30 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 28 of 47
+--------------------------------------------------------------------------------
+
+Second step = (1)(c)/(1)(b). Credit institutions shall disclose separately the part of the KPI that refers to enabling activities,
+when relevant.
+GAR L&A (for each environmental objective) = (1)(c)/(1)(a). Credit institutions shall disclose the GAR based on
+turnover KPI and separately the part of the KPI that refers to enabling and transitional activities, where relevant.
+The following aspects of the KPIs shall be disclosed:(a) in terms of stock, based on the total gross carrying amount of loans and advances as of the disclosure reference date;
+(b) in terms of flow, based on the gross carrying amount of new loans and advances during the year prior to the disclosure
+reference date;
+(c) with a separate breakdown for enabling and for transitional and adaptation activities, and for specialised lending.
+(ii) GAR for debt securities to non-financial undertakings (‘GAR DS’)
+Credit institutions shall calculate and disclose the following items for the calculation of the GAR for this type of exposures:
+(2)(a) Total debt securities of non-financial undertakings, including the gross carrying amount of debt securities at
+amortised cost and at fair value through other comprehensive income, and debt securities not held for trading at
+fair value through profit or loss;
+(2)(b) Debt securities of non-financial undertakings financing Taxonomy-eligible economic activities for each
+environmental objective, including the gross carrying amount of debt securities in the relevant accounting
+categories towards companies carrying out taxonomy-eligible economic activities (where available 4 level NACE
+codes)
+(2)(c) Debt securities to relevant entities financing taxonomy-aligned economic activities, including all debt securities
+financing taxonomy-aligned economic activities, including transitional and enabling activities.
+The amount for the purposes of (2)(c) shall be calculated by using the following formula:
+2(c) = (2)(c)(1) + (2)(c)(2) where:
+(2)(c)(1) represents debt securities where the use of proceeds is known;
+(2)(c)(2) represents debt securities where the use of proceeds is not known.
+For the purposes of point 2(c)(1), credit institutions shall consider the following:(2)(c)(1)(a) Credit institutions shall consider the total gross carrying amount of exposures to environmentally sustainable
+bonds issued in accordance with Union legislation. Current bond issuances qualified as green bonds by issuers
+whose use of proceeds have to be invested in taxonomy-eligible economic activities shall be assessed
+depending on the level of taxonomy-alignment of economic activities in accordance with Regulation (EU)
+2020/852 or of projects funded, based on specific information provided by the issuer for an issuance. Credit
+institutions shall provide transparency on the kind of economic activity that is being funded. Double counting is not allowed. Where the same green bond can be relevant for two environmental objectives, credit
+institutions shall allocate it to the most relevant objective.
+(2)(c)(1)(b) Credit institutions shall consider the gross carrying amount of debt securities invested in project finance
+exposures, to the extent that the activities of the project funded are taxonomy-aligned economic activities. The
+assessment shall be based on specific information provided by the issuer for that issuance. Double counting is
+not allowed. Where the same specialised lending exposure can be relevant for two environmental objectives,
+credit institutions shall allocate it to the most relevant objective. Credit institutions shall provide transparency
+on the type of economic activity that is funded.
+For the purposes of point (2)(c)(2), credit institutions shall rely on the turnover KPI and CapEx KPI that the counterparty
+shall disclose in accordance with Article 2 of this Regulation. The amount of debt securities to non-financial undertakings
+shall be the sum of the gross carrying amount of the total debt securities with unknown use of proceeds weighted by the

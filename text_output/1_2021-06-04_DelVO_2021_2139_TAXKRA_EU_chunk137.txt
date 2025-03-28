@@ -1,0 +1,54 @@
+File Name: 1_2021-06-04_DelVO_2021_2139_TAXKRA_EU.pdf
+Converted on: 2025-03-28 03:20:30
+Original Size: 2.76 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 137 of 447
+--------------------------------------------------------------------------------
+
+Technical screening criteria  
+Substantial contribution to climate change mitigation  
+1. The renewal of a collection system improves energy efficiency by decreasing the average energy
+consumption by 20 % compared to own baseline performance averaged over three years, demonstrated on an
+annual basis. That decrease of energy consumption can be accounted for at the level of the project (i.e. the
+collection system renewal) or, across the downstream waste water agglomeration (i.e. including the downstream
+collection system, treatment plant or discharge of waste water).
+2. The renewal of a waste water treatment plant improves energy efficiency by decreasing the average energy
+consumption of the system by at least 20 % compared to own baseline performance averaged over three years,
+demonstrated on an annual basis.
+3. For the purposes of points 1 and 2, the net energy consumption of the system is calculated in kWh per
+population equivalent per annum of the waste water collected or effluent treated, taking into account measures
+decreasing energy consumption relating to source control (reduction of storm water or pollutant load inputs)
+and, as appropriate, energy generation within the system (such as hydraulic, solar, thermal and wind energy).
+4. For the purpose of point 1 and 2, the operator demonstrates that there are no material changes relating to
+external conditions, including modifications to discharge authorisation(s) or changes in load to the agglomeration
+that would lead to a reduction of energy consumption, independent of efficiency measures taken.  
+Do no significant harm (‘DNSH’)  
+(2) Climate change adaptation  The activity complies with the criteria set out in Appendix A to this 
+Annex.  
+(3) Sustainable use and protection of
+water and marine resources  The activity complies with the criteria set out in Appendix B to this 
+Annex. Where the waste water is treated to a level suitable for reuse in
+agricultural irrigation, the required risk management actions to avoid
+adverse environmental impacts have been defined and implemented (  212  ). 
+(4) Transition to a circular economy  N/A  
+(5) Pollution prevention and control  Discharges to receiving waters meet the requirements laid down in 
+Directive 91/271/EEC or as required by national provisions stating
+maximum permissible pollutant levels from discharges to receiving waters.
+Appropriate measures have been implemented to avoid and mitigate
+excessive storm water overflows from the waste water collection system,
+which may include nature-based solutions, separate storm water collection
+systems, retention tanks and treatment of the first flush.
+Sewage sludge is used in accordance with Directive 86/278/EEC or as
+required by national law relating to the spreading of sludge on the soil
+or any other application of sludge on and in the soil.  
+(6) Protection and restoration of
+biodiversity and ecosystems  The activity complies with the criteria set out in Appendix D to this 
+Annex.  
+___________  
+( 212  ) As set out in Annex II to Regulation (EU) 2020/741 of the European Parliament and of the Council of 25May 2020 on minimum 
+requirements for water reuse (OJ L 177, 5.6.2020, p. 32).EN  L 442/94 Official Journal of the European Union 9.12.2021
+
+--- Page 95 of 349 ---

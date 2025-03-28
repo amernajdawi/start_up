@@ -1,0 +1,45 @@
+File Name: 1_2023-06-27_DelVO_2023_2486_TAXURA_EU.pdf
+Converted on: 2025-03-28 03:20:36
+Original Size: 8.44 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 196 of 199
+--------------------------------------------------------------------------------
+
+--- Page 147 of 164 ---
+
+ELI: http://data.europa.eu/eli/reg_del/2023/2486/oj 147/164(q) in Section 1.2.2.2, the first paragraph is replaced by the following:
+‘The green ratio for assets under management shall be the proportion of assets under management (equity, debt
+instruments and real estate) from undertakings financing Taxonomy-aligned economic activities, compared to
+total assets under management (equity, debt instruments and other assets). This shall include disclosures of
+stock and flow, for all the environmental objectives. For climate change mitigation, this shall also include
+disclosures of which are enabling and transitional activities. For other environmental objectives, this shall
+include disclosures of which are enabling activities.’;
+(r) in Section 1.2.3, second and third paragraphs, the words ‘Implementing Regulation (EU) 680/2014’ are replaced by the words ‘Implementing Regulation (EU) 2021/451’;
+(s) in Annex V, the words ‘equity holdings’ are replaced by the words ‘equity instruments’;
+(6) in Annex VII, Section 2.4, the following paragraph is inserted after the fifth paragraph:
+‘By way of derogation from the second and third subparagraph of this point 2.4, investments in real estate shall be included in the numerator to the extent and proportion in which they finance Taxonomy-aligned economic
+activities.’;
+(7) in Annex IX, the sixth paragraph of point 1 is replaced by the following paragraph:
+‘By way of derogation from the first and fifth paragraph of this point 1, debt securities with the purpose of financing
+specific identified activities or projects or environmentally sustainable bonds issued by an investee undertaking shall
+be included in the numerator up to the value of Taxonomy-aligned economic activities that the proceeds of those
+bonds and debt securities finance, on the basis of information provided by the investee undertaking.’;
+(8) in Annex IX, the following paragraph is added at the end of point 1:
+‘By way of derogation from the first and fifth paragraphs of this point 1, investments in real estate shall be included
+in the numerator to the extent and proportion in which they finance Taxonomy-aligned economic activities.’;
+(9) in Annex IX, the first paragraph of Section 2 is replaced by the following:
+‘Insurance and reinsurance undertakings other than life insurance undertakings shall calculate the KPI related to
+underwriting activities and present the “gross premiums written” non-life insurance revenue or, as applicable,
+reinsurance revenue corresponding to Taxonomy-aligned insurance or reinsurance activities in accordance with
+points 10.1 and 10.2 of Annex II to Climate Delegated Act. The KPI shall be depicted in percentage terms relative
+to, as applicable, one of the following:
+(a) total non-life insurance gross premiums written;
+(b) total non-life reinsurance gross premiums written;
+(c) total non-life insurance revenue;
+(d) total non-life reinsurance revenue.’;
+(10) in Annex X, the first template is replaced by the following template:OJ L, 21.11.2023 EN  
+
+--- Page 148 of 164 ---

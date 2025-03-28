@@ -1,0 +1,41 @@
+File Name: 2_E1-6_2011-09-01_G_GHG-PLC_WRI&WBCSD.pdf
+Converted on: 2025-03-28 01:56:27
+Original Size: 3.27 MB
+Chunk Size: 400 tokens with 50 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 233 of 270
+--------------------------------------------------------------------------------
+
+IPCC guidelines to ensure accurate and up-to-date accounting
+of land use and land-use change emissions.  However, it is 
+important to note that while the IPCC guidelines have useful and
+comprehensive information, their focus is on national inventories
+and therefore some details are not applicable.2 It is recognized that a change in carbon stock can result in either a
+removal or emission of carbon from or to the atmosphere. However,
+because this standard accounts for the GHG inventory of a product,
+it is more likely that the use of biomass (and not the planting or
+re-growth of biomass) will results in GHG emissions than removals.
+Growing biomass to create a GHG credit is not attributable to a
+product following this standard methodology. However in some
+cases, such as a carbon stock change from till to no-till crop rotation)
+or use of degraded lands, a company may see a net positive land-use
+change impact (e.g., more removal than emissions).
+3 This refers only to biomass burning, liming, and other practices
+used to prepare converted land.  Biomass burning and fertilizer 
+application due to agricultural and forestry practices are also
+included in the inventory as attributable processes, separate from
+land-use change impacts.  
+4 IPCC, 2006 IPCC Guidelines for National Greenhouse Gas
+Inventories, vol.4, Agriculture, Forestry and Other Land Use,
+eds. H.S. Eggleston, L. Buendia, K. Miwa, T. Ngara and K. Tanabe
+(Hayama, Japan: IGES,2006).
+5 IPCC, 2006 IPCC Guidelines for National Greenhouse Gas
+Inventories, vol.4, Agriculture, Forestry and Other Land Use,
+eds. H.S. Eggleston, L. Buendia, K. Miwa, T. Ngara and K. Tanabe
+(Hayama, Japan: IGES,2006).
+6 The 2006 IPCC guidelines give values for forest land above and
+below a certain density of biomass. If the removal of biomass does
+not cause a change in carbon stock value, then land-use change
+impacts may be calculated as zero.

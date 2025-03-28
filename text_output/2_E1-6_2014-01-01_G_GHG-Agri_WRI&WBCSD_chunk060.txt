@@ -1,0 +1,102 @@
+File Name: 2_E1-6_2014-01-01_G_GHG-Agri_WRI&WBCSD.pdf
+Converted on: 2025-03-28 03:20:54
+Original Size: 1.75 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 60 of 65
+--------------------------------------------------------------------------------
+
+95
+Tool Geographic focus Methodology Interface Uncertainty
+analysis
+Dia’terre  France Unknown Unknown Unknown  
+DNDC NUGGET  US Online interface to DNDC model Web-based  
+FarmGas   Australia Based on Australian nati onal inventory - combination of 
+country-specific and IPCC me thodologies and emission
+factors.  Web-based  
+Farming enterprise Greenhouse
+Gas Emissions Calculator  Australia Combination of SOCRATE S, IPCC and Australia national 
+inventory emission factors Web-based  
+Field to Market Fieldprint
+Calculator  US Based on methodologies in  academic literature. Only 
+outputs intensity metrics (per acre), so not useful for farm-
+level accounting Web-based  
+Full Carbon Accounting Model
+(FullCAM)  Australa Based on Australian national inventory - combination of 
+country-specific and IPCC me thodologies and emission
+factors. Software
+application  
+Greenhouse in Agriculture tools
+for Dairy, Sheep, Beef or Grain
+Farms  Australia Emission factors from Australia’s national inventory 
+practices Excel-based  
+Holos  Canada Methodology is IPCC, but customized to Canada Software 
+application   
+Illinois Farm Sustainability
+Calculator  US - Illinois  Excel-based  
+International Wine Carbon
+Calculator  International Tier 1 emission factors and academic literature Excel-based  
+Live Swine Carbon Footprint
+Calculator  US Unknown Software 
+application  
+Livestock Analysis Model  US Specific to cattle and buffalo Software 
+application  
+Manure and Nutrient Reduction
+Estimator (MANURE) TOOL  US IPCC methodology and emission factors from IPCC, EPA, 
+and USDA Web-based  
+OVERSEER  New Zealand Emission factors from New Zealand’s national inventory 
+practices Web-based  and 
+software  
+
+--- Page 96 of 103 ---
+
+GHG Protocol Agricultural Guidance
+
+96
+Tool Geographic focus Methodology Interface Uncertainty
+analysis
+applications
+US Cropland Greenhouse Gas
+Calculator For Farm Systems   US (but applicable to 
+temperate region soils worldwide) Limited to corn, soybean, sw itchgrass, alfalfa and corn
+silage. Based on SOCRATES (for soil carbon) and  IPCC emission factors (for other sources) Web-based  
+General catalogues of calculation methodologies
+1605(b). Technical Guidelines for
+the Voluntary Reporting of
+Greenhouse Gases Program   US Combination of emission factors, process models, direct 
+measurement and hybrid approaches N/A  
+IPCC. 2006 Intergovernmental
+Panel on Climate Change
+Guidelines on National
+Inventories  Global Three tiers of methods ou tlined. Tier 1 emission factors 
+provided for wide range of sources (see Box XX)    
+1, Based on Colomb et al. (2013), Denef et al. (2012), and additional research.
+ 2, The 2006 IPCC Guidelines are implemented in software available at: http ://www.ipcc-nggip.iges .or.jp/software/in dex.html. This s oftware is not  
+ recommended for use by farm managers.  
+
+--- Page 97 of 103 ---
+
+GHG Protocol Agricultural Guidance
+
+97
+
+Abbreviations
+
+C  Carbon CH
+4  Methane 
+CO 2  Carbon dioxide 
+DOM  Dead organic matter GHG  Greenhouse gas HFCs  Hydrofluorocarbons 
+HWPs  Harvested woody products 
+LUC  Land use change N  Nitrogen N
+2O  Nitrous oxide  
+SF6  Sulfur hexaflouride  
+PFCs  Perfluorocarbons  
+
+--- Page 98 of 103 ---
+
+GHG Protocol Agricultural Guidance
+
+98
+Glossary

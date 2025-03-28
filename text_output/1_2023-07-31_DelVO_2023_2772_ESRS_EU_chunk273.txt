@@ -1,0 +1,51 @@
+File Name: 1_2023-07-31_DelVO_2023_2772_ESRS_EU.pdf
+Converted on: 2025-03-28 03:20:41
+Original Size: 5.82 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 273 of 284
+--------------------------------------------------------------------------------
+
+ELI: http://data.europa.eu/eli/reg_del/2023/2772/oj 273/284Metrics Qualitative and quantitative indicators that the undertaking uses to measure
+and report on the effectiveness of the delivery of its sustainability-related
+policies and against its targets over time. Metrics also support the
+measurement of the undertaking’s results in respect of affected people, the environment and the undertaking.
+Microplastics Small pieces of plastics, usually smaller than 5mm. A growing volume of
+microplastics is found in the environment, including the sea, and in food
+and drinking water. Once in the environment, microplastics do not
+biodegrade and tend to accumulate, unless they are specifically designed to
+biodegrade in the open environment. Biodegradability is a complex
+phenomenon, especially in the marine environment. There are increasing
+concerns about the presence of microplastics in different environment
+compartments (such as water), their impact on the environment and potentially human health.
+Minimum Disclosure Requirement A minimum disclosure requirement sets the required content of the
+information that the undertaking includes when it reports on policies, actions, metrics or targets, either pursuant to a Disclosure Requirement in
+an ESRS or on an entity-specific basis.
+Natural resources Natural assets (raw materials) occurring in nature that can be used for
+economic production or consumption.
+Nature-based solutions Actions to protect, conserve, restore, sustainably use and manage natural or
+modified terrestrial, freshwater , coastal and marine ecosystems which
+address social, economic and environmental challenges effectively and
+adaptively, while simultaneously providing human well-being, ecosystem
+services, resilience and biodiversity benefits.
+Net-zero target Setting a net-zero target at the level of an undertaking aligned with meeting
+societal climate goals means:
+i.achieving a scale of value chain emissions reductions consistent with the
+abatement required to reach global net-zero in 1.5°C pathways; and
+ii.neutralizing the impact of any residual emissions (after approximately
+90-95% of GHG emission reduction with the possibility for justified
+sectoral variations in line with a recognized sectoral pathway) by permanently removing an equivalent volume of CO2.
+Non-employees Non-employees in an undertaking’s own workforce include both individual
+contractors supplying labour to the undertaking (“self-employed people”) and people provided by undertakings primarily engaged in “employment
+activities” (NACE Code N78).
+Non-renewable energy Energy which cannot be identified as being derived from renewable sources.
+Operational control Operational control (over an entity, site, operation or asset) is the situation
+where the undertaking has the ability to direct the operational activities and
+relationships of the entity, site, operation or asset.
+Opportunities Sustainability-related opportunities with positive financial effects.
+Overtime The number of hours actually worked by a worker in excess of his or her
+contractual hours of work.OJ L, 22.12.2023 EN  
+
+--- Page 274 of 284 ---

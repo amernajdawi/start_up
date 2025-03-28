@@ -1,0 +1,24 @@
+File Name: 1_2021-06-04_DelVO_2021_2139_TAXKRA_EU.pdf
+Converted on: 2025-03-28 03:20:30
+Original Size: 2.76 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 34 of 447
+--------------------------------------------------------------------------------
+
+4.11. Storage of thermal energy . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  . . . . . . . . . . . . . . 76  
+4.12. Storage of hydrogen . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  . . . . . . . . . . . . . . . 77  
+4.13. Manufacture of biogas and biofuels for use in transport and of bioliquids . . . . . . . . . . . . . . . . . . . . . . . .  . . . 77  
+4.14. Transmission and distribution networks for renewable and low-carbon gases . . . . . . . . . . . . . . . . . . . . . . . .  . 79  
+4.15. District heating/cooling distribution . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  . . . . . . . . . . . . . 79  
+4.16. Installation and operation of electric heat pumps . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  . . . . . . . . . 80  
+4.17. Cogeneration of heat/cool and power from solar energy . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  . . . . . . 81  
+4.18. Cogeneration of heat/cool and power from geothermal energy . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 82  
+4.19. Cogeneration of heat/cool and power from renewable non-fossil gaseous and liquid fuels . . . . . . . . . . . . . . . 83  
+4.20. Cogeneration of heat/cool and power from bioenergy . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 84  
+4.21. Production of heat/cool from solar thermal heating . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 85  
+4.22. Production of heat/cool from geothermal energy . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 86  
+4.23. Production of heat/cool from renewable non-fossil gaseous and liquid fuels . . . . . . . . . . . . . . . . . . . . . . . . . . 87  
+4.24. Production of heat/cool from bioenergy . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 88

@@ -1,0 +1,56 @@
+File Name: 1_2023-07-31_DelVO_2023_2772_ESRS_EU.pdf
+Converted on: 2025-03-28 03:20:41
+Original Size: 5.82 MB
+Chunk Size: 800 tokens with 100 tokens overlap
+Table Detection: Enabled
+--------------------------------------------------------------------------------
+
+Chunk: 116 of 284
+--------------------------------------------------------------------------------
+
+ELI: http://data.europa.eu/eli/reg_del/2023/2772/oj 117/284Appendix A
+Application Requirements
+This Appendix is an integral part of ESRS E2. It supports the application of the disclosure requirements set out in this
+standard and has the same authority as the other parts of the Standard.
+ESRS 2 GENERAL DISCLOSURES
+Impact, risk and opportunity management
+Disclosure Requirement related to ESRS 2 IRO-1 – Description of the processes to identify and assess material
+pollution-related impacts, risks and opportunities
+AR 1. When conducting a materiality assessment on environmental subtopics, the undertaking shall assess the
+materiality of pollution in its own operations and its upstream and downstream value chain, and may consider
+the four phases below, also known as the LEAP approach:
+(a) Phase 1: locate where in its own operations and its upstream and downstream value chain the interface with
+nature takes place;
+(b) Phase 2: evaluate the pollution-related dependencies and impacts;
+(c) Phase 3: assess the material risks and opportunities; and
+(d) Phase 4: prepare and report the results of the materiality assessment.
+AR 2. The materiality assessment for ESRS E2 corresponds to the first three phases of this LEAP approach. The fourth
+phase addresses the outcome of the process.
+AR 3. The process to assess the materiality of impacts, dependencies, risks and opportunities shall consider the
+provisions in ESRS 2 IRO-1 Description of the processes to identify and assess material impacts, risks and opportunities,
+and IRO-2 Disclosure Requirements in ESRS covered by the undertaking’s sustainability statement.
+AR 4. The sub-topics covered by the materiality assessment under ESRS E2 include:
+(a) pollution of air, water and soil (excluding GHG emissions and waste), microplastics, and substances of
+concern;
+(b) dependencies on ecosystem services that help to mitigate pollution-related impacts.
+AR 5. In Phase 1, to locate where in its own operations and its upstream and downstream value chain the interface with
+nature takes place, the undertaking may consider:
+(a) the site locations of direct assets and operations and related upstream and downstream activities across the
+value chain;
+(b) the site locations where emissions of water, soil and air pollutants occur; and
+(c) the sectors or business units related to those emissions or to the production, use, distribution, commercia ­
+lisation and import/export of microplastics, substances of concern
+, and substances of very high concern, on
+their own, in mixtures or in articles.
+AR 6. Phase 2 relates to the evaluation of the undertaking’s impacts and dependencies for each material site
+or sector/business unit including by assessing the severity and likelihood of impacts on the environment and
+human health.
+AR 7. In Phase 3, to assess its material risks and opportunities based on the results of Phases 1 and 2, the undertaking
+may :
+(a) identify transition risks and opportunities in its own operations and its upstream and downstream value
+chain by the categories of:
+i. policy and legal: e.g., introduction of regulation, exposure to sanctions and litigation (e.g., negligence
+towards ecosystems
+), enhanced reporting obligations;OJ L, 22.12.2023 EN  
+
+--- Page 118 of 284 ---
