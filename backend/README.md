@@ -1,117 +1,54 @@
-# Regulatory Query System Backend
+# Backend for AI Chat Assistant
 
-This backend provides an API for querying regulatory documents using AI-powered semantic search. It uses OpenAI embeddings to vectorize document chunks and FAISS for efficient similarity search.
+This is a lightweight backend that provides a direct connection between the frontend and OpenAI's API.
+
+## Features
+
+- Simple FastAPI app that forwards requests to OpenAI
+- Poetry for dependency management
+- Docker support for easy deployment
+- Async API for improved performance
 
 ## Setup
 
+### Using Poetry (Recommended)
+
+```bash
+# Install Poetry (if needed)
+pip install poetry
+
+# Install dependencies
+poetry install
+
+# Run the server
+poetry run uvicorn app:app --reload
+```
+
 ### Environment Variables
 
-Create a `.env` file with the following variables:
+Create a `.env` file in the root directory with:
 
 ```
-OPENAI_API_KEY=your_openai_api_key
+OPENAI_API_KEY=your-api-key-here
 OPENAI_MODEL=gpt-4o-mini
-PORT=8000
-```
-
-### Installation
-
-#### With Python (Local Development)
-
-1. Create a virtual environment:
-```bash
-python -m venv venv
-source venv/bin/activate  # On Windows: venv\Scripts\activate
-```
-
-2. Install dependencies:
-```bash
-pip install -r requirements.txt
-```
-
-3. Run the application:
-```bash
-uvicorn fastapi_app:app --reload
-```
-
-#### With Docker
-
-1. Build the Docker image:
-```bash
-docker build -t regulatory-query-backend .
-```
-
-2. Run the container:
-```bash
-docker run -p 8000:8000 --env-file .env -v $(pwd)/data:/app/data -v $(pwd)/vector_db:/app/vector_db regulatory-query-backend
 ```
 
 ## API Endpoints
 
-### Health Check
-- `GET /health`
-  - Returns the health status of the application and whether the vector database is initialized.
+- `GET /health` - Health check endpoint
+- `POST /api/chat` - Chat endpoint that forwards messages to OpenAI
 
-### PDF Processing Status
-- `GET /process-status`
-  - Returns the status of PDF processing.
+## Docker
 
-### Upload PDFs
-- `POST /upload-pdf`
-  - Uploads PDFs for processing.
-  - Body: `multipart/form-data` with PDF files.
+The backend can be built and run as a Docker container:
 
-### Query Regulatory Documents
-- `POST /query`
-  - Queries the regulatory documents.
-  - Body:
-    ```json
-    {
-        "query": "What are the requirements for sustainability reporting?",
-        "max_results": 5,
-        "max_tokens": 2000
-    }
-    ```
-
-### Chat Interface
-- `POST /chat`
-  - Compatible with the previous chat interface.
-  - Body:
-    ```json
-    {
-        "messages": [
-            {
-                "role": "user",
-                "content": "What are the requirements for sustainability reporting?"
-            }
-        ]
-    }
-    ```
-
-## Directory Structure
-
-- `fastapi_app.py`: Main FastAPI application
-- `pdf_processor_openai.py`: PDF processing and embedding generation
-- `query_engine_openai.py`: Query engine using FAISS and OpenAI
-- `requirements.txt`: Python dependencies
-- `Dockerfile`: Docker configuration
-- `run.sh`: Shell script to run the application
-
-## PDF Naming Convention
-
-The system extracts metadata from PDF filenames following this convention:
-```
-{hierarchy}_{date}_{document_type}_{designation}_{abbreviation}_{publisher}.pdf
+```bash
+docker build -t ai-chat-backend .
+docker run -p 8000:8000 --env-file ../.env ai-chat-backend
 ```
 
-Example:
-```
-1_2023-07-31_DelVO_2023/2772_ESRS_EU.pdf
-```
+Or preferably, use Docker Compose from the project root:
 
-## Development Notes
-
-- The system uses OpenAI embeddings for document vectorization.
-- FAISS is used for efficient similarity search.
-- The system processes PDFs in batches to manage memory usage.
-- The vector database is persisted to disk for reuse. 
+```bash
+docker-compose up --build
+``` 

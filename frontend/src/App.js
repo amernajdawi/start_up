@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from 'react';
 import styled from 'styled-components';
-import { FiSun, FiMoon, FiSettings } from 'react-icons/fi';
+import { FiSun, FiMoon, FiSettings, FiMessageSquare } from 'react-icons/fi';
 import ChatWindow from './components/ChatWindow';
 import ChatInput from './components/ChatInput';
 import SettingsPanel from './components/SettingsPanel';
@@ -23,6 +23,8 @@ const Header = styled.header`
   justify-content: space-between;
   align-items: center;
   margin-bottom: 1.5rem;
+  position: relative;
+  z-index: 10;
 `;
 
 const Logo = styled.div`
@@ -32,22 +34,43 @@ const Logo = styled.div`
   
   h1 {
     font-size: 1.5rem;
-    font-weight: 600;
-    color: var(--primary-color);
+    font-weight: 700;
+    letter-spacing: -0.02em;
     
     @media (min-width: 768px) {
       font-size: 1.8rem;
     }
+    
+    span {
+      font-weight: 600;
+    }
   }
   
-  span {
-    color: var(--text-secondary);
-    font-size: 0.8rem;
-    background: var(--surface-color);
-    padding: 0.2rem 0.5rem;
+  .logo-icon {
+    width: 2.5rem;
+    height: 2.5rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: linear-gradient(135deg, var(--primary-color), var(--primary-dark));
+    color: var(--text-on-primary);
     border-radius: 12px;
-    font-weight: 500;
+    font-size: 1.4rem;
+    box-shadow: var(--shadow);
   }
+`;
+
+const ModelBadge = styled.span`
+  color: var(--text-secondary);
+  font-size: 0.8rem;
+  background: var(--surface-color);
+  padding: 0.2rem 0.6rem;
+  border-radius: 12px;
+  font-weight: 500;
+  margin-left: 0.5rem;
+  border: 1px solid var(--border-color);
+  vertical-align: middle;
+  box-shadow: var(--shadow);
 `;
 
 const Controls = styled.div`
@@ -58,7 +81,7 @@ const Controls = styled.div`
 const IconButton = styled.button`
   background: var(--surface-color);
   border: none;
-  border-radius: 50%;
+  border-radius: 12px;
   width: 40px;
   height: 40px;
   display: flex;
@@ -68,11 +91,12 @@ const IconButton = styled.button`
   color: var(--text-primary);
   font-size: 1.2rem;
   box-shadow: var(--shadow);
-  transition: all 0.2s ease;
+  transition: var(--transition);
   
   &:hover {
     transform: translateY(-2px);
-    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+    box-shadow: var(--shadow-lg);
+    color: var(--primary-color);
   }
   
   &:active {
@@ -86,8 +110,24 @@ const Main = styled.main`
   flex-direction: column;
   overflow: hidden;
   background: var(--surface-color);
-  border-radius: 12px;
-  box-shadow: var(--shadow);
+  border-radius: var(--border-radius);
+  box-shadow: var(--shadow-lg);
+  border: 1px solid var(--border-color);
+  position: relative;
+`;
+
+const BackgroundGradient = styled.div`
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  height: 30vh;
+  background: linear-gradient(to bottom right, 
+    ${props => props.darkMode ? 'rgba(79, 70, 229, 0.1)' : 'rgba(99, 102, 241, 0.1)'}, 
+    ${props => props.darkMode ? 'rgba(16, 185, 129, 0.05)' : 'rgba(16, 185, 129, 0.05)'}
+  );
+  z-index: -1;
+  pointer-events: none;
 `;
 
 function App() {
@@ -174,10 +214,17 @@ function App() {
 
     return (
         <AppContainer>
+            <BackgroundGradient darkMode={darkMode} />
+
             <Header>
                 <Logo>
-                    <h1>AI Chat Assistant</h1>
-                    <span>{settings.modelName}</span>
+                    <div className="logo-icon">
+                        <FiMessageSquare />
+                    </div>
+                    <h1>
+                        <span className="text-gradient">AI Chat</span> Assistant
+                        <ModelBadge>{settings.modelName}</ModelBadge>
+                    </h1>
                 </Logo>
                 <Controls>
                     <IconButton

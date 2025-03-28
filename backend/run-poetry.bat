@@ -1,0 +1,13 @@
+@echo off
+echo Installing Poetry (if not already installed)...
+pip install poetry
+
+echo Setting up the Poetry environment...
+poetry install
+
+echo Setting environment variables...
+set OPENAI_API_KEY=your_openai_api_key_here
+set OPENAI_MODEL=gpt-4o-mini
+
+echo Starting the FastAPI server...
+poetry run uvicorn app:app --host 0.0.0.0 --port 8000 

@@ -3,26 +3,27 @@ FROM python:3.10-slim
 WORKDIR /app
 
 # Install system dependencies
-RUN apt-get update && apt-get install -y \
-    build-essential \
-    libssl-dev \
-    && rm -rf /var/lib/apt/lists/*
+RUN apt-get update && \
+    apt-get install -y build-essential libffi-dev && \
+    rm -rf /var/lib/apt/lists/*
 
-# Copy requirements file
-COPY requirements.txt .
+# Install Poetry
+RUN pip install poetry
 
-# Install Python dependencies
-RUN pip install --no-cache-dir -r requirements.txt
+# Copy Poetry configuration
+COPY pyproject.toml poetry.lock* ./
 
-# Copy the backend code
+# Configure Poetry to not use virtualenvs inside Docker
+RUN poetry config virtualenvs.create false
+
+# Install dependencies (without dev dependencies and without trying to install the current project)
+RUN poetry install --without dev --no-root
+
+# Copy the application code
 COPY . .
 
-# Set environment variables
-ENV PYTHONPATH=/app
-ENV PORT=8000
-
-# Expose the port
+# Expose port
 EXPOSE 8000
 
 # Command to run the application
-CMD ["uvicorn", "fastapi_app:app", "--host", "0.0.0.0", "--port", "8000"] 
+CMD ["uvicorn", "app:app", "--host", "0.0.0.0", "--port", "8000"] 
